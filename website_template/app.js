@@ -89,6 +89,32 @@ function filterListings() {
     && (!$('rentalType').value||l.rental_type===$('rentalType').value)
     && (!$('outside').checked||outsideCoverage(l,radius)));
 }
+function exploreFiltersActive() {
+  const controls=[...document.querySelectorAll('#filters input,#filters select')].filter(control=>!control.disabled);
+  return Boolean(selectedHost||selectedPartyCombo||selectedPartyRequireCapacity)||controls.some(control=>{
+    if(control.type==='checkbox'||control.type==='radio')return control.checked!==control.defaultChecked;
+    if(control.tagName==='SELECT')return control.selectedIndex!==0;
+    return control.value!==control.defaultValue;
+  });
+}
+function updateExploreClearButton() {
+  const button=$('clearExploreFilters');
+  if(!button)return;
+  const active=exploreFiltersActive();
+  button.hidden=!active;
+  button.classList.toggle('filter-attention',active);
+  button.setAttribute('aria-pressed',String(active));
+}
+function resetExploreFilters() {
+  for(const control of document.querySelectorAll('#filters input')){
+    if(control.type==='checkbox')control.checked=control.defaultChecked;
+    else control.value=control.defaultValue;
+  }
+  for(const control of document.querySelectorAll('#filters select'))control.selectedIndex=0;
+  selectedHost='';selectedHostMetric='';selectedPartyCombo='';selectedPartyRequireCapacity=false;
+  $('hostSearch').value='';
+  update();
+}
 function markerColor(l) {
   if(l.license_status==='expired') return '#facc15';
   if(l.license_status==='current') return '#22c55e';
@@ -110,6 +136,7 @@ function updatePrivacy() {
 
 function update() {
   if(!map?.getSource('listings')) return;
+  updateExploreClearButton();
   visible=filterListings();
   activeListingPointIndex=selectedHost?listingPointIndex(visible):null;
   sourceData('listings',collection(visible.map(listingFeature)));
@@ -191,6 +218,7 @@ function updateHosts() {
       }
       const comboRow=document.createElement('div');comboRow.className='host-combos';
       const capacityLabel=document.createElement('label');capacityLabel.className='host-capacity-filter';const capacityToggle=document.createElement('input');capacityToggle.type='checkbox';capacityToggle.checked=selectedPartyRequireCapacity;capacityToggle.onchange=()=>{selectedPartyRequireCapacity=capacityToggle.checked;update();};capacityLabel.append(capacityToggle,document.createTextNode('Require over capacity'));comboRow.append(capacityLabel);
+      const largeCapacityLabel=document.createElement('label');largeCapacityLabel.className='host-capacity-filter';const largeCapacityToggle=document.createElement('input');largeCapacityToggle.type='checkbox';largeCapacityToggle.checked=$('includeLargeOverCapacity').checked;largeCapacityToggle.onchange=()=>{$('includeLargeOverCapacity').checked=largeCapacityToggle.checked;update();};largeCapacityLabel.append(largeCapacityToggle,document.createTextNode('Include >5-bedroom over-capacity listings'));comboRow.append(largeCapacityLabel);
       for(const [combo,count] of [...combinations].sort((a,b)=>a[0].localeCompare(b[0]))) {
         const button=document.createElement('button');button.type='button';button.className='host-combo'+(selectedHostMetric==='combo'&&selectedPartyCombo===combo?' selected':'');
         button.textContent=`${combo.split('|').map(key=>icons[key]).join(' ')} ${count}`;
@@ -199,7 +227,7 @@ function updateHosts() {
         button.onclick=()=>{selectedHost=key;selectedHostMetric='combo';selectedPartyCombo=combo;$('partyOnly').checked=true;update();fitVisible();};
         comboRow.append(button);
       }
-      if(combinations.size)$('hosts').append(comboRow);
+      if(combinations.size||selectedHostMetric==='party')$('hosts').append(comboRow);
     }
   }
 }
@@ -258,24 +286,25 @@ function setupAppearanceAndDisclaimer() {
   if(!dismissed)disclaimer.showModal();
 }
 function setupResponsivePanels() {
-  const filters=$('filters'),hosts=document.querySelector('.hosts'),toggle=$('toggleFilters');
+  const wrapper=$('mobilePanels'),filters=$('filters'),hosts=document.querySelector('.hosts'),details=hosts.querySelector('details'),toggle=$('toggleFilters');
   let wasMobile=null;
   const sync=()=>{
     const mobile=matchMedia('(max-width: 700px)').matches;
-    if(mobile===wasMobile)return;
-    if(mobile){filters.classList.add('collapsed');hosts.querySelector('details').open=false;}
-    else filters.classList.remove('collapsed');
+    if(mobile!==wasMobile){
+      if(mobile){filters.classList.add('collapsed');details.open=false;}
+      else filters.classList.remove('collapsed');
+      wasMobile=mobile;
+    }
+    wrapper.classList.toggle('panel-expanded',mobile&&(!filters.classList.contains('collapsed')||details.open));
     toggle.textContent=filters.classList.contains('collapsed')?'Show':'Hide';
     toggle.setAttribute('aria-expanded',String(!filters.classList.contains('collapsed')));
-    hosts.classList.toggle('mobile-away',mobile&&!filters.classList.contains('collapsed'));
-    wasMobile=mobile;
   };
   toggle.onclick=()=>{
-    filters.classList.toggle('collapsed');
-    toggle.textContent=filters.classList.contains('collapsed')?'Show':'Hide';
-    toggle.setAttribute('aria-expanded',String(!filters.classList.contains('collapsed')));
-    hosts.classList.toggle('mobile-away',matchMedia('(max-width: 700px)').matches&&!filters.classList.contains('collapsed'));
+    if(filters.classList.contains('collapsed')){details.open=false;filters.classList.remove('collapsed');}
+    else filters.classList.add('collapsed');
+    sync();
   };
+  details.addEventListener('toggle',()=>{if(matchMedia('(max-width: 700px)').matches&&details.open)filters.classList.add('collapsed');sync();});
   window.addEventListener('resize',sync);sync();
 }
 function showNearbyPermitListings(permit, container) {
@@ -297,7 +326,7 @@ function showListing(l, nearbyPermit=null) {
   selectedListing=l;updatePrivacy();
   const privacy=l.privacy_radius_meters===null?'Unknown':`${l.privacy_radius_meters} m`;
   const listingSource=`<a href="${esc(l.url)}" target="_blank" rel="noopener">Airbnb.com listing</a>`;
-  let html=`<h3>${esc(l.title||'Airbnb listing')}</h3><span class="badge ${esc(communityStatus(l))}">${esc(communityStatusNames[communityStatus(l)])}</span><p><a href="${esc(l.url)}" target="_blank" rel="noopener">Open Airbnb listing ↗</a></p><p><b>Host:</b> <button type="button" class="popup-host-select" data-select-host>${esc(l.host_name||'Unknown')}</button><br><b>Guests:</b> ${esc(l.guests??'Unknown')} · <b>Bedrooms:</b> ${esc(l.bedrooms??'Unknown')}<br><b>Capacity:</b> ${esc(l.allowed_guests??"Unknown (bedrooms missing)")} guests${overCapacityFlag(l)?`<br><b>Over capacity:</b> ${esc(l.over_capacity)} guests`:''}<br><b>Airbnb privacy radius:</b> ${esc(privacy)}<br><b>Approximate location:</b> ${esc(l.approximate_address||l.location_name||'Unknown')}</p>`;
+  let html=`<h3>${esc(l.title||'Airbnb listing')}</h3><span class="badge ${esc(communityStatus(l))}">${esc(communityStatusNames[communityStatus(l)])}</span><p><a href="${esc(l.url)}" target="_blank" rel="noopener">Open Airbnb listing ↗</a></p><p><b>Host:</b> <button type="button" class="popup-host-select" data-select-host>${esc(l.host_name||'Unknown')}</button><br><b>Guests:</b> ${esc(l.guests??'Unknown')} · <b>Bedrooms:</b> ${esc(l.bedrooms??'Unknown')}<br><b>Capacity:</b> ${esc(l.allowed_guests??"Unknown (bedrooms missing)")} guests${overCapacityFlag(l)?`<br><b>Over capacity:</b> <a href="https://www.nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements" target="_blank" rel="noopener">${esc(l.over_capacity)} guests · Nashville rules ↗</a>`:''}<br><b>Airbnb privacy radius:</b> ${esc(privacy)}<br><b>Approximate location:</b> ${esc(l.approximate_address||l.location_name||'Unknown')}</p>`;
   const detectedCount=Number(l.detected_permit_count??detectedPermitList(l).length);
   const dualCapacity=Boolean(l.dual_license_capacity)||detectedCount===2;
   const titleMentionsTwo=/\btwo\b/i.test(l.title||'');
@@ -443,8 +472,9 @@ async function init() {
     map=new maplibregl.Map({container:'map',center:[-86.7816,36.1627],zoom:11,style:{version:8,glyphs:'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',sources:{osm:{type:'raster',tiles:['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],tileSize:256,attribution:'© OpenStreetMap contributors'}},layers:[{id:'basemap',type:'raster',source:'osm'}]}});
     map.addControl(new maplibregl.NavigationControl(),'top-right');map.addControl(new maplibregl.ScaleControl());
     map.on('load',addSourcesAndLayers);
-    for(const el of document.querySelectorAll('#filters input,#filters select'))el.addEventListener(el.type==='search'?'input':'change',()=>{clearTimeout(refreshTimer);refreshTimer=setTimeout(update,el.type==='search'?180:0);});
+    for(const el of document.querySelectorAll('#filters input,#filters select'))el.addEventListener(el.type==='search'?'input':'change',()=>{updateExploreClearButton();clearTimeout(refreshTimer);refreshTimer=setTimeout(update,el.type==='search'?180:0);});
     setupResponsivePanels();
+    $('clearExploreFilters').onclick=resetExploreFilters;
     $('hostSearch').addEventListener('input',updateHosts);
     $('clearHost').onclick=()=>{selectedHost='';selectedHostMetric='';selectedPartyCombo='';selectedPartyRequireCapacity=false;$('likely').checked=false;$('partyOnly').checked=false;update();};
     $('currentPermitCount').onclick=()=>$('otherPermitDialog').showModal();$('closeOtherPermits').onclick=()=>$('otherPermitDialog').close();
@@ -455,7 +485,7 @@ async function init() {
     $('closePartyDisclaimer').onclick=()=>$('partyDisclaimer').close();
     $('resetZoom').onclick=()=>map.flyTo({center:[-86.7816,36.1627],zoom:11});
     $('fitArea').onclick=()=>{if(!spatial.available)return;const b=new maplibregl.LngLatBounds();function visit(v){if(typeof v[0]==='number')b.extend(v);else v.forEach(visit);}spatial.boundary.features.forEach(f=>visit(f.geometry.coordinates));map.fitBounds(b,{padding:window.innerWidth>700?{left:330,right:65,top:40,bottom:45}:40});};
-    $('reset').onclick=()=>{for(const e of document.querySelectorAll('#filters input')){if(e.type==='checkbox')e.checked=e.defaultChecked;else e.value=e.defaultValue;}for(const e of document.querySelectorAll('#filters select'))e.selectedIndex=0;selectedHost='';selectedHostMetric='';selectedPartyCombo='';selectedPartyRequireCapacity=false;update();};
+    $('reset').onclick=resetExploreFilters;
     $('refresh').onclick=reloadData;
     Reporting.setup();
     scannerStatus();setInterval(scannerStatus,30000);
