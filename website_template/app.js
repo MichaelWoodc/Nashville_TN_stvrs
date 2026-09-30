@@ -4,13 +4,17 @@ const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;',
 const collection = features => ({type:'FeatureCollection', features});
 const feature = (geometry, properties={}) => ({type:'Feature', geometry, properties});
 const icons = {pool:'🩱',hot_tub:'👙',bar:'🍻',pool_table:'🎱',karaoke:'🎤',bachelor_party:'💍🤵🏻',bachelorette_party:'💍💐👰🏻‍♀️'};
+const customAmenityIcons = {dance_pole:'stripper.png'};
+const amenityIconHtml = key => customAmenityIcons[key]
+  ? `<img class="amenity-custom-icon" src="${customAmenityIcons[key]}" alt="">`
+  : esc(icons[key]||'');
 const communityStatusNames = {no_license_at_address:'Community submitted: no license at address',license_at_address:'Community submitted: license at address',undetermined:'Undetermined · not matched to address yet'};
 const ESTIMATED_STVR_FEE=313;
 let listings=[], permits=[], report, visible=[], selectedHost='', selectedHostMetric='', map, popup, emojiMarkers=[], refreshTimer;
 const permitGrid = new Map(), addressCache = new Map();
 let currentPermits=[], parcelManifest, addressRequest=0;
 let spatial={available:false}, balance=[], balanceKey=null;
-let selectedListing=null, hoveredPrivacyId=null, selectedPartyCombo='', selectedPartyRequireCapacity=false, pendingHostKey='';
+let selectedListing=null, hoveredPrivacyId=null, selectedPartyCombo='', selectedPartyRequireCapacity=false, selectedPartyCapacityFallback=false, pendingHostKey='';
 let licensedParcels=null, activeListingPointIndex=null;
 let hostSortKey='total',hostSortDirection='desc';
 const leeway = () => Number($('leeway').value);
@@ -64,7 +68,7 @@ function bindComplaintButton(container,address,point,listingUrl='') {
   container.querySelector('[data-complaint]')?.addEventListener('click',()=>openComplaint(address,point,listingUrl));
 }
 function amenityCombo(listing) {
-  return Object.keys(listing.amenities||{}).filter(key=>icons[key]).sort().join('|');
+  return Object.keys(listing.amenities||{}).filter(key=>icons[key]||customAmenityIcons[key]).sort().join('|');
 }
 function communityStatus(listing) {
   return communityStatusNames[listing.community_license_status] ? listing.community_license_status : 'undetermined';
@@ -76,18 +80,21 @@ function filterListings() {
   const query=$('search').value.trim().toLowerCase(), selected=[...document.querySelectorAll('.amenity:checked')].map(e=>e.value);
   const communityStatuses=[...document.querySelectorAll('.community-status:checked')].map(e=>e.value);
   const minimum=Number($('over').value), radius=Number($('radius').value);
-  return listings.filter(l=>l.point && (!query||l.search.includes(query)) && (!selectedHost||hostKey(l)===selectedHost)
+  const matching=requireCapacity=>listings.filter(l=>l.point && (!query||l.search.includes(query)) && (!selectedHost||hostKey(l)===selectedHost)
     && (!$('scopeOnly').checked||Spatial.inScope(l,edgeBuffer()))
     && (!$('likely').checked||likelyUnlicensed(l))
     && (!$('nearOnly').checked||(typeof l.nearest_licensed_parcel_m==='number'&&l.nearest_licensed_parcel_m<=9.144))
     && communityStatuses.includes(communityStatus(l))
     && (!minimum||(overCapacityFlag(l)&&l.over_capacity>=minimum))
     && (!$('partyOnly').checked||(l.party_house||overCapacityFlag(l)))
-    && (!selectedPartyRequireCapacity||(selectedHost&&['party','combo'].includes(selectedHostMetric)&&overCapacityFlag(l)))
+    && (!requireCapacity||(selectedHost&&['party','combo'].includes(selectedHostMetric)&&overCapacityFlag(l)))
     && (selectedHostMetric!=='combo'||amenityCombo(l)===selectedPartyCombo)
     && (!selected.length||($('allAmenities').checked?selected.every(k=>l.amenities[k]):selected.some(k=>l.amenities[k])))
     && (!$('rentalType').value||l.rental_type===$('rentalType').value)
     && (!$('outside').checked||outsideCoverage(l,radius)));
+  const filtered=matching(selectedPartyRequireCapacity);
+  selectedPartyCapacityFallback=Boolean(selectedPartyRequireCapacity&&filtered.length===0&&matching(false).length>0);
+  return selectedPartyCapacityFallback?matching(false):filtered;
 }
 function exploreFiltersActive() {
   const controls=[...document.querySelectorAll('#filters input,#filters select')].filter(control=>!control.disabled);
@@ -218,10 +225,11 @@ function updateHosts() {
       }
       const comboRow=document.createElement('div');comboRow.className='host-combos';
       const capacityLabel=document.createElement('label');capacityLabel.className='host-capacity-filter';const capacityToggle=document.createElement('input');capacityToggle.type='checkbox';capacityToggle.checked=selectedPartyRequireCapacity;capacityToggle.onchange=()=>{selectedPartyRequireCapacity=capacityToggle.checked;update();};capacityLabel.append(capacityToggle,document.createTextNode('Require over capacity'));comboRow.append(capacityLabel);
+      if(selectedPartyCapacityFallback){const note=document.createElement('p');note.className='host-capacity-note';note.textContent='No over-capacity listings match this host and current filters; showing all matching results.';comboRow.append(note);}
       const largeCapacityLabel=document.createElement('label');largeCapacityLabel.className='host-capacity-filter';const largeCapacityToggle=document.createElement('input');largeCapacityToggle.type='checkbox';largeCapacityToggle.checked=$('includeLargeOverCapacity').checked;largeCapacityToggle.onchange=()=>{$('includeLargeOverCapacity').checked=largeCapacityToggle.checked;update();};largeCapacityLabel.append(largeCapacityToggle,document.createTextNode('Include >5-bedroom over-capacity listings'));comboRow.append(largeCapacityLabel);
       for(const [combo,count] of [...combinations].sort((a,b)=>a[0].localeCompare(b[0]))) {
         const button=document.createElement('button');button.type='button';button.className='host-combo'+(selectedHostMetric==='combo'&&selectedPartyCombo===combo?' selected':'');
-        button.textContent=`${combo.split('|').map(key=>icons[key]).join(' ')} ${count}`;
+        button.innerHTML=`${combo.split('|').map(amenityIconHtml).join(' ')} ${esc(count)}`;
         button.title=`Show ${count} listing${count===1?'':'s'} with this exact amenity combination`;
         button.setAttribute('aria-pressed',String(selectedHostMetric==='combo'&&selectedPartyCombo===combo));
         button.onclick=()=>{selectedHost=key;selectedHostMetric='combo';selectedPartyCombo=combo;$('partyOnly').checked=true;update();fitVisible();};
@@ -246,9 +254,10 @@ function updateSymbols() {
   const show=candidates.slice(0,600);
   if(candidates.length>600) $('symbolNote').textContent='Showing symbols for 600 on-screen listings. Zoom in or filter to see the others.';
   for(const l of show) {
-    const values=[...new Set(['🥳',...Object.keys(l.amenities).filter(k=>!selected.length||selected.includes(k)).map(k=>icons[k]).filter(Boolean)])];
+    const amenityKeys=Object.keys(l.amenities).filter(k=>(!selected.length||selected.includes(k))&&(icons[k]||customAmenityIcons[k]));
+    const values=[...new Set(['🥳',...amenityKeys])];
     const el=document.createElement('div');el.className='emoji-marker';el.setAttribute('aria-hidden','true');
-    values.forEach((icon,i)=>{const s=document.createElement('span');s.textContent=icon;const angle=-Math.PI/2+i*2*Math.PI/values.length;s.style.left=`${Math.cos(angle)*32}px`;s.style.top=`${Math.sin(angle)*32}px`;el.append(s);});
+    values.forEach((icon,i)=>{const s=document.createElement('span');if(icon==='🥳')s.textContent=icon;else if(customAmenityIcons[icon]){const img=document.createElement('img');img.className='amenity-custom-icon marker-icon';img.src=customAmenityIcons[icon];img.alt='';s.append(img);}else s.textContent=icons[icon];const angle=-Math.PI/2+i*2*Math.PI/values.length;s.style.left=`${Math.cos(angle)*32}px`;s.style.top=`${Math.sin(angle)*32}px`;el.append(s);});
     emojiMarkers.push(new maplibregl.Marker({element:el}).setLngLat(l.displayPoint||l.point).addTo(map));
   }
   $('symbols').parentElement.title=candidates.length>600?'First 600 visible amenity markers shown; zoom in to see the rest.':'Amenity keyword symbols';
@@ -346,7 +355,7 @@ function showListing(l, nearbyPermit=null) {
   html+=`<p class="${likelyUnlicensed(l)?'spatial-warning':'small'}"><b>Parcel-overlap screening:</b> ${esc(spatialText)}<br>Screening radius with +${leeway()}% leeway: ${effective===null?'Unknown':effective.toFixed(1)+' m'}<br>Extra parcel tolerance: ${parcelTolerance().toFixed(2)} m${parcelTolerance()?' (10 yards)':''}<br>Nearest permitted parcel: ${typeof l.nearest_licensed_parcel_m==='number'?l.nearest_licensed_parcel_m.toFixed(1)+' m':'Unknown'}<br><span class="small muted">${l.privacy_radius_meters>0?'The map circle uses the radius provided with this Airbnb listing.':'The selected map circle is a 15 m display fallback; it is not an Airbnb-provided radius and does not change screening.'} This geographic screen does not verify license status.</span></p>`;
   if(l.matched_permits.length) html+='<h4>Direct permit-number matches</h4>'+l.matched_permits.map(permitCard).join('');
   else html+='<p class="small muted">No direct permit-number match. This does not establish whether a license exists at this address.</p>';
-  if(l.party_house) html+=`<p><b>🎉 Party/event keyword matches:</b> ${Object.keys(l.amenities).map(k=>icons[k]).join(' ')}</p><details><summary>Keyword evidence</summary>${Object.entries(l.amenities).map(([k,v])=>`<p>${icons[k]} ${esc(k.replaceAll('_',' '))}<br><span class="evidence">${esc(v.evidence)}<br>Source: ${listingSource}</span></p>`).join('')}</details>`;
+  if(l.party_house) html+=`<p><b>🎉 Party/event keyword matches:</b> ${Object.keys(l.amenities).map(amenityIconHtml).join(' ')}</p><details><summary>Keyword evidence</summary>${Object.entries(l.amenities).map(([k,v])=>`<p>${amenityIconHtml(k)} ${esc(k.replaceAll('_',' '))}<br><span class="evidence">${esc(v.evidence)}<br>Source: ${listingSource}</span></p>`).join('')}</details>`;
   if(l.permit_evidence.length) html+=`<details><summary>Permit-number evidence</summary>${l.permit_evidence.map(e=>`<p><b>${esc(e.number)}</b> (${esc(e.method)})<br><span class="evidence">${esc(e.evidence)}<br>Source: ${listingSource}</span></p>`).join('')}</details>`;
   html+=dualCapacity?'<p class="small muted">Two-unit screening estimate: min(2 × total bedrooms + 8, 24), assuming bedrooms split evenly and each unit gets +4 guests. The detected numbers may be inaccurate and do not confirm separate licensed units. Saved listing data; approximate Airbnb location. <a href="about_data.html">Data and Nashville rules</a></p>':'<p class="small muted">Capacity = min(2 × bedrooms + 4, 12), using advertised bedrooms. Missing bedrooms: only excess above 12 can be flagged. Saved listing data; approximate Airbnb location. <a href="about_data.html">Data and Nashville rules</a></p>';
   html+='<div class="report-actions"><button type="button" data-complaint>Complaint form (with evidence)</button><button type="button" data-report="location">Suggest location correction</button><button type="button" data-report="license">Suggest license correction</button><button type="button" data-report="address">Suggest address correction</button></div>';
@@ -387,7 +396,7 @@ function prepareData() {
   const listingPermitDifference=report.mapped_listings-currentPermitCount;
   const estimatedShortfall=Math.max(0,listingPermitDifference)*ESTIMATED_STVR_FEE;
   $('potentialRevenueButton').textContent=`Potential revenue shortfall ${estimatedShortfall.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0})}`;
-  $('revenueEquation').textContent=`${report.mapped_listings.toLocaleString()} mapped listings − ${currentPermitCount.toLocaleString()} current permit records = ${listingPermitDifference.toLocaleString()} potential unaccounted listings. ${Math.max(0,listingPermitDifference).toLocaleString()} × $${ESTIMATED_STVR_FEE} = ${estimatedShortfall.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0})} illustrative potential shortfall.`;
+  $('revenueEquation').textContent=`${report.mapped_listings.toLocaleString()} mapped listings − ${currentPermitCount.toLocaleString()} current permit records = ${listingPermitDifference.toLocaleString()} potential unaccounted listings. ${Math.max(0,listingPermitDifference).toLocaleString()} × $${ESTIMATED_STVR_FEE} = ${estimatedShortfall.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0})} potential shortfall.`;
   $('revenueSnapshotNote').textContent=`Snapshot date: ${report.as_of}. This arithmetic assumes one permit per mapped listing and a $${ESTIMATED_STVR_FEE} fee per permit.`;
   $('permitInfoDate').textContent=`Permit snapshot as of ${report.as_of}.`;
   const otherStatuses=[...permitStatusCounts].filter(([status])=>status!=='current').sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));

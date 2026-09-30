@@ -43,6 +43,8 @@ class BuildTests(unittest.TestCase):
         bachelorette=scan_text('Bachelorette party downtown','test')[1]
         self.assertIn('bachelor_party',bachelor)
         self.assertIn('bachelorette_party',bachelorette)
+        for text in ['Dance pole in the room','Stripper pole available','Strip pole','Pole dancing setup']:
+            self.assertIn('dance_pole',scan_text(text,'test')[1])
 
     def test_parcel_geometry_overlap_not_permit_centroid(self):
         from shapely.geometry import Point, Polygon, box

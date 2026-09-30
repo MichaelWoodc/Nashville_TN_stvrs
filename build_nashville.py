@@ -144,6 +144,7 @@ def extract_permits(text, source):
 
 AMENITIES = {'pool': r'\bpool\b(?!\s+table)', 'hot_tub': r'\b(?:hot\s*tub|jacuzzi)\b',
              'bar': r'\bbar\b', 'pool_table': r'\bpool\s+table\b', 'karaoke': r'karaoke',
+             'dance_pole': r'\b(?:dance|dancing|stripper|strip)\s+pole\b|\bpole\s+dancing\b',
              'bachelor_party': r'\bbachelor(?:\s+(?:party|weekend|trip))?\b',
              'bachelorette_party': r'\bbachelorette(?:\s+(?:party|weekend|trip))?\b'}
 
