@@ -196,7 +196,7 @@ function updateHosts() {
   $('hostCount').textContent=`(${filteredGroups.length})`;
   $('hosts').replaceChildren();
   const heading=document.createElement('div');heading.className='host-grid host-column-labels';
-  for(const [key,label] of [['host','Host'],['total','Total'],['likely','Possibly unlicensed'],['party','Party* / over cap']]){
+  for(const [key,label] of [['host','Host'],['total','Total'],['likely','Possibly unlicensed'],['party','Party / cap']]){
     const button=document.createElement('button');button.type='button';button.dataset.sortKey=key;button.className='host-sort'+(hostSortKey===key?' active':'');button.setAttribute('aria-sort',hostSortKey===key?(hostSortDirection==='asc'?'ascending':'descending'):'none');
     button.textContent=`${label}${hostSortKey===key?(hostSortDirection==='asc'?' ▲':' ▼'):''}`;
     button.onclick=()=>{if(hostSortKey===key)hostSortDirection=hostSortDirection==='asc'?'desc':'asc';else{hostSortKey=key;hostSortDirection=key==='host'?'asc':'desc';}updateHosts();};heading.append(button);
