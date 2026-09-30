@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>About STVR Doorman</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body{background:#eef2f5;color:#172b3b;font:16px/1.6 Arial,sans-serif;margin:0}
+    .about-page{max-width:920px;margin:0 auto;padding:28px 24px 48px}
+    .about-page h1{margin:0 0 16px}.about-page p{line-height:1.65}
+    .story-video{aspect-ratio:16/9;background:#111;margin:24px 0}
+    .story-video iframe{display:block;width:100%;height:100%;border:0}
+    .story-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+    .story-gallery figure{margin:0;min-width:0}.story-gallery img{display:block;width:100%;height:clamp(220px,32vw,420px);object-fit:contain;background:#111}
+    .story-gallery figcaption{font-size:13px;padding:7px 2px;color:#526777}
+    .claim-preview{border:0;background:transparent;padding:0;text-align:left;color:inherit;width:100%;cursor:zoom-in}
+    .claim-viewer{width:min(1000px,96vw);max-height:94dvh;padding:18px;border:0;border-radius:8px;overflow:auto}
+    .claim-viewer::backdrop{background:#172b3b99}.claim-viewer img{display:block;width:100%;height:auto}
+    .claim-viewer-head{position:sticky;top:0;background:white;display:flex;align-items:center;justify-content:space-between;padding-bottom:10px;z-index:1}
+    @media(max-width:640px){.about-page{padding:20px 16px 32px}.story-gallery{grid-template-columns:1fr}.story-gallery img{height:min(75vw,420px)}}
+  </style>
+</head>
+<body>
+  <main class="about-page">
+    <h1>Why I built STVR Doorman</h1>
+    <p>I personally lived next door to one of the worst of the worst of party houses. We experienced lawn damage and trespassing, along with loud late-night parties that extended into the early morning hours.</p>
+    <p>During one violent shooting, my home and the homes and cars of two other neighbors were struck by numerous bullets. My mother and our dog were nearly struck by bullets while inside what should have been the safety of our own home. There were at least two active shooters, and around 40 rounds were fired. Airbnb's insurance provider has yet to pay for any of the damages.</p>
+    <p>That is why I want to expose the impact party houses can have on their neighbors. I built this tool to help people understand short-term rental activity and document concerns. This is my personal account and motivation; it does not claim any "party house" listing on this map is likely to have a party this bad.</p>
+    <div class="story-video"><iframe src="https://www.youtube-nocookie.com/embed/LxeWDLwMIno" title="Video about a shooting at a rental property" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <h2>What neighbors experienced</h2>
+    <div class="story-gallery">
+      <figure><img src="bullet-damage-home-1.jpg" alt="Bullet damage inside a home, photograph one" loading="lazy"><figcaption>Bullet damage inside a home, photo 1.</figcaption></figure>
+      <figure><img src="bullet-damage-home-2.jpg" alt="Bullet hole in an interior wall" loading="lazy"><figcaption>Bullet damage inside a home, photo 2.</figcaption></figure>
+      <figure><img src="lawn-trespass-damage.jpg" alt="Damaged lawn" loading="lazy"><figcaption>Lawn damage after trespassing.</figcaption></figure>
+      <figure><img src="muffler-damage.webp" alt="Damage to a vehicle muffler" loading="lazy"><figcaption>Damage to a vehicle muffler.</figcaption></figure>
+      <figure><img src="vehicle-trunk-bullet-damage.jpg" alt="Bullet hole in a vehicle trunk" loading="lazy"><figcaption>Bullet damage to a vehicle trunk.</figcaption></figure>
+      <figure><button class="claim-preview" id="openClaim" type="button" aria-haspopup="dialog"><img src="insurance-claim-excerpt.jpg" alt="Redacted excerpt of insurance correspondence about reported bullet damage and the claim decision" loading="lazy"><figcaption>Redacted insurance correspondence. Open to read the full redacted letter.</figcaption></button></figure>
+    </div>
+  </main>
+  <dialog id="claimViewer" class="claim-viewer"><div class="claim-viewer-head"><h2>Full insurance letter · identifiers redacted</h2><button id="closeClaim" type="button" aria-label="Close full letter">Close</button></div><img src="insurance-letter-redacted.jpg" alt="Full insurance letter with identifying information and contact details redacted" loading="lazy"></dialog>
+  <script>const claim=document.getElementById('claimViewer');document.getElementById('openClaim').addEventListener('click',()=>claim.showModal());document.getElementById('closeClaim').addEventListener('click',()=>claim.close());</script>
+</body>
+</html>

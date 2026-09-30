@@ -106,12 +106,15 @@ class BuildTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             root=Path(d); (root/'nashville_permits').mkdir(); (root/'website_template').mkdir()
             (root/'website_template/index.html').write_text('<html>fixture</html>')
+            asset_bytes=b'\xff\xd8binary-image-fixture'
+            (root/'website_template/photo.jpg').write_bytes(asset_bytes)
             folder=root/'listing_results/123';folder.mkdir(parents=True)
             path=folder/'metadata.json'
             path.write_text(json.dumps({'bedrooms':3,'occupancy':12,'latitude':36.16,'longitude':-86.78,'description':'Pool table. Permit #2023000001'}))
             (root/'nashville_permits/nashville_permits.csv').write_text('ObjectId,Permit #,Permit Status\n1,CASR2023000001,EXPIRED\n')
             before=input_signature(root)
             build(root)
+            self.assertEqual((root/'nashville_site/photo.jpg').read_bytes(),asset_bytes)
             first=json.loads((root/'nashville_site/data/listings.json').read_text())
             self.assertEqual(first[0]['license_status'],'expired')
             self.assertEqual(first[0]['community_license_status'],'undetermined')
