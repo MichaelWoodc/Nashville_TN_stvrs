@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/20411425
+Latitude: 36.146
+Longitude: -86.78
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nearly 2600 square feet 3 blocks off of the gulch in the heart of Nashville.  You won’t find a 4 bedroom home in a better location in Nashville.
+
+Guests have access and use of entire home
+
+Available for questions via email and text
+
+The sought-after Gulch South neighborhood is centrally located with great access to the lively restaurants, nightlife, breweries, and activities in downtown Nashville.
+
+Two car attached garage and room for an additional 2 cars in driveway.  Private parking spots for 4 vehicles plus additional street parking if needed.
+
+Fantastic location
+
+The space
+Nearly 2600 square feet 3 blocks off of the gulch in the heart of Nashville.  You won’t find a 4 bedroom home in a better location in Nashville.
+
+Guest access
+Guests have access and use of entire home
+
+Other things to note
+Fantastic location
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 36225903
+Host Profile URL: https://www.airbnb.com/users/show/36225903
+Host Profile URL Source: public user permalink from passport userId
+Enjoy traveling
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+123 reviews
+4.93 out of 5 average rating
+9 years of hosting

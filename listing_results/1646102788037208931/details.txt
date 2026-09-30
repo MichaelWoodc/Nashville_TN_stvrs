@@ -1,0 +1,88 @@
+URL: https://www.airbnb.com/rooms/1646102788037208931
+Latitude: 36.15515264175521
+Longitude: -86.7731189671635
+rental_type: Casa particular
+property_type: CASA_PARTICULAR
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Heated Pool + Free Parking
+
+Courtyard Pool • Fitness Center • Retro Arcade • Skyline Terrace • Workspaces
+
+Guitars, games, and poolside getaways! Step right into the rhythm of Nashville at our conveniently located downtown oasis. You're just a short stroll from the neon lights. Spend your downtime splashing in the courtyard pool, firing up the BBQ grills, or setting high scores in the arcade. When the sun goes down, grab a drink and take in the stunning city skyline from the rooftop terrace.
+
+The space
+Welcome to “The VIP Green Room” 🪩🎸
+
+5 minutes to broadway!
+
+🎶 Your exclusive all-access pass to Music City. 🎟️
+
+Whether you're visiting with family, remote coworkers, or your favorite friends, this vibrant escape hits all the right notes. Expect the perfect blend of high-energy entertainment and pure relaxation. You'll enjoy ultra-comfortable sleeping arrangements, plenty of room to stretch out, and luxury building amenities for when you need a break from the honky-tonk hustle.
+
+The world-famous downtown strip is just minutes away, keeping your vacation perfectly on beat!
+
+Where You’ll Crash (The Sleep Setup):
+
+👑 Primary Suite: 1 Plush King Bed + En-Suite Bath
+
+🎸 Guest Suite: 1 Cozy Queen Bed + En-Suite Bath
+
+🛋️ Bonus Sleepers: Roll out + Foldable Bed
+
+Your VIP Amenities Pass:
+
+🌆 Rooftop Deck: Breathtaking Nashville skyline 
+💦 Heated Courtyard Pool: Resort-style lounging 
+🏋️ 24-Hour Fitness Center: Fully equipped 
+🕹️ Arcade Room: Friendly gaming competition.
+🍔 Outdoor BBQ Area: Grill out and relax 
+💻 High-Speed Wi-Fi Seamless streaming
+🚙 Hassle-Free Arrival: Enjoy secure, free parking and convenient keyless smart-lock entry.
+
+Guest access
+You will have full, unrestricted access to the apartment and all of the building's fantastic resort-style amenities throughout your visit! 
+
+To keep your arrival completely secure, your personalized check-in instructions and entry codes will be sent on the morning of your stay. If you're a planner and prefer to have those details sooner so you can square things away, just shoot us a message and we'll happily provide them ahead of time!
+
+Other things to note
+Other things to note
+We are absolutely thrilled to host your Nashville adventure! To ensure a 5-star experience for you and to respect our neighbors, please review our property guidelines prior to booking:
+
+🚭 100% Smoke-Free Environment (Keep the air fresh!)
+Breathe easy! This is a strictly non-smoking indoor property. Any evidence of indoor smoking (including vaping) will result in hefty additional charges to cover deep cleaning and professional ozone treatments.
+
+🎉 No Unauthorized Parties or Events
+We want you to have an incredible time celebrating the city, but parties and large gatherings inside the unit are strictly prohibited without our explicit prior written consent. Breaking this rule will lead to penalty fees and immediate cancellation of your reservation without a refund.
+
+🤫 Quiet Hours: 10:00 PM – 8:00 AM
+We share this beautiful community with full-time residents, so please keep noise levels to a minimum during the night. If we receive noise complaints, a single warning will be issued. Continued disturbances will result in fines and/or immediate eviction without a refund.
+
+(A quick reminder: Check-in details are provided on the day of your stay, but let us know if you want to get them squared away earlier!)
+
+By completing this booking, you acknowledge that you have read, understood, and agreed to abide by all house rules. Thank you for treating our home with care and helping us maintain a spectacular environment for all of our guests!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cozy Cove
+Host User ID: 550564324
+Host Profile URL: https://www.airbnb.com/users/show/550564324
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+98 reviews
+4.79 out of 5 average rating
+3 years of hosting

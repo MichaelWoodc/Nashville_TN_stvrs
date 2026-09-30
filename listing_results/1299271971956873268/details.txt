@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1299271971956873268
+Latitude: 36.1473
+Longitude: -86.7817
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Set in Gulch View - a prime locale near downtown and The Gulch - this urban escape is minutes from the city’s incredible music scene, fantastic dining, local shopping, and nightlife hotspots. Luxe amenities include a beautifully landscaped courtyard, a fitness center, and a seasonal pool in the heart of the building. Personality around every corner, with warm tones and cozy textures pairing beautifully with modern details. Multiple seating areas on the private balcony offer views of the pool.
+
+The space
+Relax in style on a comfortable sleeper sofa and a chic armchair. Watch shows on the 52-inch smart TV equipped with Roku or kick back with a good book - large picture windows provide ample natural light. This well-equipped cooking space is outfitted with a full suite of quality stainless steel appliances. An elegant pedestal table anchors the open kitchen and dining space - and is configured with four plush chairs.
+
+This unit sleeps six guests between two bedrooms and the queen sleeper sofa in the living area. Comfort awaits in the spacious primary suite, furnished with a sumptuous queen bed. Enjoy the walk-in closet and an en suite bathroom with a double vanity and walk-in shower. The beautifully appointed second bedroom features a lavish queen bed as well as an en suite bathroom with a tub/shower combination (this bathroom is also accessible via the hallway).
+
+Overlooking the pool, the private balcony is comprised of two lounge areas - each offering seating for two.
+
+AMENITIES:
+- Outdoor swimming pool (open seasonally)
+- Furnished pool deck with gas grill
+- Private landscaped courtyard
+- Fitness center
+- Public Wi-Fi at pool
+- Lounge
+- Two secured elevators
+- On-site overnight security
+- Dog walk (note: not all condos are dog-friendly)
+
+THINGS TO KNOW:
+- Streaming available with guest accounts.
+- No pets are allowed at this vacation rental.
+- This rental is located on floor 3.
+- Parking notes: There is free parking available for 2 vehicles.
+- Guest entry instructions: This rental utilizes an E-lock, a digital lock that requires a unique code to enter. This code is reset after each guest's stay.
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you 24 hours before your check-in time.
+
+Other things to note
+Please note: this home resides in a noise-sensitive area. Our smart home technology will alert our team if excessive decibel or occupancy levels are detected, allowing us to reach out directly with a reminder of maximum occupancy and quiet hours. This technology is privacy compliant, and only monitors the presence of decibels and devices-not any personal conversation or information.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

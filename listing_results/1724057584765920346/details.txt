@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1724057584765920346
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place in Downtown Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amber
+Host User ID: 162735536
+Host Profile URL: https://www.airbnb.com/users/show/162735536
+Host Profile URL Source: public user permalink from passport userId
+It’s My 38th Birthday trip to myself … what travel carrier do you recommend?
+Born in the 80s
+My work: United Airlines
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+41 reviews
+4.93 out of 5 average rating
+1 year of hosting

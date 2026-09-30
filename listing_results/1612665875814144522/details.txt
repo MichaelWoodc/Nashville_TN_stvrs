@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1612665875814144522
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of downtown Nashville! Stylish 1BR with brand-new Roku Smart TVs, private balcony, full kitchen, queen sleeper sofa, and free parking. Walk to Broadway, City Winery, Music City Center, Bridgestone Arena, restaurants, nightlife, plus enjoy the pool and fitness center.
+
+STR Permit # T2022050264
+
+The space
+This modern 1-bedroom apartment features a private balcony, full kitchen, and comfortable living space with a sleeper sofa. Perfect for couples, friends, or business travelers. Located minutes from downtown Nashville, restaurants, and nightlife. Guests also have access to building amenities including a pool, fitness center, and lounge areas. Free parking included. Permit/Registration #: T2022050264
+
+Guest access
+Guests have full access to the entire apartment, including the private bedroom, bathroom, kitchen, and living area. Guests can also enjoy the private balcony. In addition, guests have access to shared building amenities including the pool, fitness center, and lounge areas. One free parking space is included.
+
+Other things to note
+Please note this is a residential building, so guests are expected to be respectful of neighbors and follow building rules. No parties or events allowed. Quiet hours may apply. Parking is limited to the assigned space only. Building amenities (pool, fitness center, lounge) are shared and subject to availability and building guidelines.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: PrimeLux Stays
+Host User ID: 121638949
+Host Profile URL: https://www.airbnb.com/users/show/121638949
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Kenyette, your host with PrimLux Stays. I focus on creating clean, comfortable, and well-designed spaces where guests can relax and feel at home. I’m big on communication, smooth check-ins, and making sure everything is set up for a stress-free stay. I look forward to hosting you!
+Lives in Atlanta, Georgia
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+23 reviews
+4.87 out of 5 average rating
+6 months of hosting

@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/795559478963566714
+Latitude: 36.17849
+Longitude: -86.75835
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This unique place has a style all its own!  Cozy and full of fun for up to 5 guests! Comfy bedding and a full kitchen with all the amenities for a 5-Star visit to Nashville. In the heart of East Nashville, you are only a quick Uber/Lyft ride to Broadway and you can walk to some of Nashville's coolest restaurants and bars.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

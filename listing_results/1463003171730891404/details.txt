@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1463003171730891404
+Latitude: 36.1759363
+Longitude: -86.757756
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in a trendy, vibrant neighborhood, this boutique hotel offers easy access to the Johnny Cash Museum and the Ryman Auditorium. Enjoy eclectic eateries, art galleries, and lively music venues nearby.
+
+The space
+This listing is for a room within a hotel.
+
+✦ Your room is 280 sq. ft, equipped with complimentary toiletries, high definition 50-inch TV, available with Premium cable.
+
+✦ Cleaning services included in the nightly price.
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 3:00PM. If you expect to arrive later, please let us know as soon as possible to make the necessary arrangements.
+
+✦ Public or shared fitness center open 24/7, available in the property.
+
+✦ Free parking lot.
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Please note that the mandatory resort fee is charged per night, per unit which will be collected in person at check-in.
+
+✦ Pets are welcome. Dogs of any size allowed: $35 per pet/night
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ The required refundable security deposit is charged per unit, per night, on a valid credit card.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville Comfort
+Host User ID: 685026363
+Host Profile URL: https://www.airbnb.com/users/show/685026363
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+43 reviews
+4.67 out of 5 average rating
+1 year of hosting

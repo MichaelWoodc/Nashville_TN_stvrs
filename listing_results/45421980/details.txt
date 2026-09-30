@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/45421980
+Latitude: 36.21995
+Longitude: -86.70524
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*The available dates and rates shown on Airbnb calendar may not be accurate due to the mismatch between Airbnb and Resort calendar. The exact availability and the rates will presented to potential guests before a reservation gets accepted*
+
+Our spacious two bedroom condos comfortably sleep up to 6 guests and measure approximately 1072-1180 square feet. You'll enjoy a king bed in the master bedroom, two doubles or 2 twins in the guest bedroom, a queen sleeper sofa in living area, full kitchen,
+
+The space
+The photos of the room on this listing are stock resort pics. Unit gets assigned at the time of check-in. All rooms have similar lay out.
+A valid Photo ID and credit card (for incidentals) will be required to check-in.
+A Refundable damage deposit of around $150 required at the time of check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kivaan
+Host User ID: 58385754
+Host Profile URL: https://www.airbnb.com/users/show/58385754
+Host Profile URL Source: public user permalink from passport userId
+Lives in Seattle, Washington
+Response rate: 81%
+Responds within a day
+Superhost
+11 years hosting
+2777 reviews
+4.69 out of 5 average rating
+11 years of hosting

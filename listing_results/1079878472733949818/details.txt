@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1079878472733949818
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Downtown Nashville!Enjoy easy access to everything from this centrally located oasis. Make a difference when you book with us 10% of the proceeds go to helping the homeless. Amenities pool+fire pits+grills+stunning sky lounge w/city views+gym w/indoor rock climbing+in-unit washer+dryer+fast wifi
+Walking Distance:
+4 mins →Country Music Hall of Fame
+7 mins →Bridgestone+Broadway Strip
+10 mins→The Ryman
+20 mins →Titans Stadium
+10 min drive→Nashville Airport/BNA 
+
+Parking: $35 per day.
+
+The space
+Apartment Details
+Our must book oasis accommodates up to six peolpe. It has two queen size beds, sleeper couch, and a single sleeper cot. Bedroom has a dedicated workspace for those that come to play and work. Bathroom has shampoo, condtioner, bodywash, handsoap, kleenex and so many useful essenials. One smart Roku 55 inch TV in the living room with access to Peackcock to stream a variety of movies. Fully equipped kitchen available to guest for meal preparation. Guest has access to all the common areas including the pool, 2 story gym, sky lounge, lobby lounge area, and a few other areas for gatherings with family and friends.
+
+Guest access
+All guest will be given instructions on using The Latch App Smartlock access upon check-in.
+
+Other things to note
+We are not responsible for the closure or unavailability of any of these shared amenities, which is completely out of our control. Should this situation occur, we will not be able to refund any of your stay with us.
+
+Please note the the Short Term Rental Permit #2018073421
+
+**Security Cameras are located in common areas of the property**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rena
+Host User ID: 505120808
+Host Profile URL: https://www.airbnb.com/users/show/505120808
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Speaks English
+Response rate: 75%
+Responds within an hour
+3 years hosting
+97 reviews
+4.9 out of 5 average rating
+3 years of hosting

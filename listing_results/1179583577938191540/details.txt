@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1179583577938191540
+Latitude: 36.1265
+Longitude: -86.778
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Location, location, location. This poolside condo is the perfect space for any Nashville visit. Only 2.5 miles to Broadway and a short distance from the BEST of what Nashville has to offer: 12th South, Melrose, Downtown, Belmont, and Vandy. An inexpensive $6 Lyft/Uber ride to the rest of the best!
+
+5 mins - Downtown Nashville (Titans/Preds/Broadway/Ryman)
+5 mins - Gulch
+4 mins - Geodis Park
+2 mins - Great food and bars
+1 min - Grocery store(Publix)
+1 min - Liquor store next door
+
+The space
+This condo has 1 full king size bed and a Queen size blow up mattress. Total sleeping occupancy is 4.
+
+Guest access
+Guests will have full access to the condo and pool, minus a owner's closet.
+
+Other things to note
+You will have access to the entire condo and pool. All linens, decor, bed etc. is brand new. There is 1 king bed & 1 blow up mattress. The bed has memory foam & gel pillows. Fresh towels & linens will be provided for all guests. A stocked Keurig coffee maker will also be available to guests. There is high-speed Wi-Fi, a smart television, and an on site washer and dryer(not in unit).
+*Our HOA generally opens the pool May 1st and closes the pool around September 30th of each year.
+*Must be 21 years old to book.
+*Max stay is 29 days
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Grant
+Host User ID: 249625914
+Host Profile URL: https://www.airbnb.com/users/show/249625914
+Host Profile URL Source: public user permalink from passport userId
+I’m originally from Georgia, lived in Nashville for 12 years but now Fairhope, AL is home. My goal is for you to have a wonderful stay while you’re in Music City and Pigeon Forge!
+Speaks English
+Lives in Fairhope, Alabama
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+711 reviews
+4.96 out of 5 average rating
+7 years of hosting

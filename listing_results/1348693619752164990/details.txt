@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1348693619752164990
+Latitude: 36.15507639369236
+Longitude: -86.77478447133701
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You won’t have to head all the way to the Caribbean to find your lost shaker of salt. In fact, it’s right upstairs at the resort’s rooftop bar. Lounge poolside until the sun hangs low, take it easy by the fire pit, and see panoramic views of downtown as live music loosens your mood. Hit the area honky-tonks, then relax back in your island-themed suite — where more drinks await with the help of your Frozen Concoction Maker.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Grace
+Host User ID: 541440760
+Host Profile URL: https://www.airbnb.com/users/show/541440760
+Host Profile URL Source: public user permalink from passport userId
+Hey, I’m Lillian Grace! Think of me as your personal concierge—without the stuffy vibe. I'm here to make sure your stay is comfy, easy, and filled with all the local gems you won’t find on a brochure. No pretenses, just a great room and a great time when you choose me to host your next vacation :)  Let’s make it happen!
+Born in the 90s
+Where I went to school: West Virginia
+Response rate: 59%
+Responds within a day
+3 years hosting
+47 reviews
+4.55 out of 5 average rating
+3 years of hosting

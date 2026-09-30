@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/24080943
+Latitude: 36.18066
+Longitude: -86.75792
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Well-located and welcoming space near East Nashville’s Five Points area. The house is walking distance from many of East Nashville’s hottest spots, including incredible music venues such as Basement East, 5 Spot, and Jane's Hideaway, great restaurants like Mas Tacos, the Pharmacy, Edley's, and Margots, and popular bars such as Red Door, Attaboy, and Up/Down. Downtown is two miles away and can be easily reached within minutes by ride-share or by bus.
+
+The space
+The first floor of this house includes two bedrooms, one bathroom, and a large, open kitchen, dining room, and living room area. The upstairs  has a large common space that includes a day bed, a trundle bed, an office area, and an additional sitting area. The house has high speed internet and an ultra high def television with Netflix, Amazon Prime, and Hulu available.
+
+Guest access
+Guests will have access to all spaces shown here. I will not be at the house at the same time as the guests, and there are no shared spaces.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tom
+Host User ID: 14907259
+Host Profile URL: https://www.airbnb.com/users/show/14907259
+Host Profile URL Source: public user permalink from passport userId
+I'm a freelance writer that spent many years working as a journalist abroad, primarily in Asia, before relocating to my home state of Tennessee a few years ago. I now live in the lively city of Nashville, which offers unparalleled opportunities for live music fans. I've also been visiting the Mexican City of Guanajuato for almost a decade, and after years of perusing real estate ads and walking neighborhoods, found the perfect casita there in the small callejon of Crucitas in the vibrant Tepetapa neighborhood.
+My work: Self-Employed
+Speaks Chinese and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+121 reviews
+4.87 out of 5 average rating
+9 years of hosting

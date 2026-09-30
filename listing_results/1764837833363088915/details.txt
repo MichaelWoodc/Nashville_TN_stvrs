@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1764837833363088915
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place.
+
+Emerse into a deep relaxation at Music City Paradise. This stylish yet tranquil space is centrally located near the heart of downtown. Enjoy the festivities of Broadway and Bridgestone arena, or within a short distance grab a bite with live music at the 5 + Broad Assembly Hall! This corner of peace is just what you need to start your Nashville experience on the right foot!
+
+Registration Details
+T2022056632
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ad'Breona
+Host User ID: 110849089
+Host Profile URL: https://www.airbnb.com/users/show/110849089
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Tennessee State University
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+291 reviews
+4.9 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/40970811
+Latitude: 36.15448
+Longitude: -86.77624
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Lounge poolside until the sun hangs low, take it easy by the fire pit, and see panoramic views of downtown as live music loosens your mood. Fins Beach Bar makes sure you’ll always have a drink within arm’s reach. And JWB Grill makes sure you can have your cheeseburger in paradise — and eat it, too.
+
+The space
+Raise your glass to Margaritaville Vacation Club by Wyndham - Nashville. You won’t have to head all the way to the Caribbean to find your lost shaker of salt. In fact, it’s right upstairs at your resort’s rooftop bar.
+
+Fitness Center
+Pool Bar
+Swimming Pool (Outdoor)
+Gift Shop
+Bar
+Casual Dining
+
+Guest access
+Fitness Center
+Pool Bar
+Swimming Pool (Outdoor)
+Gift Shop
+Bar
+Casual Dining
+
+Other things to note
+Valet parking on-site is available for $57 per night. Self-parking is not available at this resort. Prices are subject to change.
+
+Handicap & Hearing Impaired units are available if available upon request. All requests cannot be guaranteed but we will do our best to accommodate all guests.
+
+The JWB Grill Bar will be closed for replumbing from Apr. 7 through Apr. 11, 2025. The restaurant will still be open for normal business with a mobile bar. Dates are subject to change.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨ResortShare3⁩
+Host User ID: 62926650
+Host Profile URL: https://www.airbnb.com/users/show/62926650
+Host Profile URL Source: public user permalink from passport userId
+Here at ResortShare we strive to create a seamless transaction for our guests, allowing them to enjoy a relaxing vacation at over 50 of the top destination resorts in the US.
+
+We manage a premium selection of the best units at these resorts, most of our units include kitchens, laundry capability and separated living and sleeping quarters. You will have all the comforts of home, with the resort/hotel amenities you need while on vacation.
+My work: ResortShare / ResortShare.Rentals
+Speaks English
+Response rate: 100%
+Responds within an hour
+11 years hosting
+2167 reviews
+4.73 out of 5 average rating
+11 years of hosting

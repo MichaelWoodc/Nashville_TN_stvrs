@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/1571989839558551998
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville stay - a comfortable condo just minutes from the city’s music, dining, and entertainment scene!
+
+- Sleeps 6 | 2 bedrooms | 3 beds | 2 baths
+- Pool + private balcony
+- Indoor fireplace, pool table & exercise equipment
+- Wifi & dedicated workspace
+- Kitchen & in-unit washer/dryer
+- Self check-in & paid parking on premises
+
+The space
+Morning light filters through the windows as you ease into the day with coffee on your private balcony, the quiet of the community offering a calm contrast to the city nearby. After a day exploring Nashville’s music and dining scene, settle back into a comfortable living space, stream your favorite shows, or gather around for an easy evening indoors. When the temperature drops, the indoor fireplace creates a warm setting to unwind.
+
+The space
+This 2-bedroom, 2-bathroom condo accommodates up to 6 guests, with a layout designed for both relaxation and connection. The open living area offers inviting seating, a TV for entertainment, and space to work or recharge. A dedicated workspace & Wifi make it easy to stay productive if needed.
+
+Sleeping arrangements
+Bedroom 1 - King bed
+Bedroom 2 - Queen bed
+Living room - Queen sleeper sofa
+Each space is complemented by essentials like bed linens, extra pillows and blankets, room-darkening shades, and clothing storage to keep your stay comfortable.
+
+Kitchen & dining
+The kitchen provides everything you need to prepare meals during your stay, along with a dining table for shared meals or a casual breakfast before heading out. Coffee is available to start your mornings with ease.
+
+Bathrooms & laundry
+Two full bathrooms include bathroom essentials, and the in-unit washer and dryer add convenience for longer stays or post-travel refreshes.
+
+Amenities & comfort
+Heating and air conditioning keep the space comfortable year-round. Entertainment options include a TV, pool table, and exercise equipment, giving you ways to relax without leaving the property.
+
+Outdoor & shared spaces
+Step onto the private balcony for fresh air or quiet moments. The property also offers access to a pool, along with shared outdoor features like a fire pit and BBQ grill, creating additional spaces to unwind.
+
+Location
+Set in a quieter community just minutes from downtown Nashville, the condo offers easy access to Broadway, Bridgestone Arena, Nissan Stadium, The Gulch, and a variety of dining and music venues. Whether you’re exploring the city or enjoying a slower pace, the location balances convenience with a sense of retreat.
+
+Guest access & essentials
+You’ll have access to the entire condo, along with community amenities. Self check-in with a lockbox makes arrival simple, and starter supplies are included for a smooth beginning to your stay.
+
+Good to know
+Stays include starter supplies (coffee, paper goods, toiletries)
+Paid Parking/amenity details sent after booking (subject to community rules)
+Quiet hours and community policies apply
+
+Permit#T2022050547
+
+Other things to note
+Private/safe  paid parking is available in the building garage.  Details available after booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patti And Sean
+Host User ID: 522369451
+Host Profile URL: https://www.airbnb.com/users/show/522369451
+Host Profile URL Source: public user permalink from passport userId
+With a passion for hospitality and commitment to excellence, I strive to create unique, comfortable, and memorable experiences for all of my guests. Each property under my management is thoughtfully curated with modern amenities, local touches, and personalized services that exceed expectations.
+Born in the 60s
+My work: Airbnb Superhost
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+703 reviews
+4.92 out of 5 average rating
+3 years of hosting

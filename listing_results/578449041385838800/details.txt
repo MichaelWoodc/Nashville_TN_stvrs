@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/578449041385838800
+Latitude: 36.1634
+Longitude: -86.7784
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A stone’s throw from the Ryman Auditorium,a short walk to Broadway & Printer’s Alley.  
+
+Just renovated Historic Ambrose Loft in a former printing company building built in 1905.
+14’ ceilings, exposed beams, Carrera marble  shower & handshower, custom waterfall marble vanity with copper sink & Brizo fixtures.
+
+Loft overlooks 4th Avenue, includes 70” TV in living room & 65” TV in the bedroom.  Curated record collection with some of my favorites. Parlor guitar.
+
+No parking. Pay garage next door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vijay
+Host User ID: 11556474
+Host Profile URL: https://www.airbnb.com/users/show/11556474
+Host Profile URL Source: public user permalink from passport userId
+I like vintage cars, motorcycles, and buildings...born & raised in Nashville, TN...avid tennis player, love to travel.  I am a professional civil engineer, contractor, and business owner.  I purchased a couple historic buildings in Downtown Nashville and have been renovating them into loft apartments.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+695 reviews
+4.98 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/924139062620693593
+Latitude: 36.183
+Longitude: -86.7588
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Brand new home in Nashville, built in 2023!
+Extremely spacious, great for hosting!
+3 bed, 3 bath with 1 king, 1 queen, 3 fulls, and a sleeper sofa
+Less than 10 minutes to Downtown, Nissan Stadium, and Broadway
+Close to great restaurants in East Nashville and Topgolf
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 522633464
+Host Profile URL: https://www.airbnb.com/users/show/522633464
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Umass Amherst
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+67 reviews
+4.97 out of 5 average rating
+3 years of hosting

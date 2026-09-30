@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/865503125892118025
+Latitude: 36.15335
+Longitude: -86.77445
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*ASK US ABOUT OUR DISCOUNT PACKAGES* 
+
+Experience the perfect blend of urban chic and serene relaxation at our stylish Broadway Oasis in the heart of Nashville. This upscale retreat is your ideal base for exploring the city's vibrant downtown scene, with Broadway and Bridgestone Arena just steps away. Delight in delicious cuisine and live music at the nearby 5 + Broad Assembly Hall, and return to this peaceful sanctuary to recharge for your next Nashville adventure!
+
+The space
+✧ Breathtaking city views from the living room
+✧ Lightning-fast 200 Mbps Wi-Fi for seamless workcations
+✧ Unwind with top-notch amenities: firepits, sky deck, indoor lounge, gym, aerobic center, swimming pool, grills, & pool/poker table
+✧ Cozy up in the bedroom featuring a 10-inch queen-size memory foam mattress
+✧ Flexible sleeping options with a daybed and trundle, each with a 10-inch twin-size memory foam mattress
+✧ Extra-large bean bag for ultimate relaxation, seating two adults comfortably
+✧ Indulge in the luxury of a towel warmer for added comfort
+✧ Stay entertained with a 55-inch smart TV
+✧ Explore local dining with our curated restaurant list, or whip up your favorite meals in the fully equipped kitchen
+✧ Savor complimentary coffee/tea, including decaf options
+✧ State-of-the-art washer/dryer for laundry convenience
+
+Discover the perfect balance of excitement and tranquility in this luxurious Nashville retreat, designed to make your stay unforgettable. Book now and experience the best of Music City right at your doorstep!
+
+Guest access
+All resort style amenities are located on the 3rd floor where you can swim in the saltwater pool all year round, grill in the courtyard, play pool or poker, workout in the fitness or aerobic center, watch the sunset & light the fireplace at the sky lounge, or conduct business in the indoor lounge. You'll have access to the entire space plus building amenities during your stay. Make yourself at home!
+
+Other things to note
+Check in is at 4pm however it is subject to change to later if we have a same day check out and earlier if we don’t!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Henry
+Host User ID: 247360823
+Host Profile URL: https://www.airbnb.com/users/show/247360823
+Host Profile URL Source: public user permalink from passport userId
+Nashville native trying to share my love of the city with you!
+Born in the 90s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+137 reviews
+4.95 out of 5 average rating
+3 years of hosting

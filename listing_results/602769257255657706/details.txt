@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/602769257255657706
+Latitude: 36.1629
+Longitude: -86.7813
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 10
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Broadway from our 3,400 sq ft 2nd floor Modern suite at The Maddox Hotel. Suite has a modern vibe and is the perfect place for group trips, bachelorette / bachelor parties, corporate retreats, executive getaways, business meetings or special occasions like Birthdays! All with the comforts of home!  Every member of your group will enjoy easy access to everything from this centrally located suite. TPAC, Bridgestone Arena, Titans Stadium, The Gulch, and 2nd & Broadway are all within walking
+
+The space
+Our beautifully furnished 3,459 sq feet suite comes with 6 bedrooms and 3 1/2 baths. Also has its own pool table, cards and board games to keep the party going. All complete with a list of amenities that recognize you for the VIP that you are.
+
+Guest access
+Main entrance at 200 6th Ave N, Nashville, TN 37219
+
+Other things to note
+There is a downtown grocery store within walking distance called Urban Market or a Whole Foods and Publix, both a mile away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Maddox
+Host User ID: 388968184
+Host Profile URL: https://www.airbnb.com/users/show/388968184
+Host Profile URL Source: public user permalink from passport userId
+Welcome to our Luxury Hotel in downtown Nashville! We pride ourselves on providing the best guest experience possible while being in the perfect location to explore all that Nashville has to offer!
+My work: BoutiqueHotelManager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1072 reviews
+4.95 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/13098951
+Latitude: 36.12854
+Longitude: -86.77586
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our "beach house" is a perfect retreat during your Nashville visit. Walking distance to popular eateries, coffee shops and charming local businesses - you'll feel right at home walking around our historic neighborhood! 
+
+Follow us on Instagram @NashBeachHouse #nashbeachhouse
+
+Minutes from downtown, the convention center, Vanderbilt & Belmont.
+
+The space
+Our "Beach House" is a guest house located in the back of our property 1/3 acre property. There is a queen size bed in the loft (the loft is accessed via a ladder). It has a full-size bathroom and drawer sets and hangers to put your clothes. 
+
+The beach house is around 350 square feet.  It also includes a great patio with a bistro table and chairs underneath Italian lights.
+
+Guest access
+Guests will have access to their own fenced in patio area with chairs.  There is plenty of street parking in front of our main house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mario
+Host User ID: 3968661
+Host Profile URL: https://www.airbnb.com/users/show/3968661
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Mario and Liz, longtime Airbnb Superhosts with over 10 years of experience welcoming guests from around the world. We love creating comfortable, memorable stays and take pride in sharing our homes with others. Looking forward to hosting you!
+Born in the 80s
+My work: Vanderbilt University
+Response rate: 95%
+Responds within an hour
+Superhost
+11 years hosting
+1343 reviews
+4.92 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/50091210
+Latitude: 36.15443
+Longitude: -86.77674
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in Nashville, 1,950 feet from Bridgestone Arena, Margaritaville Hotel Nashville features accommodations with a restaurant, private parking and a bar. Located around less than 0.6 mi from Johnny Cash Museum, the hotel with free WiFi is also a 12-minute walk away from Ryman Auditorium. The accommodations provides a 24-hour front desk and an ATM for guests.
+
+The space
+Guest rooms in the hotel are fitted with a coffee machine. All rooms will provide guests with a fridge.
+
+Margaritaville Hotel Nashville offers a sun terrace.
+
+Popular points of interest near the accommodations include Tootsies Orchid Lounge, Nissan Stadium and Country Music Hall of Fame and Museum. The nearest airport is Nashville International Airport, 6.2 mi from Margaritaville Hotel Nashville.
+
+Couples in particular like the location – they rated it 9.3 for a two-person trip.
+
+We speak your language!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendell
+Host User ID: 372469629
+Host Profile URL: https://www.airbnb.com/users/show/372469629
+Host Profile URL Source: public user permalink from passport userId
+I have access to 200+ resorts throughout the country that offer a much better vacation experience when compared to a hotel room. These are primarily Club Wyndham. Our resorts allow our renters access to amenities and privileges that are normally reserved for owners. Enjoy full kitchens that come with all the basic supplies you need to cook for yourself or friends and family, in-suite washer and dryer, 24-hour security, maintenance staff and front desk personnel and a concierge to help you make the most of your stay
+Lives in Springfield, Missouri
+Responds within a few days or more
+6 years hosting
+31 reviews
+4.61 out of 5 average rating
+6 years of hosting

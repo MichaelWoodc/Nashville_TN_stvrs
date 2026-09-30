@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1255204474452570833
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music Row, 7 minute drive and a 20 minute walk to Broadway! Enjoy the center of music production in Nashville with tons of nearby shops, restaurants, sights, and scenes! Centrally located in the heart of Nashville, we're excited to have you stay with us in the H&O Apartment Building. We have a pool, a rec room, on-site gym, private parking, and of course our own private stylish apartment!
+
+The space
+A cozy 2 bedroom 2 bathroom apartment with a quiet balcony and room for everyone to sit and enjoy a fun trip together!
+
+Guest access
+Guests have full access to the entire unit, and common areas of the building. Free parking underneath the building or in the back, a front desk for any building access questions, a beautiful new pool, and rec space on the 5th floor with a gym and views of the city!
+
+Other things to note
+Be aware that we are in the city, so traffic, construction, service vehicles, and other loud noises are common.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 464608515
+Host Profile URL: https://www.airbnb.com/users/show/464608515
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+85 reviews
+5.0 out of 5 average rating
+2 years of hosting

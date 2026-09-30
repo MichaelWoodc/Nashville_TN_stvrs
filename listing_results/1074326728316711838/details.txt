@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1074326728316711838
+Latitude: 36.15326
+Longitude: -86.77465
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Honky Tonk Hub! Discover the pulse of the country music scene! Unwind in our cozy 1 BR KING suite, Complimentary wine, coffee, tea, water (brands may vary) & WI-FI. Perfectly located for a stroll to Broadway.  Explore nearby Bars, Restaurants, Shops, Stadium,  Arena & Galleries. Pool available all year!
+**Self-pay parking garage via PARKADE APP
+
+**15-minute drive to Nashville Airport/BNA
+Proximity to key landmarks:
+*Country Music Hall of Fame
+*Nissan Stadium 
+*Broadway
+Discover all of Nashville!
+
+The space
+*Luxury building location in the heart of Downtown Nashville 
+*Fully equipped kitchen 
+*Complimentary wine, coffee, tea and water for our guest (brands vary)
+*In unit washer and dryer only
+*Free Highspeed Wi-Fi
+*2 Ruko smart T.V’s which includes access to Netflix, Hulu, Disney+ YouTube, and more
+*Games available for fun
+*Roof top pool - pool towels not provided 
+*Lounge area
+
+*Our suite is thoroughly cleaned and sanitized immediately after each guest check-out.
+
+Near many attractions, shops, restaurants, entertainment, stadiums, Broadway and more!
+*10mins for Nashville airport/BNA
+
+*Walk
+5 mins →Music City Center & Music Hall of Fame
+5 mins →Martins Bar-B-Que Joint
+10 mins →Bridgestone, The Ryman, Broadway
+
+*Drive
+5 mins →Nissan Stadium
+5 mins →Milk & Honey Gulch
+6 mins  →Whole Foods & Publix Grocery store
+7 mins →Geodis Park
+
+STR T2022056537
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dorressa
+Host User ID: 452019833
+Host Profile URL: https://www.airbnb.com/users/show/452019833
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+231 reviews
+4.94 out of 5 average rating
+3 years of hosting

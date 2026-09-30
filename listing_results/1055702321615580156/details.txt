@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1055702321615580156
+Latitude: 36.1537
+Longitude: -86.7752
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Keep it simple at this cozy, peaceful, central location. Located Downtown Nashville, Tennessee. Walking distance to bars, restaurants, and other landmarks within minutes. Walking distance to the limelights of Nashville. The Gulch, and Broadway. Resort style pool area, full gym, lounge and grill area. 
+
+Permit number T2022050484
+
+The space
+Cozy 1 bedroom apartment includes a queen size bed with storage drawers for extra blankets, or clothes. Comfortable, cool bed with changeable led lights that Bluetooth to the beat of music. Charger ports on headboard. A queen size air mattress available for extra guest. Living room area has a couch, flat screen tv, Wi-Fi accessible. Open concept, full kitchen with pots, pans, coffee maker and snacks, full bathroom, laundry room, patio to lounge and enjoy a partial skyline view of the city.
+
+Guest access
+Entire apartment except storage closet
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paige
+Host User ID: 552892937
+Host Profile URL: https://www.airbnb.com/users/show/552892937
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+For guests, I always: Strive for comfort and the essentials.
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+51 reviews
+4.86 out of 5 average rating
+3 years of hosting

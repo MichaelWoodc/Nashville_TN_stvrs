@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/41556676
+Latitude: 36.145
+Longitude: -86.784
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville's ultimate rooftop escape — built for groups who want it all. This stunning 4-bedroom, 3.5-bath new construction home sits steps from downtown, with a private rooftop deck and outdoor kitchen serving up unobstructed, panoramic views of the Downtown Nashville skyline.
+
+Spread across four stories with designer finishes throughout, the home comfortably sleeps up to 12 and gives your group the space, privacy, and style to make this trip unforgettable.
+
+The space
+Spread across four stories with designer finishes throughout, the home comfortably sleeps up to 12 and gives your group the space, privacy, and style to make this trip unforgettable. Whether you're pouring drinks on the roof while the city lights up below, or crashing after a long night on Broadway — this is your home base.
+
+The rooftop
+
+The fourth-floor rooftop deck is the crown jewel — a custom built grill and sink combo, ample seating, and skyline views that don't quit. There's no better spot in Nashville to start or end your night.
+
+The layout
+
+Ground floor — Bedroom 1: queen bed, en suite bath with tub/shower
+
+Second floor — Bedroom 2: 4 twin trundle beds, vanity area, en suite bath + spacious designer living room
+
+Third floor — Bedroom 3: queen bed, flat screen TV, en suite bath with tub/shower
+
+Third floor — Bedroom 4: two queens + twin daybed, downtown views, flat screen TV, dual sinks, separate shower and soaking tub
+
+The location
+
+You can be anywhere in Nashville in under 10 minutes. Walk, scooter, or grab a quick Uber to the Gulch, 12 South, Music Row, and Broadway — all less than 1.5 miles away. Everything Nashville is famous for is right at your doorstep.
+
+Parking
+
+2-car garage included, plus street parking available nearby.
+
+Guest access
+You will have access to the house. If early checkin or late check out is needed please reach out and depending on availability we would love to be accommodating.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lincoln
+Host User ID: 67280137
+Host Profile URL: https://www.airbnb.com/users/show/67280137
+Host Profile URL Source: public user permalink from passport userId
+Nashville natives excited to welcome more people to our great city!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+73 reviews
+4.92 out of 5 average rating
+7 years of hosting

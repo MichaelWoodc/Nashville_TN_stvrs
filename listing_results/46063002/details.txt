@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/46063002
+Latitude: 36.15456
+Longitude: -86.77646
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You won’t have to head all the way to the Caribbean to find your lost shaker of salt. In fact, it’s right upstairs at the resort’s rooftop bar. Lounge poolside until the sun hangs low, take it easy by the fire pit, and see panoramic views of downtown as live music loosens your mood.
+
+Pictures used are stock photos. May not be exact room. Must be 21 years old to check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 234194182
+Host Profile URL: https://www.airbnb.com/users/show/234194182
+Host Profile URL Source: public user permalink from passport userId
+I’m a full time dad of 2 with a passion for travel! I just want to share my knowledge of amazing vacations with you so you can have an amazing trip!
+
+We are a Timeshare Rental Brokerage. We have access to hundreds of amazing resorts for hotel prices all of the country. 
+
+
+Thanks!
+I spend too much time: on Airbnb
+Most useless skill: Can blow bubbles with my tongue
+Response rate: 95%
+Responds within a few hours
+6 years hosting
+1898 reviews
+4.84 out of 5 average rating
+6 years of hosting

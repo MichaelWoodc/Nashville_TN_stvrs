@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1308183572013068727
+Latitude: 36.1473
+Longitude: -86.7817
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything when you stay at this centrally-located place.
+
+AMENITIES
+
+Outdoor swimming pool (open seasonally)
+Furnished pool deck with gas grill
+Private landscaped courtyard
+Fitness center
+Public Wi-Fi at pool
+Lounge
+Two secured elevators
+On-site overnight security
+
+The space
+Enjoy a comfortable stay at this one-bedroom condo in Illume, a newly developed luxury community offering a modern retreat close to Nashville’s top attractions. Located in the vibrant Gulch View area, just minutes from downtown and The Gulch, this urban getaway is ideally situated near the city’s renowned music scene, great dining, local shopping, and nightlife. The property boasts high-end amenities, including a beautifully landscaped courtyard, fitness center, and a seasonal pool. Combining contemporary design with sustainability, this eco-friendly space features energy-efficient systems and a green roof. Stylish interiors with country music-inspired decor bring together modern aesthetics and Nashville’s classic charm. The condo also includes a shaded poolside patio and an additional sleeping area.
+
+Kick back on the plush sofa (which converts to a sleeper) in the sunlit living area and stream new releases on the 55-inch TV with Roku. Chefs will be delighted to find high-end stainless steel appliances in the modern kitchen. Helpful gadgets include a blender and a specialty coffee maker. The kitchen island provides seating for four.
+
+This condo sleeps four guests between the bedroom, a bonus room, and a queen-size sleeper sofa. A stately king-size bed awaits in the tranquil bedroom. Watch new Netflix shows on a 50-inch TV with Roku. The en suite bathroom is configured with a tub/shower combination and is also accessible from the kitchen. A full-size bed provides additional sleeping space in the bonus room. Write postcards at the desk or watch favorite shows on the flatscreen TV.
+
+Furnished with a wicker loveseat and two chairs, the patio is the perfect place for morning coffee.
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you prior to your reservation.
+
+Other things to note
+Please note: this home resides in a noise-sensitive area. Our smart home technology will alert our team if excessive decibel or occupancy levels are detected, allowing us to reach out directly with a reminder of maximum occupancy and quiet hours. This technology is privacy compliant, and only monitors the presence of decibels and devices-not any personal conversation or information.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

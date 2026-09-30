@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1341274898112809403
+Latitude: 36.1472
+Longitude: -86.7959
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Yeehaw! Saddle up and stay in true Nashville style at our cowboy-inspired townhome, located in the heart of Music Row and Midtown. Whether you're here to kick up your heels and catch live music or take a ride down the country music trail, this 3-bedroom, 2.5-bath retreat offers the perfect blend of comfort, charm, and a touch of southern hospitality.
+
+The space
+🎸 Location, Location, Location!:
+
+Nestled in the historic and lively neighborhoods of Music Row and Midtown, you’re just minutes from the best honky-tonks, country music bars, and iconic venues that Nashville is famous for. Enjoy a stroll to The Gulch, Broadway Street, or the Ryman Auditorium—your country music adventure starts right at your doorstep.
+
+You are only a few blocks from Vanderbilt University, great restaurants like Catbird Seat, Halls Chophouse, Henley, Ichigo Ichie and Giovanni’s. A 5-minute walk to Loser’s Bar, where artists like Riley Green and Post Malone consistently stop in for a drink and impromptu concert, and the Patterson House for an upscale cocktail. 
+
+Bedroom Highlights:
+
+The Rodeo Room: A brand new bunk bed with twin trundle decked out in cowboy chic linens—perfect for a restful night after a night of honky-tonk fun! Take a step outside on your private porch for a late night drink or cigar!
+
+The Honky-Tonk Hideaway: A cozy queen bedroom with a rustic, barn wood headboard and large walk in closet.
+
+The Country Star Suite: A bright and airy room with 4 twin bunk beds, perfect for the little cowboys and cowgirls.
+
+🚿 Bathroom Amenities:
+
+With 2.5 bathrooms, you’ll never have to wait your turn to freshen up! Each bathroom is designed with vintage western touches, offering a touch of frontier-style luxury without sacrificing modern convenience.
+
+Master Bath: Soak in a tub fit for a cowboy after a long day of sightseeing or boot-scootin’!
+
+Half Bath: Convenient for guests, with southwestern charm and plenty of space.
+
+🌟 Extra Touches:
+
+Fully Equipped Kitchen: Whip up your favorite southern comfort food in this cowboy-approved kitchen.
+
+Free Wi-Fi & Smart TVs: Stream your favorite country music videos or plan your next adventure with ease.
+
+*Parking Note* 
+Please note that there is not dedicated private parking at this property. Free public street parking is available along Grand Ave, but availability directly in front of the property is limited and cannot be guaranteed. Paid overnight street parking is available on 19th Ave
+
+Registration Details
+2025002801
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Riley
+Host User ID: 175574066
+Host Profile URL: https://www.airbnb.com/users/show/175574066
+Host Profile URL Source: public user permalink from passport userId
+General Manager for The Mitten Group Property Management in Traverse City and also GamePlan Property Management in Nashville. I strive to provide excellent stays for my guests and go above and beyond to make sure you enjoy every aspect of your stay. Please reach out with any questions and I look forward to your visit!
+My work: The Mitten Group
+Lives in Traverse City, Michigan
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+9855 reviews
+4.82 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1530256966795947366
+Latitude: 36.1457
+Longitude: -86.795
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+CozySuites offers modern condos in Nashville’s iconic Music Row, right in the heart of Midtown. Enjoy the best shopping, dining, and live music just steps away. Perfect for business, leisure, or family stays, each condo features lightning-fast Wi-Fi, coffee, and free streaming services.
+
+The space
+This CozySuites is suitable for a family, group of friends, or business travelers. It has all of the amenities necessary to enjoy your stay and all the comforts of home.
+
+Great amenities await you!
+- modern design infused with authentic Nashville inspired decor 
+- a fully equipped kitchen 
+- 100mbps+ internet, modern decor, a Smart-TV with streaming apps installed!
+- garden area to lounge and relax with friends!
+- complimentary coffee
+- community garden with cabana, 2 outdoor TVs, gas grill, and fire pit!
+
+Bedroom Configuration:
+Studio: 1 queen bed and 1 sofa bed
+
+Wheelchair accessible!
+
+We have multiple CozySuites units in this building and each one is unique. Decor and layout may vary slightly from what you see in photos.
+
+Other things to note
+Please know that all CozySuites properties are smoke-free environments. Smoking, of any kind, is not permitted within or outside of our suites, including balconies, patios, or common and/or parking areas. Please know that any sign of smoking is a violation of our stay agreement, which may result in immediate termination and recovery fees beginning at $500.
+
+No smoking, parties
+Check-in 4 PM, check-out 11 AM ($75/hr late fee)
+$500 penalty for removing smoke detectors
+$200 penalty for lost key fobs*
+No outside guests without permission
+One towel per guest per stay
+Valid photo ID required to complete the booking
+Max 2pets (40lbs combined) No Pit Bulls Bull Mastiffs [similar breed] ***DOGS ONLY***
+Additional $100-300 pet fee based on stay length, collected separately.
+
+ESA (Emotional Support Animal): A pet fee may be charged for guests traveling with an emotional support animal. Additionally, the presence of emotional support animals can be declined from stays or Experiences.
+
+To abide by all legal requirements and HOA rules, you WILL be asked to provide a copy of your official government-issued photo ID, confirm your contact information,  pass through our verification portal and, in some instances, complete a criminal background check. Failure to provide these documents will result in a cancellation and denied entry.
+Important note: The information is collected for verification only and is not stored or used for any other purposes.
+
+Please be advised that all guests will be asked to sign a rental usage agreement that governs the terms of the stay. By completing the reservation you agree to the following:
+- You agree to be bound by our rental terms and conditions.
+- You acknowledge that you will be required to provide a copy of a valid government-issued ID and matching credit card prior to check-in.
+- You acknowledge that you may be required to undergo a background check if mandated by the property management company or the building, as stated in accordance with your rental agreement and condition of the booking.
+
+Minimum age requirement of primary person booking should be 22 years old.
+
+No weapons or drugs allowed; zero tolerance means police will be called for violating this rule.
+
+Noise policy: Guests must agree to not disturb neighbors at all times during the stay. In addition, guests must agree to observe quiet hours from 9pm-8am each day. The home is proactively monitored with decibel sensors for compliance with this noise policy.
+
+Long-term stays (30 days+): Long-term guests will be subject to a background search and credit check.
+
+Want to enhance your stay? We offer a variety of optional services to make your visit even more comfortable—like mid-stay cleanings, early check-in/late checkout (when available), and more. Just let us know what you need after booking, and we’ll be happy to arrange it for you (additional fees apply).
+
+The unit is equipped with a smart lock, so you can check in and out with ease using a personalized access code. You’ll receive your code before arrival—hassle-free and secure entry, anytime after check-in time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CozySuites Nashville
+Host User ID: 403137298
+Host Profile URL: https://www.airbnb.com/users/show/403137298
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+3464 reviews
+4.39 out of 5 average rating
+4 years of hosting

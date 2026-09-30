@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/47562014
+Latitude: 36.21958
+Longitude: -86.70406
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern traditions of hospitality and charm, you’ll want for nothing as you adventure day and night in Music City. Luckily, this warm, friendly resort is close to Nashville’s best music, liquor, and historical landmarks.
+
+Other things to note
+Valet parking on-site is available for $42 per night. Self-parking is not available at this resort. Prices are subject to change.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maxx
+Host User ID: 104401000
+Host Profile URL: https://www.airbnb.com/users/show/104401000
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 80%
+Responds within a day
+6 years hosting
+318 reviews
+4.7 out of 5 average rating
+6 years of hosting

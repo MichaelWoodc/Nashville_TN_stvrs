@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/807748238037687341
+Latitude: 36.21753
+Longitude: -86.70417
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything when you stay at this centrally-located place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steven
+Host User ID: 240078487
+Host Profile URL: https://www.airbnb.com/users/show/240078487
+Host Profile URL Source: public user permalink from passport userId
+My work: Vacations!
+I'm obsessed with: Baseball
+Response rate: 97%
+Responds within an hour
+Superhost
+5 years hosting
+2293 reviews
+4.78 out of 5 average rating
+5 years of hosting

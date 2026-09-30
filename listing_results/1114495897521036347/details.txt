@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1114495897521036347
+Latitude: 36.21768
+Longitude: -86.70375
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious one-bedroom resort suite measures approximately 900 - 978 square feet. You will enjoy a king bed in the master bedroom and a queen sleeper sofa in the living room. Additional amenities include a full kitchen and dining area, whirlpool tub and washer/dryer. Maximum occupancy is four. Private sleeping area sleeps two.
+
+Rates and availability vary, so contact host to inquire about your dates!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessica
+Host User ID: 101702728
+Host Profile URL: https://www.airbnb.com/users/show/101702728
+Host Profile URL Source: public user permalink from passport userId
+Lives in St. Cloud, Florida
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+137 reviews
+4.82 out of 5 average rating
+3 years of hosting

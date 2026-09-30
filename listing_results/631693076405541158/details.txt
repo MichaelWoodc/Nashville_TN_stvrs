@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/631693076405541158
+Latitude: 36.12591
+Longitude: -86.77747
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated studio!
+
+This cool space used to be a 50's Motel that was converted to condos. A little bit of nostalgia, only 2.5 miles to Broadway and 15 minutes from BNA. It has a hip 50's retro vibe, safe neighborhood and walkable to Hattie B's Hot Chicken and some of Nashville's best restaurants and bars on 12 South.
+
+The space
+The studio condo has everything you'll need for stay in Nashville including a full kitchen with refrigerator, oven, microwave, and coffee maker. The space also has plenty of seating to relax, a comfortable queen bed, flat screen tv and fast wifi.
+
+Guest access
+You’ll have access to the entire condo as well as the pool and laundry in the building next door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eli
+Host User ID: 332197107
+Host Profile URL: https://www.airbnb.com/users/show/332197107
+Host Profile URL Source: public user permalink from passport userId
+I work as a sales leader for a  consulting firm helping drive business development in the leadership development space. 
+
+I am a native of TN, grew up in Memphis and have lived in Nashville since 2014.
+Born in the 70s
+My work: Sales Director
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+131 reviews
+4.88 out of 5 average rating
+4 years of hosting

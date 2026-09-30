@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1268894312172265687
+Latitude: 36.21892280365181
+Longitude: -86.70412924823724
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern traditions of hospitality and charm, you’ll want for nothing as you adventure day and night in Music City. Luckily, this warm, friendly resort is close to Nashville’s best music, liquor, and historical landmarks.
+Located just one mile from the Grand Ole Opry, Club Wyndham Nashville provides a great base to explore all the middle Tennessee has to offer. Conveniently located near popular destinations like the Country Music Hall of Fame and Museum and the Nashville Zoo.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ahmet
+Host User ID: 111817270
+Host Profile URL: https://www.airbnb.com/users/show/111817270
+Host Profile URL Source: public user permalink from passport userId
+My work: Vacations!
+I spend too much time: on Airbnb
+Response rate: 97%
+Responds within a few hours
+Superhost
+4 years hosting
+949 reviews
+4.81 out of 5 average rating
+4 years of hosting

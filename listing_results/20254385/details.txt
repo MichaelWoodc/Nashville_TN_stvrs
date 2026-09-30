@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/20254385
+Latitude: 36.12329
+Longitude: -86.78664
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stunning carriage house in the heart of 12South! 1.5 blocks from all that 12South has to offer!
+
+The space
+This beautifully located carriage house is simply stunning. It is a two-bedroom apartment on the second floor of our garage, which has been professionally decorated and furnished. Enjoy the cozy living room perfect for watching movies, playing games, and spending time together. The full kitchen includes a microwave, coffee maker, and much more. A washer and dryer are also in the unit.
+
+****We also offer Yellow Door Swim - find us on Swimply
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christiane
+Host User ID: 19253119
+Host Profile URL: https://www.airbnb.com/users/show/19253119
+Host Profile URL Source: public user permalink from passport userId
+I grew up in L.A., but have called Nashville home for the last 15 years.  My husband, 2 sons, and Black Lab, Shirley, absolutely LOVE living in Music City.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+543 reviews
+4.93 out of 5 average rating
+12 years of hosting

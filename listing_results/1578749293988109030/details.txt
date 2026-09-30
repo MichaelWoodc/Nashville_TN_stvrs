@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1578749293988109030
+Latitude: 36.15609038330606
+Longitude: -86.77625911944763
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You won’t have to head all the way to the Caribbean to find your lost shaker of salt. In fact, it’s right upstairs at the resort’s rooftop bar. Lounge poolside until the sun hangs low, take it easy by the fire pit, and see panoramic views of downtown as live music loosens your mood. Hit the area honky-tonks, then relax back in your island-themed suite — where more drinks await with the help of your Frozen Concoction Maker. Located at 425 Rep. John Lewis Way S , Nashville, TN 37203.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Serenity Compass
+Host User ID: 688304085
+Host Profile URL: https://www.airbnb.com/users/show/688304085
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 99%
+Responds within a few hours
+Superhost
+1 year hosting
+57 reviews
+4.96 out of 5 average rating
+1 year of hosting

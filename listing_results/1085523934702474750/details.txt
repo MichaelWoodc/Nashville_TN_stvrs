@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1085523934702474750
+Latitude: 36.15514
+Longitude: -86.8155
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 16
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NEW and luxurious home near downtown Nashville!
+15 BEDS
+4 bedrooms and 4 full bathrooms, PLUS additional flex room, perfect for large groups!
+Rooftop patio w/stunning views of downtown Nashville
+Only a short $5-10 uber ride to downtown, Demonbreun St., Broadway, Bridgestone Arena, Nissan Stadium, and the Gulch!
+Walking distance from Centennial Park, the Parthenon, and Vanderbilt University
+Fully stocked kitchen and bathrooms, rooftop fire pit, and karaoke machine w/microphones available!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sharon
+Host User ID: 560691662
+Host Profile URL: https://www.airbnb.com/users/show/560691662
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 years hosting
+24 reviews
+5.0 out of 5 average rating
+3 years of hosting

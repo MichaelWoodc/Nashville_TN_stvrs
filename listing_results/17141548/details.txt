@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/17141548
+Latitude: 36.1631
+Longitude: -86.7806
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Pacifica Loft 302 pays homage to the Pacifica Asian Restaurant that occupied 506 Church Street until it closed in 2015. It was widely known as the best Asian lunch spot in downtown Nashville. Mr. and Mrs. John Di relocated their business to the property in 2004 and retired in 2015 when they sold the property to the current owners.
+
+Every stay at 506 Lofts helps Nashville's underserved. The average weekend stay provides 16 nights in a bed, 100 free showers, or 30 free meals!
+
+The space
+This 754 SF loft features 475 SF of living and kitchen space on the first floor and 234 SF bedroom loft on the mezzanine level.
+
+Guest access
+Prior to your arrival, you will receive a unique key code that will give you access to the property.  This code will unlock the main door to the building, your unit, as well as the stairwell door and elevator.
+
+Although there is no on-site parking, there are a wide array of parking options nearby.  Upon booking your stay, we will send you a detailed parking guide.
+
+Other things to note
+We require Friday and Saturday nights to be booked in the same reservation unless the reservation is for 5 nights or longer. Under certain scenarios we can make exceptions to this, so please ask if you are looking to check-in or out on Saturday.
+
+We are also neighbors to a very cool and elegant cigar bar called The Ariston. They have a full bar and sell amazing cigars! The smell is occasionally noticeable in the halls but almost never in the rooms, and is rarely an issue with guests. We always like to address it upfront just to be safe (and to make sure y'all stop by the cigar bar if you're interested!).
+
+*Acceptance of reservations for local residents (residing within 60 miles of Nashville) is at the discretion of the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anchor Rentals
+Host User ID: 115218273
+Host Profile URL: https://www.airbnb.com/users/show/115218273
+Host Profile URL Source: public user permalink from passport userId
+Anchor Rentals is a small, locally-owned company dedicated to our guests. 
+We have curated our properties to ensure your stay in Nashville is a world-class experience. From custom-made furniture by local craftsmen to commissioned art, we are committed to providing you with an exceptional stay.  We strive to provide our guests quality service that sets us apart from the rest. 
+At Anchor Rentals, we also like to give back to the community. 5% of the proceeds from every rental is given to our Rooms for Rooms program. When you stay with us you help provide a bed and warm meal to someone who is in need.
+My work: Anchor Rentals
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3068 reviews
+4.94 out of 5 average rating
+10 years of hosting

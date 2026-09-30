@@ -1,0 +1,100 @@
+URL: https://www.airbnb.com/rooms/1774781692324407795
+Latitude: 36.1575
+Longitude: -86.7746
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay near Nashville’s top attractions at this 3‑star property, less than a mile from Broadway, Bridgestone Arena, Music City Center, and the Country Music Hall of Fame. Walk to live music, dining, and Ryman Auditorium, with Nissan Stadium and Vanderbilt University minutes away. Enjoy free hot breakfast, fast WiFi, and professionally managed comfort throughout your stay.
+
+The space
+✨ Your Private Room
+Your Nashville home base is anything but ordinary. This non-smoking King Study offers more room to move, stretch, and settle in. Whether you're crashing after a night out or working remotely between events, you’ll love the blend of comfort, convenience, and style—right in the heart of the action.
+
+✨ Room Highlights
+✔️ 1 ultra-comfy King bed + sofa bed—great for couples, families, or friends on a Nashville getaway
+✔️ Spacious lounge area—stretch out, sip something cold, and map your Music City plans
+✔️ Mini-fridge & microwave—late-night snacks, cold drinks, or day-after hot chicken leftovers? Sorted.
+✔️ Coffee maker to fuel up before your Ryman tour or honky-tonk crawl
+✔️ Big-screen HDTV with all the good stuff—kick back with movies or live game nights
+✔️ Work desk—ideal for journaling, trip planning, or firing off a few emails before heading to Broadway
+✔️ Sparkling clean bathroom with fluffy towels & powerful shower—perfect after a night of dancing
+✔️ Lightning-fast Wi-Fi—stream, scroll, and share those rooftop rooftop shots instantly
+✔️ Custom climate control—stay cool or cozy no matter what Nashville’s weather is doing
+✔️ Always smoke-free for that clean, fresh arrival vibe
+
+✨ Perks You Won’t Find in Most Airbnbs
+✔️ Free hot breakfast daily—waffles, eggs, fruit & all the fixings (no cooking or dishes!)
+✔️ 24/7 front desk team—real humans, real help, anytime
+✔️ On-site fitness center—get your steps in before you hit the hot chicken spots
+✔️ Paid self-parking—because circling downtown isn’t part of the plan
+✔️ Pet-friendly stay—bring your pup along for the Nashville fun (fee applies)
+✔️ Business center—perfect if you’re mixing work with Nashville play
+✔️ Elevator access—no stairs, no sweat
+
+✨ Nearby Favorites
+✔️ Broadway Honky Tonks – Live music, neon lights, and non-stop nightlife just steps away
+✔️ Bridgestone Arena – Catch concerts, NHL games, and big-name events right around the corner
+✔️ Music City Center – Whether you're here for a conference or expo, you're already there
+✔️ Ryman Auditorium – The "Mother Church of Country Music" is a must for music lovers
+✔️ Country Music Hall of Fame – Dive into Nashville’s soul at this legendary museum
+✔️ Johnny Cash Museum – Explore the Man in Black’s story through rare memorabilia
+✔️ Ascend Amphitheater – Open-air concerts and riverfront vibes make for unforgettable nights
+
+Guest access
+24/7 front desk assistance for anything you need
+
+Other things to note
+✨ Good to Know Before You Book
+
+▶ Check-In & Deposit
+✔️ Check-in: 4:00 PM / Check-out: 12:00 PM
+✔️ You must be 18 to rent this room. Only the person's name on the booking will be allowed to check in.
+✔️ Valid photo ID and credit card required at check-in. Special requests are subject to availability; additional charges may apply.
+✔️ A refundable incidental deposit of $75 per night is collected at check-in
+❗ IMPORTANT NOTE: Guests who do not check in as scheduled will be considered a no‑show.
+
+▶ Parking
+✔️ Paid self-parking available
+• Parking fee: $59 + tax per night
+
+▶ Breakfast
+✔️ Free hot breakfast served daily
+• Monday–Friday: 6:00 AM–10:00 AM
+• Saturday–Sunday: 7:00 AM–11:00 AM
+
+▶ Pet Policy
+✔️ Pet-friendly! Up to 2 pets allowed
+• $75 fee for 1–4 nights, $125 for 5+ nights
+
+▶ Property Perks Airbnb Guests Love
+✔️ Free hot breakfast daily
+✔️ 24/7 front desk support
+✔️ Fitness center on-site
+✔️ Steps to Broadway, Bridgestone Arena & Country Music Hall of Fame
+✔️ Variety of spacious room types perfect for groups and families
+✔️ Daily housekeeping included
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Suites Nashville Downtown
+Host User ID: 709208835
+Host Profile URL: https://www.airbnb.com/users/show/709208835
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+418 reviews
+4.67 out of 5 average rating
+1 year of hosting

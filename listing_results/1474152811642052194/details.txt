@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1474152811642052194
+Latitude: 36.15457
+Longitude: -86.77467
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place in the heart of the Country Music Capital. Enjoy a day out exploring and then come back and lounge on the sundeck at the rooftop pool and take in those stunning views. Don’t stop there, check out our yoga, fitness center or even our community workplace spaces. Guest have full, private access to the apartment, including a fully equipped kitchen, walk-in shower, full size washer/dryer, Queen size bed and more! 
+
+Permit# T2022056516
+
+The space
+Located at Sentral Sobro of Nashville, This retreat offers a city view and is just a short walk to Broadway where you will find the Iconic Honky Tonks, Jason Aldean's Kitchen & Rooftop Bar, Dierks Bentley's Whiskey Row,  Tootsies Orchid Lounge & SO much more! Whether you are here for Nightlife, Music, an event or good eats Downtown Nashville has so much to offer.
+
+*  This beautiful retreat offers a Resort-Style Saltwater Pool with a rooftop view
+
+* Gym access which includes yoga & cycling
+
+* Work space & Community space
+
+* Sky Lounge & Outdoor patio/grill for a nice meal along with a fire pit & cozy outdoor seating
+
+Check In is at 4:00pm
+Check Out is at 11:00am
+
+Relax & Unwind in this Vibrant full access retreat and experience all that Nashville has to offer.
+
+Guest access
+Guest have Full access to the apartment
+
+Other things to note
+There is free parking in the front of the building that requires parallel parking, There is also paid parking in the parking garage to the building and you can scan to pay.
+
+** ask about an early check in for an additional fee **
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 118672122
+Host Profile URL: https://www.airbnb.com/users/show/118672122
+Host Profile URL Source: public user permalink from passport userId
+Hello my name is Ashley and my mother Jennifer and I have always loved being in the community and assisting others. We’re both born and raised in Nashville TN so if you have any questions we’re the ones to help. We love outdoors and soaking up Tennessees beautiful weather. We look forward to hosting you :)
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+70 reviews
+4.99 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1597360194479092323
+Latitude: 36.2201
+Longitude: -86.7048
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family/friends at this peaceful place to stay.
+
+You’ll want for nothing as you adventure day and night in Music City. This warm, friendly resort is close to Nashville’s best music, liquor, and historical landmarks. One mile from the Grand Ole, it provides a great base to explore all the middle Tennessee has to offer: The Country Music Hall of Fame and Museum and the Nashville Zoo, Plus, take a scenic drive out to the Jack Daniel’s Distillery or restaurants of Green Hills
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ide
+Host User ID: 156134184
+Host Profile URL: https://www.airbnb.com/users/show/156134184
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and French
+Lives in Lawrenceville, Georgia
+Response rate: 90%
+Responds within a day
+Superhost
+8 years hosting
+64 reviews
+4.81 out of 5 average rating
+8 years of hosting

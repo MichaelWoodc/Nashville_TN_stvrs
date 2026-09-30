@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/821090579778077090
+Latitude: 36.17822
+Longitude: -86.75939
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy this beautiful, cozy space, located centrally, in the heart of East Nashville. Fully stocked, two bedroom, 1.5 bath town-home perfect for a quick get away or extended stay.
+
+Nestled in the vibrant neighborhood of East Nashville, this stunning condo is within walking distance to hundreds of local restaurants, breweries, and some of Nashville's HOTTEST attractions. Only a 5-minute Uber/Lyft ride to Nissan Stadium! The ultimate Nashville getaway awaits you.
+
+The space
+After your jam-packed days exploring Music City, come home to relax in any of the comfortable and spacious 2 bedrooms with queen-size beds (sofa bed in living room also converts to queen sofa sleeper). Prep delicious home-cooked meals in the fully stocked kitchen with all your cooking essentials. End your night by heading to the living room to switch on your favorite show on the large smart TV while enjoying popcorn and relaxing peacefully. 
+
+▶︎ 1 free reserved parking space available - 2 more first come-first serve parking spaces - plus plenty of street parking if needed
+▶︎1 Air mattress provided
+▶︎ Coffee + Creamer + Sugar provided
+▶︎ Hi-speed Internet
+▶︎ Washer + Dryer available for use
+▶︎ Soft, clean linens for each bed
+▶︎ Fresh bath towels, shampoo, body wash and hair dryer provided
+▶︎ 5 minute Uber to Downtown + Broadway
+
+Other things to note
+LOCATION:
+2 mins: Five Points
+4 mins: Nissan Stadium
+5 mins: Germantown
+5 mins: Nashville Yards
+5 mins: Music City Center
+5 mins: Sobro Nashville
+7 mins: Johnny Cash Museum
+5 mins: Country Music Hall of Fame and Museum
+6 mins: Broadway Nashville
+6 mins: Wedgewood Houston
+7 mins: Centennial Park
+7 mins: Tennessee State University
+8 mins: Vanderbilt University
+9 mins: Ted Rhodes Golf Club
+8 mins: RCA Studio
+7 mins: The Gulch
+8 mins: Music Row
+9 mins: Midtown Nashville
+9 mins: The Parthenon
+10 mins: Vanderbilt University Medical Center
+10 mins: Belmont Mansion
+10 mins: Grand Ole Opry
+12 mins: McCabe Golf Course
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rindi
+Host User ID: 440774932
+Host Profile URL: https://www.airbnb.com/users/show/440774932
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+823 reviews
+4.88 out of 5 average rating
+5 years of hosting

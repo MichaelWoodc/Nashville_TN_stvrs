@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/53386412
+Latitude: 36.18078
+Longitude: -86.75382
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Clean, crisp and new- this apartment is built above a 3 car garage is the heart of East Nashville. High end trim outs and plenty of light, it’s easy to feel at home in this hip hide away in Music City. 2 miles from down town and minutes from shopping, eating and drinking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wojtek
+Host User ID: 46229313
+Host Profile URL: https://www.airbnb.com/users/show/46229313
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Indiana University
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+703 reviews
+4.94 out of 5 average rating
+10 years of hosting

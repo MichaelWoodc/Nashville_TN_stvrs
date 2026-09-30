@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/932515359767609560
+Latitude: 36.21759
+Longitude: -86.70468
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern traditions of hospitality and charm, you’ll want for nothing as you adventure day and night in Music City. Luckily, this warm, friendly resort is close to Nashville’s best music, liquor, and historical landmarks.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrew & Lisa
+Host User ID: 452763106
+Host Profile URL: https://www.airbnb.com/users/show/452763106
+Host Profile URL Source: public user permalink from passport userId
+Lives in Rochester, New York
+Response rate: 95%
+Responds within a few hours
+4 years hosting
+443 reviews
+4.66 out of 5 average rating
+4 years of hosting

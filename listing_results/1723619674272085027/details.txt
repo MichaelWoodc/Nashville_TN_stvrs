@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1723619674272085027
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a brand new suite located in the heart of Nashville!
+Perfect for all occasions and the whole group will enjoy easy access to everything from this centrally located place.
+
+The suite is just steps from Broadway, the Music City Center, and Nashville’s best honky-tonks.
+
+Enjoy the properties amenities including pool, gym, and lounge.
+
+Walkable to dining, nightlife, and top attractions.
+
+20mins from BNA Airport
+
+Parking $25 per night
+
+PermitT2022050192
+
+The space
+The suite comfortably accommodates 4 guests with a queen size bed and two single fold down couches.
+
+Vanity space
+
+Kitchen is equipped with kitchen essentials
+
+Smart TV available for your favorite streaming services
+
+Wifi available
+
+Private balcony
+
+In-unit washer and dryer
+
+Enjoy the amenities the property has to offer such as pool, gym, and lounge.
+
+Guest access
+Guests will gain access to the unit with a key fob.
+There is one key fob per unit and it will be retrieved from the Key Cafe lockers in the lobby upon arrival.
+
+Guests will receive access and check-in instructions prior to check-in.
+
+Other things to note
+Parking is available upon request for one vehicle.
+Parking is $25 per night
+If you have additional vehicles, you may park the additional vehicles at Guest Parking. Please note the property charges their own guest parking fees.
+
+Early check-in is available upon request and availability. $50 fee
+
+Late check-out is available upon request and availability. $50 fee
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: SamEstem
+Host User ID: 1673911674956092597
+Host Profile URL: https://www.airbnb.com/users/show/1673911674956092597
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 months hosting
+15 reviews
+4.93 out of 5 average rating
+2 months of hosting

@@ -1,0 +1,98 @@
+URL: https://www.airbnb.com/rooms/1303926528246221758
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! This brand-new studio is located in the heart of Music Row, just one mile from all the iconic attractions Music City has to offer—Broadway, the Country Music Hall of Fame, Bridgestone Arena, Nissan Stadium, and more! Accommodating up to 4 guests, this studio is perfect for a weekend escape or an extended stay. The building features outstanding amenities, including a seasonal pool, a pool table, secure parking for one vehicle, and a guest gym. Your Nashville adventure starts
+
+The space
+Listing provided by Chady Property Management.
+
+The condo is located in the new H&O building in Music Row.
+-3rd Floor
+-Elevator Access
+
+Unit Description:
+
+-This is a studio unit with two beds. king bed and queen sleeper sofa.
+-One full bath.
+-Fully stocked kitchen with the exception of an oven. 
+-Keurig coffee maker w/ startup supply of pods provided.
+-Washer/dryer in unit. 
+-Startup toiletries provided
+
+Building Amenities:
+
+-Pool (seasonal) The pool opens May 1st.
+-Fitness center
+-Rooftop with downtown views
+-Free, secure parking for 1 vehicle
+-Street parking available
+-EV charger in rear exterior parking area (not in garage)
+-Clubhouse w/pool table
+-Conference room
+
+Nearby Locations:
+
+-1.5 Miles to Bridgestone Arena
+-1.5 Miles to Broadway Honky Tonks
+-1.7 Miles to Vanderbilt
+-2.7 Miles to Nissan Stadium
+-1.0 Mile to the Gulch
+- <1 mile to Belmont University
+-9.0 Miles to BNA (Nashville Airport)
+
+Things to note:
+
+-At Chady Property Management, we want to ensure you have a great experience. Please note that we do not have control over the cleanliness, maintenance, repairs, or availability of common areas and amenities, as these are managed by the HOA. If any building amenities become unavailable or experience issues, we cannot be held responsible for those spaces. However, if concerns arise, feel free to notify us, and we will promptly report the issue to the HOA on your behalf.
+- Eligible refunds may incur a 3% credit card processing fee, which will be deducted from the refunded amount.
+- All properties offer contactless check-in. Please arrive between 4 p.m. and 8 p.m. If you arrive later, you can still check in, but assistance may not be available. Checkin time is always 4pm unless approved in writing by management. If you book  and edit your checkin time to be earlier than 4pm, you will not be able to checkin until 4pm.
+-Locals must inquire before booking. If a local resident books without first inquiring, management has the right to cancel the reservation without the possibility of a refund.
+-No pets allowed! We love pets, but unfortunately, they’re not allowed at this property. Please note that an unauthorized pet will result in a $500 fee.
+-Smoking Policy: Smoking and vaping are not allowed anywhere on the property, including common areas, the rooftop deck, patios, and balconies. 
+-Parking: Vehicles parked in the rear lot must be registered using the Park Eaz signs posted on-site.
+-Trash Disposal: Trash rooms are located on each floor, south of the elevators. Please make sure all bagged trash goes inside the bins—nothing should be left in the hallways, as it can cause odors and carpet staining.
+-Rooftop Deck: The rooftop deck off the clubroom is open year-round. Guests can access it through the 5th-floor clubroom using the keypad to the left of the double doors.
+(It will use the same access code provided to guests for the stay.)
+
+Other things to note
+-You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+-Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4198 reviews
+4.78 out of 5 average rating
+5 years of hosting

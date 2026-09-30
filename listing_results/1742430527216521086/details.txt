@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1742430527216521086
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Set the scene in the heart of Music Row. Cast & Chord is a 2BR/2BA in the Crescendo, a purpose-built stay on 16th Ave S—steps from music studios, Vanderbilt, 12 South and the Gulch. Inside: two bedrooms and two full baths—great for two couples or a group—plus a fully stocked kitchen, fast Wi-Fi, and in-unit laundry. Upstairs, the rooftop deck serves panoramic skyline views, a pool with baja ledge, a fitness room, gated garage, and EV charging. Cut a track or soak up Music City. Book today.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Courtney
+Host User ID: 56210655
+Host Profile URL: https://www.airbnb.com/users/show/56210655
+Host Profile URL Source: public user permalink from passport userId
+Nashville native here — though I took quite the scenic route back home by way of Brooklyn and southern Georgia! I'm passionate about good food, new adventures, and the belief that travel genuinely makes us better humans.
+
+I'm so excited to share a little piece of Nashville with you and do whatever I can to make your stay a great one. Welcome!
+Where I went to school: Fashion Institute of Technology
+My work: Jill of all trades
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+216 reviews
+4.96 out of 5 average rating
+2 years of hosting

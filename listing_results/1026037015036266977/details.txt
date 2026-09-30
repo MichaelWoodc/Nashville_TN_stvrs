@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1026037015036266977
+Latitude: 36.21705
+Longitude: -86.70491
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just one mile from the Grand Ole Opry, this resort provides a great central location to explore all that central Tennessee has to offer.  Whether you choose to visit the Country Music Hall of Fame, the Nashville Zoo, or the Jack Daniel's Distillery, you will find adventure and Southern hospitality day and night in Music City!
+
+The space
+This is a one bedroom/one bath condo.  It has a King sized bed and a Queen sized sleeper sofa.  There is a washer/dryer and a kitchen.  
+It is either a suite or a deluxe unit, based on availability when the host confirms.
+This is a timeshare resort, you will NOT be required to attend a timeshare presentation or tour the property but you will have the benefits that this first class resort offers. Individual unit decor may vary slightly from photos as resorts make updates and changes.
+Staying at a vacation resort property has many advantages over the traditional hotel stay.
+Assigned unit may be handicap accessible.
+
+Guest access
+Amenities
+2 Outdoor Swimming Pools
+Organized Activities Program
+Outdoor Hot Tub
+Live Entertainment
+Basketball
+Indoor Swimming Pool
+Exercise Equipment
+Playground
+Picnic/BBQ Area
+
+Other things to note
+Parking is free (no valet parking available).
+The nearest grocery store is five miles from the resort.
+A vehicle is recommended to enjoy the area.
+Buildings 10 and 11 do not have elevators.
+A credit card is required for the $250 security deposit requested at check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sean
+Host User ID: 56490293
+Host Profile URL: https://www.airbnb.com/users/show/56490293
+Host Profile URL Source: public user permalink from passport userId
+Hello, my name is Sean!  I'm a New York City based musician (piano) and travel specialist.  As an avid traveler myself, I love helping individuals, couples, and families find great vacation spots throughout America.  When not connecting guests to great vacations, I frequently am found playing for auditions, rehearsals, and performances throughout NYC.
+My work: NYC Pianist
+Most useless skill: Elementary level oboe playing
+Response rate: 96%
+Responds within a few hours
+Superhost
+11 years hosting
+725 reviews
+4.78 out of 5 average rating
+11 years of hosting

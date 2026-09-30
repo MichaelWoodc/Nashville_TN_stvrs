@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/663643442723977949
+Latitude: 36.18003
+Longitude: -86.75634
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our luxury home with 2500 square feet of living space and balcony! Centrally located to live music, food, entertainment and a convenient $6 Uber ride to downtown; 1.5 miles to the stadium and 2 miles to Broadway. We are also within walking distance to some of East Nashville's top spots!
+
+Don't miss our special mural for your very own Nashville wings. Ideal for the Gram and taking photos to highlight your perfect stay!
+
+The space
+The house has multiple levels with ample bedding for large groups and families. It features an amazing, furnished rooftop terrace for supreme leisure with friends or family. The kitchen has all new appliances and is stocked with basic cooking supplies, dishes, and a coffee maker. The living room is very bright and cozy with a large floating Smart TV. The living area is an open floor plan connecting with the fun common space and should be perfect for your entire group to spend time together during your stay. This home is centrally located in a safe, fun neighborhood walking distance to so much action!
+
+★ Modern Kitchen with Great Appliances
+★ Large Private Rooftop
+★ Trendy Area in Nashville
+★ Professionally Designed
+★ Walking Distance to So Many Great Spots
+★ YouTube TV for Live Streaming
+★ TVs in Each Bedroom and Living Room
+
+Guest access
+You will have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

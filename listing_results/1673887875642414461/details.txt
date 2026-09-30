@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1673887875642414461
+Latitude: 36.1762
+Longitude: -86.7556
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 5
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+When you want to stay close but still have your own space, this is it. Three suites on your own private floor at The Eighteen, sleeping up to 16 guests. Full kitchens, in-unit laundry, and rooftop deck access with breathtaking Nashville city views — all included. Perfect for families, bachelorette parties, and small wedding parties. Our tech-enabled apartments  offer self check-in at 4pm, 24/7 guest support by text and Virtual Front Desk accessed via mobile device.
+
+The space
+This floor buyout accommodates up to 16 guests across 3 rooms. Maximum occupancy per room type applies.
+
+SLEEPING ARRANGEMENT:
+This listing is a combined reservation for all 3 suites accommodating up to 16 guests. Maximum occupancy per room type applies.
+
+(1) One-Bedroom Suite with:
+Living area: 1 queen-size sofa bed (sleeps 2)
+Bedroom: 1 king bed (sleeps 2)
+
+(2) Two-Bedroom Suites, each with:
+Living area: 1 queen-size sofa bed (sleeps 2)
+Bedroom 1: 1 king bed (sleeps 2)
+Bedroom 2: 1 queen bed (sleeps 2)
+
+LIVING SPACE:
+- Full-kitchen with stove, oven, microwave, toaster, refrigerator, dishwasher, cookware dishware, and silverware
+- Coffee and tea facilities
+- In-unit washer and dryer
+- Bath products
+- Iron and ironing board
+- Hairdryer
+
+PARKING:
+Complimentary garage parking is limited to 5 spaces, first come, first served.
+
+Guest access
+In addition to your private space, you can enjoy the following:
+
+ADDITIONAL AMENITIES
+- Roof deck
+
+We manage each aspect of your stay, so you can count on reliable service from booking to checkout, all while enjoying a self-directed experience. Every Kasa offers:
+
+- 24/7 support (text us any time!)
+- A desirable locale close to points of interest and attractions
+- Professional cleaning
+- Thoughtful design for your comfort and convenience 
+- Security protocols, including ID verification
+- Care-focused technology for detecting noise and smoke
+
+Other things to note
+- If you prefer to modify or cancel one of the rooms, you will need to cancel the entire block of rooms and re-book again. The rate might differ from the original rate you booked.
+- The price is for all rooms combined.
+- Guests are required to complete a Pre-Arrival Checklist, which includes a virtual ID check, and the option to request early check-in (subject to availability). We operate through a Virtual Front Desk, and self check-in is entirely contactless. We'll send you instructions on accessing our property and your Kasa before you arrive. Questions? Contact us 24/7.
+- One approved animal is allowed per unit at a nightly fee of $8-30/night based on length of stay. Pet registration is required prior to arrival.
+- Five complimentary parking spaces are available in our garage, first come, first served 
+- There is no luggage storage at this property.
+- Housekeeping services are only provided upon request at an additional cost per cleaning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kasa
+Host User ID: 239175383
+Host Profile URL: https://www.airbnb.com/users/show/239175383
+Host Profile URL Source: public user permalink from passport userId
+Mint House offers apartment-style hospitality for the modern traveler—design-forward, tech-enabled, and tailored to how people live today. Every stay combines the functionality and comfort of home with the convenience and reliability of a premium hotel, powered by intuitive technology that personalizes and streamlines every moment.
+Speaks English and Spanish
+Lives in Austin, Texas
+Response rate: 100%
+Responds within an hour
+8 years hosting
+3583 reviews
+4.67 out of 5 average rating
+8 years of hosting

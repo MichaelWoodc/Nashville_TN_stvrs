@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1481158903223179155
+Latitude: 36.17722
+Longitude: -86.75776
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great for large groups, families traveling together + teams!
+
+Walking distance to many restaurants, bars, venues + shops in East! Short 1.1 miles to Nissan Stadium + a short ride to downtown Broadway! Perfect for large groups and couples!
+
+The space
+The artwork in the unit is all local artists!
+We love to support our friends and community.
+
+✔️The first floor has two queen bedrooms and one bath.
+✔️Take the flight of stairs up to the main quarters and you’ll find a fully equipped chefs kitchen, a six person designer wood table to dine, and an expansive living area.
+✔️Take the next flight of stairs up to the third-floor where you will find a queen bedroom with a bathroom, a king master with an en suite bathroom.
+✔️Take some selfie‘s or group photos in front of our Nashville selfie wall!
+✔️Enjoy the rooftop feels and views as you make your way to the fourth floor. Here you can enjoy a game of cod hole or ring toss!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stay Wandering
+Host User ID: 420371928
+Host Profile URL: https://www.airbnb.com/users/show/420371928
+Host Profile URL Source: public user permalink from passport userId
+For the Wander's in the World..
+
+We love bringing these boutique, chic, central, spacious listings to you! We're known for our 3-4 bedroom townhomes nestled on the city lines. Perfect for families, friends trips, bachlorette parties + your home away from home experience!
+
+Enjoy Music City and come home to our townhomes to rest, gather + make memories!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+5 years hosting
+2873 reviews
+4.71 out of 5 average rating
+5 years of hosting

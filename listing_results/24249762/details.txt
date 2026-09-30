@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/24249762
+Latitude: 36.1544
+Longitude: -86.8168
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wake up to skyline views and end your nights on a massive private rooftop overlooking downtown Nashville.
+
+This modern townhome sleeps up to 10 guests, making it perfect for groups, families, and weekend getaways. Enjoy a huge rooftop lounge with sectional seating and an outdoor TV, an open living space, and spa-style comforts throughout.
+
+ Just $8–$11 Uber to Broadway, with free private garage parking and easy self check-in for a seamless stay.
+
+The space
+This modern, spacious townhome is designed for comfort, connection, and enjoying Nashville together. The open-concept layout makes it easy to cook, relax, and gather, while multiple outdoor spaces give everyone room to spread out.
+
+WHAT GUESTS LOVE
+• Huge private rooftop with downtown skyline views
+• Large rooftop sectional seating and outdoor TV
+• Sleeps up to 10 guests comfortably
+• Private 2-car garage (rare in Nashville)
+• Super-fast Wi-Fi and smart TVs
+• Easy self check-in with smart lock
+
+THE SPACE
+Main Living Area:
+Bright, open living room with comfortable seating, a fully equipped kitchen with a large island, and a spacious dining area perfect for group meals.
+
+Outdoor Spaces:
+A massive private rooftop with skyline views, sectional seating, and an outdoor TV, plus two additional private balconies.
+
+Sleeping Arrangements:
+Bedroom 1: 2 Queen beds + 1 Twin bed
+Bedroom 2: 1 Queen bed + 1 Twin bed
+Bedroom 3: 1 King bed  1 Twin bed
+Additional sleeping via sofa beds in common areas
+
+Bathrooms:
+Clean, modern bathrooms with spa-style rain shower, plush towels, premium shampoo and body wash, and hairdryers provided.
+
+Guest access
+Guests have private, exclusive access to the entire home, including the rooftop and balconies. Self check-in with smart lock and private 2-car garage included.
+
+Other things to note
+This is a city townhome designed for groups enjoying Nashville. The rooftop is a highlight, please be mindful of quiet hours in the evening. Starter essentials are provided, and smart TVs are ready for your personal streaming accounts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

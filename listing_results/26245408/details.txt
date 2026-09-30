@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/26245408
+Latitude: 36.1248
+Longitude: -86.78187
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville!  Entertain, unwind, and enjoy your stay! 
+This recently renovated, elegant home has 4 bedrooms and 3 full baths! Comfy bamboo foam memory mattresses, new appliances, marble bathrooms, tons of fluffy towels, great wifi & lots of extra touches make this the best place to call home while exploring Nashville.
+The Hillview House with tandem parking for 3 cars is ideally located in the highly desirable 12 South neighborhood near everything & only 11 min from downtown Nashville!
+
+The space
+Upon arriving at our gorgeous farmhouse chic 2800 sq ft home, you'll let yourself in with your own unique entry code and find a fully equipped kitchen on the first floor, with an open concept layout into the dining and living area equipped with a swiveling flat screen Roku TV. Downstairs features master bedroom and spa like marble master bath with double vanities, large soaking tub and a luxury walk in shower. A second extra large bedroom has a desk and computer monitor with speakers & a printer for guests to use as well as an additional living area with comfy leather couch and second 55 inch TV. 
+-2 large bedrooms both upstairs and down and 3 full bathrooms mean all your guests will never feel on top of each other. 
+-2 separate Nest smart thermostats for upstairs and down so your guests will be comfortable any time of year. 
+-For families traveling with littles, we provide a pack n play with clean sheets, an additional car seat( fits up to 60 lbs), 2 strollers, baby gate for the stairs & a big bucket of play toys. 
+-Dining table seats 6-8 (extra chairs located in hall closet) & seating for 4 at the kitchen island.
+- We provide, everything you need to make your stay feel like a 5 star hotel- high end soaps, shampoos, Barista Parlor high end coffee beans and grinder, endless fluffy towels, hotel quality sheets/ duvets.... 
+-Brand new washer and dryer with laundry soap provided.  
+-Back deck has umbrella shaded patio seating and a great gas grill.
+
+Guest access
+Guests will have access to the entire home.
+
+Other things to note
+*This home is equipped with security cameras on front and back of the house for guest security.
+
+*Out of respect for our neighbors we have decided not to host bachelor or bachelorette parties at this home.
+
+*We highly recommend purchasing travel insurance as there are no exceptions made to our cancellation policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neal
+Host User ID: 15586733
+Host Profile URL: https://www.airbnb.com/users/show/15586733
+Host Profile URL Source: public user permalink from passport userId
+I've been a Superhost on Airbnb for 10 years and love sharing my favorite city with people from all over the world!
+Born in the 80s
+My work: Hospitality, Music
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5622 reviews
+4.93 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/49945924
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in a bold, indulgent downtown escape featuring custom design and eclectic decor just 2 blocks from Broadway. The spacious residence features a KING bed and QUEEN pullout sofa bed, full kitchen, coffee bar, and attached parking. Guests enjoy access to an outdoor pool, fitness center, climbing wall, and courtyard with grills and fire pits. Relax on your private city-view balcony with coffee or evening sip of wine! Brand new space-hosting additional properties in same building! STR2018073468
+
+Guest access
+Walking distance to entire downtown area! One designated reserved parking space in attached gated garage is available for $25/night. Electric charging available upon request. Additional paid parking located within garage and around perimeter of building.
+
+Other things to note
+As with any downtown property, potential for exterior noise should be taken into consideration at the time of booking. This building is located in the heart of downtown Nashville; therefore, the host is not responsible for city noise such as music, traffic, construction, etc. Sound machines/ear plugs are provided in each bedroom for the very light sleeper; however, it is rare that guests have issues with city noise. Please note these details  if you are highly sensitive to sound. This unit does face the street.
+
+This is a multi-unit property and amenity management and maintenance are outside the host's control. While issues rarely arise, any amenity that is unavailable for any reason, including but not limited to pool, common area, fitness center, etc. is not responsibility of the host. Refunds/cancellations beyond the cancellation period (as detailed at booking) will not be honored for these reasons. Please note these  details upon booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keri
+Host User ID: 195981149
+Host Profile URL: https://www.airbnb.com/users/show/195981149
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm your host, Keri! My husband Jim and I are native Tennesseans and live in Downtown Nashville! We are self-proclaimed foodies, enjoy live music, and love to travel and experience new places! Hit us with all your local questions! Hopefully you enjoy our town as much as we do!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1035 reviews
+4.95 out of 5 average rating
+8 years of hosting

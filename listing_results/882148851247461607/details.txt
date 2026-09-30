@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/882148851247461607
+Latitude: 36.18371
+Longitude: -86.75462
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Easy access to East Nashville favorites and downtown Nashville! Comfortable layout for a group!
+
+The space
+Small "country" living in the "Big" city! Lots of rustic charm!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joseph
+Host User ID: 19753195
+Host Profile URL: https://www.airbnb.com/users/show/19753195
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Columbia High, Mississippi State Univ.
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+278 reviews
+4.97 out of 5 average rating
+3 years of hosting

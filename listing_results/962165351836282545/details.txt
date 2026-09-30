@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/962165351836282545
+Latitude: 36.12852
+Longitude: -86.78907
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville's history meets modern allure. With ties to Dolly Parton's manager and close proximity to her studio, this home offers a unique historical connection. A perfect blend of relaxation and entertainment, steps away from famous 12South eats, cafes, and shops. Standout features include private parking, a nearby electric bike station, a steam shower, and a workout space. And, conveniently close to Nashville’s renowned music venues and rich downtown musical heritage and nightlife.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Louie
+Host User ID: 532873472
+Host Profile URL: https://www.airbnb.com/users/show/532873472
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+71 reviews
+4.99 out of 5 average rating
+3 years of hosting

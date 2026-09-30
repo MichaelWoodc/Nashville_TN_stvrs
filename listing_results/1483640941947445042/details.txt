@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1483640941947445042
+Latitude: 36.19384
+Longitude: -86.77069
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come Book & stay at a Modern 3-Story East Nashville Retreat | Rooftop + Luxury Finishes 
+
+Welcome to your stylish home-away-from-home in the heart of East Nashville! This brand-new, designer-curated 3-story home blends modern luxury and minutes to Broadway and Nissan Stadium
+
+Location Highlights:
+
+10 minutes to Broadway – Honky-tonks, live music, and nightlife
+
+5 minutes to Nissan Stadium – Catch the Titans or your favorite concert
+
+*please note: there is new construction next door Mon-Fri
+
+The space
+This 3-bed 4-bath home is 3 stories with a full kitchen, two living rooms, indoor and outdoor dining and a rooftop patio.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kaylea
+Host User ID: 521416232
+Host Profile URL: https://www.airbnb.com/users/show/521416232
+Host Profile URL Source: public user permalink from passport userId
+Hi there! I’m Kaylea and I’ve been proudly hosting in Nashville for almost two years. I fell in love with this vibrant city’s music, food, & charm and I love sharing that magic with my guests. Whether you’re here for a weekend getaway, a live show, or a taste of authentic Nashville hospitality, I’m here to make sure your stay is incredible. I’m happy to help you experience Nashville like a local. Welcome to Music City — I can’t wait to host you!
+Born in the 90s
+My work: Designer
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+114 reviews
+4.96 out of 5 average rating
+3 years of hosting

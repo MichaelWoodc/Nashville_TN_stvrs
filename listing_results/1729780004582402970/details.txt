@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1729780004582402970
+Latitude: 36.195
+Longitude: -86.7711
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Keep it simple at this peaceful, centrally located home near downtown and the Titans stadium. Enjoy the park next door, swing on the porch, or relax in the private backyard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keith
+Host User ID: 113030717
+Host Profile URL: https://www.airbnb.com/users/show/113030717
+Host Profile URL Source: public user permalink from passport userId
+I’m Keith Stafford, I was born and raised in East Nashville. 
+It’s really good to see the area growing again. I can’t wait to see what the future holds for Nashville.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+109 reviews
+4.89 out of 5 average rating
+8 years of hosting

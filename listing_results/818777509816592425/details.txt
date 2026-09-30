@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/818777509816592425
+Latitude: 36.1463
+Longitude: -86.78176
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pool is OPEN! Modern 1BR condo at Illume with stunning skyline views, secure garage parking, pool, gym, and private balcony. Walk to the Gulch, Edgehill, and WeHo. Perfect for couples or business travelers, with fast WiFi, full kitchen, in‑unit laundry, and an air mattress for extra guests. Bright, stylish, and close to everything Nashville offers. Enjoy resort‑style amenities in a quiet, upscale building minutes from downtown.
+
+The space
+You’ll Love:
+•	Access to a heated outdoor pool, modern gym, and gas grill area — unwind or stay active with ease
+•	Secure indoor garage parking — included for peace of mind in a prime location
+•	Comfortably sleeps up to 4 guests with a queen pull-out sofa in the living room
+•	Full kitchen stocked with essentials, in-unit washer/dryer, Smart TV, and high-speed Wi-Fi
+•	Minutes from the Gulch, Edgehill, Weho, Broadway, The Ryman, Bridgestone Arena, and Nashville’s top dining spots
+
+Guest access
+Building Amenities: You’re welcome to enjoy the building's heated pool, fitness center, and free parking garage during your stay. Please note that the pool is available seasonally, pool and gym hours may vary.
+
+Note: The condo is entirely yours, but common areas of the building, such as the lobby and hallways, are shared with other residents.
+
+Other things to note
+•	Heating / Air conditioning
+•	High-speed Wi-Fi
+•	Smart TV (with streaming capabilities)
+•	Fully stocked kitchen
+•	In-unit washer/dryer
+•	Heated outdoor pool
+•	Fitness center
+•	Gas grill (shared)
+•	Secure indoor garage parking
+•	Balcony with seating
+•	Self check-in with smart lock
+•	Elevator access
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: JIll
+Host User ID: 40056224
+Host Profile URL: https://www.airbnb.com/users/show/40056224
+Host Profile URL Source: public user permalink from passport userId
+I am often found dancing and singing horribly at any live music or concert event. I usually prefer country and 80s music but am always looking for the next up and coming artist with the voice that I can’t stop listening to. 
+If I’m not attending live music you can usually find me soaking up the sun outdoors, enjoying unique restaurants with friends, baking (sugar is my weakness), or winding down by working out and doing yoga.
+Born in the 70s
+Where I went to school: Minnesota
+Response rate: 100%
+Responds within a few hours
+Superhost
+6 years hosting
+140 reviews
+4.84 out of 5 average rating
+6 years of hosting

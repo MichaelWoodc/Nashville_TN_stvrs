@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/694212528485944088
+Latitude: 36.1482
+Longitude: -86.78238
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Thoughtfully designed with the Nashville tourist in mind, a sleek and spacious condo that is the perfect place to relax after a day of exploring the city.  A cozy and modern aesthetic that is inviting and close to all the action.  Take a dip in the pool or enjoy the view from the balcony.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+ 
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+Located at the sophisticated, brand-new Illume Mid-Rise, this 1BR / 1BA unit combines modern design with comfort. Endless details are found throughout the stylish interior, including a luxurious suite, smart TVs, and an immaculate kitchen.
+
+Set in Gulch View -- a prime location near downtown -- this urban escape is minutes from the city’s incredible music scene, fantastic dining, shopping, and nightlife hotspots. Luxe amenities include a beautifully landscaped courtyard and a seasonal pool in the heart of the building (open from May to October, weather permitting).
+
+Pairing contemporary style with a sustainable design, the breathtaking views from the extraordinary windows provide effortless natural light. 
+
+LIVING AREA:
+The living room includes a smart TV, two chaise chairs, and a sleeper sofa.
+
+BEDROOM:
+The bedroom has a very comfortable king bed with a full bathroom attached.
+
+KITCHEN:
+The kitchen is fully equipped for your cooking needs! 
+
+BALCONY:
+The balcony has two rocking chairs for you to enjoy your morning coffee while looking at the stunning city views!
+
+We also provide two very comfortable memory foam rollaway beds to accommodate more guests!
+
+ILLUME Amenities:
+
+Outdoor heated swimming pool
+
+Furnished pool deck with gas grill
+
+Private landscaped courtyard
+
+Public Wi-Fi at the pool
+
+Gym
+
+Lounge
+
+Other Details:
+
+Assigned parking is available for one car in the on-site garage.
+
+This unit is located on the first floor. Two secured elevators are available.
+
+LOCAL GUESTS MUST REQUEST BEFORE BOOKING.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tricia
+Host User ID: 475167303
+Host Profile URL: https://www.airbnb.com/users/show/475167303
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+211 reviews
+4.96 out of 5 average rating
+4 years of hosting

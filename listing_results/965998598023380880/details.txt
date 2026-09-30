@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/965998598023380880
+Latitude: 36.14663
+Longitude: -86.78136
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Boasting an accessible layout, sleek full kitchen, pool and gym — a modern luxury community minutes from Downtown and the Gulch. 
+Local permit #2022006219
+As part of the Illume community, this 1BR/1BA combines the amenities of a luxury hotel with the comfort of a home. The apartment sleeps four guests between a king bed and sleeper sofa.
+
+This apartment is in close proximity to downtown and the Gulch. Several neighborhoods around Nashville are a short walk, scooter ride or drive from apartment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Megan
+Host User ID: 533864300
+Host Profile URL: https://www.airbnb.com/users/show/533864300
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+105 reviews
+4.94 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,108 @@
+URL: https://www.airbnb.com/rooms/1478569083305120298
+Latitude: 36.2212
+Longitude: -86.705
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wyndham Nashville Resort | 2BR/2BA King Bed Suite
+• Size: 1066 - 1180
+• Kitchen: Full
+• Baths: 2
+• Accommodates: 6 Guests
+• Beds: King Bed - 1  Queen Sleeper Sofa - 1  Varies
+
+Room Amenities
+• Ceiling Fan
+• Hairdryer
+• In Room Safe
+• Washer/Dryer In Unit
+• DVD Player
+• Television
+• Wi-Fi Internet Access
+• Balcony/Patio - Some
+• Jetted Tub
+• Stairs
+
+The space
+Room Amenities
+• Pack ’n Play/travel crib available upon request
+• Ceiling Fan
+• Hairdryer
+• In Room Safe
+• Washer/Dryer In Unit
+• DVD Player
+• Television
+• Wi-Fi Internet Access
+• Balcony/Patio - Most
+• Jetted Tub
+• Stairs
+
+Resort Amenities 
+• Activities Center
+• Barbecue Area
+• Basketball
+• Business Center
+• Children's Playground
+• Children's Pool (Outdoor/Seasonal)
+• Computer With Internet (Shared)
+• Concierge Services
+• Conference Room
+• Fitness Center
+• Horseshoes
+• Hot Tub (Outdoor)
+• Movie Rentals
+• Picnic Area
+• Shuttle Services (Limited Area Attractions)
+• Swimming Pool (Heated/Indoor)
+• Swimming Pool (Heated/Outdoor)
+• Swimming Pool (Indoor)
+• Swimming Pool (Indoor/Outdoor)
+• Swimming Pool (Outdoor)
+
+Guest access
+• Parking is free (no valet parking available).
+• The nearest grocery store is five miles from the resort.
+• A vehicle is recommended to enjoy the area.
+• Buildings 10 and 11 do not have elevators.
+•A credit card is required for the $250 security deposit requested at check in.
+• We require the guest information for the primary guest (should at least be 21 years old) checking in to be provided as soon as possible to avoid check-in issues.
+
+Other things to note
+• Photos are not of the specific suite you are renting and your suite may vary slightly from the photos.
+• You have full access to all resort amenities for the duration of your stay, including on your arrival and departure day.
+• We will always place you in the best suite available, however we cannot guarantee a specific location in the resort.
+• Your suite may be a mobility accessible unit.
+• Information in this listing is provided by the resort and not independently verified.
+• We are not affiliated with the resort, you are renting directly from a timeshare owner. We help timeshare owners cover their HOA and maintenance costs when they can't use their properties.
+• You may be asked to watch a timeshare presentation, however you are under no obligation to do so and we recommend politely declining if you are not interested.
+• The guest checking in must be 21+ years old and present a valid credit card for a refundable damage deposit due at check-in (amount may vary, please contact the resort directly for more information)
+• Guests are required to accept additional terms and conditions in accordance with the resort's policies, including any applicable taxes and fees paid to the resort.
+• No refunds or credits will be granted outside of the listing's cancellation policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rent My Timeshare
+Host User ID: 580739474
+Host Profile URL: https://www.airbnb.com/users/show/580739474
+Host Profile URL Source: public user permalink from passport userId
+Full scale short-term rental agency obsessed with providing amazing experiences for our guests!
+Born in the 80s
+Where I went to school: University of South Carolina
+Response rate: 99%
+Responds within an hour
+2 years hosting
+488 reviews
+4.75 out of 5 average rating
+2 years of hosting

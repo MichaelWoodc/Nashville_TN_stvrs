@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/809366600221516562
+Latitude: 36.1629
+Longitude: -86.7813
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 11
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Broadway from this 4,400 sq ft Penthouse with  2 floors and 7 sleeping areas at The Maddox Hotel. Includes a 1500 sq ft outdoor patio deck overlooking the city.  It  is ideal for bachelor/bachelorette gatherings, special occasions, corporate retreats, executive getaway or business meeting. Every member of your group will enjoy easy access to everything from this centrally located suite. TPAC, Bridgestone Arena, Titans Stadium, The Gulch, and 2nd & Broadway are all within walking distance
+
+The space
+Our beautifully furnished 4,400 sq feet unit has 6 bedrooms, an additional sleeping area and 4 full baths (1 of the bathrooms is in the Penthouse). This suite has the most unique Penthouse downtown and a 1,500 sq ft of rooftop deck for your exclusive enjoyment. It's ideal for parties, corporate or business meetings and more. The space includes high-speed WiFi, AV equipment, breakout areas and catering options. You also have a full kitchen, refrigerator and freezer, ice maker, dishwasher, air fryer, crock pot, waffle maker, and toasters.
+
+Other things to note
+The Maddox Hotel Team is available 24/7 via your booking app. We can interact as much or as little as you would like. This is your party!! There is a downtown grocery store within walking distance or a Whole Foods and Publix, both a mile away. If you are holding a business meeting or corporate retreat, we can provide white boards as well as game rooms in each suite for team building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Maddox
+Host User ID: 388968184
+Host Profile URL: https://www.airbnb.com/users/show/388968184
+Host Profile URL Source: public user permalink from passport userId
+Welcome to our Luxury Hotel in downtown Nashville! We pride ourselves on providing the best guest experience possible while being in the perfect location to explore all that Nashville has to offer!
+My work: BoutiqueHotelManager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1072 reviews
+4.95 out of 5 average rating
+5 years of hosting

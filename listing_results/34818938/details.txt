@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/34818938
+Latitude: 36.17453
+Longitude: -86.75719
+rental_type: Room in boutique hotel
+property_type: BOUTIQUE_HOTEL
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Boutique hotel housed in a beautiful historic church in East Nashville located less than 1.5 miles away from downtown.
+
+Every stay at The Russell helps someone experiencing homelessness in Nashville through our Rooms for Rooms program! The average weekend stay provides 16 nights in a bed, 100 free showers, or 30 free meals!
+
+The space
+*Note: This room is on the 2nd floor and The Russell does not contain an elevator. However, guests may use the dumbwaiter to send luggage up to the floor they are staying on.
+
+Guest access
+Access to the building and guest rooms is through a unique key code that we send via email the day before arrival! There is not a check in desk or concierge but we are always a phone call away if needed.
+
+Other things to note
+There is a parking lot across the street exclusive for guests of The Russell.  Each room booked is allotted one free parking space!
+
+**Rates include housekeeping service upon departure only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anchor Rentals
+Host User ID: 115218273
+Host Profile URL: https://www.airbnb.com/users/show/115218273
+Host Profile URL Source: public user permalink from passport userId
+Anchor Rentals is a small, locally-owned company dedicated to our guests. 
+We have curated our properties to ensure your stay in Nashville is a world-class experience. From custom-made furniture by local craftsmen to commissioned art, we are committed to providing you with an exceptional stay.  We strive to provide our guests quality service that sets us apart from the rest. 
+At Anchor Rentals, we also like to give back to the community. 5% of the proceeds from every rental is given to our Rooms for Rooms program. When you stay with us you help provide a bed and warm meal to someone who is in need.
+My work: Anchor Rentals
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3068 reviews
+4.94 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/46813432
+Latitude: 36.12144
+Longitude: -86.78967
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect Nashville location! This gorgeous, brand new guest house is in the heart of 12 South, right off fashionable and fun 12th Avenue South. 2-minute walk to some of Nashville's best restaurants, coffee shops, murals and stores and a huge park;  10-minute walk to Belmont U; 1 mile to Vanderbilt, 2 miles from the Gulch and 3 miles to downtown and Lower Broadway.  Our perfectly crafted guest has its own private entrance, parking, full kitchen, living / dining room and a lower level bedroom.
+
+The space
+We just completed this private guest house with our friends and guests in mind. We know you will be very comfortable - this is a full 1-bedroom home, complete with a kitchen and living-dining room, and laundry.  Whether you are visiting for fun or work we know you'll be comfortable here.
+
+Our guest cottage is a large one-bedroom (approx. 900 square feet.) The kitchen, living and dining are on the upper level; and the bedroom and bath on the lower level.  The bedroom has a queen size bed. The upper level has a couch which folds into a wide-single/narrow double bed; we also have an air mattress with an electric pump that is a large double. (It's labeled Queen, but it's narrower than a Queen.)  
+
+The maximum capacity is 3 adults; we will also accept a party of 4 - 5 if it's a family with 2 adults and their children.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Morgan
+Host User ID: 56912481
+Host Profile URL: https://www.airbnb.com/users/show/56912481
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+212 reviews
+4.96 out of 5 average rating
+6 years of hosting

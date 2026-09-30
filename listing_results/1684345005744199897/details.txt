@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1684345005744199897
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Nashville Edit - a luxury SoBro stay where elevated Western design meets boutique hotel energy. Perfect for weekend getaways, celebrations, concerts, and unforgettable Nashville nights, this stylish retreat is steps from Broadway, the Gulch, Music City Center, rooftop bars, live music, and Nashville’s best dining. Enjoy designer interiors, skyline views, photo-worthy spaces, and the comfort and privacy of home in Nashville’s sought-after, walkable Sentral SoBro community.
+
+The space
+During your stay at this 1,200 square foot luxe accommodation, you'll enjoy exclusive access to a range of amenities, including:
+
+★ A 24-hour fitness center
+★ An outdoor swimming pool
+★ Grills for outdoor cooking
+★ Fire pits for lounging 
+★ Complimentary shampoo, conditioner and body wash 
+★ Convenient in-unit washer and dryer with unscented detergent
+★ High-speed internet to stay connected
+★ One complimentary secured parking spot included (7'4" max height); extra parking available to rent
+★ Pack ‘n Play 
+★ Air mattress with luxury Comphy SoftSpa bedding
+★ Work/vanity desk in each bedroom
+
+Sentral also offers special events every month for all guests to attend including: holiday events, spirit tastings, and more!
+
+Within Sentral Building: SIXT Car Rental, Tipsy Scoop Boozy Ice Cream Barlour and Kosho Japanese eatery.  
+
+Check out our favorite local spots and add your own!
+
+Other things to note
+Permit # T2022050586
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 79562377
+Host Profile URL: https://www.airbnb.com/users/show/79562377
+Host Profile URL Source: public user permalink from passport userId
+Outgoing, caring, honest, inclusive, warm.
+Where I went to school: Michigan State
+My work: Financial Services
+Response rate: 100%
+Responds within an hour
+4 months hosting
+19 reviews
+5.0 out of 5 average rating
+4 months of hosting

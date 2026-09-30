@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/933224027920279005
+Latitude: 36.17548
+Longitude: -86.75565
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Keep it simple at this peaceful and centrally-located place. Walkable to all the best restaurants in East Nashville and only a few blocks from Basement East and the Titans Stadium, this brand new studio apartment is the perfect location for those who like to do it all. At just under 1 mile to Broadway, walkability is primo!
+
+The space
+This brand new studio apartment offers ample space for 2. Queen bed with fresh linens, large bathroom with walk-in shower and nearly full kitchen(no stove) will give you all you need for a long weekend in Nashville. This historic Nashville home was built in the early 1900's and is on the National Registry of Historic Places. It has been owned by the same family since the 1970's and much work as been done too keep it as close to the original as possible. You will notice some of the bare brick walls in this studio-at 3 ft thick, this helps keep the apartment very cool in the summer. The AC is kept at 70°. If you get chilly you are welcome to prop open the door or use the space heater.
+
+Guest access
+You will have access to the entire studio apartment with your own walkway and entrance. No shared spaces.
+
+Other things to note
+Please note there is NO oven/stove.
+Please be sure to return the parking pass before leaving or you will be fined $100 for a replacement.
+- - -
+We have an electric water heater that sometimes takes a while to get the hot water to the shower. If you struggle with it, turn the water all the way over to hot and let it sit until it gets warm and then back off to the desired temperature.
+- - - 
+This is a basement apartment. The temp is kept at a constant 70° but will often be cooler because of the location and brick walls. If you get too cold, there is a space heater and you are also welcome to prop open the door.
+- - - 
+IF YOU ARE A SMOKER, please walk up to the street. Do not smoke under the covered walkway as it will cause the wood to smell.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexa
+Host User ID: 131468900
+Host Profile URL: https://www.airbnb.com/users/show/131468900
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native. I grew up in downtown Nashville when no one wanted to live there. I have loved watching my city grow and sharing it with travelers like yourself. I love experiencing new places and spending time with my husband and friends. 
+live life. love life.
+My work: Another You Llc
+Response rate: 100%
+Responds within a few hours
+9 years hosting
+504 reviews
+4.78 out of 5 average rating
+9 years of hosting

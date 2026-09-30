@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1724238914357851326
+Latitude: 36.22116046404024
+Longitude: -86.70588886471624
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make Nashville your home base in Nashville, Tennessee. This four-bedroom retreat welcomes up to 10 guests across 4 bedrooms and 4 bathrooms. Guests enjoy resort pool access, a hot tub, a workout room, and shared grilling areas on the grounds, with plenty to explore nearby.
+
+The space
+This four-bedroom suite comfortably sleeps 10 and comes with a fully equipped kitchen, in-suite laundry, a furnished lanai, and free Wi-Fi. Out on the property, all guests can enjoy resort pool access, a hot tub, a workout room, and shared grilling areas.
+
+Guest access
+Please have a valid credit card ready at check-in for the refundable damage deposit (final amount confirmed on site). The primary guest needs to be 21 or older with valid ID; sharing their info early keeps things moving at arrival. Exact bedding can differ from unit to unit and can't be promised beforehand, and applicable occupancy taxes are collected at check-in or departure.
+
+Other things to note
+The images show the general style and atmosphere of the resort; your assigned unit may vary slightly. Full amenity access is included for the whole booking, from arrival through departure. The best available unit is assigned at check-in, so specific buildings or locations aren't guaranteed. This booking is offered privately by an individual timeshare owner — we aren't part of resort management and help owners cover maintenance fees during weeks they aren't using. An optional timeshare presentation invite may come up during your stay; attending is never required and declining is perfectly fine. At check-in, guests accept the resort's policies and any applicable fees, and only this booking's stated cancellation policy applies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin
+Host User ID: 186675879
+Host Profile URL: https://www.airbnb.com/users/show/186675879
+Host Profile URL Source: public user permalink from passport userId
+Lives in Las Vegas, Nevada
+Response rate: 98%
+Responds within an hour
+3 months hosting
+142 reviews
+4.84 out of 5 average rating
+3 months of hosting

@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/13595249
+Latitude: 36.14502
+Longitude: -86.78367
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Situated in 12South, the 3800 Sq Ft home with Roof Deck is in walking distance to the Gulch, which offers some of Nashville's best for dining, shopping and nightlife. Venture a little further and you will find some of Nashville's most famous sites: The Country Music Hall of Fame, Ryman Auditorium, Parthenon, Bridgestone Arena, Johnny Cash Museum. In addition, a 4 minute Uber ride takes you into some of Downtown Nashville's largest music venues as well as the neon lights of Broadway!8 Beds 6 Bath
+
+The space
+Entire Home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 15718274
+Host Profile URL: https://www.airbnb.com/users/show/15718274
+Host Profile URL Source: public user permalink from passport userId
+Here to share my beautiful home in Nashville with folks around the States and beyond.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a day
+10 years hosting
+26 reviews
+4.96 out of 5 average rating
+10 years of hosting

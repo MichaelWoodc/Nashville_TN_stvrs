@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/43947232
+Latitude: 36.15453
+Longitude: -86.77072
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+**Self Check-In and Sanitized!**
+
+Easily attend any event or conference, and enjoy everything downtown has to offer!  Walk to the most popular spots, including Bridgestone Arena, Music City Center, Nissan Stadium, Honky Tonks on Broadway, Ascend Amphitheater, The historic Ryman Theater, or take a short ride to local neighborhoods such as The Gulch, Music Row, Midtown, West End, Germantown, Edge Hill, 12th South, and East Nashville.  The options are endless and you are at the center of it all!
+
+The space
+This one bedroom condo has all of the updates along with a VERY comfy memory foam KING bed and a stylish sleeper couch.  Ideal for two people but can sleep up to four.  This studio is perfectly laid out with a full kitchen, dining area, main living space and full bathroom.  All essential items provided from soaps and shampoos, to ironing boards, coffee makers (regular ground coffee provided as well as k-cup re-usable holder, but feel free to bring any k-cups you may wish to use!), and utensils.  We dare you to not to feel at home in this space!  And FREE gated parking!
+
+Guest access
+Guests have full access to the condo and all amenities, such as free laundry on site, picnic area with grill, and pet restroom area.  The complex is fully secure and completely gated!  Free parking inside or outside of the gate!
+
+Other things to note
+This property is permitted for short term rental by the metropolitan government of Nashville (permit #2020029788)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacy And Casey
+Host User ID: 32592159
+Host Profile URL: https://www.airbnb.com/users/show/32592159
+Host Profile URL Source: public user permalink from passport userId
+My husband Casey and I (yes, our names rhyme) enjoy traveling any chance we get!  We also love to host people and try to make sure they have a wonderful time in our home town of Nashville, TN!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1374 reviews
+4.93 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,192 @@
+URL: https://www.airbnb.com/rooms/1044281266128749954
+Latitude: 36.1458
+Longitude: -86.7865
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 10
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Gulch Melody—your Nashville escape where rooftop luxury meets Music City energy. Start your mornings with skyline views from the private rooftop patio, spend time soaking in the hot tub, gathering around the fire pit, firing up the BBQ, & dining under the stars. Inside, challenge friends in the game room, relax by the fireplace, & cook up feasts in the kitchen. When it’s time to explore, head to Broadway for live music & honky-tonks or stroll The Gulch for trendy dining & boutiques.
+
+The space
+⭐ Amenities:
+- Just a 10-minute walk to Music Row, where you can explore legendary recording studios, iconic music landmarks, and Nashville’s rich musical history
+- A scenic 13-minute walk to The Gulch, home to trendy boutiques, rooftop lounges, award-winning restaurants, and vibrant nightlife
+- Only 4 minutes to Broadway, placing you moments from legendary honky-tonks, rooftop bars, live performances, and nonstop downtown energy
+- Private rooftop patio featuring breathtaking city views, perfect for sunrise coffee, sunset cocktails, and late-night stargazing
+- Rooftop patio also offering a comfortable lounge area surrounding a cozy fire pit—perfect for evening conversations, cocktails, and relaxing under the city lights
+- Enjoy the BBQ grill and dedicated outdoor dining areas also on the rooftop patio, ideal for casual cookouts, shared meals, and memorable nights with your group
+- Garage-converted game room complete with ping pong and giant Connect Four, creating a fun-filled hangout space for friendly competition and group entertainment
+- Bright, open-concept living area with cozy furnishings, a Smart TV, and a fireplace, offering a warm and inviting space to relax, stream, and unwind after a day of exploring
+- Fully equipped kitchen paired with a welcoming dining area, making it easy to prepare everything from quick breakfasts to home-cooked meals and enjoy them together
+- In-unit washer and dryer for added convenience, keeping your stay fresh, comfortable, and hassle-free
+
+🛋️ Living Area (2nd Floor):
+- Spacious open-floor living area designed for effortless flow, natural light, and easy gathering—perfect for relaxing between adventures or hosting laid-back evenings
+- Cozy, thoughtfully selected furnishings that balance comfort and modern style, creating an inviting space to lounge, socialize, or unwind after exploring Nashville
+- Large Smart TV with streaming capabilities, ideal for movie nights, game-day viewing, or catching up on your favorite shows
+- Stylish coffee table centerpiece, perfect for drinks, snacks, or planning your next Music City outing
+- Warm and welcoming fireplace that adds ambiance and comfort, creating the perfect setting for cozy evenings and relaxed downtime
+
+🍽️ Kitchen & Dining (2nd Floor):
+- Fully equipped kitchen designed for both convenience and creativity, making it easy to prepare everything from quick snacks to full home-cooked meals
+- Sleek stainless steel appliances that blend modern style with high-performance functionality
+- Complete appliance setup including a refrigerator, dishwasher, oven, 5-burner stove, microwave, and toaster—providing everything you need for seamless meal prep
+- Spacious kitchen island with stylish bar seating for up to three guests, perfect for casual breakfasts, coffee breaks, or keeping the cook company
+- Dedicated dining area comfortably seating seven guests, ideal for shared dinners, family-style meals, and lively group gatherings
+- Drip and Keurig coffee makers stocked with complimentary coffee, giving everyone their preferred way to start the day before heading out to explore Nashville
+- Kitchen Starter Kit: 2 dishwashing tablets, dish soap, 1 dish sponge, 2 laundry detergent pods, disinfectant wipes, 2 paper towel rolls, 10 trash bags, 1 coffee bag, and 4 coffee filters
+
+🛌 Bedrooms:
+- Primary Bedroom (1st Floor): King bed with a smart TV and an en-suite bathroom
+- 2nd Bedroom (3rd Floor): 2 Twin-over-King bunk beds with a smart TV and an en-suite bathroom
+- 3rd Bedroom (3rd Floor): 2 Twin-over-Twin bunk beds with a smart TV and an en-suite bathroom
+*Additional Sleeping Arrangement (2nd Floor): 1 sleeper sofa in the living area
+
+🛁 Bathrooms:
+- Primary Bathroom (1st Floor): Single vanity with a shower/tub combo
+- 2nd Bathroom (3rd Floor): Dual vanity with a stand-in shower and get-ready vanity
+-3rd Bathroom (3rd Floor): Single vanity with a shower/tub combo
+- Half Bathroom (2nd Floor): Single vanity
+- Bathroom Starter Kits: 1 shampoo, 1 conditioner, 1 body wash, 1 hand bar soap, 1 makeup wipe, 2 liners for trash can, and 2 rolls of toilet paper
+
+🚗 Parking:
+- There is space for 1 car in the attached garage. However, please note that with the ping pong table folded, the garage will have sufficient space for 2 cars.
+
+❗️Notes to Guests & Important Details:
+- Please note, this is an upcoming so there is nearby for surrounding buildings. Depending on your length of stay and booking dates, guest may experience nearby construction noise.
+
+🗺️ Explore the Area:
+- Walking Distance - 
+5 min walk: STK
+6 min walk: Sambuca
+6 min walk: Sunda
+6 min walk: Starbucks
+7 min walk: Burger Republic
+7 min walk: Emmy Squared Pizza
+7 min walk: Carne Mare
+8 min walk: Barista Parlor
+8 min walk: Biscuit Love (Breakfast)
+9 min walk: UP (rooftop lounge)
+9 min walk: Superica
+9 min walk: The Dutch
+10 min walk: Music Row
+10 min walk: Peg Leg Porker BBQ
+11 min walk: The Chef and I
+11 min walk: Stock & Barrel
+11 min walk: Milk & Honey
+12 min walk: Tacos 1989
+13 min walk: The Gulch
+13 min walk: Kayne Prime Steakhouse
+14 min walk: Adele's
+14 min walk: RCA Studio
+
+- Driving Distance -
+Estimated drive times do not account for traffic:
+4 mins: Broadway
+4 mins: The Blue Room at Third Man Records
+5 mins: Jeni's Splendid Ice Creams
+5 mins: SOBRO
+5 mins: Bongo Java
+5 mins: Frothy Monkey
+5 mins: Vanderbilt University Medical Center
+6 mins: Belmont Mansion
+6 mins: Music City Center
+6 mins: 12 South
+6 mins: Edley's Bar-B-Que
+6 mins: Country Music Hall of Fame and Museum
+6 mins: Bridgestone Arena - Nashville Predators
+6 mins: The Filling Station
+6 mins: Burger Up
+6 mins: Vanderbilt University
+7 mins: Monroe Carell Jr. Children's Hospital at Vanderbilt
+7 mins: Belmont-Hillsboro
+7 mins: Geodis Park
+7 mins: Centennial Park
+7 mins: The Parthenon
+7 mins: Midtown
+8 mins: Sevier Park
+11 mins: Nissan Stadium - Tennessee Titans
+13 mins: McCabe Golf Course
+15 mins: Nashville Zoo
+21 mins: Grand Ole Opry
+
+Add Ons:
+- Air Mattresses ($50 - 1 per reservation)
+- GoodNight Stay is partnered with the best baby equipment rental service for additional equipment! Please inquire if you'd like to take advantage of this amenity using our special link. Please note: This is an add-on and not included in your reservation.
+
+Additional House Rules:
+- Booking guests must be at least 21 years old.
+- Same-day move-ins shall not be honored after 10 am Arizona Time.
+- GoodNight Stay LLC does not allow local residents to book homes. A local resident is defined as any guest whose primary residence is located within two (2) hours of the rented property.
+- All guests with a confirmed criminal record shall be declined and asked to cancel the booking at their own expense.
+- The guest agrees to provide identity authentication via a third-party platform operating for GoodNight Stay. They will authenticate the name, address, phone number, and photo ID verification. If this is not provided within 48 hours of booking, GoodNight Stay has the right to cancel the booking without penalty.
+- Maximum of 2 pets under 35lbs each, $100 fee per pet required.
+- Unfortunately, additional starter kit items cannot be provided if requested as these are to kick-start your stay.
+- All listed amenities are to be used at the guest’s risk. The homeowner and GoodNight Stay are not liable in any way for the risk, danger, injury, or damages caused to the other party.
+- Parties, events, or weddings are not allowed.
+
+Before booking, please review the full property description and house rules to ensure this home is the right fit for your stay. By completing your reservation, you acknowledge that you have read the listing details and agree to our terms and conditions.
+
+Nashville Permit Issued in 2017 Followed By:2017077910
+
+Guest access
+Guests will have access to the entire property including garage parking.
+
+Other things to note
+All our properties include all the essentials and needs to allow for a comfortable and enjoyable stay! The items listed below are provided in every single one of our properties:
+o Starter Kits for kitchen and bathrooms!
+        - Kitchen set includes: 2 dishwashing tablets, dish soap, 1 dish sponge, 2 laundry detergent pods, disinfectant wipes, 2 paper towel rolls, 10 trash bags, 1 coffee bag, and 4 coffee filters
+        - The bathroom set is offered in each full bathroom and includes: 1 shampoo, 1 conditioner, 1 body wash, 1 hand bar soap, 1 makeup wipe, 2 liners for the trash can, and 2 rolls of toilet paper
+        - Unfortunately, additional items cannot be provided if requested, as these are to kick-start your stay
+o Kitchen
+o Toaster
+o Coffee Maker
+o Microwave
+o Blender
+o Cooking Essentials
+o Silverware
+o Plates, Bowls, Glasses, etc.
+o Iron and Ironing Board
+o Hangers
+o Hair Dryer
+o Shampoo and Conditioner
+o Body Wash
+o Bed Linens
+o Extra pillows and Blankets
+o The most Hospitable and Experienced Host in the Nashville area!
+
+Registration Details
+2017077910
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: GoodNight
+Host User ID: 20772148
+Host Profile URL: https://www.airbnb.com/users/show/20772148
+Host Profile URL Source: public user permalink from passport userId
+There’s an out-of-town stay, and then there’s a GoodNight stay. We hold fast to the simple truth that vacationing is more comfortable, enjoyable and memorable when you’re at ease and surrounded by sophistication. No dusty, outdated homes here, welcome to the future of premium stays
+
+At GoodNight, we believe travel should be accented with an exceptional experience. And we’ve put thought into each corner of our homes. You’ll find GoodNight’s upscale rental homes individually furnished with modern décor, standardized accommodations, smart technology, and full-feature concierge at your service. 
+
+We know you have options. When it comes to finding the ideal stay for your occasion, we pride ourselves in offering unique benefits that make GoodNight the clear choice.
+
+GoodNight is a promise. It’s a pledge to the quality of comfort, care and precision in our design and furnishings, and reliable concierge service you will experience at each of our premium rental properties. WE STAND BEHIND IT.
+My work: GoodNight Stay
+Speaks English
+Response rate: 100%
+Responds within an hour
+12 years hosting
+17855 reviews
+4.62 out of 5 average rating
+12 years of hosting

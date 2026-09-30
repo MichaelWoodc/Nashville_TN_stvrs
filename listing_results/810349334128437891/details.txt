@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/810349334128437891
+Latitude: 36.1265
+Longitude: -86.778
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated luxury 1BR condo in the vibrant city of Nashville is the perfect place for a business trip, family vacation, or couples getaway. With its stylish and fresh decor and central location, it's easy to see why this spot is so popular! Just a short walking distance to 12 South or a quick Uber ride away from downtown, you will never run out of things to do.
+
+The condo sleeps four comfortably, features a full kitchen equipped with everything you need for your stay, and high-speed Wi-Fi.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 464233979
+Host Profile URL: https://www.airbnb.com/users/show/464233979
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+135 reviews
+4.94 out of 5 average rating
+4 years of hosting

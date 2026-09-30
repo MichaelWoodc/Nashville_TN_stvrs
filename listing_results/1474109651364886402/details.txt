@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1474109651364886402
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay Wild Nashville — stylish 2BR/2BA suite in SoBro, steps from Broadway, Ryman, Bridgestone Arena & The Gulch.
+
+FREE Garage Parking included!
+Sleeps up to 8 with rollaway beds
+Rooftop pool with skyline views
+24/7 fitness center & yoga studio
+Private balcony, in-unit W/D, full kitchen
+
+Perfect for bachelorettes, concerts & city getaways. Superhost rated 4.93 with 58 reviews — book with confidence!
+
+The space
+🛋 Living Area: bright space with a comfortable sofa, smart TV, and large windows. 
+🍽 Kitchen: fully equipped with stainless steel appliances, cookware, and utensils. Includes a coffee maker, microwave, oven, and fridge. 
+🛏 Bedroom 1: two double beds.
+🛏 Bedroom 2: one king bed.
+🛁 Bathrooms: two full bathrooms, each with fresh towels, soap, shampoo, and body wash. 
+🧺 In-unit washer and dryer available for guest use, along with laundry detergent and dryer sheets.
+
+Guest access
+- Resort-Style Rooftop Pool – relax with skyline views, loungers, and sun umbrellas.
+- 24/7 Fitness Center + Yoga Studio 
+- Stylish Modern Apartment – designer-furnished with high-end finishes, hardwood floors, and open layouts.
+- Fully Equipped Kitchen – stainless steel appliances, cookware, coffee maker, and everything needed for home-cooked meals.
+- In-Unit Washer & Dryer – perfect for long stays and fresh outfits every day.
+- Private Balcony– enjoy morning coffee with city views.
+- Fast, Free Wi-Fi – reliable internet for remote work, streaming, or planning your Nashville adventures.
+- Smart TVs with Streaming Apps – watch Netflix, Hulu, and more after a night out on Broadway.
+- Secure, Keyless Entry – safe, hassle-free access with 24/7 security.
+- Co-Working & Lounge Spaces
+- Outdoor Grilling Stations & Fire Pits – gather with friends or family in beautiful communal areas.
+- On-Site Parking Available – secure garage parking ($35/night).
+
+Other things to note
+STR permit T2022050213
+
+We’re dedicated to delivering an unforgettable Nashville stay, with every detail in the apartment thoughtfully prepared for your comfort. From the moment you arrive, our goal is to make sure you enjoy a 5-star experience in the heart of downtown. Have a question or need assistance during your visit? We’re just a message away and always happy to help.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christelle
+Host User ID: 194851653
+Host Profile URL: https://www.airbnb.com/users/show/194851653
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Christelle! I host together with my husband and our little one, and we love sharing our homes with travelers from around the world. It is really important to us that our guests feel comfortable and cared for. We want you to enjoy your stay as much as we enjoy hosting!
+My work: Project manager
+I spend too much time: Listening to Podcasts!
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+86 reviews
+4.9 out of 5 average rating
+1 year of hosting

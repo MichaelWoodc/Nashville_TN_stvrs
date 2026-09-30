@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/46746874
+Latitude: 36.1478
+Longitude: -86.78209
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious 2BR Downtown Condo – Sleeps 6
+Prime Location: Near downtown, Music Row, Broadway, & The Gulch, so you’re never far from heart of the city. Pool & Grilling Area, Dog Walk, Gym, Gated Parking. Fully Stocked Kitchen & Bar Cart. High-End Materials & Furniture w/ a full-size sofa bed crafted from luxurious Kloudcell. Designer Bathroom:LED smart mirrors, luxurious walk-in shower w/rainhead & handheld. Primary Bedroom w/ High-End Woodworking, complete w/luxury mattresses & bedding.
+
+The space
+Key Features:
+Prime Location: Close proximity to downtown attractions, Music Row, Broadway, and The Gulch, ensuring you’re never far from the vibrant heart of the city.
+
+Secure Access: Enjoy peace of mind with our secure entry system.
+Courtyard Pool & Grilling Area: Take a dip in the pool, relax in the courtyard, or enjoy a barbecue with friends and family.
+
+Dog Walk & Fitness Center: Pet-friendly amenities and a fully equipped gym for your convenience.
+Gated Parking: Secure parking space to keep your vehicle safe.
+
+Interior Highlights:
+Fully Stocked Kitchen & Bar Cart: Prepare gourmet meals in the well-equipped kitchen or mix your favorite drinks at the bar cart.
+
+High-End Materials & Furniture: The home is adorned with top-quality furnishings and materials, ensuring a comfortable and stylish stay.
+
+Designer Bathroom: Featuring LED smart mirrors, a luxurious walk-in shower with rainhead and handheld faucets, and a double vanity for added convenience.
+Primary Bedroom with High-End Woodworking: Enjoy a restful night's sleep in a beautifully crafted space, complete with luxury mattresses and bedding.
+
+Work Desk: A dedicated workspace for those who need to stay connected.
+
+Large Balcony: Unwind on the spacious balcony, perfect for outdoor relaxation.
+
+Experience true luxury living in this thoughtfully designed condo where no expense has been spared. For your convenience, a video guide is available to show you how to use the pull-out couch in the living room.
+
+Guest access
+Secure key free entry and exit to the parking garage, to building ammenities, building and unit.  You will be given a unique code for the duration of your stay.
+
+Other things to note
+We are excited to host your group and are here to help make your stay in Nashville an memorable one.
+
+Please find video for how to use the sofa bed in the living room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sally
+Host User ID: 101553583
+Host Profile URL: https://www.airbnb.com/users/show/101553583
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville native that loves to travel the world and create lasting memories with the people I care about most.
+My work: Compass Realty
+Fun fact: Travelling is my passion
+Response rate: 100%
+Responds within an hour
+9 years hosting
+169 reviews
+4.7 out of 5 average rating
+9 years of hosting

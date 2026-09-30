@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/897224360520078106
+Latitude: 36.16607
+Longitude: -86.77855
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in a luxury, large-group-friendly loft in historic Printers Alley, just minutes from Broadway. Perfect for bachelorette parties, weddings, and group stays, this stylish retreat blends historic charm with modern design. Soaring 14ft ceilings, designer finishes, and a gourmet kitchen create a grand yet comfortable space. Enjoy smart home tech and an immersive Music City experience with upscale, luxury styling throughout. Ideal for large groups, weddings and salon luxury stays
+
+The space
+Welcome to our exquisite building, where luxury and history converge. This historic gem boasts remarkable features and modern amenities that are sure to captivate your senses.
+
+As you step into our space, you will be greeted by soaring 14-foot ceilings, creating an ambiance of grandeur and spaciousness. The rich history of the building is evident in its architectural details and preserved character, providing a unique backdrop for your living experience.
+
+The kitchens in our units are a culinary enthusiast's dream, adorned with natural stone countertops that exude elegance and durability. Equipped with upscale appliances, these kitchens are designed to inspire your inner chef and elevate your culinary creations.
+
+To enhance your living experience, we have integrated Google HomePod in every room, offering seamless voice-controlled smart home functionality. Whether you want to play your favorite music, or get weather updates, it's all just a voice command away.
+
+In our commitment to convenience, we have included wireless chargers in every room, ensuring that your devices stay powered up without the hassle of cables. Stay connected and effortlessly charge your devices as you go about your daily routine.
+
+To illuminate your living space with a touch of contemporary elegance, our units feature top-of-the-line modern light fixtures. These meticulously chosen fixtures combine functionality with aesthetics, adding a touch of sophistication to your surroundings.
+
+For your entertainment pleasure, we have equipped the living rooms with impressive 75-inch large-screen TVs. Immerse yourself in cinematic experiences and enjoy your favorite movies, sports events, or gaming sessions in unparalleled visual clarity and detail.
+
+Discover a harmonious blend of historic charm and modern luxury in our building. With its remarkable features such as high ceilings, natural stone countertops, upscale appliances, smart home integration, wireless chargers, modern light fixtures, and large living room TVs, this is a place where comfort, style, and convenience converge.
+
+Come and experience the epitome of refined living in our exceptional building.
+
+Guest access
+Guests will have full and private access to the entire loft unit. Enjoy the space all to yourself for the duration of your stay.
+
+Other things to note
+This loft is located in a preserved historic building. We have blended the original character with modern amenities to provide a unique and comfortable stay. Please appreciate the unique architectural details of the space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kasra
+Host User ID: 515678839
+Host Profile URL: https://www.airbnb.com/users/show/515678839
+Host Profile URL Source: public user permalink from passport userId
+Speaks English, Spanish, Persian, and Haitian Creole
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+214 reviews
+4.98 out of 5 average rating
+3 years of hosting

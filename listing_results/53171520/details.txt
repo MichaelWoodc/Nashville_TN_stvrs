@@ -1,0 +1,88 @@
+URL: https://www.airbnb.com/rooms/53171520
+Latitude: 36.1552
+Longitude: -86.7753
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in downtown Nashville, this spacious 2BR corner unit comfortably sleeps up to 8 guests! Stocked with everything needed whether you're staying for a quick Bach weekend, or a week long family vacation!
+
+The space
+The Unit:
+
+-Hosted by local natives.
+
+-Bachelor/Bachelorette’s welcome!
+
+-Sleeps 8 Guests: 1 king bed, 2 full size beds, fold out couch (Queen size), 2 XL twin size rollaway beds with memory foam mattress (kept in walk in closets if needed).
+
+-Private balcony with seating area and beautiful views.
+
+- We fully stock and restock premium amenities including coffee and toilet paper throughout your stay!
+
+-Full Kitchen: single serve Keurig, stainless steel appliances, cookware, dinnerware, drink ware, utensils, basic spices and oil, and cleaning supplies available for use.
+
+-Two private bathrooms: soaps, shampoo, toiletries, and plush towels provided. 
+
+-Living space: TV with streaming apps available, including NFL Sunday Ticket! We also have an Alexa in the unit for music. 
+
+-Washer and dryer in unit with laundry detergent stocked.
+
+-Free parking space included with reservation (1 vehicle). Additional parking available for fee.
+
+-There are absolutely no cameras inside the unit.  We respect our guests privacy!
+
+Building Amenities: 
+
+-Secure building in prime, walkable location.
+
+-Heated Pool: cabanas available for rent.
+
+-Courtyard: fire pits, grills, and outdoor dining area.
+
+-Sky Lounge: 6th floor lounge and large outdoor patio area.
+
+-Gym: well appointed 2 story gym with weights, machines, rock climbing wall, and yoga studio!
+
+-Lobby/Workspace: relaxed 2 story lobby area with plenty of seating and workspace.
+
+Guest access
+Guests will be given access to the apartment, common areas of the building, and parking garage via DOOR app. I will send you an email invite with app access, so you will be using the app and your phone’s Bluetooth to get into the complex and the unit. It is an easy process by following instructions, and I will be available throughout check in for assistance!
+
+Other things to note
+Please keep in mind that we have a strict cancellation policy and do not offer last minute refunds if you need to cancel! 
+
+We strongly recommend opting in for trip protection when you book. Last minute cancellations due to family emergency, illness, weather, or flight cancellations are very common, and trip protection can save you hundreds to thousands. Trip protection also covers flights, luggage, and incurred emergency expenses during your trip. 
+
+We want our guests to be protected, while protecting ourselves as small business owners. We greatly appreciate your understanding.
+
+Amenities including the building pool are also subject to closure, and due to this being outside of our control we cannot offer refunds, but always solutions!
+
+STRP#2018072337
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kayla
+Host User ID: 258084961
+Host Profile URL: https://www.airbnb.com/users/show/258084961
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner of Trimmed & Tailored Men’s Salon
+Speaks English
+Response rate: 96%
+Responds within an hour
+Superhost
+5 years hosting
+246 reviews
+4.91 out of 5 average rating
+5 years of hosting

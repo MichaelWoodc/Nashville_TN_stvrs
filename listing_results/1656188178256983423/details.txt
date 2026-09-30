@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1656188178256983423
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: SoBro, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish apartment puts you right in the middle of all the action while still offering a comfortable space to unwind.
+Just a short walk (about 5–10 minutes) to the world-famous Broadway strip, you’ll have easy access to Nashville’s best live music, bars, restaurants, and nightlife. Whether you’re here for a weekend of honky-tonks, concerts, or exploring the city, you couldn’t ask for a better location.
+STR permit#2018073907
+
+The space
+This thoughtfully designed studio apartment makes the most of its layout, offering a comfortable and stylish stay in the heart of downtown Nashville. While it’s a studio, the space is well-organized to comfortably accommodate groups without feeling cramped.
+The sleeping area features two queen beds with soft linens, extra pillows, and cozy blankets—perfect for relaxing after a night out on Broadway. The setup is ideal for friends or small groups looking for a clean, comfortable place to recharge.
+The living space is open and inviting, with a smart TV and seating area to unwind, hang out, or get ready before heading into the city.
+The kitchen is fully equipped with modern stainless steel appliances, including a refrigerator, oven, microwave, and dishwasher. You’ll also find cookware, utensils, and essentials for simple meals or late-night snacks. A bar-style dining area provides a convenient spot for eating or enjoying your morning coffee.
+There’s also a dedicated vanity/get-ready area, which guests especially love—it gives you extra space to get ready without crowding the bathroom.
+The bathroom is clean, modern, and stocked with fresh towels and basic toiletries for your convenience.
+Additional features include:
+High-speed WiFi
+Central heating and air
+Storage space for luggage and personal items
+This space is perfect for guests who plan to enjoy everything Nashville has to offer and want a comfortable, well-designed home base just minutes from the action.
+
+Guest access
+Guests will have full access to the apartment as well as all shared community amenities, including the gym, pool, sky lounge, and lobby. On-site parking is also available in the gated parking garage upon request for an additional daily fee of $30 per night that is paid for separately from your Airbnb reservation, providing added convenience during your stay.
+
+Other things to note
+The apartment features two queen-size beds for comfortable sleeping arrangements. Additionally, a queen-size air mattress is available in the closet if needed. Please note that using the air mattress will make the space feel more compact.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandin
+Host User ID: 650816187
+Host Profile URL: https://www.airbnb.com/users/show/650816187
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 months hosting
+37 reviews
+4.97 out of 5 average rating
+5 months of hosting

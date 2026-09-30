@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1546424879283377474
+Latitude: 36.17984
+Longitude: -86.75956
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Nashville from this spacious 4BR/2.5 townhome just minutes from downtown, Broadway, and Nissan Stadium. Perfect for groups, families, or weekend getaways, the home sleeps 12 with multiple comfortable sleeping areas.
+
+Inside, you’ll find a fully equipped kitchen, 55" smart TV with all the apps, Wi-Fi, laundry, board games, parking, and an outdoor patio. Walk or take a quick Uber to Nashville’s top restaurants, live music, nightlife, and attractions.
+
+Permit #2018051103
+
+The space
+The main living area offers comfort and entertainment with a queen-size sleeper sofa, a loveseat, and a 55" flat-screen smart TV featuring YouTube TV. Two dining options are available, including a 4-seat dining table and 4 barstools at the kitchen counter.
+
+The kitchen boasts granite countertops, stainless steel appliances, and all the essentials for cooking, including dishes, glasses, silverware, pots, pans, and even a Keurig with coffee pods. Additional kitchen amenities include a 2-slice toaster, electric wine bottle opener, and filtered water.
+
+On the main level, you'll find a convenient half bath, a bedroom with a twin bed, and a back patio with seating. Upstairs, the upper level features three bedrooms, two full bathrooms, and a laundry room with provided essentials.
+
+Guest access
+Guests will have full access to the entire home with the exception of locked owner's closet.
+
+Other things to note
+Early Check-Ins & Late Check-Outs
+
+🔹 Must Be Pre-Arranged – Requests for early check-ins or late check-outs must be made in advance. We cannot accommodate same-day or last-minute requests due to our cleaners' schedules.
+
+🔹 Guaranteed Early Check-In/Late Check-Out – If the night before or after your stay is available, we can block it off for you at HALF the nightly rate to guarantee early access or a late departure.
+
+Your Stay
+🏡 Entire Home – You’ll have the place all to yourself for the ultimate home-away-from-home experience!
+
+🚗 Parking – One designated spot off-street + street parking available.
+
+🚖 Getting Around – Uber/Lyft rides average $10 to most places in Nashville!
+
+✨ Book with confidence and enjoy your stay! ✨
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 55196455
+Host Profile URL: https://www.airbnb.com/users/show/55196455
+Host Profile URL Source: public user permalink from passport userId
+My work: Realtor
+Lives in Jupiter, Florida
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+565 reviews
+4.86 out of 5 average rating
+8 years of hosting

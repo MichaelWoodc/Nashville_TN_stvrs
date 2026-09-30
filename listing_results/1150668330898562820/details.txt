@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1150668330898562820
+Latitude: 36.19368
+Longitude: -86.76883
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of East Nashville this beautifully fully renovated home sits just five minutes to downtown, Nissan Stadium, and Bridgestone Arena. Private fenced-in backyard with plenty of covered and uncovered patio space. Walkable to coffee, dinner, parks, and shopping. Just a short drive/uber to all nightlife, dining, and entertainment options Nashville has to offer.
+
+The space
+3 bedrooms 2.5 baths including a full primary suite with large private bathroom and closet. Half bathroom is located on the main floor for convenience. The entire home was fully renovated (new electrical, plumbing, HVAC) in 2021. Enjoy all the luxuries of a new home in the heart of historic East Nashville. Bring your pets and take advantage of the fully fenced in back yard. Plenty of eating, drinking, coffee, and shopping within walking distance of the home. Or take a short ride to all of what Nashville has to offer. 5 minutes to Broadway/Downtown, 10 minutes to the Gulch, 10-15 minutes to 12 South and Vanderbilt
+
+Guest access
+Guests have full and private use of the entire home and fully fenced in backyard. There is a second home on the property is fully accessed off the alley behind the home. The two homes share no common spaces or areas. Both homes are completely private from the other.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Peter
+Host User ID: 90961706
+Host Profile URL: https://www.airbnb.com/users/show/90961706
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+85 reviews
+4.84 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/9837209
+Latitude: 36.1584
+Longitude: -86.76655
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious  Condo has open floor plan with upscale furnishings, granite counter tops and stainless steel appliances, floor to ceiling windows giving you a spectacular view of Music City.
+It features a master bedroom with king bed, guest bedroom  with a queen bed, and a queen sofa sleeper in the living room which will accommodate up to six guests.  This 1200 square foot spacious retreat located on the third floor is in the perfect location to experience all of Music City 
+2 free parking spaces
+
+Guest access
+Guests will have access to the building amenities including the workout room, and rooftop terrace, rec building and one spot in parking garage.
+
+Other things to note
+Unit Amenities
+1100 sq ft Brand 2 Bedroom, 2 Full Baths, Queen Sleeper Sofa- TV’s in both bedrooms.
+Private Balcony
+Note Minimum Nights during special events: 
+-3 night minimum SEC Basketball Tournament-March 12-15.
+-3 night minimum Memorial Day Weekend- May 21-24.
+-7 night minimum during CMA which is the week of June 7-14. 
+Free WiFi and cable with premium channels. Fastest internet in town.
+Fully equipped kitchen- Dining seating for 6
+Washer and Dryer- iron and ironing board
+Dishwasher
+Coffeemaker, Blender, Toaster
+Central Air-conditioning and Ceiling Fans throughout
+Parking—2 Free Indoor Garage Parking spots
+
+Building Amenities include:
+Roof Top Terrace
+World-class Fitness Center
+Clubhouse with Billiards next to building
+Controlled Access
+Garage Parking
+Elevator Access
+Adjacent to Nashville’s Greenway
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kurt
+Host User ID: 24241984
+Host Profile URL: https://www.airbnb.com/users/show/24241984
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner Forte Vacations
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+2970 reviews
+4.78 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/5930642
+Latitude: 36.2176
+Longitude: -86.70294
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This timeshare property is minutes from the Grand Old Opry.  
+
+This is a one bedroom condo with a king bed and sofa bed. It has a full kitchen, balcony/patio and washer/dryer.
+
+The space
+Benefits of a timeshare quality resort without ownership.
+
+Guest access
+Amenities
+2 Outdoor Swimming Pools
+Organized Activities Program
+Outdoor Hot Tub
+Live Entertainment
+Basketball
+Indoor Swimming Pool
+Exercise Equipment
+Playground
+Picnic/BBQ Area
+
+Other things to note
+Host takes the name that you provide to airbnb so if it is not your legal name be sure to let host know PRIOR to purchase.  Guest is responsible for name change fees if they sent an alternate traveler or if their name registered with airbnb is not a legal name.  Fees are $99-$198.
+
+Units are non-smoking, no pets allowed. 
+Guest must follow all rules and regulations set by the resort. 
+Guest must be at least 21 years old and supply a valid government issued ID as well as a credit card for incidentals.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brooke
+Host User ID: 30787515
+Host Profile URL: https://www.airbnb.com/users/show/30787515
+Host Profile URL Source: public user permalink from passport userId
+Worked for the last 16 years matching vacations with those that love to vacation.  I specialize in budget vacations with high quality properties.  I enjoy movies, swimming and dining.  I have 2 grown kids and I love bulldogs.
+Lives in Orlando, Florida
+Response rate: 99%
+Responds within a few hours
+Superhost
+11 years hosting
+9294 reviews
+4.83 out of 5 average rating
+11 years of hosting

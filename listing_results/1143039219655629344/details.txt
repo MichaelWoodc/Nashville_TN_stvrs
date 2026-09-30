@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1143039219655629344
+Latitude: 36.1538
+Longitude: -86.7753
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to my Nashville home! This is my personal apartment when I'm in Nashville, and I open it to guests while I'm traveling. You'll have the entire apartment completely to yourself. The home includes a queen bed, a living area, a fully equipped kitchen, a private balcony, and a bathroom with a walk-in shower. Because this is a lived-in home, you'll see some personal belongings throughout the space. Located in SoBro, you're about a 10-minute walk from Broadway.
+
+Permit: T2022056434
+
+The space
+Location: My apartment is located in SoBro (South of Broadway), just south of downtown Nashville. Broadway, the Music City Center, Country Music Hall of Fame, Ryman Auditorium, restaurants, bars, and live music are all within easy walking distance.
+
+The apartment: This is my personal Nashville home, with an open, comfortable layout and plenty of natural light. You'll have the entire apartment privately to yourself, including the living area, fully equipped kitchen, dining area, bedroom, bathroom, and private balcony.
+The bedroom features a queen-sized bed with fresh linens, and the bathroom has a walk-in shower with fresh towels and toiletries provided for each stay.
+
+Because this is my home when I'm in Nashville, you'll see some of my personal belongings, decor, books, and everyday household items throughout the apartment. I leave space for guests to settle in and encourage you to make yourself at home. The kitchen is also stocked with basics such as coffee, spices, cooking essentials, and condiments that guests are welcome to use.
+
+Guest access
+You'll have private access to the entire apartment during your stay, including the kitchen, living area, bathroom, and private balcony.
+
+You'll also have access to the building's shared amenities, including:
+- Rooftop pool deck with outdoor seating
+- 24/7 fitness center and yoga studio
+- Sky Lounge with a pool table and additional gathering space
+
+The apartment is self-check-in, so you can arrive independently after check-in time.
+
+Because this is my personal home, you may see personal belongings throughout the apartment. Please feel free to make yourself comfortable and use the spaces and amenities provided for guests.
+
+Other things to note
+This is my personal home, not a dedicated vacation rental. I live here when I'm in Nashville and rent it to guests while I'm traveling. Some personal belongings remain in the apartment, although a guest space is provided, and you'll have complete privacy during your stay.
+Some items you may see throughout the home are intentionally provided for guests, including toiletries, kitchen staples, condiments, coffee, books, and games.
+
+Parking: Free street parking is sometimes available nearby, but isn't guaranteed. Guaranteed gated parking is available for $25/night using my parking credentials. Please coordinate this with me in advance, as I need to relocate my personal vehicle. The building garage otherwise charges approximately $35/night.
+
+Registration Details
+T2022056434
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kerry
+Host User ID: 288874969
+Host Profile URL: https://www.airbnb.com/users/show/288874969
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Kerry! I’m a longtime educator turned remote tutor with a serious love of travel. Nashville is my U.S. home base, and I open my home to guests while I'm exploring the world. Having stayed in Airbnbs around the globe myself, I know how much the little things matter. I love sharing my home with fellow travelers and am always happy to offer Nashville recommendations, answer questions, or help make your stay great. Welcome to Music City!
+Born in the 80s
+Where I went to school: Johns Hopkins University
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+105 reviews
+4.91 out of 5 average rating
+2 years of hosting

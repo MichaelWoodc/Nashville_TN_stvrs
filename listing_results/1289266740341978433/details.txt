@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1289266740341978433
+Latitude: 36.15433
+Longitude: -86.775
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Disco Penthouse! Our condo sleeps 8 comfortably with make-up stations for 7.  You are steps from Broadway, Bridgestone Arena, The Music City Center. All of downtown Nashville is at your doorstep! 
+
+But who needs Broadway when you have a stage in your living room? Grab a mic, turn on your favorite song, get on stage and sing your heart out as the disco ball spins and transforms your living room into your very own private karaoke bar!  
+
+Permit #2018072321
+
+Guest access
+Guest access will be via Latch. All details and instructions will be sent over after booking confirmation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Conner
+Host User ID: 168577307
+Host Profile URL: https://www.airbnb.com/users/show/168577307
+Host Profile URL Source: public user permalink from passport userId
+After moving to Nashville from Alabama, I turned my passion for travel and adventure into a mission to host others. I take great pride in the quality of my properties and the guest experience, earning the 2023 'Spirit of Hosting' award and being named a 2025 'Star Achiever Host' for my two-bedroom accommodations. I look forward to welcoming you to one of my spaces and helping you make the most of your travel adventures.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+564 reviews
+4.94 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/925343937880049116
+Latitude: 36.1515
+Longitude: -86.7779
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our charming 1-bedroom Airbnb condo, conveniently located within walking distance to Broadway's bustling entertainment scene! Step outside and immerse yourself in the vibrant atmosphere of downtown Nashville, from live music venues to iconic landmarks. After a day of exploration, unwind by the walk-out poolside amenities, where you can relax and soak up the sun. Experience the best of Nashville's nightlife and leisure in this centrally located retreat!
+
+The space
+Welcome to The Skyline!
+
+Located at The Hyve in Downtown Nashville, this is your perfect retreat to explore Music City! This one-bedroom condo offers a cozy yet stylish space, ideal for up to four guests. As you step inside, you'll be greeted by modern furnishings and chic decor that exude comfort and elegance. The bedroom features a king-size bed, ensuring a restful night's sleep after exploring the vibrant city. The sleeper sofa in the living room provides additional sleeping space.
+
+This condo gets even better with its stunning pool view! Step directly out to the pool area, where you can soak up the sun or unwind in the serene courtyard, complete with ping pong tables and grills for a fun-filled BBQ experience with friends and family.
+
+Convenience is key at The Skyline. Located on the same level as the gym, you can easily stick to your fitness routine without hassle. Whether you prefer a morning workout or an evening sweat session, the gym is just steps away from your door.
+
+If you are parking a car during your stay, you will have 3 options:
+♦ Owner/Guest Secured Garage - paid option. Please inquire 
+♦ Street Parking - this is FREE first come, first serve parallel street parking
+♦ Lower Level Garage - this is  first come, first serve garage that is paid public parking garage that is open to anyone. 
+
+Guest Access:
+- Entire Unit (except owner's supply closet)
+- Outdoor Pool with Cabanas (Open May-Oct, 7a-10p)
+- Courtyard with Fire Pits, Grills and Ping-Pong Tables
+- State-of-the-Art Gym with Peloton Equipment
+- Workspace and Community Lounge
+
+Beyond the comforts of your condo, you'll find yourself in the midst of Nashville's vibrant energy. Explore the city's renowned music scene, indulge in delicious dining options and discover the rich cultural heritage that makes Nashville truly unique.
+Don't miss out on the opportunity to experience Nashville in style.
+
+*Please note:
+     - The pool is open May 1 - October 31, depending on the weather
+     - All common areas and amenities like the pool, cabanas, gym, workspace lounge, lobby, etc. are managed by the building. We do not have control over the working conditions of equipment, maintenance, or availability.
+     - This is a condo located in downtown Nashville. As pictured in the listing, this development sits near train tracks. We have provided a white noise machine and ear plugs for your convenience. Like any urban location, the presence of unhoused individuals may be experienced. 
+    - Arriving ahead of check in time? The Hyve offers complimentary luggage storage! Please check with us for hours.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris P
+Host User ID: 333621135
+Host Profile URL: https://www.airbnb.com/users/show/333621135
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Tennessee at Knoxville
+Response rate: 100%
+Responds within an hour
+5 years hosting
+585 reviews
+4.78 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/45258847
+Latitude: 36.12586
+Longitude: -86.77847
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+BeerRun—your perfect Downtown Nashville escape! Just 2.5 miles from Broadway, Vanderbilt, Bridgestone Arena, the Ryman, and Nissan Stadium, this chic studio offers the best of both worlds: city convenience with a quiet, comfortable retreat.
+
+Enjoy all-new décor, a plush Serta queen bed, a queen pull-out sleeper sofa, a sleek walk-in shower, and a full kitchen. 
+
+Seasonal pool access (availability not guaranteed).
+No pets, please.
+
+Book your stay and experience Music City in style
+
+The space
+The building and the exterior of the unit itself show their age. We keep it clean, and just renovated the bathroom with a walk in shower and new floors. You will love the location. You can walk to local hot spots, food, grocery, pharmacy and catch live music! We welcome you to stay and enjoy the space.
+
+Guest access
+I will send check in instructions the day prior to arrival.
+
+Other things to note
+The place is not perfect and not new, but it is clean and close to everything. There are signs of age. We want your stay to be comfortable. Please let us know how we can make your stay better.
+
+I offer early check in and late check out for a fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carrie
+Host User ID: 179452506
+Host Profile URL: https://www.airbnb.com/users/show/179452506
+Host Profile URL Source: public user permalink from passport userId
+Passionate ocean enthusiast and avid traveler with an insatiable curiosity for exploring new foods and cultures. Embracing life's adventures one wave, bite, and journey at a time.
+Where I went to school: The Ohio State University
+I spend too much time: Traveling
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1023 reviews
+4.79 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1498734539777844411
+Latitude: 36.1557
+Longitude: -86.7711
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Park 2 cars onsite for free and walk to Broadway from this charming condo! Featuring a private entrance and great location this condo is your ultimate home base for hitting all Nashville has to offer— Broadway Street, Bridgestone Arena, Nissan Stadium, Ascend Amphitheater, Country Music Hall of Fame & Ryman. Complete with a fully equipped kitchen, unique lofted bedroom with a skylight, private balcony and ultra-comfy beds, this condo has everything you need for an amazing stay in Music City!
+
+The space
+This charming condo loft with private entrance and free gated parking is in the perfect location to explore Nashville! A short 10-12minute walk to:
+
+*   Broadway 
+*   Live country music bars and honkytonks
+*   Bridgestone Arena
+*   Nissan Stadium (20min walk)
+*   Country Music Hall of Fame
+*   Ascend Amphitheater
+*   Ryman Auditorium
+
+Important Information
+
+*   We are happy to welcome your pets as long as they are added to the reservation!
+*   Please note that the condo has a set of stairs to access and the lofted bedroom is accessible only via the spiral staircase, which may not be suitable for all guests.
+*  This property is in downtown Nasvhille and a short walk to Broadway. There is a fire station across the street. If you are not used to city noise this might not be the best fit for you and you might want to look at options further from downtown!
+
+Short term rental permit #2025087057, occupancy rated for up to 6 but strongly suggest 4 guests or less.
+
+Guest access
+Guests will have private access to the entire condo.
+
+Entire Loft: The entire condo is private to you during your stay.
+Self Check-In: Easy and secure access via a smart lock. A unique code will be provided for you prior to check-in.
+Parking: Two free, dedicated parking spots are included, located within a secure gated area on property.
+Outdoor Areas: Enjoy your private balcony.
+
+Other things to note
+Occupancy: The property is permitted for up to 6 guests. However, it is most comfortable for groups of 4 or less. A single foldable bed is available if needed.
+
+Accessibility: The condo is on the 2nd floor up a short flight of stairs accessible via the private entrance, the lofted bedroom is accessible only via a spiral staircase, which may not be suitable for all guests.
+
+Family Amenities: We are happy to provide a crib and a high chair for those traveling with little ones upon request.
+
+Short-term rental permit #2025087057
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scott
+Host User ID: 329161730
+Host Profile URL: https://www.airbnb.com/users/show/329161730
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+48 reviews
+4.9 out of 5 average rating
+11 months of hosting

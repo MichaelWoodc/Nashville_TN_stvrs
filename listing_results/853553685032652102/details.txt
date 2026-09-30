@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/853553685032652102
+Latitude: 36.1446
+Longitude: -86.7953
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Carriage house in quiet neighborhood behind Historic home located on Music Row close to downtown Nashville. Once owned by Country Music legend Chet Atkins. Only a couple of blocks from Vanderbilt, and close to restaurants, bars, museums, and all Nashville has to offer. 
+
+Free private parking is located in the attached garage for one vehicle. 
+
+Street parking on the main street is available during certain hours and pay parking is available off the alley.
+
+The space
+Lots of room! Enjoy a whole space on the first floor with attached one-car garage.  Large fully equipped kitchen with coffee maker and laundry room with washer and dryer. The family room includes a faux fireplace and Smart TV (Roku and other free apps installed, bring your own favorite paid streaming channel).
+
+We do have a pull-out couch in the living room for overflow but be aware the mattress is not very thick and may not be comfortable for adults.
+
+Guest access
+Self-check-in with electric lock codes, to ensure safety for all guests. Full access to the entire unit, no shared spaces.
+
+Other things to note
+Private parking for one vehicle is located in the one-car garage attached to the unit. Street parking is available on an unlimited basis between the hours of 4:00 pm and 8:00 am, limited to two hours between 8:00 am and 4:00 pm. 
+
+There is a newly opened pay lot right across the alley that will accommodate extra vehicles, you pay with your phone and a QR Code. Rates are $5 for 2 hours, $10 for 6 hours, or $15 for one day.
+
+We have other nearby parking options if you need them for overflow vehicles, just ask.
+
+To access the alley from the garage you will need the door code of C123.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ron & Susan
+Host User ID: 157362828
+Host Profile URL: https://www.airbnb.com/users/show/157362828
+Host Profile URL Source: public user permalink from passport userId
+We are empty nesters having fun with our freedom of "life after kids".
+Born in the 50s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+2407 reviews
+4.93 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/48751709
+Latitude: 36.1637
+Longitude: -86.7809
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+WALK anywhere DOWNTOWN! This newly renovated historic property is in the Heart of the entertainment district! Two blocks from Printer's Alley & Broadway (just a 5 minute walk to the Ryman Auditorium, Tootsies, or Bridgestone Arena!)
+
+The space
+Our 125 year old building is a registered historic site as part of the Fifth Avenue Historic District in Downtown Nashville! Renovated in 2019, the rooms at Woolworth Upstairs, once home to Woolworth department store, boast high ceilings, luxurious modern finishes, stainless appliances, memory foam mattresses, a Joybird sleeper sofa, and custom interiors. 50" HDTVs in every room and all the amenities to make yourself at home.
+
+Guest access
+Guests are provided access codes to the building's secure entry on 5th Ave N, the elevator, stairs and assigned a private access code to their apartment. Secure, private and easy!
+
+Other things to note
+Beds are dressed in fresh, white, combed cotton sateen sheets and duvets, with down-alternative pillows. All hypo-allergenic. Along with plush, white bath towels, hand towels, wash clothes and bath mats. We've also provided high-quality shampoo, conditioner, body wash and a hair dryer in the bathroom. Laundry and dish detergent provided. No windows in unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 103365676
+Host Profile URL: https://www.airbnb.com/users/show/103365676
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Amanda, founder of Lennon Hospitality. I manage and host a portfolio of properties, and I care about every stay feeling as good as the ones I look for when I travel.
+
+I love art, cooking, gardening, interior design, and being on the water. Live music, unique restaurants and bars are always a yes for me. Traveling has taught me how much the small details matter, and I bring that same attention to every property I host.
+
+Born in Tennessee, now happily based in Downtown Nashville.
+Born in the 80s
+My work: In-Flight Hospitality
+Response rate: 100%
+Responds within an hour
+10 years hosting
+25713 reviews
+4.79 out of 5 average rating
+10 years of hosting

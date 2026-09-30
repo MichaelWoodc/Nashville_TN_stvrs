@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1759783351598245117
+Latitude: 36.1554
+Longitude: -86.7753
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a brand new suite located in the heart of Nashville!
+Perfect for all occasions and the whole group will enjoy easy access to everything from this centrally located place.
+
+The suite is just steps from Broadway, the Music City Center, and Nashville’s best honky-tonks.
+
+Enjoy the properties amenities including pool and gym.
+
+Walkable to dining, nightlife, and top attractions.
+
+20mins from BNA Airport
+
+Parking $25 per night
+
+Permit2018071758
+
+The space
+The suite comfortably accommodates 5 guests with two queen size beds and a fold-down couch.
+
+Kitchen is equipped with kitchen essentials.
+
+Smart TVs available for your favorite streaming services.
+
+The suite has a private balcony.
+
+Guest access
+Guests will receive Smart Lock access by email. The entire property operates by using DOOR Smart Lock App. 
+
+Guests will receive access and check-instructions prior to check-in.
+
+Other things to note
+Parking is available upon request for one vehicle.
+Parking is $25 per night
+
+For any additional vehicles you have the option to pay and park at the property in guest parking . Please note, the property charges a different fee.
+
+Early check-in is available upon request and availability. $50 fee
+
+Late check-out is available upon request and availability. $50 fee
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Echiline
+Host User ID: 1759782814341313272
+Host Profile URL: https://www.airbnb.com/users/show/1759782814341313272
+Host Profile URL Source: public user permalink from passport userId
+My work: Healthcare
+Speaks English and Haitian Creole
+Response rate: 100%
+Responds within an hour
+1 month hosting
+2 reviews
+5.0 out of 5 average rating
+1 month of hosting

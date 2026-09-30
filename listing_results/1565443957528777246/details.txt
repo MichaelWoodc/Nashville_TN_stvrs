@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1565443957528777246
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the vibrant SOBRO district, Soul of the South captures the essence of Southern hospitality and the electrifying spirit of Nashville. With the lively sounds and vibrant energy of South Broadway right outside your window, you're perfectly positioned to dive into the heart of the action while still finding a comfortable oasis inside. This cozy haven is more than just a place to stay; it’s a celebration of culture and comfort.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tia
+Host User ID: 566252321
+Host Profile URL: https://www.airbnb.com/users/show/566252321
+Host Profile URL Source: public user permalink from passport userId
+My work: Director/Operations
+Fun fact: I ran a full marathon in every state.
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+73 reviews
+4.96 out of 5 average rating
+9 months of hosting

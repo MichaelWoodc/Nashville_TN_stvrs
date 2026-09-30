@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1569718548739818399
+Latitude: 36.14574
+Longitude: -86.78639
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 13
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style at this luxe 4-bed, 4-bath private home perfect for groups. The highlight is a stunning rooftop terrace with sweeping skyline views. Located just steps from The Gulch's vibrant dining and shopping scene. Comfortably accommodates your entire group with high-end finishes and a spacious, open layout. Includes a private 2-car garage for ultimate convenience.
+
+The space
+Key Features:
+   Rooftop Terrace: The true highlight is the expansive rooftop terrace, offering breathtaking, sweeping skyline views. It's the ideal spot for unforgettable sunset gatherings or a quiet morning coffee.
+   Living Area: A spacious, open-plan living room and fully-equipped kitchen provide a perfect central hub for relaxing and connecting.
+   Bedrooms & Bathrooms: Four stylishly appointed bedrooms and four full bathrooms ensure privacy and convenience for everyone.
+   Sleeping Arrangements: Plentiful sleeping options to comfortably accommodate your group, including a variety of queen beds, bunk beds, and daybeds. Beds: 13 (1 king, 1 queen, 2 queens, 4 singles, 3 singles — across 4 bedrooms)
+Laundry: In-unit washer
+
+Guest access
+You will have complete and private access to the entire home during your stay. This includes all interior spaces, the expansive rooftop terrace, 2 small balconies and the private garage.
+
+   Private Access: The entire home is exclusively for your use.
+   Self Check-In: Enjoy seamless and flexible self-check-in using a secure access code.
+Parking: A private 2-car garage is included, offering secure and convenient parking.
+
+EARLY CHECK-IN & LATE CHECK-OUT
+We’re always happy to offer flexible timing when possible. Guests may request early check-in or late check-out, which are subject to availability based on our cleaning schedule and nearby bookings.
+ Additional time that may be arranged for a fee depending on the request.
+Please note that all timing requests can only be confirmed within 24 hours of your arrival or departure.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Courtney
+Host User ID: 56210655
+Host Profile URL: https://www.airbnb.com/users/show/56210655
+Host Profile URL Source: public user permalink from passport userId
+Nashville native here — though I took quite the scenic route back home by way of Brooklyn and southern Georgia! I'm passionate about good food, new adventures, and the belief that travel genuinely makes us better humans.
+
+I'm so excited to share a little piece of Nashville with you and do whatever I can to make your stay a great one. Welcome!
+Where I went to school: Fashion Institute of Technology
+My work: Jill of all trades
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+216 reviews
+4.96 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/4351066
+Latitude: 36.1268
+Longitude: -86.7783
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A recently renovated 50's studio, this place was made for Airbnbers.  Plenty of parking and easy access to 2nd floor room with a view of the pool from the balcony.  Conveniently located to downtown, midtown, Vanderbilt, and Belmont.
+
+The space
+The location is great and the upgraded building looks like a motel from the 50s.  With a recently renovated pool area, little if any street noise, and all new amenities, my hope is that you will be comfortable here.  Pillow top mattress with comfortable bedding.
+
+Pool, internet, and cable.  The apartment is conveniently located to all neighborhoods in Nashville.
+
+Pets are allowed but please be respectful and DO NOT let your pets in or on the bed or the couch.  Be advised that you will forfeit half of the deposit ($50) if you do not follow this rule.
+
+***Please note there are no assigned parking spots so please do not ask if there are assigned parking spots.  I seemingly get this question all the time although it seems fairly self explanatory there are not assigned parking spots. 
+
+Easily accessible from I-65 and 8th Avenue in Nashville.
+
+Restaurants and bars that are right down the street or a few blocks over:
+ML Rose restaurant and bar
+Sinema
+The Sutler
+The Smiling Elephant
+Koi
+Edley's BBQ
+Mafiazo's Pizza
+Urban Grub
+12th South Taproom
+Martin's BBQ
+
+Guest access
+Pool, internet, and conveniently located to all neighborhoods in Nashville.
+
+Other things to note
+Restaurants and bars that are right down the street or a few blocks over:
+ML Rose restaurant and bar
+Sinema
+The Sutler
+The Smiling Elephant
+Koi
+Edley's BBQ
+Mafiazo's Pizza
+Urban Grub
+12th South Taproom
+Martin's BBQ
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Calvit
+Host User ID: 16587828
+Host Profile URL: https://www.airbnb.com/users/show/16587828
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 95%
+Responds within an hour
+Superhost
+12 years hosting
+1208 reviews
+4.67 out of 5 average rating
+12 years of hosting

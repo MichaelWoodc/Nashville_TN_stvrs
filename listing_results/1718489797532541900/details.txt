@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1718489797532541900
+Latitude: 36.1542
+Longitude: -86.7755
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a brand new suite located in the heart of Nashville!
+Perfect for all occasions and the whole group will enjoy easy access to everything from this centrally located place.
+
+The suite is just steps from Broadway, the Music City Center, and Nashville’s best honky-tonks.
+
+Enjoy the properties amenities including pool and gym.
+
+Walkable to dining, nightlife, and top attractions.
+
+20mins from BNA Airport
+
+Parking $25 per night
+
+PermitT2022056543
+
+The space
+The suite comfortably accommodates 4 guests with a queen size beds and a pull-out sofa bed.
+
+Kitchen is equipped with kitchen essentials.
+
+Smart TVs available for your favorite streaming services.
+
+The suite also has a private balcony.
+
+Guest access
+Guests will receive one key fob for the unit which they will obtain from a Key Cafe locker located at the lobby.
+
+Guests will receive access and check-instructions prior to check-in.
+
+Other things to note
+Parking is available upon request for one vehicle. 
+Parking is $35 per night
+You also have the option to pay and park at the property as well. Please note, the property charges a different fee.
+
+Early check-in is available upon request and availability. $50 fee
+
+Late check-out is available upon request and availability. $50 fee
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brenda
+Host User ID: 1669110770371934551
+Host Profile URL: https://www.airbnb.com/users/show/1669110770371934551
+Host Profile URL Source: public user permalink from passport userId
+Hello my name is Brenda; I am a retired Army veteran. I enjoy watching Disney movies and old western movies.
+Where I went to school: Hempstead High School Hempstead New York
+My work: Peer Support Special
+Response rate: 100%
+Responds within an hour
+2 months hosting
+7 reviews
+4.71 out of 5 average rating
+2 months of hosting

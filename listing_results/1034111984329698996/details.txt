@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1034111984329698996
+Latitude: 36.1549
+Longitude: -86.775
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your urban oasis in the heart of Downtown Nashville! Walking distance to the Bridgestone, The Ryman, Broadway, Printers Alley and many more hot spots! The chic apartment features plush bedding for a restful night's sleep. The building offers a pool, outdoor courtyard with grills, a full gym, and a unique rock climbing wall. After exploring the city, unwind in the inviting common area. Book now for a memorable Nashville experience—where luxury meets the heart of the action!
+
+The space
+This modern apartment features 2 super plush, queen-sized beds, an entire kitchen, 1 full bath with a shower and garden tub, a spacious walk in closet, and a washer and dryer! Beyond the apartment, enjoy high-end amenities, including a refreshing pool, a courtyard lounge with grills, a dedicated workspace in the common area, and a sky lounge, elevate the overall guest experience. The prime location in Downtown Nashville is the best part, ensuring that you have easy access to the city's vibrant energy and attractions.
+
+Guest access
+You will have access to all the listed amenities as long as they're not down for maintenance! (The pool is only seasonally)
+
+The Burnham operates with a system called "Latch". Latch is an app you'll download giving you access to the front door, parking garage, and your room! Once downloaded you'll just need to provide me with your email address. After that the app works just like Apple Pay - Open the app, then hold your phone up to the Latch device at each entrance! Easy as that!
+
+***One more thing!*** Parking in Nashville is Expensive and inconvenient! I have a reserved spot for you that's an extra $30 per day. If you're bringing a car and want to pay for parking let me know and we'll deal with that before arrival! If not, there will be no extra charges!
+
+Other things to note
+STR:2018073913
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Collin
+Host User ID: 432401539
+Host Profile URL: https://www.airbnb.com/users/show/432401539
+Host Profile URL Source: public user permalink from passport userId
+I'm Collin! Live in Clarksville TN, SoCal born and raised. Full time musician / producer. Love to travel, explore different cultures and eat exotic foods.
+Born in the 90s
+My work: Musician
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+227 reviews
+4.94 out of 5 average rating
+3 years of hosting

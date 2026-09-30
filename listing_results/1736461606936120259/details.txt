@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1736461606936120259
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🎵Enjoy this stylish one-bedroom condo in the heart of Downtown Nashville. 🥂
+
+Fully walkable to popular hotspots and attractions.
+🍺BROADWAY
+📁 MUSIC CITY CENTER 
+🏒 BRIDGESTONE ARENA 🎶
+🎸 COUNTRY MUSIC HALL OF FAME & MUSEUM 
+🏈 NISSAN STADIUM
+
+Whether you’re here to enjoy historic sites, music events, pro football, or a night out on Broadway. You’re just a walk away. 
+
+Spend sometime on our private balcony. 
+🏙️Overlooking the city and the saltwater pool.
+
+The space
+Spacious kitchen fully stocked with all of the essentials!
+
+Plenty of amenities, including:
+⭐️ Ironing board and iron
+⭐️ Luggage racks for unpacking
+⭐️ An electric FIREPLACE!! 
+       Multiple light and flame modes to enjoy with or without heat. 
+⭐️ In unit WASHER and DRYER
+
+Guest access
+AMENITIES:
+👟Fully equipped Fitness Center
+🏊 Saltwater Swimming Pool
+🔥Poolside Fire pits & Sky Lounge
+🍿Mini convenience mart located in the lobby.
+
+ON-SITE:
+🍦 "Tipsy Scoops” Alcohol-infused adult ice cream parlor 
+
+🍱“KOSHO” Japanese restaurant
+
+Other things to note
+• Thank you for booking with us!
+
+• Onsite garage parking available.
+
+• Thank you for treating our condo and all of the property in it with respect. 
+
+• Only booked Airbnb guests may stay on the property and enjoy the services.
+
+Registration Details
+T2022050130
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Edward
+Host User ID: 1716962148793185700
+Host Profile URL: https://www.airbnb.com/users/show/1716962148793185700
+Host Profile URL Source: public user permalink from passport userId
+Fitness Fanatic. Chef and Musician
+Where I went to school: Johnson and Wales University
+Most useless skill: Remembering and recalling random facts.
+Response rate: 100%
+Responds within an hour
+2 months hosting
+10 reviews
+4.9 out of 5 average rating
+2 months of hosting

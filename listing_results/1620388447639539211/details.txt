@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1620388447639539211
+Latitude: 36.1448
+Longitude: -86.7848
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 13
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NEW LISTING! Be one of our first guests to experience Nashville in style! This 4BR/4BA modern home is perfect for large groups & bachelorettes. Includes 13 beds! Featuring bold designer decor, custom bunks, and a stunning private rooftop deck, fire pit, mini-golf, and city views. Located in the heart of downtown, you're just a short walk from The Gulch's vibrant nightlife. Plus, enjoy a private 2-car garage and free parking in front of the house. Your ultimate Music City celebration is here!
+
+The space
+Celebrate your Nashville adventure in style at this newly designed 4BR/4BA modern home, perfectly crafted for large groups and bachelorette parties. With space for everyone across 13 beds, you'll find brand-new designer furnishings and a bold, eclectic style throughout.
+
+Bedrooms: Four uniquely themed bedrooms, each featuring custom-built bunk beds to maximize comfort and space.
+Main Floor: The open-concept main floor is the social heart of the home, with a fully stocked kitchen, a coffee bar, and a relaxing living area with unique guitar-print wallpaper and a vibrant pink neon sign.
+Convenience: In-home laundry is available for your use.
+
+Private Rooftop Deck
+The true showstopper is the private rooftop deck. Here you can enjoy:
+ Panoramic views of the city skyline
+ A cozy fire pit for evening conversations
+ A BBQ grill for cookouts
+ A fun mini-golf putting green
+Multiple seating areas to relax and unwind
+
+Guest access
+You will have private and exclusive access to the entire home. This includes all four bedrooms, four bathrooms, the main living and kitchen areas, and the private rooftop deck with all its amenities. Enjoy the entire space with your group without interruption.
+
+Other things to note
+This home has been professionally designed with a unique, bold, and eclectic style to provide a memorable backdrop for your Nashville celebration. From the themed bedrooms to the rooftop putting green, every detail is crafted for fun and comfort. We look forward to hosting your group!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carolyn
+Host User ID: 595193766
+Host Profile URL: https://www.airbnb.com/users/show/595193766
+Host Profile URL Source: public user permalink from passport userId
+My work: Property manager
+Lives in Nolensville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 months hosting
+7 reviews
+5.0 out of 5 average rating
+6 months of hosting

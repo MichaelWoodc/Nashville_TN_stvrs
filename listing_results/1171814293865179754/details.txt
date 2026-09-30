@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/1171814293865179754
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Howdy Y’all! Welcome to Nash Cowgirl Club — your disco cowgirl getaway in downtown Nashville.
+
+Perfect for girls trips, birthdays, concerts, and Nashville weekends, this themed stay is near Broadway, Bridgestone Arena, Music City Center, and the Country Music Hall of Fame.
+
+Inside you’ll find 4 queen beds, skyline views, pool access, a large kitchen island, full-length mirrors, and fun spaces throughout.
+
+Designed for girls trips, Nashville weekends and nights out with the girls.
+
+STR#2018074631
+
+The space
+4 Queen Beds
+2 Full Bathrooms
+Large Kitchen Island
+Full-Length Mirrors
+Skyline Views
+Resort-Style Pool Access
+Fitness Center Access
+Walkable to Broadway
+Disco Cowgirl-Inspired Living Space
+Vintage Nashville & Feminine Decor Touches
+Photo-Worthy Spaces Throughout
+Large Walk-In Closet + Getting Ready Space
+Washer & Dryer
+Coffee Bar + Kitchen Essentials
+
+@nashcowgirlclub
+
+**Security Cameras are located in the common areas of the Burnham building.**
+
+Guest access
+Guests will have access to the full condo, private balcony, resort-style pool, fitness center, courtyard areas, sky lounge, and shared building amenities during their stay.
+
+The building uses a secure keyless entry system for access to the property and amenities.
+
+Please note that shared building amenities are managed by the building/property management and may occasionally be unavailable due to maintenance, repairs, cleaning, weather, or building policy. While guests typically have full access, availability of shared amenities is outside of the host’s control.
+
+Other things to note
+This is a self check-in property located in a downtown building near Broadway, so guests should expect normal city activity and occasional noise typical of an urban area.
+
+The building uses a secure keyless entry system throughout shared spaces and amenities. Exterior security cameras are located in common areas of the building for guest safety.
+
+Amenities including the pool, gym, sky lounge, and shared building spaces are managed by the building and may occasionally be unavailable due to maintenance, weather, cleaning, or building policies outside of our control.
+
+Please note this is a non-smoking property and is best suited for respectful guests looking to enjoy Nashville responsibly.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michelle
+Host User ID: 62645054
+Host Profile URL: https://www.airbnb.com/users/show/62645054
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Georgia State University (Go Panthers)
+Response rate: 92%
+Responds within a day
+Superhost
+2 years hosting
+106 reviews
+4.95 out of 5 average rating
+2 years of hosting

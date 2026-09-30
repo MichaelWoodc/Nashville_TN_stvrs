@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/27479224
+Latitude: 36.19076
+Longitude: -86.77213
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxury Townhouse, furnished for every comfort, close to Downtown and Broadway.  Includes rooftop deck with superb city skyline views!
+
+3 Floors
+1st: Open concept living, dining, kitchen, half bath 
+2nd: Master King bedroom with ensuite bathroom; Queen bedroom with full bathroom 
+3rd: Rooftop patio with skyline views
+
+Five Star Features:
+Keyless entry
+Premium bedding
+Salon quality toiletries
+Spotlessly clean
+Reserved parking
+Laundry in unit
+55" Smart TV
+
+The space
+Spoil yourself!
+
+This townhouse has been carefully outfitted with only the best amenities for a resort quality experience for our guests.  
+* Premium beds and bedding for a wonderful night's sleep
+* High-end salon quality bathroom toiletries and luxurious towels
+* Shiny spotless stainless steel kitchen with Nespresso and Starbucks coffee options
+* Reserved parking space plus visitors spots in a private off street parking lot
+Bonus: brand new washer and dryer in unit, ideal for long stays!
+
+Guest access
+It's all for you!
+The entire townhome is available for exclusive guest use including washer and dryer machines, the rooftop, and parking spaces.
+
+Other things to note
+Read our reviews!  Click on Jordan's profile to read reviews from hundreds of happy guests who share how our hospitality made their stays not just good or great but exceptional!  Both Jordan and cohost Dee are experienced Superhosts and travelers who care about making their guests feel comfortable and ensuring their visits are effortless and memorable.
+
+First time Airbnber?  Dee is happy to walk first timers through the process!  Many guests have had their first Airbnb stay at one of Jordan's properties and raved afterwards (plus sometimes during!)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 16284736
+Host Profile URL: https://www.airbnb.com/users/show/16284736
+Host Profile URL Source: public user permalink from passport userId
+I work remote, and love travel! I call Boston, D.C., Houston, Columbus, and Nashville "home".  I am an authentic host.  I don't rely on a management company.  My local helpers earn at living wage standard. 
+
+My wife and I travel as often as we can! It's the cure for ignorance! I spend my free time searching for good food in my favorite cities.
+Speaks English and Spanish
+Lives in Boston, Massachusetts
+Response rate: 100%
+Responds within an hour
+11 years hosting
+2364 reviews
+4.74 out of 5 average rating
+11 years of hosting

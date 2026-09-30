@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1639518061391912258
+Latitude: 36.151584293390464
+Longitude: -86.78043091808429
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Accessible 1-bedroom apartment offering 720 square feet designed for comfort and ease of movement, conveniently located on the same floor as the Entertainment Room and Pool Deck.
+Inside, features a plush King bed and a full bathroom equipped with an ADA-accessible shower. Built with accessibility in mind, the layout offers wide clearance and extra maneuvering space for mobility devices, making access to top on-site amenities completely effortless.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Quinley Concierge
+Host User ID: 750861319
+Host Profile URL: https://www.airbnb.com/users/show/750861319
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 98%
+Responds within an hour
+6 months hosting
+45 reviews
+4.91 out of 5 average rating
+6 months of hosting

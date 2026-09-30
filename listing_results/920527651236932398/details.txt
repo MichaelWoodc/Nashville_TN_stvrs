@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/920527651236932398
+Latitude: 36.15423
+Longitude: -86.77421
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville at this modern style suite. This 2 bedroom, 2 bathroom with a modern touch is in the heart of downtown Nashville. This suite is conveniently located only 2 minutes from the iconic Broadway and is surrounded by major attractions, including Bridgestone Arena, Country Music Hall of Fame, Nissan Stadium, Music City Center, Museum and more. It's perfect for families, couples and business travelers with many restaurants, bar and shopping walking distance.
+
+Permit #2022050422
+
+The space
+This Luxury 2 bedroom apartment is designed to give you a high-end & comfortable experience. The apartment has 2 bedrooms, one with a queen bed, another with 2 twin beds, a convertible sofa and a high queen air mattress to allow for comfortable sleeping arrangements. The space is also family friendly; it is equipped with a pack and pay and plenty of board games. 
+
+Looking to kick back and stay in a couple days, we got you covered. Take advantage of some streaming with our Roku Smart TV which includes access to  Netflix, Hulu, Disney+, youtube, wifi and more. The kitchen is stocked with cookware if you desire to dine in. In need of some fun? We have a swimming pool with beautiful outdoor sitting and grilling areas available. For those who need to get fit, visit our 24 hour fitness center. You visit our lounge for some quiet study time, work or relaxation. There is a washer and dryer in the unit for your laundry needs. Lastly, the suite is thoroughly cleaned and sanitized immediately after check-out by our partnering company Meme Montheria Cleaning.
+
+Guest access
+You’ll have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shaina
+Host User ID: 521678908
+Host Profile URL: https://www.airbnb.com/users/show/521678908
+Host Profile URL Source: public user permalink from passport userId
+Hi. I'm Taylor!
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+336 reviews
+4.76 out of 5 average rating
+3 years of hosting

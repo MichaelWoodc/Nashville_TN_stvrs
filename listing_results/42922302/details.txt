@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/42922302
+Latitude: 36.12548
+Longitude: -86.77795
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to SimplySouthern our newly renovated studio. Located in a wonderful vintage 1950's motel  
+configured into many individual amazing little studios with character, charm and location, location, location.  Our 440 square foot studio is located on the first floor of the building in a hip neighborhood just minutes to downtown Nashville.
+
+The space
+SimplySouthern is owned and operated by two born and raised Nashvillians that love their home town. Being local artists, SimplySouthern has art created by them throughout. Located in a vintage remodeled 1950's motel SimplySouthern is located on the first floor. Please note that a studio is above and beside our guests staying in SimplySouthern.  With the charm of a 1950's motel you will hear other guests from time to time. Please keep this in mind when booking.  There are a small flight of stairs from the parking lot to SimplySouthern. There is a community washer/dryer located on the property that requires payment. Parking is free and located just outside the building with overflow near the street. The pool is located just steps away and you will love the charm it has.
+
+Registration Details
+2020014780
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Walter Allen
+Host User ID: 197294636
+Host Profile URL: https://www.airbnb.com/users/show/197294636
+Host Profile URL Source: public user permalink from passport userId
+We were born and raised here in Nashville!!! High school sweethearts who love this city.  Our motto "Do your best or Not at all"  Local artists, you may see our work all over town.  These are a few of our favorite things...... antiquing,dogs,art galleries,preds,football,county music,all things vintage,old worn leather,golf,30A,Mexican food and spending time with our two beautiful girls!!!
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1134 reviews
+4.97 out of 5 average rating
+8 years of hosting

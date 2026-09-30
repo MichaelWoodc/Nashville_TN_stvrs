@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/1716077280499615009
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our vibrant downtown Nashville getaway! Just a 10-minute stroll from Broadway. This cozy and spacious 1-bedroom apartment is perfect for up to 5 guests. Enjoy a king-sized bed, a pull-out queen sofa, and an air mattress. The apartment includes free parking, two smart TVs, free high-speed WiFi, an in-unit washer and dryer, and a balcony. The stocked kitchen includes dishware, cooking utensils, and a dual Keurig for your convenience.
+
+The space
+📱 KEYLESS ENTRY via Door app and Self Check-in
+
+🏋🏼TWO-STORY FITNESS CENTER with a rock climbing wall & private yoga room
+
+🏊🏼 RESORT-STYLE POOL with private cabanas (open year round)
+
+🌞 OUTDOOR COURTYARD with grills, firepits, covered gazebo, and lots of seating to relax and unwind
+
+💻 TWO-STORY COLLECTIVE on 1st floor- perfect for entertaining or co-working
+
+🌇 ELEVATED 6th FLOOR SKY LOUNGE & DECK with city views- perfect spot for Golden Hour
+
+🛜 HIGH SPEED WI-FI in unit and common areas to stay connected
+
+📸 INSTA-WORTHY- Several photo ops throughout community to capture moments and memories
+
+With on-site maintenance, concierge, and security, plus easy access to Uber/Lyft and other ride share services, your stay is worry-free.
+
+Building amenities are available but beyond our control, and we assume no responsibility for their maintenance, noise or availability. By booking, you acknowledge this disclaimer.
+
+Guest access
+All occupants must be listed on the reservation.
+
+NO UNAUTHORIZED GUESTS are allowed, NO PETS, and  only authorized guests receive access to property amenities (managed by property management).
+
+Other things to note
+The apartment is centrally located, making it easy to reach the Nashville International Airport in 10-15 minutes.
+
+📍 Broadway- 10 min walk
+📍 Bridgestone Arena- 8 min walk
+📍 Music City Center- 6 min walk
+📍 Country Music Hall of Fame- 4 min walk
+📍 The Ryman Auditorium- 10 min walk
+📍 Ascend Amphitheater- 0.6 mi (or quick rideshare)
+📍 Nissan Stadium- 1.4 mi (or quick rideshare)
+
+🚗 If you are booking a rental vehicle, contact us for a discount through National, Enterprise, or Alamo!
+
+Permit #2018073032
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nathan & Dominic
+Host User ID: 1714094693986262518
+Host Profile URL: https://www.airbnb.com/users/show/1714094693986262518
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: UND, UW-River Falls
+My work: Sales & Education
+Response rate: 100%
+Responds within an hour
+2 months hosting
+18 reviews
+5.0 out of 5 average rating
+2 months of hosting

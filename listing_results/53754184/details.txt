@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/53754184
+Latitude: 36.146
+Longitude: -86.7831
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Truman House—a comfortable, spacious home nestled in downtown Nashville’s upscale Gulch South residential neighborhood. Surrounded by luxury homes and just 1 mile from the heart of downtown, our home offers the perfect base for exploring the city! Walk to The Gulch and Music Row, or take a quick rideshare to Broadway, Midtown, 12 South, Germantown, and East Nashville. With space for up to 12 guests, it’s an ideal stay for groups seeking comfort, style, and unbeatable convenience.
+
+The space
+Nestled in the upscale Gulch South neighborhood of downtown Nashville, Truman House is a stylish, standalone two-story home offering the perfect blend of comfort, space, and convenience. Just minutes from The Gulch, Broadway, and all of Nashville’s top attractions, this 4-bedroom, 2.5-bath home is ideal for families or groups looking to experience Music City in comfort.
+
+Downstairs, enjoy a spacious, fully stocked kitchen, a bright dining area for shared meals, and a cozy screened-in porch—perfect for morning coffee or winding down at night. A convenient half bath completes the main floor.
+
+Upstairs, unwind in a dedicated bonus room with a sleeper sofa, gaming consoles, and a full laundry room. Each bedroom is thoughtfully designed with its own unique personality and comfort in mind:
+
+The “Traverse” master suite features two full beds and a private ensuite bathroom.
+
+The “Westlake” and “Berkshire” rooms each offer a queen bed and relaxing decor.
+
+The “Orion” room has two full beds, and a shared full bathroom is conveniently located between the Orion and Westlake bedrooms. 
+
+No matter what brings you to Music City—a weekend escape, a special occasion, or indulging in Nashville's legendary food and music scene—Truman House is your cozy, convenient home away from home in one of the city’s top neighborhoods.
+
+Guest access
+Truman House provides hassle-free parking with a private driveway that fits up to three vehicles, plus plenty of free, no-permit-required street parking around the home. Located in a walkable and scooter-friendly residential downtown neighborhood, you’ll have easy access to The Gulch, Broadway, and many of Nashville’s most popular neighborhoods right from your doorstep.
+
+Before your stay, you’ll receive a personalized door code for smooth, self-check-in experience. The smart lock system ensures secure entry and automatically re-locks after a short time for added peace of mind—so you can settle in and start enjoying your stay right away!
+
+Other things to note
+At Truman House, we're proud to be locally owned and personally managed, which means every guest is welcomed with the kind of care and attention we’d give to our own family and friends. We’re here to make sure your time in Nashville is comfortable, smooth, special, and full of great memories!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mallory
+Host User ID: 100695204
+Host Profile URL: https://www.airbnb.com/users/show/100695204
+Host Profile URL Source: public user permalink from passport userId
+Hi! We're Josh & Mallory,  business professionals with a passion for travel, sports, great food, and design. We love hosting friends, which makes sharing our space on Airbnb feel natural.
+
+Whether you're visiting our hometown or a place we’ve explored, we’re happy to share our favorite recommendations to make your stay even better. We look forward to hosting you!
+My work: Sports/Entertainment
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+231 reviews
+5.0 out of 5 average rating
+10 years of hosting

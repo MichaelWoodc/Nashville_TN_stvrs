@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1309709107467773678
+Latitude: 36.15348
+Longitude: -86.77443
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Music City vacation mode. Enjoy the city view from a luxurious penthouse balcony, steps from Nashville's best clubs, and stadium! Enjoy modern comfort with a comfy leather sofa, deluxe plush bed, and premium toiletries. A guitar beckons to strum some chords. Building amenities include a pool with stunning views, outdoor lounges with grills, and a full gym with group fitness space. Perfect for relaxing, exploring, and enjoying Nashville’s vibrant nightlife!
+
+The space
+☆ Fully equipped kitchen with all the essentials and a few extra perks
+☆ Opulent leather sofa that easily becomes a comfy bed by remote control
+☆ Bar cart to craft and enjoy your own concoctions
+☆ Comfortable balcony chairs and table to enjoy looking out over Downtown Nashville
+☆ WiFi powered by Fiber to use your devices or stream your favorite shows
+☆ 65 inch Smart TV supported by a full-motion mount in the living room, 55 inch as well in the bedroom
+☆ Super comfy Queen bed in the private bedroom with cooling technology pillows as well
+☆ Luxurious bath robes to enhance relaxation
+☆ In-unit washer and dryer with tablets for your convenience
+
+Guest access
+Guests will have access to 
++ Pre-paid parking in the secure garage.
++ A Lovely rooftop pool
++ Luxurious indoor and outdoor lounges
++ Everything Downtown Nashville has to offer whether you'd like to walk or rent one of the city's many scooters and bikes available nearby
+
+Other things to note
+Nashville is a lively city with streets that never sleep. Please feel free to use the provided earplugs if you are ever disturbed by the city's noises such as sirens or construction. As such things are out of my control, I cannot offer any discount or refund for noise issues that are outside of the apartment.
+
+Registration Details
+Permit #2022059378
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Constance
+Host User ID: 666573417
+Host Profile URL: https://www.airbnb.com/users/show/666573417
+Host Profile URL Source: public user permalink from passport userId
+My work: Teacher
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+63 reviews
+4.92 out of 5 average rating
+2 years of hosting

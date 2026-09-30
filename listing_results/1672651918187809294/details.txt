@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1672651918187809294
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern condo in the heart of Nashville! Walk to top bars, dining, and attractions. Sleeps 4 comfortably with a private balcony to unwind. Enjoy resort-style amenities including a pool, gym, outdoor bbq and entertainment center. Perfect for groups, couples, and families looking for space, comfort, and convenience. Ideal for weekend getaways or longer stays with everything you need just steps away in a prime, walkable location.
+
+Parking 25$ per night
+
+Air Bnb Permit #T2022050517
+
+The space
+Located in the vibrant SoBro (South of Broadway) neighborhood in the heart of downtown Nashville, you’ll be within walking distance of award-winning restaurants, iconic honky-tonks, major sports and music venues, and scenic parks and trails. This beautifully decorated unit offers a stylish, comfortable stay with easy access to everything the city has to offer.
+
+Prime Location – Walk to Nashville Favorites:
+
+- Music City Center – 5–6-minute walk
+- Country Music Hall of Fame & Museum – 6–7-minute walk
+- Bridgestone Arena (home of the Predators & major concerts) – 7–10-minute walk
+- Broadway & its famous honky-tonks – 9–11-minute walk
+- Printer’s Alley & Skull’s Rainbow Room – 10–12-minute walk
+Nissan Stadium (Tennessee Titans games & events) – 18–20-minute walk
+First Horizon Park & Germantown area – 25–30-minute walk (or a very short ride)
+
+Guest access
+As a guest, you’ll have full access to our Unit , as well as the building’s shared amenities, including a resort-style saltwater rooftop pool, outdoor kitchen and grilling areas, a state-of-the-art fitness center, modern conference rooms, and an entertainment area with billiards, vending machines, and lounge space.
+
+Check in at the Digital Key cafe. Under #2
+
+Other things to note
+BUILDING AMENITIES DISCLAIMER
+**This is an Airbnb-friendly community**
+While guests have access to amenities such as the pool, fitness center, and resident lounges, we do not manage their maintenance, availability, or scheduling. In the event that any of our building amenities become unavailable for guests, we assume NO RESPONSIBILITY for any of these amenities prior to or during your stay. By making your reservation you are acknowledging this disclaimer regarding our building amenities and agree unavailability will not be grounds for refunds or cancellation of your reservation.
+
+We focus on providing the best possible experience within our control and are always here to help with any questions or concerns. Your five-star stay is our priority!
+
+HOUSE RULES & COMMUNITY GUIDELINES
+To ensure a comfortable experience for all residents and guests, please review the following:
+
+- Smoking & Substances: This is a smoke-free and drug-free community, including balconies and all amenity areas.
+- Quiet Hours: 10:00 PM – 7:00 AM. Please be respectful of neighbors.
+- Trash: Please dispose of all garbage in the trash chute located near the main elevators on the south side of the building.
+- Guests: Only registered guests are permitted. All guests must be listed on the reservation. No parties are allowed.
+- Pets: No visiting pets are permitted.
+- Balconies/Patios: Do not hang items on balcony railings. Glass is not permitted on balconies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: A&M Oasis Solutions
+Host User ID: 1664034597673583089
+Host Profile URL: https://www.airbnb.com/users/show/1664034597673583089
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 85%
+Responds within an hour
+Superhost
+3 months hosting
+27 reviews
+5.0 out of 5 average rating
+3 months of hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/37898509
+Latitude: 36.18194
+Longitude: -86.75904
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville is a happening place but it's nice to have a relaxing place to get away from the hustle and bustle.  That is exactly what you will experience in our cozy bungalow while still being  a short walk, drive, scooter ride, or ride share from all the the city has to offer.  Use our home as a casual rest and a hub to explore Nashville.
+
+The space
+We are  a remodeled 3 bed/2 bath house.  The Primary bedroom boasts a king bed with a full on suite bath and walk in closet.  Bedroom 2 & 3 share the 2nd bath with queen beds in each. We have a fully equipped kitchen & offer all linens and towels needed for your stay.  We offer private and on street parking and a fully fenced back yard to make you feel at home in the big city.
+
+Guest access
+You’ll have private access to our whole house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Holly
+Host User ID: 86599973
+Host Profile URL: https://www.airbnb.com/users/show/86599973
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+342 reviews
+4.89 out of 5 average rating
+7 years of hosting

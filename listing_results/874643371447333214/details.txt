@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/874643371447333214
+Latitude: 36.1473
+Longitude: -86.7817
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Music City from our vibrant 2-story penthouse in Downtown Nashville! Sleeps 6. This unique loft features art-filled walls, 20-ft ceilings, and a private rooftop patio with a pool table, putt-putt golf, and more. Perfect for couples, groups, and families looking for an unforgettable urban retreat just steps from Nashville's best entertainment. Includes free parking.
+
+The space
+Welcome to our luxurious and entertainment-filled penthouse in the heart of Downtown Nashville! This vibrant, two-story loft is the perfect urban retreat for families, groups, or couples, with space to comfortably sleep up to 6 guests.
+
+Step inside and be captivated by the 20-foot ceilings, art-filled walls, and colorful murals that give the space its unique character. The modern kitchen is fully equipped with stainless steel appliances, perfect for preparing meals before a night out.
+
+Sleeping Arrangements (Sleeps 6):
+
+Main Bedroom: California King bed
+Living Area: Queen pull-out sofa
+Living Area: Convertible chair that folds out to a twin bed
+A rollaway cot is also available in the closet.
+
+Private Rooftop Entertainment Hub: The crown jewel of your stay is the private rooftop patio, your personal entertainment hub. Enjoy endless fun with activities including:
+
+A private pool table
+A mini putt-putt golf course
+Giant Jenga and Giant 4-in-a-Row
+Cornhole
+A punching bag
+
+Guest access
+Guests will have exclusive and private access to the entire two-story penthouse, including the private rooftop patio and all of its games and amenities.
+
+You are also welcome to use the shared building amenities, which include:
+
+A modern fitness center
+A swimming pool
+
+One complimentary parking spot is included with your stay, located in a covered garage. Additional free street parking is available around building.
+
+Other things to note
+Looking for some pampering? CRAFT hair+co, a full-service salon, is conveniently located on-site and is happy to assist with any spa or beauty services during your stay. We recommend booking any services in advance to ensure availability.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kunal
+Host User ID: 118822855
+Host Profile URL: https://www.airbnb.com/users/show/118822855
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of Tennessee at Knoxville
+My work: Real Estate
+3 years hosting
+117 reviews
+4.85 out of 5 average rating
+3 years of hosting

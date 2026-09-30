@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1057727655813259848
+Latitude: 36.1641
+Longitude: -86.77819
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 630 sqft 1 bedroom 1 bathroom loft within the historic Southern Turf building offers an unforgettable experience that pays homage to its storied past. The authentic features stand as a reminder of the countless stories that have unfolded within these walls over the decades while integrating modern comforts and conveniences seamlessly throughout. The kitchen boasts top-of-the-line appliances, making it a joy for aspiring chefs to whip up delicious meals.
+
+The space
+Welcome to the legendary Southern Turf Building in the heart of downtown Nashville, Tennessee! Nestled just above historic Skull's Rainbow Room (a Nashville landmark since 1948) and Nashville's newest and most elevated dining experience, Sinatra Bar & Lounge, we are thrilled to offer you a unique Airbnb experience with our six exquisite lofts that showcase the rich history and vibrant culture of this iconic city.  Relax in comfort and indulge in the history and charm of the historic Southern Turf Building. Each of our lofts has been meticulously renovated by Icon Entertainment & Hospitality to provide a custom guest experience. The legendary Southern Turf Building holds a special place in Nashville's history, dating back to its construction in the late 19th century. Over the years, it has been a gathering place for locals and visitors alike, hosting vibrant music performances, lively events and unforgettable moments.  Now, as part of Icon Entertainment's vision, these units combine the building's storied past with modern amenities and luxurious touches. We strive to provide you with an unforgettable stay, where you can immerse yourself in the soulful rhythms of Music City while enjoying the comfort and convenience of our thoughtfully designed accommodations.  As our guest, you'll have access to all the amenities you need, including high-speed Wi-Fi, air conditioning, essential toiletries and a concierge service ready to assist you throughout your stay. All our lofts feature antique accents and select furnishings from the 1800's as an homage to the heritage of the Southern Turf Building. There's no limit to the live entertainment and delectable cuisine located not just in walking distance but within the same historic building as the lofts. The first floor is home to the Manhattan meets Palm Springs ambiance of Sinatra Bar & Lounge, a homage to Frank Sinatra serving classic Italian, prime steaks and classic cocktails. Head to the basement of the Southern Turf Building to experience the fine dining, craft cocktails and live entertainment (featuring live jazz nightly and burlesque performances every weekend) that has made Skull's the cornerstone of Nashville's historic Printers Alley district since 1948. Come experience the magic of Nashville from the legendary Southern Turf Building, where history, music and hospitality converge.
+
+Other things to note
+Your stay at the Southern Turf Lofts will include the following:
+
+Food & Beverage credit for Skull's Rainbow Room
+Food & Beverage credit for Sinatra Bar & Lounge
+Complimentary admission to the Johnny Cash Museum
+Exclusive guest pass to the Southern Turf Private Club
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Will
+Host User ID: 544296794
+Host Profile URL: https://www.airbnb.com/users/show/544296794
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+3 years hosting
+83 reviews
+4.98 out of 5 average rating
+3 years of hosting

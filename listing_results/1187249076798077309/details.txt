@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1187249076798077309
+Latitude: 36.1647
+Longitude: -86.7778
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 13
+beds: 32
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the ultimate Nashville getaway at our Rockstar Penthouse Speakeasy. this bespoke style property combines three huge listings into one unique property.  Located in historic Printers Alley, just 2 blocks off Broadway. Walk to Bridgestone arena, the Music City convention center, Titan stadium, Ryman and more!
+
+This property contains 12 bedrooms, 8 bathrooms, 3 kitchens, A front lobby entertaining area. 
+
+Perfect for huge groups! Largest property downtown walking distance to Broadway.
+
+The space
+combined listing is for the entire building. all three floors. there is access from the front off 3rd avenue North that will get you into the lobby. from the lobby you can either take the elevator or stairs up to the second or third floor or you can enter the first floor unit. 
+All the floors are custom designed and built out by your hosts, Cameron and Devon. each floor has its own style and theme. 
+A perfect spot for big bachelor and bachelorette groups, large family reunions, corporate retreats, holding meetings or networking events, Holiday parties, or anything else. 
+Can separate the floors for your group to have different families, departments, or keep them all the same access. We can tailor fit The property to your purpose. we're also hosts that are locals. we love giving our recommendations and helping set up tours and activities. let us know what you're in town for and what you'd like to do.
+
+Guest access
+Smart Lock code to get inside the building and then each floor has its own unique code that we can set your own code or we can make all them the same if you want to have easy access all with inside the building. just let us know what fits your group and we will set it up with our Smart locks.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: All-In-Properties
+Host User ID: 109338728
+Host Profile URL: https://www.airbnb.com/users/show/109338728
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: mtsu / belmont
+My work: Host Extraorinaire
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+381 reviews
+4.8 out of 5 average rating
+9 years of hosting

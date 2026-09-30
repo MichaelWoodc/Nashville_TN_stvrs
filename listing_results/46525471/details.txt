@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/46525471
+Latitude: 36.21929
+Longitude: -86.70565
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"This incredible 1 bedroom 1 bath condo is available for rent at an affordable price! The Wyndham Nashville Resort is located about a mile away from the legendary Grand Ole Opry and the Opry mills outlet mall. Wyndham Nashville is close to many of the city's most popular attractions and about a 15 minute drive to downtown. The resort has 2 outdoor swimming pools, an indoor swimming pool, an outdoor hot tub, fitness center, basketball, picnic/BBQ area, and live entertainment."
+
+Other things to note
+Must be 21 years of age to check in. 
+Fully refundable security deposit of $150 due at check in with major card. 
+These are stock photos from the resort and not of the actual unit. 
+Unit of similar size and style will be assigned at check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 24132769
+Host Profile URL: https://www.airbnb.com/users/show/24132769
+Host Profile URL Source: public user permalink from passport userId
+Lives in Lampe, Missouri
+Response rate: 57%
+Responds within a day
+5 years hosting
+465 reviews
+4.77 out of 5 average rating
+5 years of hosting

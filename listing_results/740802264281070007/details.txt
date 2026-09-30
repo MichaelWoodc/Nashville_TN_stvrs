@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/740802264281070007
+Latitude: 36.1537
+Longitude: -86.7752
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NASHVILLE ISN'T CALLED MUSIC CITY FOR NOTHING!!
+
+ Enjoy a stylish experience at this centrally-located place. A spectacular view of downtown where live music, restaurants, and bars are just 3 blocks away!!! Bridgestone Area, Country Music Hall of Fame, The Gulch and Nissan Stadium are all a short walk. The space can fit up to 4 guests, depending on how cozy you want to be :) Our guests will enjoy a queen bed, as well as comfortable day bed w/trundle.
+
+Permit: #2022059386
+
+The space
+Guests will have access to our entire unit. Access to shared spaces such as the pool, gym, courtyard, lobby, and entertainment lounge are also included. Explore as much as you’d like!
+
+The shared amenities are maintained and monitored by the building. We are not responsible for the closure or unavailability of any of these shared amenities, which is completely out of our control. Should a situation occur during your stay, we will not be able to accommodate a refund for your stay with us. We do however do our best to notify our guests immediately when we are made aware of any closures of amenities.
+
+Guest access
+The building is equipped with a keypad & key fob entry lock system. We will give guests access codes and instructions! We have a guide that breaks down all the info on how the key fob is picked up and returned, as well as how to use it.
+
+There is super convenient private parking space in the gated parking structure under our building for about $35 per night of your stay.  It is a  pay to park system by scanning a QR code on the pillars of the garage. You will enter the garage at the entrance on 6th Ave. South. Parking would begin at time of check in, and end at time of checkout.
+
+Other things to note
+Please note this building is in the very heart of downtown Nashville. We are not responsible for any uncontrolled variables outside of this building such as noise, private or public events, construction, etc that may be happening outside at the time of your trip. This is a multifamily complex whose ownership controls the amenities/common areas and exterior/shared interior spaces and maintenance of appliances and interior physical conditions of the apartment (including but not limited to plumbing, electrical, hvac, drywall, etc) and as such items are out of our personal control. We are bound to abide by the building's protocol when it comes to maintenance issues and timelines to address. All other items we personally take care of. It is important to us to deliver a wonderful stay and experience on everything we can control within the apartment itself to ensure you have a fabulous time in Nashville, living like a local!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Donato
+Host User ID: 28420439
+Host Profile URL: https://www.airbnb.com/users/show/28420439
+Host Profile URL Source: public user permalink from passport userId
+I live in Fairfield, New Jersey, but have had the opportunity to see a lot of our beautiful country. I have a passion for music, travel, and most importantly people. After staying in many Airbnb‘s, I ventured into hosting my own guests. I am starting my journey with this beautiful apartment in downtown Nashville. I look forward to hosting you and to making your experience memorable.
+Lives in Fairfield, New Jersey
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+253 reviews
+4.92 out of 5 average rating
+5 years of hosting

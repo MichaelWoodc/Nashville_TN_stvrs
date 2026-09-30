@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1699463914085875596
+Latitude: 36.15568987323088
+Longitude: -86.77840615825014
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Your Luxe Nashville Getaway! 🎸
+
+Step into comfort and convenience in the heart of Music City at The Icon. Our stylish, modern studio blends luxury with resort-style amenities, perfectly situated just steps from the city's best entertainment. Whether you are here for the honky-tonks, a concert, or a weekend getaway, this is the perfect home base.
+
+ STR Permit #2018073915.
+
+The space
+✨ The Space (Sleeps 6):
+Designed with group comfort in mind, our open-concept studio comfortably sleeps up to 6 guests.
+• Rest Easy: Two plush queen beds, plus space for an additional premium twin air mattress.
+• Gourmet Kitchen: Fully stocked with stainless steel appliances, cookware, and a dedicated coffee station to jumpstart your mornings.
+• Entertainment & Work: Kick back with our large Smart TV and lightning-fast WiFi. Need to catch up on emails? We have a dedicated workspace just for you.
+• Convenience: Enjoy the convenience of a free in-unit washer and dryer, plus keyless entry for a seamless, flexible check-in.
+
+🌴 Resort-Style Building Amenities:
+Why just book a room when you can have a resort experience? As our guest, you have access to:
+• A stunning heated pool with a sprawling courtyard and alfresco dining area
+• State-of-the-art, fully equipped fitness center
+• A breathtaking sky lounge offering panoramic views of the Nashville skyline
+• Outdoor fire pits and BBQ grilling stations—perfect for summer evenings
+
+Guest access
+🛎️ Guest Access:
+
+You will have private access to the entire studio, plus full use of all shared building amenities (pool, gym, sky lounge, and courtyards). Arriving early or leaving late? Take advantage of the building's bell service for convenient luggage drop-off and storage, so you can start enjoying Nashville the moment you arrive.
+
+Other things to note
+• Superhost Guarantee: While this is a brand-new listing, I am an experienced Superhost with over 330 reviews and a 4.96 rating across my properties. I am fully committed to providing you with a flawless, 5-star experience!
+
+STR Permit #2018073915
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laramy
+Host User ID: 208016465
+Host Profile URL: https://www.airbnb.com/users/show/208016465
+Host Profile URL Source: public user permalink from passport userId
+My work: Insurance Rep & Host
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+403 reviews
+4.95 out of 5 average rating
+5 years of hosting

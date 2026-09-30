@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/931462250190860890
+Latitude: 36.1515
+Longitude: -86.778
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our stunning brand-new home in Downtown Nashville. Featuring over 1,200 sq ft of space, perfect for large groups or families to experience the energy of the music capital.  Offering the best city skyline views right from your balcony.  Centrally located six blocks from the legendary music scene "Broadway", short walk to the Gulch, Bridgestone Arena, Nissan Stadium and much more this lively city has to offer. Spend your day relaxing poolside and your evening soaking up the nightlife
+
+The space
+Large open living room with an easy to use queen sofa bed and queen Murphy bed. Enjoy our private patio with a stunning view of the city. Kitchen has all the essentials needed to bake, cook or create cocktails. Main bedroom has a king bed with walk-in closet and a gorgeous view of the city right from your comfy bed. It has a large private bathroom. Bedroom 2 has a queen trundle bed with a twin. The second full bath is right next to bedroom. Washer & dryer in unit if needed.
+
+Guest access
+Enjoy full access to all the amenities in both the unit and the building, including a state-of-the-art gym, a heated pool with poolside cabanas open from March to October, cozy fire pits, an outdoor ping pong table, BBQ facilities, and a welcoming community lounge with a business center. Plus, enjoy complimentary coffee, espresso, and teas at the store located in the upper parking structure.
+
+Other things to note
+The South Parking Garage, which is located at the top of the hill and indicated by an image of a Panda on the wall, is free on a first come first serve basis for any spot not marked Reserved. 
+
+The North Parking Garage is available to guest at a reduced rate.  Please be aware this garage is not free and guest must pay upon exiting or risk being cited.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendy
+Host User ID: 396364911
+Host Profile URL: https://www.airbnb.com/users/show/396364911
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+89 reviews
+4.98 out of 5 average rating
+3 years of hosting

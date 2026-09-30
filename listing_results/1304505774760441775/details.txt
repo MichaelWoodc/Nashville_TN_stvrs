@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1304505774760441775
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of one of Nashville’s most vibrant and sought-after streets, this spacious 2-bedroom, 2-bathroom unit seamlessly blends comfort, style, and convenience. Just minutes from the city’s top bars, acclaimed restaurants, and coffee shops. Enjoy premium amenities, including a stylish resident lounge with a pool table, a state-of-the-art fitness center, and an outdoor patio. The building also features a luxurious Baja-style pool, and a trendy outdoor bar.
+
+The space
+Enjoy your time in The Music City with your group of friends or family by spreading out in our spacious new-construction condo.  This home is the perfect place to get ready for your night out on Broadway, or to relax as a group while using our ample open-space social area and fully equipped kitchen. Wind down your day in our generous sleeping arrangements or cozy up on the couch to watch your favorite show.
+
+Other features:
+Pool
+Rooftop common areas
+Billiards table in building
+Underground parking garage
+Bar cart with shakers and glassware
+Drip coffee maker and k-pod machine
+Washer and dryer 
+Excellent wireless internet
+Streaming television
+Extra pillows and blankets
+Comfortable linens
+Cotton bath towels
+And much more!
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you 24 hours before your check-in time.
+
+Other things to note
+This condo is located in the heart of beautiful music city row it has gated underground parking and security staff on duty 24/7.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

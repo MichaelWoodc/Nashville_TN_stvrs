@@ -14,7 +14,7 @@ from urllib.parse import urlencode
 from urllib.request import urlopen
 
 BOUNDARY_SERVICE = 'https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1'
-SPATIAL_VERSION = 3
+SPATIAL_VERSION = 4
 CELL_METERS = 500
 
 
@@ -91,12 +91,15 @@ def annotate_spatial(root, output, listings, permits, parcels_available):
                                      'boundary_distance_m': signed_edge_distance(point, boundary),
                                      'cell_id': f'{math.floor(point.x/CELL_METERS)}_{math.floor(point.y/CELL_METERS)}'}
         record.update(cache['points'][key])
-        cid = record['cell_id']
-        if cid not in cells:
-            x, y = (int(v)*CELL_METERS for v in cid.split('_'))
-            geometry = box(x, y, x+CELL_METERS, y+CELL_METERS)
-            cells[cid] = {'type': 'Feature', 'geometry': mapping(transform(inverse, geometry)),
-                          'properties': {'cell_id': cid, 'center': list(inverse(x+250, y+250))}}
+        cell_x, cell_y = (int(v) for v in record['cell_id'].split('_'))
+        for dx in (-1, 0, 1):
+            for dy in (-1, 0, 1):
+                x, y = cell_x*CELL_METERS+dx*CELL_METERS, cell_y*CELL_METERS+dy*CELL_METERS
+                cid = f'{cell_x+dx}_{cell_y+dy}'
+                if cid not in cells:
+                    geometry = box(x, y, x+CELL_METERS, y+CELL_METERS)
+                    cells[cid] = {'type': 'Feature', 'geometry': mapping(transform(inverse, geometry)),
+                                  'properties': {'cell_id': cid, 'center': list(inverse(x+250, y+250))}}
     write_json(cache_path, cache)
     # Only redraw buffers when geography changes. Classification uses the unsimplified outline.
     geography_signature = hashlib.sha256(json.dumps(signature).encode()).hexdigest()

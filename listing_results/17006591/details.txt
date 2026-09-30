@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/17006591
+Latitude: 36.16412
+Longitude: -86.78196
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious 1,134 sqft, 2 bedroom, 2 bathroom condo is located right downtown and is completely walkable!  This place is great for 2 couples, a group of friends, or a family that wants to enjoy Nashville in style! The unit is updated with granite countertops, full modern kitchen, wood floors, and exposed brick walls. No need to rent a car or call an Uber here!
+
+Guest access
+Guests will have access to the entire condo, minus a storage closet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 113715833
+Host Profile URL: https://www.airbnb.com/users/show/113715833
+Host Profile URL Source: public user permalink from passport userId
+I love to travel and spend time with my family!
+Born in the 50s
+Where I went to school: California
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+298 reviews
+4.99 out of 5 average rating
+10 years of hosting

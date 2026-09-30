@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1751878337300027380
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Blue &Gold Luxe Retreat in the heart of Nashville! Perfect for families,friends,or couples, this modern 1-bdrm apartment combines comfort and style. Sip coffee on the balcony as you take in vibrant city views,or enjoy a game night with familyfriendly fun. Steps from Broadway's nightlife, restaurants, and iconic attractions,you’ll experience MusicCity like a local. With a full kitchen,washer dryer,& walkable downtown location your Nashville escape awaits !
+Permit #T2022056628
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rakin
+Host User ID: 749069919
+Host Profile URL: https://www.airbnb.com/users/show/749069919
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Kings College, Charlotte NC
+My work: Microsoft
+Response rate: 96%
+Responds within an hour
+New Host
+1 reviews
+5.0 out of 5 average rating

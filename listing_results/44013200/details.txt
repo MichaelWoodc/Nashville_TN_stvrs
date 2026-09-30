@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/44013200
+Latitude: 36.15513
+Longitude: -86.77591
+rental_type: Private room in resort
+property_type: RESORT
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A prime location in the heart of downtown Nashville, Margaritaville Nashville Resort is just a few blocks from popular hot spots like Honky Tonk Highway, Broadway, Second Avenue and Music Row. With a mix of Nashville’s hot SoBro neighborhood and the relaxed vibe of Margaritaville, you won't find a better place for "living life like a song!" A unique blend of island life and a sleek, urban resort come together seamlessly in the middle of  Nashville’s vibrant downtown.
+
+The space
+The country music scene offers endless places to visit like the Johnny Cash Museum, the Country Music Hall of Fame® and Museum, BB King's Blues Club, the Grand Ole Opry©, Ryman Auditorium and more. Children will enjoy the Nashville Zoo at Grassmere, Tennessee Aquarium or Nashville Children's Theatre. There is plenty of premium shopping to be had at the Opry Mills® - Tennessee's largest outlet mall! And don't forget about the food. Nashville offers some of the best barbecue you will ever taste.
+
+Opposite the 'always on' lifestyle that many of us live in today, the suite was designed with escapism in mind, allowing you and your family to unplug and relax in ultimate comfort. This property is a studio room that comfortably sleep up to four guests in 550 square feet and feature a king bed and sleeper sofa in the living area. You will appreciate the spacious living area and economy of a kitchenette as you indulge in a refreshing margarita or daiquiri from your Frozen Concoction Maker®. Wi-Fi is complimentary if you need to connect.
+
+After a day of exploration, head back to the resort and grab an exotic cocktail in the rooftop relaxation zone which features spectacular city views, a pool, sun deck and live entertainment. The tropical ambiance continues at the FINS Beach Bar and with the new Margaritaville dining concept at JWB Grill. During your stay, be sure to take advantage of the concierge to plan out your local tours, keep up with your workout routine at the fitness center or kick back near the fire pit while enjoying an ice cold margarita and sharing stories about your day. There is simply no better place to experience Music City!
+
+Guest access
+Guests and owners have access to all resort amenities on property including pool, rooftop sun deck, fitness center etc.
+
+AMENITIES
+
+Cafe
+
+Swimming Pool (Outdoor/Seasonal)
+
+Bar
+
+Gift Shop
+
+Conference Room
+
+Casual Dining
+
+Other things to note
+Helpful Hints
+
+Valet parking on-site is available for $57 per night plus tax. Self-parking is not available at this resort.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 303719667
+Host Profile URL: https://www.airbnb.com/users/show/303719667
+Host Profile URL Source: public user permalink from passport userId
+Love to experience new travel destinations as often as possible
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+2410 reviews
+4.87 out of 5 average rating
+7 years of hosting

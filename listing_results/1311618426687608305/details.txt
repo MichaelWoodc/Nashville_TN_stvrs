@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1311618426687608305
+Latitude: 36.22
+Longitude: -86.7047
+rental_type: Private room in resort
+property_type: RESORT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Music City Vibes | Pool + BBQ Area | Nashville
+
+Experience the best of Nashville from this stylish resort just minutes from downtown’s famous honky-tonks, museums, and live music venues. After a day exploring, relax by the pool, enjoy a workout in the fitness center, or unwind in your suite.
+
+The space
+Your Suite
+ Spacious 2-bedroom suite (sleeps up to 8)
+Master: 1 king bed | Bedroom 2: 2 queen beds | Living: queen sleeper sofa
+Full kitchen with oven, fridge, microwave, dishwasher & coffee maker
+WiFi, flat-screen TVs, in-room washer/dryer & air conditioning
+Separate living & dining areas
+
+Other things to note
+Please bring a valid Picture ID. If the name of the person checking in is changed after this information is provided, there will be a $99.00 name change fee and $129 on the day of check in. A $250 Pre-Authorization from any major credit card upon checking in is required. Cash is not accepted.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Oliver
+Host User ID: 475529466
+Host Profile URL: https://www.airbnb.com/users/show/475529466
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+127 reviews
+4.54 out of 5 average rating
+4 years of hosting

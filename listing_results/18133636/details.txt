@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/18133636
+Latitude: 36.14373
+Longitude: -86.78971
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back Nashville-style in this spacious group getaway with rooftop views. Sleeps 10 with plenty of room to relax, hang out, and explore.
+Steps to local bars, coffee, & eats. A 15 min walk to Broadway or 5 min ride. 
+Walkable to Edgehill Village & Music Row for a true local vibe.
+Great for Bach/bachelorettes, birthdays, and reunions.
+Avoid using “party” in booking messages—Airbnb may flag it.
+
+The space
+Welcome to your perfect Nashville retreat!
+
+This fully furnished 3-level home features modern décor and spacious living areas designed for your comfort and convenience. The large kitchen offers plenty of counter space and is fully equipped for cooking meals for your whole group. You’ll love the generous bedrooms, bathrooms, and ample closet space.
+
+The highlight is the third floor — an incredible hangout spot with two rooftop terraces featuring a fire pit, two big-screen TVs, a bar with fridge and wine cooler, and garage doors that open to create an indoor-outdoor vibe. Enjoy stunning views of Belmont and Vanderbilt Universities, plus seasonal downtown glimpses. Unlike other rooftops in Nashville, this one is private and semi-covered, perfect for relaxing rain or shine.
+
+Please note: we currently do not have a grill on the property due to safety concerns. Thank you for understanding.
+
+Located just minutes from Music Row, Midtown, The Gulch, and 12th South, you’ll be steps away from some of Nashville’s best restaurants, bars, and boutique shops.
+
+Guest access
+You will have access to the entire home. You will be given a keypad code the day of your check in.  
+
+NOTE: If possible, early check-in and late check-out can be available for extra fee. Please request at time of booking.
+
+Other things to note
+A Note from Your Hosts
+
+We’re not a big company managing dozens of rentals — we’re a local husband and wife who love this home and this city. We take pride in creating a clean, welcoming space for guests to enjoy and make memories.
+
+In return, we kindly ask that you treat our home with care and respect. Please be mindful of our neighbors and the community around you — this is not a party house. We work hard to maintain a peaceful, comfortable environment and expect all guests to do the same.
+
+Thank you for helping us keep this a special place for everyone who stays!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Richard And Tosha
+Host User ID: 68666998
+Host Profile URL: https://www.airbnb.com/users/show/68666998
+Host Profile URL Source: public user permalink from passport userId
+Hi! We are Tosha and Richard and we love our home here in Nashville, TN. We have been hosting guests in our downtown home for 7 years now. 
+
+We share a love for travel and adventure. Whether we are jumping out of airplanes or SCUBA diving the ocean floor, we are always seeking a thrill.  
+
+We look forward to either hosting you or being hosted by you. Happy travels! :)
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+253 reviews
+4.98 out of 5 average rating
+9 years of hosting

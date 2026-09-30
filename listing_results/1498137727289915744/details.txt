@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1498137727289915744
+Latitude: 36.15899497744752
+Longitude: -86.81605101229958
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨Stay in style at Skyline Retreat 402—a modern 1-bed/1-bath condo with industrial-chic flair, skyline balcony, and elevator access. Stroll down the street for Retrograde Coffee and A-Roi Sushi & Thai, or walk 10 min to Centennial Park & Parthenon. Quick 7-min drive to The Gulch and Broadway nightlife. Enjoy open living, full kitchen, smart TV, fast Wi-Fi, plush queen bed, free parking, and smart-lock check-in. No smoking • No parties • No pets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Yasin
+Host User ID: 63812257
+Host Profile URL: https://www.airbnb.com/users/show/63812257
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+82 reviews
+4.77 out of 5 average rating
+1 year of hosting

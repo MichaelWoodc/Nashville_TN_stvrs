@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/21606660
+Latitude: 36.18857
+Longitude: -86.76711
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Remodeled and cozy home with modern and rustic touches. The house has multiple sliding barn doors and a wood wall made from repurposed wood found in the attic! It’s 2 miles from 5 Points, Downtown, Germantown and the Titans Stadium. There are several  restaurants that are walking distance (Audrey, June, Xiao Bao, Red Headed Stranger--to name a few). The neighborhood is quiet with sidewalks and friendly neighbors. This home believes that everyone belongs and deserves to feel welcome here.
+
+The space
+Guests will have access to my entire home (downstairs level). I have an apartment above my home with a completely separate entrance that guests will not have access to. Guests will also have access to my driveway. You can only park on the side where the exterior stairs are located. The other half belongs to my neighbors. Additionally guests will have access to my front and back yard and front and back porches. Back porch is screened in and very large. Feels like you’re in a treehouse! And it’s a perfect spot for a nap. Also the back yard has a swing set that guests can use.
+
+Guest access
+The guests will have access to the entire bottom level of the house. Over 1500 square feet of beautifully renovated space. It's a 3 bedroom/2 bath house with a living room and additional sectional couch in the open kitchen along with an island and 6 person dinner table. Guest also have access to the back screened in porch, front porch and the yard (front and back).
+
+Other things to note
+Airbnb'ing my home allowed me to stay at home when my son was young. Now that he is school aged, it allows me to work a part time job so that I am available to drop him off and pick him up from school everyday. I am  a single mom and am so grateful for this opportunity to share my house with those traveling to Nashville. Last thing to note, I don’t own a microwave. I haven’t used one in 7 years :). Also because I live in my home, there is always food available to guests. I do not throw away condiments in my fridge when guest come. I also do not throw away butter or eggs. So if you're lucky to have a visit when there is any of that in the fridge help yourself. Sometimes there is even beer. Help yourself to that is well. I do not believe in wasting anything. There is limited available drawer space as well. But the dresser in the main bedroom has 3 drawers available. And the dresser in the hall bedroom has 2 drawers available and some hanging space available in the closet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 76573092
+Host Profile URL: https://www.airbnb.com/users/show/76573092
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+677 reviews
+4.97 out of 5 average rating
+10 years of hosting

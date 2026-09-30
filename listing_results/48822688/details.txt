@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/48822688
+Latitude: 36.15446
+Longitude: -86.776
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Downtown Broadway lights of Broadway are just steps from your doorstep!FREE PARKING!!Walk to all parts of downtown and all of the amazing restaurants! I'm a Nashville native, so I'll send a huge list of the best "to do's" while in our awesome city! Oh yeah, POOL! Doesn't get any better than that! I'll give you insight on all things Nashville. I'll send a huge list of recommendations of restaurants and other fun things to checkout in all pockets of the city!
+
+Permit 2018073900
+
+The space
+The apartment has an open concept that really helps you spread out and settle in to your Music City experience! The kitchen is fully equipped with everything you'll need, bathroom is stocked with plenty of linens & toiletries and of course we provide additional blankets/linens for a comfortable night's rest! The space is perfectly suited for comfortably hosting 2-6 guests (depending on how cozy ya want to be) Our guests really enjoy the TWO unique comfy memory foam queen beds and stylish décor highlighted with records from some of Nashville's greatest contributors to the music scene that has helped make Nashville the destination city it is!
+
+We like for our guests to feel right home! We offer access to the apartment and the building amenities (with certain limitations.)
+
+Apartment amenities include:
+A fully-equipped kitchen, pots & pans, glassware, toiletries, sleeping arrangements for up to 6, linens, towels, and so much more!
+
+Guest access
+Our guest have access to every complex amenity!  The pool is open year around and heated.  
+Unless closed without notice (glass etc…)
+Smartphone use is necessary!
+
+Other things to note
+You can walk to Broadway in 10 minutes.  This location is in the heart of it all downtown. 
+It’s 20 minutes by car to the airport.  
+
+Free parking for one car with 8’6” of clearance! Guest spots available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Seth
+Host User ID: 54803983
+Host Profile URL: https://www.airbnb.com/users/show/54803983
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+6 years hosting
+1959 reviews
+4.7 out of 5 average rating
+6 years of hosting

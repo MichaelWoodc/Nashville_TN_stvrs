@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/868219919967698173
+Latitude: 36.17698
+Longitude: -86.75672
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+At The Eighteen, you’ll enjoy the convenience and enjoyment of staying in the heart of East Nashville. Our spacious apartments are furnished with full kitchens and in-unit laundry, plus access to a rooftop deck with downtown views. Eastside’s best restaurants, cafes, and bars are just steps away, making us your perfect home base for short or long-term stays. Our tech-enabled apartments  offer self check-in at 4pm, 24/7 guest support by text and Virtual Front Desk accessed via mobile device.
+
+The space
+SLEEPING ARRANGEMENT:
+
+- Bedroom 1: 1 queen-size bed (sleeps 2)
+- Bedroom 2 : 1 queen-size bed (sleeps 2)
+
+PARKING:
+- Property has limited on-site parking
+
+LIVING SPACE:
+- Full-kitchen with stove, oven, microwave, toaster, refrigerator, dishwasher, cookware dishware, and silverware
+- Coffee and tea facilities
+- In-unit laundry
+- Bath products
+- Iron and ironing board
+- Hairdryer
+
+We offer a selection of room types, each with its own unique features. Decor and layout may vary slightly from what you see in photos.
+
+Guest access
+In addition to your private space, you can enjoy the following:
+
+ADDITIONAL AMENITIES
+- Roof deck
+
+We manage each aspect of your stay, so you can count on reliable service from booking to checkout, all while enjoying a self-directed experience. Every Kasa offers:
+
+- 24/7 support (text us any time!)
+- A desirable locale close to points of interest and attractions
+- Professional cleaning
+- Thoughtful design for your comfort and convenience 
+- Security protocols, including ID verification
+- Care-focused technology for detecting noise and smoke
+
+Other things to note
+PLEASE NOTE:
+- Guests are required to complete a Pre-Arrival Checklist, which includes a virtual ID check, and the option to request early check-in (subject to availability). We operate through a Virtual Front Desk, and self check-in is entirely contactless. We'll send you instructions on accessing our property and your Kasa before you arrive. Questions? Contact us 24/7.
+- One approved animal is allowed per unit at a nightly fee of $8-30/night (plus tax) based on length of stay. Pet registration is required prior to arrival.
+- On-site parking is limited.
+- There is no luggage storage at this property.
+- Elevators
+- Housekeeping services are only provided upon request at an additional cost per cleaning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kasa
+Host User ID: 239175383
+Host Profile URL: https://www.airbnb.com/users/show/239175383
+Host Profile URL Source: public user permalink from passport userId
+Mint House offers apartment-style hospitality for the modern traveler—design-forward, tech-enabled, and tailored to how people live today. Every stay combines the functionality and comfort of home with the convenience and reliability of a premium hotel, powered by intuitive technology that personalizes and streamlines every moment.
+Speaks English and Spanish
+Lives in Austin, Texas
+Response rate: 100%
+Responds within an hour
+8 years hosting
+3583 reviews
+4.67 out of 5 average rating
+8 years of hosting

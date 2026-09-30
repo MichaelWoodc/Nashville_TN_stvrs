@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/596291231606750811
+Latitude: 36.1583
+Longitude: -86.815
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place. Our newly constructed (2019) property is beautifully designed, modern gem in an emerging, yet quiet neighborhood. Close enough to the world-famous Nashville downtown action but just far away enough for a restful night's sleep. This condo features open concept living with hardwood floors, high-end finishes, a chef's kitchen with granite counters and stainless steel appliances, and much more.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Farsheed
+Host User ID: 420008206
+Host Profile URL: https://www.airbnb.com/users/show/420008206
+Host Profile URL Source: public user permalink from passport userId
+Retired entreprenuer living in Nsahville, TN.
+Born in the 50s
+Where I went to school: Vanderbilt / UC Berkley
+Response rate: 100%
+Responds within an hour
+4 years hosting
+56 reviews
+4.84 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/3288576
+Latitude: 36.1246
+Longitude: -86.7947
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+600 SF modern loft apartment in the  trendy 12 South neighborhood.  This apartment is the guest house of a luxury home on Belmont Blvd, in the heart of everything!!  The shops and restaurants of 12 South are 2 blocks away!
+
+The space
+This incredible sunlit loft space teachers Grand ceilings, tons of windows, and modern amenities. It is the perfect spot if you want to walk to everything in the 12 South District and Belmont Boulevard. This space is a loft Style with queen  Tempur-Pedic bed, leather sectional, large screen television, full kitchen, microwave, coffee maker, laundry and modern bathroom with a glass and tile walk in shower. You are literally steps from all of what 12 South and Belmont have to offer.  
+
+Walk out the house to the left and you will find Belmont University, Bongo Java, PM restaurant, and she goes. Walk to the right and you will find Martin's Barbeque and a great little grocery store.. Walk straight two blocks and you will come to the 12 South district featuring tons of amazing restaurants including Edley's barbecue, Josephine, flip side, Burger up, and Reese Witherspoon's Boutique called Draper James. There's also a cupcake ATM!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 2275056
+Host Profile URL: https://www.airbnb.com/users/show/2275056
+Host Profile URL Source: public user permalink from passport userId
+I have been in Nashville over 30 years and have called this neighborhood home the whole time.  We can recommend great places to eat, see, listen to music etc.  Nashville has so much to offer.  
+no
+My work: Cybersecurity
+I'm obsessed with: fruit trees
+Response rate: 100%
+Responds within an hour
+13 years hosting
+1381 reviews
+4.75 out of 5 average rating
+13 years of hosting

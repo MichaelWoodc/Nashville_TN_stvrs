@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/42047642
+Latitude: 36.12458
+Longitude: -86.77555
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Be our guest.......... Stay in our cozy guest suite above our home/portrait studio. Completely private suite with it's own entrance and living area. NashNest has a complete kitchen and full bath. Located in one of Nashville's most popular areas and only minutes to downtown.
+
+The space
+NashNest is a cozy and comfortable suite with a large airy bedroom and sitting area surrounded by window light. 
+A full shower and copper soaking tub.
+Your own fully remodeled eat in kitchen with full size appliances.
+Enjoy the large deck or a stroll through the neighborhood to many local  favorite restaurants/bars.
+No Photography sessions
+
+Other things to note
+Absolutely no photography
+
+Registration Details
+2024-02-06-510
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Walter Allen
+Host User ID: 197294636
+Host Profile URL: https://www.airbnb.com/users/show/197294636
+Host Profile URL Source: public user permalink from passport userId
+We were born and raised here in Nashville!!! High school sweethearts who love this city.  Our motto "Do your best or Not at all"  Local artists, you may see our work all over town.  These are a few of our favorite things...... antiquing,dogs,art galleries,preds,football,county music,all things vintage,old worn leather,golf,30A,Mexican food and spending time with our two beautiful girls!!!
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1134 reviews
+4.97 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/585039179321306022
+Latitude: 36.1259
+Longitude: -86.7738
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NEW: Visit Nashville in this modern home with 7 beds and stunning a balcony with a fireplace! You'll be just 10 minutes away from Broadway and Nashville's Downtown core, where you'll discover all the best attractions in Music City!
+
+This brand-new home has it all and is beautifully decorated with designer finishes. You'll enjoy a huge living room and a complete kitchen. The beds are luxurious and comfy, plus the bathrooms are pristine!
+
+I can't wait to host you in this New Construction home!
+
+The space
+This new construction home is the perfect launchpad for your Nashville adventure. All the furniture is brand-new and modern.
+
+There are two large living rooms with Netflix Equipped Smart TVs, a beautiful kitchen with everything that you'll need for cooking, lightening fast W-Fi, 50" smart televisions, complimentary coffee, a wonderful dining area, and a large balcony with a dining table and gas fireplace. 
+
+This is truly one of the best spots in Nashville!
+
+Each bedroom has a luxurious bed with 600 thread count sheets and luxurious pillows. There's a King bed in the master bedroom, along with a Television, a walk-in closet, and a large washroom. 
+
+There is tons of space at this property, so you'll never feel crowded at this property. There's also a garage that fits one car, and outdoor parking for an additional two vehicles.
+
+Guest access
+You'll have exclusive use of the entire home during your stay. None of the amenities will be shared with other groups.
+
+Other things to note
+Nashville has highways and trains throughout the city. You can see/hear the highway from my home, and from time to time you'll hear a train pass by nearby.
+
+This home has a large number of stairs. It is not a good fit for people who have trouble with stairs. 
+
+Short Term Rental Permit: #2024 - 08 - 01 - 585
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 443201618
+Host Profile URL: https://www.airbnb.com/users/show/443201618
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+2713 reviews
+4.89 out of 5 average rating
+5 years of hosting

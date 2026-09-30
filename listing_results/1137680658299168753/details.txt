@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1137680658299168753
+Latitude: 36.14441
+Longitude: -86.78559
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Your Nashville Getaway!
+New Host Alert: 🍋Fresh remodel for 2025 with all-new furniture!
+Located in the vibrant 12 South neighborhood - steps away from trendy shops and cafes in The Gulch!🛴🛍️
+Spacious 4-bedroom home perfect for groups seeking comfort and style.
+Modern amenities: 🍳🥞Enjoy a stunning kitchen, stylish decor, and comfortable furnishings. 
+Highlights:
+Unwind on our private rooftop hangout🌆 featuring panoramic skyline views.
+
+The space
+Highlights
+Unwind on our private rooftop hangout featuring panoramic skyline views.🏙️
+
+Sleeps 10-12 guests 🛏️ comfortably for family trips or mature bachelor/ette parties.💃🕺🏽
+
+Secure your place with keyless entry and a 1-car garage.🚗
+
+Guest access
+Guest Experience
+
+Local and Responsive Hosts: We're nearby and available to assist anytime.😁
+
+Aim for a pristine experience by maintaining the home’s freshness🍋- please treat it with care.
+
+Location benefits include easy scooter access for quick trips around Nashville.🛴
+
+ You get the entire house for your stay.  This is a free standing house with an amazing private rooftop hangout with skyline view.  🌆🌅
+
+1 car Garage🚗 included and all keyless access.  Give our house a chance and don’t stress about only a few reviews.  Your stay and experience is super important to us, and we r local!
+
+Other things to note
+House is newly remodeled.  Please help us keep it nice for the next guest as it was for you.
+
+ Minutes to everything fun in Nash,  scooters are right out front for zipping around town.  Uber anywhere quick!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 223047603
+Host Profile URL: https://www.airbnb.com/users/show/223047603
+Host Profile URL Source: public user permalink from passport userId
+Hello! Me and my wife will be coming to stay. We’re looking forward to seeing your place! It’s looks beautiful
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+27 reviews
+4.96 out of 5 average rating
+2 years of hosting

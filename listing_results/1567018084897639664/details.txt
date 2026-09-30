@@ -1,0 +1,120 @@
+URL: https://www.airbnb.com/rooms/1567018084897639664
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music City! Come stay in The Hidden Lounge — Downtown Nashville Speakeasy Escape — Sleeps 8, Walk to Broadway and other local attractions. 
+
+Fully Equipped Kitchen, Coffee, Snacks, Karaoke Machine, Comfortable Beds and Premium Linens.
+Free Parking spot in Gated Garage!  Resort Pool & Premium Fitness Center! 
+
+-Music City Center- 0.2 miles
+-Bridgestone Arena- 0.4 miles
+-Broadway- 0.7 miles
+-Nissan Stadium- 1.3 miles
+
+The space
+The Space: 
+🎶 The Speakeasy Lounge | Luxury Downtown Nashville Condo | Sleeps 8 | Steps from Broadway
+
+The Parlor (Living Room)
+Pour yourself a drink, sink into the plush seating, and unwind beneath warm, moody lighting.
+-Two comfortable sleeper sofas
+-Large projector screen for movies & music
+-Karaoke machine — perfect for late-night speakeasy singalongs
+-High-speed WiFi
+The ambiance is rich, intimate, and perfect for pre-Broadway cocktails or late-night conversations.
+
+🍽 The Distiller’s Kitchen 
+A fully equipped kitchen awaits behind the bar-style counter — ideal for preparing breakfast, hosting a dinner, or shaking up your own signature cocktails.
+-Full cookware + utensils
+-Keurig with complimentary pods
+-Dining area with vintage-inspired décor
+
+🛌 (Bedrooms)
+🛏 The Sunset Room — Bedroom #1
+Two full beds wrapped in silky, premium linens create a glamorous sanctuary.
+-Private en-suite bathroom with bathtub/shower combo
+-Walk-in shower
+-Complimentary toiletries
+
+👑 The Backroom Suite — Bedroom #2
+A spacious retreat with a luxurious king bed, perfect for unwinding after a night on the town.
+-Walk-in closet with extra bedding, pillows, air mattress & rollaway
+-En-suite bathroom
+-Hotel-style toiletries included
+
+🔥 Exclusive Building Amenities
+Upscale features that elevate your stay, all within the property:
+-Resort Pool — open year-round
+-Premium Fitness Center with rock-climbing wall
+-Outdoor Courtyard with propane grill
+-Fire Pit Lounge — perfect for nightcaps under the stars
+-Sky Lounges & Hangout Spaces with stunning city views
+
+🎙 Your Hidden Escape Awaits
+Whether you’re here to celebrate, explore Nashville, or relax like a 1920s VIP, The Hidden Lounge gives you luxury, character, and one of the best locations in the city.
+Your private speakeasy is waiting… knock twice, step inside, and enjoy the magic of Music City. 🥃✨
+
+Nearby Nashville Hotspots — Right Around the Corner:
+-Legendary Lower Broadway Honky-Tonks
+-Ascend Amphitheater — Live music under the stars
+-Iconic Bridgestone Arena & Ryman Auditorium
+-Trendy Restaurants, Bars, and Coffee Shops for every craving
+
+-Instructions to adjust the Projector alignment. 
+(You can set up with projector remote control)
+1.  go to the projector settings, 
+2. select the second option called ‘Keystone Correction,’ 
+3. then adjust each corner until the image is clear and fits the screen. Let us know if you need any help!
+
+Round-the-Clock Service & Amenities:
+-24/7 Emergency Maintenance — We’re here whenever you need us.
+-Bellhop Baggage Service — Travel light, we’ll handle the heavy lifting.
+-Overnight Security — Sleep easy knowing you’re safe.
+
+Guest access
+Guest access
+This entire apartment complex along with this unit is accessed by a keyless smartphone entry system called Latch. Please be sure to have it download and watch the tutorial from the link in the email prior to your trip to ensure smooth check-in procedures. Please keep your phone charged up and have it with you at all times since it is required to access the building and the unit.
+
+If you plan to arrive prior to check-in or leave later than your check-out time and need a place to store your baggage, Baggage Bellhop is available onsite 7 days/week 9AM - 5 PM
+
+Other things to note
+Please Note:
+While we always strive to provide a comfortable and positive living experience, there are certain factors beyond our personal control that we want to clarify:
+We are not responsible for external variables outside of this building, such as noise, construction, or private/public events happening nearby.
+This property is part of a larger complex managed by building management, who oversee:
+Common areas and shared spaces
+Exterior maintenance
+Interior maintenance of physical systems and appliances (including but not limited to plumbing, electrical, HVAC, and drywall)
+When it comes to maintenance requests or issues, we are required to follow the building’s procedures and timelines. We will always do our best to communicate and advocate on your behalf, but please understand that resolution times are ultimately determined by the building’s management and service teams.
+This is a multi-unit building, and there may be other guests staying in neighboring units.
+While we expect everyone to be respectful, we cannot control the behavior of other guests, including potential noise.
+If excessive noise occurs after quiet hours, you may report it directly to the building’s overnight security, who are available to assist.
+Thank you for your understanding and cooperation! If you have any questions or concerns ahead of your stay, feel free to reach out.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 488539859
+Host Profile URL: https://www.airbnb.com/users/show/488539859
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 94%
+Responds within an hour
+9 months hosting
+75 reviews
+4.6 out of 5 average rating
+9 months of hosting

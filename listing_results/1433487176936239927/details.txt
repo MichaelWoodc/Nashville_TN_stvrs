@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1433487176936239927
+Latitude: 36.22017403107956
+Longitude: -86.7057684428507
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Amazing Club Wyndham Nashville is centrally located being one mile from the Grand Ole Opry and about a half mile from the Gaylord Opryland Resort & Convention Center and provides a great base location to explore.  This unit is a large ~1,100 square foot 2 bedroom 2 bath with full kitchen. This resort has indoor & outdoor pools, hot tubs, basketball, games, activity center, BBQ area, gym, and much more. 
+ Bring the whole family to this great place with lots of room for fun.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nick
+Host User ID: 80259596
+Host Profile URL: https://www.airbnb.com/users/show/80259596
+Host Profile URL Source: public user permalink from passport userId
+From Boston and love to travel with my family!
+Where I went to school: Kansas State University & Babson
+My work: Tech Sales & VC
+Response rate: 82%
+Responds within a few hours
+Superhost
+7 years hosting
+65 reviews
+4.85 out of 5 average rating
+7 years of hosting

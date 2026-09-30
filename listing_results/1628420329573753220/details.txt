@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1628420329573753220
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This space, we call EXHALE, invites you to set everything down. With calming design, intentional amenities, and mindfulness activities, it offers a serene atmosphere for solo guests and couples who need rest, focus, and room to breathe.
+
+EXHALE FEATURES:
+• Spa-style bathroom touches including towel warmer, face steamer, body scrubs, and bathrobes
+• Deluxe Coffee and Tea Station 
+• Welcome Bag with curated self-care items
+• Yoga Mat & Stretching Tools
+• Air Purification & Essential Oil Diffuser
+
+The space
+Close to downtown but intentionally calm, EXHALE was created for guests who value restoration as much as location. From warm towels and purified air to a curated self-care welcome, every detail supports relaxation, clarity, and ease.
+
+Other things to note
+Exhale is a modern retreat designed for better rest. From air purification and warm towels to a deluxe tea station and self-care essentials, this space supports travelers who prioritize well-being while staying close to downtown Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tia
+Host User ID: 566252321
+Host Profile URL: https://www.airbnb.com/users/show/566252321
+Host Profile URL Source: public user permalink from passport userId
+My work: Director/Operations
+Fun fact: I ran a full marathon in every state.
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+73 reviews
+4.96 out of 5 average rating
+9 months of hosting

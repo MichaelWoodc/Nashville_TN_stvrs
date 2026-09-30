@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1374803152135258768
+Latitude: 36.1535
+Longitude: -86.7747
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a restful night in the stylish, modern apartment in the heart of downtown Nashville.  A beautiful sunrise envelopes the bright and airy space every morning.  The unit is comfortably furnished and is quite spacious. All the modern amenities to make your stay a home away from home.
+
+Permit No. T2022050177
+
+The space
+Sentral SoBro is a quick 5 block walk to the infamous Broadway Strip and Honky Tonks!
+
+Guest access
+The building exterior doors lock after 5pm.
+
+The door code is 9985# for later arrivals after 5pm.
+
+Proceed to the key cafe locker, enter the 8 digit booking code to retrieve the key fobs. 
+
+Holding the key fob over the #5 on the keypad to call the elevator and enter amenity spaces loctaed on the 3rd floor.
+
+Other things to note
+Permit No. T2022050177
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Timeka
+Host User ID: 683758864
+Host Profile URL: https://www.airbnb.com/users/show/683758864
+Host Profile URL Source: public user permalink from passport userId
+My greatest hobby is to travel. I feel the best way to learn a new city is to visit their farmers market, walk the city center and to taste foods unique to the area.  I hope you find this listing in Nashville a fun place you will love to visit again and again!
+Where I went to school: Iowa State University
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+2 years hosting
+52 reviews
+4.96 out of 5 average rating
+2 years of hosting

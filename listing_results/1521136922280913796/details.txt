@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1521136922280913796
+Latitude: 36.14601
+Longitude: -86.78165
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the best of Nashville in this 1,226 SQ. Ft. Penthouse Loft, just steps from the Gulch, Downtown and Vanderbilt!
+
+With 2 bedrooms, 2 bathrooms, and 5 beds (King bed, Queen Bunks, Sofa pull out Queen & Twin Bed) it comfortably sleeps 8!  
+Enjoy a massive 1,000 sq ft private patio with a couch, chaise lounges, outdoor dining area, yard games, and a bar!   
+
+Heated pool, gym and shared BBQ area!
+
+This property is set up and ready for an amazing time!  
+
+Nashville S.T.R. Permit-#2025080729
+
+The space
+This incredibly spacious 1,226 SQ foot loft overlooks the Gulch.  The condo has a Primary Bedroom with a Kind Bed, a second bedroom with queen bunk beds, a built in twin bed in the living room and a queen bed pull out couch. 
+
+Hang out on your private 1,000 SQ Ft complete with games, chaise lounges, bar and multiple seating areas. 
+
+This Penthouse Loft is ready to entertain you and your guests for your next stay in Nashville!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 25924411
+Host Profile URL: https://www.airbnb.com/users/show/25924411
+Host Profile URL Source: public user permalink from passport userId
+Lives in Grand Rivers, Kentucky
+Response rate: 97%
+Responds within an hour
+Superhost
+11 years hosting
+600 reviews
+4.77 out of 5 average rating
+11 years of hosting

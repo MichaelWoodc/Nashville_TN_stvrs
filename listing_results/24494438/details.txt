@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/24494438
+Latitude: 36.12741
+Longitude: -86.79117
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 1 bed, 1 full bath apartment is in the heart of the 12th South district in Nashville, less than a block from all of the cool restaurants, shops, and bars. You are also only about a 5-10 minute car ride from downtown! There is a private parking around back along with a private door up to your suite. The space is equipped with a luxurious King size bed, a big screen TV,  high speed internet and many other amenities. Come stay with us and experience the best time in Nashville, the Music City!
+
+The space
+Our rental has TV, internet,  dining table, computer desk area, full size dresser as well as closet, microwave, fridge, coffee, soap, shampoo, hair dryer, private bathroom, shared laundry, and backyard porch/sitting area.
+
+Guest access
+You will enter through the back door and also park in the back along the fence.
+
+During your stay
+We will contact guests the day of check-in to make sure they are aware of everything to have a great stay.
+
+Other things to note
+Easy Walking Distance:  Locust Postino, Jeni’s Splendid Ice Cream, Taproom, Embers Ski Lodge, Intown Golf Club, La La Land Kind Cafe, Todd Snyder, Rancher Hat Bar, Kendra Scott, Sushi-San, SunLife Organics, Jo Malone, Burdlife, Vince, Lululemon, and Roark, Buttermilk Ranch, Bottle Cap, Frothy Monkey, Urban Grub, Edley’s Barbecue, Lady Bird Taco, The Henry, Bar Taco, White Bison Coffee, Mesero 12th South, Burger Up, Epice, and MANY MORE!!
+Short Drive, Scooter Ride, or Longer Walk: Belmont & Lipscomb Universities, Sevier Park, Martin’s BBQ, Bi-Rite Grocery, Proper Bagel, International Market, 615 Deli, Zanie’s Comedy Club, 8th and Roast, Love Peace and Pho, The Cookery
+Less than 2 miles: Vanderbilt University, The Gulch – numerous hotels, restaurants, shops, bars, work out studios, clubs, etc. 
+Less than 3 miles: Bridgestone Arena, Ryman Auditorium, Schermerhorn Symphony Center, Ascend Amphitheatre, Music City Center, BROADWAY and the rest of fabulous downtown Nashville!
+Others Within 5 miles: Nissan Stadium, Top Golf, Musicians Hall of Fame, Green Hills Mall and entire Green Hills District
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨12thandElm⁩
+Host User ID: 107373505
+Host Profile URL: https://www.airbnb.com/users/show/107373505
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+10 years hosting
+441 reviews
+4.9 out of 5 average rating
+10 years of hosting

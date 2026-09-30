@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1155904101649277939
+Latitude: 36.1757
+Longitude: -86.7589
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This home boasts 3 bedrooms, 3 full baths, 2 half baths, full kitchen, living and dining room, and 2 sets of washers/dryers.  An air mattress is provided for addtl guests.  The highlight of this gem is the Rooftop Deck, a perfect spot to unwind and take in the stunning views of downtown Nashville and Nissan Stadium just a few miles away. Convenience is at your doorstep with a prime East Nashville location. Walk to trendy Five Points restaurants, music venues, bars, coffee shops, and shopping.
+
+The space
+3 master bedrooms (2 queen & 1 king), plus 2 half baths.  Air mattress can be used for the 7th and 8th guest
+
+Other things to note
+Favorite breakfast spot: Snooze (walking distance)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kelli
+Host User ID: 514132861
+Host Profile URL: https://www.airbnb.com/users/show/514132861
+Host Profile URL Source: public user permalink from passport userId
+I’m an 80’s girl. Love the outdoors and looking forward to this trip!
+Born in the 80s
+Where I went to school: Old Dominion University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+52 reviews
+4.98 out of 5 average rating
+3 years of hosting

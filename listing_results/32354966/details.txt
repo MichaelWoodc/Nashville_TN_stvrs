@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/32354966
+Latitude: 36.1648
+Longitude: -86.7778
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a downtown Nashville penthouse managed by XENOS Guest-Friend - sweeping city skyline views, serious entertainment, and Broadway just steps away.
+
+- Sleeps 12 | 4 bedrooms | 12 beds | 3 baths
+- Pool table, TV & sound system - built for groups
+- Full kitchen w/ dining table, coffee & all cooking essentials
+- Keypad self check-in, private entrance & elevator access
+- Washer/dryer included - long-term stays (28+ days) welcome
+- Pet-friendly | Paid parking off premises
+
+The space
+Four floors above downtown Nashville, the skyline fills every window in a glittering sweep that stretches south toward Broadway - where the honky-tonks are already in full swing by the time your group settles in. This penthouse puts twelve guests above the city without pulling them away from it. Printer's Alley is steps from the front door, and the walk to live music and late-night dining is short enough that heading out feels like an extension of the evening rather than a commute.
+
+Sleeping arrangements
+Four bedrooms accommodate up to twelve guests. Three king master suites and one queen suite anchor the layout, with built-in twin bunks and two twin rollaway beds rounding out the configuration. Whether your crew is couples traveling together, a multigenerational family, or a mix of friends, there's a setup that works for everyone - no one draws the short straw.
+
+Living & entertainment
+The main living area is built for a crowd. An oversized sectional, a TV, and a sound system set the tone, while a full pool table takes center stage - the kind of feature that turns any night in into an event in its own right. Books, board games, and reading material are all on hand when the evening calls for something lower-key.
+
+Kitchen & dining
+The full kitchen is stocked for real cooking - refrigerator, freezer, stove, oven, microwave, dishwasher, coffee maker, blender, toaster, baking sheet, and wine glasses, along with cooking basics, dishes and silverware, and coffee. The dining table brings the whole group together, whether the plan is a slow morning in or a proper sit-down meal before heading out to Broadway.
+
+Comfort & essentials
+Air conditioning, heating, and a ceiling fan keep things comfortable year-round. A dedicated workspace is available for anyone who needs to fit in some work between plans - open plan, no private door. The washer and dryer make longer stays entirely practical, and extended stays of 28 days or more are welcome. Bed linens, towels, extra pillows and blankets, hangers, clothing storage, and an iron are all provided. Bathrooms come stocked with a hair dryer, shampoo, conditioner, body soap, and hot water.
+
+Access & building
+Self check-in is handled by smart lock, and a private entrance keeps arrivals smooth at any hour. The building has elevator access and a secure entry. Paid parking is available off premises. Exterior security cameras operate in building common areas only - not inside the condo.
+
+Safety
+The home is equipped with a smoke alarm, a carbon monoxide alarm, and a fire extinguisher.
+
+Location
+Printer's Alley is right outside. Broadway's live music venues and dining are a short walk away. This is a pet-friendly penthouse managed by XENOS Guest-Friend - built for groups and families who want the space to cook, compete at the pool table, and take in the Nashville skyline entirely on their own schedule.
+
+Guest access
+Guests will enter through a common entry door at street level, then proceed to Elevator and use unique access code to gain private access to level 3.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: XENOS Guest Friend
+Host User ID: 30962240
+Host Profile URL: https://www.airbnb.com/users/show/30962240
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner / Operator Luxury Vacation Rental Management
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+2635 reviews
+4.9 out of 5 average rating
+11 years of hosting

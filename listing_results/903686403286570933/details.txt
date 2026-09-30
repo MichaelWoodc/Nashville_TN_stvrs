@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/903686403286570933
+Latitude: 36.1646
+Longitude: -86.7773
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Parking not included.  Prime downtown location on 2nd & Church.
+
+Built in 1882 by the George A. Dickel Company.
+
+Short walk to the Stadium, Lower Broadway & Printer’s Alley.
+
+Curated Outlaw Country record collection.
+
+Units 301 & 302 are the only lofts on the 3rd floor.  Both are 2 king bedroom/2 bath, so if you have a larger group you can rent both and have the whole floor.   (2 lofts on 4th floor also available)
+
+Please check out our other building 3 blocks away, The Armstrong Corset Lofts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vijay
+Host User ID: 11556474
+Host Profile URL: https://www.airbnb.com/users/show/11556474
+Host Profile URL Source: public user permalink from passport userId
+I like vintage cars, motorcycles, and buildings...born & raised in Nashville, TN...avid tennis player, love to travel.  I am a professional civil engineer, contractor, and business owner.  I purchased a couple historic buildings in Downtown Nashville and have been renovating them into loft apartments.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+695 reviews
+4.98 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1416698456397715258
+Latitude: 36.1484
+Longitude: -86.7905
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover a hidden gem in Music Row! This modern home features four bedrooms each with its own ensuite bathroom, a rooftop deck and plenty of extra room to celebrate whatever brings you to Nashville. Minutes to all Nashville has to offer.  
+
+Broadway - 1.3 miles
+Gulch - .5 miles
+Bridgestone Arena - 1.1 miles 
+Nissan Stadium - 1.8 miles
+Vanderbilt - .9 miles
+Belmont - 1.0 miles
+
+Bedrooms:
+Master - King
+Bedroom 2 - Queen
+Bedroom 3 - Queen
+Bedroom 4/Studio - Queen
+Office Space - Queen pull out
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jackie
+Host User ID: 168532874
+Host Profile URL: https://www.airbnb.com/users/show/168532874
+Host Profile URL Source: public user permalink from passport userId
+Favorite song in high school: Bon Jovi - Living on a Prayer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+1 year hosting
+7 reviews
+5.0 out of 5 average rating
+1 year of hosting

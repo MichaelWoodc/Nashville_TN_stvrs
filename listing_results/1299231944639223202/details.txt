@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1299231944639223202
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ready for your country music debut?  Welcome to the most charming Music Row space equipped to make your Nashville stay very memorable! You're sure to experience Nashville like the stars. Enjoy amenities like our rooftop with downtown views, game room, gym, pool, & meeting room. We transformed our flex space into tour bus-style crew quarters for your additional guests!
+
+Where you will sleep:
+Master bedroom: queen bed
+Crew quarters: three twin xl beds
+Living room: full size sleeper sofa
+
+The space
+We're situated perfectly on Music Row - right where the country music magic happens.
+
+We're steps away from Midtown nightlife and an easy walk to most areas, such as Broadway, Edgehill, Vanderbilt, and the Gulch.
+
+Distance:
+Broadway: 7 minutes, 1.4 miles 
+Music City Convention Center: 7 minutes, 1.3 miles
+12 South: 6 minutes, 1.5 miles 
+Vanderbilt University Medical Center: 7 minutes, 0.7 miles
+Edgehill: 2 minutes, 0.3 miles
+Gulch: 5 minutes, 1 mile
+Wedgewood Houston: 6 minutes, 1.5 miles
+Belmont: 5 minutes, 1 mile
+Green Hills Mall: 10 minutes, 3 miles
+East Nashville: 13 minutes, 4 miles
+Germantown: 12 minutes, 3 miles
+
+Guest access
+As our guest, you will have full access to our entire condo, as well as shared space areas with other units in the building. These areas are located on the 4th floor, as well as the pool, accessible from the 1st floor. They include a private meeting room, a game room, a large kitchen and dining area, a gym, and a wrap-around rooftop porch with downtown views.
+
+Other things to note
+IMPORTANT DETAILS and HOUSE RULES:
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/or Events are not permitted at this property & may result in the removal of your group from the premises without a refund.
+
+House Rules
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move any furniture around at all.
+No Confetti or Tape: Please do not use tape or adhesive OF ANY KIND on our walls. *Damages will be charged to you.*
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City BNBs
+Host User ID: 22224024
+Host Profile URL: https://www.airbnb.com/users/show/22224024
+Host Profile URL Source: public user permalink from passport userId
+Howdy y’all! Im Shack— born-and-raised Tennesseans who turn good stays into great stories. I run a small boutique rental company with one goal: making your stay feel like home (but better). We love our guests and are always thrilled to see familiar faces return year after year. Come live like a local — we can’t wait to host you!
+My work: we <3 hosting
+I'm obsessed with: making guests feel like locals
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1146 reviews
+4.89 out of 5 average rating
+12 years of hosting

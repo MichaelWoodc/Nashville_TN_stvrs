@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/32397810
+Latitude: 36.1465
+Longitude: -86.78419
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This COZY and QUAINT home features 3 bedrooms (sleeps 8), 5 beds, 1.5 bathrooms, a fully stocked kitchen w/ private parking. This home is located within WALKING DISTANCE of Nashville’s 12th South hotspot known as “The Gulch,” which is a popular and trendy restaurant, shopping, & bar district. We are a VERY short Uber/Lyft ride to downtown, Broadway, Demonbreun St., Music City Center, Bridgestone Arena, & Nissan Stadium.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tachaka
+Host User ID: 23118732
+Host Profile URL: https://www.airbnb.com/users/show/23118732
+Host Profile URL Source: public user permalink from passport userId
+Lives in La Vergne, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+147 reviews
+4.84 out of 5 average rating
+8 years of hosting

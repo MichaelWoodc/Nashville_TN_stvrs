@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/938601614459220895
+Latitude: 36.21869
+Longitude: -86.70479
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern traditions, you’ll want for nothing as you adventure day and night in Music City. This resort is close to Nashville’s best music, liquor, and historical landmarks.  Located just one mile from the Grand Ole Opry, Club Wyndham Nashville provides a great base to explore all the middle Tennessee has to offer. Conveniently located near popular destinations like the Country Music Hall of Fame and Museum and the Nashville Zoo, you can easily explore all that Nashville has to offer.
+
+The space
+2 bedroom may be a deluxe with 2 bedrooms 1 king and 2 doubles and a pull out sofa bed in the living room  or a 2 bedroom lock off unit with connecting doors and 2 bedrooms with king beds and 2 living spaces each with a sofa pull out bed. 1 unit has full kitchen and the other a kitchenette.  Please refer to photo for floor plan. Will confirm which unit is available upon request to book.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Suzanne
+Host User ID: 12360944
+Host Profile URL: https://www.airbnb.com/users/show/12360944
+Host Profile URL Source: public user permalink from passport userId
+I am a physical therapist and mother who loves to travel with my family.  I am a club wyndham owner for over 21 years and can vouch the properties are great for families, couples or for large get togethers.  I hope you enjoy your vacations as much as I have! Please contact me with any questions.
+Lives in Bakersfield, California
+Response rate: 100%
+Responds within a day
+Superhost
+3 years hosting
+37 reviews
+4.81 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1272437175518802477
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our vibrant downtown Nashville Glam Getaway! This spacious and stylish space sleeps up to 8 guests, making it perfect for bachelorette parties, wedding prep, or just a fun weekend with friends. Each guest can get glammed up with ease, thanks to our four dedicated makeup stations! The ambiance is set with playful lighting and colors, perfect for capturing all those selfie-worthy moments. 3-Blocks from Broadway Nashville - walking distance.
+
+The space
+This stylish 2-bedroom / 2-bath apartment features a cozy king-size bedroom and a whimsical queen-over-queen bunk bed. Add a queen size comfy sleeper-sofa in the living room (or a twin rollaway bed is also an option) perfect for a large group of family or friends. 
+
+Decorated in playful shades of pink and purple, the space is infused with fun, enhanced by colorful lights that create a lively atmosphere.
+
+Get ready for a pampering session at the chic 4-seat makeup station, or whip up delicious margaritas with the handy margarita maker. You'll enjoy full amenities, including a modern kitchen, cozy living area, and chic bathroom.
+
+Step outside to unwind by the sparkling pool or gather around the fire pit for memorable evenings. Ideally located next to the Music City Center and just two blocks from the vibrant energy of Broadway, you’ll have the best of Nashville at your fingertips. Book your stay and dive into the heart of Music City!
+
+Parking is available at $30.00 a night at the Burnham gated garage in a reserved parking space.
+
+Pool area has BBQ and private cabana's to rent for $100 for 4 hours - reserve with Burnham directly. See photos of pool and Cabana's.
+
+Guest access
+Guest Access via the LATCH app - download before you arrive; email confirmation days prior.
+
+Other things to note
+Greg & Amy Lassen 
+STR Permit #2018074806
+
+Welcome to Nashville, y'all!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg & Amy
+Host User ID: 588859624
+Host Profile URL: https://www.airbnb.com/users/show/588859624
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: U of Colorado (hubby) & BYU (wife)
+I spend too much time: Disc Golf and nothing else.
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+116 reviews
+4.92 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/48336556
+Latitude: 36.15372
+Longitude: -86.77513
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville @ The Luxury Suite. This is a barn style 1 bedroom, 1 bathroom with a modern touch in the heart of downtown Nashville. This suite is conveniently located 2 minutes from music row surrounded by major attractions, including Bridgestone Arena, Country Music Hall of Fame, Nissan Stadium, Convention Center, Museum & more. The suite is perfect for families, couples & business travelers with many restaurants, bars & shopping in walking distance.y
+
+The space
+The Luxury Suite is designed to give you a high end & comfortable experience. The unique double barn doors gives privacy when closed & an open airy feeling when pushed open. The apartment has a queen bed, a convertible sofa and a high queen air mattress to allow for comfortable sleeping arrangements. Looking to kick back and stay in a couple days, we got you covered. Take advantage of some streaming with our Roku Smart TV which includes access to  Netflix, Hulu, Disney+, youtube, wifi and more. The kitchen is stocked with cookware if you desire to dine in. In need of some fun? We have a swimming pool with beautiful outdoor sitting and grilling areas available. For those who need to get fit, visit our 24 hour fitness center including a rock climbing wall and yoga studio. visit our 2 level lounge 24 hrs a day for some quiet study time, work or relaxation. There is a washer and dryer in the unit for your laundry needs. Lastly, the suite is thoroughly cleaned and sanitized immediately after check-out by our partnering company Meme Montheria Cleaning. We also include light cleaning supplies for your peace-of-mind. 
+Permit#2018073091
+
+Guest access
+Entire space
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Signature Luxury
+Host User ID: 390172364
+Host Profile URL: https://www.airbnb.com/users/show/390172364
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 98%
+Responds within an hour
+Superhost
+6 years hosting
+2499 reviews
+4.74 out of 5 average rating
+6 years of hosting

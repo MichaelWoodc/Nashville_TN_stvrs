@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/24250323
+Latitude: 36.155
+Longitude: -86.81721
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sleeps 10. Stylish, luxurious Nashville townhome with a huge private rooftop and skyline views. Ideal for families, groups, or business travelers, this spacious home blends comfort, design, and a true Music City vibe. Hosted by experienced Superhosts with hundreds of great reviews. Minutes to Broadway, Nissan Stadium, the Ryman, Bridgestone Arena, Centennial Park, and top dining, nightlife, and attractions. Easy self check-in, fast Wi-Fi, and free parking. On-site garage.
+
+The space
+Thoughtfully designed for an unforgettable stay in Nashville, this modern townhome is ideal for large groups, families, and business travelers. Every detail has been carefully curated to provide comfort, convenience, and a seamless guest experience.
+
+This spacious Nashville rental comfortably sleeps large groups and features an open layout perfect for gathering. The fully equipped kitchen includes cookware, essentials, and a Keurig coffee maker with pods, sugar, and milk powder. Enjoy meals together at the large dining table and bar seating.
+
+Sleeping Arrangements:
+Bedroom 1: 1 Queen bed + 1 Twin bed
+Bedroom 2: 1 Queen bed + 1 Twin bed
+Bedroom 3: 1 King bed  + 1 Twin bed
+Additional sleeping via sofa beds in common areas
+
+Entertainment & Technology
+The home offers multiple Smart TVs, including two 60” indoor TVs and a weatherproof rooftop TV, along with cable, super-fast Wi-Fi, and Amazon Alexa with Spotify.
+
+Modern Amenities
+Guests enjoy in-unit washer and dryer, iron and ironing board, velvet hangers, smart thermostats, and keyless entry with smart locks.
+
+Outdoor Living
+Relax on the private rooftop with downtown Nashville skyline views or step out onto the private balcony for fresh air and city vibes.
+
+Hotel-Style Essentials
+Fresh towels, shampoo, body wash, hairdryers, toilet paper, tissues, and starter supplies are provided for a comfortable stay.
+
+Recharge in style before heading out to experience the best of Music City, just minutes from Broadway, downtown Nashville, and top attractions.
+
+Guest access
+Entire Home | 2-Car Garage | Stunning Rooftop!
+
+Enjoy the ultimate Nashville getaway with a full house, spacious garage, and an incredible rooftop, the views are truly breathtaking! A perfect stay for any group looking for luxury, convenience, and unforgettable moments in Music City.
+
+Other things to note
+This is a city townhome designed for groups enjoying Nashville. While the home is well insulated, you may hear typical urban sounds. The rooftop is a highlight, and we ask guests to be mindful of quiet hours in the evening out of respect for neighbors.
+
+The garage is located behind the home and accessed from the rear alley. Street parking in front of the house is also permitted.
+
+Starter essentials such as toiletries, paper goods, and coffee supplies are provided. Smart TVs are ready for you to log in to your personal streaming accounts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

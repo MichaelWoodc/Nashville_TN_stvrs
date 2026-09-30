@@ -8,8 +8,9 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from build_nashville import capacity, extract_permits, permit_key, permit_status, scan_text, load_permits, collect_listings, build, input_signature
+from build_nashville import capacity, capacity_for_detected_licenses, extract_permits, permit_key, permit_status, scan_text, load_permits, collect_listings, build, input_signature
 from prepare_spatial import circle_overlaps_parcel, signed_edge_distance
+from prepare_addresses import annotate_parcel_addresses
 
 
 class BuildTests(unittest.TestCase):
@@ -20,6 +21,10 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(capacity(None, 8), (None, None))
         self.assertEqual(capacity(None, 16), (None, 4))
         self.assertEqual(capacity(2, None), (8, None))
+        self.assertEqual(capacity_for_detected_licenses(3,16,2),(14,2))
+        self.assertEqual(capacity_for_detected_licenses(16,30,2),(24,6))
+        self.assertEqual(capacity_for_detected_licenses(None,25,2),(None,1))
+        self.assertEqual(capacity_for_detected_licenses(3,16,3),(10,6))
 
     def test_permit_normalization_and_evidence(self):
         for text, expected in [('Permit #2019017225','2019017225'),('Registration Details\n2023081409','2023081409'),('STR Permit: T2023058559','2023058559'),('Permit: CASR 2015_followed by_17031','2015017031'),('PERMIT: 2022followedby024folllowedby213','2022024213')]:
@@ -34,6 +39,10 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(scan_text('Barbara has a barbecue','test')[1],{})
         self.assertIn('pool', scan_text('Swimming pool and pool table','test')[1])
         self.assertIn('karaoke', scan_text('Bring your KARAOKE-loving friends','test')[1])
+        bachelor=scan_text('Bachelor weekend in Nashville','test')[1]
+        bachelorette=scan_text('Bachelorette party downtown','test')[1]
+        self.assertIn('bachelor_party',bachelor)
+        self.assertIn('bachelorette_party',bachelorette)
 
     def test_parcel_geometry_overlap_not_permit_centroid(self):
         from shapely.geometry import Point, Polygon, box
@@ -55,6 +64,16 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(signed_edge_distance(Point(-20,500),boundary),-20)
         self.assertGreaterEqual(signed_edge_distance(Point(-20,500),boundary), -50)
         self.assertLess(signed_edge_distance(Point(20,500),boundary), 50)
+
+    def test_listing_receives_containing_parcel_address(self):
+        with tempfile.TemporaryDirectory() as d:
+            root=Path(d)
+            parcel={'type':'Feature','properties':{'STANPAR':'12345678900','PropAddr':'42 TEST ST'},
+                    'geometry':{'type':'Polygon','coordinates':[[[-86.781,36.162],[-86.780,36.162],[-86.780,36.163],[-86.781,36.163],[-86.781,36.162]]]}}
+            (root/'Parcels_fixture.geojson').write_text(json.dumps({'type':'FeatureCollection','features':[parcel]}),encoding='utf-8')
+            listings=[{'listing_id':'123','point':[-86.7805,36.1625]}]
+            self.assertEqual(annotate_parcel_addresses(root,listings),1)
+            self.assertEqual(listings[0]['approximate_address'],'42 TEST ST')
 
     def test_expired_and_other_statuses(self):
         today=date(2026,9,29)
@@ -95,6 +114,7 @@ class BuildTests(unittest.TestCase):
             build(root)
             first=json.loads((root/'nashville_site/data/listings.json').read_text())
             self.assertEqual(first[0]['license_status'],'expired')
+            self.assertEqual(first[0]['community_license_status'],'undetermined')
             self.assertEqual(first[0]['over_capacity'],2)
             self.assertEqual(first[0]['matched_permits'][0]['source_status'],'EXPIRED')
             path.write_text(json.dumps({'bedrooms':6,'occupancy':16,'latitude':36.16,'longitude':-86.78,'description':'A hot tub'}))

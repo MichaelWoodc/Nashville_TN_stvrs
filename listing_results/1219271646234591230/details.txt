@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/1219271646234591230
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located on historic Music Row in the heart of downtown Nashville, this modern studio condo is perfect for couples, small families, or friends traveling together (sleeps up to 4 people)! You can walk to several coffee shops, restaurants, bars and shops, including Edgehill Village, Midtown, Demonbreun and the Gulch! The building has a common area rooftop deck, pool, a conference room, and a gym. The condo includes WiFi, a RokuTV with basic cable thru SlingTV, free HBO, and free parking!
+
+The space
+Inside the unit you will find everything you will need to relax and/or work on your trip. There is a queen bed and a pull out queen size sofa bed. There is also a twin sized air mattress available.
+
+The building is safe and secure with a 24 hour lock on the main entrance of the building with a new code generated for each guest. There is free parking in a gated garage. There is also washer dryer in the unit. There is no balcony attached to the unit, it is a common area rooftop deck. It is also a very quiet neighborhood. The pool opens in May and closes Oct 31.
+
+It is about a 5 minute walk to the restaurants in Edgehill Village and a 10 minute walk to the bars in Midtown and on Demonbreun. You can also walk to the famous Hattie B's Hot Chicken, and also to live music bars like Losers, Tin Roof, and Live Oak! Music Row is not to be confused with Lower Broadway, our district with live music bars, which is about a 25 minute walk away.
+
+WiFi is included, and there is a Roku TV where you can catch up some of your favorite shows or watch basic cable through SlingTV. I also have a subscription to HBO Max. Basic hotel amenities and coffee are also included. There is a full set of kitchenware and pots and pans in the unit for cooking.
+
+It is a short Uber ride anywhere in the city, but if the weather is nice, as it often is in Nashville, it is a short walk to a number of well known attractions and neighborhoods:
+
+Edgehill Village, ~5 minutes
+Midtown and Demonbreun, ~ 10 minutes
+The Gulch, ~15 minutes
+Music City Convention Center, ~20 minutes
+Lower Broadway, ~25 minutes
+Vanderbilt University, ~25 minutes
+Belmont University, ~25 minutes
+12th South, ~35 minutes
+Hillsboro Village, ~35 minutes
+Nissan Stadium, ~45 minutes
+
+Bachelor/Bachelorette parties are allowed. House parties are not.
+
+Guest access
+The condo is setup for easy check in and check out. You will receive an access code when the unit is ready for you to check in!
+
+Other things to note
+Check in is anytime after 3 pm and check out is at 11 am. Check in and out can be flexible depending on other bookings. There is an additional fee for late checkout.
+
+There is a 2 night minimum on reservations more than one month from today.
+
+Local bookings are not allowed. If you are local to Nashville and book this property your reservation will be cancelled.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tee
+Host User ID: 35801381
+Host Profile URL: https://www.airbnb.com/users/show/35801381
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 96%
+Responds within an hour
+Superhost
+7 years hosting
+955 reviews
+4.83 out of 5 average rating
+7 years of hosting

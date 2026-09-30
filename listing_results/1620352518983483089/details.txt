@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1620352518983483089
+Latitude: 36.1910312076557
+Longitude: -86.76869604219141
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautifully designed, light filled, guesthouse in Cleveland Park, steps from some of Nashville’s most acclaimed bars and restaurants. This stylish retreat offers curated interiors, modern comfort, and easy access to East Nashville, Germantown, and Downtown—perfect for exploring the city while enjoying a quiet, charming neighborhood vibe.
+
+The space
+Some great things about the space:
+
+- Tons of natural light!
+- Large king size bed!
+- Pull out queen bed in living room!
+- Full size kitchen!
+- Outdoor space for coffee or cocktails!
+
+Guest access
+Guests have access to the entire guest house and outdoor patio.
+
+Other things to note
+I have lived in Nashville for over a decade and love sharing the best ways for you to enjoy the city to its fullest!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 14793768
+Host Profile URL: https://www.airbnb.com/users/show/14793768
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Texas A&M University
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 months hosting
+19 reviews
+5.0 out of 5 average rating
+7 months of hosting

@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/1226254828250953743
+Latitude: 36.1456
+Longitude: -86.7924
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Sound Wave, a luxury 1 bedroom condo on iconic Music Row. Enjoy a calm, upscale Nashville stay just minutes from Vanderbilt, Belmont, The Gulch, & Broadway. This stylish retreat features a private oversized patio, elegant interiors, & premium amenities, including a seasonal pool. Set in a secure, peaceful building with two coffee shops at the end of the block & popular burger and Italian spots nearby—perfect for professionals, couples, or anyone seeking a refined Nashville escape.
+
+The space
+Why Guests Love This Condo
+The condo features a bright, open layout with high ceilings, large windows, and contemporary design accented with custom sound wave art honoring Nashville’s musical heritage. Every detail has been thoughtfully curated for comfort, style, and relaxation, making it a perfect home base for exploring the city or unwinding in style. Please note as Nashville continues to grow, nearby construction is common and may be present during your stay.
+
+The Space
+● Plush king-size bed with luxury linens
+● Queen-size sleeper sofa with upgraded mattress
+● Extra large bathroom with upscale fixtures and spacious vanity (toiletries provided)
+● Private oversized patio with comfortable seating and a custom shuffleboard table—perfect for unwinding with coffee or evening drinks
+● Chef-inspired kitchen with modern appliances, large island with seating for four, and everything you need for home-cooked meals or quick bites
+● Complimentary high end linens and towels along with an in-unit washer/dryer with laundry pods/dryer sheets
+
+Entertainment & Comfort
+● 60” Smart TV in the living room and 55” Smart TV in the bedroom
+● Free high-speed Wi-Fi and cable
+● Stocked Keurig coffee bar
+● Free secure covered parking
+
+Building Amenities
+● Seasonal outdoor pool (open daily 8am–8pm, May–October)
+● Rooftop terrace with indoor and outdoor lounge areas
+● Fully equipped fitness center
+● 24/7 security and gated garage for peace of mind
+
+Convenient Location
+● 3 blocks to Vanderbilt University
+● 4 blocks to Demonbreun Hill (restaurants, cafes, live music)
+● 7 blocks to Belmont University
+● 1 mile to The Gulch (fine dining, boutique shopping)
+● 1.2 miles to Broadway and Bridgestone Arena
+● 1.5 miles to Bridgestone Arena
+
+Whether visiting for work, culture, or a relaxing getaway, The Sound Wave provides a quiet, refined home base in the heart of Nashville. Step outside to explore Music Row, The Gulch, or Broadway, then return to the comforts of your private, luxurious retreat.
+
+Guest access
+Smart Lock
+
+Registration Details
+2024068576
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: InJoy Vacations
+Host User ID: 425884247
+Host Profile URL: https://www.airbnb.com/users/show/425884247
+Host Profile URL Source: public user permalink from passport userId
+InJoy Vacations proudly offers a selection of high-quality condo rentals in Panama City Beach, FL & Nashville, TN. We are a locally owned and operated business, and we love to share our community with owners and guests. Our goal is to provide exceptional vacation experiences to visitors, and we’ve perfected our craft. Many of our guests choose to return year after year.
+My work: InJoy Vacations
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+4505 reviews
+4.73 out of 5 average rating
+5 years of hosting

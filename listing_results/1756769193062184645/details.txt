@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1756769193062184645
+Latitude: 36.15721855661863
+Longitude: -86.77089014330295
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect Downtown Location!
+Nashville’s legendary nightlife, live music, restaurants, bars, entertainment!   Spend the day exploring Music City and the evening experiencing the energy of downtown—all while having a comfortable place to come to.
+3 spacious bedrooms
+3 full bathrooms
+Stylish, modern living space
+Fully equipped kitchen
+Convenient downtown location
+Perfect for weekend getaways, celebrations, family trips, and group stays
+
+Come stay, play, and make some Nashville memories!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacy
+Host User ID: 650582680
+Host Profile URL: https://www.airbnb.com/users/show/650582680
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting

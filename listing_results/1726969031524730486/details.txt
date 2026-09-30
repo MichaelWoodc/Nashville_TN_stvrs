@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1726969031524730486
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in this stylish mid-century modern, music-themed apartment, perfect for up to 8 guests. Features a vinyl lounge, fully equipped kitchen, private balcony, and resort-style amenities including a pool, gym, and yoga studio. Walk to Broadway's vibrant entertainment. Ideal for groups seeking comfort and city access in Music City.
+
+STR PERMIT #2018074795
+
+The space
+Welcome to your stylish Nashville retreat, a true home away from home designed with a vibrant mid-century modern and music-centric theme. This apartment comfortably fits up to 8 guests, offering a relaxing haven after a day of exploring the city.
+
+Key features include:
+   Sleeping Arrangements:
+    - 1 King bed
+    - 2 Queen beds
+    - 1 King pull out sleeper sofa
+   Unique Amenities:
+    - Vinyl listening lounge with a record player and a wall    adorned with vinyl records
+    - Open-plan living room
+    - Fully equipped kitchen
+    - Dedicated coffee bar
+    - Private balcony
+    - 2 Full bathrooms
+    - In unit washer/dryer
+    - 2 Walk-in closets
+
+Guest access
+As our guest, you'll have full private access to the entire apartment. Additionally, you'll enjoy access to an array of impressive resort-style community amenities, which include:
+- Large swimming pool
+- Private cabanas available for rent
+- Spacious, modern gym featuring a climbing wall
+- Yoga studio
+- Outdoor grilling stations
+- Various indoor and outdoor lounge areas and co-working spaces
+
+Other things to note
+Please keep the following in mind for your stay:
+  - Parking: One reserved parking spot can be guaranteed for $30/night. If your group has more than one vehicle, other paid parking options are available onsite. Please reach out for details and I’ll be happy to help coordinate!
+  - Host Availability: I am available to answer any questions you may have and help make your stay exceptional. Feel free to reach out at any time.
+
+Need a little extra flexibility? Early check-in and late checkout may be available upon request, depending on our booking schedule.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 1726194764512572924
+Host Profile URL: https://www.airbnb.com/users/show/1726194764512572924
+Host Profile URL Source: public user permalink from passport userId
+My work: Financial Operations
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+2 months hosting
+13 reviews
+5.0 out of 5 average rating
+2 months of hosting

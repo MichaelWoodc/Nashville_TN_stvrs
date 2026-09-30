@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1511118408871614344
+Latitude: 36.1251
+Longitude: -86.7733
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Check out our reviews for this new listing in the pictures! Location Alert! This house sits on a quiet street, yet is so close to the award-winning restaurants / shops on 12th South, and just a short drive to Downtown. With multiple seating areas, this mid century designed home is the perfect Nashville retreat for all travelers looking to relax between sightseeing.
+
+“This home was exactly as pictured everything was amazing. The location, the pool everything! I would definitely stay here again”
+
+The space
+Pool:
+Pool is closed December until first week of March (During winter)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 719202591
+Host Profile URL: https://www.airbnb.com/users/show/719202591
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+26 reviews
+4.38 out of 5 average rating
+1 year of hosting

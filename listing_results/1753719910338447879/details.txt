@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1753719910338447879
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Music City in this spacious 2BR/2BA corner apartment at The Burnham. Walk to Broadway, Bridgestone Arena, Music City Center, the Country Music Hall of Fame and downtown’s best live music, dining and nightlife—with 6th & Peabody right next door. Enjoy two private bedrooms, a full kitchen, Wi-Fi and excellent building amenities. Perfect for couples, friends, families or groups of up to 6 (could do 8) looking for a true walkable Nashville home base.
+AIRBNB permit#2018072342
+
+The space
+This spacious corner apartment features 2 bedrooms, 2 full bathrooms and an open-concept living area with plenty of natural light. Both bedrooms have queen beds, plus the living room includes a sofa bed, allowing the space to accommodate up to 6 guests. Enjoy a fully equipped kitchen, comfortable living and dining areas, Wi-Fi and plenty of room to relax between Nashville adventures. Guests also have access to The Burnham’s building amenities.
+
+Guest access
+Guests have private access to the entire apartment, including both bedrooms, two bathrooms, kitchen, living and dining areas. You’ll also have access to available shared amenities at The Burnham during your stay. The apartment is yours to enjoy—settle in, relax and make it your Nashville home base.
+
+Other things to note
+You’re staying in the heart of downtown Nashville, so expect the energy that comes with a vibrant city—especially during concerts, games and busy weekends. Most downtown attractions are walkable, and rideshare is an easy option for exploring farther out. Please review the house rules and arrival instructions before your stay. We’ve also created two local guidebooks—Walkable Nashville and Beyond Downtown Nashville—to help you make the most of your trip.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyler
+Host User ID: 403341105
+Host Profile URL: https://www.airbnb.com/users/show/403341105
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+1 month hosting
+1 reviews
+5.0 out of 5 average rating
+1 month of hosting

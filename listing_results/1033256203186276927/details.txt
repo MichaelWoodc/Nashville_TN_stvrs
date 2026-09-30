@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1033256203186276927
+Latitude: 36.1647
+Longitude: -86.7778
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is the most amenity-packed Airbnb in Downtown.  Beautiful Artwork and around the world themed bedrooms decorates this historic building that lies right in the center of downtown. Just 2 and a half blocks from Broadway and nestled inside historic Printers Alley! 
+
+This fully custom unit comes complete with a 6 person Steam Shower, large full kitchen, a drop down Theater Screen, 4 spacious bedrooms, 2 full bathrooms.
+
+The space
+This 2400 SF space is located right at the historic entertainment strip of  Printers Alley with two luxurious bathrooms and four large, stately bedrooms. This unit also features a full kitchen and dining area with artistic ceilings and themed rooms.
+
+Each bedroom is decorated with authentic memorabilia sourced from around the globe. Everything is authentic. No gimmicks here. 
+
+The Navajo Room
+Featuring a four poster king bed, the decor in this room is from Najavo reservations of the American Southwest. A 250 year old wool rug, ceremonially used peyote pipe, hand painted decorative plates, oil paintings. 
+Even the ling blanket was purchased on reservation.
+
+The Sub Saharan Africa Room
+Featuring a Zulu shield and set of spears, as well as a bow, set of arrows and quiver from the Congalese Civil War.
+
+The Western Room
+Featuring a king canopy bed, powder horn, double barrel shotgun from the 1800s, vintage leather boots, a saddle mirror, and more
+the Nashville room
+Featuring musical instruments including vintage horn, trumpet and more.
+
+Second floor unit, comes with access to first floor gaming lobby with bumper billiards table and shuffleboard.
+
+Guest access
+Guests can access the building communal lobby, elevator, front staircase and 2nd floor unit. Do Not Try to wander into other units
+
+Other things to note
+If it sounds like there's a lot of rules, relax. There's not. The focus is, don't be an asshole. We build these places for comfort, luxury, to party, to decompress. Everything in our units is original. Thats why we're different. We don't do standardization and throw things together. We give a hoot. That's why we're among Nashvilles longest tenured hosts and have impeccable ratings.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: All-In-Properties
+Host User ID: 109338728
+Host Profile URL: https://www.airbnb.com/users/show/109338728
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: mtsu / belmont
+My work: Host Extraorinaire
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+381 reviews
+4.8 out of 5 average rating
+9 years of hosting

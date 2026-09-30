@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/22532182
+Latitude: 36.155
+Longitude: -86.7705
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy one bedroom condo located in Downtown Nashville, walk to Tootsies , the Ryman Auditorium and all attractions on Broadway ...15 - 20 minute walk on Pedestrian Bridge to Nissan Stadium...walk to the Symphony...all kinds of restaurants at your disposal...
+
+The space
+Can sleep up to (URL HIDDEN) in living room and bedroom ... internet available...
+
+Guest access
+Perfect location ..can walk anywhere downtown Nashville..
+
+Other things to note
+There are permanent residents to be mindful and courteous about...
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Irma
+Host User ID: 165464155
+Host Profile URL: https://www.airbnb.com/users/show/165464155
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+437 reviews
+4.91 out of 5 average rating
+9 years of hosting

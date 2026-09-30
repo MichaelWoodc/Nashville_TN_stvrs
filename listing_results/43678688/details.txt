@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/43678688
+Latitude: 36.18426
+Longitude: -86.75907
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your East Nashville retreat- where thoughtful design, original artwork, and laid-back comfort come together just minutes from the energy of Broadway. Designed and hosted by local creatives who care deeply about your experience! 
+
+Whether you’re here for a weekend with friends, a celebration, or a reset between city adventures, this space was created to feel warm, social, and effortlessly welcoming.
+
+We’re always happy to share local recommendations or help you plan your stay!
+
+The space
+Our home features a bright, open-concept layout designed for connection- whether you’re gathering for coffee in the morning or unwinding after a night out.
+
+You’ll find original artwork throughout the space (created by your host) layered with comfortable furnishings and intentional details that make the home feel both elevated and cozy.
+
+Step outside to your private backyard setup- perfect for slow mornings, fun afternoons or late nights. 
+
+• Soak in the hot tub under the stars 
+• Gather around the fire pit with a drink in hand 
+• Grill and play corn hole while you hang out with friends
+
+It’s the kind of space that turns a good trip into a memorable one!
+
+Located in East Nashville, you’re just minutes from some of the city’s best local restaurants, coffee shops, and bars in the Five Points area- while still being a quick 5-minute ride to Broadway and downtown + only 1.5 miles to Nissan Stadium.
+
+Close enough to be in the action, far enough to recharge when you need it.
+
+What you’ll love:
+
+* Private hot tub + fire pit
+* Spacious open-concept living area
+* King suite + comfortable sleeping for up to 10
+* Fully stocked kitchen + coffee bar
+* Fast WiFi + smart TVs
+* Free off-street parking + private parking in back 
+* Walkable East Nashville location, 1.5 miles to Nissan Stadium + 5 min drive to broadway 
+* Fenced in backyard with patio, corn hole, grill and grilling accessories
+* In house washer/dryer + iron/ironing board 
+* Acustic guitar 
+* Smart lock keyless entry
+* Towels + linens provided
+
+Book your stay today! We’d love to host you.
+
+Guest access
+Smart lock keyless entry
+
+Private parking is located behind the house as well on the street, in a safe neighborhood
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexander
+Host User ID: 121721677
+Host Profile URL: https://www.airbnb.com/users/show/121721677
+Host Profile URL Source: public user permalink from passport userId
+I’m a musician, yogi and a New England native living in Tennessee. Moved here six years ago and love it. We're super excited to have our space available to share with you!
+Born in the 80s
+Where I went to school: University of New Hampshire
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+283 reviews
+4.98 out of 5 average rating
+6 years of hosting

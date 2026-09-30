@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1184189146609359648
+Latitude: 36.17506
+Longitude: -86.75843
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+We love this condo for its downtown view and unbeatable East Nashville location. It’s just 1 mile from Nissan Stadium and a quick ride to Broadway. Walk to dozens of restaurants, including our favorite pizza spot, Smith & Lentz. Inside, enjoy a plush king bed, 60" Smart HDTV with Hulu, fast Wi-Fi, a fully stocked kitchen, in-unit washer/dryer, and secure garage parking. Perfect for a stress-free stay in Music City.
+
+The space
+• One-bedroom, one-bathroom modern condo
+• Plush king-size bed with premium linens
+• Fully stocked kitchen with cookware, coffee, & more
+• Smart TV & fast Wi-Fi for streaming or remote work
+• In-unit washer and dryer
+• City skyline views from the bedroom
+• Elevator access for easy entry
+• Secure building with garage parking
+• Located in Jolene on Main, built for short-term stays
+
+Guest access
+You’ll have full, private access to the entire condo, including the kitchen, living room, bedroom, bathroom, and in-unit washer and dryer.
+
+Guests can also use the building’s secure, covered parking garage, which is available on a first come, first serve basis. Elevator access makes getting to the unit easy.
+
+Self check-in is simple and contactless with a smart lock. Arrival details will be sent in advance for a smooth start.
+
+Other things to note
+Jolene on Main is a newer, secure building built specifically for short-term guests. The neighborhood is walkable, safe, and packed with great local restaurants, breweries, and coffee spots.
+
+The unit is located on an upper floor with easy elevator access. Free covered garage parking is available for guests, but it’s first come, first serve and not assigned.
+
+Self check-in and arrival info will be sent in advance for a smooth and easy stay.
+
+Registration Details
+2023021591
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyler
+Host User ID: 170761270
+Host Profile URL: https://www.airbnb.com/users/show/170761270
+Host Profile URL Source: public user permalink from passport userId
+Born in rural Tennessee, now a Nashville real‑estate agent who’s rarely without a guitar. I play acoustic on my church worship team. Don’t miss Smith & Lentz pizza, and locals head downtown to The Listening Room Café for great live music. I’m always happy to share local tips if you need a recommendation. If you fall in love with the city, I’d be glad to help you find your own place.
+Born in the 80s
+My work: Nashville Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+40 reviews
+5.0 out of 5 average rating
+2 years of hosting

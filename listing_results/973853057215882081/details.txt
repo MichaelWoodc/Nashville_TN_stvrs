@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/973853057215882081
+Latitude: 36.15585
+Longitude: -86.77508
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Music City!  From Nashville's earliest settlers to the Fisk Jubilee Singers, and still today, Nashville has been know as The Music City. Our condo is steps from Broadway, Bridgestone Arena, The Music City Center, and The Country Music Hall of Fame. All of downtown Nashville is at your doorstep. 
+
+Enjoy views from the sky lounge, spend summer days by our resort-style pool, or kick back and enjoy beer & game night on the apartment patio & green space. 
+
+Permit #:2018072333 TA-DA
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Conner
+Host User ID: 168577307
+Host Profile URL: https://www.airbnb.com/users/show/168577307
+Host Profile URL Source: public user permalink from passport userId
+After moving to Nashville from Alabama, I turned my passion for travel and adventure into a mission to host others. I take great pride in the quality of my properties and the guest experience, earning the 2023 'Spirit of Hosting' award and being named a 2025 'Star Achiever Host' for my two-bedroom accommodations. I look forward to welcoming you to one of my spaces and helping you make the most of your travel adventures.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+564 reviews
+4.94 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1184464749090505864
+Latitude: 36.1647
+Longitude: -86.7778
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville like never before at our Decades Penthouse, nestled in historic Printers Alley, just 2 blocks off Broadway. This unique property offers panoramic views of the Titans stadium and a prime central location for easy downtown exploration. Each room showcases a different decade, creating a one-of-a-kind historical journey. Highlights include a 1950s diner-style kitchen with marble checkered floors and era-specific decor, and nostalgic canvas paintings in the hallways.
+
+The space
+Discover a historic gem just 3 blocks from Broadway, offering proximity to all downtown attractions. Ideal for groups, large or small, our commitment is to ensure a fantastic stay. The space is designed for comfort and relaxation between your Nashville adventures. Enjoy a full kitchen, 3 full tile rain showers, and comfortable nostalgic bedrooms. Positioned in an incredible location, this property is a must-see in Nashville. Immerse yourself in the Nostalgia of the Decade themed rooms that showcase history in every room.
+
+Guest access
+Guests will have the entire penthouse. There is an elevator from ground level or stairs. You will get an access code to enter the building and one for your unit.
+
+Other things to note
+We strive to make your vacation as easy and seamless as possible. So we offer a few common services that may help you have a more convenient and fun stay. 
+
+Planning your trip - Arrival
+ - Airport Pickup
+- Early Check in
+-Parking Passes
+- Grocery stock 
+- Decorations
+
+Experiences During your trip
+- Party Bus
+- Party Boat
+- Bachelor / Bachelorette services
+- Personal In house Chef
+- Live Acoustic Set In house
+ - Winery Tastings
+- Distillery Tour
+
+Departure 
+- Late Check out
+- Airport drop off
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: All-In-Properties
+Host User ID: 109338728
+Host Profile URL: https://www.airbnb.com/users/show/109338728
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: mtsu / belmont
+My work: Host Extraorinaire
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+381 reviews
+4.8 out of 5 average rating
+9 years of hosting

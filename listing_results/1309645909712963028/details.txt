@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1309645909712963028
+Latitude: 36.15013077974617
+Longitude: -86.77814029289577
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from this stylish 2-bed, 2-bath apartment, perfect for 4-6 guests. Enjoy breathtaking city views, a resort-style pool, gym, and rooftop lounge. Centrally located, you're just minutes from Broadway's vibrant music scene and attractions. This unique retreat offers a homely atmosphere with modern amenities, including an in-unit washer/dryer, making it ideal for groups seeking comfort and convenience in the heart of the city.
+
+The space
+Welcome to your beautifully furnished 2-bedroom, 2-bathroom apartment, designed for comfort and entertainment. This stylish space features:
+•	A spacious living room with ceiling-to-floor glass, offering abundant natural light and breathtaking city views.
+•	Unique lion mural and modern, inviting furniture.
+•	Fully equipped kitchen for all your culinary needs.
+•	Two comfortable bedrooms and two full bathrooms.
+•	Convenient in-unit washer and dryer. Enjoy a personal, homely atmosphere with all the modern amenities you need for a memorable stay in Nashville.
+
+Guest access
+Guests will have full, private access to the entire 2-bedroom, 2-bathroom apartment, including the studio room. Additionally, you are welcome to enjoy the building's luxurious shared amenities:
+•	Resort-style pool
+•	Well-equipped indoor gym
+•	Outdoor exercise area
+•	Game room
+•	Chef's kitchen
+•	Courtyard
+•	Rooftop lounge Please note: The pool may experience maintenance delays or closures, and we are not responsible for accidents that may occur around the pool. No refunds will be provided for pool closures
+
+Other things to note
+Please take note of these important details for your stay:
+•	Permit: This property operates under STRP #2024106640.
+•	Location Note: The property is situated next to a highway and a train track.
+•	Pool Disclaimer: The building's pool may experience maintenance delays or closures. We are not responsible for any accidents that may occur around the pool, and no refunds will be provided for pool closures.
+•	PETS: Only one pet is allowed. Please reach out before booking if you have questions regarding this.
+•	PARKING FOR ONE VEHICLE: Guests must provide their vehicle information (license plate number, year, make, model, color, and state) in advance. If this process is not completed, paid parking is available on-site at $30 per day per vehicle, which includes unlimited in-and-out privileges. The community enforces strict policies against unauthorized vehicles, including tickets, booting, or towing. Vehicle information must be submitted before arrival to avoid parking issues.
+
+Registration Details
+2024106640
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Devindra
+Host User ID: 666559338
+Host Profile URL: https://www.airbnb.com/users/show/666559338
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+92 reviews
+4.79 out of 5 average rating
+2 years of hosting

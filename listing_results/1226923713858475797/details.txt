@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1226923713858475797
+Latitude: 36.1568
+Longitude: -86.77506
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You won’t want to leave this charming, one-of-a-kind place.
+
+The space
+This is  a suite room with a king bed and a double sleeper sofa, and a mini kitchen in a  Club Wyndham Margaritaville Vacation Club.
+
+Guest access
+Guests has access to all the amenities  in the hotel.
+
+Other things to note
+There is refundable of 250$ deposit upon check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Prochie
+Host User ID: 574657821
+Host Profile URL: https://www.airbnb.com/users/show/574657821
+Host Profile URL Source: public user permalink from passport userId
+I’m pretty cool , fun , loves traveling and country music!
+Born in the 70s
+Where I went to school: Xavier University,  Philippines
+Response rate: 60%
+Responds within a day
+2 years hosting
+2 reviews
+5.0 out of 5 average rating
+2 years of hosting

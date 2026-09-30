@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1236890545946104680
+Latitude: 36.21638
+Longitude: -86.70459
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The whole group will enjoy easy access to everything from this centrally located place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tara
+Host User ID: 150452542
+Host Profile URL: https://www.airbnb.com/users/show/150452542
+Host Profile URL Source: public user permalink from passport userId
+We are family owned and operated and have enjoyed hosting guests for over 10 years. We also enjoy traveling. We love meeting and experiencing new places, people and great food too.  We look forward to helping you with your vacation.
+Lives in Williamsburg, Virginia
+Response rate: 78%
+Responds within a day
+9 years hosting
+165 reviews
+4.74 out of 5 average rating
+9 years of hosting

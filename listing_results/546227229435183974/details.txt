@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/546227229435183974
+Latitude: 36.21811
+Longitude: -86.70437
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern traditions of hospitality and charm, you’ll want for nothing as you adventure day and night in Music City. Luckily, this warm, friendly resort is close to Nashville’s best music, liquor, and historical landmarks.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 24132769
+Host Profile URL: https://www.airbnb.com/users/show/24132769
+Host Profile URL Source: public user permalink from passport userId
+Lives in Lampe, Missouri
+Response rate: 57%
+Responds within a day
+5 years hosting
+465 reviews
+4.77 out of 5 average rating
+5 years of hosting

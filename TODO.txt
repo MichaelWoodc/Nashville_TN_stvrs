@@ -27,3 +27,5 @@ SP and PUD Eligibility Determinations
 There is no SP or PUD associated with this property.
 So search the parcels see if same owner has different property, and make sure owner has not transformed
 into an llc
+
+Heatmap thouls have adjustable intensity, default most likely unlicensed location to darkest red

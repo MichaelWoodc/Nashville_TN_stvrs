@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/29919347
+Latitude: 36.15514
+Longitude: -86.76996
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The building is on Rutledge Hill, just a few blocks south of historic Broadway in the heart of Downtown Nashville. Walk to the honky tonks on Broadway, Music City Convention Center, Country Music Hall of Fame, Bridgestone Arena, and Nissan Stadium.
+
+Gated parking is included.
+
+This is a brand new listing so we haven’t had reviews yet. We have gated parking available to our guests at no extra cost.
+
+Other things to note
+This is a brand new listing so we haven’t had reviews yet. We have gated parking available to our guests at no extra cost.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 180227118
+Host Profile URL: https://www.airbnb.com/users/show/180227118
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+612 reviews
+4.78 out of 5 average rating
+8 years of hosting

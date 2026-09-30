@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/797148074159970987
+Latitude: 36.1789
+Longitude: -86.7575
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy this beautiful, cozy space, located centrally, in the heart of East Nashville. Walk to Hot Yoga, restaurants, bars and more, and come home to a tranquil and welcoming home away from home. Fully stocked, two bedroom, one bath, perfect for a quick get away or extended stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/51321919
+Latitude: 36.17532
+Longitude: -86.75843
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This adorable, modern, private room has all the comforts of home, and the convenient location of your Downtown Nashville Dreams! Only 4 mins East of the City, 12 mins from BNA airport, and a short walk to countless bars + restaurants w/ that unique East Nash spirit. Your room has a completely separate private entrance (no shared space), a private bathroom, closet,  WiFi, & smart TV. Cozy up inside, or take a short walk or even shorter Uber to breweries, bars, restaurants, music venues, etc.
+
+The space
+This is a private bedroom & bathroom in the bottom of a townhome. There are NO shared spaces so you will have the room all to yourself!
+
+There is a pin-pad code for easy, secure entry.
+
+Guest access
+You have full access to the bedroom & bathroom! They’re all yours and you will not need to share space with anyone else.
+
+During your stay
+We probably won't see each other, but I'm always on the other end of the phone if you need anything! I'm happy to help with recommendations, or making you more comfortable in any way I can.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Grace
+Host User ID: 278077008
+Host Profile URL: https://www.airbnb.com/users/show/278077008
+Host Profile URL Source: public user permalink from passport userId
+I'm a Nashville Native! I am also a Realtor®, Actor, & Airbnb SuperHost!
+
+One of my favorite things (other than traveling) is hosting guests from out of town & helping them discover why I love Nashville so much.
+Born in the 90s
+Where I went to school: Middle Tennessee State University
+My work: Realtor®, Actor
+I spend too much time: Listening to investment podcasts.
+What makes my home unique: I decorated it myself to feel like home!
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+294 reviews
+4.89 out of 5 average rating
+5 years of hosting

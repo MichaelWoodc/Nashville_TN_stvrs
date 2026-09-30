@@ -1,0 +1,82 @@
+URL: https://www.airbnb.com/rooms/1757491026971341499
+Latitude: 36.15497157746423
+Longitude: -86.77340953133313
+rental_type: Casa particular
+property_type: CASA_PARTICULAR
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Southern Nights & City Lights
+
+HEATED POOL • CABANA COMFORT • BBQ READY
+
+Free parking included!
+
+Y’all are officially invited to your Nashville haven, where southern comfort meets city excitement! Tour the town by day, sing your heart out downtown by night, and return to a cozy oasis featuring our inviting heated pool and entertaining arcade. Relax with friends at the BBQ grill under the cabana’s twinkle lights. So come on in, kick back, and make yourselves at home—Nashville style!
+
+The space
+🎸 Nash & Crash at Your Music City Crash Pad! 🌆🎤
+
+Whether you're rollin’ deep with the fam, rallying the crew for a getaway, or bringing the band (aka your work team), this cozy-yet-spacious Nashville gem hits all the right notes! 🎶
+
+From comfy beds to cool cabanas, we’ve got the space, style, and southern hospitality to make your stay sing.
+
+🛏 The Suite Life (King Room)
+Your private en suite sanctuary—kick off your boots, pour a nightcap, and unwind like a Nashville headliner.
+
+🛏 Queen Vibes Only
+Recharge in your own cozy retreat with a private bathroom and all the comfort you deserve.
+
+🛋 Encore Sleep Setup
+Queen foldable mattress ready for extra guests or late-night storytellers.
+
+✨ Hit All the High Notes with These Perks:
+
+🏋️ 24-Hour Gym – Stay swole on Music Row 
+🌆 Skyline Views – Sip your morning brew with a city-view cue
+🏊 Pool & Cabanas Views– Splash, lounge, repeat
+🎮 Arcade Adventures – Big kid energy always welcome
+🚗 One Free Parking space+ Keyless Entry – Easy in, easy out—just like a great chorus
+🔥 BBQ + Outdoor Lounge – Grill it, chill it, thrill it
+🌐 Fast Wi-Fi + Workstation – Zoom by day, two-step by night
+
+Guest access
+You will have access to our app during your stay! All amenities and parking garage will be available.
+
+Other things to note
+Hey there! We want your stay to be stress‑free (and fee‑free), so take a quick peek at these simple guidelines:
+
+🚭 No Smoking
+Our cleaner has a bionic nose! If smoke is detected, a ozone‑cleaning fee applies.
+
+🎉 No Parties / Large Gatherings
+Unauthorized events will incur a penalty and immediate cancellation without refund.
+
+🤫 Quiet Hours | 10 PM – 8 AM
+One friendly reminder for excessive noise, then a fine and/or checkout request if it continues.
+
+Booking with us means you’re cool with the above. Thanks for helping us keep the good vibes rolling!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cozy Cove
+Host User ID: 550564324
+Host Profile URL: https://www.airbnb.com/users/show/550564324
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+98 reviews
+4.79 out of 5 average rating
+3 years of hosting

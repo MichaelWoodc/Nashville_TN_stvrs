@@ -1,0 +1,102 @@
+URL: https://www.airbnb.com/rooms/1651184942232891735
+Latitude: 36.1543
+Longitude: -86.7756
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Professionally hosted by Whitni & Langston
+
+Welcome to The Grand Nash a luxury, stylish stay in the heart of downtown Nashville designed for unforgettable vibes. Perfect for girls’ trips, couples, or a chic getaway.
+
+Enjoy:
+• Rooftop pool & lounge
+• Private balcony with city views
+• Two convertible sofa beds
+
+Walk to Broadway and relax in style your premium Nashville experience starts here.
+
+The space
+The Grand Nash Experience
+
+The Grand Nash is thoughtfully designed with a Nashville-inspired theme, created to fully immerse you in the spirit of the city.
+
+Every detail from the colors and décor to the city views and curated amenities has been carefully selected to reflect the energy, culture, and charm of Nashville.
+
+We invite our guests to arrive with the mindset of embracing the experience to not just visit Nashville, but to truly feel like a part of it.
+
+At The Grand Nash, you don’t just stay… you experience Nashville.
+
+Guest access
+At The Grand Nash, your stay is designed for comfort, convenience, and elevated vibes ✨
+
+Guests will enjoy access to:
+
+🚗 Complimentary Parking
+One free parking space included with your stay
+
+🏙 Rooftop Skylounge & Pool
+• Lounge seating + dining areas
+• TVs for entertainment
+• Direct access to rooftop pool
+
+🏋🏽‍♀️ Fitness & Business Amenities
+• Fully equipped fitness center
+• Conference/workspace area
+
+🛒 Lobby Mini Mart
+Grab snacks, drinks, and essentials right in the building
+
+Everything is designed to make your stay seamless, stylish, and unforgettable.
+
+Other things to note
+🚪 Accessing & Securing Your Unit
+
+To Unlock the Door:
+	1.	Scan your key fob
+	2.	Turn the lock to the left
+	3.	Push down on the door handle to enter
+
+To Secure the Door:
+	1.	Scan your key fob
+	2.	Turn the lock to the right
+	3.	Push down on the door handle to confirm it is locked
+
+Important House Notes:
+
+• No parties or events allowed
+• No smoking, vaping, or e-cigarettes inside
+• Quiet hours are 10 PM – 7 AM
+• No shoes on the living room carpet
+• Maximum of 4 guests
+• Please respect the space and neighbors
+
+Failure to follow house rules may result in additional fees.
+
+Registration Details
+T2022056539
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Whitni
+Host User ID: 400369941
+Host Profile URL: https://www.airbnb.com/users/show/400369941
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 months hosting
+29 reviews
+4.97 out of 5 average rating
+5 months of hosting

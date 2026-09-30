@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/677612562784017639
+Latitude: 36.1272
+Longitude: -86.7779
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stay in this comfortable, clean, industrial, yet modern, studio apartment. . It offers the convenience of a central location within walking distance to popular bars and restaurants in 12 South, minutes to downtown, Belmont, Vanderbilt, and more. Experience the comforts of a home-away-from-home with a stocked kitchenette, dedicated office space, onsite laundry, queen size bed and full size pull-out couch. 
+[The pool opens May 1 ☀️]
+
+The space
+•      Keypad entry
+•      There’s 6 steps to walk up to front door
+•      Free, on-site parking
+•	1 Queen size Bed (& option of a sofa bed)
+•	Smart TV
+•	High speed internet
+•	Dedicated office space (desk/chair)
+•	Fully equipped kitchenette: 
+        stove top, microwave, toaster oven, air fryer, fridge, dish washer, Keurig
+•	On-site laundry facility
+•	Pool (seasonal)
+
+Guest access
+You will have access (keypad entry) to the whole space, including pool and onsite laundry facility.
+
+* You will have free parking on the premises
+* There is 6 concrete steps to walk up to unit
+*The on-site laundry room offers paid (via credit card) washers and dryers.
+*The pool is open seasonal.
+
+Other things to note
+Convenience of location:
+
+Walking distance to Hattie B's Hot Chicken, Cilantro Mexican Grill, ML Rose Craft Beers & Burgers, Sinema Restaurant + Bar, First Watch, Maple Street Biscuit Company, bartaco, and much more!
+
+1min drive or 4min walk to grocery store (Publix)
+
+8min drive  or  est. $8 Uber ride to Downtown Nashville
+
+6min drive to Vanderbilt University
+
+4min drive to Belmont University
+
+STRP PERMIT #2022-08-04-378
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mo
+Host User ID: 28620580
+Host Profile URL: https://www.airbnb.com/users/show/28620580
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Favorite song in high school: Baby Got Back!
+Response rate: 100%
+Responds within an hour
+4 years hosting
+252 reviews
+4.85 out of 5 average rating
+4 years of hosting

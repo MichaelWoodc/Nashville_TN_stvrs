@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1044501316864893626
+Latitude: 36.15531
+Longitude: -86.77547
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+INQUIRE TO SAVE & GET FREE PARKING!
+
+Amenities: Parking, Pool, Terrace, Arcade, Workspace, Gym (Comes with your booking).
+
+Get Ready to Live It Up in Style! This Ultimate Crash Pad Has It All: Full Kitchen with Stainless Steel Appliances, a Cozy Living Area, and a Private Balcony to Chill Out On! Sleep Like Royalty with a King Bed in One Bedroom and a Queen in the Other, Each with Its Own Bathroom and Walk-In Closet. Plus, There’s a Sleeper Couch and a Queen Air Mattress for Extra Buddies!
+
+The space
+Whip Up a Feast with Our Fully Stocked Kitchen or Brew Some Morning Magic with the Keurig. Need to Freshen Up? We’ve Got a Washer and Dryer Right in the Unit, Along with All the Toiletries and Cleaning Supplies You’ll Need. And for Some Fun? Battle It Out on the Mortal Kombat Arcade! Don’t Forget, Free Wi-Fi and a Huge 50” TV for All Your Streaming Needs. It’s Not Just a Stay; It’s an Experience!"
+
+Bedroom 1: King mattress, private attached bathroom and walk in closet with clothing racks.
+
+Bedroom 2: Queen mattress. Private attached bathroom and walk in closet with clothing racks.
+
+Living room: Very comfy sofa and Foldable mattress for extra guests!
+
+Guest access
+All amenities come with your booking! 
+
+You will get access through email. Please provide you best email. Thanks!
+
+Other things to note
+Short Term Rental License #2018073517
+
+★ 1.5 blocks to Bridgestone Arena
+★ 2 blocks to Broadway
+★ 0.2 miles to Music City Center
+★ 0.4 miles to Ryman Auditorium
+★0.4 miles to Ascend Amphitheater
+★ 0.8 miles to the Gulch
+★ 1.1 miles to Nissan Stadium
+★ 7.9 miles to the airport
+
+Registration Details
+2018073517
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cozy Cove
+Host User ID: 550594182
+Host Profile URL: https://www.airbnb.com/users/show/550594182
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+83 reviews
+4.8 out of 5 average rating
+3 years of hosting

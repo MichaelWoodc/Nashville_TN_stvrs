@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1639515488888535060
+Latitude: 36.15117275422497
+Longitude: -86.78210200529878
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 8
+occupancy: 15
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Accessible 5-bedroom apartment designed for larger families and group stays, offering spacious accommodations and ADA-friendly features. Enjoy an oversized private patio overlooking the pool.
+Inside, the layout features 2 King beds and 3 Queen-over-Queen bunk beds (6 Queen beds total) across 5 comfortable bedrooms. The home includes 3.5 bathrooms: two full baths with walk-in showers, one full bath with an ADA-accessible bathtub, and a convenient half bath.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Quinley Concierge
+Host User ID: 750861319
+Host Profile URL: https://www.airbnb.com/users/show/750861319
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 98%
+Responds within an hour
+6 months hosting
+45 reviews
+4.91 out of 5 average rating
+6 months of hosting

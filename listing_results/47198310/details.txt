@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/47198310
+Latitude: 36.15455
+Longitude: -86.77524
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious studio suite measures approximately 400 - 564 square feet. You will enjoy one king bed in the master and a sleeper sofa in the living area. Additional amenities include a kitchenette, living/dining area and Frozen Concoction Maker. Maximum occupancy is four. Private sleeping area sleeps two.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Haven Vacations
+Host User ID: 375678301
+Host Profile URL: https://www.airbnb.com/users/show/375678301
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m the host behind Maxx Vacay. I specialize in booking premium resort stays through owner inventory, giving guests access to high-end properties at better value. I’ve hosted many trips and pride myself on clear communication, fast responses, and making sure everything runs smoothly from booking to check-in. My goal is simple—give you a stress-free, memorable stay.
+My work: Maxx Vacay bookings
+I spend too much time: Looking for Inventory
+Response rate: 60%
+Responds within a day
+6 years hosting
+197 reviews
+4.64 out of 5 average rating
+6 years of hosting

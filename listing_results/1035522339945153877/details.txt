@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1035522339945153877
+Latitude: 36.1647
+Longitude: -86.7778
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 8
+beds: 15
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Indulge in  downtown Nashville at our colossal 8-bedroom  space just 2 blocks from the renowned Broadway and nestled on the vibrant Historic Printers Alley entertainment strip, this massive retreat invites you to bask in the energy of Music City. You will  layout boasts 8 bedrooms and will have either the 1st and 2nd or 2nd and 3rd floors. You will have two of three floors.
+
+The space
+This Rockstar Mansion boasts 15 foot ceilings in the great room on the bottom floor. Originally built as a furniture warehouse in 1890 the building was converted to a law office in 1980. Our team tookover the building in late 2019 and completed a small scale renovation. When downtown was rocked by the Christmas Day bombing in 2020, the back half of our building was heavily damaged and we gutted the entire space and rebuilt it entirely to our specifications. We opened the first two floors in 2024. This listing is built of both of those units, the "Speakeasy" (First floor) and "Spa Gallery" (Second floor) We have 8 bedrooms, plus an available loft each decorated with unique decor and a cozy feel.  Walk out the front door and immerse yourself in Printers Alley, a collection of local bars and restaurants nestled in the historic arts district of a vibrant downtown culture.
+
+Guest access
+Guests will enter the unit through the lobby. There is a 3rd floor that may have a separate group on it. The entrance to the Speakeasy first floor is directly via the lobby, clearly marked. Access to the 2nd floor is via elevator. At the 2nd floor elevator landing you will find your unit door. The units also connect between a front and rear staircase.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: All-In-Properties
+Host User ID: 109338728
+Host Profile URL: https://www.airbnb.com/users/show/109338728
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: mtsu / belmont
+My work: Host Extraorinaire
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+381 reviews
+4.8 out of 5 average rating
+9 years of hosting

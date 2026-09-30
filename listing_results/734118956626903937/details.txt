@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/734118956626903937
+Latitude: 36.15407
+Longitude: -86.77657
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville @ The Royal Luxe Suite. This barn style 1 bedroom & 1 bathroom w/ a modern touch in the heart of downtown Nashville. This suite is located 2 minutes from music row surrounded by major attractions, including Bridgestone Arena, Country Music Hall of Fame, Nissan Stadium, & more. The suite is perfect for families, couples, & business travelers with many bars, restaurants, and shopping in walking distance. Parking in secured Garage is $30/Day.
+
+The space
+The Royal Luxe Suite is designed to give you a high end & comfortable experience. The Unique barn door gives you privacy when closed & an open airy feeling when pushed open. The apartment has 2 queen beds, a convertible sofa, and a portable sleeping cot to allow for comfortable sleeping arrangements. Looking to kick back and stay in for a couple days, we've got you covered. Take advantage of some streaming with our Roku smart TV which includes access (using your log in) to Netflix, Hulu, Disney+, Youtube, Wifi, and more. The kitchen is stocked with cookware if you desire to dine in. In need of some fun? We have a swimming pool with beautiful outdoor sitting and grilling areas available. For those who need to get fit, visit our 24 hour fitness center including a rock climbing wall and yoga studio. Visit our 2 level lounge 24 hours a day for some quiet study time, work, or relaxation. There is a washer and dryer in the unit for your laundry needs. Lastly, the suite is thoroughly cleaned and sanitized immediately after check-out by our cleaners. 
+Permit #2018071744
+
+Guest access
+Entire space
+
+Other things to note
+There is also a pull out single person Cot located in the closet if needed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyshawn
+Host User ID: 482922986
+Host Profile URL: https://www.airbnb.com/users/show/482922986
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+180 reviews
+4.79 out of 5 average rating
+4 years of hosting

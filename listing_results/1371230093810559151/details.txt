@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1371230093810559151
+Latitude: 36.163
+Longitude: -86.7816
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Broadway! Experience Nashville in style at the 2,700 sq ft Elvis Penthouse, a stunning 4-bedroom suite in the heart of downtown that sleeps 16! Ideal for bachelor/bachelorette gatherings, special occasions, corporate retreats, executive getaway or business meetings. This luxurious apartment boasts modern amenities, including a kitchen, comfortable beds, and air conditioning. Enjoy easy access to nearby attractions like Broadway Honky Tonks, museums and entertainment, all while enjoying t
+
+The space
+Step inside the Elvis Suite and discover a haven of comfort and style. This spacious apartment boasts four beautifully appointed bedrooms, each designed with your relaxation in mind. Bedroom 1 features a luxurious king-size bed and a Queen-size bunk bed. Bedrooms 2 and 3 each offer 2 queen-size beds, providing ample space for guests. Bedroom 4 also features a king-size bed, perfect for a restful night's sleep. All bedrooms offer a private, serene retreat. The apartment includes four full ensuite bathrooms, ensuring convenience for all guests. Enjoy the modern amenities throughout, including air conditioning, a kitchen with a dishwasher, microwave/convection over, full refrigerator, and a cozy indoor fireplace. Entertainment is at your fingertips with a TV and wireless internet. Additional features include an elevator for easy access, a pool table, a washer and dryer for your convenience, and complimentary toiletries. The apartment is located in the heart of downtown Nashville, offering easy access to the city's vibrant attractions.
+
+Guest access
+Guests will have exclusive access to the entire Elvis Suite apartment, including all four bedrooms, four bathrooms, the kitchen (equipped with a dishwasher, microwave, refrigerator, and more), the living area with a cozy fireplace and TV, and the in-unit washer and dryer. Enjoy the convenience of an elevator for easy access to the apartment. Additionally, you'll have a pool table for entertainment. The property is located downtown, offering easy access to nearby attractions.
+
+Other things to note
+Please note: Check-in is at 3:00 PM and check-out is at 11:00 AM. Early check-in or late check-out may be available upon request, subject to availability. Paid parking is available off-site. The apartment is located in a vibrant downtown area, but with little street noise. For any questions or assistance during your stay, our hotel staff is available 24/7 via email or text. We kindly ask guests to respect quiet hours after 11:00 PM. The property is a non-smoking apartment. Please be aware that the property is located in a building with an elevator, ensuring easy access to the apartment.
+
+If you have any questions, just message us anytime! Happy to help!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Maddox
+Host User ID: 388968184
+Host Profile URL: https://www.airbnb.com/users/show/388968184
+Host Profile URL Source: public user permalink from passport userId
+Welcome to our Luxury Hotel in downtown Nashville! We pride ourselves on providing the best guest experience possible while being in the perfect location to explore all that Nashville has to offer!
+My work: BoutiqueHotelManager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1072 reviews
+4.95 out of 5 average rating
+5 years of hosting

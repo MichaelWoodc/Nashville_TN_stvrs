@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1536371989656601675
+Latitude: 36.1774
+Longitude: -86.754
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🎉 Book 2–3 Nights, Get 1 Night FREE! Message us before booking to claim this limited-time offer this September only!
+
+Experience Music City in vibrant style at the Pretty In Pink Social Club! 
+
+This newly built 4BR retreat in trendy East Nashville is perfect for bachelorettes, families, and group getaways. Just minutes from Broadway, top restaurants, live music, and attractions, it's the ideal home base for your Nashville adventure. Message us to claim your FREE night!
+
+The space
+✨ The Living Experience
+* Themed Designer Interiors: Every room is a masterpiece of visual storytelling, featuring custom "Howdy" wall art, plush velvet furnishings, and striking pink leopard-print accents.  
+* Space for the Whole Crew: This expansive layout includes 4 private bedrooms and 2 full bathrooms, comfortably sleeping up to 10 guests in total style.  
+* Modern Comforts: Relax in an open-concept living area with premium finishes, luxury marble-style flooring, and large windows that flood the space with natural light.  
+* Ultra-Fast Connectivity: Stay connected with complimentary high-speed Google Fiber WiFi, perfect for streaming or sharing your trip highlights in real-time.
+
+📍 Prime Nashville Location
+You are perfectly positioned to enjoy the best of the city:  
+* Steps from the Action: Just 2 blocks from the famous Five Points area, putting Nashville’s hottest local dining, craft cocktails, and vintage shopping right at your doorstep. 
+* Broadway Access: You are less than 2 miles from the world-famous Honky Tonks, Bridgestone Arena, and the neon lights of Downtown Nashville
+
+Other things to note
+Book your stay at the most talked-about pink retreat in Tennessee and celebrate Nashville in style!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wambold Properties LLC
+Host User ID: 547453912
+Host Profile URL: https://www.airbnb.com/users/show/547453912
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+66 reviews
+4.94 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/942962797275265222
+Latitude: 36.1537
+Longitude: -86.7752
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Honkytonk Highrise - Enjoy a comfortable stay in this centrally-located place, walkable to many Nashville destinations! Only a 5 minute walk to Country Music Hall of Fame & Music City Center.  A short 10 minute walk to Bridgestone, The Ryman, and Broadway.  
+The airport is a 10 minute drive.
+
+You’ll want for nothing in this cozy apartment equipped with a fully-stocked kitchen and all kinds of amenities for your comfort and enjoyment.  Enjoy your Nashville home away from home!
+
+The space
+Enjoy our fully-stocked kitchen and cozy living room space.  Living room couch pulls out to a comfy queen-size bed. Another queen size bed is located in the master bedroom, as well as a well-stocked bathroom and spacious walk-in closet.
+
+Guest access
+Guests will have access to a beautiful outdoor pool, dedicated workspaces, pool table, luxury lounge, on-site parking deck, Tesla ride sharing, fitness center, and cycle studio. 
+
+Guests will also enjoy fast Wi-Fi throughout the building, an in-unit washer/dryer, a fully-stocked kitchen, and cozy outdoor patio!
+
+Other things to note
+Upon confirmed booking, a detailed guestbook will be emailed to you with complete check-in instructions, house rules, local recommendations, and much much more!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandis
+Host User ID: 27024274
+Host Profile URL: https://www.airbnb.com/users/show/27024274
+Host Profile URL Source: public user permalink from passport userId
+We got married and unlocked a love for traveling together and exploring new places! Now we continue to try to travel whenever we can, both with and without the kiddos.
+Born in the 90s
+My work: Construction Sales
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+232 reviews
+4.96 out of 5 average rating
+3 years of hosting

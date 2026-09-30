@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1259577215662149600
+Latitude: 36.14480335297537
+Longitude: -86.7919801354396
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover Nashville from this brand new, stylish studio on iconic Music Row! Perfect for couples or solo travelers, this modern space features a rooftop deck with skyline views, a seasonal pool, and free garage parking. Experience the heart of Music City, just minutes from Broadway's famous honky-tonks. Your ideal home base for exploring Nashville's vibrant culture and nightlife.
+
+The space
+Step into a clean, modern, and beautifully decorated studio, thoughtfully designed for your Nashville getaway. This space is your ideal home base, whether you're a couple on a romantic trip, friends seeking adventure, or a solo traveler soaking in the culture.
+
+Key Features:
+ Restful Sleep: Unwind after a day of exploring with room-darkening shades ensuring a peaceful night's sleep.
+ Dedicated Workspace: A convenient desk area is available for those mixing work and play.
+Kitchen: Cook-friendly with a two-burner cooktop, microwave, full-size refrigerator, and dishwasher—great for coffee, light meals, and leftovers (no full oven).
+
+Nearby, you'll find some of Nashville's best dining spots, with The Wellhouse Coffee shop just around the corner—perfect for starting your day. Staying here places you right at the center of Nashville’s most vibrant neighborhoods.
+
+Guest access
+Unit is on 4th floor. Private garage with free parking on ground floor,  5th floor amenities which includes access to the gym, club room and outdoor roof deck.
+
+EARLY CHECK-IN & LATE CHECK-OUT
+We’re happy to offer early check-in or late check-out when our schedule allows. All requests are subject to availability and an additional fee.
+Timing requests depend on our cleaning schedule and nearby reservations, and can only be confirmed within 24 hours of your arrival or departure.
+
+Other things to note
+Important: To ensure a quick and easy check-in, all guests are required to complete a guest verification through our third-party provider, Truvi, before arrival. After booking, Truvi will contact you via email and/or text to complete this mandatory step. This process helps us comply with local regulations and provides extra protection for our guests and property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Courtney
+Host User ID: 56210655
+Host Profile URL: https://www.airbnb.com/users/show/56210655
+Host Profile URL Source: public user permalink from passport userId
+Nashville native here — though I took quite the scenic route back home by way of Brooklyn and southern Georgia! I'm passionate about good food, new adventures, and the belief that travel genuinely makes us better humans.
+
+I'm so excited to share a little piece of Nashville with you and do whatever I can to make your stay a great one. Welcome!
+Where I went to school: Fashion Institute of Technology
+My work: Jill of all trades
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+216 reviews
+4.96 out of 5 average rating
+2 years of hosting

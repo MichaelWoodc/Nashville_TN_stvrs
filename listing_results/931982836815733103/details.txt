@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/931982836815733103
+Latitude: 36.2187
+Longitude: -86.7041
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Club Wyndham Nashville! Experience Music City from our stylish retreat. Relax in our well-appointed accommodations, just moments from live music venues and dining options. Enjoy modern comforts, a fully equipped kitchen, and a spacious living area. Explore nearby attractions and take advantage of our amenities like the outdoor pool and fitness center. Book your stay and discover the harmonious blend of comfort, convenience, and Music City's vibrant spirit!
+
+The space
+84 sq m One Bedroom Apartment
+
+Kitchen 
+Toilet 
+Bath or shower 
+Seating Area
+Dining area 
+Wi-Fi Internet Access
+Balcony/Patio
+Air conditioning
+Flat screen TV
+Dishwasher
+
+Guest access
+Accessible Guest Rooms
+Accessible route from the accessible entrance to the accessible guestrooms
+Accessible route from the accessible entrance to the registration area
+Accessible self-parking
+TTY Kits available for guest use
+Van-accessible self-parking
+
+Other things to note
+Parking is free (no valet parking available).
+The nearest grocery store is five miles from the resort.
+A vehicle is recommended to enjoy the area.
+Buildings 10 and 11 do not have elevators.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Johny
+Host User ID: 477699371
+Host Profile URL: https://www.airbnb.com/users/show/477699371
+Host Profile URL Source: public user permalink from passport userId
+Hello! We are Go Bon Voyage - A short-term rental housing solution. We provide consistent high-quality temporary housing and service to corporate clients and individual travelers worldwide!
+Lives in Los Angeles, California
+Response rate: 80%
+Responds within an hour
+4 years hosting
+48 reviews
+4.67 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1197838057091449358
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Troubadour 644 is a short walk to Bridgestone Arena, 10 minute walk to The Historic Ryman Auditorium, a 10-15 minute walk to all the nightlife that Broadway has to offer! 
+
+This Unit located on the Top Floor has an excellent view of the shared heated Pool and Courtyard, Stylish decor, Free Parking, a gym boasting free weights, a rock-climbing wall, and so many more great amenities.
+
+The space
+Our unit features a private bedroom that has Queen Bed with more than enough pillows. 
+
+This bedroom also has an adjoining full bathroom, with double sinks. 
+
+In the larger closest in the bathroom there are two queen size air mattresses that air up in just 3-5 minutes! These fit the best in the living room come bed time. Simply move the coffee table to the wall next to the front door to allow for enough space for the air mattresses to be set up.
+
+Guest access
+Our guests will have access to pool, courtyard, gym, and all the shared access areas that The Burnham has to offer. With the exception of course being if anything is closed for maintenance.
+
+Other things to note
+STR Permit #2018074488
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin
+Host User ID: 566742957
+Host Profile URL: https://www.airbnb.com/users/show/566742957
+Host Profile URL Source: public user permalink from passport userId
+Thank you for checking out my profile and our listing. My name is Justin, I have a beautiful wife named Carly and 3 kids that keep us on the go and busy!
+Born in the 80s
+Where I went to school: Rogers High School
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+136 reviews
+4.95 out of 5 average rating
+2 years of hosting

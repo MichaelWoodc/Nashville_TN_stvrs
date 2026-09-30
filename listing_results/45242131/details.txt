@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/45242131
+Latitude: 36.2214
+Longitude: -86.7037
+rental_type: Private room in resort
+property_type: RESORT
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This amazing resort has one, two, three and four bedroom units. When booking please specify how many room you would need. Prices vary by number of bedrooms, season, and availability
+
+The space
+You will be renting an entire condo, not just a bedroom. This will only be used by you and your group during your stay.
+Units may vary, but will be very similar to the pictures. If you rent a two, three or four bedroom unit, pictures with additional beds will apply
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sheryl
+Host User ID: 165008812
+Host Profile URL: https://www.airbnb.com/users/show/165008812
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mainesburg, Pennsylvania
+Response rate: 100%
+Responds within an hour
+9 years hosting
+40 reviews
+4.8 out of 5 average rating
+9 years of hosting

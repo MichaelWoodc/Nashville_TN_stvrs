@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1422071985436924732
+Latitude: 36.1647
+Longitude: -86.7778
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 8
+beds: 16
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Rockstar Mansion boasts 15 foot ceilings on the third floor and a panoramic view out the penthouse windows of Titans Stadium. We have 8 bedrooms, each decorated with unique decor and a cozy feel. This unit is comprised of the entirety of the 2nd and 3rd floors of our downtown flagship building. Walk out the front door and immerse yourself in Printers Alley, a collection of local bars and restaurants nestled in the historic arts district of a vibrant downtown culture.
+
+The space
+My business partner and I spent the last five years designing and building out this space. We've paid attention to every detail and used every square foot in the most feasible way possible. The energy and fung-shui of the downtown Mansion is sure to please guests from all walks of life.
+
+Please note that our places are designed for comfort and not for luxury. If you are looking for the Ritz or the Four Seasons, Nashville has those options available. The vast majority of our vintage decor is obviously secondhand, although we take pride in maintaining it. Of course all of our sleeping decor-- mattresses, linens, pillows, are all high quality and purchased new.
+
+Guest access
+Guests will have access to the building lobby and the second and third floors of the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: All-In-Properties
+Host User ID: 109338728
+Host Profile URL: https://www.airbnb.com/users/show/109338728
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: mtsu / belmont
+My work: Host Extraorinaire
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+381 reviews
+4.8 out of 5 average rating
+9 years of hosting

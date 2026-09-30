@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/53768934
+Latitude: 36.14624
+Longitude: -86.78869
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+AMAZING LOCATION! Free off street parking. Walk to Music Row, The Gulch, Midtown, Downtown! Enjoy over 2000 sq. ft of professionally cleaned living space. Families and friends alike will love the air hockey table, foosball, and full-size arcade game in the bonus room. This gorgeous townhome is the perfect place to stay, right off Music Row, in the heart of Nashville.
+
+The space
+Gorgeous Music City-themed home with many custom details and abundant space for the entire family to enjoy their Nashville vacation.
+
+Guest access
+Guests have full access to the entire home (apart from two locked supply closets and the additional high-season room) and fenced-in yard/patio.
+
+Other things to note
+This listing is a low-season duplicate for one of our most popular vacation homes. The bedrooms available (and guestcount allowed) are limited in order to accommodate families and smaller groups of up to 6.
+
+Every effort is made to ensure advertised amenities are available for guest use, however, no refund will be made in the event of a malfunctioning game or other issue beyond the host’s control. Please let us know immediately of any problems so that we can attempt to resolve the issue in a reasonable amount of time during your stay. (Absolutely no refund will be made under any circumstance for issues that are not brought to our attention at check-in or when the problem first occurs. We can't fix something when guests do not let us know there is a problem.)
+
+In order to provide a great place for our guests, we are required to enforce certain rules:
+
+***The locked 4th bedroom is off-limits to guests of this listing. Your discounted reservation and cleaning rates reflect the square footage accessible and maximum # of guests allowed. :)
+
+***Absolutely no local renters, please. Do not book my property if you reside within 150 miles of Nashville. 
+
+***Smoking is NOT allowed. Minimum $500 penalty and extra cleaning fees will be charged.
+
+***No pets are allowed on the property at any time.
+
+***Outdoor cameras are not allowed to be disconnected or unplugged at any time. Doing so will result in penalties and could result in cancellation of your reservation without notice and without refund.
+
+***Accurate guest count is required. No additional guests are allowed on the property at any time.
+
+***No parties or gatherings are allowed (at any short-term rentals within Nashville/Davidson County).
+
+Violations will result in immediate cancellation, with penalties to the guest, and no refund may be given.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephen
+Host User ID: 289984792
+Host Profile URL: https://www.airbnb.com/users/show/289984792
+Host Profile URL Source: public user permalink from passport userId
+I'm Steve, a real estate broker, attorney, and father of 4. I've been managing properties for over a decade, starting with commercial and my own residential properties, and now for other area homeowners, as well. 
+
+All our homes are in well-established neighborhoods where I would feel comfortable staying. I take pride in offering long-term and vacation homes in great locations. Let me know how I can assist you in your next visit to Nashville!
+
+Stephen Nault
+•Accredited Realty LLC.
+•Nault Law
+My work: Accredited Realty LLC
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+311 reviews
+4.92 out of 5 average rating
+5 years of hosting

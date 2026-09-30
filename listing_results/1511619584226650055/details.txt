@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1511619584226650055
+Latitude: 36.179
+Longitude: -86.7575
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Four-bedroom East Nashville townhome with two full king suites, each with a private en-suite bathroom and walk-in closet. Wet bar, espresso machine, and two outdoor decks. Sleeps up to 12. One mile from Nissan Stadium, 1.5 miles from Broadway. Free driveway parking for two cars.
+
+The space
+This three-floor East Nashville townhome was built for groups who want space, privacy, and something to do without leaving the house. Two full king suites with private en-suite bathrooms. Arcade games on the first floor. A wet bar off the open-plan kitchen. Two outdoor decks. All of it one mile from Nissan Stadium and 1.5 miles from Broadway.
+
+The Two King Suites
+Both king bedrooms are on the third floor with full en-suite bathrooms and walk-in closets. For two couples traveling together, this means complete privacy on the same floor: your own king bed, your own bathroom, and your own closet space. The master suite adds a soaking tub plus a separate shower room and a Smart TV. The second king bedroom has its own private balcony off the back of the building.
+
+Sleep Layout - Sleeps Up to 12
+Third floor master suite: King bed, en-suite bathroom with soaking tub and shower, walk-in closet, Smart TV, plus a small pull-out bed in the closet
+Third floor bedroom 2: King bed, en-suite full bathroom, walk-in closet, Smart TV, private balcony
+First floor bedroom 3: Queen bed, closet, ceiling fan
+First floor bedroom 4: Two twin beds plus one trundle twin, closet, ceiling fan
+First floor bonus room: Full pull-out sofa, large Smart TV, sectional
+
+One half bathroom on the second floor. Three full en-suite bathrooms on the first and third floors.
+
+Entertainment and Amenities
+Wet bar with butler sink off the main kitchen. Espresso machine and drip coffee bar. Two outdoor decks: one off the second-floor kitchen, one off the third-floor master suite. Vaulted ceilings and open-plan layout on the second floor with dining seating for six. GE washer and dryer on the third floor. High-speed Wi-Fi throughout.
+
+Guest access
+You'll have full access to the townhouse during your reservation. Check-in is fully contactless via smart lock. Your door code is sent before arrival. A guest agreement is required prior to receiving instructions. We are available by message or phone throughout your stay.
+
+Other things to note
+🤝 You will need to sign our Guest Agreement before the system releases check-in instructions
+🌿 We use green & organic cleaning supplies
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 478827477
+Host Profile URL: https://www.airbnb.com/users/show/478827477
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Mark— here to make your vacation truly unforgettable.
+
+Together with my brilliant and thoughtful team, we're here to make your vacation GREAT! Our Property Curators are 100% focused on your comfort. It is our job to ensure you feel taken care of every step of your trip! We know we are here because of YOU and we feel this differentiates us from so many other hosts in the market!
+
+Let us know how we can make your stay a 5-Star stay!
+Born in the 70s
+Where I went to school: South Africa
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+1593 reviews
+4.87 out of 5 average rating
+4 years of hosting

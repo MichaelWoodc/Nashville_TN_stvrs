@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1472714513153783818
+Latitude: 36.1534
+Longitude: -86.77
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sunset Social is where modern edge meets cozy ease—with rich colors, graphic art, and layered textures that energize and invite. Whether you're queuing up your favorite record or catching golden hour through the living room window, this bold yet laid-back space brings style and substance to your Nashville stay.
+
+The space
+This 810 sq ft two-story townhome offers a king bedroom with ensuite bath, a downstairs half bath, and a spacious living area with a queen-size Serta sleeper sofa. A Crosley record player sets the vibe, while midcentury furnishings and playful art add character throughout. The full kitchen is stocked for nights in, and you’ll find thoughtful details—like a hallway gallery wall and layered lighting—in every corner. It’s the perfect place to gather, unwind, and soak up SoBro.
+
+Guest access
+You’ll have access to the entire apartment, including the in-unit washer/dryer and stocked kitchen.
+
+Other things to note
+LC SoBro is more than a place to stay — it’s a place to live well. As our guest, you’ll have access to incredible onsite amenities including:
+
+🐐 The Goat – Our onsite restaurant and bar with great food, weekday happy hour specials, and noteworthy events.
+
+☕ Morning Ritual – Specialty coffee and fresh pastries served daily, just steps from your door.
+
+💪 Code Wellness – A two-story fitness studio equipped with everything you need for a great workout, whether you're lifting heavy or getting in a solid cardio session.
+
+☀️  Rooftop Pool – Cool off or soak up the sun in our outdoor dipping pool.
+
+🌿 Outdoor Courtyards – Relax in open-air lounge spaces with fire pits, grills, string lights, and plenty of seating.
+
+🏠 This apartment is part of a traditional residential community. Please be respectful of full-time residents.
+
+🚭 No smoking, vaping, or drug use on the premises — a minimum $500 fine applies.
+
+🎉 No parties. Authorized guests only.
+
+☑️ The amenity spaces are open and access is provided to all full time residents and our registered guests. It’s worth noting that hours are controlled by the building and although very rare, the building sometimes closes amenities for maintenance and cleaning. This is unlikely but we like to be up front as we cannot issue refunds if the building closes the pool or other amenity spaces during your stay.
+
+🅿️ Parking
+Parking is not included with the listing. The closest parking lot is 705 3rd Ave S, at the corner of 3rd and Elm and just across the street from our community complex. Rates are controlled by the parking authority, averaging $25 for overnight parking, but sometimes fluctuate based on downtown event demand. Parking fees are paid via QR code in the parking lot.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: L C
+Host User ID: 687407481
+Host Profile URL: https://www.airbnb.com/users/show/687407481
+Host Profile URL Source: public user permalink from passport userId
+Hey Y'all! We're LC and the voice behind LC SoBro GuestHouse - a collection of short term rentals inspired by the rhythm and charm of Nashville. We're proud to offer clean, comfortable stays in the heart of SoBro, each with a little local soul. Whether you're in Music City to hit the stage, sip your way down Broadway, or steal a little stillness between adventures, we're glad to host you!
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+1130 reviews
+4.95 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/20676728
+Latitude: 36.1476
+Longitude: -86.7909
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our home is right next to Music Row.  Just one block from Demonbreun Hill and just 2 blocks from MidTown. Smack in the middle of Nashville's happening nightlife area. Close by are the Gulch, Vanderbilt and Belmont universities, The Ryman Auditorium, and Bridgestone Arena... not to mention Honky Tonk Row on Lower Broadway is just 1.3 miles away!
+I always use Uber or Lyft if I’m not walking.. parking can be expensive and inconvenient.
+
+The space
+Hello!.. this is an Owner Occupied Home and I may have some of my personal belonging at the home.  Please be considerate of that while enjoying your stay!
+
+Guest access
+Guests will access the home via a keypad with a code provided to you directly from Airbnb before check-in. Enjoy full access to the house, including fully stocked bathrooms, a gourmet kitchen, linens, soaps, and all essentials. Everything you need for a perfect Nashville stay!
+
+Other things to note
+We offer two parking spots in the back driveway off the alley. The garage is locked for personal storage. You’re also welcome to use the abundance of free street parking on both sides of the street—convenient and hassle-free for your stay!
+
+Registration Details
+4439122
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bob
+Host User ID: 83475309
+Host Profile URL: https://www.airbnb.com/users/show/83475309
+Host Profile URL Source: public user permalink from passport userId
+Realtor with Parks/Compass Real Estate here in wonderful Nashville, TN !!!
+Born in the 70s
+Where I went to school: Indiana University of Pennsylvania  IUP
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+408 reviews
+4.99 out of 5 average rating
+10 years of hosting

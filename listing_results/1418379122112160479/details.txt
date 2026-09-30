@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1418379122112160479
+Latitude: 36.1829
+Longitude: -86.7588
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Skip the downtown high-rise. Trade elevators and Broadway noise for a fenced yard, a crackling fire pit, and a front porch on a quiet East Nashville street. Inside, a century-old craftsman done right — original wood floors, 2 fireplaces, a full modern kitchen & 2 renovated baths. Sleep 6 across 2 real bedrooms plus a third bed. Hit the honky-tonks (8 min) or walk to Five Points for dinner — then come home and actually sleep. Coffee on the porch, s'mores by the fire. This one feels like Nashville
+
+The space
+Welcome to your perfect Nashville getaway! This beautifully designed, country-chic 2-bedroom, 2-bathroom home offers a blend of charm and modern comfort. Enjoy sun-filled spaces with thoughtful details, including plush bedding, stylish décor, and luxe amenities. Relax in the cozy living room, cook in a fully stocked kitchen, or unwind on the spacious deck. With Smart TVs, high-speed Wi-Fi, and a dedicated workspace, this home is ideal for families, friends, or business travelers. Short overview; two bedrooms, three beds total, two full bathrooms, fully stocked kitchen, living room, dining room, backyard, linens and towels provided, basic essentials provided, Wi-Fi included. Sleeping arrangements for 8 people: Bathrooms: 1. Full Size Bathroom with shower/tub combo 2. Full Size Bathroom with walk in shower (en suite to Master)
+
+Guest access
+Entire house!
+
+Other things to note
+This charming 1930s historical home blends vintage character with modern updates, offering a unique stay in a diverse, transitioning neighborhood. While beautifully renovated, it retains its original charm and some imperfections. Guests will enjoy a stylish, cozy space, though please note it is not wheelchair accessible, and street parking is limited. Smoking and pets are not allowed. By booking, guests agree to a third-party screening process. STR Permit 2015/19576.
+
+Smoking Fee - $250
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

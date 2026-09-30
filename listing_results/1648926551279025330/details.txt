@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1648926551279025330
+Latitude: 36.15508
+Longitude: -86.77598
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into a tropical-inspired escape in the heart of downtown Nashville, where laid-back island vibes meet nonstop city energy! Relax at the rooftop pool with fire pits and skyline views, then unwind in stylish suites with kitchenettes and cozy living space. Sip cocktails at the rooftop bar, dine on-site, and immerse yourself in the excitement of Broadways music, dinging and nightlife sweep you away. Experience Nashville like never before. 
+Valet parking only $65/night plus tax.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Serenity With Nikki
+Host User ID: 731091468
+Host Profile URL: https://www.airbnb.com/users/show/731091468
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+9 months hosting
+33 reviews
+4.73 out of 5 average rating
+9 months of hosting

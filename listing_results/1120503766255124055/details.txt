@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1120503766255124055
+Latitude: 36.1762
+Longitude: -86.7576
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 0
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just minutes from Broadway, this brand new East Nashville condo will allow you to experience all that Nashville has to offer on both sides of the river!  Located 1.8 miles from downtown, this unit allows guests to walk to all of the best restaurants and bars of East Nashville, as well as Nissan Stadium! 
+
+In addition to the spacious floor plan of the condo, there is a rooftop balcony where guests can enjoy the scenic views of the Nashville skyline.
+
+The space
+The condo is decorated meticulously with luxury furnishings and designer furniture. The modern kitchen is fully equipped, featuring stainless steel appliances and a dining table. 
+
+This home comfortably sleeps 6 guests with a queen sleeper sofa in the living room.
+
+Bedroom #1 has a king size bed and large floor to ceiling windows.
+
+Bedroom #2 includes a king size bed and an ensuite bathroom with a vanity and glass walk-in shower.
+
+The home also includes an additional full guest bathroom with a single vanity and shower/tub.
+
+Additional Information: 
+- Washer and dryer in unit
+-Garage parking, with overflow parking on the street on a first come, first served basis
+-This property has a lock system called Latch
+-Walking distance to several bars, concert venues, breweries, restaurants and stadiums
+-1.9 mile walk to Broadway 
+-Breakfast/Coffee/Cocktail Bar in Hotel lobby directly out our condo window
+
+Guest access
+Guests have access to the entire condo unit, lobby, rooftop lounge area and parking garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anna
+Host User ID: 132359620
+Host Profile URL: https://www.airbnb.com/users/show/132359620
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: HR Project Manager
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+212 reviews
+4.95 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1736576030527458719
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home away from home! 🏙️ Located in SoBro, this stylish 1-bedroom, 1-bath apartment is just minutes from Downtown and Broadway. Enjoy easy access to live music, restaurants, nightlife, Bridgestone Arena, Music City Center, Nissan Stadium, The Gulch, and more. Relax in a modern space with a full kitchen, Wi-Fi, Smart TV, washer/dryer, and fitness amenities. 🎶✨
+
+The space
+Modern 1-bedroom, 1-bathroom apartment
+Full kitchen, living room
+Great downtown Nashville views
+Free Wi-Fi
+Access to building amenities
+Paid parking available nearby, with a private parking option available for an additional fee
+Located in SoBro, close to Broadway, restaurants, bars, and attractions
+Quiet residential building—please be respectful of neighbors
+No smoking or pets
+Maximum of 4 guests
+
+Other things to note
+Parking: A private parking space in the building’s garage is available for $25 per night. Parking can be added through the guest portal provided in your booking confirmation message.
+
+Building Access: The building has secure, controlled access. Check-in instructions and access information will be provided before your arrival.
+
+Early Check-In & Late Check-Out: Early check-in and late check-out may be available for an additional fee. These options can be purchased through the guest portal provided in your booking confirmation message.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Demequa
+Host User ID: 1736575517238990311
+Host Profile URL: https://www.airbnb.com/users/show/1736575517238990311
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Property Manager
+Response rate: 100%
+Responds within an hour
+2 months hosting
+18 reviews
+4.67 out of 5 average rating
+2 months of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/6694206
+Latitude: 36.1887
+Longitude: -86.76924
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy brand new apartment with all the amenities you’ll need to have a wonderful stay in music city. And the host lives steps away in the main house and is disposable and available at all times should you need anything!
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+Our place is a cozy 2 bed 2 bath apartment with its dedicated entrance off of the alley entrance. We are 2 Miles away from downtown and minutes away from all the local hip-east Nashville bars restaurants and music venues.
+
+BEDROOMS & BATHROOMS
+
+-2 Bed
+-2 Bath
+
+Guest access
+Washer and gas dryer are accessible on the property
+
+Other things to note
+The garbage disposal switch is just under the sink inside the cabinet. 
+There is a smart tv which lets you use any of your personal streaming service’s
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Roberto
+Host User ID: 35042945
+Host Profile URL: https://www.airbnb.com/users/show/35042945
+Host Profile URL Source: public user permalink from passport userId
+Hello, I am currently a stay at home dad with 3 beautiful kids who are a handful (they are 6 and under...ouch, haha). I am originally from NYC but have lived in Nashville for about 14 years now. Met my beautiful and brilliant wife, who's a nurse-midwife about 12 years ago on a mission trip to Ecuador, and we fell madly in love. I was a local chef in town for about 8 years and decided that staying at home with the children would help our family much more than if I was away at the restaurant.
+
+I have a small landscaping business that I maintain during the warmer months. I love watching the Titans, going to NSC games, and enjoy good food and wine and spending time with my family and good friends. I’m totally a people person and enjoy meeting and talking with folks from all walks of life.
+Where I went to school: All Hallows high school NYC BCC & NSCC
+My work: Stay at home Dad
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+160 reviews
+4.98 out of 5 average rating
+11 years of hosting

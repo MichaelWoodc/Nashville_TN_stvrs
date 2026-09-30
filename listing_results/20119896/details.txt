@@ -1,0 +1,92 @@
+URL: https://www.airbnb.com/rooms/20119896
+Latitude: 36.2202
+Longitude: -86.705
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect Harmony in Music City. Located one mile from the legendary Grand Ole Opry and the immense Opry Mills outlet mall, Wyndham Nashville is close to many of the city's most popular attractions and just 10 miles from downtown. This warm, friendly resort combines fun activities and amenities with lots of Southern hospitality.
+
+The space
+CLUB WYNDHAM® resort condos are so much more than a place to lay your head at night. You have your choice of spacious accommodations in a variety of floor plans.
+
+Plus, you’ll delight in the luxury of all the comforts of home. Many CLUB WYNDHAM suites have the following great features:
+
+Spacious living rooms with large-screen TV, DVD player and even video game systems
+Separate bedrooms that offer a quiet, relaxing environment
+Dining areas with a large table for plenty of room to spread out
+Convenient washer and dryer
+Wireless Internet access to keep you connected
+Fully equipped kitchens with large refrigerator, stove, microwave, coffee maker — and even wine glasses!
+
+Resort Amenities
+2 Outdoor Swimming Pools
+Organized Activities Program
+Outdoor Hot Tub
+Live Entertainment
+Basketball
+Indoor Swimming Pool
+Exercise Equipment
+Playground
+Picnic/BBQ Area
+
+Some amenities are available at an additional charge.
+
+Guest access
+This is a vacation resort suite set up for exclusive use by our guests.
+
+Other things to note
+01. Reservations must be in the name of someone at least 21 years of age (proper photo ID must be shown at check-in). Other guests need not be at least 21 years of age.
+
+02. After booking, the name(s) (up to two) and addresses of who will be checking in must be provided prior to the guest's arrival. 
+
+03. Failure to provide reservation name(s) may result in the guest not being able to check-in when the guest arrives at the property.
+
+04. Check-in / Check-out: 4 PM / 10 AM (unless otherwise specified)
+
+05. A credit card pre-authorization or cash deposit will be required upon check-in.
+
+06. Suites are assigned at check-in so  location within the resort varies. We can have the reservation annotated for your preference and the resort staff will do their best to accommodate based on location availability.
+
+07. We are not responsible for limited or no access to amenities due to government regulations, resort policy, discontinuation or maintenance.
+
+08. Late Arrivals: Please notify the resort of your late arrival and check-in no later than 48 hours after your scheduled arrival date. Failure to do so may result in the cancellation of your reservation without notification.
+
+09. Your safety is very important to us, so we closely follow local regulations for maximum occupancy per unit.
+
+10. Out of respect for all our guests, pets are not permitted. Please feel free to contact the resort prior to your arrival so that we may assist you in locating a local boarding facility.
+
+11. Service animals that are trained to work or perform tasks for the benefit of an individual with a disability are welcome at all affiliated locations.
+
+12. No smoking is allowed in the suite. Failure to comply may result in a fine.
+
+13. Attending a seminar or presentation is not required as part of the booking. If you are made an offer to attend, you are under no obligation to do so. Attending a seminar or presentation is the sole choice of the renter, if offered.
+
+Rev: 2.5
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rj
+Host User ID: 23366133
+Host Profile URL: https://www.airbnb.com/users/show/23366133
+Host Profile URL Source: public user permalink from passport userId
+We love to travel with our family and friends. We love to be able to assist people to share the same experiences.
+Speaks English
+Lives in Bluffton, South Carolina
+Response rate: 88%
+Responds within a day
+12 years hosting
+917 reviews
+4.83 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/49513826
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+★ STEPS TO BROADWAY! ★ 
+
+Welcome to your 3BR luxe Nashville suite, 2 blocks from the iconic Broadway and the perfect launching pad for your group! Enjoy state of the art building amenities including a pool, grills, fire pits, 2-story gym, rock climbing wall, and co-working spaces.
+
+STRP#2018_followedby_074901.
+
+The space
+Full of well-appointed furnishings, complete with thoughtful touches to make you feel at home.
+
+★ 2 blocks from Broadway, Bridgestone Arena, Ryman Auditorium and the Music City Convention Center
+★ Fully stocked kitchen featuring a large island and bar seating
+★ Open floorpan to dining area
+★ Living room with patio access, sleeper sofa and 65" smart TV
+★ Bedroom 1: King bed with ensuite bathroom with walk in glass shower
+★ Bedroom 2: Two Queens bed with ensuite bathroom with garden soaking tub
+★ Bedroom 3: Queen bed with ensuite bathroom with garden soaking tub
+★ All bedrooms feature walk-in closets
+
+Guest access
+Parking available in the onsite gated garage for an additional fee.
+
+Other things to note
+Thank you for considering our listing! Please reach out with any questions or special requests—we’d love to host y’all!
+
+Because the building is in the heart of downtown Nashville, guests may occasionally hear music, traffic, construction, or other city noise. Sound machines are provided in each bedroom for light sleepers, and guests rarely report issues. However, please keep the downtown location in mind if you are especially sensitive to noise.
+
+This is a multi-unit property, and the building’s shared amenities—including the pool, common areas, and fitness center—are managed and maintained by a third party. Although closures are uncommon, availability cannot be guaranteed and is outside the host’s control. Refunds or cancellations outside the stated cancellation policy cannot be provided due to the temporary closure or unavailability of a shared amenity.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alysha
+Host User ID: 283360819
+Host Profile URL: https://www.airbnb.com/users/show/283360819
+Host Profile URL Source: public user permalink from passport userId
+Small-town farm girl living my best life in Music City for just over a decade. Lover of live events, craft beer, bridge architecture, good graffiti, pretty packaging, pop-up jam sessions and all things outdoors.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+607 reviews
+4.88 out of 5 average rating
+7 years of hosting

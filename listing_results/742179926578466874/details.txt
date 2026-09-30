@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/742179926578466874
+Latitude: 36.1537
+Longitude: -86.7752
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Completely central to everything in Nashville, Sentral SoBro was designed to be comfortable. Walkable to The Gulch, Downtown, Lower Broadway, Titans Stadium and East Nashville. The property’s resort-style amenities include a pool surrounded by grills, fire pits and patio seating; their is common space for larger groups; a fitness center with a view of the pool; and much more! Enjoy a stylish experience at this centrally-located place. __STRP#2022056542___
+
+The space
+Beautiful modern and newer property. Room is furnished simple, yet elegant. Balcony appointed with two chairs and table for fresh, relaxing outdoor view of city.
+
+Guest access
+All parts of the unit are accessible to guests.
+
+Other things to note
+If bringing a car please note only limited paid parking spaces are available. Spaces can be reserved in advance or upon arrival first come first serve through Parkade app. We cannot guarantee available space. We recommend reserving space in advance to secure your spot. Rates range from$36-72 per night depending on which space you choose in proximity to lobby.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marshall & Carolyn
+Host User ID: 261609552
+Host Profile URL: https://www.airbnb.com/users/show/261609552
+Host Profile URL Source: public user permalink from passport userId
+My wife Carolyn and I love Nashville and are happy that you are interested in visiting our place.
+Response rate: 100%
+Responds within an hour
+5 years hosting
+318 reviews
+4.96 out of 5 average rating
+5 years of hosting

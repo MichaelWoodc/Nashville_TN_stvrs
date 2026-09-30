@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1512320996375096511
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our Dolly-inspired downtown Nashville retreat! This vibrant, light-filled apartment sleeps 5 and is just steps from Broadway's famous honky-tonks. Enjoy sparkling neon vibes, a record player, karaoke, and resort-style amenities like a pool and gym. Your perfect stage for a Music City adventure!
+
+STR Permit #2018069902
+
+The space
+Immerse yourself in the heart of Music City with this vibrant, Dolly-inspired downtown retreat. The apartment is filled with natural light, cozy décor, and sparkling neon vibes.
+
+Living Area:
+   Relax and spin some vinyl on the record player.
+   Enjoy games and Smart TVs for your streaming platforms.
+  Step into a world of glamour and music at our Dolly-inspired retreat! Filled with natural light and sparkling neon vibes, this vibrant, contemporary apartment is your perfect stage for an unforgettable Nashville adventure.
+
+   Living & Entertainment: Unwind in the cozy living area where you can spin some vinyl on the record player or host your own show with the karaoke microphone. For a quieter night in, enjoy your favorite streaming platforms on the Smart TV.
+
+   Kitchen & Dining: The fully equipped kitchen, featuring a unique green accent wall and a dedicated coffee bar, has everything you need to prepare a meal before a night out on the town.
+
+   Sleeping Arrangements (Sleeps 5):
+       Comfortable, Stylish Queen bed
+       Full-size sleeper sofa
+       A convenient rollaway bed
+
+Bathroom & Laundry: Freshen up in the clean, modern bathroom, which features double sinks to make getting ready a breeze. An in-unit washer and dryer are also available for your convenience.
+
+Guest access
+You will have full and private access to the entire apartment, including a private balcony where you can enjoy the city skyline views. Entry is seamless using the DOOR smart lock app; a smartphone is required to download the app and receive your digital key for building and apartment access.
+
+In addition, you are welcome to use the building's fantastic, resort-style shared amenities:
+
+   Resort-Style Pool: A large, beautiful pool perfect for relaxing under the sun.
+   Fitness Center: A well-equipped gym, complete with a unique climbing wall.
+Resident Lounges: Stylish indoor and outdoor spaces to unwind and socialize.
+
+Other things to note
+To enhance your stay, we offer the following options, subject to availability and advance reservation:
+
+   Flexible Scheduling: Ask us about the possibility of an early check-in (up to 12:00 PM) or a late checkout (up to 1:00 PM) for an additional fee.
+   On-Site Parking: A designated space in our secure garage can be reserved for $35.00 per night. Please let us know in advance if you need parking.
+   Smart Lock: Access requires a smartphone to download the DOOR app and receive your digital key.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Reggie
+Host User ID: 716388783
+Host Profile URL: https://www.airbnb.com/users/show/716388783
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Go Sooners!
+My work: Automotive Pro
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+29 reviews
+5.0 out of 5 average rating
+11 months of hosting

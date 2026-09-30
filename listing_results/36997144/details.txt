@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/36997144
+Latitude: 36.12422
+Longitude: -86.79084
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Sweetbriar Retreat boasts of modern décor that is sure be your preferred home away from home. This second floor apartment in the heart of 12th South is situated right off I-440 and blocks to I-65.  10 mins to Nashville's budding tech center, the hospital district, sports & entertainment venues, and downtown. Blend in with local runners, walkers and families.  Our professional housekeeping and management team will make sure you have a wonderful stay every time.
+
+The space
+This second floor apartment gives you convenient access to popular attractions without the noise of being on a strip.  The office area equipped with fast internet is just right for remote workers, travel nurses,  medical travelers, and those visiting family & friends for long stays.    Everything you need to settle in.  
+
+-Free Parking
+-Self Check-in with keypad
+-Lots of sunlight
+-Comfy King Bed
+-Sleeper Sofa (Queen)
+-58" + 43' Roku TVs for your streaming services
+-Spacious Walk-in Closet
+-In unit Washer + Dryer
+-Clothes Steamer
+-Fully Stocked Kitchen
+-Coffee
+-Brita Water Filter
+-Rice Cooker & Chop sticks
+-Dedicated Office Space
+-Fast Fiber Wi-Fi
+-Central Heat + Air + Ceiling Fan
+-Professional Cleaners before & after each reservation
+-Grocery shopping 1 mile away
+-You LOVE it here already!
+
+Guest access
+You have access to the entire apartment. No sharing.
+
+Other things to note
+Please remember that you're staying in a house, not a hotel. Please treat the space with respect. If any problems arise, we will do our best to take action ASAP, but there is no one living on-site 24/7.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: India
+Host User ID: 231602084
+Host Profile URL: https://www.airbnb.com/users/show/231602084
+Host Profile URL Source: public user permalink from passport userId
+My work: Mobile Notary Public
+Speaks English
+Response rate: 100%
+Responds within an hour
+8 years hosting
+179 reviews
+4.83 out of 5 average rating
+8 years of hosting

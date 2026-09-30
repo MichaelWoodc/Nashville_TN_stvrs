@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1036179668389663624
+Latitude: 36.1537
+Longitude: -86.7752
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Lux Living Downtown Sentral. Located 3 blocks from Broadway, right near the famous Honky-Tonk scene. The Gulch is 3 miles away with great shopping and dining choices. Amenities includes resort-style pool, fitness room, lounge area and much more.
+
+The space
+This place is redesigned to make you feel right at home in a warm, cozy, comfortable environment. We offer wonderful features and amenities during your stay, to make this retreat a perfect place to enjoy.
+
+1 Queen Bed 
+1 Queen Sofa Bed
+1 Queen Air Mattress
+
+Guest access
+The entire unit and all amenities in the building.
+
+Other things to note
+Permit number:
+T2022050552
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Richard
+Host User ID: 506623614
+Host Profile URL: https://www.airbnb.com/users/show/506623614
+Host Profile URL Source: public user permalink from passport userId
+I love to travel
+Born in the 80s
+Fun fact: I thrive on customer service
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+145 reviews
+4.87 out of 5 average rating
+3 years of hosting

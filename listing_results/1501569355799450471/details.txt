@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1501569355799450471
+Latitude: 36.1934526611875
+Longitude: -86.76717676158385
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind in Style – Just 8 Minutes from Downtown Nashville.
+
+Step into this stylish one-bedroom apartment, the perfect home base for your Nashville adventure. Explore the city’s music, culture, and attractions, then return to a cozy retreat designed for relaxing and spending quality time together.
+
+The space
+Thoughtfully curated amenities and a comfortable layout make this getaway ideal for families looking to unwind, connect, and create lasting memories.
+
+★ LIVING ROOM ★ - Sleeps 2
+It is ideal for relaxing and enjoying the company of friends and family while watching a good movie or a show. 
+✔ Comfortable Sofas with Pillows 
+✔ Flat-Screen TV 
+✔ Coffee Table 
+✔ Sleep Sofa (Sleeps 2)
+
+★ KITCHEN ★ 
+The kitchen area with numerous cooking appliances and spacious countertops. If you want to take a break from the restaurants, then this is the place for you. 
+✔ Microwave
+✔ Stove
+✔ Oven 
+✔ Refrigerator/Freezer 
+✔ Dishwasher 
+✔ Toaster 
+✔ Blender
+✔ Sink - Hot & Cold Water 
+✔ Trays 
+✔ Glasses 
+✔ Silverware 
+✔ Pots & Pans
+
+★ BEDROOM ★ - 
+The bedroom features a comfortable bed designed to provide you with the perfect resting experience. 
+✔  Queen–Size Bed with Pillows, Linens, and Sheets (Sleeps 2) 
+✔ Wardrobe with Hangers and Shelves 
+
+★ HALLWAY ★ - 
+✔ (2) Twin–Size Bed with Pillows, Linens, and Sheets (Sleeps 2) 
+
+★ BATHROOM ★ 
+The apartment features a spacious full bathroom stocked with all necessities and essential toiletries, so you don’t need to bring your own. 
+✔ Mirrors 
+✔ Toilet 
+✔ Towels 
+✔ Essential Toiletries
+
+Guest access
+The apartment is exclusively yours, without interruption for the duration of your stay, so relax, unwind, and make yourself at home. 
+
+Other than the already mentioned amenities, our home is also equipped with: 
+
+✔ High-Speed Wi-Fi 
+✔ Air Conditioning 
+✔ Heating 
+✔ Ceiling Fan 
+✔ Washer/Dryer (in the unit)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vru
+Host User ID: 715477310
+Host Profile URL: https://www.airbnb.com/users/show/715477310
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 78%
+Responds within an hour
+1 year hosting
+40 reviews
+4.53 out of 5 average rating
+1 year of hosting

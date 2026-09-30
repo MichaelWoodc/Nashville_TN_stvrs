@@ -128,7 +128,9 @@ def extract_permits(text, source):
 
 
 AMENITIES = {'pool': r'\bpool\b(?!\s+table)', 'hot_tub': r'\b(?:hot\s*tub|jacuzzi)\b',
-             'bar': r'\bbar\b', 'pool_table': r'\bpool\s+table\b', 'karaoke': r'karaoke'}
+             'bar': r'\bbar\b', 'pool_table': r'\bpool\s+table\b', 'karaoke': r'karaoke',
+             'bachelor_party': r'\bbachelor(?:\s+(?:party|weekend|trip))?\b',
+             'bachelorette_party': r'\bbachelorette(?:\s+(?:party|weekend|trip))?\b'}
 
 
 def scan_text(text, source):
@@ -146,6 +148,17 @@ def capacity(bedrooms, guests):
     if bedrooms is None or bedrooms < 0:
         return None, max(0, guests-12) if guests is not None and guests > 12 else None
     allowed = min(2*bedrooms + 4, 12)
+    return allowed, max(0, guests-allowed) if guests is not None else None
+
+
+def capacity_for_detected_licenses(bedrooms, guests, license_count):
+    """Estimate two units only when exactly two listing numbers were detected."""
+    if license_count != 2:
+        return capacity(bedrooms, guests)
+    bedrooms, guests = number(bedrooms), number(guests)
+    if bedrooms is None or bedrooms < 0:
+        return None, max(0, guests-24) if guests is not None and guests > 24 else None
+    allowed = min(24, 2*bedrooms + 8)
     return allowed, max(0, guests-allowed) if guests is not None else None
 
 
@@ -332,21 +345,27 @@ def build(root=ROOT, output=None, as_of=None):
         matches = {p['id']: p for key in unique for p in by_number.get(key, [])}
         states = {p['status'] for p in matches.values()}
         status = 'current' if 'current' in states else 'expired' if 'expired' in states else 'other' if matches else 'unmatched' if found else 'unknown'
-        allowed, over = capacity(row.get('bedrooms'), row.get('occupancy'))
+        allowed, over = capacity_for_detected_licenses(row.get('bedrooms'), row.get('occupancy'), len(unique))
         for f in unique.values():
             evidence.append({'listing_id': lid, **f, 'matched_permit_ids': [p['id'] for p in by_number.get(f['number'], [])]})
         listings.append({'listing_id': lid, 'url': f'https://www.airbnb.com/rooms/{lid}',
                          'title': row.get('title', ''), 'host_name': row.get('host_name', ''),
-                         'host_user_id': str(row.get('host_user_id', '')), 'rental_type': row.get('rental_type', ''),
+                         'host_user_id': str(row.get('host_user_id', '')), 'host_profile_url': row.get('host_profile_url', ''),
+                         'rental_type': row.get('rental_type', ''),
                          'point': point(row.get('longitude'), row.get('latitude')), 'location_name': row.get('location_name', ''),
                          'privacy_radius_meters': number(row.get('privacy_radius_meters')),
                          'bedrooms': number(row.get('bedrooms')), 'guests': number(row.get('occupancy')),
                          'allowed_guests': allowed, 'over_capacity': over, 'license_status': status,
+                         'detected_permit_count': len(unique), 'dual_license_capacity': len(unique) == 2,
+                         'community_license_status': row.get('community_license_status', 'undetermined'),
                          'permit_numbers': list(unique), 'permit_evidence': list(unique.values()),
+                         'matched_permit_numbers': [p.get('permit_number') or p.get('id') or p.get('number') for p in matches.values() if p.get('permit_number') or p.get('id') or p.get('number')],
                          'matched_permits': list(matches.values()), 'amenities': amenities,
                          'party_house': bool(amenities), 'text_scanned': scanned or bool(text),
                          'detailed_text_scanned': scanned,
                          'scrape_status': row.get('fields_status', 'pending')})
+    from prepare_addresses import annotate_parcel_addresses
+    parcel_address_count = annotate_parcel_addresses(root, listings)
     parcels = build_parcels(root, output, permits)
     from prepare_spatial import annotate_spatial
     spatial = annotate_spatial(root, output, listings, permits, parcels.get('available', False))
@@ -362,6 +381,7 @@ def build(root=ROOT, output=None, as_of=None):
              'listing_statuses': dict(Counter(l['license_status'] for l in listings)),
              'permit_statuses': dict(Counter(p['status'] for p in permits)),
              'listings_with_permit_numbers': sum(bool(l['permit_numbers']) for l in listings),
+             'listings_with_parcel_addresses': parcel_address_count,
              'over_capacity': sum((l['over_capacity'] or 0) > 0 for l in listings),
              'party_keywords': sum(l['party_house'] for l in listings), 'repairs': len(repairs),
              'warnings': warnings, 'parcels': {k:v for k,v in parcels.items() if k not in ('signature','tiles')},

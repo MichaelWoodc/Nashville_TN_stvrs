@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1697991908610467585
+Latitude: 36.147695408342656
+Longitude: -86.79372960653617
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style from this designer Music Row condo, just minutes from Broadway, The Gulch, Vanderbilt, and top dining and entertainment. Enjoy skyline views, a fully equipped kitchen, fast Wi-Fi, smart TVs, in-unit laundry, and a spa-inspired bathroom. Relax by the rooftop pool or explore the city from this unbeatable location. The perfect blend of luxury, comfort, and convenience in the heart of downtown Nashville. 🎵✨
+
+*Sofa pulls out to Queen
+*Full size blow up mattress included
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Travis
+Host User ID: 423562290
+Host Profile URL: https://www.airbnb.com/users/show/423562290
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 months hosting
+8 reviews
+4.38 out of 5 average rating
+3 months of hosting

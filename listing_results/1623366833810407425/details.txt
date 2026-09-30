@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/1623366833810407425
+Latitude: 36.2203
+Longitude: -86.7049
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+At Club Wyndham Nashville, enjoy convenient access to Music City, Broadway and local sporting events. Children will enjoy table tennis and basketball. What’s a resort vacation without swimming? There are both indoor and outdoor pools, hot tubs, plus a fully equipped fitness center. When it’s time to relax, guests are welcome to borrow a DVD from the resort library and take it back to their condo suite. All this and more is part of the philosophy of southern hospitality at Club Wyndham Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sonja
+Host User ID: 568969067
+Host Profile URL: https://www.airbnb.com/users/show/568969067
+Host Profile URL Source: public user permalink from passport userId
+7 months hosting

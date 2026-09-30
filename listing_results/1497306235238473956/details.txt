@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/1497306235238473956
+Latitude: 36.19508
+Longitude: -86.76727
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville Getaway – 1BR Apartment Near Downtown Nashville (Sleeps 6)
+
+Just 8 minutes from the heart of downtown Nashville, this stylish one-bedroom apartment is the perfect home base for your Music City adventure. Spend the day exploring Broadway’s honky-tonks, historic sites, and local dining — then retreat to your modern, comfy getaway stocked with everything you need to relax.
+
+The space
+The modern and comfy getaway will leave you in awe with its carefully picked amenity list. 
+
+★ LIVING ROOM ★ – Sleeps 2
+Relax with family or friends while streaming your favorite shows or enjoying a game night.
+✔ Cozy sofas with plush pillows
+✔ Flat-screen TV
+✔ Coffee table
+✔ Sleeper sofa (sleeps 2)
+
+★ KITCHEN ★ – Fully Equipped
+Whether you’re whipping up breakfast before hitting the town or cooking a late-night snack, this kitchen has all the essentials.
+✔ Microwave
+✔ Stove
+✔ Oven 
+✔ Refrigerator/freezer
+✔ Dishwasher
+✔ Toaster
+✔ Blender
+✔ Full cookware
+✔ Silverware, glasses, and trays
+✔ Sink with hot & cold water
+
+★ BEDROOM ★ – Sleeps 4
+Recharge in the spacious and comfortable bedroom designed for a restful night’s sleep.
+✔ 2 Queen-size beds with fresh linens & pillows
+✔ Wardrobe with hangers & shelves
+
+★ BATHROOM ★ – Fresh & Functional
+Everything you need for a refreshing start (or end) to your day.
+✔ Full shower
+✔ Toilet & mirrors
+✔ Towels 
+✔ Essential toiletries
+
+Guest access
+★ AMENITIES ★
+✔ High-speed Wi-Fi
+✔ Air conditioning & heating
+✔ Ceiling fans
+✔ Washer & dryer (in-unit)
+
+★ Guest Access
+The entire apartment is yours to enjoy with full privacy during your stay. So relax, unwind, and make yourself at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vru
+Host User ID: 715477310
+Host Profile URL: https://www.airbnb.com/users/show/715477310
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 78%
+Responds within an hour
+1 year hosting
+40 reviews
+4.53 out of 5 average rating
+1 year of hosting

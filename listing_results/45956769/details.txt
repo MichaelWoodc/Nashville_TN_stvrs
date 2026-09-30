@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/45956769
+Latitude: 36.15782
+Longitude: -86.81489
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Two-story condo, a very short Uber/Lyft to Broadway and walkable to the sand volleyball courts, The Parthenon, Centennial Park, and Blackstone Brewery.
+Two bedrooms with ensuite bathrooms.  Sleeps an additional guest for 5 total, with a deluxe Aerobed air mattress (plugs in and inflates/deflates in 2 minutes) and foam sleeper top.  Very comfortable.  
+TV, 1000 MBPS WiFi, and large island if you need to get some work done. 
+This condo is brand new and makes a comfortable retreat inside the city!
+
+Guest access
+Entire house
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrew
+Host User ID: 372201607
+Host Profile URL: https://www.airbnb.com/users/show/372201607
+Host Profile URL Source: public user permalink from passport userId
+My work: Coach & Teacher
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+166 reviews
+4.92 out of 5 average rating
+6 years of hosting

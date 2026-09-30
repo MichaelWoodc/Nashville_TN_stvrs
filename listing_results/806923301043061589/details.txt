@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/806923301043061589
+Latitude: 36.14755
+Longitude: -86.78168
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+We are located in the desirable Gulch-view area, modern, clean, and comfortable. It is only a five-minute walk to the Gulch and less than a mile to Broadway. The Uber/Lyft rides to downtown cost approximately $6-8. This is an ideal location if you desire access to all the fun but prefer a quieter resting place. If you're traveling for work but still want all the comforts of home, we've got you covered! We provide pots, pans, laundry facilities, and, most importantly, large wine glasses!
+
+The space
+This unit offers a spacious one-bedroom with a sleeper sofa in the living space. The open-concept layout is perfect for spending time with family and friends. For those nights when you need some extra zen, there are remote-controlled blackout blinds. Additionally, the building amenities include a pool, fitness center, outdoor grill, and kitchen.
+
+Guest access
+Entire condo, pool, parking, outdoor grill, and kitchen.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angela Theresa
+Host User ID: 54295263
+Host Profile URL: https://www.airbnb.com/users/show/54295263
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Salisbury University
+My work: HGTV Producer
+Response rate: 83%
+Responds within a day
+Superhost
+4 years hosting
+47 reviews
+4.98 out of 5 average rating
+4 years of hosting

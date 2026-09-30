@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1622622759148600180
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to DWTN Nashville! Perfect for family, friends, couples, and business travelers. Enjoy our studio/hotel -style suite with property's amenities including a pool, gym, and sky lounge. 
+
+Whether you’re walking to Broadway for the best music, dining or nightlife, enjoy a seamless blend of sophistication and fun. 
+
+We have sister units on the same property. Please inquire for more details if interested.
+
+Parking available $30 per night
+
+Permit2018062978
+
+The space
+Our space provides two queen size beds which easily accommodates 4 guests.
+
+There is 50 inch smart tv where you can stream your favorite apps.
+
+Kitchen is stocked with essentials ready for use.
+
+There is a washer and dryer in the unit.
+
+There is a small table that can be used as a workstation or a sitting area.
+
+Guest access
+Guests have access to the entire unit and all of the building's amenities.
+
+Please note, to access the pool, you must have all of your guests names added in your Airbnb reservation.
+
+Please note, we are not responsible for any amenities closure during your stay if they are having maintenance or repairs.
+
+Other things to note
+The entire property is operated with DOOR smart lock. Guests will gain access before their arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Thomas
+Host User ID: 549480620
+Host Profile URL: https://www.airbnb.com/users/show/549480620
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+114 reviews
+4.66 out of 5 average rating
+1 year of hosting

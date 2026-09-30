@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1328674199521776275
+Latitude: 36.14512
+Longitude: -86.7793
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your HOME away from HOME! 
+Enjoy a stylish luxury experience at this centrally-located apartment! 
+5 Min from Music Row
+6 Min from Broadway
+12 Min from Nashville International Airport- BNA
+Close to numerous bars & restaurants!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimoni
+Host User ID: 118918460
+Host Profile URL: https://www.airbnb.com/users/show/118918460
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Fun fact: I’m an Airbnb host!
+2 years hosting
+35 reviews
+4.63 out of 5 average rating
+2 years of hosting

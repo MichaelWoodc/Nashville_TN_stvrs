@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/1744497424439383060
+Latitude: 36.1578
+Longitude: -86.7739
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: None
+occupancy: 3
+fields_status: missing: bedrooms, beds, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Drury Plaza Hotel Nashville Downtown
+Host User ID: 1744496943084265836
+Host Profile URL: https://www.airbnb.com/users/show/1744496943084265836
+Host Profile URL Source: public user permalink from passport userId
+New Host

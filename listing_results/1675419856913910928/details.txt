@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1675419856913910928
+Latitude: 36.21715
+Longitude: -86.70452
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the rhythm of Music City at Nashville. A peaceful retreat just outside the downtown buzz. Spacious condo-style suites feature full kitchens, private balconies and cozy living areas designed for comfort and connection. Lounge by pools, unwind in the hot tub, or enjoy family fun with basketball courts, playgrounds and picnic areas. Minutes from the Grand Ole Opry and Opry Mills, this resort blends laid-back relaxation with Nashville's vibrant energy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨Escapes 2.0⁩
+Host User ID: 723898434
+Host Profile URL: https://www.airbnb.com/users/show/723898434
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+11 months hosting
+27 reviews
+4.74 out of 5 average rating
+11 months of hosting

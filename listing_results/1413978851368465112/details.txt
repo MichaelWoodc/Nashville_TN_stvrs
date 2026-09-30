@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1413978851368465112
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Honky Tonk Nash, your modern home base in the heart of Nashville! This stylish 2BR/2BA condo sleeps 8 and is just a short walk to Broadway, Bridgestone Arena, and Nashville’s top music venues, bars, and restaurants. Enjoy a cozy living area, neon selfie walls, stocked coffee bar, in-unit laundry, games, and snacks. Building amenities include a seasonal pool, gym, Sky Lounge, and courtyard with grills and fire-pit. Perfect for groups and families.
+
+The space
+Experience Music City in style at Honky Tonk Nash—a modern, group-friendly 2-bedroom, 2-bath condo just steps from the heart of downtown Nashville and the famous Broadway strip! Perfect for bachelor/ette trips, families, or weekend escapes, the condo sleeps up to 8 and is packed with personality, comfort, and convenience.
+
+Inside, you'll find a cozy living space with a queen sleeper sofa, Bluetooth record player, Nashville-themed selfie walls with neon signs, and a fully stocked coffee bar. The kitchen includes all essentials plus a fun mural that brings the space to life. An air mattress (with linens) is also available for extra guests.
+
+Enjoy incredible building amenities including a seasonal outdoor heated pool, gym, courtyard with grill and fire pit, and access to the stylish Sky Lounge—perfect for relaxing after a day of exploring. You’ll also enjoy fast WiFi, an in-unit washer/dryer, and thoughtful extras like board games, snacks, and bottled water to welcome you.
+
+With top attractions like Broadway, Bridgestone Arena, Ole Smoky Distillery, and Ascend Amphitheater all within walking distance, Honky Tonk Nash is your perfect launchpad for an unforgettable Nashville stay.
+
+Other things to note
+Please Note:
+This property is located in a shared residential building. While we offer access to amazing amenities like the pool, gym, rooftop lounge, and courtyard, these areas are managed by the building and are shared with other residents.
+
+We do our best to keep you informed, but we are not responsible for any closures or maintenance issues involving these shared spaces. Refunds will not be issued for amenity unavailability due to building management decisions, weather, or repairs.
+
+STR Permit #2018073501
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jaclyn
+Host User ID: 120224971
+Host Profile URL: https://www.airbnb.com/users/show/120224971
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Jaclyn! I’m a dedicated mom, educator, and small business owner. I love the outdoors, especially spending time at the beach. I take pride in keeping things clean, cozy, and thoughtfully prepared, and I enjoy giving others the same comfort when they travel. Whether I’m hosting or exploring, I believe in kindness, clear communication, and little details that make a stay feel like home.
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+82 reviews
+4.95 out of 5 average rating
+4 years of hosting

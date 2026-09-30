@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/592701609374804297
+Latitude: 36.1589
+Longitude: -86.81587
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Howdy House in Nashville! Enjoy drinks, al fresco dining or just relax in one of our two expansive & luxurious rooftop spaces with views of nearby Downtown. Inside, the home boasts an open floor plan.  A true contemporary 3-story city sanctuary wrapped in a chic Brownstone façade. Just a short ride to Lower Broadway for live music & fun (though you may not want to leave the home once you're here!)
+
+The space
+Home at a glance:
+
+• Skyline View from Both Rooftop Spaces
+• Expansive Outdoor Dining Area
+• Indoor & Outdoor Games
+• Private Parking in Attached Garage for 2 Cars
+• Additional Street Parking
+• Easy Uber Ride to Downtown (2 Miles), Germantown, Centennial Park, Centennial SportsPlex, The Parthenon, Nissan Stadium, etc.
+• Fully stocked  Kitchen.
+• 4 HD TVs (65" in living room & 50" in each bedroom) with Cable, Netflix, Hulu etc.
+• 3 Full Bathrooms
+• 1st Floor 1 Bedroom, 1 Full Bathroom
+• 2nd Floor - 1 Bedroom, 1 Full Bathroom
+• 3rd Floor - 1 Bedroom, 1 Full Bathroom, 1st Rooftop Space
+• Secret Top Floor - Huge 2nd Rooftop Space with 360° View!
+
+ROOMS:
+
+• Bedroom 1: One King Bed with Full Bath
+• Bedroom 2: Two Queen Bunk Beds with Full Bathroom
+• Bedroom 3: Four Queen Bunk Bed with Full Bathroom
+• Other options: One Queen Memory Foam Pull Out Couch
+
+Guest access
+The entire home and outdoors areas are yours for the length of your stay.
+
+Other things to note
+As pictured there are stairs to get to two of the bedrooms, though we do have one bedroom at ground level.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laurie
+Host User ID: 8185146
+Host Profile URL: https://www.airbnb.com/users/show/8185146
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Laurie and I work for a management company representing several beautiful properties for my clients in California, Florida & Tennessee! Together with my husband we've lived and worked in these areas for many years and know them inside and out :) 
+
+We love to travel and have been to over 50 countries, many by Airbnb. We're excited to welcome you home!
+My work: Entertainment Industry
+My biography title: Good thing in small package
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+2291 reviews
+4.84 out of 5 average rating
+10 years of hosting

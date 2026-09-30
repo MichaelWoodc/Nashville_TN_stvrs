@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/709999740983796923
+Latitude: 36.14663
+Longitude: -86.7803
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+One bedroom condo in the hottest part of Nashville. The Illume building is a modern oasis with luxe amenities including heated pool, gym, courtyard and on site security. The professionally decorated unit provides a warm modern vibe that will prepare you for a thrilling night in the beautiful city of Nashville.
+
+The space
+Located in the much desired Gulch area of Nashville. The 2019 built Illume is a three story Mid-Rise. Surrounded by fantastic dining, shopping and nightlife. 
+
+ILLUME Amenities
+-Outdoor heated pool (open seasonally 9am - 11pm)
+-Furnished pool deck with gas grill
+-Landscaped courtyard
+-Secure parking garage
+-Fitness center
+-On site security on weekends
+-Secured access into the building and garage
+
+**The heated pool is controlled by the HOA. I/you have no access to control or adjust the temperature of the pool. The HOA makes the determination when to open and close the pool. It is normally opened in March and closed in October.**
+
+The condominium is downtown and close to the interstate. There is a potential for noise during your stay.
+
+Other things to note
+This unit is on the 3rd floor
+Streaming services available with own accounts
+1 dog is welcome when the pet fee is selected.
+The unit comes with a secure parking garage. You can park in any spot that doesn't have "reserved" painted in yellow. There is free on street parking in front and behind the building. The gym is located in back corner of the building accessed through the parking garage. 
+The condominium is downtown and close to the interstate. There is a potential for noise during your stay. 
+The 2nd bed is a queen size sleeper sofa in the living room. These are not always the most comfortable. I’ve upgraded the mattress to mitigate that complaint as much as possible but it is still not the best sleeping arraignment for an adult. There is also an air mattress to use as a topper on the sleeper sofa or instead of the sofa. 
+Max guest count is 4 people.
+
+City Permit #2020078204
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 313450642
+Host Profile URL: https://www.airbnb.com/users/show/313450642
+Host Profile URL Source: public user permalink from passport userId
+My work: Real Estate
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+196 reviews
+4.9 out of 5 average rating
+4 years of hosting

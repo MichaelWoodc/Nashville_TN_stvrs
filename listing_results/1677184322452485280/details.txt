@@ -1,0 +1,28 @@
+URL: https://www.airbnb.com/rooms/1677184322452485280
+Latitude: 36.21999
+Longitude: -86.70428
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern traditions of hospitality and charm, you’ll want for nothing as you adventure day and night in Music City. Luckily, this warm, friendly resort is close to Nashville’s best music, liquor, and historical landmarks. Located just one mile from the Grand Ole Opry, Club Wyndham Nashville provides a great base to explore all the middle Tennessee has to offer. Conveniently located near popular destinations like the Country Music Hall of Fame and Museum and the Nashville Zoo.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristen
+Host User ID: 80054880
+Host Profile URL: https://www.airbnb.com/users/show/80054880
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mechanicsburg, Pennsylvania
+10 months hosting

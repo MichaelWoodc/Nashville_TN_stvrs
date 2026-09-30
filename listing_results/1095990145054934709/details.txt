@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1095990145054934709
+Latitude: 36.1265
+Longitude: -86.778
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is your home yoga studio away from your home yoga studio.  Inspired by the first yoga studio I started attending on a regular basis, Shakti Yoga on Music Row in Nashville, TN, this apartment has all the makings of a peaceful and calm setting for your stay in one of Nashville's best neighborhoods.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Calvit
+Host User ID: 16587828
+Host Profile URL: https://www.airbnb.com/users/show/16587828
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 95%
+Responds within an hour
+Superhost
+12 years hosting
+1208 reviews
+4.67 out of 5 average rating
+12 years of hosting

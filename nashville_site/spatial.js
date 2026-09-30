@@ -9,15 +9,15 @@ const Spatial = (() => {
   function inScope(record, edgeBuffer) {
     return finite(record.boundary_distance_m) && record.boundary_distance_m >= -edgeBuffer;
   }
-  function overlap(listing, leewayPercent) {
+  function overlap(listing, leewayPercent, parcelToleranceMeters=0) {
     const radius = effectiveRadius(listing, leewayPercent);
     return radius === null || !finite(listing.nearest_licensed_parcel_m) ? null
-      : listing.nearest_licensed_parcel_m <= radius + 1e-6;
+      : listing.nearest_licensed_parcel_m <= radius + parcelToleranceMeters + 1e-6;
   }
-  function likelyUnlicensed(listing, leewayPercent, edgeBuffer) {
-    return inScope(listing, edgeBuffer) && overlap(listing, leewayPercent) === false;
+  function likelyUnlicensed(listing, leewayPercent, edgeBuffer, parcelToleranceMeters=0) {
+    return inScope(listing, edgeBuffer) && overlap(listing, leewayPercent, parcelToleranceMeters) === false;
   }
-  function balanceCells(listings, permits, cellFeatures, edgeBuffer) {
+  function balanceCells(listings, permits, cellFeatures, edgeBuffer, radius=0) {
     const counts = new Map();
     const cell = id => {if (!counts.has(id)) counts.set(id, {listings:0, permits:0});return counts.get(id);};
     const ids = new Set();
@@ -26,12 +26,22 @@ const Spatial = (() => {
     }
     const permitIds = new Set();
     for (const p of permits) if (p.status === 'current' && p.point && p.cell_id && inScope(p, edgeBuffer) && !permitIds.has(p.id)) {
-      permitIds.add(p.id);cell(p.cell_id).permits++;
+      const parcelId=String(p.parcel||p.id);
+      if(permitIds.has(parcelId))continue;
+      permitIds.add(parcelId);cell(p.cell_id).permits++;
     }
-    return cellFeatures.filter(f => counts.has(f.properties.cell_id)).map(f => {
-      const c = counts.get(f.properties.cell_id);
-      return {...f, properties:{...f.properties, ...c, difference:c.listings-c.permits}};
-    });
+    const populated = new Map([...counts].filter(([,value])=>value.listings||value.permits));
+    const reach = Math.max(0, Number(radius)||0) + 250;
+    return cellFeatures.map(f => {
+      const [cellX,cellY]=f.properties.cell_id.split('_').map(Number);
+      const range=Math.ceil(reach/500), local={listings:0,permits:0};
+      for(let dx=-range;dx<=range;dx++)for(let dy=-range;dy<=range;dy++){
+        if(Math.hypot(dx*500,dy*500)>reach)continue;
+        const neighbor=populated.get(`${cellX+dx}_${cellY+dy}`);
+        if(neighbor){local.listings+=neighbor.listings;local.permits+=neighbor.permits;}
+      }
+      return local.listings||local.permits?{...f, properties:{...f.properties, ...local, difference:local.listings-local.permits}}:null;
+    }).filter(Boolean);
   }
   return {effectiveRadius, inScope, overlap, likelyUnlicensed, balanceCells};
 })();

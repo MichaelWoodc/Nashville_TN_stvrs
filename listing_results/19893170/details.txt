@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/19893170
+Latitude: 36.1475
+Longitude: -86.79072
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A true Nashville gem on Historic Music Row. Luxury home in the Heart of Nashville, experience this beautifully remodeled vintage house on Music Row.
+
+The space
+INSIDE THE HOUSE The first level is made up of the foyer, living room, dining room, kitchen, laundry, and primary bedroom with en suite bath and king bed.  The living room sofa is a queen sleeper sofa.  There is a half bath in the hallway. The second level has a loft space with queen sleeper sofa, and two additional bedrooms with king beds and en suite full baths.  There is a tv in the living area, primary bedroom, and both upstairs bedrooms.
+
+Guest access
+Guests have private access to the entire House with the exception of the primary closet and detached garage.  There is free street parking directly in front of the home.
+
+Other things to note
+CANCELLATIONS – STRICT— Full refund  minus credit card processing fee for cancellations made 60 days prior to travel dates. We are very considerate of special circumstances within the 60 day non-refundable period. If we are able to rebook dates we will offer a refund in the amount recovered up to the full booking amount. Other circumstances considered on a case by case basis.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura & The Music City Collection
+Host User ID: 69852847
+Host Profile URL: https://www.airbnb.com/users/show/69852847
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3263 reviews
+4.88 out of 5 average rating
+10 years of hosting

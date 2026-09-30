@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/22765877
+Latitude: 36.14652
+Longitude: -86.78825
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Studio [B] is just blocks away from the RCA Studio B on Music Row where many of the greats, including Elvis, recorded.  You are also only 1 mile to the honky tonks of Lower Broad.  Enjoy a night on the town, then return to a quiet neighborhood for a good night's sleep.  Other nearby destinations include Vanderbilt and Belmont Universities, Centennial Park, and Hillsboro Village.
+
+The space
+Studio [B] is located in our backyard and accessible from the alley.   Parking is right at the door.  Keyless lockpad allows for self check in.  Inside you'll find an uncluttered studio apartment with touches of Nashville.  
+
+It is suitable for a couple or a couple with a child if you don't mind being in the same room.  While children are welcome at Studio [B], it has not been child-proofed.  It also works well for a business professional or academic.  The second queen size bed is actually a futon that can be set up as a sofa or a bed.
+
+Rick and I own a custom cabinet shop, and the studio features several built-ins including a queen size platform bed with a Serta memory gel mattress.
+
+We maximized space by using furniture with a double function such as a queen size futon with spring mattress and a pop up coffee table that work great together for dining and desk work.  WiFi is available as well as a high definition TV which swivels for easy viewing from any part of the studio.
+
+The kitchenette is furnished with a refrigerator, Keurig coffee maker, Advantium micro/convection oven, toaster and electric skillet.
+
+The bathroom has a shower with a full size water heater.  There's even a foot niche, ladies, for shaving your legs. We supply shower gel and shampoo.
+
+Guest access
+Guests are welcome to use the yard and patio.  We prefer to keep the deck to ourselves. 
+ However, if the Lyft driver doesn't come to the alley, feel free to use the deck to get to the street.
+
+Other things to note
+Pets are not allowed in Studio B, but you may get a visit from our gray cats Possum and Jolene.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ellen
+Host User ID: 54666206
+Host Profile URL: https://www.airbnb.com/users/show/54666206
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+450 reviews
+4.96 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/8800840
+Latitude: 36.17569
+Longitude: -86.75936
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Amazing East Nashville location—walk to downtown, 5 Points, and Nissan Stadium for Titans games and CMA Fest. Steps from trendy restaurants, breweries, and shops in East Nashville.  Close to Germantown and Broadway. Three bedrooms, each with its own bath, plus a private rooftop deck for unforgettable nights. STR permit on file.
+
+The space
+Townhouse with a private rooftop deck, three bedrooms each with their own bathroom, plus two extra half baths. Sleeps eight with 1 king, 2 queens, and a queen pull‑out. Great location with private entry and garage, close to top East Nashville restaurants, breweries, shopping, and downtown fun.
+
+Guest access
+You will have access to entire home.
+
+Other things to note
+All sheets, towels, washer/dryer, full kitchen are ready for your vacation.
+
+Registration Details
+201613808
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 8030951
+Host Profile URL: https://www.airbnb.com/users/show/8030951
+Host Profile URL Source: public user permalink from passport userId
+I'm a very fun, easy going guy that enjoys what life has to offer.  I love to travel and having been using Airbnb for personal use for years.   I've lived in Phoenix for 27 years, and three years ago added a home in Nashville.  I decided to share my homes with others as a host with Airbnb. (Nashville and Phoenix). I feel very fortunate to be able to call both cities my home.  
+Life is so short, so live everyday like it's your last!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+224 reviews
+4.96 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/49771081
+Latitude: 36.12726
+Longitude: -86.77792
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Palm at Melrose, our 440 sqft 2nd-floor condo on the corner unit of our building in a hip neighborhood just mins to downtown.
+
+• Walkable to restaurants & bars 
+• Onsite pool (open seasonally) 
+• Free, on-site parking
+• Keypad entry
+
+Centrally located to all Nashville has to offer and minutes to Downtown Nashville. 
+
+*** Pets - ONE pet is allowed. Please add them to your reservation - a $50 cleaning fee is added. Guest must inform us if they are bringing a pet. ***
+
+Guest access
+KEYLESS ENTRY:
+
+You will receive a keypad code that will serve as your keyless entry to the condo during your stay. Access is all keyless entry and you can come and go as you please.
+
+GUIDE BOOK:
+
+A book with recommendations for local restaurants, coffee shops, spas and other places to visit is provided in the condo.
+
+FREE PARKING:
+
+Guests have free parking directly at the complex. There is a parking lot on-site with enough spots for 1 car per studio. There is also plenty of additional parking on the street next to the complex.
+
+POOL:
+
+Guests have access to the pool in the complex. It is typically open from Memorial Day to Labor Day. Pool can close at any time at the discretion of building management. We are not responsible for pool closure.
+
+Other things to note
+*** Pets - only ONE pet is allowed - guests must inform us at booking if they are bringing their pet and include them in the reservation.
+
+Our cleaners charge an extra $50 fee for pet. Please add your pet to your reservation request. 
+
+There are service stations with bags around the property. We ask that you please pick up after your pet. Thanks!***
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mario
+Host User ID: 3968661
+Host Profile URL: https://www.airbnb.com/users/show/3968661
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Mario and Liz, longtime Airbnb Superhosts with over 10 years of experience welcoming guests from around the world. We love creating comfortable, memorable stays and take pride in sharing our homes with others. Looking forward to hosting you!
+Born in the 80s
+My work: Vanderbilt University
+Response rate: 95%
+Responds within an hour
+Superhost
+11 years hosting
+1343 reviews
+4.92 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1187195997113158396
+Latitude: 36.1538
+Longitude: -86.7753
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centric Location!! Broadway lights of Broadway are just steps from your doorstep! Walk to all parts of downtown and all of the amazing restaurants! I'm a Nashville native, so I'll send a huge list of the best "to do's" while in our awesome city! Oh yeah, POOL! Doesn't get any better than that! I'll give you insight on all things Nashville. I'll send a huge list of recommendations of restaurants and other fun things to checkout in all pockets of the city!  Did I mention FREE parking for 1 car!!!
+
+The space
+We like for our guests to feel right home! We offer access to the apartment and the building amenities (with certain limitations.)
+
+Apartment amenities include:
+A fully-equipped kitchen, pots & pans, glassware, toiletries, sleeping arrangements, linens, towels, and so much more!
+
+Building Amenities Include: 
+24/7 access to the building fitness center
+
+Limited access to the rooftop pool/lounge (access outlined in house rules)
+
+Super safe area! Just quiet enough to escape the crazy of Broadway for a great nights sleep. Walk everywhere!
+
+Guest access
+Guest have access to all the amenities!  Pool, 2 gym areas and free parking for 1 car! (7’4” garage height clearance)
+
+Pool will only close during the summer months without notice for cleaning or glass.
+
+Other things to note
+Walk to Broadway in 10 minutes or less. 
+
+Walk. Uber. Lyft. Scooters. Joyride. Bike.
+
+Permit Number#
+T2022050126
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brent
+Host User ID: 585677949
+Host Profile URL: https://www.airbnb.com/users/show/585677949
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+159 reviews
+4.94 out of 5 average rating
+2 years of hosting

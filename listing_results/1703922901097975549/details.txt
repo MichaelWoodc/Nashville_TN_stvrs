@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1703922901097975549
+Latitude: 36.1551
+Longitude: -86.7751
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the VIP Green Room Off Broadway—your backstage pass to Music City! 🎸 Stay in a one-of-a-kind boutique suite featuring moody emerald walls, vintage vinyl, a Hollywood-style glam room, luxe finishes, and a private balcony.
+
+Easy walk to Nashville's top attractions, including Bridgestone Arena, the Country Music Hall of Fame, Music City Center, Nissan Stadium, Broadway, the Ryman Auditorium, The Gulch and SO MUCH more! 
+
+STR Permit #:2018074413
+
+The space
+The VIP Green Room Off Broadway is a boutique, music-inspired stay designed for guests who want more than an ordinary Airbnb. Every detail—from the emerald walls and vintage vinyl to the Hollywood-style glam room—was created to capture the energy of Nashville while providing a comfortable, stylish place to relax.
+
+The apartment includes:
+
+🛏️ Private bedroom with a queen bed
+🛋️ Cozy semi-private sleeping lounge for additional guests
+🍳 Fully equipped kitchen
+💄 Hollywood-style glam room for getting ready
+🌇 Private balcony
+📺 Smart TV & high-speed Wi-Fi
+🚿 Modern bathroom
+
+Guests also enjoy access to the building's amenities, including a seasonal resort-style pool and fitness center.
+
+🚗 Reserved garage parking is available for $30/night. Please message us in advance if you'd like to reserve a space.
+
+⏰ Early check-in and late checkout may be available for a small fee, depending on availability.
+
+Whether you're visiting for a concert, girls' trip, couples' getaway, birthday celebration, or game day, The VIP Green Room is the perfect home base for your Nashville adventure.
+
+Other things to note
+Reserved parking available for an additional $30/night (optional). Please message us if you'd like to reserve the space.
+
+Early check in/ late checkout available for a small fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 581130373
+Host Profile URL: https://www.airbnb.com/users/show/581130373
+Host Profile URL Source: public user permalink from passport userId
+I'm Lauren, the heart behind The Stay Over Club! I love creating one-of-a-kind spaces that make every getaway feel special. From Nashville to Myrtle Beach and Puerto Rico, I put my heart into every detail. Whether you're here to celebrate, explore, or simply unwind, my goal is to make your stay effortless, comfortable, and unforgettable.
+Response rate: 100%
+Responds within an hour
+4 months hosting
+7 reviews
+4.86 out of 5 average rating
+4 months of hosting

@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/1516763014209074363
+Latitude: 36.1536
+Longitude: -86.7753
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Downtown Nashville Getaway with Stunning Skyline Views!
+Welcome to your luxury corner unit in the heart of downtown Nashville!
+Enjoy wraparound windows and a private balcony with breathtaking skyline views, a wall-mounted fireplace, and all the comforts of home — just steps from Broadway, Bridgestone Arena, The Ryman, and Nissan Stadium.
+Relax, unwind, and take in Nashville’s energy from your balcony — the perfect spot for morning coffee or sunset cocktails.
+Short Term Permit #T2022050455
+
+The space
+⭐ What You’ll Love:
+• 2 Queen Beds + 2 Queen Air Mattresses (sleeps up to 6)
+• Wraparound floor-to-ceiling windows + private balcony with downtown views
+• Cozy wall-mounted fireplace — perfect for evening vibes
+• Spacious living area with a 65” Smart TV
+• 50” Smart TVs in each bedroom
+• Fully equipped kitchen + coffee bar
+• Fast WiFi + complimentary starter essentials
+• Modern, neutral décor with warm Nashville touches
+
+Building Amenities
+• Heated saltwater pool
+• State-of-the-art fitness center + yoga/cycling studio
+• Outdoor BBQ grills & fire pits
+• Resort-style lounge areas
+• Convenient reserved parking for $30/night
+
+Location, Location, Location!
+Stay right where the action is — walk, scoot, or ride anywhere downtown in minutes:
+★ 5 min walk → Convention Center
+★ 6 min walk → Bridgestone Arena
+★ 8 min walk → Broadway Strip
+★ 10 min walk → The Ryman & Fifth + Broad
+★ 3 min ride → Ascend Amphitheatre
+★ 4 min ride → Nissan Stadium
+★ 10 min ride → BNA Airport
+
+Guest access
+You’ll have full access to the entire apartment and all shared amenities (pool, gym, lounges, etc.), unless
+temporarily closed for maintenance.
+
+Parking: Reserved garage parking available for $30/night (arranged with host prior to arrival).
+
+Other things to note
+The Perfect Nashville Stay
+Whether you’re here for a concert, weekend getaway, or business trip, this sleek downtown retreat offers the perfect mix of comfort, convenience, and Nashville charm.
+Kick back on the balcony with stunning city views or cozy up by the fireplace — either way, you’ll love
+calling this your Nashville home away from home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angelia
+Host User ID: 720507627
+Host Profile URL: https://www.airbnb.com/users/show/720507627
+Host Profile URL Source: public user permalink from passport userId
+Angelia is the heart behind this home - vibrant, warm, and with a taste for both comfort and luxury.
+Favorite song in high school: Purple Rain
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+10 reviews
+4.9 out of 5 average rating
+10 months of hosting

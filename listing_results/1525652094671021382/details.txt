@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1525652094671021382
+Latitude: 36.1266
+Longitude: -86.778
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish, newly renovated condo just off 8th Avenue—walkable to 12 South and Melrose’s best dining and shops. Minutes to Broadway, the Gulch, Geodis Park, Vanderbilt, and the airport. Enjoy modern comfort with retro charm, a community pool & patio, and hassle-free on-site parking steps from the door. Perfect for a weekend getaway or extended stay in the heart of Nashville.
+
+The space
+Stay in style at this beautifully renovated condo tucked just off 8th Avenue—steps from some of Nashville’s favorite restaurants and coffee shops, and walkable to the lively 12 South and Melrose areas.
+
+You’re a quick ride to Broadway’s honky-tonks, the Gulch, Geodis Park, Vanderbilt & Belmont, plus only about 15 minutes from the airport—making this the perfect home base for exploring Music City.
+
+Inside, modern updates blend with a touch of retro charm. The condo is thoughtfully furnished for a comfortable stay, whether you’re here for a weekend getaway, a work trip, or an extended visit.
+
+Highlights:
+
+Sparkling community pool and outdoor patio just outside your door
+
+Bright, stylish interiors with all the essentials you need
+
+On-site parking only steps from the entrance
+
+Peaceful location near Berry Hill with quick access to the best of Nashville
+
+Come home from a day of sightseeing or live music and unwind poolside or relax with your favorite drink on the patio. This space is all about convenience, comfort, and the best of Nashville right at your fingertips.
+
+- Queen Bed (Sleeps 2) 
+- Queen Pull-out Couch (sleeps 2)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: DeRon
+Host User ID: 206929251
+Host Profile URL: https://www.airbnb.com/users/show/206929251
+Host Profile URL Source: public user permalink from passport userId
+As a former member of the Tennessee Titans and Tennessee Volunteer, I've lived in Nashville for 20 years. I have an amazing team capable of assisting you for all of your real estate needs. These elevated estates in Nashville are completely modernized from top to bottom and are located within a short distance of many restaurants, bars, shops, etc..  Nashville offers a "one of a kind" experience and is currently trending as one of hottest cities in country.
+My work: DY Construction  Inc and DY Properties II LLC
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1602 reviews
+4.84 out of 5 average rating
+8 years of hosting

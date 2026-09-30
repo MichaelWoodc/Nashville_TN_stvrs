@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1043477996256121487
+Latitude: 36.15438
+Longitude: -86.77421
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the I've Been Everywhere Oasis! Immerse yourself in the spirit of Johnny Cash in our 1-bed condo inspired by the Man in Black. Complimentary snacks and beverages, fully stocked coffee bar, fast WiFi, and a well-equipped kitchen await. Enjoy access to gym, heated pool, and rooftop lounge area. Just 15 mins from BNA and close to Nashville's iconic attractions - it’s perfect for business, romance, or family trips. Book now for an unforgettable stay!
+
+The space
+1 BR Condo in Downtown Nashville * CLOSE to EVERYTHING * Pool * Gym
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tamara
+Host User ID: 79112781
+Host Profile URL: https://www.airbnb.com/users/show/79112781
+Host Profile URL Source: public user permalink from passport userId
+Professional who loves exploration through travel with my hubby. I enjoy being immersed in other cultures and experiencing places like a local.
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+117 reviews
+4.86 out of 5 average rating
+3 years of hosting

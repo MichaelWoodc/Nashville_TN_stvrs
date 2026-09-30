@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/1389415743447209812
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish 1-bedroom luxury suite located in the heart of downtown just a short walk to Broadway, live music, world-class dining, and all the city’s hottest attractions. 
+
+0.2 miles from Music City Center ﻿﻿
+0.4 miles from Bridgestone Arena ﻿﻿
+0.4 miles from Country Music HOF 
+﻿﻿0.7 miles from Broadway ﻿﻿
+1.3 miles from Nissan Stadium ﻿﻿
+6.8 miles from Nashville BNA Airport 
+
+Amenities includes a pool, outdoor grills, and a 24-hour gym. For added convenience, parking is available for $35/night.
+
+The space
+Designed for both comfort and style, the suite easily accommodates up to 5 guests with:
+
+Queen bed in the private bedroom
+Queen bed in the living room
+Full convertible sofa sleeper in the living room 
+
+Kitchen fully equipped with full essentials.
+
+Smart TVs in both the living room and bedroom giving you the access to stream on your favorite apps!
+
+Private balcony with seating and a table.
+
+Guest access
+Guests have access to a full one bedroom suite.
+
+Guests have access to all of the property's amenities. This property operates with Latch Smart Lock System across the entire property. 
+
+Guests will be set up with Latch upon booking.
+
+Other things to note
+Permit Number#2018071634.
+
+Check-in/Check-out:
+★Check-in is at 3 PM and Check-out is at 11 AM.
+
+The concierge is at the lobby desk to help with questions about the community, Latch, and parking.
+
+Concierge Hours: 2:00 pm to 10:00 pm, Wednesday through Sunday.
+
+An overnight concierge is available from 10:00 pm to 6:00 am for nuisance complaints only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Randeen
+Host User ID: 138328214
+Host Profile URL: https://www.airbnb.com/users/show/138328214
+Host Profile URL Source: public user permalink from passport userId
+Resident of Atlanta and works in the health care industry.
+My work: IT Health
+Speaks English
+Response rate: 100%
+Responds within an hour
+1 year hosting
+43 reviews
+4.79 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1039160238805354276
+Latitude: 36.164
+Longitude: -86.7788
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Noelle
+Host User ID: 545409065
+Host Profile URL: https://www.airbnb.com/users/show/545409065
+Host Profile URL Source: public user permalink from passport userId
+Noelle is an immersive hotel and creative gathering place in downtown Nashville for adventurous people seeking a true Nashville encounter. Created by some of the area’s finest makers and artists, this one-of-a-kind collaboration is designed specifically to bring guests face to face with the warmth, talent, and delightful unpredictability that make Nashville unique.
+Superhost
+3 years hosting
+18 reviews
+4.89 out of 5 average rating
+3 years of hosting

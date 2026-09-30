@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/43317868
+Latitude: 36.12536
+Longitude: -86.77822
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Studio One! This cozy loft apartment is full of personality and rustic bohemian charm. Located in the heart of Nashville, it is close to everything.
+
+The space
+This top floor unit overlooks the pool and has everything you'll need to enjoy your stay.
+
+- queen memory foam mattress with quality linens
+- fully stocked kitchen
+-smart tv and free wifi so you can access netflix/hulu
+
+** pool is open from mid April to mid September
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Calvit
+Host User ID: 16587828
+Host Profile URL: https://www.airbnb.com/users/show/16587828
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 95%
+Responds within an hour
+Superhost
+12 years hosting
+1208 reviews
+4.67 out of 5 average rating
+12 years of hosting

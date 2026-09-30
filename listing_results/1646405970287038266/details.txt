@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1646405970287038266
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home in the heart of Downtown Nashville!
+
+Located just minutes from Broadway, you're within walking distance of Nashville’s best live music venues, restaurants, bars, and attractions. Despite being in the middle of the action, the unit provides a private escape when you're ready to relax.
+
+This units sleeps 4 and includes amenities such as, WiFi, smart tv, in-unit washer & dryer, keyless entry for easy check-in, professionally cleaned, and more!
+
+Parking $30/night
+
+The space
+This unit comfortably accommodates up to 4 guests, featuring a queen-size bed in the bedroom and a king-size pull-out sleeper sofa in the living room.
+
+Enjoy your favorite streaming apps on the 50-inch Smart TVs.
+
+The kitchen is equipped with all basic essentials for your stay, along with a small dining table that can also be used as a dedicated workspace.
+
+Located in the heart of Nashville, you’ll be within walking distance to some of the city’s most popular attractions:
+
+📍 Nearby:
+• 15 min walk to Broadway (bars & nightlife)
+• 15 min walk to Assembly Food Hall
+• 10 min walk to Bridgestone Arena
+• 10 min walk to Country Music Hall of Fame
+• 8 min walk to Music City Center
+
+Permit #T2022056422
+
+Guest access
+Guests have full access to the entire unit, along with the building’s available amenities, including the pool and 24-hour gym. Enjoy a comfortable, private stay with everything you need!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ascended Luxury
+Host User ID: 168227603
+Host Profile URL: https://www.airbnb.com/users/show/168227603
+Host Profile URL Source: public user permalink from passport userId
+Lives in Converse, Texas
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+18 reviews
+4.78 out of 5 average rating
+6 months of hosting

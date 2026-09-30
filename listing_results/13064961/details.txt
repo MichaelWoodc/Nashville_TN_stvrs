@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/13064961
+Latitude: 36.14702
+Longitude: -86.78707
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our charming Music City condo, The Loretta, is located minutes from downtown and its a close to walk to The Gulch, Music Row, 12th South and Wedgewood Houston areas. You're a short (safe) walk or cab ride away from some of the best food and shopping in the city.
+
+The space
+The condo has everything you need for a comfortable adventure in Music City. Cozy and bright the space is renovated and beautifully decorated with all the amenities you'll need for a home away from home. With two bedrooms the unit is perfect for both a romantic getaway or for a small group of friends.
+
+Guest access
+The whole condo is available for your use!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nora
+Host User ID: 21634585
+Host Profile URL: https://www.airbnb.com/users/show/21634585
+Host Profile URL Source: public user permalink from passport userId
+Hi there! From Ohio originally, I moved to Nashville in 2003 for graduate school and have called Tennessee my home ever since. My husband and I have  lived in East Nashville for the past ten years and we are starting an exciting chapter with our daughter, born in April 2016.  We can typically be found on the back of two wheels or the porch sipping some bourbon.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+823 reviews
+4.83 out of 5 average rating
+10 years of hosting

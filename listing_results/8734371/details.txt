@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/8734371
+Latitude: 36.1636
+Longitude: -86.7809
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Parking is not included. 
+
+This is a historic 3 floor building on the 5th Avenue of the Arts in downtown Nashville.  In the early 1900s it was the Armstrong Corset Shop.  Over the years I have renovated the 3rd floor & roof into 3 unique lofts.
+
+The space
+It's got double spiral stairs that we welded on site.  15-20' ceilings and exposed original brick.  Private rooftop deck in the middle of downtown Nashville.
+
+Guest access
+Unit 302 it's all your's.
+
+Other things to note
+Your loft has a private rooftop deck that only you have access to.  It has hanging tea lights for that summertime ambience.
+
+If you like this style, please check out our lofts in our other building 3 blocks away, the 1882 Lofts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vijay
+Host User ID: 11556474
+Host Profile URL: https://www.airbnb.com/users/show/11556474
+Host Profile URL Source: public user permalink from passport userId
+I like vintage cars, motorcycles, and buildings...born & raised in Nashville, TN...avid tennis player, love to travel.  I am a professional civil engineer, contractor, and business owner.  I purchased a couple historic buildings in Downtown Nashville and have been renovating them into loft apartments.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+695 reviews
+4.98 out of 5 average rating
+11 years of hosting

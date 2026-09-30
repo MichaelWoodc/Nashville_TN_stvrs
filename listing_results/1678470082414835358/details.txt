@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1678470082414835358
+Latitude: 36.22116103118775
+Longitude: -86.70421625323218
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home at Nashville Resort Apartment. This inviting three-bedroom villa in Nashville, Tennessee sleeps up to 8 and has everything you need for a memorable stay.
+
+Ideally situated in Nashville, Tennessee, you'll find plenty of dining, shopping, and attractions nearby.
+
+Guests enjoy resort amenities including pool access, hot tub, fitness center, complimentary Wi-Fi.
+
+The villa features 3 bedrooms and 3 bathrooms, providing plenty of space for your group.
+
+The space
+This comfortable three-bedroom suite accommodates up to 8 guests with 3 bedrooms and 3 bathrooms. Inside you'll find a fully equipped kitchen for preparing meals, in-suite laundry facilities, reliable Wi-Fi connectivity, a television for entertainment. The resort offers shared amenities including swimming pools, a hot tub, a fitness center, outdoor grilling stations for all guests to enjoy.
+
+Guest access
+A valid credit card is required at check-in to cover the refundable security deposit (exact amount confirmed on site). The primary guest checking in must be at least 21 years old and present valid identification. Please share the primary guest's information ahead of time to ensure a smooth arrival. Bedding arrangements and specific layouts may vary between units and cannot be guaranteed in advance. Any applicable local occupancy taxes are collected at check-in or checkout based on the unit and length of stay.
+
+Other things to note
+Photos shown represent the overall style and resort atmosphere; your assigned suite may differ slightly. Full access to all on-site amenities is available throughout your booking, including arrival and departure days. We assign the best available unit at check-in, though specific buildings or locations within the resort cannot be guaranteed. This is a private booking through an individual timeshare owner — we are not part of the resort's management team and help owners cover their maintenance fees during unused periods. You may receive an optional invitation to a timeshare presentation during your stay, but attendance is never required and politely declining is perfectly fine. Guests must agree to the resort's own policies, rules, and any applicable fees at check-in. Only the cancellation policy listed for this booking applies — no additional refunds or adjustments are available outside of it.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anne
+Host User ID: 1678340816291171403
+Host Profile URL: https://www.airbnb.com/users/show/1678340816291171403
+Host Profile URL Source: public user permalink from passport userId
+Fun fact: I have 8 Grandchildren
+I spend too much time: Gardening
+Response rate: 100%
+Responds within an hour
+Superhost
+4 months hosting
+83 reviews
+4.9 out of 5 average rating
+4 months of hosting

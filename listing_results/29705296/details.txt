@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/29705296
+Latitude: 36.15633688312064
+Longitude: -86.77319386408726
+rental_type: Room in boutique hotel
+property_type: BOUTIQUE_HOTEL
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Celebrate the city and your time together with a little more space in our Two Bedroom, One Bathroom Suite. Give yourself room to spread out or bring some friends and family, with 900 sq ft and two bedrooms with king-sized beds, including in-kitchen dining, a stocked mini-bar, a cozy living room, balcony or patio, a bathroom, and optional city views. The two bedroom sleeps up to four people, so make a friend’s day and invite them along for the adventure.
+
+The space
+All Bode guests have access to our vibrant outdoor courtyard, outdoor games and fire pits, Dawn Cafe + Market, and Sidebar.
+- Dawn Cafe + Market (open daily at 7am), your morning stop for coffee, breakfast, brunch, local products, and travel essentials
+- Sidebar (open at 4pm Thurs - Sun), your destination for craft cocktails and good conversation with some of Nashville's best bartenders
+- Light and bright co-working spaces in Dawn to power your workday or take it outside to our outdoor courtyard if you want some fresh air
+- Board games, card games, outdoor fire pits, giant Jenga, and cornhole provide fun for friends, families, kids, and coworkers
+
+Additional details about your room:
+- Full kitchen includes dinnerware, utensils, barware, hand towels, dishwasher, oven, full-size fridge with freezer, microwave, toaster, and coffee maker
+- On-site staff is available to help with anything you might need and give local recommendations
+- Bode-branded bath amenities
+- A la carte housekeeping
+- Complimentary high-speed WiFi
+- 49" TV with Chromecast
+- USB port nightstands
+- Fine linens and towels
+
+Guest access
+Parking is $38 per night, per vehicle. Bode on-site parking is first come, first served at 401 President Ronald Reagan Way. Overflow self-parking is available at 500 2nd Ave South. Pay via QR code at chosen parking site. You can validate for as many cars as you would like.
+
+Other things to note
+We do require a credit card on file for incidentals and will request this from you before giving check-in details. A $200 authorization will be held until after check out.
+
+MUST BE 21 OR OLDER TO BOOK. By booking this reservation you are agreeing that you are at least 21 years of age. You will be asked to submit a photograph of your government-issued ID as proof of age and identity after booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mariela
+Host User ID: 197082329
+Host Profile URL: https://www.airbnb.com/users/show/197082329
+Host Profile URL Source: public user permalink from passport userId
+Combine everything you know and love about Airbnb, with the very best amenities and hip vibe of a boutique hotel. That means private, comfortable spaces for a solo getaway, a romantic weekend, or a group event with your crew. All our properties have social spaces, on-property bars, and are located in the heart of the action, giving every guest a quintessential local feel that makes you feel less like a tourist and more like an adventurer.
+
+TMC Hospitality consists of two brands: Bode and Drift.
+
+Bode celebrates the ways in which we travel together, providing a comfortable and connected modern hotel experience for group travelers, solo adventurers, couples, and more. We offer one to four-bedroom stays that offer a full living room, full kitchen, and a spacious layout for you and your crew to spread out and feel right at home.
+
+Drift is a modern hotel that celebrates its dualities: a spare and minimalist aesthetic but a vibrant and friendly demeanor. It’s the perfect space to rest and reset, or let it be a springboard for an adventure. Drift focuses on more intimate getaways with rooms that sleep only two. Want to make it a group event anyways? Book multiple rooms or check out our entire property buyout listing!
+My work: TMC Hospitality
+Lives in Irvine, California
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+6090 reviews
+4.8 out of 5 average rating
+8 years of hosting

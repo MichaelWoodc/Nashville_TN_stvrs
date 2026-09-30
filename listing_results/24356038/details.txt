@@ -1,0 +1,96 @@
+URL: https://www.airbnb.com/rooms/24356038
+Latitude: 36.1583
+Longitude: -86.8164
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 15
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sleeps 20 | 2 Units | 2 Rooftops | Downtown Nashville Views
+
+Experience the best of Music City in two modern Nashville townhomes, rented together and ideal for large groups, families, and event trips. This listing includes both units and comfortably sleeps up to 20 guests. Enjoy two private rooftop decks with skyline views, outdoor TVs, and lounge seating. Spacious living areas, private garages, and free street parking, just minutes from Broadway and downtown Nashville..
+
+The space
+Thoughtfully designed for an unforgettable stay in Nashville, this two-unit setup is ideal for large groups, families, and event trips. Every detail across both homes has been carefully curated to provide comfort, space, and a seamless guest experience.
+
+Two side-by-side Units
+Perfect for groups who want to stay together while enjoying extra space and privacy.
+
+Kitchens & Dining
+
+Two fully equipped kitchens with cookware and essentials
+
+Keurig coffee makers with pods, sugar, milk powder, and stirrers
+
+Two spacious dining areas with bar seating
+
+Entertainment & Technology
+
+Two 60” LED Smart TVs with cable (indoors)
+
+Four 55” LED Smart TVs, including weatherproof rooftop TVs, with cable
+
+Two Amazon Alexa devices with Spotify
+
+Super-fast Wi-Fi throughout both units
+
+Modern Conveniences
+
+In-unit washers and dryers
+
+Irons and ironing boards
+
+Velvet hangers
+
+Smart thermostats
+
+Smart locks with keyless entry
+
+Outdoor Living
+
+Two private rooftop decks with downtown Nashville skyline views
+
+Two private balconies for fresh air and city vibes
+
+Hotel-Style Essentials
+Fresh towels, shampoo, body wash, hairdryers, toilet paper, tissues, and starter supplies are provided for a comfortable stay.
+
+Recharge in style before heading out to experience the best of Music City, just minutes from Broadway, downtown Nashville, and top attractions.
+
+Guest access
+Guests will have private, exclusive access to both entire homes, including two private rooftop decks and two 2-car garages. The listing is rented as a complete two-unit stay, making it ideal for large groups who want to be together while enjoying extra space and privacy.
+
+Each home includes its own living areas, kitchens, rooftops, and garage parking. Street parking is also available if needed. Self check-in with smart locks allows for a smooth and flexible arrival.
+
+Other things to note
+This listing includes two side-by-side homes rented together and is designed for large groups enjoying Nashville. While the homes are well maintained and thoughtfully designed, you may hear typical city and neighboring sounds, especially during busy weekends.
+
+The rooftops are a highlight of the property. Please be respectful of neighbors and observe quiet hours in the evening.
+
+Each home has a 2-car garage accessed from the rear alley. Street parking in front of the homes is also permitted if needed. Garage access details will be provided before check-in.
+
+Starter supplies such as toiletries, paper goods, and coffee are provided. Smart TVs are ready for guests to log in to their personal streaming accounts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

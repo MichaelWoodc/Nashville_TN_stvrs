@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/43323396
+Latitude: 36.18358
+Longitude: -86.75537
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sanitized spacious fully furnished one bedroom apartment (sleeps 4)- a home away from home - close to Downtown Nashville, other sites, and attractions. In close proximity to public transportation, restaurants, banks, grocery stores, and more!! Free Netflix. Free Parking. Free Coffee. Free Fast WiFi and more!
+
+The space
+A spacious 1 BR, 1 BA with modern amenities & high ceilings for an open, comfortable feel. Fully equipped kitchen with a coffee maker. Trendy decor and your own private patio for your morning coffee or tea.  Living area with TV with Roku (Netflix included) and high-speed Internet. If you are looking for a luxury hotel accommodation, then you may want to look elsewhere, but if you are looking for an authentic Nashville experience in Historic East Nashville, then this is the place for you!
+
+Layout:
+Room 1:  Queen bed (memory foam mattress)
+Additional 2 Roll Away Beds. 
+
+Accommodates: 4. people
+
+Our COVID-19 Sanitation cleaning procedures include:
+
+1. Washing hands and wearing disposable sanitary gloves or rubber cleaning gloves
+2. Our cleaning solutions are 70% alcohol
+3. Cleaning only with disposable wipes. Using cotton or microfiber otherwise.
+4. Using a color safe sanitizing spray to sanitize soft surfaces such as furniture, edges or curtains and decorative pillows.
+5. Disinfecting all light switches, windows.
+6. Disinfecting thermostat, railings, garbage cans, and all surfaces
+7. Washing all dishes/utensils.
+8. Disinfecting all appliances
+9. Disinfecting remotes, blow dryers, cords, and any other surfaces or items in the home
+10.  Washing all bed linens, towels, and wash clothes in hot water
+11. Hand sanitizer as well as disinfecting wipes is provided for guests for use during their stay.
+
+Guest access
+Guest will have full access to the apartment, connected porch and driveway.
+
+Other things to note
+Our beautiful apartment is in the hip East Nashville area less than 1 mile from Broadway. Downtown's vibrant nightlife scene is only a 5-minute drive away. Also, we are only 200 feet away from Pharmacy Burger, Mas Taco, Lyra, The Sweet Bean, and a Mini Mart; a stone's throw from sought-after eateries in the popular Five Points neighborhood.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sonia
+Host User ID: 344647926
+Host Profile URL: https://www.airbnb.com/users/show/344647926
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+386 reviews
+4.8 out of 5 average rating
+6 years of hosting

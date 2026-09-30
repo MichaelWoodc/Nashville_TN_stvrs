@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1468233345320768358
+Latitude: 36.14389
+Longitude: -86.79527
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 11
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Music Row – widely considered the heart of Nashville's music industry is a prime location that offers historic charm and easy access to the city’s top attractions. This beautifully remodeled vintage space on Music Row with eight bedrooms and 6 baths, making it ideal for families or groups seeking an authentic Nashville experience. This location has exploded with new and trendy restaurants, venues, and shops in the past few years. It is close to everything, very quiet and peaceful at night.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lewis
+Host User ID: 50400360
+Host Profile URL: https://www.airbnb.com/users/show/50400360
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+11 years hosting
+117 reviews
+4.94 out of 5 average rating
+11 years of hosting

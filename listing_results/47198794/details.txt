@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/47198794
+Latitude: 36.21933
+Longitude: -86.70369
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled on the banks of the winding Cumberland River in Nashville, Tennessee, and just a mile from the legendary Grand Ole Opry and the immense Mills Outlet Mall, Club Wyndham Nashville treats guests to a central location near the city's famed attractions, museums, universities, shops and restaurants. Everything you need for an unforgettable Nashville vacation is just a short walk or drive away. Enjoy the friendly atmosphere and Southern hospitality.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Haven Vacations
+Host User ID: 375678301
+Host Profile URL: https://www.airbnb.com/users/show/375678301
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m the host behind Maxx Vacay. I specialize in booking premium resort stays through owner inventory, giving guests access to high-end properties at better value. I’ve hosted many trips and pride myself on clear communication, fast responses, and making sure everything runs smoothly from booking to check-in. My goal is simple—give you a stress-free, memorable stay.
+My work: Maxx Vacay bookings
+I spend too much time: Looking for Inventory
+Response rate: 60%
+Responds within a day
+6 years hosting
+197 reviews
+4.64 out of 5 average rating
+6 years of hosting

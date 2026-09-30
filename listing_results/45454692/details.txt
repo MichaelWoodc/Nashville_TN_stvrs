@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/45454692
+Latitude: 36.18041
+Longitude: -86.75439
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into your own HGTV episode! This professionally remodeled apartment by Masters of Flip’s Kortney Wilson sits in the heart of Nashville’s coolest neighborhood - East Nashville. Walk to Five Points’ legendary music venues, award-winning restaurants, and artisan coffee shops - all while being 5 minutes from downtown Nashville.
+
+The space
+👌 NOTABLE AMENITIES:
+
+- 24 hour keyless access with key code
+- Fast WiFi — 390 Mbps
+- Fully equipped kitchen
+- Memory foam mattress
+- 2x Smart TVs (living room + bedroom)
+- Free street parking always available
+- Dedicated workspace
+- Board/card games
+
+🚶‍♀️ WALK TO NASHVILLE'S BEST-KEPT SECRETS:
+
+- Five Points music venues: The Basement, 5 Spot
+- Award-winning dining: Butcher and Bee, Smith and Lentz, Lockeland Table, Noko
+- Local Coffee: Middle Grounds Coffee, Barista Parlor, Subliminal Coffee, East Park Donuts and Coffee
+- Shelby Park & Golf Course: perfect for morning runs
+- Boutique shopping: Shoppes on Fatherland, Talk Nice Vintage
+- Downtown Nashville (5 minutes): skip the tourist crowds, live like a local
+
+⭐ 600+ FIVE-STAR REVIEWS:
+
+"The apartment is beautiful (clearly professionally done), but the East Nashville location made our trip! We walked everywhere and discovered amazing places we never would have found downtown."
+- Recent Guest
+
+🎵 HAPPENING NOW:
+
+East Nashville's walkable neighborhood puts you steps from cozy coffee shops, local boutiques like Talk Nice Vintage, and some of the city's best food. Live music here skews indie and intimate - a different vibe than Broadway's honky-tonks (though those are just minutes away when you want them).
+
+Perfect for solo travelers, couples, and anyone who prefers local Nashville over tourist traps!
+
+Other things to note
+“Go Blonde” - HGTV Masters of Flip: Season 2, Episode 13
+
+Registration Details
+STRP#2020016667
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kirk
+Host User ID: 2407507
+Host Profile URL: https://www.airbnb.com/users/show/2407507
+Host Profile URL Source: public user permalink from passport userId
+Music Industry Entreprenuer and Army Veteran
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+707 reviews
+4.91 out of 5 average rating
+6 years of hosting

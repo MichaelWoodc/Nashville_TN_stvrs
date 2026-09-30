@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1765398192111515356
+Latitude: 36.1276
+Longitude: -86.7911
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of one of Nashville's most-loved neighborhoods.  Our charming 1930's bungalow is tucked into 12 South, just a short walk from restaurants, coffee shops, boutiques and local favorites.  Relax on the front porch, enjoy the private back yard and patio, or head downtown for a night out - then come home to a quiet neighborhood retreat.  With 3 bedrooms, 2 bathrooms, and room for up to 6 guests, it's a great home base for families, friends, and Nashville weekends.
+
+Registration Details
+2119964
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 1765396452963550754
+Host Profile URL: https://www.airbnb.com/users/show/1765396452963550754
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Response rate: 100%
+Responds within an hour
+New Host
+1 reviews
+5.0 out of 5 average rating

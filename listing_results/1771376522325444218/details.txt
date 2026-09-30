@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1771376522325444218
+Latitude: 36.17444
+Longitude: -86.75999
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your modern Nashville escape at The Jesse, a brand-new boutique condo in the heart of East Nashville. This beautifully designed 2-bedroom, 2-bathroom home offers the perfect mix of comfort, style, and convenience for your Nashville stay.
+
+The space
+Your Stylish East Nashville Getaway 🎸✨
+
+Welcome to your modern Nashville escape at The Jesse, a brand-new boutique condo in the heart of East Nashville. This beautifully designed 2-bedroom, 2-bathroom home offers the perfect mix of comfort, style, and convenience for your Nashville stay.
+
+Step inside to a bright, thoughtfully designed space with a comfortable living area, a fully equipped kitchen, and stylish finishes throughout. After a day of exploring Music City, unwind on your private terrace with your morning coffee or an evening drink.
+
+Guests also have access to the building’s impressive amenities, including a resort-style pool, outdoor lounge areas, a fitness center and a sauna.
+
+Located right along Main Street in East Nashville, you’ll be surrounded by a variety of restaurants, coffee shops, and a grocery store, making it easy to grab a meal, coffee, or everyday essentials just steps from your stay. Nissan Stadium is just 0.75 miles away, and you’ll also be just minutes from Downtown Nashville, Germantown, and the East Bank.
+
+Whether you’re visiting for a weekend getaway, a concert, a special celebration, or simply want to experience Nashville like a local, this stylish condo gives you the perfect home base.
+
+What you’ll love:
+
+🛏️ 2 comfortable bedrooms
+🛁 2 full bathrooms
+🍳 Fully equipped kitchen
+🌿 Private terrace
+🏊 Resort-style pool
+💪 Fitness center
+🍽️ Restaurants and coffee shops nearby
+🛒 Grocery store nearby
+🏟️ Nissan Stadium just 0.75 miles away
+📍 Prime East Nashville location
+🎸 Minutes from Downtown Nashville and Music City attractions
+
+Come relax, explore, and enjoy everything Nashville has to offer from your stylish East Nashville home base!
+
+Guest access
+You have access to the entirety of the home!
+
+Other things to note
+While the neighborhood is generally quiet and safe, it’s important to remember that this is an urban environment. We encourage you to stay mindful of your surroundings and practice common sense. For your safety, we recommend not leaving valuables in your car and ensuring that doors and windows are securely locked whenever you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

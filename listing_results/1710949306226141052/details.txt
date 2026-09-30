@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1710949306226141052
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Aloha! Welcome to the Cowgirl Cabana where you will experience the perfect mix of Coastal and Cowgirl! Just a 5 minute walk to the neon lights of Broadway as well as a 5 minute walk to the Bridgestone Arena, and a 3 minute walk to the Music City Center! We offer a beautiful, safe, and fun spot for you and all your favorite people to make memories and take on the city! Take advantage of the included access to our heated resort pool, amazing sky lounge, and gym! Enjoy your cute and fun stay!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zully & Josh
+Host User ID: 48915036
+Host Profile URL: https://www.airbnb.com/users/show/48915036
+Host Profile URL Source: public user permalink from passport userId
+We’ve been happily married for over 23 years and are proud high school sweethearts. We love traveling and creating unforgettable memories together. The first time we visited Nashville, we fell in love with its vibrant energy, music, and charm. We hope your stay is just as memorable and that you enjoy this amazing city as much as we do. Welcome to Nashville!
+Born in the 80s
+Pets: English bull dog Fiona
+Response rate: 100%
+Responds within an hour
+3 months hosting
+16 reviews
+5.0 out of 5 average rating
+3 months of hosting

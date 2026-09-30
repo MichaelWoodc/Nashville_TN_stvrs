@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1355157690994722669
+Latitude: 36.17913
+Longitude: -86.75522
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Studio guesthouse in East Nashville located walking distance to five points. Enjoy private and quiet space located in backyard of our home but a quick walk to bars, restaurants and coffee shops. Includes king bed, kitchenette, bathroom and closet. Stove, microwave, toaster oven available. No dish washer or washer and dryer included.
+
+The space
+Guest house located in our fenced backyard.
+
+Guest access
+Entire guesthouse. No access to main house or back porch attached to main house.
+
+Registration Details
+LL202510749
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebekah
+Host User ID: 31138198
+Host Profile URL: https://www.airbnb.com/users/show/31138198
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Nurse Anesthetist
+2 years hosting

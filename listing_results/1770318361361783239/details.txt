@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1770318361361783239
+Latitude: 36.2203
+Longitude: -86.7048
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Such a great resort and location !
+
+The space
+Nestled on the banks of the winding Cumberland River in Nashville, Tennessee, and just a mile from the legendary Grand Ole Opry and the immense Mills Outlet Mall, This Nashville Resort treats guests to a central location near the city's famed attractions, museums, universities, shops and restaurants. Everything you need for an unforgettable Nashville vacation is just a short walk or drive away. Enjoy the friendly atmosphere and Southern hospitality.
+
+Immerse yourself in Nashville country music history at the Grand Ole Opry and get to know country music's greatest at the Country Music Hall of Fame and Ryman Auditorium. Not much of a country music fan? Don't miss a visit to the Parthenon in Centennial Park, or premier shopping at Opry Mills Mall. Families traveling with kids will definitely want to explore the exhibits at the Adventure Science Center and Nashville Zoo. The Jack Daniels Distillery tour is a must for those looking to delve into the history of this famous American spirit. Dining in Nashville offers an exhilarating time out. Access to the General Jackson showboat is only one mile away
+
+This Nashville Resort provides exceptional vacation amenities and activities for your best vacation experience. You'll never want to step out of this Nashville resort with access to two magnificent outdoor swimming pools and soothing outdoor hot tub. Families will appreciate the resort's basketball court, table tennis and organized activities. Complimentary Wi-Fi throughout the resort lets you stay connected all the time and look up pertinent Nashville travel information. Don't miss a scheduled work out at the fitness center equipped with cardio workout machines and free weights. The concierge desk is another outstanding amenity as well !.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Max
+Host User ID: 537329916
+Host Profile URL: https://www.airbnb.com/users/show/537329916
+Host Profile URL Source: public user permalink from passport userId
+We love to travel anywhere and everywhere, and enjoy helping others travel as well.
+Response rate: 100%
+Responds within a few hours
+Superhost
+3 years hosting
+128 reviews
+4.87 out of 5 average rating
+3 years of hosting

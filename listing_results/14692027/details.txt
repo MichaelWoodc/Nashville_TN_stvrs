@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/14692027
+Latitude: 36.14728
+Longitude: -86.78822
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This sprawling Abby Gordon Designs decorated home includes 3 queen bedrooms, a 4th room that is a twin bunk room, and 3 full bathrooms. This home is in a prime location in the Music Row neighborhood located less than a mile from the Gulch(walking distance) and less than a mile from Broadway! Enjoy our fully stocked chef’s kitchen, front porch swing, back deck with grill and string lights and all that this neighborhood has to offer! Stay with us and all that downtown Nashville has to offer!
+
+The space
+-WALK to the Gulch!
+-WALK to Broadway!
+-WALK to restaurants & bars!
+-5 Minute drive to 12th Avenue South!
+-7 Minute drive to Bridgestone Arena!
+-7 Minute drive to Music City Center!
+-9 Minute drive to Nissan Stadium!
+-WALK to studios & record labels!
+
+-2,000 square feet open living/dining/kitchen
+-Remodeled 2015
+-Interiors by Abby Gordon Designs
+-SINGLE LEVEL!
+-4 Private Sleeping Rooms!
+
+-3 QUEEN beds
+-4 TWIN beds in bunks
+-3 FULL bathrooms
+
+-Zinus Green Tea Mattresses
+-Fully stocked chef's kitchen
+-FIRE PIT in backyard
+-GAS GRILL
+-Hairdryers
+-Dreamy Soft Linens
+-High Speed Wifi
+-Full Length Mirrors
+-FREE Off Street Parking for 2 Cars
+-Additional FREE on street parking
+
+-Washer/Dryer
+-Iron/Ironing Board
+-Full Supply of Toilet Paper/Paper Towels
+-Shampoo, Conditioner, Body Wash
+-Detergent
+
+-Porch Swing
+-Neighborhood has sidewalks
+-Quiet street
+-GREAT neighbors!
+
+*We offer substantial discounts when you book 4, 5, 6 nights and more. Stay longer and SAVE!
+
+Guest access
+The whole house!
+
+Other things to note
+*We highly recommend purchasing travel insurance as there are no exceptions made to our cancellation policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neal
+Host User ID: 15586733
+Host Profile URL: https://www.airbnb.com/users/show/15586733
+Host Profile URL Source: public user permalink from passport userId
+I've been a Superhost on Airbnb for 10 years and love sharing my favorite city with people from all over the world!
+Born in the 80s
+My work: Hospitality, Music
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5622 reviews
+4.93 out of 5 average rating
+12 years of hosting

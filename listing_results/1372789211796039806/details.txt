@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1372789211796039806
+Latitude: 36.2197
+Longitude: -86.70505
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come enjoy Nashville. Bring the whole family or your friends to this great place with lots of room for fun. You are located next to the Grand Ole Opry, Opry Mills Outlet Mall (inside), Water Country, lots of food and other options, 15-20 minute ride to the downtown Nashville area. Very close to the airport exit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Charita
+Host User ID: 319970563
+Host Profile URL: https://www.airbnb.com/users/show/319970563
+Host Profile URL Source: public user permalink from passport userId
+I love comedy shows, live music, cooking, and just enjoying life.
+Where I went to school: Tennessee State University
+My work: Engineering
+Response rate: 100%
+Responds within a day
+2 years hosting
+1 reviews
+5.0 out of 5 average rating
+2 years of hosting

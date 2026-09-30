@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/24177810
+Latitude: 36.15609
+Longitude: -86.77144
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great location! Just a few blocks from Ascend Amphitheater, Broadway, and CMA Fest!
+
+One bedroom (king sized bed), one bathroom (newly renovated), Murphy bed (queen sized bed) situated on 2nd Avenue just a short walk to Broadway! 
+
+STRP: T2020041635
+
+The space
+-2nd floor condo
+-1 bedroom, 1 bathroom
+-king sized bed, queen sized Murphy bed, sectional sofa, blow-up mattress
+-stocked with snacks and bottled water 
+-toiletries, toilet paper, towels, pots and pans, coffee maker, etc. included
+
+Guest access
+-washer/dryer
+-community area
+-grill
+-gated parking/tagged guest parking
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brooke
+Host User ID: 164277636
+Host Profile URL: https://www.airbnb.com/users/show/164277636
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+300 reviews
+4.92 out of 5 average rating
+8 years of hosting

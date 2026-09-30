@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1345074889273022736
+Latitude: 36.1538
+Longitude: -86.7753
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*No cleaning checklist on checkout!!*
+
+**Walk to Broadway | Near Concerts, Sports & Comedy!**
+Stay at Sentral Sobro—just a 13-min walk to Broadway and steps from top venues. Quick access to Bridgestone Arena, Ryman Auditorium, Nissan Stadium & more. Enjoy fast Wi-Fi, full kitchen, gym access and modern comfort.
+
+ Comfortably sleeps 4 with a king sized bed + sofa pullout.
+
+-One parking spot included no extra charge!
+-Gym Access!
+-Pool access!
+-Proffessionally cleaned between each stay!
+
+The space
+Permit number T2022056615
+
+Guest access
+Entire home as well as shared spaces such as pool and workout area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Connor
+Host User ID: 526090919
+Host Profile URL: https://www.airbnb.com/users/show/526090919
+Host Profile URL Source: public user permalink from passport userId
+My work: Chef/Jiu Jitsu Coach
+Favorite song in high school: Whatcha See is Whatcha Get
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+147 reviews
+4.99 out of 5 average rating
+2 years of hosting

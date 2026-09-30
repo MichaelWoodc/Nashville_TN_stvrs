@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1041395258407926380
+Latitude: 36.14787896034486
+Longitude: -86.78121647619423
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything when you stay at this centrally-located place.
+
+AMENITIES
+
+Outdoor swimming pool (open seasonally)
+Furnished pool deck with gas grill
+Private landscaped courtyard
+Fitness center
+Public Wi-Fi at pool
+Lounge
+Two secured elevators
+On-site overnight security
+Dog walk (note: not all condos are dog-friendly)
+
+The space
+Experience Nashville vacation perfection at this two-bed/two-bath condo in Illume - a fresh, new Music City community. Set in Gulch View - a prime locale near downtown and The Gulch - this urban escape is minutes from the city’s incredible music scene, fantastic dining, local shopping, and nightlife hotspots. Luxe amenities include a beautifully landscaped courtyard, a fitness center, and a seasonal pool. Pairing contemporary style with a sustainable design, this forward-thinking retreat includes features like energy-efficient systems and a green roof. You’ll love the stylish natural accents, the all-suite layout, and the shaded private patio!
+
+Relax in the inviting living area, furnished with two armchairs and a queen-size sleeper sofa. Stream favorite shows on the 55-inch smart TV. Other highlights include high ceilings, large windows, and modern artwork. Appointed with granite countertops and stainless steel appliances, the kitchen is perfect for any home chef. Share culinary masterpieces around the table for four in the dining area.
+
+This condo sleeps six guests between two bedrooms and a queen-size sleeper sofa. You’ll find a plush king-size bed and a 43-inch smart TV in the master suite. The en suite bathroom boasts a tub/shower combination. Sleep soundly on a queen-size bed in the guest suite. The en suite bathroom is configured with a walk-in shower.
+
+The private patio offers a shaded hideaway on your tree-lined street. Two bistro tables for two invite you to enjoy morning coffee in the Nashville breeze.
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you prior to your reservation.
+
+Other things to note
+Please note: this home resides in a noise-sensitive area. Our smart home technology will alert our team if excessive decibel or occupancy levels are detected, allowing us to reach out directly with a reminder of maximum occupancy and quiet hours. This technology is privacy compliant, and only monitors the presence of decibels and devices-not any personal conversation or information.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

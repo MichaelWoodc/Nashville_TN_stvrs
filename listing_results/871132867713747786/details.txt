@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/871132867713747786
+Latitude: 36.1251
+Longitude: -86.7749
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+WestWood Shed • A Vacation & Work Stay: a unique & relaxed space to entertain. Four Private Apartment Suites—each with a front living room & open kitchen for entertaining your visitors, offer a keyed separate bedroom & laundry—all within your private Suite. Suite #2, a guest favorite, is an ideal place to work and vacation—a blend of comfort & functionality.
+
+The renowned City of Berry Hill (inside Nashville) has over 60 music agencies & recording studios, and an efficient police department.
+
+The space
+For your visitors, Suite #2 has a large private balcony deck upstairs that overlooks GEODIS Park (1 mile) and downtown Nashville (~2.5 miles). Sit in the shade and enjoy the sunsets. Your Suite also has an office-living room, open kitchen, and front visitor's restroom.
+
+Lock away your private area—a large, 4' x 8' keyed-pocket door separates Suite #2's office living room from the private living space. The bedroom has an additional TV, a separate full bathroom, an incredible walk-in closet, and a laundry closet with a washer-dryer and more storage. This separation allows you to share your office-living room with your visitors and co-workers while blocking access to your personal space.
+
+Drip coffee makers are provided with 2 flavors of sealed coffee packages—Maxwell House medium dark and dark roast Cafe Bustelo. You may take home whichever package you open if you'd like; open packages will be thrown out. There is also a kettle with green and black tea bags and a few hot chocolates. We also provide 4 organic milk boxes and some munchies.
+
+Every kitchen is well stocked with baking and cookware, both casual and nice plates, stemware, and just about everything you'll need to feel at home. Below the kitchen sink, you'll find dish cleaning supplies, including dish soap and dishwasher pods. When you leave, the dish brush, if used, goes into the dishwasher, and the sponge is replaced.
+
+Your apartment has a washer and dryer with fragrance-free washer soap. We provide towels and linens, a hair dryer, shampoo, conditioner, body wash, and hand soaps. The linens for the 2nd bed do not remain in the Suite—during the booking process you can arrange for additional guests and the 2nd bed will be completely setup with your prompted request.
+
+Guest access
+Guests have full access to their private apartment Suite. Door Codes are sent when your payment has cleared and your Suite is ready for check-in, with directions to the door of your private Suite.
+
+Each Suite has a keypad on the front door, with interior keyed doors to lock off the bedroom and shower/laundry area. This allows you to share your office-living room with your visitors and co-workers while blocking access to your personal space. You may deadbolt lock the front door at night for added security and block access to the keypad if you've shared your private code with a co-worker or visitor.
+
+Other things to note
+You'll find a menu of restaurant recommendations in your Suite. Also, the City of Berry Hill's STR regulations are in the binder on the desk.
+
+Registration Details
+2024-11-21-603
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Judy
+Host User ID: 492513588
+Host Profile URL: https://www.airbnb.com/users/show/492513588
+Host Profile URL Source: public user permalink from passport userId
+The WestWood Shed — originally built in 1986 for Gaertner Cabinet Company's wood shop; Robert, a master craftsman & his wife Judy, a designer began renovating the WoodSHOP into the WestWood SHED before the 2020 pandemic. Both having worked from home offices for over 30 years, understood the convenience and need for these unique office designs, where your private living quarters remain locked way from your business patrons. Berry Hill's business district allows this unique home office experience, and the Gaertner's are happy to share it with you — a space to work & relax.
+My work: Gaertner Cabinet Co. & Northcutt & Associates
+Lives in Berry Hill, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+204 reviews
+4.99 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/18958675
+Latitude: 36.14449
+Longitude: -86.78504
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New vertical in the south gulch neighborhood with awesome rooftop views, conveniently located to all of Nashvilles hottest spots!
+
+The space
+It's the perfect location to all things Nashville!  Uber most anywhere downtown for under $6!
+
+Guest access
+This is a stand alone house in an area with other verticals.  You will have access to all of the house and the garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rob
+Host User ID: 54632352
+Host Profile URL: https://www.airbnb.com/users/show/54632352
+Host Profile URL Source: public user permalink from passport userId
+I am originally from Nashville Tennessee, love to travel, and meet new people.
+Where I went to school: Lipscomb
+My work: Investments
+9 years hosting
+53 reviews
+4.87 out of 5 average rating
+9 years of hosting

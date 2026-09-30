@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1087751290535161803
+Latitude: 36.1952
+Longitude: -86.7733
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Minutes from Broadway! Welcome to Long Live Cowgirls 615, Nashville’s premier Disco Cowgirl retreat. Perfect for bachelorette parties, girls’ weekends, and group getaways, this home comfortably sleeps up to 12 guests. Enjoy a rooftop lounge with skyline views, a private hot tub, dedicated Glam Room, outdoor TVs, and a fully equipped kitchen designed for entertaining. Take your Nashville experience to the next level with optional rooftop yoga, custom mimosa bars, and mobile IV services.
+
+The space
+First Floor  
+Glam Room with upgraded vanities, lighted mirrors, and storage • Fully stocked kitchen • Dining area • Living room • Half bath
+
+Second Floor  
+Primary Suite: King bed, twin bed, full sleeper sofa, walk-in closet, and private bath  
+Queen Bunk Room: Custom queen-over-queen bunks  
+Bunk Room: Two twin-over-twin bunks  
+Shared full bathroom
+
+Third Floor  
+Partially covered rooftop lounge with ample seating, Smart TV, and panoramic downtown views
+
+Outdoor Space  
+Private fenced backyard with hot tub, grill, two decks, dining area, lounge seating, outdoor TV, and yard games.
+
+Guest access
+Guests enjoy exclusive access to the entire Disco Cowgirl retreat, including the rooftop lounge with skyline views, private hot tub, and fully fenced backyard.
+
+A personalized keyless entry code will be provided prior to arrival for seamless self check-in.
+
+Laundry access is available for extended stays—please see House Rules for details.
+
+Check-in: 4:00 PM  
+Check-out: 10:00 AM
+
+Other things to note
+A digital House Manual and customized Airbnb Guide are provided upon arrival via QR code, giving you easy access to property information, local recommendations, and stay details.
+
+Designed with group getaways in mind, the home features custom murals, curated décor, photo-worthy spaces, and thoughtful amenities throughout.
+
+Enhance your stay with optional add-on experiences, including rooftop yoga, mimosa bar setups, and mobile IV hydration services. Ask about availability when booking.
+
+Registration Details
+2021083096
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tara
+Host User ID: 13831494
+Host Profile URL: https://www.airbnb.com/users/show/13831494
+Host Profile URL Source: public user permalink from passport userId
+Living Life and traveling as much as we can. Love to host you in our amazing space.
+Born in the 80s
+My work: Airbnb Owner/Host
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+63 reviews
+5.0 out of 5 average rating
+3 years of hosting

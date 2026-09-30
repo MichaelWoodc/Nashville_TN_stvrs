@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1228372177905773073
+Latitude: 36.2201
+Longitude: -86.7057
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville's vibrant music scene at Club Wyndham Nashville. Our one-bedroom suites accommodate up to four guests, featuring a king bed in the master bedroom and a queen sleeper sofa in the living area. Enjoy a kitchenette with modern appliances, including a refrigerator, microwave, and coffee maker. Resort amenities include indoor and outdoor swimming pools, a fitness center, and a hot tub. Located just one mile from the Grand Ole Opry, it's ideal for music enthusiasts and families.
+
+The space
+Welcome to our cozy one-bedroom suite at Club Wyndham Nashville. The master bedroom features a comfortable king-sized bed, while the living area includes a queen-sized sleeper sofa, accommodating up to four guests. The kitchenette is equipped with a refrigerator, microwave, and coffee maker, allowing you to prepare light meals during your stay. The suite also offers a private balcony, providing a relaxing space to unwind. Additional amenities include flat-screen televisions, complimentary Wi-Fi, air conditioning, and an in-room safe for your convenience.
+
+Guest access
+Guests have full access to the suite and the resort's amenities, including indoor and outdoor swimming pools, a fitness center, and a hot tub. The resort also offers concierge services to assist with planning activities and dining reservations. Complimentary Wi-Fi is available throughout the property, and parking is provided for guests.
+
+Other things to note
+Check-in is at 4:00 PM; check-out is at 10:00 AM. Guests must be at least 21 years old to check-in.
+
+At check-in, a valid government-issued ID and a major credit card matching the primary guest's name are required. A $250 security deposit is due at check-in and will be released upon check-out; it may take 7–14 business days to reflect in your account.
+
+Pets are not permitted. Smoking is prohibited within resort buildings; designated smoking areas are available. Violations of the smoking policy will incur a fee.
+
+Special requests are subject to availability at check-in and may incur additional charges. Late check-outs may be available for a fee, subject to room availability and occupancy levels; please ask the front desk 24 hours before departure.
+
+The property is equipped with air conditioning and ceiling fans for your comfort. Complimentary Wi-Fi is available throughout the resort. Please note that on-site parking is limited; one vehicle is permitted per reservation.
+
+The resort may charge your credit card for any violations of its rules and regulations, including but not limited to smoking and pet policies, and any damages caused by you or your guests. Violations may result in additional fines and penalties, including removal from the premises without a refund.
+
+To finalize your reservation, please provide the guest's name, address, phone number, and email within 48 hours of booking. Failure to do so may result in cancellation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Braxton
+Host User ID: 590701715
+Host Profile URL: https://www.airbnb.com/users/show/590701715
+Host Profile URL Source: public user permalink from passport userId
+I love exploring the planet, learning about different cultures, and discovering new places. I'm also a big fan of anything that involves the ocean and starts with an “s," such as scuba diving, swimming, surfing, and snorkeling. I love meeting people worldwide and look forward to connecting with you as a host or traveler.!
+Born in the 90s
+Where I went to school: University of Central Florida
+Response rate: 2%
+Responds within a few days or more
+2 years hosting
+137 reviews
+4.58 out of 5 average rating
+2 years of hosting

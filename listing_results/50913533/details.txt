@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/50913533
+Latitude: 36.14826
+Longitude: -86.77988
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Downtown Nashville--Pool Open March 1, 1 bedroom, 1 bathroom condo that sleeps up to 4 guests located near Downtown and within walking distance of The Gulch.  Fast Uber ride to everything Nashville.  Very clean top floor unit with private balcony overlooking the heated pool, landscaped courtyard and views of the West Nashville skyline.  Condo offers free garage parking, onsite gym, fully stocked kitchen, free WiFi, and freshly laundered luxury sheets and towels.  Owner Managed.
+
+The space
+Our condo is located in The Illume, a new mid-rise condominium in the Gulch View neighborhood of Nashville. 
+
+Our one bedroom, one bathroom unit features:
+
+- Sleeping up to 4 guests:
+     *  Master Bedroom with Queen Size Bed
+     *  Living Room with Queen Size Sleeper Sofa w/ Memory Foam Mattress
+     *  Living Room with Twin Size Sleeper Ottoman w/Memory Foam Mattress
+     *  Twin Air Mattress is available if needed
+
+- Fully stocked kitchen with a dining table
+- Washer & dryer
+- Private balcony overlooking the pool, courtyard & West Nashville skyline
+- Free WiFi
+- 65” internet enabled TV
+- Free gated, garage parking
+- Heated pool
+- Onsite gym
+- Gas grill located in the pool area courtyard
+
+Guest access
+There is one dedicated, free parking space assigned to our condo in the gated underground garage.  Additional free overflow parking is available on the street.  The parking garage entrance can be accessed from the northeast corner of the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cindy
+Host User ID: 279000737
+Host Profile URL: https://www.airbnb.com/users/show/279000737
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Cindy!  My husband, Chris, and I have two teenage children.  We live in Franklin, TN which is a historic suburb of Nashville.  We fell in love with this amazing city after moving from Atlanta in 2008.  Chris and I share a passion for serving others which led to our adventure into short term rentals.  We take great pride in making sure that each guest has an excellent and memorable experience.  We hope you'll come to Nashville and give us the opportunity to host you in one of our two beautiful locations.
+My work: We own two short term rental properties in the downtown Nashville area.
+Lives in Franklin, Tennessee
+Superhost
+7 years hosting
+125 reviews
+4.97 out of 5 average rating
+7 years of hosting

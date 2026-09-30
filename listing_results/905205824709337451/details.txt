@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/905205824709337451
+Latitude: 36.17825
+Longitude: -86.75429
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+East Nashville + it's outrageous charm is beautifully reflected in our pink cowgirl-inspired decor. This isn't just a place to stay; it's an experience. Nashville TN is all about the country theme + we love to bring it to you! Bachlorette groups, friends coming together, this suite is perfect to come back to after a night on Broadway! 
+
+6 minute Uber/Lyft drive to Broadway, walkable to everything East including Basement East, Love & Exile, Fatherland, this location is amazing + affordable!
+
+The space
+The Suite:
+
+Giddy Up Cowgirls (and boys)! We love to keep it country. Come take selfies on the saddle, enjoy the vibrant colors + bright space in all 4 rooms!
+
+->Bedroom 1 "Cowboys + Tequila Please" : twin bunk beds | 1 single bunk
+
+->Bedroom 2 "Giddy Up Cowgirl": Queen memory foam bed
+
+->Bedroom 3 "Cowgirl Up" : Queen memory foam bed
+
+->Bedroom 4 "Disco Cowgirl in Pink" : Queen memory foam bed
+
+*all bedrooms have smart tvs, alarm clocks (who needs em tho, right??), noise machines for that extra comfortable sleep
+*living area and select bedrooms have cable tv 
+*kitchenette's have the perfect mini kitchen for your stay including; an oven, stovetop, dishwasher, fridge + most importantly.. a coffee maker:)
+*both bathrooms are shower only, no tubs
+*linens, towels, its all provided
+
+<-this is a THIRD floor unit, there are stairs->
+
+Guest access
+check in via a keypad
+
+*please note our check in hours are 3pm-8pm, this is when we are officially avaliable for you. you're welcome to check in later as it’s self check in, but we may not be avaliable.
+
+Other things to note
+Absolutely, positively… NO PARTIES OR LOUD GATHERINGS. We have neighbors, we appreciate our neighbors + they appreciate you being respectful of them as they will be of you:)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Curated Suites
+Host User ID: 255636174
+Host Profile URL: https://www.airbnb.com/users/show/255636174
+Host Profile URL Source: public user permalink from passport userId
+Welcome to the Curated Suites in East!
+
+Curated boutique stays brought to Music City for the wanderer in us all! Affordable rates, local feel + ties. We are a boots on the ground company rooted in our community. 
+
+Who loves to travel? We DO! You DO! Let us host your next Nashville experience.
+Lives in Los Angeles, California
+Response rate: 99%
+Responds within an hour
+7 years hosting
+4261 reviews
+4.7 out of 5 average rating
+7 years of hosting

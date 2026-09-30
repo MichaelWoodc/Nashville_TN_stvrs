@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1626897227886398999
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your peaceful retreat in the heart of Nashville! ✨ Perfectly positioned in vibrant SoBro, you’re just steps from Broadway, Bridgestone Arena, Ryman Auditorium, and the Johnny Cash Museum. Tucked away in a calm sanctuary above the city buzz.
+Whether you’re here for a concert, business trip, or a relaxing getaway, you’ll love returning to a serene, uncluttered space designed to help you unwind. It’s an inviting place to recharge, relax, and truly enjoy your Nashville stay. T2022059329
+
+Other things to note
+1- You will be receiving your check-In Instructions and access before your check in.
+
+2- Parking in the garage  is $35/ day in the garage. We are able to offer discounted parking to our guests for $25/day. Let us know if you would like the discounted parking. 
+
+We look forward to hosting you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sharon
+Host User ID: 490497871
+Host Profile URL: https://www.airbnb.com/users/show/490497871
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Meharry Medical College
+My work: Retired Educator
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+29 reviews
+4.97 out of 5 average rating
+6 months of hosting

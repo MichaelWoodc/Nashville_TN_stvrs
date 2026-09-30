@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1054496772020556874
+Latitude: 36.15271
+Longitude: -86.77736
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ready to party in the heart of Nashville? Our bold black and gold 1BR is just steps from Broadway, Honky Tonk bars, and the Gulch! Pre-game with games, stream your favorites on two 50" TVs, and vibe out with fast Wi-Fi. Walk to the hottest bars, live music, and restaurants. Perfect for a wild weekend, birthday bash, or friends' getaway. Live, laugh, and make memories right where the action is!
+Permit #2022059164
+
+The space
+1 bedroom fully furnished apartment with a kitchen that is fully stocked with appliances, silverware, Keurig maker with kpods;
+
+1 separate  bedroom with a queen size bed and 50 inch Roku TV
+
+1 living room with a 50 inch Roku TV..includeds  2 sleeper sofas, 1 camper cot (located in closet), extra bedding provided
+
+Balcony with sitting area and table
+
+1 large bathroom that includes a washer/dryer, stand up shower and Towels for 4 guests, hair dryer, iron, first aid kit
+
+Guest access
+The whole apartment is yours to use as your home away from home
+
+Other things to note
+Onsite parking available for 1 vehicle in our gated garage on the 3rd floor for a nightly fee of $25 per night
+
+Any additional cars can pay via scan to park on the 1st floor.
+
+Registration Details
+2022059164
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Markeisha
+Host User ID: 66795263
+Host Profile URL: https://www.airbnb.com/users/show/66795263
+Host Profile URL Source: public user permalink from passport userId
+I've been in Airbnb host for 2 years and I love it. I also enjoy the other side of Airbnb by being able to travel and explore new cities without staying in traditional hotels
+Where I went to school: Winthrop university
+Lives in Charlotte, North Carolina
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+213 reviews
+4.96 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1684233690619152442
+Latitude: 36.145555103348975
+Longitude: -86.78715383267486
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 7
+beds: 15
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+7 spacious bedrooms in the heart of Nashville—just 1 mile to Broadway and steps from The Gulch.
+Why you’ll love it:
+Private rooftop deck with skyline views
+BBQ grill & fire-pit courtyard
+Fully equipped chef’s kitchen
+Sleeps up to 16 with plush bedding, fast Wi-Fi, and two full laundry sets. Free on-site parking keeps your arrival stress-free. Book now and toast the sunset from your rooftop lounge!
+
+The space
+This listing is two side-by-side units. 3 floors of open living in each. Note: 2 cots stored on site in each of the units.
+
+Unwind Luxury Vacations is the professional management company for this home, and committed to curating your 5-star experience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cole
+Host User ID: 754556278
+Host Profile URL: https://www.airbnb.com/users/show/754556278
+Host Profile URL Source: public user permalink from passport userId
+Outside of work, I’m a big fan of the Tennessee Titans and Notre Dame Fighting Irish football. I enjoy spending time with my family, relaxing at the beach, and making the most of the outdoors through fishing and golf. When I’m winding down, I also enjoy a good book.
+Response rate: 100%
+Responds within an hour
+4 months hosting
+8 reviews
+5.0 out of 5 average rating
+4 months of hosting

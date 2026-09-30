@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1626302025229323564
+Latitude: 36.1441868298901
+Longitude: -86.78476976557145
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+See the lights and enjoy an upscale, urban stay in Nashville with those who matter most at "Nashville Neon Nights." This 4-bedroom Nashville condo rental offers a location only minutes from downtown, putting you close to everything that makes the city fun and memorable, from Broadway to Second Avenue, and more. At your rental, you'll feel at home, thanks to the spacious living room, full kitchen, and relaxing features. AMENITIES: Fireplace, Wi-Fi Internet, Rooftop View, and more.
+
+The space
+Head inside your condo rental to discover an inviting, spacious living room with comfortable furnishings, a fireplace, a 65-inch Smart TV and streaming services. Whether catching up with loved ones or watching your favorite shows, you'll feel at home during your stay in "Nashville Neon Nights."
+
+When you feel hungry, taking care of your appetite is as easy as heading to the fully equipped kitchen that features everything needed to make snacks or prepare a full-course meal to share in the dining area. Also, there's a coffee maker and a Keurig, letting you get your caffeine fix before heading out to play in Nashville.
+
+When not playing in the city, you can enjoy extra ambiance and relaxation by spending time on the rooftop to enjoy a quiet moment while gazing at the city skyline with your loved ones, including your pets.
+
+Besides relaxing amenities, practical ones like a washer/dryer and High-Speed Wi-Fi are available, making your vacation experience smooth. Additionally, there are two parking spots in the driveway plus street parking available.
+
+Once you're ready to rest, you can look forward to sleeping in one of the four bedrooms. Each bedroom offers a king-sized bed, blackout curtains, and a full bathroom, creating the perfect setting for a good night's rest throughout your stay.
+
+With so much sleeping space, "Nashville Neon Nights" accommodates up to 12 guests, making it ideal for a family vacation or a trip with friends to Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cabins USA
+Host User ID: 558413927
+Host Profile URL: https://www.airbnb.com/users/show/558413927
+Host Profile URL Source: public user permalink from passport userId
+Enjoy the ease of renting through a 24/7 professional management company when choosing a property with Cabins USA. We are locally owned and operated and ready to assist you with any of your needs during your stay.
+My work: Cabins USA
+Lives in Sevierville, Tennessee
+Response rate: 100%
+Responds within an hour
+3 years hosting
+88 reviews
+4.67 out of 5 average rating
+3 years of hosting

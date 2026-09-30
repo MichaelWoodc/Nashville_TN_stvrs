@@ -1,0 +1,129 @@
+URL: https://www.airbnb.com/rooms/1638599226373689153
+Latitude: 36.216598160304684
+Longitude: -86.70440040117781
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Please Do Not Forget to Check for important information about
+   Additional Fees that may be collected at the Resort. This is usually
+   listed in this Description and in the House Rules and/or Important
+   Information Sections below.
+
+The space
+At Club Wyndham Nashville, enjoy convenient facilities and services.
+   Each Sunday, we have a Welcome Party for guests, and families to
+   experience extra activities that are not offered at traditional hotels.
+   Guests will enjoy table tennis and basketball. We offer indoor and
+   outdoor pools, hot tubs, and a fully equipped fitness center. When it’s
+   time to relax, guests can rent a DVD from the resort library to watch
+   in their condo suite. All this and more are part of the philosophy of
+   southern hospitality at Club Wyndham Nashville.
+
+   Nashville is perfect for lovers of music, history, and more. Explore
+   the heart of Music City, U.S.A. including the Grand Ole Opry, Country
+   Music Hall of Fame, and Jackson Showboat. History buffs will enjoy a
+   tour of Hermitage, the estate of President Andrew Jackson, as well as
+   Civil War battlefields. Cultural arts, an outstanding zoo, and more
+   make it an exceptional all-around destination.
+
+   The Wyndham Nashville has beautifully furnished one and two-bedroom
+   condo suites, furnished in a lovely country décor with amenities like
+   cable TV, DVD players, complimentary Wi-Fi, in-unit washers and dryers,
+   and a full or mini kitchen. Solo travelers, couples, groups, and
+   families can make themselves right at home in these accommodations.
+   One-bedroom units sleep 4 and two-bedroom units sleep 8. Units are
+   air-conditioned and have a washer and dryer, telephones, and the
+   kitchens include a microwave oven, dishwasher, and more. Pets are not
+   allowed, and units are non-smoking.
+
+   Important Information
+
+   Construction Details
+   Ongoing WiFi infrastructure project. Guests may experience noise, dust,
+   odors, and work crews.
+
+   Resort Fee
+   Mandatory security deposit fee is 250.00 USD for all units, per stay.
+   Only Credit Cards accepted.
+   A security deposit is required at check-in.
+
+   Age Restrictions
+   Minimum age check-in is 21.
+
+   Multi Floor With No Elevator Access
+   No
+
+   Pets Policy
+   No Pets. Please contact the resort directly regarding its ADA/general
+   service animal policy.
+
+   Smoking Restrictions
+   No smoking in units: could result in forfeiture of the unit and/or
+   other penalties.
+
+   Checkin Capabilities
+   Daily
+
+   Mininum Nights
+   3
+
+   Country of Residence
+   ALL
+
+   General Urgent Info
+   The earliest you should contact the resort is 2 weeks prior to your
+   check-in date.
+   Smoking is not allowed in units.
+   Fees or deposits are charged for some amenities.
+   Occupancy limits are strictly enforced: Violations could result in
+   forfeiture of the unit and/or other penalties.
+   Resort cannot honor unit upgrades or moves.
+   Confirmation paperwork is required upon check-in at the resort.
+   Security deposit required upon check-in at the resort.
+   Credit card imprint required upon check-in at the resort.
+   Handicap units are generally not available. Do not call the resort in
+   advance to request one.
+   If applicable, additional fees for some utilities, including gas and
+   electricity may be charged by the resort and varies based on stay
+   duration, season, room size and actual usage, and is payable directly
+   to the resort by you. These fees are not included in the total booking
+   price.
+   This resort pledges to comply with ‘Timeshare Safe Welcome’, ARDA’s
+   recommended Industry Guidance to promote health and safety in the
+   Timeshare Industry.
+   Prior to travel, RCI recommends contacting your host resort as well as
+   local, state and federal websites for advisories that may impact your
+   travel or vacation experience.
+   Guest certificate required for multiple reservations.
+   Daily and/or midweek housekeeping services may be available for a fee.
+   Resort is not suitable for handicapped people, or people with walking
+   difficulties.
+   The guest reserving this reservation must be the one checking in and
+   provide a valid ID and credit card at the time of check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ResortCloud
+Host User ID: 745247413
+Host Profile URL: https://www.airbnb.com/users/show/745247413
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Orlando, Florida
+Response rate: 100%
+Responds within an hour
+7 months hosting
+10 reviews
+4.4 out of 5 average rating
+7 months of hosting

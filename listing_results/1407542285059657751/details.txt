@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1407542285059657751
+Latitude: 36.1534
+Longitude: -86.77
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A warm, sun-washed 1BR with space to stretch out and settle in. Earthy tones and textures give this suite a sense of collected calm, while a built-in workstation makes room for deep focus or light journaling between Broadway strolls.
+
+The space
+This 782 sq ft 1BR includes a king bed, full kitchen, a comfortable lounge area, and a dedicated desk setup. A queen Serta sleeper sofa is in the living room for additional guests. Ample natural light and a soft palette create an easy, restful energy that works for both working travelers and leisure seekers.
+
+Guest access
+You’ll have access to the entire apartment, including the in-unit washer/dryer and stocked kitchen.
+
+Other things to note
+LC SoBro is more than a place to stay—it's a place to live well. Our community consists of two adjacent residential towers, and as our guest, you'll enjoy incredible amenities throughout both buildings. Everything is just a short walk within the community.
+
+🐐 The Goat – Our neighborhood restaurant and bar with great food, weekday happy hour specials, and noteworthy events. Enjoy dine-in service or order delivery straight to your suite.
+
+☕ Morning Ritual – Specialty coffee and fresh pastries served daily within the community. Free delivery for our guests.
+
+💪 Code Wellness – A two-story fitness studio equipped with everything you need for a great workout, whether you're lifting heavy or getting in a solid cardio session.
+
+☀️ Rooftop Pool – Cool off or soak up the sun in our rooftop dipping pool.
+
+🌿 Outdoor Courtyards – Relax in open-air lounge spaces with fire pits, grills, string lights, and plenty of seating.
+
+🏠 This apartment is part of a traditional residential community. Please be respectful of our full-time residents by observing quiet hours from 10:00 PM to 8:00 AM and keeping noise to a minimum during those hours.
+
+🚭 No smoking, vaping, or drug use on the premises — a minimum $500 fine applies.
+
+🎉 No parties. Authorized guests only — a minimum $250 fine applies.
+
+✨ No glitter or confetti — keep the sparkle on Broadway. If you bring decorations, please use painter's tape only and leave no trace behind to avoid additional cleaning fees.
+
+☑️ Amenity Access – Amenities are shared by full-time residents and registered GuestHouse guests across both residential towers. While everything is just a short walk within the community, some amenities—including The Goat, Morning Ritual, one of our outdoor courtyards, and the rooftop pool—are located in the adjacent tower. Amenity hours are controlled by the building and, while very rare, some amenities may occasionally close for maintenance or cleaning. Because these decisions are outside of GuestHouse's control, refunds cannot be issued if the building closes the pool or other amenity spaces during your stay.
+
+🅿️ Parking
+Parking is not included with the listing. The closest parking lot is 705 3rd Ave S, at the corner of 3rd and Elm, approximately one block from our lobby entrance. Rates are controlled by the parking operator, averaging around $25 for overnight parking, but may fluctuate based on downtown event demand. Parking fees are paid via QR code in the parking lot.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: L C
+Host User ID: 687407481
+Host Profile URL: https://www.airbnb.com/users/show/687407481
+Host Profile URL Source: public user permalink from passport userId
+Hey Y'all! We're LC and the voice behind LC SoBro GuestHouse - a collection of short term rentals inspired by the rhythm and charm of Nashville. We're proud to offer clean, comfortable stays in the heart of SoBro, each with a little local soul. Whether you're in Music City to hit the stage, sip your way down Broadway, or steal a little stillness between adventures, we're glad to host you!
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+1130 reviews
+4.95 out of 5 average rating
+1 year of hosting

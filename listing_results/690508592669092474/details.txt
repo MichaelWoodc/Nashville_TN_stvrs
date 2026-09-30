@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/690508592669092474
+Latitude: 36.19
+Longitude: -86.7727
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville at this bright and bold home located just minutes from Broadway,  Nissan Stadium, Grand Ole Opry, and Five Points! Enjoy the 3rd story wet bar leading to the rooftop terrace with prime city views! 
+
+The Howdy House is equipped with unique wallpapers, murals, neon lights, and bright colors perfect for all your social media and photo-worthy moments.
+
+The space
+The primary bedroom contains a king bed and smart TV equipped with all necessary viewing apps. The attached bathroom provides a spa-like experience which includes a relaxing rain shower as well as optimal closet space.
+
+The second bedroom contains oversized queen-on-queen adult bunk beds which hold up to 3,000 lbs as well as a full detached bathroom. 
+
+In the living room, you will find the couch pulls out to a very comfortable queen mattress, and the smart TV is equipped with all the necessary viewing apps. 
+
+Our kitchen is fully stocked with all the needed cookware, utensils, dishes, and themed drinking glasses for any and every occasion worth celebrating! 
+
+The washer and dryer is located downstairs in the laundry closet (located between the kitchen and living room) where you will find detergent, dryer sheets, an iron, extra linens, blankets, and anything else you may need during your stay. Please help yourself!
+
+Guest access
+Enjoy a private entry using the front or back door where you will have a personalized code for easy entry and exit.
+
+Located just steps outside of the door is a private parking lot, including a designated spot for guests to use, as well as additional guest parking.
+
+Other things to note
+STR Permit # T2022057440
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike
+Host User ID: 474344431
+Host Profile URL: https://www.airbnb.com/users/show/474344431
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+204 reviews
+4.87 out of 5 average rating
+4 years of hosting

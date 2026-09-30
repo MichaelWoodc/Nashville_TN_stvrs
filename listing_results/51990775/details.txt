@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/51990775
+Latitude: 36.12238
+Longitude: -86.77552
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new spacious build is both luxurious and cozy. With breathtaking vaulted ceilings, beautiful finishes, endless natural light, and thoughtful touches, you will absolutely feel the love that went into the design & décor. Offering 4 bedrooms and 4 bathrooms, this property is the perfect spot for groups looking to spread out while enjoying this centrally located spot - 1 mile to 12 South, 2 miles to The Gulch and 2 miles to Downtown.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+✔ Fully Equipped Kitchen
+✔ Smart TV
+
+BEDROOMS:
+Bedrooms / Sleeping Arrangements:
+Bed 1: King Bed with Attached Bath- 1st Floor
+Bed 2: 1 Queen Bed / 1 Single Roll Away with Attached - Bath - 2nd floor
+Bed 3:  1 Queen / 1 Single Roll Away with Shared Bath- 3rd floor
+Bed 4: Queen Bed with Shared Bath- 3rd floor
+Two Queen Sofa Beds
+
+Note: No bedroom in the Main floor!
+
+KITCHEN:
+The house includes a fully equipped kitchen for travelers looking to stay in and cook up a feast!
+
+LIVINGROOM:
+With a large sofa and several accent chairs, we welcome our guests to sit back, relax, and enjoy some streaming. The couch in the living room does convert to a sofa bed if need be.
+
+BATHROOMS:
+There are 4 bathrooms, providing just the right amount of privacy for every traveler. 
+
+BONUS ROOM: 
+Hang out and enjoy a cup of coffee while overlooking the french doors to the balcony. The couch in this room is AWESOME for snuggling up and watching your favorite shows! This couch also converts to a sofa bed.
+
+DECK:
+Enjoy dinner under the sky or just hang out on the spacious deck! 
+
+PARKING:
+ 2 car garage and if you have more than 2 cars, please inquire about additional parking. 
+
+LOCAL GUESTS MUST REQUEST BEFORE BOOKING.
+
+Other things to note
+Kroger - 1/3 Mile
+Publix - 1/2 Mile
+Hattie B's - 0.3 miles
+12 South - 1 Mile
+Downtown - 2 Miles
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Local Rental Host
+Host User ID: 419242659
+Host Profile URL: https://www.airbnb.com/users/show/419242659
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1211 reviews
+4.85 out of 5 average rating
+5 years of hosting

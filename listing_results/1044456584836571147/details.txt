@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/1044456584836571147
+Latitude: 36.15379
+Longitude: -86.77443
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+INQUIRE TO SAVE & GET FREE PARKING!
+
+Amenities: FREE Parking, Pool, Gym, Terrace, Arcade, Grill, Fireplace.
+
+Experience the Heart of Music City in our Cozy Retreat! Nestled just steps away from the vibrant Broadway scene, our charming getaway offers an unbeatable location for exploring Nashville's best. Revel in the excitement of Downtown, a mere stroll away! STR Permit #2018073522
+
+The space
+Nestled in a prime location, this family-friendly unit boasts a fully-equipped kitchen with stainless steel appliances, perfect for preparing home-cooked meals. The spacious living area, complete with a comfortable sleeping couch, opens onto a quaint private patio/balcony, ideal for savoring your morning coffee or unwinding in the evening.
+
+Sleeping arrangements are a dream, with two cozy bedrooms each featuring luxurious beds (a king in the first and a queen in the second), private bathrooms, and walk-in closets for ample storage. For larger families or groups, a queen-sized air mattress is readily available, ensuring everyone enjoys a comfortable night's rest.
+
+Stay connected and entertained with our free high-speed Wi-Fi, a 50” TV for movie nights, and a variety of family games, including a nostalgic "Street Fighter" arcade game. For your convenience, the unit includes a washer and dryer, along with essential toiletries and cleaning supplies, with restocking options available.
+
+Start your day with a fresh brew from our Keurig coffee maker, and don't worry about packing the essentials – we've provided basic cookware for your culinary adventures.
+
+Our Airbnb is not just a place to stay; it's a home away from home, tailored for family fun and relaxation.
+
+Guest access
+You will have access to all these amenities below: 
+
+★ A 24-hour fitness center with a rock climbing wall
+★  Free Parking
+★ An outdoor pool
+★ Grills for outdoor cooking
+★ A courtyard with inviting firepits
+★ The elevated 6th floor Lounge
+★ Shampoo, conditioner, and body wash
+★ Keurig Coffee Machine with K-cups
+★ Convenient washer and dryer with detergent
+★ High-speed internet to stay connected
+★Street Fighter Arcade
+
+Other things to note
+★ 1.5 blocks to Bridgestone Arena
+★ 2 blocks to Broadway
+★ 0.2 miles to Music City Center
+★ 0.4 miles to Ryman Auditorium
+★0.4 miles to Ascend Amphitheater
+★ 0.8 miles to Gulch
+★ 1.1 miles to Nissan Stadium
+★ 7.9 miles to airport
+
+Short Term Rental License #2018068402
+
+Registration Details
+2018073522
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cozy Cove
+Host User ID: 550564324
+Host Profile URL: https://www.airbnb.com/users/show/550564324
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+98 reviews
+4.79 out of 5 average rating
+3 years of hosting

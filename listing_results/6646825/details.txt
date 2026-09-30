@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/6646825
+Latitude: 36.1705
+Longitude: -86.78028
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Prime Downtown Riverfront Condo close to every main attraction in Nashville!  Short walk to Broadway, LP Field(Titans), Bridgestone arena(Predators), First Tennessee Park(Sounds), Germantown and much much more!
+
+I have a 2 night minimum especially for weekends but I will make exceptions for rentals Monday-Wednesday.
+
+Seasonal Pool Open April 1st - Oct 31st
+
+FREE PARKING IN THE COVERED LOT WHERE MY CONDO IS LOCATED.
+
+The space
+The apartment can sleep up to 5ppl on:
+1 queen bed(bedroom)
+1 queen bed(living room)
+1 full size couch(living room)
+
+Guest access
+Gym, Fire Pit & SEASONAL POOL all on location!  Only a few minutes from the main strip(Broadway)
+
+Seasonal Pool open April 1st-Oct 31st!
+
+Other things to note
+The living room is the 2nd bedroom.  There is a full size couch & Queen Bed in the living room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrew
+Host User ID: 6090673
+Host Profile URL: https://www.airbnb.com/users/show/6090673
+Host Profile URL Source: public user permalink from passport userId
+Lives in New York, New York
+Response rate: 83%
+Responds within an hour
+12 years hosting
+914 reviews
+4.56 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1444295899856923610
+Latitude: 36.1515
+Longitude: -86.7782
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy late summer and early fall in the heart of downtown Nashville! This modern condo offers stylish comforts, a heated pool, and convenient access to Broadway, live music, restaurants, rooftop destinations, Bridgestone Arena, Nissan Stadium, The Gulch, and more. Explore the city, then return to a comfortable space to relax and recharge.
+
+The space
+Experience Nashville from a modern downtown condo just steps from Broadway’s legendary music, dining, and entertainment. Contemporary finishes, inviting living spaces, and premium comforts create a relaxing place to recharge between adventures. As summer transitions into fall, enjoy Nashville’s warm days, lively evenings, and seasonal events throughout downtown. The heated pool offers another way to unwind during your stay. Walk to restaurants, rooftop bars, live music venues, and popular attractions, or explore nearby destinations including Bridgestone Arena, Nissan Stadium, The Gulch, and Broadway’s iconic entertainment district. From morning coffee to an evening of live music, this centrally located condo makes it easy to experience downtown Nashville while providing a comfortable, stylish space to return to at the end of the day.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Premier Management
+Host User ID: 230558108
+Host Profile URL: https://www.airbnb.com/users/show/230558108
+Host Profile URL Source: public user permalink from passport userId
+Hello and Thank You for visiting our profile for Premier Management Group. We are a full service real estate management company located just outside of Nashville, TN. We offer services for long term and short term rentals as well as leasing  and management services for commercial properties. In addition, all of our property managers are fully licensed real estate professionals helping buyers and sellers in our area. We are excited to work with you for your visit here. Whether it be a short stay, long term stay, or a permanent relocation; our property managers are eager to assist you.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+655 reviews
+4.91 out of 5 average rating
+7 years of hosting

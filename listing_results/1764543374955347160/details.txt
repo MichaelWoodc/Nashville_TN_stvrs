@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1764543374955347160
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into a stylish, comfortable retreat designed for relaxing, entertaining, and enjoying your stay. This thoughtfully furnished space features modern décor, comfortable sleeping areas, a fully equipped kitchen, and inviting living spaces perfect for couples, families, or groups. Conveniently located near local dining, entertainment, and attractions, you’ll have everything you need for a memorable stay.
+
+The space
+Permit number - T2022056589
+
+Registration Details
+T2022056589
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aj
+Host User ID: 248752012
+Host Profile URL: https://www.airbnb.com/users/show/248752012
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: New hope
+Lives in Columbus, Mississippi
+Response rate: 100%
+Responds within an hour
+New Host
+1 reviews
+5.0 out of 5 average rating

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/602790558961123473
+Latitude: 36.1629
+Longitude: -86.7813
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 9
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walkable to Broadway from our 3600 sq ft 6th floor Suite at The Maddox, an historic Boutique Hotel. Ideal for bachelor/bachelorette gatherings, special occasions, corporate retreats, executive getaway or business meetings. Every member of your group will enjoy easy access to everything from this centrally located suite. TPAC, Bridgestone Arena, Titans Stadium, The Gulch, and 2nd & Broadway are all within walking distance. The Library Liquor Store is right next to our Lobby entrance (as our guest
+
+The space
+Our beautifully furnished 3,595 sq feet suite with 6 bedrooms, 3 full baths (1 of the bathrooms has 3 private shower stalls), and one 1/2 bath. We have a built-in convection/
+microwave oven, a refrigerator and freezer, separate ice maker, dishwasher, 2-burner induction stove top, an air fryer, crock pot, waffle maker, and toasters. You will be able to whip up the basics, and then some, in the kitchen.
+
+Guest access
+This suite is on the 6th floor and you and your guests will have the sole access to the bedrooms, bathrooms, living room, dining room, kitchen and game room. Your code will open the exterior building doors as well as your suite.
+
+Other things to note
+There is a downtown grocery store within walking distance or a Whole Foods and Publix, both a mile away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Maddox
+Host User ID: 388968184
+Host Profile URL: https://www.airbnb.com/users/show/388968184
+Host Profile URL Source: public user permalink from passport userId
+Welcome to our Luxury Hotel in downtown Nashville! We pride ourselves on providing the best guest experience possible while being in the perfect location to explore all that Nashville has to offer!
+My work: BoutiqueHotelManager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1072 reviews
+4.95 out of 5 average rating
+5 years of hosting

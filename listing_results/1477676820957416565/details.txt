@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1477676820957416565
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This one-bedroom penthouse is in the heart of downtown Nashville, just minutes from Broadway’s vibrant nightlife, live music venues, and Nashville’s top attractions. Prepare for breathtaking views from every angle. 
+
+It's perfect for up to four guests (with room for more)! This spacious open layout includes a nice living area with a sleeper sofa and a fully equipped kitchen.
+
+Let's not forget the luxury amenities including a rooftop, pool, and lounge area!
+
+Permit Number: T202205665
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eden
+Host User ID: 149717354
+Host Profile URL: https://www.airbnb.com/users/show/149717354
+Host Profile URL Source: public user permalink from passport userId
+Fun teacher/tutor that absolutely loves California!!
+Lives in Los Angeles, California
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+94 reviews
+4.95 out of 5 average rating
+2 years of hosting

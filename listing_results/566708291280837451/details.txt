@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/566708291280837451
+Latitude: 36.14596
+Longitude: -86.78224
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Bluebird & Barrels, a stylish Gulch hideaway designed by Nashville’s own Megan Soto, just minutes from downtown. This 1-bedroom condo plus bunk room sleeps 6 comfortably and includes a pool, fitness room, gated parking, and assigned spot. Walk to nearby restaurants, coffee shops, bars, and hot spots, then come home to drinks on the balcony, dinner with a view, and the perfect place to unwind.
+
+The space
+Bluebird & Barrels is your stylish Nashville home base, a polished Gulch View condo with designer details, pool views, and resort style amenities just minutes from the city’s best restaurants, bars, coffee shops, and music spots! Enjoy a private balcony overlooking the pool, fully equipped kitchen, Keurig coffee station and tea, smart TVs, Pyle speakers, keyless entry, assigned garage parking, and access to Illume’s seasonal pool, courtyard, lounge, grill, and fitness room. 
+
+Perfect for girls’ trips, birthday weekends, concerts, couples’ getaways, and an easy Nashville escape.
+
+Sleeping arrangements:
+🛏️ King bedroom with smart TV and connecting bathroom, sleeps 2
+🛏️ Queen over queen bunk room, sleeps 4
+🛋️ Pull out sofa in living room, sleeps 2
+
+Nearby:
+Minutes from The Gulch, WeHo, 12 South, Broadway, Downtown, restaurants, rooftops, coffee shops, bars, and live music spots.
+
+Guest access
+There is nothing off limits! Keyless entry, and assigned parking spot
+
+Other things to note
+Newly redesigned, luxurious condo with everything you need for an amazing time. 
+
+5 min walk to The Gulch
+1 mile to Broadway
+1/2 mile to 12 South
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Randy
+Host User ID: 445595902
+Host Profile URL: https://www.airbnb.com/users/show/445595902
+Host Profile URL Source: public user permalink from passport userId
+Hey there! I’m ridiculously excited to welcome you to my Airbnb, where style meets Southern charm, and good vibes are always on tap. I’ve fallen hard for Music City, and I can't wait to share my favorite hangouts, eats, and adventures with you. Whether you’re here to two-step your way through Broadway or chill with some local brews, I can't wait to share our home with you!
+Born in the 70s
+My work: I cast TV Shows!
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+235 reviews
+4.91 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,101 @@
+URL: https://www.airbnb.com/rooms/1455001440357590000
+Latitude: 36.1482
+Longitude: -86.7951
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish home base in the heart of Midtown Nashville! This modern condo blends comfort and convenience - perfect for digital nomads and travelers alike. Walkable to live music, bars, and restaurants, this is the perfect spot to experience Nashville like a local. Enjoy a remote work setup with fast internet, whiteboard, monitor, and Bluetooth mouse & keyboard. With free parking and on-site laundry, you’ll have everything you need to work hard and play harder.
+
+The space
+🌇 Location, Location, Location
+
+Midtown is one of Nashville’s most vibrant and walkable neighborhoods. You’ll be minutes away from:
+
+🎵 Music Row – home to legendary studios and live music
+
+🍻 Top bars and rooftop lounges
+
+🍴 Local restaurants and cafes
+
+📍 Quick uber or scooter ride to Broadway, The Gulch, and Vanderbilt University
+
+✈️ 10 min from BNA Airport
+
+💼 Remote Work Friendly
+
+Dedicated workspace with monitor, whiteboard, Bluetooth keyboard + mouse & speaker
+
+🌐 High speed internet for fast, reliable connection
+
+🎯 Inspiring decor designed for focus and creativity
+
+📸  Stylish, comfortable interior with curated decor and modern, insta-worthy touch
+
+🛏️Comfy king-sized memory foam bed with designer linens and blackout curtains
+
+✔ Pull-out sofa bed with extra pillows and bedding for additional guest
+
+📺 Smart TV with streaming apps (Hulu, Netflix, etc.)
+
+Amenities You’ll Love. Everything you need is right here—including a few Midtown perks:
+
+🚗 Free secure, on-site parking (a rare find in this area!) + optional street side parking steps away
+
+🧺 On-site laundry for longer stays + ironing board/iron, hairdryer, make-up mirror
+
+🍽️ Fully stocked kitchen with designer cookware, coffee maker, and essentials: including complimentary laundry and dishwasher pods
+
+🔐 Keyless entry for easy check-in and secure access
+✔ Verified smart lock check-in
+✔ 4 PM check-in | 11 AM check-out
+
+📩 Have questions? Message us, we respond fast & love sharing local tips!
+
+Guest access
+Seamless Arrival & Effortless Stay
+- Instant smart lock access: Auto-generated codes for a stress-free check-in
+- Self check-in from 3 PM | Simple check-out by 11 AM
+- Key to laundry room in the building provided
+
+Other things to note
+HOA Rules
+- No pets, smoking, drugs, or firearms.
+- No parties or large gatherings.
+- Use only the assigned parking space.
+- Quiet hours: 10 PM – 8 AM.
+
+Violations may result in fines or termination of your stay. The building is home to several permanent residents so thank you for respecting the rules!
+
+ Early Check-In / Late Check-Out
+- Our most common request is for flexibility with check-in and check-out times. 
+- We will do our best to accommodate you, but unable to guarantee your request due to high demand and time required for cleaning between guests.
+- Please book an extra night to guarantee your plans!
+
+STRP Permit #2025057811
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 157702966
+Host Profile URL: https://www.airbnb.com/users/show/157702966
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Jake. I’m here to go above and beyond to ensure all guests enjoy their stay.
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+538 reviews
+4.89 out of 5 average rating
+4 years of hosting

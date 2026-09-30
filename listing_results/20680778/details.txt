@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/20680778
+Latitude: 36.12547
+Longitude: -86.78164
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+chateau nashville-the ideal music city escape south of downtown proper. nestled in the walkable 12south community with its restaurants (burger up, bar taco, frothy monkey coffeehouse, etc) and its boutique shopping (reese witherspoon's draper james & denim maker imogene+willie), it's the ideal spot.
+
+The space
+the studio loft sits above the detached garage which is also available to you for parking exclusively. the stairwell to the flat is inside the garage so you're all contained within the carriage house. the bed is a plush, comfy queen.
+
+Other things to note
+if you're here for brunch on sundays, a lot of places are close by to recommend: bottomless mimosas + a buffet-style brunch at sinema (which is set in a historic theater from the 40s & 50s). also sutler saloon's bluegrass brunch with live music is also a nice little nashville experience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scott
+Host User ID: 124304149
+Host Profile URL: https://www.airbnb.com/users/show/124304149
+Host Profile URL Source: public user permalink from passport userId
+a local real estate broker who knows the city like the back of his hand. once you've visited, happy to sell you your second home so you can vacation here more. :)
+My work: realtor, broker
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+210 reviews
+4.9 out of 5 average rating
+9 years of hosting

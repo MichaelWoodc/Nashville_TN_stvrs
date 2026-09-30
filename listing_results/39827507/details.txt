@@ -1,0 +1,92 @@
+URL: https://www.airbnb.com/rooms/39827507
+Latitude: 36.1555
+Longitude: -86.7757
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Raise your glass to Wyndham Margaritaville Nashville. You won’t have to head all the way to the Caribbean to find your lost shaker of salt. In fact, it’s right upstairs at your resort’s rooftop bar.
+
+Lounge poolside until the sun hangs low, take it easy by the fire pit, and see panoramic views of downtown as live music loosens your mood. Fins Beach Bar makes sure you’ll always have a drink within arm’s reach. And JWB Grill makes sure you can have your cheeseburger in paradise — and eat it, too.
+
+The space
+Let the music lead you to your own groove. Hop from hole-in-the-wall bars to world-famous music venues like the Ryman Auditorium and Grand Ole Opry. See how music legends like Elvis Presley, Ray Charles, and Jimi Hendrix sealed their place in music history at the Musicians Hall of Fame. Or, get some fresh air at Centennial State Park and see the full-scale replica of the Parthenon.
+
+For moments in between, unwind and pair good food with good conversation. Nashville isn’t just diverse in its musical influence — it also attracts flavors from around the world. Whether your scene is Italian, Caribbean, Mexican, or good old-fashioned Southern comfort food, Music City brings every delicious option to the table.
+
+Suite:
+Air Conditioned
+Cable TV
+Coffeemaker
+Complimentary Internet Access
+Free Local Calls
+Hairdryer In Room
+High Speed Internet
+Kitchenette
+Microwave
+Personal Refrigerator
+Shower
+Sitting Area
+Smoke Detectors
+Telephone
+Bathroom
+400 square feet
+
+Resort:
+Cafe
+Bar
+Casual Dining
+Swimming Pool (Outdoor)
+Hot Tub
+Pool Bar
+Fitness Center
+Valet Parking ($40 per night)
+
+Guest access
+Guests have full access to their suite and resort amenities.
+
+Other things to note
+Minimum Check-In Age for guest checking in must be at least 21 years of age with a valid ID.
+
+Check-in / Check-out: 4 PM / 10 AM
+
+A credit card pre-authorization or cash deposit will be required upon check-in.
+
+A fee may be associated with some of the resort amenities and activities. Please contact the resort for more details.
+
+The resort reserves the right to assign a different unit of the same type and occupancy as confirmed with this confirmation.
+
+Late Arrivals: Please notify the resort of your late arrival and check-in no later than 48 hours after your scheduled arrival date. Failure to do so may result in the cancellation of your reservation without notification.
+
+Your safety is very important to us, so we closely follow local regulations for maximum occupancy per unit.
+
+Out of respect for all our guests, pets are not permitted. Please feel free to contact the resort prior to your arrival so that we may assist you in locating a local boarding facility.
+
+Service animals that are trained to work or perform tasks for the benefit of an individual with a disability are welcome at all affiliated locations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rj
+Host User ID: 23366133
+Host Profile URL: https://www.airbnb.com/users/show/23366133
+Host Profile URL Source: public user permalink from passport userId
+We love to travel with our family and friends. We love to be able to assist people to share the same experiences.
+Speaks English
+Lives in Bluffton, South Carolina
+Response rate: 88%
+Responds within a day
+12 years hosting
+917 reviews
+4.83 out of 5 average rating
+12 years of hosting

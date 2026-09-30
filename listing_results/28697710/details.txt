@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/28697710
+Latitude: 36.12336
+Longitude: -86.78248
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This new luxe 3,100 Sq foot home is located in the  desirable 12 South neighborhood. The perfect place to stay for your Nashville getaway!
+ It boasts 4 bedrooms, 3 full/2 half baths, 3 living spaces, a beautiful large eat in kitchen, roof top deck, fireplace and many more amenities.
+Short walk to coffee shops, restaurants, boutiques, Sevier Park  and more.
+Broadway, The Gulch, Hillsboro Village, Vanderbilt and Music Row are all just minutes away from this centrally located part of town.
+
+The space
+This modern style house is an open floor plan with 3 levels and is fully furnished to fulfill your vacation travels to Nashville.
+Great place for families, couples, and groups of friends to enjoy Music City.
+On the first floor is a chefs kitchen fully equipped, a large island and dining area.  Off of the kitchen is a sliding door leading to a patio and fenced in back yard.   The first floor has a large living space with a TV and  large sectional sofa.  Perfect open space to congregate.  There is also a powder room on the first level.
+The master bedroom and bath is located about 12 stairs up from the main living space.  The master bath features a large double head shower and double vanity.  The master bedroom has a king bed and TV.
+The second floor living space has a large living space with a TV and a queen sofa bed.  Also on the second floor is a laundry room, 2 bedrooms - 1 with a king bed and the other with 2 queens.  There is also a full bathroom with a shower/tub and double vanity.
+The third floor has a large living space with a TV and a large sectional sofa.  Also in the living space is a wet bar with a sink and mini refrigerator.
+Off of the living space is a 1/2 bath, a bedroom with a king bed and a full bath with a shower. 
+There is a large roof top deck with a fire place and grill.
+Free parking is available.  The driveway can fit 4 vehicles and there is also free street parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kim
+Host User ID: 212407889
+Host Profile URL: https://www.airbnb.com/users/show/212407889
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 86%
+Responds within an hour
+Superhost
+8 years hosting
+182 reviews
+4.99 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/889366298266030764
+Latitude: 36.15553
+Longitude: -86.77599
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Modern Luxury Suite, your home away from home, close to all the excitement in Downtown Nashville!  This cozy suite has a beautiful balcony view of the pool and gazebo area. This two-bedroom suite is equipped to anticipate your needs for a luxurious stay, make you feel relaxed while on vacation. We hope you enjoy our piece of paradise at our Modern Luxury Suite.
+
+My STR permit number is #201-807-3721
+
+The space
+Our suite has a view of the pool and courtyard. It is tasteful decorated and comfortable as if you are staying a home away from home. We want you to have an Ultimate Experience living stay while visiting the Music City of Nashville. You will not be disappointed with your unique luxury stay with Suite 650.
+
+Guest access
+You have access to the bi-level fitness center with climbing wall, cardio and strength equipment and spin studio. The courtyard with swimming pool area and collective two-story clubhouse.
+
+Other things to note
+Stay in the heart of Music City with Studio 650, you can tour the Ryman Auditorium go honky-tonking on lower Broadway, catch a Titans game or eve visit incredible museums like the Frist Nashville is a whole lot more than country music, with great rock and blue venues just a few streets down from the iconic Country Music Hall of Fame.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keith
+Host User ID: 514341587
+Host Profile URL: https://www.airbnb.com/users/show/514341587
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Keith, a disabled retired army veteran, also a retired Metro Nashville, Tn police officer. I'm currently employed with Mid-Tn Urban Dev & Const. A company in which I found and has been successful with over 20 years.
+Born in the 60s
+I spend too much time: Working
+Response rate: 11%
+Responds within a few days or more
+3 years hosting
+16 reviews
+4.38 out of 5 average rating
+3 years of hosting

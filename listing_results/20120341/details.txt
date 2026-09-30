@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/20120341
+Latitude: 36.2202
+Longitude: -86.705
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect Harmony in Music City. Located one mile from the legendary Grand Ole Opry and the immense Opry Mills outlet mall, Wyndham Nashville is close to many of the city's most popular attractions and just 10 miles from downtown. This warm, friendly resort combines fun activities and amenities with lots of Southern hospitality.
+
+The space
+CLUB WYNDHAM® resort condos are so much more than a place to lay your head at night. You have your choice of spacious accommodations in a variety of floor plans.
+
+Plus, you’ll delight in the luxury of all the comforts of home. Many CLUB WYNDHAM suites have the following great features:
+
+Spacious living rooms with large-screen TV, DVD player and even video game systems
+Separate bedrooms that offer a quiet, relaxing environment
+Dining areas with a large table for plenty of room to spread out
+Convenient washer and dryer
+Wireless Internet access to keep you connected
+Fully equipped kitchens with large refrigerator, stove, microwave, coffee maker — and even wine glasses!
+
+Resort Amenities
+2 Outdoor Swimming Pools
+Organized Activities Program
+Outdoor Hot Tub
+Live Entertainment
+Basketball
+Indoor Swimming Pool
+Exercise Equipment
+Playground
+Picnic/BBQ Area
+
+Some amenities are available at an additional charge.
+
+Guest access
+This is a vacation resort suite set up for exclusive use by our guests.
+
+Other things to note
+* Minimum Check-In Age for guest checking in must be at least 21 years of age with a valid ID.
+* Check-in / Check-out: 4 PM / 10 AM
+* A credit card pre-authorization or cash deposit will be required upon check-in.
+* A fee may be associated with some of the resort amenities and activities. Please contact the resort for more details.
+* The resort reserves the right to assign a different unit of the same type and occupancy as confirmed with this confirmation.
+* Late Arrivals: Please notify the resort of your late arrival and check-in no later than 48 hours after your scheduled arrival date. Failure to do so may result in the cancellation of your reservation without notification.
+* Your safety is very important to us, so we closely follow local regulations for maximum occupancy per unit.
+* Out of respect for all our guests, pets are not permitted. Please feel free to contact the resort prior to your arrival so that we may assist you in locating a local boarding facility.
+* Service animals that are trained to work or perform tasks for the benefit of an individual with a disability are welcome at all affiliated locations.
+* After booking, please provide up to two names to be placed on the reservation. The second name on the reservation is useful if guests are arriving separately and at different times. An additional fee will be charged should you request a name change on the reservation once a name has already been placed on the reservation.
+* Photos of condos and suites are representative as there are multiple units in the resort with this profile. As such, some appointments may look slightly different than the actual unit reserved.
+* There is no requirement to attend any seminar or presentation associated with this reservation. If you are asked to attend, you are under no obligation to do so. Attending a seminar or presentation is the sole choice of the renter, if offered.
+
+Rev: 1.0
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rj
+Host User ID: 23366133
+Host Profile URL: https://www.airbnb.com/users/show/23366133
+Host Profile URL Source: public user permalink from passport userId
+We love to travel with our family and friends. We love to be able to assist people to share the same experiences.
+Speaks English
+Lives in Bluffton, South Carolina
+Response rate: 88%
+Responds within a day
+12 years hosting
+917 reviews
+4.83 out of 5 average rating
+12 years of hosting

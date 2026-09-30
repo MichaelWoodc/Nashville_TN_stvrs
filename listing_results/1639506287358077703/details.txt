@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1639506287358077703
+Latitude: 36.14978356954551
+Longitude: -86.78063540826918
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 8
+occupancy: 15
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place. Unit is located on the same floor as our Entertainment Room and Pool Deck.  5 bedrooms; 2 King rooms & 3 Queen over Queen Bunkbeds.
+2,350 square feet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Quinley Concierge
+Host User ID: 750861319
+Host Profile URL: https://www.airbnb.com/users/show/750861319
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 98%
+Responds within an hour
+6 months hosting
+45 reviews
+4.91 out of 5 average rating
+6 months of hosting

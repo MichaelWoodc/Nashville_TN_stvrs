@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/14419919
+Latitude: 36.12509
+Longitude: -86.78319
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Roomy 3,650 sq ft home located in in the trendy 12 South neighborhood - a great home base to enjoy all that is Nashville!  This stylish 4 bedroom, 3.5 bath modern farmhouse is great for a family vacation, weekend with friends, corporate retreats, or as a home base to enjoy the sights and sounds of Music City.
+
+Only 3 miles to the attractions of downtown Nashville, 2 miles to Belmont, Vanderbilt or Lipscomb Universities & walking distance to great dining and shopping on 12 South.
+
+Guest access
+You will have access to the entire space during your stay with the exception of the garage, one locked closet and a few locked drawers in the downstairs master bedroom.
+
+Other things to note
+Please note that the price includes several mandatory state and local taxes totaling 15.625% plus a $2.50 per night room tax.  The nightly rate quoted is inclusive of these taxes.
+
+The property will be cleaned and inspected after your departure.  As you prepare to leave, please help us enable the cleaning team by leaving the property tidy, loading and turning on the dishwasher, and taking out your trash.
+
+NOTE: the home is located in a quiet residential community so we are unable to accept requests for stays that include parties in the home or yard. Please provide comments with your booking about the purpose of your visit and plans in Nashville.
+
+We are fully insured, licensed, inspected and legal, and 100% in compliance with local Nashville Zoning and Codes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dan
+Host User ID: 4448719
+Host Profile URL: https://www.airbnb.com/users/show/4448719
+Host Profile URL Source: public user permalink from passport userId
+We love good food, great wine and spending time with family and friends.  We built and designed our house with this in mind.  Bring your big family or group - you'll have plenty of space.  Our desire is that you enjoy our home as much as we have enjoyed creating it for you!
+Lives in Texas, United States
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+105 reviews
+4.97 out of 5 average rating
+10 years of hosting

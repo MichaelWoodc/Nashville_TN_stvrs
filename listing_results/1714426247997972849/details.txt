@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/1714426247997972849
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🥃 Welcome to The Last Call, Nashville’s luxury speakeasy-inspired retreat designed for guests who appreciate elevated style, unforgettable nights, and boutique hotel comfort.
+
+Located minutes from Broadway, Bridgestone Arena, City Winery, this top-floor designer condo blends rich textures, custom décor, and trendy nightlife vibes into one unforgettable stay.
+
+Whether it’s a bday, group-chat’ trip, couples getaway, concert weekend… The stay everyone wishes they booked.
+
+Permit #T2022056644
+
+The space
+✔ Designer Speakeasy Interior
+
+✔ Luxury King Suite
+
+✔ Glam Vanity Lounge
+
+✔ Curated Espresso Bar
+
+✔ Smart Home Technology
+
+✔ Complimentary Parking
+
+✔ Top Floor City Views
+
+✔ Resort-Style Saltwater Pool
+
+✔ Luxury Fitness Center
+
+✔ High-Speed WiFi
+
+✔ 55”+ Smart TV
+
+✔ Premium Bedding
+
+Every room has been intentionally designed to feel like stepping inside a private members club—with dramatic black finishes, warm ambient lighting, rich velvet accents, curated artwork, and elevated luxury around every corner.
+
+Guest access
+As our guest at The Last Call | A Private Stay, you’ll enjoy exclusive access to premium community amenities:
+
+• Complimentary Reserved Parking
+• Rooftop Sky Lounge with Downtown Views
+• Resort-Style Saltwater Pool
+• Private Pool Cabanas
+• Luxury Fitness Center
+• Resident Billiards Lounge
+• Outdoor Grilling Stations
+• Fire Pit Lounge
+• Outdoor Cocktail Bar & Social Spaces
+
+Please enjoy all community amenities respectfully and help us preserve the elevated experience for every guest. Welcome to The Last Call—where every stay deserves one more unforgettable night.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Britney
+Host User ID: 672343618
+Host Profile URL: https://www.airbnb.com/users/show/672343618
+Host Profile URL Source: public user permalink from passport userId
+Nashville-based entrepreneur, Airbnb host, and hospitality lover. I believe the little details make the biggest difference, so I work hard to create clean, comfortable spaces where guests can truly relax. Whether you’re visiting for work, a concert, or a weekend getaway, I’m here to make your stay easy and enjoyable.
+Born in the 90s
+My work: Serial Entrepreneur
+1 year hosting

@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/44087997
+Latitude: 36.15518
+Longitude: -86.77106
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious townhouse features three levels with a total of 1,500 square feet of living space all to yourselves with private street entrance. Located in downtown Nashville - within about 7 walkable blocks to downtown attractions and venues, e.g., Music City Center, Bridgestone Arena, Ascend Amphitheater, River Front Park, Honky Tonks, Ryman Auditorium, & many restaurants, bars, breweries.
+
+The space
+Located in "SoBro" (South of Broadway) area of downtown. in a residential complex with other townhouses with a quiet neighborhood feel.  We enforce "no party" rules and quiet hours.  It's close to everything and yet when you're done with the loud music scenes, you return to your peaceful oasis - your private home away from home.
+
+Exclusive / private use of entire townhouse.
+
+NB: Permitted for short term rental by City of Nashville (Permit #2020033580)
+
+Guest access
+Complete access to the entire condo living spaces.  Guests receive an access code effective throughout your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shannon
+Host User ID: 154308525
+Host Profile URL: https://www.airbnb.com/users/show/154308525
+Host Profile URL Source: public user permalink from passport userId
+Professional in the legal field.
+Lives in Oakland, California
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+333 reviews
+4.97 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/596505881161642761
+Latitude: 36.15402
+Longitude: -86.77578
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+HVAC is currently broken!
+
+Permit number: 2018_070449
+
+Luxury apartment in the heart of downtown! FREE PARKING!! Just a block to Bridgestone Arena and Broadway bars and restaurants! Literally walk to everything! Country Music Hall of Fame, The Ryman Auditorium, The Johnny Cash Museum, all of the honky tonks, and SO MUCH MORE! Awesome pool, amazing fitness center with yoga studio and a huge climbing wall. Free coffee all day. Multiple spaces for working and/or hanging. Best complex in downtown!
+
+The space
+You have access to Pool, free parking for one car with 8’6” of clearance, fitness center, office space, climbing wall, and all of downtown Nashville at your fingertips!
+
+Since I’m a Nashville native, I’ll send you a huge list of all of the to-dos while you’re in town. The touristy things and the local things! And I’ll send a huge recommendation for restaurants in all of the different parts of Nashville! I want to make sure you have the absolute best visit possible!
+
+Guest access
+Our guest have access to every complex amenity!  The pool is open year around and heated.  
+Unless closed without notice (glass etc…)
+Smartphone use is necessary!
+
+Other things to note
+The apartment has an open concept that really helps you spread out and settle in to your Music City experience! The kitchen is fully equipped with everything you'll need, bathroom is stocked with plenty of linens & toiletries and of course we provide additional blankets/linens for a comfortable night's rest! The space is perfectly suited for comfortably hosting 2-6 guests (depending on how cozy ya want to be) Our guests really enjoy the TWO unique comfy memory foam queen beds and stylish décor highlighted with records from some of Nashville's greatest contributors to the music scene that has helped make Nashville the destination city it is!
+
+We like for our guests to feel right home! We offer access to the apartment and the building amenities (with certain limitations.)
+
+Apartment amenities include:
+A fully-equipped kitchen, pots & pans, glassware, toiletries, sleeping arrangements for up to 6, linens, towels, and so much more!
+
+You can walk to Broadway in 10 minutes.  This location is in the heart of it all downtown. 
+It’s 20 minutes by car to the airport.  
+
+Free parking for 1 car.  Guest spots available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Seth
+Host User ID: 54803983
+Host Profile URL: https://www.airbnb.com/users/show/54803983
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+6 years hosting
+1959 reviews
+4.7 out of 5 average rating
+6 years of hosting

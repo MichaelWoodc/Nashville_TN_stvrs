@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1210266072785325265
+Latitude: 36.1458
+Longitude: -86.7926
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New Modern Luxury 2 bedroom, 2  bath condo w pool and parking on site !
+
+1 free space parking in garage & free street parking (16th or 17th ave)
+Pool is open May-Sept, fitness room, & Top Floor club room available for guest. 
+Fri and Sat book together usually
+
+1.4 miles to Broadway !
+
+Pet Policy: 2 🐶 Max, under 45 lbs-must include in guest / must include Airbnb pet fee
+
+1 King Primary w en-suite 
+1 Queen 2nd bedroom w en-suite 
+1 sleeper sofa full pullout bed in living room.
+
+Guest access
+1 spot in Parking Garage
+Top Floor Club room, balcony, and fitness room
+Pool and pool area 1st floor
+Our 3rd floor condo
+
+Other things to note
+The pool is open usually May-Sept
+
+Registration Details
+4557268
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeremy
+Host User ID: 80080110
+Host Profile URL: https://www.airbnb.com/users/show/80080110
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of Tennessee, Knoxville
+Lives in Ooltewah, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+1659 reviews
+4.98 out of 5 average rating
+7 years of hosting

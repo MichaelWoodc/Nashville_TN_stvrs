@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1689479409862966511
+Latitude: 36.1565
+Longitude: -86.8164
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 11
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🌃 Rooftop Lounge with City Views
+🍻Garage hangout
+🎤 Karaoke
+✅ Fast WiFi
+📍Location
+
+1.1 miles Vanderbilt - 3.4 miles Broadway - 4.1 miles Bridgestone Arena - 9.7 miles Nashville Zoo
+
+The space
+🛌 Sleeping Arrangements
+- Bedroom 1: King bed (sleeps 2)
+- Bedroom 2: Full Bed and Twin bed (sleeps 3)
+- Bedroom 3: Twin bunk beds (sleeps 2)
+- Bedroom 4: Two sets of full over full bunk beds (sleeps 4-8)
+- Bedroom 5: Full Bed and Twin Bed (sleeps 3)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kaitlyn
+Host User ID: 29579469
+Host Profile URL: https://www.airbnb.com/users/show/29579469
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Cincinnati- FNP
+Response rate: 100%
+Responds within an hour
+4 years hosting
+75 reviews
+4.75 out of 5 average rating
+4 years of hosting

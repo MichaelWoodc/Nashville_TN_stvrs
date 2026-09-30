@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/850179137902544665
+Latitude: 36.1537
+Longitude: -86.7752
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of downtown Nashville!
+ Located in SoBro, you’ll be within easy walking distance of Broadway, Music City Center, Bridgestone Arena, the Country Music Hall of Fame, restaurants, bars, live music, and downtown attractions. 
+
+Enjoy a heated pool, fitness center, and in-unit laundry. 
+
+Whether you’re visiting for a concert, girls’ weekend, sporting event, convention, or Nashville getaway, you can park the car and enjoy downtown on foot.
+
+The space
+The apartment features 1 queen bed, a futon-style couch in the living room, and an air mattress for additional sleeping space. The unit is located on the 8th floor with elevator access and includes an in-unit washer and dryer.
+
+Guests can enjoy complimentary coffee and access to the building’s amenities, including the heated pool (please note: pool towels are not provided), shared workspace, and fitness center.
+
+**Secure garage parking is available for $15/night.** If you need parking, please let the host know on the day of check-in. You’ll receive a link with garage access instructions and your assigned parking space.
+
+Guest access
+Access instructions will be sent to guests on the day of check-in: 
+
+-A building access code for exterior doors, elevators, and keypad-access areas
+-A Key Cafe access number to retrieve the unit’s key fob
+
+The key fob provides access to the building’s public areas and is also used to lock and unlock the apartment door.
+
+Other things to note
+Enjoy a simple, flexible self-check-in experience with check-in available anytime after the designated check-in time.
+
+Building access is provided through the Key Cafe system, and detailed access instructions will be sent on the day of arrival.
+
+For added peace of mind, the property features secure building access and on-site security.
+
+Please keep the key/fob secure throughout your stay, as it is required for building and apartment access. **A $250 replacement fee will apply if the key/fob is lost.**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julia
+Host User ID: 62958099
+Host Profile URL: https://www.airbnb.com/users/show/62958099
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Hopatcong, New Jersey
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+272 reviews
+4.84 out of 5 average rating
+4 years of hosting

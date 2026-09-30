@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1751539196601895500
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You'll wake up to pool views in this upscale king suite two blocks from Broadway. Steps from Nashville's best nightlife, room for the whole crew — sleeps 6, with accessibility features and boutique-hotel design throughout. Parking available, but you won't need a car here. Walk to Bridgestone Arena, the Ryman, and Nissan Stadium. Blackout curtains and a noise machine keep it dark and quiet. TVs in both rooms, full kitchen, laundry, and a swimming pool, sky deck, and a climbing wall downstairs.
+
+The space
+You'll enter into an open living and dining area with a full kitchen, 65" smart TV, and a Juliet-style door overlooking the pool and courtyard. The bedroom features a king bed, 50" smart TV, walk-in closet, and blackout curtains. A queen sleeper sofa and two twin roll-out beds in the living space bring total sleeping capacity to 6. The unit also has a well-lit bathroom and includes your own full-size washer and dryer.
+
+Guest access
+You'll have full access to the entire apartment, plus the building's resort-style pool, sky deck, fitness center, indoor rock climbing wall, and coworking space. Pool and courtyard access requires your reservation name to match photo ID — please have it ready.
+
+Other things to note
+Parking: A dedicated on-site parking space is available for $30/night. Please let me know in advance if you'd like to add parking to your stay. A public parking garage is also available for $40/day, payable at the garage kiosk.
+
+No pets (building-wide policy).
+
+STR Permit #2018070967.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jaime
+Host User ID: 505378540
+Host Profile URL: https://www.airbnb.com/users/show/505378540
+Host Profile URL Source: public user permalink from passport userId
+I'm focused on building thoughtfully designed stays in Nashville. I care about the details — from a great night's sleep to a smooth check-in — and I'm always just a message away if you need anything during your stay.
+Born in the 70s
+My work: Hospitality Industry
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+5.0 out of 5 average rating
+1 month of hosting

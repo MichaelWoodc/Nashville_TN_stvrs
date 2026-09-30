@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/806784306565566195
+Latitude: 36.21773
+Longitude: -86.70607
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy easy access to everything from this perfectly located home base.  Take a break and unwind at this peaceful oasis.  Steeped in Southern traditions of hospitality and charm, you’ll want for nothing as you adventure day and night in Music City. Luckily, this warm, friendly resort is close to Nashville’s best music, and historical landmarks.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steven
+Host User ID: 240078487
+Host Profile URL: https://www.airbnb.com/users/show/240078487
+Host Profile URL Source: public user permalink from passport userId
+My work: Vacations!
+I'm obsessed with: Baseball
+Response rate: 97%
+Responds within an hour
+Superhost
+5 years hosting
+2293 reviews
+4.78 out of 5 average rating
+5 years of hosting

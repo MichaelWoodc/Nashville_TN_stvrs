@@ -1,0 +1,32 @@
+Nashville Airbnb Listing Verification Form
+has fields:
+Airbnb and/or other listing URLs (one per line)
+*
+airbnburl from selection of ones within 550m
+Actual Address
+*
+acrual address from the map / license location
+Proof URLs (one per line)
+*
+proof url for address prefill with airbnb but I'll request another
+Longitude (Use map to autofill)
+long form map
+Latitude (Use map to autofill)
+lat from map
+Notes (i.e. what picture to match between the listings)
+
+Screenthots or other proof (reciepts, bookings, etc.)
+Does this listing have a license?  If so, enter it here!
+Credit (optional, can be private code or identifier you share later)
+Any other notes? (please do not include personal details)
+link:
+https://docs.google.com/forms/d/1pcYlYTWrkNBlPeyJAeKizCJffs6SZ_NygLt1PH4MYfc/prefill
+prefill link:
+https://docs.google.com/forms/d/e/1FAIpQLSe0JVw62QDMmqaRTqCM1NeY1CZ5kyOLWvwsEPTk_ajP8COVbQ/viewform?usp=pp_url&entry.1013247072=airbnburl+from+selection+of+ones+within+550m&entry.1545663527=acrual+address+from+the+map+/+license+location&entry.1747681312=proof+url+for+address+prefill+with+airbnb+but+I'll+request+another&entry.997202982=long+form+map&entry.1827194001=lat+from+map
+
+
+
+Nashville Short Term Rental Complaint Form:
+https://docs.google.com/forms/d/1-5un74Zl5Dw7z4t1w8u7cCubH1hzkKvGGvpOmpWMkhQ/edit
+prefilled:
+https://docs.google.com/forms/d/e/1FAIpQLSfjyNy_1KBORvjiCx7fhIXTupuaQWXS8VDS0ttXh8Go95eCJg/viewform?usp=pp_url&entry.743148639=address+from+map&entry.1753077861=lat&entry.1569813902=long&entry.1841045190=airbnburl

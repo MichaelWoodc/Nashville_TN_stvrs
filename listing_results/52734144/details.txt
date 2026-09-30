@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/52734144
+Latitude: 36.22053
+Longitude: -86.704
+rental_type: Private room in resort
+property_type: RESORT
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unit size & beds varies by what is available. There are one bedroom, two bedroom, three bedroom and four bedroom units. The prices vary by size chosen/available.
+a full kitchen that is stocked with everything you need except food, dining area, living room, balcony, bathroom, washer and dryer and more!  There is a flat screen television in the room, as well as in bedroom. DVD player, Wi-Fi Internet access and more
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sheryl
+Host User ID: 165008812
+Host Profile URL: https://www.airbnb.com/users/show/165008812
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mainesburg, Pennsylvania
+Response rate: 100%
+Responds within an hour
+9 years hosting
+40 reviews
+4.8 out of 5 average rating
+9 years of hosting

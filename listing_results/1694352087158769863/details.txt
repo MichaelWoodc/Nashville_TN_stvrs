@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1694352087158769863
+Latitude: 36.16605034756824
+Longitude: -86.77918895754001
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This memorable hotel is the perfect home base for your trip to Nashville. The cozy room features a delightful king bed, ensuring a comfortable night's sleep for guests. With amenities like a hair dryer and WiFi, you'll have everything you need for a wonderful stay. We hope you'll enjoy your stay at our hotel.
+
+Welcome to the Bluegreen Downtown Nashville—A Premier Boutique Hotel.
+
+Rates and availability vary, so contact host to inquire!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessica
+Host User ID: 101702728
+Host Profile URL: https://www.airbnb.com/users/show/101702728
+Host Profile URL Source: public user permalink from passport userId
+Lives in St. Cloud, Florida
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+137 reviews
+4.82 out of 5 average rating
+3 years of hosting

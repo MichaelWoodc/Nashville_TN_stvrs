@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/46659190
+Latitude: 36.1634
+Longitude: -86.7784
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our nearly 1100 sqft 2nd floor condo in a secured building gives you the space you expect and the convenience of everything downtown and then some!
+
+Step outside and WALK to everything Broadway, Bridgestone or the Ryman in 5 short minutes. Nissan Stadium is <1 mi. 
+
+Located truly the heart of Nashville, our 1 bedroom condo (but with 1 king sized and 1 queen sized bed) will be everything you need during your Nashville adventures! Free coffee, washer and dryer in-unit as well.
+
+The space
+Exposed beams, 10+ foot ceilings, exposed brick. A true open feel loft throughout and will provide plenty of space for everyone. The building and elevator also have codes for entry access providing additional security.
+
+For the bed layout / locations:
+
+We're fortunate that our layout maximizes guest separation!
+
+The bedroom is at the entrance of the unit and the Queen murphy bed (with a real queen mattress) is at the opposite end of the condo by the front facing windows.
+
+Guest access
+Free covered parking right next to the building (1 car only).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shaun
+Host User ID: 377130725
+Host Profile URL: https://www.airbnb.com/users/show/377130725
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+359 reviews
+4.97 out of 5 average rating
+6 years of hosting

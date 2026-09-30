@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1247409193835016442
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover refined luxury in the heart of Music City.
+
+✔️ Spacious 1-bedroom suite
+✔️ 2 king beds
+✔️ A/C
+✔️ Smart TV
+✔️ Strong Wi-Fi
+✔️ Private balcony overlooking resort-style pool (heated in cooler months)
+✔️ Fully Stocked kitchen
+✔️ In-suite laundry
+✔️ Walk-in closet with dresser
+✔️ Steps from live music, dining, and nightlife
+✔️ Fitness center with climbing wall
+✔️ Community BBQs
+✔️ Thoughtfully designed for the discerning traveler
+✔️ On-site security
+✔️ Parking available for $30 per night
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carlene
+Host User ID: 101555646
+Host Profile URL: https://www.airbnb.com/users/show/101555646
+Host Profile URL Source: public user permalink from passport userId
+I love meeting new people and helping guests discover the best of Nashville. Relationships mean a lot to me, so I take pride in creating a welcoming space where you can relax and enjoy your adventure. I cherish the simple joys of country life with my family, but also the vibrant food, music, and community of Nashville. I’m excited to share my favorite spots and help make your stay truly memorable!
+Born in the 80s
+My work: SAHM & STR manager
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+141 reviews
+4.96 out of 5 average rating
+2 years of hosting
