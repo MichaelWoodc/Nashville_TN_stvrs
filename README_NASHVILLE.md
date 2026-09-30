@@ -174,19 +174,16 @@ only in that test browser's memory and never enters the generated data.
   off this display filter shows other listings too, but warnings and heatmap
   counts remain limited to the selected county area. Outside listings are not
   labelled unlicensed merely because Nashville permit data does not cover them.
-- The **difference map** assigns each unique listing and current permit record
-  once to a fixed 500 × 500 m projected grid. Red cells have more listings;
-  green cells have more permit records. Cell popups show both counts and their
-  signed difference. Boundary cells can extend beyond the outline, while only
-  in-scope record points count. No privacy-circle overlaps are double-counted.
-- The **likely-unlicensed heatmap** weights positive-difference cell centres by
-  listing surplus. It is not a raw listing-density heatmap and does not identify
-  which listings lack permits. Its counts use all in-scope records, independently
-  of host, amenity and listing display filters. Leeway changes circle overlap and
-  warnings, not fixed-grid count totals. Edge buffer changes both sets of counts.
-- Multiple current records at a location count as separate permit records; a
-  parcel's number of records is not inferred from its green area. Permit IDs are
-  deduplicated by source ObjectId; listings by their full listing ID.
+- The **difference map** assigns each unique non-hotel listing and distinct
+  current-permit property to a fixed 500 × 500 m projected grid. Red cells have
+  more listings; green cells have more permitted properties. Boundary cells can
+  extend beyond the outline, while only in-scope record points count.
+- The **likely-unlicensed heatmap** gives one equal-weight point to each visible
+  spatially flagged listing at its displayed marker location. Hotels and unknown
+  spatial results are excluded. Host, amenity and listing filters affect these
+  heat points. Privacy leeway and parcel tolerance update the flags; the edge
+  buffer changes the analysis area. The grid comparison remains independent of
+  display filters and does not identify which listings lack permits.
 - Generated `data/spatial.json` holds the outlines and grid. `prepare_spatial.py`
   is reusable preprocessing; `website_template/spatial.js` contains the browser's
   filter and difference calculations. Reload the site after updating templates.
@@ -209,3 +206,38 @@ The module records tourism-board and hotel-operator reference sources.
 
 Validation: `python -m unittest discover -s tests -v`, then with the preview
 running, `python tests/check_hotels_browser.py` (visible Edge).
+
+## Footer occupancy statistics and heatmap
+
+The potential-violations footer percentage uses mapped, non-hotel listings in
+the analysis area with known occupancy results. The dialog shows the numerator,
+denominator, and sequential exclusions. Both >5 bedrooms and multiple detected
+permit numbers are excluded by default. Its checkboxes synchronize with Explore
+rentals; clicking Over occupancy sets minimum overage to 1 and clears unrelated
+filters while preserving calculation settings. Unknowns never count as compliant.
+
+The revenue dialog links to the spatial screening calculation. Its map action
+shows likely-unlicensed listings and enables the red heatmap. This heatmap is now
+an equal-weight density of visible flagged listing markers, not surplus grid
+centroids. Hotels never seed it. Default radius is 250 m and opacity is 45%.
+The separate 500 m difference grid remains available for aggregate comparison.
+`tests/check_violation_stats_browser.py` validates calculations, exclusions,
+filter actions, heatmap anchors and desktop/mobile layouts in visible Edge.
+
+## Rental types and empty host filters
+
+Rental type is a collapsed checkbox menu in Explore rentals. All types, including
+unknown, start selected; multiple types combine with OR. Select all, Clear all,
+and Reset filters are supported. Selections survive data refreshes.
+
+The selected host and amenity-combination controls stay visible when no listings
+match. Require over capacity remains a strict requirement. An outside-area
+combination offers an explicit button to include listings outside the analysis
+area; spatial compliance flags still apply only within the analysis area.
+Basemap raster requests stop at zoom 19 and use those tiles at closer zooms.
+Validate with `python tests/check_rental_host_filters_browser.py` in visible Edge.
+
+Manual hotel override: listings hosted by **AvantStay Nashville** that mention
+**SoBro** in listing-specific text are classified as hotels. Matching is
+case-insensitive; the shared host biography is not used. The override is recorded
+in popup/export evidence as `manual_avantstay_nashville_sobro` and survives rebuilds.

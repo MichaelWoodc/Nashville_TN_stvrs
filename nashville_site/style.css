@@ -60,3 +60,26 @@ html:has(#map),body:has(#map){width:100%;height:100%;overflow:hidden}#statusbar{
 body.dark-mode{background:#101820;color:#e2e8f0}body.dark-mode header{background:#0b1117;color:#f3f7fa}body.dark-mode header span{color:#a8bbc8}body.dark-mode a{color:#79c9e8}body.dark-mode .panel,body.dark-mode #otherPermitDialog,body.dark-mode #firstVisitDisclaimer,body.dark-mode #reportDialog,body.dark-mode #hostConfirmDialog{background:#17232d;color:#e2e8f0;border-color:#3b5363}body.dark-mode section,body.dark-mode .license-filters,body.dark-mode .permit-status-row{border-color:#344b5c}body.dark-mode input[type=search],body.dark-mode input[type=number],body.dark-mode select{background:#101820;color:#e2e8f0;border-color:#496273}body.dark-mode button{background:#263845;color:#e2e8f0;border-color:#496273}body.dark-mode button:hover{background:#345064}body.dark-mode .host-column-labels{background:#17232d}body.dark-mode .host-row.host-grid{background:transparent}body.dark-mode .host-name.selected,body.dark-mode .host-combo.selected{background:#164e63;color:#ecfeff}body.dark-mode .host-count,body.dark-mode .host-metric{background:#544617;border-color:#927a27;color:#fff2b2}body.dark-mode .host-metric.filter-active,body.dark-mode .host-count.filter-active{background:#7f1d1d;border-color:#ef4444;color:#fee2e2}body.dark-mode .host-combo{background:#463b18;border-color:#927a27;color:#fff2b2}body.dark-mode .muted{color:#b3c1ca}body.dark-mode .spatial-warning{background:#342c16;border-color:#eab308}body.dark-mode #statusbar{background:#0b1117;color:#dce7ed;border-top:1px solid #344b5c}body.dark-mode .github-note{color:#b3c1ca}body.dark-mode .theme-switch{border-color:#496273}body.dark-mode .license-listing-candidate{background:#101820;color:#e2e8f0}body.dark-mode .license-listing-candidate span{color:#b3c1ca}body.dark-mode .report-candidate{background:#17232d;color:#e2e8f0;border-color:#344b5c}body.dark-mode .report-candidate.selected{background:#164e3a}body.dark-mode .maplibregl-popup-content{background:#17232d;color:#e2e8f0}body.dark-mode .maplibregl-popup-tip{border-top-color:#17232d;border-bottom-color:#17232d}#firstVisitDisclaimer{z-index:2000}#firstVisitDisclaimer button{background:#087f8c;color:#fff;font-weight:700;padding:10px 16px}
 
 .hotel-notice{border-left:4px solid #f97316;padding:4px 8px;background:rgba(249,115,22,.12)}
+
+#violationStatsDialog,#revenueDialog{width:min(660px,94vw);max-height:88dvh;overflow:auto;border:0;border-radius:10px;padding:22px;color:#172b3b;box-shadow:0 10px 55px #0005}
+#violationStatsDialog::backdrop,#revenueDialog::backdrop{background:#172b3b88}
+#violationStatsDialog label{display:block;margin:12px 0;font-size:14px}
+#violationStatsDialog h3{margin:20px 0 10px}
+#violationStatsDialog p{line-height:1.5}
+#violationStatsDialog .report-heading h2{font-size:18px}
+#closeViolationStats{font-size:26px}
+#showOverOccupancy,#showLikelyUnlicensed{margin-top:8px;font-weight:700}
+#violationStatsButton{border-color:#be123c;font-weight:700}
+body.dark-mode #violationStatsDialog,body.dark-mode #revenueDialog{background:#17232d;color:#e2e8f0}
+#statusbar{flex-wrap:wrap;max-height:none;min-height:0}
+#statusbar .footer-data{flex:1 1 auto;flex-wrap:wrap;white-space:normal}
+#statusbar .footer-about{flex-wrap:wrap;white-space:normal}
+#map{bottom:var(--map-footer-height,100px)!important}
+.listing-popup-centered{--footer-clearance:var(--map-footer-height,100px)}
+@media(max-width:700px){#violationStatsDialog,#revenueDialog{padding:16px}#violationStatsDialog .report-heading h2{font-size:16px}}
+
+#rentalTypes summary{cursor:pointer;font-size:14px;font-weight:700}
+#rentalTypes summary small{display:block;margin:5px 0 0 16px;font-size:11px;font-weight:400}
+#rentalTypeOptions{max-height:260px;overflow-y:auto;margin-top:10px}
+#rentalTypeOptions label{display:flex;align-items:flex-start;gap:6px;margin:7px 0;font-size:12px}
+.host-capacity-note{flex:1 0 100%;font-size:12px;line-height:1.5}

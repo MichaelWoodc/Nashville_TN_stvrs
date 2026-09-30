@@ -14,7 +14,7 @@ let listings=[], permits=[], report, visible=[], selectedHost='', selectedHostMe
 const permitGrid = new Map(), addressCache = new Map();
 let currentPermits=[], parcelManifest, addressRequest=0;
 let spatial={available:false}, balance=[], balanceKey=null;
-let selectedListing=null, hoveredPrivacyId=null, selectedPartyCombo='', selectedPartyRequireCapacity=false, selectedPartyCapacityFallback=false, pendingHostKey='';
+let selectedListing=null, hoveredPrivacyId=null, selectedPartyCombo='', selectedPartyRequireCapacity=false, pendingHostKey='';
 let licensedParcels=null, activeListingPointIndex=null;
 let hostSortKey='total',hostSortDirection='desc';
 const leeway = () => Number($('leeway').value);
@@ -74,12 +74,54 @@ function communityStatus(listing) {
   return communityStatusNames[listing.community_license_status] ? listing.community_license_status : 'undetermined';
 }
 function overCapacityFlag(listing) {
-  return Number(listing?.over_capacity)>0&&(!(Number(listing?.bedrooms)>5)||$('includeLargeOverCapacity').checked);
+  return ViolationStats.overOccupancy(listing,!$('includeLargeOverCapacity').checked,$('excludeMultipleOverCapacity').checked);
+}
+function updateViolationStats() {
+  const excludeLarge=!$('includeLargeOverCapacity').checked,excludeMultiple=$('excludeMultipleOverCapacity').checked;
+  $('statsExcludeLarge').checked=excludeLarge;$('statsExcludeMultiple').checked=excludeMultiple;
+  const scoped=listings.filter(l=>l.point&&Spatial.inScope(l,edgeBuffer()));
+  const stats=ViolationStats.summarize(scoped,excludeLarge,excludeMultiple);
+  const fmt=n=>n.toLocaleString();
+  const percent=stats.percent===null?'N/A':stats.percent.toFixed(1)+'%';
+  $('violationStatsButton').textContent=spatial.available?`${percent} potential violations`:'Potential violations N/A';
+  $('violationStatsButton').title='Over-occupancy percentage · click for counts, exclusions and map filters';
+  $('occupancyEquation').textContent=spatial.available
+    ?`${fmt(stats.over)} over-occupancy listings ÷ ${fmt(stats.eligible)} eligible listings with known occupancy × 100 = ${percent}.`
+    :'Analysis-area data unavailable; no occupancy percentage calculated.';
+  const rows=[['Mapped listings in analysis area',stats.total],['Likely hotels excluded',stats.hotels],['More than 5 bedrooms excluded',stats.large],['Multiple license numbers excluded (after bedroom exclusion)',stats.multiple],['Unknown occupancy excluded',stats.unknown],['Eligible denominator',stats.eligible]];
+  $('occupancyBreakdown').replaceChildren(...rows.map(([label,count])=>{const row=document.createElement('p');row.className='permit-status-row';const name=document.createElement('span');name.textContent=label;const value=document.createElement('strong');value.textContent=fmt(count);row.append(name,value);return row;}));
+  $('showOverOccupancy').textContent=`Over occupancy: ${fmt(stats.over)} · Show on map (+1)`;
+  $('showOverOccupancy').disabled=!spatial.available||!stats.over;
+  const nonHotels=scoped.filter(l=>!l.likely_hotel),known=nonHotels.filter(l=>Spatial.overlap(l,leeway(),parcelTolerance())!==null);
+  const likely=known.filter(likelyUnlicensed).length;
+  $('likelyStatsEquation').textContent=spatial.available
+    ?`${fmt(likely)} likely-unlicensed listings ÷ ${fmt(known.length)} spatially assessable non-hotel listings = ${known.length?(100*likely/known.length).toFixed(1)+'%':'N/A'}. ${fmt(nonHotels.length-known.length)} unknown spatial results excluded. Privacy leeway +${leeway()}%; parcel tolerance ${parcelTolerance().toFixed(2)} m; edge buffer ${edgeBuffer()} m.`
+    :'Spatial data unavailable; no likely-unlicensed classification calculated.';
+  $('showLikelyUnlicensed').textContent=`Likely unlicensed: ${fmt(likely)} · Show listings + heatmap`;
+  $('showLikelyUnlicensed').disabled=!spatial.available||!likely;
+  $('revenueLikelyStats').textContent=spatial.available?`Potentially unlicensed: ${fmt(likely)} · View screening calculation`:'Potentially unlicensed · Spatial data unavailable';
+}
+function showStatsOnMap(kind) {
+  // Keep calculation settings while clearing unrelated filters so counts reconcile.
+  const preserved={includeLargeOverCapacity:$('includeLargeOverCapacity').checked,excludeMultipleOverCapacity:$('excludeMultipleOverCapacity').checked,
+    edgeBuffer:$('edgeBuffer').value,leeway:$('leeway').value,nearTolerance:$('nearTolerance').checked};
+  for(const control of document.querySelectorAll('#filters input')){
+    if(control.type==='checkbox')control.checked=control.defaultChecked;else control.value=control.defaultValue;
+  }
+  for(const control of document.querySelectorAll('#filters select'))control.selectedIndex=0;
+  for(const [id,value] of Object.entries(preserved))if(typeof value==='boolean')$(id).checked=value;else $(id).value=value;
+  selectedHost='';selectedHostMetric='';selectedPartyCombo='';selectedPartyRequireCapacity=false;$('hostSearch').value='';
+  $('scopeOnly').checked=true;$('over').value=kind==='occupancy'?'1':'0';
+  $('likely').checked=kind==='likely';$('surplusHeatmap').checked=kind==='likely';
+  $('violationStatsDialog').close();$('revenueDialog').close();popup?.remove();selectedListing=null;
+  if($('filters').classList.contains('collapsed'))$('toggleFilters').click();
+  update();fitVisible();
 }
 function filterListings() {
   const query=$('search').value.trim().toLowerCase(), selected=[...document.querySelectorAll('.amenity:checked')].map(e=>e.value);
   const communityStatuses=[...document.querySelectorAll('.community-status:checked')].map(e=>e.value);
   const minimum=Number($('over').value), radius=Number($('radius').value);
+  const rentalTypes=new Set([...document.querySelectorAll('.rental-type:checked')].map(input=>input.value));
   const matching=requireCapacity=>listings.filter(l=>l.point && (!query||l.search.includes(query)) && (!selectedHost||hostKey(l)===selectedHost)
     && (!$('scopeOnly').checked||Spatial.inScope(l,edgeBuffer()))
     && (!$('likely').checked||likelyUnlicensed(l))
@@ -90,11 +132,9 @@ function filterListings() {
     && (!requireCapacity||(selectedHost&&['party','combo'].includes(selectedHostMetric)&&overCapacityFlag(l)))
     && (selectedHostMetric!=='combo'||amenityCombo(l)===selectedPartyCombo)
     && (!selected.length||($('allAmenities').checked?selected.every(k=>l.amenities[k]):selected.some(k=>l.amenities[k])))
-    && (!$('rentalType').value||l.rental_type===$('rentalType').value)
+    && rentalTypes.has(l.rental_type||'')
     && (!$('outside').checked||outsideCoverage(l,radius)));
-  const filtered=matching(selectedPartyRequireCapacity);
-  selectedPartyCapacityFallback=Boolean(selectedPartyRequireCapacity&&filtered.length===0&&matching(false).length>0);
-  return selectedPartyCapacityFallback?matching(false):filtered;
+  return matching(selectedPartyRequireCapacity);
 }
 function exploreFiltersActive() {
   const controls=[...document.querySelectorAll('#filters input,#filters select')].filter(control=>!control.disabled);
@@ -159,6 +199,7 @@ function update() {
   const scoped=listings.filter(l=>l.point&&Spatial.inScope(l,edgeBuffer()));
   $('spatialSummary').textContent=spatial.available?`${scoped.filter(l=>likelyUnlicensed(l)).length.toLocaleString()} spatial warnings · ${scoped.filter(l=>Spatial.overlap(l,leeway(),parcelTolerance())===null).length} unknown · ${scoped.length.toLocaleString()} listings in analysis area. ${parcelTolerance()?'Includes 10-yard parcel tolerance (Advanced). ':''}Overlap is not a confirmed license match.`:'Spatial data unavailable; no warnings inferred.';
   updateBalance();
+  updateViolationStats();
   layerVisibility(['parcel-fill','parcel-line'],$ ('parcels').checked);
   layerVisibility(['heatmap'],$ ('heatmap').checked);
   const displayedPermits=$('historical').checked?permits:currentPermits;
@@ -180,24 +221,33 @@ function updateBalance() {
     balance=Spatial.balanceCells(listings,permits,spatial.cells,edgeBuffer(),0);balanceKey=key;
     sourceData('balance',collection(balance));
   }
-  const toHeatPoints=(features,sign)=>features.filter(f=>sign*f.properties.difference>0&&nearVisibleListing(f.properties.center)).map(f=>feature({type:'Point',coordinates:f.properties.center},{weight:Math.min(1,Math.abs(f.properties.difference)/8),radius_scale:Math.max(.01,radius/550)}));
-  sourceData('surplus',collection(toHeatPoints(balance,1)));
-  sourceData('deficit',collection(toHeatPoints(balance,-1)));
-  for(const id of ['surplus-heatmap','deficit-heatmap'])if(map.getLayer(id))map.setPaintProperty(id,'heatmap-opacity',intensity/2);
+  // One equal-weight observation per visible flagged listing, anchored to its marker.
+  // Grid-cell centers can lie far from rentals, so they never seed the red heatmap.
+  const heatListings=[...new Map(visible.filter(likelyUnlicensed).map(l=>[l.listing_id,l])).values()];
+  sourceData('surplus',collection(heatListings.map(l=>feature({type:'Point',coordinates:l.displayPoint||l.point},
+    {id:l.listing_id,weight:1,radius_scale:radius/550}))));
+  sourceData('deficit',collection([]));
+  if(map.getLayer('surplus-heatmap'))map.setPaintProperty('surplus-heatmap','heatmap-opacity',intensity);
   layerVisibility(['balance-fill','balance-outline'],$ ('difference').checked);
-  layerVisibility(['surplus-heatmap','deficit-heatmap'],$ ('surplusHeatmap').checked);
+  layerVisibility(['surplus-heatmap'],$ ('surplusHeatmap').checked&&radius>0);
+  layerVisibility(['deficit-heatmap'],false);
   const listingCount=new Set(listings.filter(l=>!l.likely_hotel&&l.point&&l.cell_id&&Spatial.inScope(l,edgeBuffer())).map(l=>l.listing_id)).size;
   const propertyCount=new Set(permits.filter(p=>p.status==='current'&&p.point&&p.cell_id&&Spatial.inScope(p,edgeBuffer())).map(p=>normalizeParcel(p.parcel)||`record:${p.id}`)).size;
-  $('balanceSummary').textContent=`${listingCount.toLocaleString()} non-hotel listing locations · ${propertyCount.toLocaleString()} distinct current-permit properties. Counts are counted once here; heat cells show local radius-smoothed differences.`;
+  $('balanceSummary').textContent=`${listingCount.toLocaleString()} non-hotel listing locations · ${propertyCount.toLocaleString()} distinct current-permit properties. ${heatListings.length.toLocaleString()} visible likely-unlicensed listings seed the red heatmap. Grid counts are independent of display filters.`;
 }
 function updateHosts() {
   $('clearHost').classList.toggle('filter-attention',Boolean(selectedHost));
   $('clearHost').setAttribute('aria-pressed',String(Boolean(selectedHost)));
   const groups=new Map();
   for(const l of visible) {const key=hostKey(l);if(!groups.has(key))groups.set(key,{name:l.host_name||'Unknown host',items:[]});groups.get(key).items.push(l);}
+  // Keep the active host's controls even when scope or another filter hides every result.
+  if(selectedHost&&!groups.has(selectedHost)){
+    const identity=listings.find(l=>hostKey(l)===selectedHost);
+    if(identity)groups.set(selectedHost,{name:identity.host_name||'Unknown host',items:[]});
+  }
   const hostQuery=$('hostSearch').value.trim().toLowerCase();
   const metric=group=>hostSortKey==='likely'?group.items.filter(likelyUnlicensed).length:hostSortKey==='party'?group.items.filter(l=>l.party_house||overCapacityFlag(l)).length:group.items.length;
-  const filteredGroups=[...groups].filter(([,group])=>group.name.toLowerCase().includes(hostQuery)).sort((a,b)=>{
+  const filteredGroups=[...groups].filter(([key,group])=>key===selectedHost||group.name.toLowerCase().includes(hostQuery)).sort((a,b)=>{
     const comparison=hostSortKey==='host'?a[1].name.localeCompare(b[1].name):metric(a[1])-metric(b[1])||a[1].name.localeCompare(b[1].name);
     return comparison*(hostSortDirection==='asc'?1:-1);
   });
@@ -212,7 +262,7 @@ function updateHosts() {
   $('hosts').append(heading);
   for(const [key,g] of filteredGroups) {
     const row=document.createElement('div');row.className='host-row host-grid';
-    const name=document.createElement('button');name.className='host-name'+(key===selectedHost?' selected':'');name.textContent=g.name;const identity=g.items[0];name.title=identity.host_user_id?`Host ID ${identity.host_user_id}`:identity.host_profile_url||g.name;name.onclick=()=>{selectedHost=key;selectedHostMetric='total';selectedPartyRequireCapacity=false;$('partyOnly').checked=false;update();fitVisible();};
+    const name=document.createElement('button');name.className='host-name'+(key===selectedHost?' selected':'');name.textContent=g.name;const identity=g.items[0]||listings.find(l=>hostKey(l)===key);name.title=identity.host_user_id?`Host ID ${identity.host_user_id}`:identity.host_profile_url||g.name;name.onclick=()=>{selectedHost=key;selectedHostMetric='total';selectedPartyRequireCapacity=false;$('partyOnly').checked=false;update();fitVisible();};
     const total=document.createElement('button');total.className='host-count'+(selectedHost===key&&selectedHostMetric==='total'?' filter-active':'');total.textContent=g.items.length;total.title='Filter map to this host';total.onclick=()=>{selectedHost=key;selectedHostMetric='total';selectedPartyRequireCapacity=false;$('partyOnly').checked=false;update();fitVisible();};
     const unlicensed=document.createElement('button');unlicensed.className='host-metric'+(selectedHost===key&&selectedHostMetric==='likely'?' filter-active':'');unlicensed.textContent=g.items.filter(likelyUnlicensed).length;unlicensed.title='Filter this host to possibly unlicensed locations';
     unlicensed.onclick=()=>{selectedHost=key;selectedHostMetric='likely';selectedPartyRequireCapacity=false;$('partyOnly').checked=false;$('likely').checked=true;update();fitVisible();};
@@ -226,12 +276,23 @@ function updateHosts() {
       }
       const comboRow=document.createElement('div');comboRow.className='host-combos';
       const capacityLabel=document.createElement('label');capacityLabel.className='host-capacity-filter';const capacityToggle=document.createElement('input');capacityToggle.type='checkbox';capacityToggle.checked=selectedPartyRequireCapacity;capacityToggle.onchange=()=>{selectedPartyRequireCapacity=capacityToggle.checked;update();};capacityLabel.append(capacityToggle,document.createTextNode('Require over capacity'));comboRow.append(capacityLabel);
-      if(selectedPartyCapacityFallback){const note=document.createElement('p');note.className='host-capacity-note';note.textContent='No over-capacity listings match this host and current filters; showing all matching results.';comboRow.append(note);}
+      if(!g.items.length){
+        const note=document.createElement('p');note.className='host-capacity-note';note.setAttribute('role','status');
+        note.textContent='No listings match all current filters. This host and its controls remain selected. Change the combination, occupancy requirement, rental types, or analysis-area filter.';
+        comboRow.append(note);
+        const comboListings=listings.filter(l=>hostKey(l)===key&&l.point&&(selectedHostMetric!=='combo'||amenityCombo(l)===selectedPartyCombo));
+        if($('scopeOnly').checked&&comboListings.length&&comboListings.every(l=>!Spatial.inScope(l,edgeBuffer()))){
+          note.textContent='This combination is outside the selected analysis area. The analysis-area filter is hiding its listings.';
+          const outsideButton=document.createElement('button');outsideButton.type='button';outsideButton.className='show-outside-host';outsideButton.textContent='Include listings outside analysis area';
+          outsideButton.onclick=()=>{$('scopeOnly').checked=false;update();fitVisible();};comboRow.append(outsideButton);
+        }
+      }
       const largeCapacityLabel=document.createElement('label');largeCapacityLabel.className='host-capacity-filter';const largeCapacityToggle=document.createElement('input');largeCapacityToggle.type='checkbox';largeCapacityToggle.checked=$('includeLargeOverCapacity').checked;largeCapacityToggle.onchange=()=>{$('includeLargeOverCapacity').checked=largeCapacityToggle.checked;update();};largeCapacityLabel.append(largeCapacityToggle,document.createTextNode('Include >5-bedroom over-capacity listings'));comboRow.append(largeCapacityLabel);
       for(const [combo,count] of [...combinations].sort((a,b)=>a[0].localeCompare(b[0]))) {
         const button=document.createElement('button');button.type='button';button.className='host-combo'+(selectedHostMetric==='combo'&&selectedPartyCombo===combo?' selected':'');
         button.innerHTML=`${combo.split('|').map(amenityIconHtml).join(' ')} ${esc(count)}`;
-        button.title=`Show ${count} listing${count===1?'':'s'} with this exact amenity combination`;
+        button.title=`${count} host listing${count===1?'':'s'} with this exact amenity combination, before other filters`;
+        button.dataset.combo=combo;
         button.setAttribute('aria-pressed',String(selectedHostMetric==='combo'&&selectedPartyCombo===combo));
         button.onclick=()=>{selectedHost=key;selectedHostMetric='combo';selectedPartyCombo=combo;$('partyOnly').checked=true;update();fitVisible();};
         comboRow.append(button);
@@ -387,8 +448,13 @@ function prepareData() {
   for(const group of groups.values()) group.forEach((l,i)=>{
     l.displayPoint=group.length===1?l.point:[l.point[0]+Math.cos(i*2*Math.PI/group.length)*.00007,l.point[1]+Math.sin(i*2*Math.PI/group.length)*.000055];
   });
-  const current=$('rentalType').value;$('rentalType').replaceChildren(new Option('All rental types',''));
-  [...new Set(listings.map(l=>l.rental_type).filter(Boolean))].sort().forEach(t=>$('rentalType').add(new Option(t,t)));$('rentalType').value=current;
+  const previousTypes=new Map([...document.querySelectorAll('.rental-type')].map(input=>[input.value,input.checked]));
+  $('rentalTypeOptions').replaceChildren(...[...new Set(listings.map(l=>l.rental_type||''))].sort().map(type=>{
+    const label=document.createElement('label'),input=document.createElement('input');
+    input.type='checkbox';input.className='rental-type';input.value=type;input.defaultChecked=true;
+    input.checked=previousTypes.has(type)?previousTypes.get(type):true;
+    label.append(input,document.createTextNode(type||'Unknown rental type'));return label;
+  }));
   const permitStatusCounts=new Map();
   for(const permit of permits){const status=String(permit.status||'unknown').toLowerCase();permitStatusCounts.set(status,(permitStatusCounts.get(status)||0)+1);}
   const permitStatusLabel=status=>status.replaceAll('_',' ').replace(/\b\w/g,c=>c.toUpperCase());
@@ -424,8 +490,8 @@ function addSourcesAndLayers() {
   map.addSource('parcels',{type:'geojson',data:licensedParcels||collection([])});
   map.addLayer({id:'balance-fill',type:'fill',source:'balance',layout:{visibility:'none'},paint:{'fill-color':['interpolate',['linear'],['get','difference'],-20,'#15803d',0,'#f1f5f9',20,'#ef4444',100,'#991b1b'],'fill-opacity':.42}});
   map.addLayer({id:'balance-outline',type:'line',source:'balance',layout:{visibility:'none'},paint:{'line-color':'#475569','line-opacity':.3,'line-width':.5}});
-  map.addLayer({id:'surplus-heatmap',type:'heatmap',source:'surplus',layout:{visibility:'none'},paint:{'heatmap-weight':['get','weight'],'heatmap-radius':['interpolate',['linear'],['zoom'],9,['*',['get','radius_scale'],2],11,['*',['get','radius_scale'],8],13,['*',['get','radius_scale'],32],15,['*',['get','radius_scale'],128]],'heatmap-intensity':1,'heatmap-opacity':.15,'heatmap-color':['interpolate',['linear'],['heatmap-density'],0,'rgba(255,255,255,0)',.02,'rgba(254,202,202,.7)',.08,'rgba(239,68,68,.85)',.22,'rgba(185,28,28,.92)',1,'rgba(127,29,29,.96)']}});
-  map.addLayer({id:'deficit-heatmap',type:'heatmap',source:'deficit',layout:{visibility:'none'},paint:{'heatmap-weight':['get','weight'],'heatmap-radius':['interpolate',['linear'],['zoom'],9,['*',['get','radius_scale'],2],11,['*',['get','radius_scale'],8],13,['*',['get','radius_scale'],32],15,['*',['get','radius_scale'],128]],'heatmap-intensity':1,'heatmap-opacity':.15,'heatmap-color':['interpolate',['linear'],['heatmap-density'],0,'rgba(255,255,255,0)',.02,'rgba(237,247,237,.65)',.08,'rgba(205,232,205,.75)',.22,'rgba(151,201,151,.85)',1,'rgba(112,168,112,.9)']}});
+  map.addLayer({id:'surplus-heatmap',type:'heatmap',source:'surplus',layout:{visibility:'none'},paint:{'heatmap-weight':['get','weight'],'heatmap-radius':['interpolate',['linear'],['zoom'],9,['*',['get','radius_scale'],4.5],11,['*',['get','radius_scale'],18],13,['*',['get','radius_scale'],72],15,['*',['get','radius_scale'],288],18,['*',['get','radius_scale'],2304]],'heatmap-intensity':1,'heatmap-opacity':.15,'heatmap-color':['interpolate',['linear'],['heatmap-density'],0,'rgba(255,255,255,0)',.02,'rgba(254,202,202,.7)',.08,'rgba(239,68,68,.85)',.22,'rgba(185,28,28,.92)',1,'rgba(127,29,29,.96)']}});
+  map.addLayer({id:'deficit-heatmap',type:'heatmap',source:'deficit',layout:{visibility:'none'},paint:{'heatmap-weight':['get','weight'],'heatmap-radius':['interpolate',['linear'],['zoom'],9,['*',['get','radius_scale'],4.5],11,['*',['get','radius_scale'],18],13,['*',['get','radius_scale'],72],15,['*',['get','radius_scale'],288],18,['*',['get','radius_scale'],2304]],'heatmap-intensity':1,'heatmap-opacity':.15,'heatmap-color':['interpolate',['linear'],['heatmap-density'],0,'rgba(255,255,255,0)',.02,'rgba(237,247,237,.65)',.08,'rgba(205,232,205,.75)',.22,'rgba(151,201,151,.85)',1,'rgba(112,168,112,.9)']}});
   map.addLayer({id:'nearby-parcel-fill',type:'fill',source:'nearby-parcels',minzoom:15,paint:{'fill-color':'#94a3b8','fill-opacity':.025}});
   map.addLayer({id:'nearby-parcel-line',type:'line',source:'nearby-parcels',minzoom:15,paint:{'line-color':'#64748b','line-opacity':.65,'line-width':1}});
   map.addLayer({id:'parcel-fill',type:'fill',source:'parcels',paint:{'fill-color':'#22c55e','fill-opacity':.42}});
@@ -491,15 +557,31 @@ async function init() {
     if(report.spatial?.available)spatial=await getJSON('data/spatial.json');
     if(!spatial.available){for(const id of ['scopeOnly','likely','warningSymbols','difference','surplusHeatmap','heatRadius','heatIntensity']){$(id).checked=false;$(id).disabled=true;}}
     prepareData();
-    map=new maplibregl.Map({container:'map',center:[-86.7816,36.1627],zoom:11,style:{version:8,glyphs:'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',sources:{osm:{type:'raster',tiles:['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],tileSize:256,attribution:'© OpenStreetMap contributors'}},layers:[{id:'basemap',type:'raster',source:'osm'}]}});
+    map=new maplibregl.Map({container:'map',center:[-86.7816,36.1627],zoom:11,style:{version:8,glyphs:'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',sources:{osm:{type:'raster',tiles:['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],tileSize:256,maxzoom:19,attribution:'© OpenStreetMap contributors'}},layers:[{id:'basemap',type:'raster',source:'osm'}]}});
     map.addControl(new maplibregl.NavigationControl(),'top-right');map.addControl(new maplibregl.ScaleControl());
     map.on('load',addSourcesAndLayers);
-    for(const el of document.querySelectorAll('#filters input,#filters select'))el.addEventListener(el.type==='search'?'input':'change',()=>{updateExploreClearButton();clearTimeout(refreshTimer);refreshTimer=setTimeout(update,el.type==='search'?180:0);});
+    for(const el of document.querySelectorAll('#filters input:not(.rental-type),#filters select'))el.addEventListener(el.type==='search'?'input':'change',()=>{updateExploreClearButton();clearTimeout(refreshTimer);refreshTimer=setTimeout(update,el.type==='search'?180:0);});
+    $('rentalTypes').addEventListener('toggle',()=>{$('rentalTypeHint').textContent=$('rentalTypes').open?'Click to hide':'Click to expand';});
+    $('rentalTypeOptions').addEventListener('change',update);
+    for(const [id,checked] of [['rentalTypesAll',true],['rentalTypesNone',false]])$(id).onclick=()=>{
+      for(const input of document.querySelectorAll('.rental-type'))input.checked=checked;update();
+    };
     setupResponsivePanels();
+    // Footer wraps as counts and viewport widths change; reserve its actual height.
+    new ResizeObserver(()=>{const height=$('statusbar').getBoundingClientRect().height;
+      document.documentElement.style.setProperty('--map-footer-height',height+'px');map.resize();
+    }).observe($('statusbar'));
     $('clearExploreFilters').onclick=resetExploreFilters;
     $('hostSearch').addEventListener('input',updateHosts);
     $('clearHost').onclick=()=>{selectedHost='';selectedHostMetric='';selectedPartyCombo='';selectedPartyRequireCapacity=false;$('likely').checked=false;$('partyOnly').checked=false;update();};
     $('currentPermitCount').onclick=()=>$('otherPermitDialog').showModal();$('closeOtherPermits').onclick=()=>$('otherPermitDialog').close();
+    $('violationStatsButton').onclick=()=>{updateViolationStats();$('violationStatsDialog').showModal();};
+    $('closeViolationStats').onclick=()=>$('violationStatsDialog').close();
+    $('statsExcludeLarge').onchange=()=>{$('includeLargeOverCapacity').checked=!$('statsExcludeLarge').checked;update();};
+    $('statsExcludeMultiple').onchange=()=>{$('excludeMultipleOverCapacity').checked=$('statsExcludeMultiple').checked;update();};
+    $('showOverOccupancy').onclick=()=>showStatsOnMap('occupancy');
+    $('showLikelyUnlicensed').onclick=()=>showStatsOnMap('likely');
+    $('revenueLikelyStats').onclick=()=>{$('revenueDialog').close();updateViolationStats();$('violationStatsDialog').showModal();};
     $('potentialRevenueButton').onclick=()=>$('revenueDialog').showModal();$('closeRevenueDialog').onclick=()=>$('revenueDialog').close();
     $('sourcesButton').onclick=()=>$('sourcesDialog').showModal();$('closeSourcesDialog').onclick=()=>$('sourcesDialog').close();
     $('aboutButton').onclick=()=>$('aboutPageDialog').showModal();$('closeAboutPageDialog').onclick=()=>$('aboutPageDialog').close();

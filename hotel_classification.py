@@ -18,6 +18,21 @@ CONTEXT = re.compile(r'\b(?:near(?:by)?|close to|next to|across from|from|away|w
 
 def classify_hotel(row):
     evidence = []
+    # User-supplied override: AvantStay Nashville listings mentioning SoBro.
+    # Do not use the host biography, which can describe unrelated properties.
+    host = ' '.join(str(row.get('host_name', '')).split()).casefold()
+    if host == 'avantstay nashville':
+        for field, raw in row.items():
+            key = field.lower().replace(' ', '_')
+            if key not in ('title', 'name', 'rental_type', 'property_type', 'room_type', 'location_name', '_hotel_text') and 'description' not in key:
+                continue
+            text = unicodedata.normalize('NFKC', str(raw or '')).split('=== HOST DETAILS ===')[0]
+            match = re.search(r'\bsobro\b', text, re.I)
+            if match:
+                evidence.append({'field': field, 'match': match.group(),
+                                 'rule': 'manual_avantstay_nashville_sobro',
+                                 'evidence': 'User override: AvantStay Nashville + SoBro. ' + text[max(0, match.start()-80):match.end()+120].strip()})
+                break
     for field, raw in row.items():
         key = field.lower().replace(' ', '_')
         is_type = key in ('room_type', 'rental_type', 'property_type', 'accommodation_type')
