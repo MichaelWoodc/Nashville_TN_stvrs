@@ -480,6 +480,7 @@ async function init() {
     $('currentPermitCount').onclick=()=>$('otherPermitDialog').showModal();$('closeOtherPermits').onclick=()=>$('otherPermitDialog').close();
     $('potentialRevenueButton').onclick=()=>$('revenueDialog').showModal();$('closeRevenueDialog').onclick=()=>$('revenueDialog').close();
     $('sourcesButton').onclick=()=>$('sourcesDialog').showModal();$('closeSourcesDialog').onclick=()=>$('sourcesDialog').close();
+    $('aboutButton').onclick=()=>$('aboutDialog').showModal();$('closeAboutDialog').onclick=()=>$('aboutDialog').close();
     $('hostPromptClose').onclick=$('hostPromptNo').onclick=()=>$('hostConfirmDialog').close();
     $('hostPromptYes').onclick=()=>{if(!pendingHostKey)return;selectedHost=pendingHostKey;selectedHostMetric='total';selectedPartyCombo='';selectedPartyRequireCapacity=false;$('partyOnly').checked=false;$('hostSearch').value='';$('hostConfirmDialog').close();popup?.remove();popup=null;update();fitVisible();};
     $('closePartyDisclaimer').onclick=()=>$('partyDisclaimer').close();

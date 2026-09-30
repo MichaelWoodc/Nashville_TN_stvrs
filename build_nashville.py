@@ -47,6 +47,21 @@ def atomic_text(path, value):
                 pass
 
 
+def atomic_bytes(path, value):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temp = path.with_suffix(path.suffix + '.tmp')
+    with FILE_IO_LOCK:
+        temp.write_bytes(value)
+        try:
+            os.replace(temp, path)
+        except PermissionError:
+            path.write_bytes(value)
+            try:
+                temp.unlink()
+            except OSError:
+                pass
+
+
 def write_json(path, value):
     atomic_text(path, json.dumps(value, ensure_ascii=False, separators=(',', ':'), allow_nan=False))
 
@@ -398,7 +413,10 @@ def build(root=ROOT, output=None, as_of=None):
     write_csv(output/'data/listing_details_repaired.csv', list(rows.values()))
     for path in (root/'website_template').iterdir():
         if path.is_file():
-            atomic_text(output/path.name, path.read_text(encoding='utf-8'))
+            if path.suffix.lower() in {'.jpg', '.jpeg', '.png', '.webp', '.gif'}:
+                atomic_bytes(output/path.name, path.read_bytes())
+            else:
+                atomic_text(output/path.name, path.read_text(encoding='utf-8'))
     write_json(output/'data/build_report.json', stats)
     print(f"Built {stats['mapped_listings']:,}/{len(listings):,} listings; {len(permits):,} permits; {stats['listings_with_permit_numbers']} listings with permit numbers; {len(repairs)} repaired/enriched fields.", flush=True)
     return stats
