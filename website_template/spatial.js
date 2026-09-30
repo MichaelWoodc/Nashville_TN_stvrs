@@ -15,13 +15,13 @@ const Spatial = (() => {
       : listing.nearest_licensed_parcel_m <= radius + parcelToleranceMeters + 1e-6;
   }
   function likelyUnlicensed(listing, leewayPercent, edgeBuffer, parcelToleranceMeters=0) {
-    return inScope(listing, edgeBuffer) && overlap(listing, leewayPercent, parcelToleranceMeters) === false;
+    return !listing.likely_hotel && inScope(listing, edgeBuffer) && overlap(listing, leewayPercent, parcelToleranceMeters) === false;
   }
   function balanceCells(listings, permits, cellFeatures, edgeBuffer, radius=0) {
     const counts = new Map();
     const cell = id => {if (!counts.has(id)) counts.set(id, {listings:0, permits:0});return counts.get(id);};
     const ids = new Set();
-    for (const l of listings) if (l.point && l.cell_id && inScope(l, edgeBuffer) && !ids.has(l.listing_id)) {
+    for (const l of listings) if (!l.likely_hotel && l.point && l.cell_id && inScope(l, edgeBuffer) && !ids.has(l.listing_id)) {
       ids.add(l.listing_id);cell(l.cell_id).listings++;
     }
     const permitIds = new Set();

@@ -194,3 +194,18 @@ only in that test browser's memory and never enters the generated data.
 The preview server closes file handles before streaming responses, allowing
 Windows to replace JSON files while a browser is open. A transient heartbeat
 file lock is logged and retried on the next loop instead of killing the watcher.
+
+## Hotel screening
+
+`hotel_classification.py` checks title, host name/details, description, saved
+listing text, and rental/property/room type. Evidence is exported in
+`hotel_evidence`; `likely_hotel` drives orange markers and the separate footer
+inventory count. Nearby-hotel references and hotel-like comparisons are ignored.
+The count includes listings without coordinates; its tooltip separates mapped
+and unmapped records. Hotels are excluded from spatial warnings, host warning
+counts, the permit-difference heatmaps, and the hypothetical fee comparison.
+These are likely classifications, not verified hotel or licensing determinations.
+The module records tourism-board and hotel-operator reference sources.
+
+Validation: `python -m unittest discover -s tests -v`, then with the preview
+running, `python tests/check_hotels_browser.py` (visible Edge).

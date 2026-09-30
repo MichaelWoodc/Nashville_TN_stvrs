@@ -123,6 +123,7 @@ function resetExploreFilters() {
   update();
 }
 function markerColor(l) {
+  if(l.likely_hotel) return '#f97316';
   if(l.license_status==='expired') return '#facc15';
   if(l.license_status==='current') return '#22c55e';
   if(overCapacityFlag(l)) return '#fb7185';
@@ -185,9 +186,9 @@ function updateBalance() {
   for(const id of ['surplus-heatmap','deficit-heatmap'])if(map.getLayer(id))map.setPaintProperty(id,'heatmap-opacity',intensity/2);
   layerVisibility(['balance-fill','balance-outline'],$ ('difference').checked);
   layerVisibility(['surplus-heatmap','deficit-heatmap'],$ ('surplusHeatmap').checked);
-  const listingCount=new Set(listings.filter(l=>l.point&&l.cell_id&&Spatial.inScope(l,edgeBuffer())).map(l=>l.listing_id)).size;
+  const listingCount=new Set(listings.filter(l=>!l.likely_hotel&&l.point&&l.cell_id&&Spatial.inScope(l,edgeBuffer())).map(l=>l.listing_id)).size;
   const propertyCount=new Set(permits.filter(p=>p.status==='current'&&p.point&&p.cell_id&&Spatial.inScope(p,edgeBuffer())).map(p=>normalizeParcel(p.parcel)||`record:${p.id}`)).size;
-  $('balanceSummary').textContent=`${listingCount.toLocaleString()} listing locations · ${propertyCount.toLocaleString()} distinct current-permit properties. Counts are counted once here; heat cells show local radius-smoothed differences.`;
+  $('balanceSummary').textContent=`${listingCount.toLocaleString()} non-hotel listing locations · ${propertyCount.toLocaleString()} distinct current-permit properties. Counts are counted once here; heat cells show local radius-smoothed differences.`;
 }
 function updateHosts() {
   $('clearHost').classList.toggle('filter-attention',Boolean(selectedHost));
@@ -351,7 +352,8 @@ function showListing(l, nearbyPermit=null) {
   if(actualPermitList(l).length) html+=`<p><b>Actual matched permit records:</b> ${actualPermitList(l).map(esc).join(', ')}</p>`;
   if(nearbyPermit)html+=`<h4>Nearby permit for review</h4><p class="small muted">Selected from permit locations within 550 m. This is not a confirmed match.</p>${permitCard(nearbyPermit)}`;
   const overlap=Spatial.overlap(l,leeway(),parcelTolerance()), effective=Spatial.effectiveRadius(l,leeway());
-  const spatialText=!spatial.available?'Spatial data unavailable':!Spatial.inScope(l,edgeBuffer())?'Outside the selected analysis area':overlap===null?'Unknown: privacy radius or parcel geometry missing':overlap?'Privacy circle reaches a green permitted parcel':'⚠️ Likely unlicensed location: privacy circle does not reach any current-permit parcel';
+  if(l.likely_hotel)html+=`<p class="hotel-notice"><b>Likely hotel / resort</b> · Excluded from potentially unlicensed counts.<br>${(l.hotel_evidence||[]).map(e=>esc(e.field)+': '+esc(e.evidence)).join('<br>')}</p>`;
+  const spatialText=l.likely_hotel?'Likely hotel: excluded from potentially unlicensed screening':!spatial.available?'Spatial data unavailable':!Spatial.inScope(l,edgeBuffer())?'Outside the selected analysis area':overlap===null?'Unknown: privacy radius or parcel geometry missing':overlap?'Privacy circle reaches a green permitted parcel':'⚠️ Likely unlicensed location: privacy circle does not reach any current-permit parcel';
   html+=`<p class="${likelyUnlicensed(l)?'spatial-warning':'small'}"><b>Parcel-overlap screening:</b> ${esc(spatialText)}<br>Screening radius with +${leeway()}% leeway: ${effective===null?'Unknown':effective.toFixed(1)+' m'}<br>Extra parcel tolerance: ${parcelTolerance().toFixed(2)} m${parcelTolerance()?' (10 yards)':''}<br>Nearest permitted parcel: ${typeof l.nearest_licensed_parcel_m==='number'?l.nearest_licensed_parcel_m.toFixed(1)+' m':'Unknown'}<br><span class="small muted">${l.privacy_radius_meters>0?'The map circle uses the radius provided with this Airbnb listing.':'The selected map circle is a 15 m display fallback; it is not an Airbnb-provided radius and does not change screening.'} This geographic screen does not verify license status.</span></p>`;
   if(l.matched_permits.length) html+='<h4>Direct permit-number matches</h4>'+l.matched_permits.map(permitCard).join('');
   else html+='<p class="small muted">No direct permit-number match. This does not establish whether a license exists at this address.</p>';
@@ -393,11 +395,16 @@ function prepareData() {
   $('buildStatus').textContent=`${report.mapped_listings.toLocaleString()} listings`;
   const currentPermitCount=permitStatusCounts.get('current')||0;
   $('currentPermitCount').textContent=`Current permits ${currentPermitCount.toLocaleString()}`;
-  const listingPermitDifference=report.mapped_listings-currentPermitCount;
+  const hotelCount=listings.filter(l=>l.likely_hotel).length;
+  const mappedHotelCount=listings.filter(l=>l.likely_hotel&&l.point).length;
+  const nonHotelCount=report.mapped_listings-mappedHotelCount;
+  $('hotelCount').textContent=`Likely hotels ${hotelCount.toLocaleString()}`;
+  $('hotelCount').title=`${mappedHotelCount.toLocaleString()} mapped; ${(hotelCount-mappedHotelCount).toLocaleString()} without coordinates. Excluded from STR screening.`;
+  const listingPermitDifference=nonHotelCount-currentPermitCount;
   const estimatedShortfall=Math.max(0,listingPermitDifference)*ESTIMATED_STVR_FEE;
   $('potentialRevenueButton').textContent=`Potential revenue shortfall ${estimatedShortfall.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0})}`;
-  $('revenueEquation').textContent=`${report.mapped_listings.toLocaleString()} mapped listings − ${currentPermitCount.toLocaleString()} current permit records = ${listingPermitDifference.toLocaleString()} potential unaccounted listings. ${Math.max(0,listingPermitDifference).toLocaleString()} × $${ESTIMATED_STVR_FEE} = ${estimatedShortfall.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0})} potential shortfall.`;
-  $('revenueSnapshotNote').textContent=`Snapshot date: ${report.as_of}. This arithmetic assumes one permit per mapped listing and a $${ESTIMATED_STVR_FEE} fee per permit.`;
+  $('revenueEquation').textContent=`${nonHotelCount.toLocaleString()} mapped non-hotel listings (${mappedHotelCount.toLocaleString()} likely hotels excluded) − ${currentPermitCount.toLocaleString()} current permit records = ${listingPermitDifference.toLocaleString()} potential unaccounted listings. ${Math.max(0,listingPermitDifference).toLocaleString()} × $${ESTIMATED_STVR_FEE} = ${estimatedShortfall.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0})} potential shortfall.`;
+  $('revenueSnapshotNote').textContent=`Snapshot date: ${report.as_of}. This arithmetic assumes one permit per mapped non-hotel listing and a $${ESTIMATED_STVR_FEE} fee per permit.`;
   $('permitInfoDate').textContent=`Permit snapshot as of ${report.as_of}.`;
   const otherStatuses=[...permitStatusCounts].filter(([status])=>status!=='current').sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
   $('otherPermitStatuses').replaceChildren(...otherStatuses.map(([status,count])=>{const row=document.createElement('p');row.className='permit-status-row';const label=document.createElement('span');label.textContent=permitStatusLabel(status);const value=document.createElement('strong');value.textContent=count.toLocaleString();row.append(label,value);return row;}));
@@ -458,7 +465,7 @@ function addSourcesAndLayers() {
   map.on('click','warning-markers',e=>{const l=listings.find(l=>l.listing_id===e.features[0].properties.id);if(l)showListing(l);});
   map.on('click','balance-fill',e=>{
     if(map.queryRenderedFeatures(e.point,{layers:['listing-markers','permit-markers','warning-markers']}).length)return;
-    const p=e.features[0].properties;popup?.remove();popup=new maplibregl.Popup({maxWidth:'330px'}).setLngLat(e.lngLat).setHTML(`<h3>Listings − licenses</h3><p>500 × 500 m cell ${esc(p.cell_id)}</p><p><b>${p.listings}</b> listing locations<br><b>${p.permits}</b> current permit records<br><b>${p.difference>0?'+':''}${p.difference}</b> listings minus permits</p><p class="small muted">All records in the selected area, counted once by point location. This is a geographic estimate; Airbnb locations can be displaced. A surplus does not identify which listings lack a permit.</p>`).addTo(map);
+    const p=e.features[0].properties;popup?.remove();popup=new maplibregl.Popup({maxWidth:'330px'}).setLngLat(e.lngLat).setHTML(`<h3>Listings − licenses</h3><p>500 × 500 m cell ${esc(p.cell_id)}</p><p><b>${p.listings}</b> listing locations<br><b>${p.permits}</b> current permit records<br><b>${p.difference>0?'+':''}${p.difference}</b> listings minus permits</p><p class="small muted">Likely hotels excluded; remaining records in the selected area counted once by point location. This is a geographic estimate; Airbnb locations can be displaced. A surplus does not identify which listings lack a permit.</p>`).addTo(map);
   });
   map.on('click','listing-markers',e=>{const l=listings.find(l=>l.listing_id===e.features[0].properties.id);if(l)showListing(l);});
   map.on('click','permit-markers',e=>{if(map.queryRenderedFeatures(e.point,{layers:['listing-markers']}).length)return;const p=permits.find(p=>p.id===e.features[0].properties.id);if(p){popup?.remove();popup=new maplibregl.Popup({maxWidth:'360px'}).setLngLat(p.point).setHTML('<h3>Permit record</h3>'+permitCard(p)+'<button type="button" data-match-license>Match license to listing</button><div data-license-candidates></div>').addTo(map);popup.getElement().querySelector('[data-match-license]').onclick=()=>showNearbyPermitListings(p,popup.getElement().querySelector('[data-license-candidates]'));}});

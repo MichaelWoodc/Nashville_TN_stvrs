@@ -122,7 +122,7 @@ def annotate_spatial(root, output, listings, permits, parcels_available):
     return {'available': True, 'cell_size_m': CELL_METERS, 'source': data['source'],
             'in_county_listings': len(mapped),
             'default_parcel_tolerance_m':9.144,
-            'likely_unlicensed_default': sum(circle_overlaps_parcel(l.get('nearest_licensed_parcel_m'), l.get('privacy_radius_meters'),parcel_tolerance_m=9.144) is False for l in mapped),
+            'likely_unlicensed_default': sum(not l.get('likely_hotel') and circle_overlaps_parcel(l.get('nearest_licensed_parcel_m'), l.get('privacy_radius_meters'),parcel_tolerance_m=9.144) is False for l in mapped),
             'unknown_radius_in_county': sum(l.get('privacy_radius_meters') is None for l in mapped)}
 
 

@@ -25,7 +25,8 @@ from functools import partial
 ROOT = Path(__file__).resolve().parent
 RULES = 'https://www.nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements'
 PORTAL = 'https://datanashvillegov-nashville.hub.arcgis.com/datasets/b5315bda43ac459281dd35f04aa1be32_0/explore?location=36.185179%2C-86.792167%2C10'
-SCANNER_VERSION = 3
+SCANNER_VERSION = 4
+from hotel_classification import classify_hotel, SOURCES as HOTEL_SOURCES
 FILE_IO_LOCK = threading.RLock()
 
 
@@ -268,6 +269,7 @@ def collect_listings(root, cache_path):
                             if ':' in line:
                                 k, v = line.split(':', 1)
                                 saved['header'][k.strip().lower().replace(' ', '_')] = v.strip()
+                        saved['hotel_text'] = text
                         text = text.split('=== HOST DETAILS ===')[0]
                     found, amenities = scan_text(text, str(path.relative_to(root)))
                     saved['permits'].extend(found)
@@ -294,6 +296,7 @@ def collect_listings(root, cache_path):
             if number(row.get(key)) is None and key in saved.get('capacity', {}):
                 row[key] = saved['capacity'][key]
                 repairs.append({'listing_id': lid, 'field': key, 'before': '', 'after': row[key], 'source': saved['capacity']['source']})
+        row['_hotel_text'] = saved.get('hotel_text', '')
         row['_permits'] = saved.get('permits', [])
         row['_amenities'] = saved.get('amenities', {})
         row['_scanned'] = bool(files)
@@ -368,6 +371,7 @@ def build(root=ROOT, output=None, as_of=None):
                          'title': row.get('title', ''), 'host_name': row.get('host_name', ''),
                          'host_user_id': str(row.get('host_user_id', '')), 'host_profile_url': row.get('host_profile_url', ''),
                          'rental_type': row.get('rental_type', ''),
+                         **classify_hotel(row),
                          'point': point(row.get('longitude'), row.get('latitude')), 'location_name': row.get('location_name', ''),
                          'privacy_radius_meters': number(row.get('privacy_radius_meters')),
                          'bedrooms': number(row.get('bedrooms')), 'guests': number(row.get('occupancy')),
@@ -380,6 +384,7 @@ def build(root=ROOT, output=None, as_of=None):
                          'party_house': bool(amenities), 'text_scanned': scanned or bool(text),
                          'detailed_text_scanned': scanned,
                          'scrape_status': row.get('fields_status', 'pending')})
+        row.pop('_hotel_text', None)
     from prepare_addresses import annotate_parcel_addresses
     parcel_address_count = annotate_parcel_addresses(root, listings)
     parcels = build_parcels(root, output, permits)
@@ -392,6 +397,9 @@ def build(root=ROOT, output=None, as_of=None):
         warnings.append(f'{missing_numbers:,} permit rows have no usable permit number. The supplied Permit # field contains addresses. Direct status matches require real permit numbers or an authoritative permit_number_crosswalk.csv.')
     stats = {'built_at': datetime.now(timezone.utc).isoformat(), 'as_of': as_of.isoformat(),
              'listings': len(listings), 'mapped_listings': sum(bool(l['point']) for l in listings),
+             'likely_hotels': sum(l['likely_hotel'] for l in listings),
+             'mapped_likely_hotels': sum(l['likely_hotel'] and bool(l['point']) for l in listings),
+             'hotel_sources': HOTEL_SOURCES,
              'text_scanned': sum(l['text_scanned'] for l in listings), 'permits': len(permits),
              'detailed_text_scanned': sum(l['detailed_text_scanned'] for l in listings),
              'listing_statuses': dict(Counter(l['license_status'] for l in listings)),
