@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1486963612718118059
+Latitude: 36.14058
+Longitude: -86.83996
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The perfect getaway for Autumn! A Charming Cottage Getaway in Nashville's Hottest Neighborhood. Cute Cottage w/all the modern amenities w/high end linens & towels. Nearby food, cultural attractions & nightlife!  Fenced in backyard for evenings by the fire pit! Treat yourself to a relaxing drink on the front porch. Private off-street parking at the coziest house on the block! Special rates for Insurance/Temp Housing Needs w/Mid-term Stays. Permit #202408938
+
+The space
+Bliss Road Offers 5 Star Properties,
+Fully Furnished with all Amenities,
+High End Towels/Linens/ and Bedding.
+
+Every home has a starter kit stocked with paper products, including paper towels and toilet paper, as well as coffee supplies!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catlin Hale
+Host User ID: 333035767
+Host Profile URL: https://www.airbnb.com/users/show/333035767
+Host Profile URL Source: public user permalink from passport userId
+Welcome! My goal is to ensure you have a 5-Star Stay!  I offer short/mid/long term bookings—ask me about 30 day+ discounts. We have homes across the US & specialize in insurance claims & temp housing needs.
+
+ABOUT MY RENTALS
+My guests consistently give 5-Star reviews to my properties, which offer concierge & VIP services tailored for every guest experience.
+
+ABOUT ME
+I am a singer/songwriter/voice talent in Nashville, TN.
+
+I love treating you to a perfect stay in the perfect place!
+My work: Voice Talent/Singer
+I'm obsessed with: Kindness
+Response rate: 86%
+Responds within a few hours
+7 years hosting
+221 reviews
+4.86 out of 5 average rating
+7 years of hosting

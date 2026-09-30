@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/1340105892976628480
+Latitude: 36.05279655108795
+Longitude: -86.46708917975775
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Looking for a peaceful countryside escape just minutes from the lake, live music, and Nashville-area attractions?
+
+Welcome to Rockdale Fellowship Oasis — a charming one-level farmhouse set on 9 private acres in Mount Juliet, just minutes from Percy Priest Lake and boat launch access.
+
+This warm and inviting 3-bedroom, 2-bath home comfortably sleeps six guests and offers the perfect blend of country tranquility and modern convenience.
+
+The space
+Enjoy your morning coffee on the large screened-in porch overlooking a fully fenced backyard and open pasture views (no animals- just peaceful scenery).  In the evenings, unwind around the outdoor fire pit under Tennessee skies.
+
+Inside you will find:
+*3 comfortable bedrooms (King, Queen, 2- Twin Beds)
+*2 full bathrooms
+*Fully equipped kitchen
+*Bedrooms: 
+Bedroom 1: King Bed
+Bedroom 2: Queen
+Bedroom 3: Two Twin Beds
+
+*Large laundry room with washer & dryer
+*Very fast WiFi
+*Dedicated office with two workstations
+*Free paved driveway parking for 6+ vehicles
+
+Whether you're visiting for lake days, NASCAR events, concerts, or a longer stay, this home offers space, comfort and privacy.
+
+Location Highlights:
+*Minutes to Percy Priest Lake & boat launch
+*Close to Nashville
+*Close to Airport (BNA 20 miles)
+*Easy access to restaurants & live music venues
+*Approximately 10-12 miles to multiple medical centers
+*Convenient to both Rutherford & Wilson County access routes
+
+You'll fee tucked away in the country while still being close to everything.
+
+Guest access
+Key code to front door will be provide upon check-in on day of check-in.
+
+Other things to note
+Perfect for
+~ Families
+~ Corporate travelers
+~Relocation stays
+~Travel nurses 
+~Weekend lake visitors
+
+Please note: no pets allowed
+
+Additional Information for Extended Stays
+
+We provide a starter supply of toilet paper, paper towels, trash bags, dish soap, dishwasher detergent, laundry detergent, and other household essentials. For extended stays, guests are responsible for purchasing additional supplies once the starter supply has been used
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Martha
+Host User ID: 566883072
+Host Profile URL: https://www.airbnb.com/users/show/566883072
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+9 reviews
+4.89 out of 5 average rating
+3 years of hosting

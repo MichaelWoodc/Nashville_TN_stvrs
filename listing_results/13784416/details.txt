@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/13784416
+Latitude: 36.1513
+Longitude: -86.8278
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2 bedroom apartment front of main house completely separate entrace.
+ Great neighborhood and close to everything! SNew memory foam pillow top queen beds. Bar sink, mini fridge, microwave, Keurig. Sling(cable) and TV (log in your fav streams)
+
+Please advise if you plan to bring a pet
+$29 for first pet done at booking. 
+$21 for 2nd. will request separately after booking 
+
+ 
+3M to downtown
+1M to centennial park/vandy
+
+Towels/soaps/shampoo/water/coffee/Sanitizer provided
+
+The space
+Lovely  living/kitchenette area. The main bedroom is also spacious with tv on the mantle.
+
+Guest access
+Private wrap around porch with bistro set for enjoying Tennessee mornings coffee or afternoons with drink most months of the year!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nick
+Host User ID: 75907823
+Host Profile URL: https://www.airbnb.com/users/show/75907823
+Host Profile URL Source: public user permalink from passport userId
+Dad, Husband and Musician originally from Montreal and living in Nashville since 1986. Airbnb host since 2016
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+2613 reviews
+4.93 out of 5 average rating
+10 years of hosting

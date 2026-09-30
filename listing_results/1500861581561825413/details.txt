@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1500861581561825413
+Latitude: 36.181521417735034
+Longitude: -86.80840901640043
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New (2018) home! Located in the Downtown/ Buena Vista area! Quick access to anywhere in the city- East Nashville, Downtown, BROADWAY .. Just minutes away from downtown Nashville and the world famous Broadway strip! 5 minute uber ride to downtown. Stay in a brand new house with beautiful decor that feels like home. The whole group will enjoy easy access to everything from this centrally located place.
+
+The space
+Come relax  with friends or family in my beautiful home and explore the Nashville hot spots.  With 3 bedrooms, two lounge areas, and 2.5 baths that can easily accommodate up to 10 guests comfortably, you will surely enjoy your most awaited vacation with your entire group!
+
+Quiet Hours and Security
+We ask guests to please observe outdoor quiet hours between 11:00 pm and 7:00 am. Be aware that Nashville is a major city, and people will break in your cars if given the opportunity. For this reason we recommend guests park in the fenced in back vard and lock their car doors for extra security.
+
+Home Access
+You’ll have 100% private access to this home during your entire stay! (Minus small owners closer). Please clean up after yourself and leave the house the way you found it.
+
+Parking
+There is no restriction street parking and 4 fenced-in parking spaces in the back of the house.
+
+Guest access
+You will receve door code via Smartlock at time of check in. The host is available if you have any further questions or inquiries. Thanks!
+
+Other things to note
+House Rules
+- Quiet hours: 11:00 pm – 7:00 am 
+- No local bookings or parties
+- No smoking
+- No fire or Candles
+- No illegal activities.
+- No pets
+- Note: For your security, please park in the fenced backyard and lock car doors – Nashville is a major city and theft can occur.
+
+Violations may result in fines.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebekah
+Host User ID: 139645548
+Host Profile URL: https://www.airbnb.com/users/show/139645548
+Host Profile URL Source: public user permalink from passport userId
+9 years hosting
+47 reviews
+4.87 out of 5 average rating
+9 years of hosting

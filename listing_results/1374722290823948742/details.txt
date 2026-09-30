@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1374722290823948742
+Latitude: 36.13287559632166
+Longitude: -86.80500440465579
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Hillsboro Village, right next to vibrant shops, bars, the iconic Pancake Pantry, Vanderbilt & Belmont. The home boasts a private rooftop patio, large balcony, high-end amenities, & free parking. This is your ideal retreat – an oasis away from the chaos of downtown, but just 2 miles to Nashville's world famous honky tonks. Also, we are pet-friendly! Perfect for large groups, but need more space? Ask us about discount  bundle pricing for an identical unit within the complex!!
+
+The space
+The property includes four bedrooms, nine beds, three and one-half baths, a full size kitchen, an open-concept second floor living room/dining room/kitchen with ample seating for large groups, a rooftop terrace, a large second floor balcony, a stackable washer/dryer, a one-car garage and small shared fenced-in backyard with grass.
+
+Guest access
+The entire unit, including the garage and rooftop terrace, is private to the guests who book with us. 
+
+There are some shared spaces outside of the unit, including the fenced in backyard and additional parking spaces within the property complex.
+
+We are happy to accommodate early check-ins and late check-outs when possible. By request, check-ins between 1pm-4pm can be added for an additional $250, check-outs from 10am-1pm can be added for an additional $250, and both can be added for a total of $350. In advance of trip dates, we can let you know if earlier check-in (8am-1pm) or late check-out (1pm - 6pm) times can be extended for prices listed.
+
+Other things to note
+This neighborhood is fantastic and truly one of the gems of Nashville. So much to see in the immediate area, very safe, and easily walkable. Also just a short 5 minute drive to lower Broadway, where all of the world's most famous Honky Tonks await you.
+
+No checkout chores — just lock up and enjoy your stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike & Kara
+Host User ID: 683733804
+Host Profile URL: https://www.airbnb.com/users/show/683733804
+Host Profile URL Source: public user permalink from passport userId
+We’re Mike and Kara, Nashville locals who absolutely love calling this city home. As a family, we understand the importance of a comfortable and welcoming place to stay, whether you’re here for a vacation, a special event, or just to relax. We take pride in making sure you have everything you need for a memorable stay, and we’re always happy to share our favorite local spots. We can’t wait to host you and your group in Music City!
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+49 reviews
+4.98 out of 5 average rating
+2 years of hosting

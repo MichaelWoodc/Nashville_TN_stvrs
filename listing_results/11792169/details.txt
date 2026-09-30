@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/11792169
+Latitude: 36.1467
+Longitude: -86.6287
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This home is adorable and ready for memories.  We have beds for up to 10 people and an outdoor area catered specifically for gathering with all your friends and family! Designed for large groups, this 3 bed/2 bath house is convenient to all of Nashville! Less than a mile from the lake, 4 miles from BNA and 10 miles from downtown. Fully stocked with all bathroom and kitchen necessities! You will enjoy the outside with a hot tub and fire pit available to you only!
+
+The space
+3 bedroom/2 bathroom single level home with huge screened in porch with outdoor dining area and bar, grill,  deck and hot tub.  All new furnishings throughout house and plenty of beds for all types of groups.  Perfect for large groups, families, bachelorette parties, etc. Plenty of parking in driveway, huge side yard, and private wooded backyard.  You will not be disappointed!  This house is approximately 1350 Sq Ft and every inch of common space is maximized for larger groups to gather comfortably. House is stocked with all bathroom and kitchen necessities, and the hot tub is open year-round!
+
+This house is managed by Cousins BNB.  Cousins BNB is based in Nashville, TN and manages over 30 properties.  Please let us know if you need information on any other rentals!
+
+Guest access
+Entire house, deck, and backyard.
+
+Other things to note
+PLEASE READ ALL HOUSE RULES BEFORE BOOKING!
+
+House amenities include linens, bathroom necessities, kitchen utensils and cookware, Keurig and coffee, and washer and dryer.
+
+Registration Details
+2019036929
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CousinsBNB
+Host User ID: 21736973
+Host Profile URL: https://www.airbnb.com/users/show/21736973
+Host Profile URL Source: public user permalink from passport userId
+We are a family that love to travel, and we love to host groups at our fantastic Nashville-themed homes as well as our Gulf Shores homes.  We also have homes in Laurel, MS and a cabin in Zionville, NC.  We dedicate a lot of time to making sure our properties provide everything you would expect when vacationing there.  And our reviews show that!
+Where I went to school: University of North Texas
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+3191 reviews
+4.85 out of 5 average rating
+12 years of hosting

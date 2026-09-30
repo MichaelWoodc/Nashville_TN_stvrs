@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1115388952937528182
+Latitude: 35.968
+Longitude: -87.0142
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled within a 2000-acre nature reserve and linked by scenic walking trails to farm and ridge. Explore farm animals, hiking paths, tranquil meadows, and babbling creeks. Immerse yourself in nature's wonders, from lush fields to circling hawks, and discover nearby lakes, ponds, and creeks. . Experience authentic encounters like visiting a neighboring organic farm with amiable livestock. $50/per pet fee. Max 2 pets.
+
+Other things to note
+A $50 per/pet fee is required to offset addition cleaning, wear/tear, and possible damage. Pets may not be left unattended inside houses or outside them.  Your animals love you and want to be with you. They get anxious and pissy when mummy or daddy leave them behind. Unaccompanied dogs can get pissy. If you must leave your fur-baby, they must be confined to contain their enthusiasm. The Blackberry House, Barn Cabin, Pond Cottage, and Southern Hospitality Ranch have their own outside enclosures to keep your pet (or child) from roaming too far.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

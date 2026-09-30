@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/879691040908053555
+Latitude: 36.12567
+Longitude: -86.78707
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A stones throw away from 12th, the location of this guesthouse is unbeatable with countless restaurants, bars, and shops just a block over. The entire guesthouse is yours with a private entrance and parking pad. It's the perfect choice for couples, families, or small groups looking for a comfortable and convenient stay in one of Nashville's most sought after neighborhoods. You'll find high end mattresses, luxurious linens, relaxing living area and a full kitchen. We look forward to hosting you!
+
+The space
+Please note this is a unit above a garage that our family accesses during normal hours. We are very mindful of our guests and do our best to keep usage considerate and minimal. Also please note it is on the second floor, so there is a flight of stairs to climb.
+
+Other things to note
+The parking pad is for one vehicle, but there is plenty of street parking around us that is free and a short walk from the guesthouse.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jackie
+Host User ID: 72416358
+Host Profile URL: https://www.airbnb.com/users/show/72416358
+Host Profile URL Source: public user permalink from passport userId
+I enjoy being outside, reading, traveling, live music, and spending time with friends and family. I'm a former high school theatre arts teacher and absolutely love live theatre! My husband and I love to go out to see live music or enjoy one of the many amazing Nashville restaurants.  I'll work hard to be sure your stay is comfortable, relaxing and provide recs if needed to help make the most of your trip!
+Lives in Nashville, Tennessee
+Pets: Coozy, our 11 year old rescue pup :)
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+168 reviews
+4.98 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1056622481715920783
+Latitude: 36.21891
+Longitude: -86.74083
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Harmony East — the perfect spot for your next stay in Music City! Located in trendy East Nashville, the space boasts vibrant interiors, luxurious finishings, a sunny rooftop patio and countless amenities, all within a quick 10-minute ride of Downtown. Just a few blocks away, you can explore East Nashville’s fantastic restaurants, cocktail bars, coffee shops and vintage stores. At Harmony East, we have it all. Happy Hour starts now!
+
+The space
+Harmony East is a 3 story townhome in East Nashville.  On the first floor includes a bedroom with 2 full beds and a full private bathroom as well as the laundry room.  The second floor is the main living space with a full kitchen with breakfast bar, a living room with a Queen size sofabed, a half bath and the master suite. 
+The third floor is where you will find the rooftop patio and a small bar area.
+
+Guest access
+Guests will have private access to the entire space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 40394365
+Host Profile URL: https://www.airbnb.com/users/show/40394365
+Host Profile URL Source: public user permalink from passport userId
+We’re Jennifer and Shane, your hosts and the owners of Harmony East, situated in trendy East Nashville.  We moved from California to Tennessee in 2021 and have fallen in love with this state and everything it has to offer. Our hope is to provide a fun space for people from all over to come and visit the wonderful city of Nashville!
+Born in the 70s
+My work: Contract Manager
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+112 reviews
+4.96 out of 5 average rating
+3 years of hosting

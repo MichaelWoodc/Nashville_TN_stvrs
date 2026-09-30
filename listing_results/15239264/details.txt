@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/15239264
+Latitude: 36.09056
+Longitude: -86.79691
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Exquisite home with custom high end finishes 8 min from downtown Nashville. Perfect for friends, couples, or a family vacation in the upscale neighborhood of Green Hills. 3 queen bedrooms, "kids themed" bedroom with queen bed and standard crib. Washer/ Dryer. Gourmet Kitchen with marble counters.Dining room seats 8. Beautiful secluded backyard with patio perfect for spring and summer evenings. Screened in porch great for early morning reading and coffee just moments from the action of downtown!
+
+The space
+This house is very spacious at 3400 square feet. Such a perfect house for luxurious getaway for couples or entire families. Gourmet kitchen, open and spacious floor plan, plush bedding and towels, and  lovely back yard for your enjoyment. For those traveling with children- we have a  high chair, pack n play, a standard crib.  Gently use our items at your own risk.
+
+Guest access
+The entire house and backyard are for your use as our guest. However, there will be a few locked closets (master closet, office and upstairs utility areas).
+
+Other things to note
+Upstairs closets and all drawers are empty for you to store belongings and feel right at home. Master downstairs does not have closet but plenty of drawer space and hanging area for clothes. There is a guest powered/bathroom down stairs in addition to the 3 full baths 2 upstairs and one master down.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cynthia
+Host User ID: 82643271
+Host Profile URL: https://www.airbnb.com/users/show/82643271
+Host Profile URL Source: public user permalink from passport userId
+There are many things I enjoy in life, and serving others is one of them. I have 3 wonderful children and 7 grand children! I love hospitality, and thought airbnb would be a great fit for that passion. I enjoy the simple pleasures in life- taking walks in the woods, dinner with friends, and helping others find their way in the world. I grew up overseas, and have been very lucky to have traveled quite extensively with my job. Therefore, I know what I like when I travel, and it is the little luxuries that make the difference between good trip and great trip. I look forward to hosting you in my home.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+10 years hosting
+61 reviews
+4.92 out of 5 average rating
+10 years of hosting

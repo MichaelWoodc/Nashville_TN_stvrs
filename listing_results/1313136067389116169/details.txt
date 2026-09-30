@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1313136067389116169
+Latitude: 36.2596
+Longitude: -86.489
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to Golden Bear Lodge, a private retreat on 13 wooded acres near Old Hickory Lake and just minutes from the city of Mt. Juliet. With a wraparound porch, fire pit, playroom, and wooded trails, it’s perfect for families, groups, or events. Relax on porch swings, explore nature, or gather under the stars. Cozy, spacious, and peaceful—your getaway starts here.
+
+30 minutes to Downtown Nashville
+20 minutes to BNA
+10 minutes to Providence Mall
+5 minutes to grocery
+3 minutes to lake access
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacey
+Host User ID: 307310511
+Host Profile URL: https://www.airbnb.com/users/show/307310511
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Stacey! When I’m not hosting, most of my time is happily wrapped up with my family—whether that’s cheering on our kids, enjoying the outdoors together, or simply making memories around the table.
+
+I love creating cozy, welcoming spaces where guests can relax and feel right at home. My goal is simple: to make your stay as comfortable, relaxing, and memorable as possible.
+Lives in Mt. Juliet, Tennessee
+Response rate: 100%
+Responds within an hour
+1 year hosting
+29 reviews
+4.83 out of 5 average rating
+1 year of hosting

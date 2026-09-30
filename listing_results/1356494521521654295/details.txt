@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1356494521521654295
+Latitude: 36.2674050994603
+Longitude: -86.69249744505301
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of Madison, TN, this space offers a private bed &  ensuite bathroom on the main floor of this 3-story home. The bedroom is located just inside the front door for easy access.
+
+This home is less than 10 miles from BNA and 13 miles from downtown Broadway, about a 20-minute drive to each. Opryland is 7 miles away. Grocery stores and coffee shops are within 2 miles, making it centrally located for most needs.
+
+Two dogs and 1 cat reside in this house.
+
+OOSTRP #2025016665
+
+The space
+The Airbnb guest room is on the main floor of the house. It is the door on your left-hand side when you walk through the front door. 
+
+The kitchen is available for use and can be found on the home's second floor.
+
+Guest access
+Guests can use the courtyard outside as well as the kitchen and living room located on the home's second floor.
+
+Guests are NOT PERMITTED to sleep ANYWHERE besides the room in which they have rented. If you are found sleeping on the couch or anywhere else outside the rented room, Airbnb will be contacted to have your reservation cancelled for the duration of your trip.
+
+Other things to note
+I WILL ONLY ACCEPT GUESTS WITH A MINIMUM OF 1 5-STAR REVIEW ON THEIR PROFILE. If you are brand new to Airbnb, your request will be denied.
+
+If you're a light sleeper or sensitive to noise, this may not be your place as the guest room is on the main floor of the house and I tend to come and go pretty often. 
+
+There are three animals in the house, two dogs and one cat for anyone that may have allergies. The dogs are locked away when I am not home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Megan
+Host User ID: 30277036
+Host Profile URL: https://www.airbnb.com/users/show/30277036
+Host Profile URL Source: public user permalink from passport userId
+I love animals and the outdoors! I enjoy hiking and the occasional skydive. While I work from home, I'm usually out with my dogs any opportunity I get outside of work hours.
+Born in the 80s
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+199 reviews
+4.87 out of 5 average rating
+10 years of hosting

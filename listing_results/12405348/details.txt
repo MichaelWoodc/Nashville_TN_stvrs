@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/12405348
+Latitude: 36.17808
+Longitude: -86.74455
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome!  Some highlights our guests enjoy about us:
+
+⁃ Quiet, well-decorated 1BR/1BA cottage 
+⁃ Best neighborhood in the ❤️ of East Nashville 
+⁃ Walking distance to 5-points, cool shops, restaurants
+⁃ Private entrance & parking 
+⁃ Quick ride to Downtown & Broadway 
+⁃ Comfortable queen-size bed with premium linens
+- Well-stocked coffee bar
+⁃ Extra precautions for cleaning 
+- Complimentary Wi-fi & RokuTV
+- New floors & new heat/AC
+- Communicative Superhosts w/ 1000+ stays & great recommendations
+
+The space
+“I had a wonderful stay and felt right at home. Location is close to everything. I will absolutely come back to stay here. Fantastic hosts with everything as described. Thank you for having me.” 
+- Betty, recent guest 
+
+The cottage is located in a quiet, private quarter-acre backyard with entrance from the alley. There is a comfortable queen-size bed and a fully-equipped kitchenette with coffee bar.  The full bathroom is equipped with a standing shower and vanity. Soap, shampoo, towels, and linens are provided. Wi-fi is available and there is also a RokuTV with Netflix and other apps for your viewing pleasure… although with so much to do in the local area, you probably won’t have much time for it!  The bistro table and chairs located on the entrance deck provide a quiet, relaxing coffee and dinner spot.
+
+Guest access
+You will have private parking and entrance into the cottage. And, the door operates with a coded lock allowing for flexible check-in times.
+
+Other things to note
+As per Nashville City code, we cannot accommodate any recreational vehicles, buses, or trailers.
+And, the primary renter of the cottage must be at least 21 years of age.
+
+**Please note, there is a strict no pet policy designed to protect future guests who may be allergic to pet dander. An extra fee of $100 per pet will be charged for any guest who violates the no pet policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Landon
+Host User ID: 8017229
+Host Profile URL: https://www.airbnb.com/users/show/8017229
+Host Profile URL Source: public user permalink from passport userId
+I love living in East Nashville. The cottage is located in my private backyard in the historic neighborhood of Lockleland Springs.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+12 years hosting
+1306 reviews
+4.87 out of 5 average rating
+12 years of hosting

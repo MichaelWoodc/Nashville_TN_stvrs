@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1213317616977795018
+Latitude: 36.2095
+Longitude: -86.7389
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Howdy! We are excited to welcome you to Nashville! Our luxury home is conveniently in East Nashville with prime proximity to all destinations including 10 min to Broadway and 10 min to Nissan Stadium! Grocery store right next door to load up on supplies. We have a spacious place with a beautiful private rooftop patio. We would love to host you and your group!
+
+The space
+- Prime location to Broadway, Bridgestone Arena, East Nashville, Five Points, Nissan Stadium, TopGolf, The Gulch, BNA International Airport
+ 
+- 4 Bedrooms, 4 Bathrooms, 8 Beds
+- Private garage & street parking 
+- Awesome rooftop patio with lights & dining
+- Bachelor or Bachelorette Friendly.
+- Family friendly layout with plenty of bedding options across levels 
+- Well-equipped kitchen with cookware, bakeware, and utensils
+- Washer / Dryer
+- Modern Kitchen with coffee provided by hosts & cookware
+- WiFi and a laptop-friendly workspace
+
+Welcome to your home base in Nashville, just minutes from downtown hotspots. This multi-level retreat offers 4 bedrooms, 4 bathrooms, and a private rooftop deck for easy group stays. 
+
+1st Floor: Garage access as well as one private queen bedroom / private bathroom tucked away from rest of the house!
+
+2nd Floor: Spacious living and kitchen area. Large island great for any cooking needs. Swivel 4k TV for entertainment. High speed wifi provided throughout house. 2nd Floor contains another queen private bedroom / bathroom. Huge amount of closet space. 
+
+3rd Floor: Spacious master bedroom / bathroom. Queen bed and extra large bathroom space with his / her sinks. You'll be able to comfortably rest and unwind here. 3rd Floor has the double bunkbed setup for max sleeping arrangements for the group. 
+
+4th Floor: Incredible patio with Tennessee views. Grill, Fire Pit, Games, Dining Table, Nashville Neon Sign, String Lights, provided for your entertaining pleasure. Enjoy!
+
+Guest access
+You will enjoy 24-hour access to the house via a combination lock, so none of your guests will get stuck without a key and check-in and check-out are as smooth as possible! The combination lock is reset for every group, to ensure our guests privacy and safety!
+
+Registration Details
+2024068303
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 155445555
+Host Profile URL: https://www.airbnb.com/users/show/155445555
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+53 reviews
+4.83 out of 5 average rating
+2 years of hosting

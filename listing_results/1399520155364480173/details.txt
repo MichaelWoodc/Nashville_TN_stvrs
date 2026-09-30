@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1399520155364480173
+Latitude: 36.13825901546559
+Longitude: -86.79722708518543
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Kristi’s Kottage – a charming, comfortable, and stylish one-bedroom cottage nestled close to Belmont and Vanderbilt, right on Historic Music Row. The perfect home base for campus visits, weekend getaways, or music-filled adventures. Cozy vibe, prime location, and pure Nashville charm—your stay starts here.
+Enjoy free parking, complimentary snacks & drinks, and true southern hospitality when you stay with us!
+
+The space
+The Kottage was originally built in 1924, but my husband Greg and I renovated it in 2023, paying homage to its historic past while looking toward the future. Located in the historic Music Row neighborhood, it is conveniently close to everything but “tucked away,” amazingly private, and quiet. 
+
+I decorated the Kottage with a mixture of vintage and modern pieces that highlight three of my passions: Art, Travel, and Music. 
+
+Upstairs, you’ll find a comfy queen bedroom, bathroom, and closet—your own little hideaway. Downstairs has everything you need to settle in: a fully stocked kitchen, a welcoming living room, a small workspace, and a fireplace that’s perfect for winding down. Thoughtful touches are tucked throughout the space—from a coffee and drink station to complimentary sips and local treats—making this spot feel less like a rental and more like a home away from home.
+
+Guest access
+We have a smart lock on the door, making the cottage accessible 24/7. We also provide free parking on the premises.
+
+Other things to note
+Finally, we highly recommend purchasing travel insurance for your stay. Our cancellation policy is firm because a last-minute cancellation for any reason puts too much pressure on our small business, which is unlikely to get a last-minute booking. Please consider protecting your stay in the case of sickness, travel interruption, or any other personal reason!
+
+Registration Details
+2024028414
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristi
+Host User ID: 690066212
+Host Profile URL: https://www.airbnb.com/users/show/690066212
+Host Profile URL Source: public user permalink from passport userId
+Hello! My name is Kristi, and I am excited to host you on your Nashville trip. 
+
+The Kottage was originally built in 1924, but my husband Greg and I renovated it in 2023, paying homage to its historic past while looking toward the future. 
+
+I decorated the Kottage with a mixture of vintage and modern pieces that highlight three of my passions: Art, Travel, and Music.
+Where I went to school: Marshall University
+My work: Flight Attendant
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+34 reviews
+5.0 out of 5 average rating
+1 year of hosting

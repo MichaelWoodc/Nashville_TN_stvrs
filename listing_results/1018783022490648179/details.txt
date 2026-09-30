@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1018783022490648179
+Latitude: 36.11313
+Longitude: -86.91672
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Eat, Play, Work:2BR Nashville Gem
+
+Our 2-bedroom, 2-bathroom stylish condo is the perfect place for you to enjoy all that Music City has to offer.
+
+Kick back and relax in the spacious luxe condo, complete with fully stocked amenities, comfy beds and more.
+
+With fast Wi-Fi and a designated workspace, this condo is also an ideal spot for remote work, allowing you to balance work and leisure seamlessly.
+
+If you’re seeking a variety of activities or a prime location to explore we’ve got you covered!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brb
+Host User ID: 380488586
+Host Profile URL: https://www.airbnb.com/users/show/380488586
+Host Profile URL Source: public user permalink from passport userId
+Lives in Jackson, Mississippi
+4 years hosting
+89 reviews
+4.2 out of 5 average rating
+4 years of hosting

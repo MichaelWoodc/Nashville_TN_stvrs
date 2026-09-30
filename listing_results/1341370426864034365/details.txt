@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1341370426864034365
+Latitude: 36.1720475702851
+Longitude: -86.79759349709741
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+PRIME GERMANTOWN LOCATION | MINUTES TO BROADWAY
+
+Located in Nashville’s trendy Germantown area, you’re just steps from popular restaurants, coffee shops, and the Nashville Farmers’ Market, Walk to downtown or take a quick Uber or Bird scooter ride to Broadway.
+
+THE LOCATION
+• 5 min to Broadway & Downtown
+• 5 min to Nissan Stadium & Topgolf
+• Walk to Germantown restaurants, breweries & the Nashville Farmers’ Market
+• Near Bicentennial Park & Marathon Music Works
+• 2car garage +free street parking
+
+The space
+WHAT YOU’LL LOVE
+
+Perfect for bachelorette trips, family vacations, birthdays, golf weekends, concerts, and groups visiting Nashville.
+
+• 🛏️ 9 Beds (including 1 sofa bed) – plenty of space for everyone
+• 🚿 3.5 Bathrooms – no waiting to get ready
+• 🍳 Fully stocked kitchen – perfect for group meals
+• 📶 Fast WiFi + Smart TVs
+• 🧺 In-unit washer & dryer
+• 🚗 2-car garage + free street parking
+
+Guest access
+Guests have access to the entire home including the garage and laundry area.
+Only the pantry/storage closet used for supplies will be locked.
+
+Other things to note
+•	Located in a safe, growing area with many nearby short-term rentals
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ray
+Host User ID: 456629508
+Host Profile URL: https://www.airbnb.com/users/show/456629508
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+56 reviews
+5.0 out of 5 average rating
+2 years of hosting

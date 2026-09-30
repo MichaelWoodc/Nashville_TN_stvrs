@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1498042673862815426
+Latitude: 36.15435
+Longitude: -86.82871
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Nashville from this spacious 2,700 sq. ft. modern home in one of the city’s best locations! Relax on the huge rooftop deck with stunning skyline views, or head out — you’re just 5 minutes to Downtown and 5 minutes to The Nations, Nashville’s trendiest neighborhood for dining and shopping. Plus, only 2 minutes to One Center, the city’s newest hotspot. The perfect base for your Nashville stay!
+
+Other things to note
+•Laundry: There may occasionally be clean laundry in the dryer, as our housekeeper prepares the home quickly for early arrivals. If you need to use the dryer, simply set the clean items aside. Please do not use towels or sheets left in the dryer — fresh linens will already be provided for your stay.
+
+•Based on your profile, including any negative reviews, we reserve the right to ask for a refundable security deposit, to be paid immediately upon our asking, for an amount of our choosing, in order to protect our property.
+
+•Utilities (30+ Nights): For stays of 30 days or longer, a $400/month utilities fee is collected separately through Airbnb prior to your reservation. This covers high-speed internet, cable, water/sewer, trash, electric, and gas.  For stays longer than 30 days there will be an additional cleaning fee. 
+
+Please note that payment must be completed with 24 hours upon our sending. Failure to remit the utilities fee within 24 hours may result in cancellation of the booking without refund.
+
+•Maintenance: Routine lawn care and pest treatments may take place during your stay. Service providers will not need to enter the home and may arrive without prior notice.
+
+•Deliveries: Occasionally, maintenance-related packages may arrive at the property. In rare cases, we may kindly ask for your help bringing them inside for safekeeping.
+
+•Early/Late Checkout or Bag Drop: Available on request (subject to availability) for a $50 fee.
+
+No smoking or vaping inside the property. A minimum $1000 cleaning fee will apply for any violation, and repeated or severe violations may result in eviction without refund.
+
+Check-Out Instructions & Property Condition: To help us maintain the high standards our guests expect and to ensure the property is ready for the next arrival, all guests are required to follow the check-out instructions provided prior to departure. These instructions are part of the booking agreement and are designed to assist our cleaning team in preparing the property efficiently between stays.
+
+If the property is left in a condition that requires significantly more time or effort than a standard turnover, such as excessive mess, unusual amounts of trash, or any situation that results in additional cleaning beyond the normal scope, an additional cleaning fee may be charged to cover the extra labor and time required.
+
+We appreciate your cooperation and respect for the property, as it allows us to continue providing a clean, well-maintained space for all guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 251837388
+Host Profile URL: https://www.airbnb.com/users/show/251837388
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Meharry Medical College, Nashville TN
+My work: physician
+Response rate: 100%
+Responds within an hour
+7 years hosting
+243 reviews
+4.58 out of 5 average rating
+7 years of hosting

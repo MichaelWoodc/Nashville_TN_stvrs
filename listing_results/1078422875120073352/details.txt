@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1078422875120073352
+Latitude: 36.1355
+Longitude: -86.7562
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 0
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make yourself at home in this lovely and open, townhome-styled condo! It's all-too-easy to settle in for the night within the privacy of this complex, but easy to find your way to all that Nashville has to offer! A mere 10 minute drive to Broadway, with similar & shorter travels to other wonderful must-see's around town. The interior itself offers modern arrangements with a spacious, open layout with enough natural light to never need to hit a switch during the day. We can't wait to welcome you!
+
+The space
+Upon entry, you'll make your way up a flight of stairs to the open living area connected to a full kitchen and dining area all of which are spacious and comfortable. Around the corner you'll find your secondary bedroom, as well as a full bath. Further down the hall are the stairs that lead up to your primary bedroom and overlook patio!
+
+The downstairs bedroom has one double bed. 
+The upstair bedroom is spacious and has two double beds and a very large closet. 
+There is a double bed pull out sofa in the first floor living room.
+
+Guest access
+Everything you see is yours to use! The only part we ask to keep private is the storage bin.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ross
+Host User ID: 263913809
+Host Profile URL: https://www.airbnb.com/users/show/263913809
+Host Profile URL Source: public user permalink from passport userId
+We love traveling and have just become hosts of our first Airbnb Properties.
+Born in the 50s
+My work: MD
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+208 reviews
+4.96 out of 5 average rating
+7 years of hosting

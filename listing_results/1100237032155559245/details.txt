@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1100237032155559245
+Latitude: 36.21305
+Longitude: -86.77766
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come kick back and relax in our Brand New stylish space just minutes North of Nashville. This beautiful modern home sits in a new and upcoming area just North of Nashville and minutes to Broadway, Top Golf & Downtown. The kitchen offers beautiful stainless steel appliances, coffee makers, and all of the cooking necessities you'll need. The house also has an amazing outdoor area overlooking downtown. All of the TVs in the home have Roku, as well as high speed internet. Enjoy!
+
+Other things to note
+This is an up and coming area with a lot of construction around. The neighborhood itself is quiet &  filled with people who have been there for years with their family. Development has just started here. But, we think it’s amazing as we have had no issues. Any questions please let me know🙂
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chase
+Host User ID: 158343013
+Host Profile URL: https://www.airbnb.com/users/show/158343013
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+3 years hosting
+191 reviews
+4.93 out of 5 average rating
+3 years of hosting

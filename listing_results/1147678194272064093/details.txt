@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1147678194272064093
+Latitude: 36.2286
+Longitude: -86.7156
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our modern East Nashville retreat! Relax in the built-in sauna or enjoy the spacious backyard with a grill. Perfect for families and friends, our home is just a short drive from downtown Nashville’s vibrant restaurants, shops, and attractions. Whether it's a weekend getaway or an extended stay, this stylish space is your perfect home base. Please note, a check-in form with identity verification is required prior to arrival. Book your stay and create lasting memories in Music City!
+
+The space
+Welcome to our East Nashville retreat! We hope you enjoy your stay in our modern, cozy space. Take advantage of the private sauna for relaxation, and spend time on the spacious back patio, perfect for grilling and unwinding. Our home is close to downtown, giving you easy access to Nashville's best restaurants, shops, and attractions. Whether you're here for a short getaway or a longer stay, we want your experience to be comfortable, memorable, and relaxing. Please don’t hesitate to reach out if you need anything!
+
+Guest access
+For your security, we use a Schlage Encode smart lock for one-time access to the property. Your unique access code will be provided just before check-in to ensure the safety and privacy of your stay. Please use this code during your visit, and let us know if you have any issues accessing the property. We hope you enjoy your stay!
+
+Other things to note
+We’ve created a comprehensive guide to Nashville, attached to our profile, to help you make the most of your stay. It includes recommendations for the best local restaurants, live music venues, shops, and attractions. Whether you’re here for a weekend getaway or an extended stay, the guide offers insider tips to explore the city like a local. Additionally, our property is equipped with all the essentials to make your stay comfortable and enjoyable. Feel free to reach out if you have any questions!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hannah
+Host User ID: 72029373
+Host Profile URL: https://www.airbnb.com/users/show/72029373
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+477 reviews
+4.84 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1506659603206636170
+Latitude: 36.14635
+Longitude: -86.81875
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This large historic home is a special place that is convenient and big enough for everyone to enjoy. There are three, private apartments, three kitchens, three living areas and 4 bedrooms with 3 Kings, 4 twins  one sleeper sofa, and rollaways available. All of the units are  connected and can be accessed, one to another. Perfect for big groups and families to enjoy. Centrally located, stay in a peaceful, beautiful area, minutes from downtown and where you can escape at the end of the day.
+
+The space
+3 Private Apartments with 3 Kitchens, 3 Living Areas, 4 Bedrooms, all accessible to each other. Covered front porch, back yard and plenty of off-street, free parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

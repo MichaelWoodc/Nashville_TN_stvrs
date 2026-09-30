@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1243077857402396481
+Latitude: 36.1261
+Longitude: -86.7259
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+[If dates you’re looking for aren’t available, message me, may be able to shuffle things for you] Enjoy a stylish stay at this centrally-located studio apartment. Minutes from downtown Nashville, Broadway, BNA Airport, Grand Old Opry and more. A small but comfy space with full kitchen with large fridge, bedroom area with queen size bed, in the living area a small pullout couch (better for 1 but 2 can squeeze), twin air mattress and a full washer & dryer. This is my full time home when not rented
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Connor
+Host User ID: 333169639
+Host Profile URL: https://www.airbnb.com/users/show/333169639
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+27 reviews
+4.89 out of 5 average rating
+2 years of hosting

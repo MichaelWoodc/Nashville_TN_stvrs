@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1363962064656422381
+Latitude: 36.188791553720954
+Longitude: -86.83791164051567
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ Why YOU will  Love This Home
+✔ Private Rooftop Deck 
+✔ Hot Tub + Fire Pit – The ultimate post-Broadway winddown
+✔ 4 Bedrooms | 4 Full Bathrooms – Ideal for groups, families, and couples traveling together looking for privacy
+✔ Open-Concept Living – Perfect for gathering, entertaining, games and relaxing with tons of space
+✔ Modern, High-End Finishes
+✔ Prime Nashville Location – Close to top dining, nightlife, and must-see attractions
+
+The space
+Skip the bathroom-sharing drama.
+The Jesse features 4 private bedrooms, 4 full bathrooms, a rooftop hot tub, fire pit, and putting green—all minutes from Broadway. Perfect for girls' trips, birthdays, couples traveling together, and group getaways.
+This thoughtfully designed home offers multiple levels of living, giving everyone room to spread out while still coming together with ease. Each bedroom features comfortable sleeping arrangements and its own full bathroom, making mornings smooth and stress-free.
+The crown jewel? The private rooftop oasis—complete with seating, a hot tub, and fire pit—your personal retreat above the city.
+Location, Location, Nashville
+Whether you’re here for a girls’ weekend, bachelor/bachelorette party, concert, or family getaway, you’re minutes from downtown Nashville, Broadway, and some of the city’s best food, music, and nightlife—without sacrificing privacy or space.
+Perfect For:
+• Group trips & celebrations
+• Bachelorette & bachelor weekends
+• Family getaways
+Corporate Groups
+Team retreats
+Sales meetings
+Conference attendees
+Healthcare Travelers
+Nashville medical professionals
+Traveling specialists
+Remote Workers
+Fast Wi-Fi
+Multiple floors for privacy
+• Music lovers & city explorers
+• Guests wanting luxury + location
+Book now and experience Nashville the way it’s meant to be—stylish, spacious, and unforgettable.
+
+Guest access
+Whole home and private rooftop, hot tub and fire pit is available to guests
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pamela Lash
+Host User ID: 593315532
+Host Profile URL: https://www.airbnb.com/users/show/593315532
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Real estate broker
+Response rate: 99%
+Responds within an hour
+Superhost
+2 years hosting
+328 reviews
+4.82 out of 5 average rating
+2 years of hosting

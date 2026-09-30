@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1376225002885392158
+Latitude: 36.1972
+Longitude: -86.83
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a beautifully designed, brand-new 4-bedroom retreat in the heart of Nashville, Tennessee — the ultimate home base for your next vacation or business trip.
+
+The space
+Soak in breathtaking skyline views from the private rooftop hot tub, then unwind on the large rooftop patio taking in stunning views of the city skyline. Head out to experience the legendary honky-tonks, standout dining, and live music that give Music City its unmistakable rhythm.
+
+Located about 20 minutes from Nashville International Airport and just a quick Uber or Lyft ride from downtown's hotspots, this home puts you right in the middle of everything that makes Nashville unforgettable.
+
+HOME LAYOUT:
+• 4 Floor Unit 
+• Open-concept kitchen, living, and dining area
+• Bedroom 1: Queen over queen bunk bed with private bathroom
+• Bedroom 2: 2 full beds with private bathroom
+• Bedroom 3: 2 full beds with private bathroom
+• Bedroom 4: 2 Queen over queen bunk bed with private bathroom
+• Rooftop
+
+About Us:
+At King Rentals, we’re committed to making your stay as comfortable, easy, and enjoyable as possible. As a locally owned and operated business, our friendly team is available 24/7 to help with any questions or needs during your stay. We’re here to help you relax, enjoy your time together, and create wonderful memories with your family and friends.
+
+Key Features:
+• Private rooftop hot tub
+• Fully stocked kitchen
+• Spacious living and kitchen area
+• Washer and dryer
+• Smart TVs and Wi-Fi
+• 2-car garage parking
+• Large rooftop patio with stunning city skyline views
+
+Location:
+Here are some nearby places of interest:
+• Lower Broadway – Nashville’s "Strip," home to all the famous honky-tonks
+• Tootsie’s Orchid Lounge
+• Luke’s 32 Bridge – Luke Bryan’s bar
+• Ole Red – Blake Shelton’s bar
+• Casa Rosa – Miranda Lambert’s bar
+
+Guest access
+Guest access:
+• There is an electronic lock on the door for a smooth, keyless entry
+• The elevator(s) are non-operational for liability purposes
+• Access codes will be provided for self-check-in
+
+Other things to note
+IMPORTANT – PLEASE READ BEFORE BOOKING:
+• Maximum Occupancy: Maximum of 12 guests, including adults, children, and infants. No additional guests are permitted due to fire safety and insurance requirements.
+• Age Requirement: All guests must be 18 or older, except children staying with their parents or guardians.
+• No Parties: Parties and unauthorized gatherings are strictly prohibited. Noise complaints or law enforcement calls may result in immediate termination of the stay without a refund.
+• No Smoking: Smoking is strictly prohibited.
+• No Pets: This property has a strict no-pet policy.
+• Check-In/Check-Out: Check-in is at 3:00 PM and check-out is at 10:00 AM. Early check-in or late check-out may be available for an additional fee starting at $60. Please message us in advance to check availability.
+• Cancellations & Travel Insurance: We highly recommend purchasing travel insurance for protection against unexpected cancellations, weather, natural disasters, power outages, and other unforeseen events. We’re unable to offer refunds or rescheduled stays outside Airbnb’s Extenuating Circumstances Policy.
+• Starter Supplies: We provide a starter supply of essential items. Please bring your personal toiletries and plan to purchase additional supplies if needed.
+• Trash: Please place all trash in trash bags and place them in the trash can outside by garage.
+• Stay Connected: Follow us at @kingrentalspropertymgmt for updates.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 409764479
+Host Profile URL: https://www.airbnb.com/users/show/409764479
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+108 reviews
+4.57 out of 5 average rating
+5 years of hosting

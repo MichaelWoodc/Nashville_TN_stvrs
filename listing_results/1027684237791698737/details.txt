@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1027684237791698737
+Latitude: 36.1529
+Longitude: -86.7825
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into pure luxury at this stunning one-bedroom condo in the heart of The Gulch. Sophisticated design meets Nashville soul with a vintage piano, guitar, and curated vinyl collection for effortless music vibes. Unwind on the spacious balcony, dive into the sparkling pool, or soak up the premier building’s upscale amenities. Perfectly positioned for music lovers and city explorers—your chic, melodic gateway to the best of Music City.
+
+The saltwater pool is open and heated!
+
+The space
+Welcome to your premium Nashville stay.
+Nestled in the heart of The Gulch, this stunning one-bedroom condo delivers an unparalleled mix of contemporary elegance and musical charm—your perfect upscale retreat in vibrant Music City.
+Step inside to a thoughtfully designed open-concept space that flows seamlessly from living to dining to kitchen, creating an airy, inviting feel. Contemporary finishes blend with creative touches: tickle the keys on a vintage piano, strum a guitar, or spin tracks from a curated vinyl collection to unwind after a day of exploring Nashville’s legendary music scene.
+Indulge in luxury with exclusive building amenities: a sparkling seasonal pool for refreshing dips, a gym to stay energized, free parking for easy arrivals, in-unit washer/dryer, and convenient transportation options in this safe, prime area.
+Unwind on your spacious private balcony—ideal for morning coffee with city energy or evening cocktails as the sun sets. The living room couch sleeps one extra guest, with two folding beds available upon request for added flexibility.
+Whether you’re here for a romantic escape, business trip, or creative inspiration, this serene haven puts you steps from top dining, shopping, nightlife, and attractions.
+Prime Location Highlights (approximate):
+•  Downtown Broadway: ~1 mile (5 min drive / 20-25 min walk)
+•  The Gulch: ~0.5 miles (10 min walk)
+•  12 South: ~2 miles
+•  Belmont University: ~1 mile
+•  Centennial Park: ~2 miles
+•  Germantown: ~3 miles
+•  Bridgestone Arena / Country Music Hall of Fame: ~1 mile
+•  GEODIS Park / Nissan Stadium: ~2 miles
+•  Grand Ole Opry: ~12 miles (15 min drive)
+•  Nashville International Airport (BNA): ~10 miles
+Grocery & Essentials Nearby:
+•  Turnip Truck (The Gulch on 12th Ave): 0.5 miles (walkable specialty store + adjacent liquor store)
+•  Whole Foods: ~1 mile
+•  Publix / Kroger: ~1.5 miles
+
+No surprises: no service fees, no cleaning fees, no checkout lists. Just enjoy and respect our simple rules—no parties, no smoking (inside).
+
+Come make some memories in The Gulch!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dan
+Host User ID: 264243122
+Host Profile URL: https://www.airbnb.com/users/show/264243122
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+115 reviews
+4.95 out of 5 average rating
+3 years of hosting

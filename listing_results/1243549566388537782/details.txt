@@ -1,0 +1,106 @@
+URL: https://www.airbnb.com/rooms/1243549566388537782
+Latitude: 36.06793
+Longitude: -86.72976
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Properties by Preston at Brentwood Hills! This chic 1-bedroom, 1-bath apartment offers a blend of modern luxury and cozy comfort. Featuring stylish furnishings, a spacious living area, and a fully equipped kitchen, it’s the perfect retreat after exploring Nashville. Located in a tranquil setting yet close to the city’s vibrant attractions, you’ll find easy access to downtown’s dining, music, and entertainment scene. Enjoy a peaceful escape with all the excitement of Nashville
+
+The space
+Step into your beautifully designed apartment, offering comfort and convenience across both levels.
+
+Main Area:
+
+The open-concept living and dining area provides plenty of room to relax, entertain, or enjoy a cozy meal. Large windows fill the space with natural light, creating a warm and inviting atmosphere.
+Kitchen: Fully equipped with everything you need for home-cooked meals, including a fridge/freezer, dishwasher, oven, stove, microwave, toaster oven, and coffee machine. Whether you're whipping up a quick breakfast or preparing a full dinner, you’ll have everything at your fingertips.
+
+Bedroom Area:
+
+The  bedroom is thoughtfully furnished to ensure a restful night’s sleep, with ample closet space and comfortable bedding.
+This apartment is designed to be your home away from home, with all the essentials to make your stay easy and enjoyable.
+
+Guest access
+As our guest, you’ll enjoy full access to your own private apartment, along with a wide range of top-notch amenities, including:
+
+Fitness Center – Stay active and energized.
+Laundry Facilities – Conveniently located on-site.
+Swimming Pool – Relax and unwind by the pool.
+Dog Park – A perfect space for your furry friends.
+Basketball Court – Shoot some hoops and have fun.
+Activity Court – A versatile space for outdoor games.
+Outdoor Fitness Area – Coming soon!
+Playground – Perfect for the little ones to explore and play.
+Pet Play Area – Another treat for your pets.
+Spa – Indulge in some well-deserved relaxation.
+Tennis Court – Practice your serve or enjoy a match.
+Grill & Picnic Area – Ideal for outdoor dining and gatherings.
+
+Other things to note
+Other things to note:
+Pet Policy:
+- We have a pet limit of 2 pets per reservation.
+- No aggressive breeds.
+- Weight Limit 50Lb.
+- We will charge a one-time non-refundable pet deposit of $250 (one time charge)
+- We reserve the right to decline pets that may not be a good fit for the community.
+Mid-Term Stay Prep:
+We are a mid-term housing company, though we occasionally offer short-term stays. If
+you’ve booked a short stay at a great rate, we’re happy to host you! However, please note:
+ This property is stocked for mid-term stays, so we provide only starter toiletries
+(one roll of toilet paper, paper towels, and a trash bag).
+Please keep this in mind and bring your own toiletries when you come.
+Maintenance Access:
+ Annual Preventive Maintenance: Some properties have scheduled checks for
+smoke detectors, HVAC filters, etc. We will notify you in advance if access is
+needed.
+ Emergency Maintenance: If urgent repairs are required (e.g., water leaks, electrical
+issues) and we cannot reach you within [X] hours, we reserve the right to enter the
+unit.
+Occupants & Guest Policy:
+ The main occupant must be listed on the reservation.
+ The reservation must reflect the accurate number of guests and pets.
+Mailbox Access:
+ Mailbox access is available upon request and is not guaranteed.
+ Processing time: It can take up to 24 business hours to be submitted to the
+property.
+ A refundable key deposit is required (amount: $35). This will be returned when the
+key is returned.
+Community Guidelines:
+ Respect shared spaces & amenities.
+ Keep noise levels low during late hours to ensure a peaceful environment for all
+residents.
+ Dispose of garbage & recycling properly in designated areas to maintain
+cleanliness.
+Thank you for choosing to stay with us! We look forward to hosting you.
+ 
+
+Parking: Please provide us with your car details, make, model, color and license plate. There is a maximum of 2 cars per unit. 
+Packages: Make sure to put your unit number on your packages. Packages will be delivered to your door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Properties By Preston
+Host User ID: 358619880
+Host Profile URL: https://www.airbnb.com/users/show/358619880
+Host Profile URL Source: public user permalink from passport userId
+I love hosting on AirBnB
+Born in the 80s
+My work: AirBnB Manager
+Response rate: 98%
+Responds within an hour
+4 years hosting
+3145 reviews
+4.1 out of 5 average rating
+4 years of hosting

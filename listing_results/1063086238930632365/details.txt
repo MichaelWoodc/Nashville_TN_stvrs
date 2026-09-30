@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1063086238930632365
+Latitude: 36.1741
+Longitude: -86.80635
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville retreat! This Airbnb, minutes from Broadway, offers a heated pool, hot tub, and a turfed backyard. It's a blend of luxury and cowboy chic, perfect for a bachelor/bachelorette party or a family vacation. Dip into the heated pool, unwind in the hot tub, and enjoy the vibrant city life just around the corner. With a style that echoes Music City's energy, this property is a haven for making lasting memories.
+
+The space
+For those seeking a perfect spot for bachelor or bachelorette parties, family gatherings or just a weekend away, this home offers an unparalleled setting. The heated pool, hot tub, and turfed backyard create an atmosphere of celebration and relaxation. Enjoy the vibrant energy of Nashville's nightlife, knowing you have a private oasis waiting for you just moments away.
+
+Bedroom 1 - King Bed
+Bedroom 2 - King Bed
+Bedroom 3 - Queen Bed
+
+*Pool heating costs $75 per day additional*
+
+Pool size: 10x18x4
+
+Other things to note
+Pool Heating: If you wish to enjoy the luxury of a heated pool during your stay, there is a daily charge of $75. To make your experience seamless, kindly inform us in advance, and we'll ensure the pool is warmed up for your arrival. This way, you can dive into relaxation right from the moment you step through the door.
+
+Cleaning Practices: To maintain our commitment to providing a clean and comfortable environment, we have opted not to charge a cleaning fee. We kindly request your assistance in keeping the space tidy by stripping the sheets before your departure and disposing of any trash. Your cooperation in this matter is greatly appreciated and contributes to the overall positive experience for all our guests.
+
+We hope you have a wonderful stay in Music City, and if there's anything else you need or any special requests, feel free to reach out. We're here to make your Nashville experience exceptional!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cooper
+Host User ID: 339213901
+Host Profile URL: https://www.airbnb.com/users/show/339213901
+Host Profile URL Source: public user permalink from passport userId
+Hi, I am a Minnesota native and former college athlete turned police officer and real estate entrepreneur. I strive to be one of the best new hosts Nashville has to offer. I own and operate Nashville's Retro-Western! Follow us for more photos and activities! @Nashville_retro_western
+Born in the 90s
+Where I went to school: Minnesota State University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+107 reviews
+4.97 out of 5 average rating
+3 years of hosting

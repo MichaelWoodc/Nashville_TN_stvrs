@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1290812549870539703
+Latitude: 36.2054
+Longitude: -86.8107
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 11
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Grab your crew and head to The Pink Stetson, a stylish townhome for 12 guests near downtown Nashville. With fun amenities and Insta-worthy vibes, it's the ultimate spot for an unforgettable trip to Music City! Glam it up in the vanity room, pick a hat from the hat wall and get ready to hit Broadway in style. Back home, the good times continue with shuffleboard, ping pong and inflatable bull races - or just unwind on the rooftop deck with your favorite drink and take in the stunning city views!
+
+The space
+The Pink Stetson serves up fun, comfort and unforgettable memories! Ideal for group getaways, celebrations like bachelorette parties, and girls’ trips, this 3-story home sleeps up to 12 guests across 3 bedrooms with 11 beds. With 4 full bathrooms, everyone in your group has space to get ready for a day out on the town. Featuring a rooftop deck, vanity room and game room, the unique amenities ensure lots of laughs, photo ops and quality time with your crew. Whether you’re enjoying a rooftop sunset, taking part in some friendly competition in the game room or spending quality time together, every moment is one to remember!
+
+Rooftop Deck
+- Perfect for photos, toasts, watching the sunset and morning coffee!
+- Breathtaking city views and Music City mural
+- Plenty of seating and 2 outdoor dining tables
+- Cornhole and 55-inch TV
+
+Vanity & Hat Room
+- Makeup mirrors and barstools
+- Ring light for a soft glow in photos
+- Full-length mirror
+- Comfortable pink couch and 45-inch TV
+- Hat wall - grab a hat to complement your outfit!
+
+Garage Game Room
+- Ping pong and shuffleboard
+- Inflatable bull racing
+- Karaoke machine and 45-inch TV
+- Neon lighting
+
+Kitchen & Living Room
+- Fully equipped, spacious kitchen for group meals
+- Large couch and 65-inch TV
+- Closet with washer and dryer
+
+Sleeping Layout
+- Bedroom 1: 2 Double beds with ensuite bathroom
+- Bedroom 2: 6 Twin beds (2 triple bunks)
+- Bedroom 3: King bed with Twin bed above
+- Living Room: Twin bed
+
+Guest access
+When you arrive, you can either park in the garage, or park in one of the provided guest spaces in the community and walk in through the garage. If you are taking a ride share, you can also access via the front door. You will be provided a door code for access.
+
+Other things to note
+Furry friends are welcome for a fee of $100 per pet.
+Booking Waiver: There is a waiver of terms to sign prior to the stay. You are welcome to request the waiver terms prior to booking if interested.
+PLEASE LOCK AND REMOVE VALUABLES FROM VEHICLES IF PARKED IN AN AREA ACCESSIBLE TO THE PUBLIC.
+$500 fine for not replacing the TV cover when not in use.
+
+Any cancellation refund issued will be less the cost of payment processing fees incurred (these are typically 4%, but vary by booking platform). Because payment processing fees are incurred at the time the reservation is made and are not refunded by the payment processor, we must subtract this amount from any refund that we issue.
+
+STR Permit Number:2022067222
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Korin
+Host User ID: 515207857
+Host Profile URL: https://www.airbnb.com/users/show/515207857
+Host Profile URL Source: public user permalink from passport userId
+Hi there! I'm Korin- a marketer, outdoors enthusiast, live music lover and, of course, Airbnb host. I love sharing my city and creating amazing memories for guests. A great stay starts with communication, cleanliness and comfort, but I seek to provide extra touches to surprise and delight you on your trip.  Let me be your guide to hidden gems, local favorites, and unforgettable experiences. Get ready for an exceptional stay!
+My work: Host and Marketer
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+1533 reviews
+4.92 out of 5 average rating
+3 years of hosting

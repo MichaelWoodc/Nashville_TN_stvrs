@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1082666923079003408
+Latitude: 36.38203
+Longitude: -86.44394
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Retreats at South Water Manor are a one of kind destination. Originally built in the 1860s, this building was used as servants quarters, while the second was a summer kitchen for the FitzGerald Manor, which remains on the property. Essentially untouched for the past 100 years, they underwent a complete, exhaustive renovation from the ground up, converting them into the upscale guesthouses they are today. Luxurious finishes and high attention to detail make them an experience to remember.
+
+Guest access
+You have access to your rented building (#564) as well as the outdoor pergola area. Bistro 562 & Coffee House, which is inside of South Water Manor (just steps away) is open for breakfast and lunch, Tuesday-Saturday!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heather
+Host User ID: 485038973
+Host Profile URL: https://www.airbnb.com/users/show/485038973
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+83 reviews
+4.95 out of 5 average rating
+3 years of hosting

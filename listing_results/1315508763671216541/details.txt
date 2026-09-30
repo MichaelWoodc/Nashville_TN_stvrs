@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/1315508763671216541
+Latitude: 36.2029
+Longitude: -86.8115
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a spacious retreat just 12 minutes from the vibrant energy of Broadway.
+After a day soaking up the city’s excitement, come home to your peaceful oasis—complete with a fully equipped kitchen and a rooftop perfect for unwinding with river views!
+
+Located just minutes from Germantown, you’ll have easy access to some of the city's best dining spots. Prefer to stay in? The kitchen is thoughtfully stocked, making it easy to whip up your favorite meals at home.
+
+** No Local Bookings**
+
+The space
+The townhouse consist of 3 levels.
+
+1st floor 
+- King Bedroom and full bathroom
+- Office
+- Wet bar
+- Living area
+
+2nd Floor
+- Half bathroom
+- Kitchen
+- Screened in porch
+- Living room
+- Dining room
+
+3rd Floor
+- Laundry room
+- Primary King bedroom (with balcony)
+- Queen Bedroom
+
+Guest access
+You'll have the entire home to yourself—perfect for a peaceful getaway or a gathering with friends. Start your mornings with coffee on the screened-in porch or enjoy sweeping river views from the private balcony off the primary suite. In the evenings, unwind around the fire pit out back, cocktail in hand, and soak in the beautiful sunset.
+
+Other things to note
+Items that will be provided:
+- Shampoos / Conditioners / Soaps
+- K-cups (limited amount)
+- Toilet Paper 
+- Paper towels
+- Laundry Detergent 
+- Cleaning products for the kitchen
+
+~NO LOCAL BOOKING
+~Must be 25 years of age to rent
+~Absolutely NO SMOKING inside this property. Failure to abide will result in guest being fined up to $2,000 and are subject to the reservation being terminated without refund.
+~ Please note. This is the owner's primary residence and they do have a dog. The dog will not be present during your stay, but the house is not an allergen free home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 312585112
+Host Profile URL: https://www.airbnb.com/users/show/312585112
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN. Although my work keeps me quite busy, I enjoy traveling as much as possible, hanging with friends and spending time with my family. The way to my heart will forever be a home cooked meal with anything chocolate for desert.
+Born in the 90s
+My work: Property Management
+Response rate: 99%
+Responds within an hour
+Superhost
+7 years hosting
+3560 reviews
+4.82 out of 5 average rating
+7 years of hosting

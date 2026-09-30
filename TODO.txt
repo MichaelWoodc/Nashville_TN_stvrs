@@ -1,0 +1,29 @@
+TODO:
+1. make privacy radii thicker
+2. make the alpha for it a little bit darker especially when I click on it
+3. don't forget the party house count column!
+4. don't forget the possibly unlicensd column!
+
+Also integrate data from the elegibility for different license types info page here:
+https://experience.arcgis.com/experience/99e6d961b1e84188bf28f87e78211217
+
+
+Here's an exampmle:
+
+
+Parcel ID
+10405039000 
+Property Address 
+3531 CENTRAL AVE 
+Property Type
+Lot
+Zoning
+RS7.5 
+Owner Occupied STRP Eligibility
+RS7.5 zoning will allow one Owner Occupied STRP permit. Ownership must be in the name of a natural person and must be the owner's primary residence, not a 2nd or vacation home. 
+Not Owner Occupied STRP Eligibility
+RS7.5 zoning is ineligible for Not Owner Occupied STRP permits. 
+SP and PUD Eligibility Determinations
+There is no SP or PUD associated with this property.
+So search the parcels see if same owner has different property, and make sure owner has not transformed
+into an llc

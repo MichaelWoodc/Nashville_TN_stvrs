@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1191273730052055746
+Latitude: 36.13702
+Longitude: -86.77975
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ideally located between the 12 South neighborhood (the best walking neighborhood in Nashville) and Broadway (just a 5-minute Uber ride), this home is perfect for anyone looking to experience the heart of Nashville.
+
+This HGTV-featured designer home, built in 1901, is a Victorian Craftsman revitalized beyond her former glories. Fully renovated, this spacious historic home boasts 4 bedrooms, each with its own ensuite bathroom, making it an entertainer’s dream home.
+
+The space
+Featured in many interior decorator magazines, this spacious and elegant home boasts 4 bedrooms, each with its own ensuite bathroom, ensuring privacy and comfort for all guests. The sleeping arrangements include two first floor bedrooms, the primary with king bed and Luxurious ensuite bath with its large, two-headed side-by-side shower with a bench, offering a spa-like experience. The second bedroom on the first floor has a queen bed with ensuite access to the pink bathroom with marble pedestal sink and walk in shower. Two additional bedrooms are located on the second floor including a second primary suite with a king bed and large ensuite bath with makeup vanity nook.  The final upstairs bedroom has a king bed and ensuite bath with a tub shower combo.   
+
+For those who need to stay connected or work remotely, the home offers two desks upstairs with access to  Xfinity  fiber internet. Entertainment is at your fingertips with two large televisions (60+ inches) in the living area and primary bedroom.
+
+The fully stocked kitchen is ready for your culinary adventures, complete with cookware, mixing bowls, a regular drip coffee maker, nespresso machine, and a BBQ for outdoor grilling.  All linens, towels, soaps, and paper products are provided for a short stay.  
+
+This home is designed for comfort, convenience, and luxury, making it the ideal place for your next vacation or business trip. Book now and enjoy all the amenities this beautiful property has to offer!
+
+Other things to note
+Prior to your stay, we require you to complete a pre-arrival form and sign & agree to our rental conditions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derek
+Host User ID: 1838895
+Host Profile URL: https://www.airbnb.com/users/show/1838895
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Derek! I’m a travel enthusiast who loves great food, people, and country music (aka I believe in Nashville)! For more than I decade, I've traveled the world w/ Airbnb and take great pride in creating an incredible environment for my guests. When I’m not hosting, I'm cooking, exploring new restaurants, or traveling with my family.
+Lives in Nashville, Tennessee
+What's for breakfast: Ladybird breakfast tacos.
+Superhost
+2 years hosting
+63 reviews
+5.0 out of 5 average rating
+2 years of hosting

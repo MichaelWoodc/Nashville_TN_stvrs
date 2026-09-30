@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1132764047967872083
+Latitude: 36.28855
+Longitude: -86.55288
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back and relax in this calm, stylish space. Deer a frequent visitor and a very peaceful neighborhood.
+
+One bedroom with queen size bed. Couch in living room pull out sleeper for 2 and couch downstairs lays down for a bed.  1 and 1/2 bathrooms.  Full kitchen.  Handy robes available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mags
+Host User ID: 112277716
+Host Profile URL: https://www.airbnb.com/users/show/112277716
+Host Profile URL Source: public user permalink from passport userId
+Hi. There will be 2 adults and we are coming for a funeral.  Probably just crashing at night.
+
+Thank you
+
+PS. I run an Airbnb and will be an awesome guest.
+Lives in Mt. Juliet, Tennessee
+Response rate: 100%
+Responds within an hour
+2 years hosting
+69 reviews
+4.93 out of 5 average rating
+2 years of hosting

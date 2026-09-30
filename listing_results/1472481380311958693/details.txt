@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1472481380311958693
+Latitude: 36.221
+Longitude: -86.8133
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Quiet. Private. Spacious. Close to downtown.
+
+Enjoy local artwork, books, historic guitars and musical treasures celebrating Nashville’s creative spirit. Relax in the private fenced backyard and watch the birds and butterflies.
+
+Only 15 minutes from downtown, five minutes from shopping and convenient to the airport. Due to owner’s allergies, Please no animals.
+
+The space
+This cozy 2 bedroom home is set up for comfort:
+
+Bedroom:  2 Queen bed (sleeps 4 )
+
+Living Room: Comfy couch (great for lounging, not ideal for overnight sleeping)
+
+Bathroom: Full bath with tub/shower combo
+
+Bonus: In-unit washer & dryer for longer stays
+
+Perfect for solo travelers, couples, or working professionals (yes, there's fast Wi-Fi).
+
+🏡 Home Features & Amenities:
+
+Private Entrance
+
+Full Kitchen with cookware, utensils, and essentials
+
+Smart TV with streaming capabilities
+
+High-Speed Wi-Fi — reliable for remote work
+
+In-Unit Washer & Dryer
+
+Central Heating & Air Conditioning
+
+Dedicated Workspace (small desk setup)
+
+Driveway Parking for 1–2 cars
+
+Fenced Backyard — Access to a big backyard, perfect for relaxing.
+
+Guest access
+Guests have access to the whole house and the outdoor patio.
+
+Other things to note
+🔒 Additional Notes
+Due to own’s allergies please no animals. 
+
+No smoking or parties.
+
+Quiet hours: 9 PM – 9 AM
+
+Monthly stays are welcome!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel Neil
+Host User ID: 709363176
+Host Profile URL: https://www.airbnb.com/users/show/709363176
+Host Profile URL Source: public user permalink from passport userId
+Hey y’all! I’m Daniel Swaw — Nashville native, real estate agent by day, host by heart. When I'm not helping folks find their dream home, I'm sharing mine with guests from all over. Expect Southern charm, local tips, and a space that hits all the right notes. Welcome to Music City!
+Born in the 80s
+My work: Real Estate Agent
+Response rate: 100%
+Responds within an hour
+1 year hosting
+4 reviews
+5.0 out of 5 average rating
+1 year of hosting

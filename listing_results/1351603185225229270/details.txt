@@ -1,0 +1,95 @@
+URL: https://www.airbnb.com/rooms/1351603185225229270
+Latitude: 36.173
+Longitude: -86.6988
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 11
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Retro 70s Furnishings | Covered Deck w/ Bar | BBQ Ready
+
+A unique Nashville retreat awaits at this 5-bed, 3-bath vacation rental! Perfect for fun-loving families and friends, the home has a restored interior with impressive decor, a full kitchen, and an outdoor space to relax after your well-spent days. Enjoy a peaceful stroll or a round at Two Rivers Park and Golf Course, then head downtown for museum hopping and live entertainment and explore Vanderbilt University’s campus. It’s up to you!
+
+The space
+SLEEPING ARRANGEMENTS
+- Bedroom 1: 1 king bed
+- Bedroom 2: 1 twin daybed w/ twin trundle
+- Bedroom 3: 1 queen bed, 1 twin bed
+- Bedroom 4: 1 queen bed, 2 twin beds
+- Bedroom 5: 3 twin beds
+- Additional Sleeping: 1 portable crib
+
+INDOOR LIVING
+- 2 Smart TVs w/ cable
+- 2 dining tables, dining bar
+- Pool table
+- Books, board games
+
+OUTDOOR LIVING
+- Furnished patio, multiple dining areas
+- Gas grill, covered deck w/ bar
+- Wood-burning fire pit
+
+KITCHEN
+- Refrigerator, stove/oven, dishwasher
+- Dishware/flatware, cooking basics, spices
+- Drip coffee maker, blender, ice maker
+- Crockpot, microwave, rice cooker, toaster
+
+GENERAL
+- Free WiFi, keyless entry
+- Central A/C & heating
+- Linens/towels, iron/board
+- Washer/dryer (detergent provided)
+- Trash bags, paper towels
+- Hair dryer, complimentary toiletries
+- Complimentary cowboy boots 
+
+ACCESSIBILITY
+- 2-story home, step-free entry through kitchen
+- 1st-floor bedrooms & full bathrooms
+
+PARKING
+- Driveway (8 vehicles)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Must be at least 25 years old to book
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+
+ADDITIONAL INFORMATION
+- This 2-story home offers step-free access via a ramp through the kitchen; there are 3 bedrooms and 2 full bathrooms on the 1st floor
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

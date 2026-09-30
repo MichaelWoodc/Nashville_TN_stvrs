@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1526392556566085420
+Latitude: 36.19653
+Longitude: -86.72513
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience modern comfort and vintage charm in East Nashville, just 10 mins from downtown. This 2-bedroom retreat features a king & queen bed, stylish design, private office, and a tranquil fully fenced backyard with a spacious porch. Walk to top restaurants, coffee shops, bars, and a 20-acre park. The perfect blend of city energy and neighborhood calm.
+
+The space
+Located within a 10-15 minute walking radius from the house you can find dozens of great restaurants, bars, coffee shops and more. Some trendy and local favorites to check out are:
+
+-Dose Coffee
+-Sho's Pizza
+-The Village Pub
+-Babu Korean Bar
+-Cafe Roze
+-Schulman's
+-Hattie Jane's Creamery
+-Vinyl Tap
+-Golden Prawn #3
+
+We love furry friends and the backyard is fully fenced. If traveling with pets please make sure you account for them in your booking. There is a mandatory pet fee to cover additional cleaning required.
+
+Guest access
+Our property is a freestanding house and guests will have access to all amenities. The backyard is fully fenced.
+
+Other things to note
+We are happy to provide a generous amount of supplies as a "start-pack" to your stay. We are not obligated to refill supplies during your stay of 30 or more days. Thank you for understanding!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 6697169
+Host Profile URL: https://www.airbnb.com/users/show/6697169
+Host Profile URL Source: public user permalink from passport userId
+I’m a world-traveling creative who works in marketing, loves music, art, culture, and meeting new people. With an affinity for interior design, I enjoy creating inspiring and welcoming spaces. My husband Kevin channels his creativity through music as a songwriter and producer. We hope you enjoy our LA and Nashville properties as much as we do!
+Born in the 80s
+My work: Marketing
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+150 reviews
+4.86 out of 5 average rating
+4 years of hosting

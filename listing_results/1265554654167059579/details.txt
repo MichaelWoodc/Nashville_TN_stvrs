@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1265554654167059579
+Latitude: 36.1786
+Longitude: -86.7888
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the heart of Germantown—Nashville's coolest and most popular neighborhood—this beautifully updated 2-bedroom, 1-bathroom historic home offers a perfect mix of character and modern comfort. Whether you're visiting for a weekend or planning a longer stay, this space has everything you need for a relaxing and memorable Nashville experience.
+
+Located in the heart of Germantown, you'll be just a short walk from some of Nashville's most famous restaurants, local boutiques, and popular attra
+
+The space
+Step inside and unwind in the open-concept living area, where vaulted ceilings with exposed wood beams, a plush sectional, and a large flat-screen TV create the perfect spot to kick back after a day of exploring. Natural light pours in from the skylight, giving the space a bright, airy feel.
+
+Cook up a meal in the fully equipped kitchen, complete with stainless steel appliances, ample countertop space, and a breakfast bar that’s great for casual dining or morning coffee. For a more formal meal, gather at the adjacent dining table.
+
+Both bedrooms are designed for your comfort, each featuring a queen-sized bed with soft, cozy linens to ensure a restful night’s sleep. Thoughtful decor throughout the home creates a warm, inviting atmosphere.
+
+The bathroom is sleek and functional, with contemporary finishes, a vanity for getting ready, and modern lighting.
+
+When you're ready to enjoy some fresh air, head out to the spacious backyard. Relax around the fire pit with seating for five, or challenge your friends to a game of cornhole. The back deck also offers comfy outdoor seating, making it a perfect spot to enjoy the sunset or a quiet morning.
+
+For your convenience, the home includes an in-unit washer and dryer, high-speed Wi-Fi, and keyless entry for easy check-in.
+
+Other things to note
+All listed amenities are to be used at guest’s own risk. The homeowner will not be held liable in any way for the risk, danger, injury, or damages caused to the other party.
+
+All reservations are subject to a Pre Check-In Security Deposit collection of $350 for incidentals and damage protection. This deposit will be returned should no issues occur. 
+
+This unit contains a smoke detector and NoiseAware device.
+
+By moving forward and booking this reservation, I give permission to the property manager to use a third-party to verify my identity and check criminal databases to confirm my reservation. Complete terms regarding the guest screening can be provided by the property manager. You may receive an email to complete your screening. Please check your spam inbox for this email and contact the property manager if you have any questions.
+
+As a friendly reminder, smoking in your unit, common areas, or on any of the grounds is strictly prohibited; doing so may result in an inability for us to continue hosting you along with an additional cleaning fee of $250.
+
+Sorry, no pets allowed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vector Nashville
+Host User ID: 501554574
+Host Profile URL: https://www.airbnb.com/users/show/501554574
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+964 reviews
+4.82 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1499479724171900082
+Latitude: 36.14867
+Longitude: -86.7946
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of Music City, this modern 1-bedroom condo is the perfect base to explore Nashville’s vibrant culture. Enjoy an open-concept design with a queen bed, sofa bed, and fully equipped kitchen. Just minutes from Broadway, the Parthenon, and Restaurant Row, you’ll be close to top attractions while still enjoying a peaceful retreat. With stylish décor, cozy linens, and thoughtful amenities, this welcoming space offers both comfort and convenience for your Nashville stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamal
+Host User ID: 409158331
+Host Profile URL: https://www.airbnb.com/users/show/409158331
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+71 reviews
+4.68 out of 5 average rating
+1 year of hosting

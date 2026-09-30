@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1292990660237137399
+Latitude: 35.97002
+Longitude: -86.83715
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space:
+This charming upstairs unit has one bedroom and one bathroom, a full kitchen and living room, and a lovely outdoor terrace. 
+
+The neighborhood:
+ Central location in a peaceful, walkable community. Short walk to quaint coffee shops and local hotspot Herban Market. Enjoy morning sunshine on the lovely terrace, friendly neighbors, and the peace and quiet of Franklin, TN.
+
+Other things to note: 
+In-unit washer and dryer, TV, terrace, and free parking directly outside unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 310316005
+Host Profile URL: https://www.airbnb.com/users/show/310316005
+Host Profile URL Source: public user permalink from passport userId
+Lives in Atlanta, Georgia
+Response rate: 25%
+Responds within a few days or more
+2 years hosting

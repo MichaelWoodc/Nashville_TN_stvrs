@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/34997148
+Latitude: 36.1327
+Longitude: -86.7779
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located just two miles from downtown, 1 mile to convention center, Music Row, Vandy, and Belmont. and blocks from cool music venues, bars, and restaurants, this home is an ideal set up for large groups needing to be close to town...and for those wanting a peaceful neighborhood to get some rest! Three floors, tons of sleeping areas, & 5 full showers!
+
+As of August 20, 2020 Airbnb does not allow parties and events with a cap on occupancy at 16 per home.
+.
+(Permit number: CASR-201518940)
+
+The space
+With soaring 15 ft ceilings, the first thing you will notice is the hand carved and recently hand sanded gingerbread Victorian staircase. The house has custom trim, tile, designer touches throughout. 6! Yes six original hand carved and tile fireplaces.
+
+The Waverly (6 bed/5.5 bath)
+Main Floor - 3 beds (2 king, 1 twin), 1 1/2 baths
+Bedroom 1: 1 king w/attached, shared full bath
+Bedroom 2: 1 king bed and daybed w/ attached, shared full bath (also includes crib)
+
+Second Floor - 4 beds (1 king, 1 queen, 2 full), 3 baths
+Bedroom 3: 1 king bed w/attached full bath
+Bedroom 4: 1 queen bed w/attached full bath
+Bedroom 5: 2 full beds w/attached full bath
+
+Basement - 3 beds (1 queen, 2 twin), 1 bath
+Bedroom 6: 1 queen bed, 1 day twin trundle w/full bath and kitchenette
+
+Guest access
+You will have a key so you can come and go as you please, but your hosts are on site to help with any needs that come up
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gerry
+Host User ID: 24758299
+Host Profile URL: https://www.airbnb.com/users/show/24758299
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+286 reviews
+4.9 out of 5 average rating
+7 years of hosting

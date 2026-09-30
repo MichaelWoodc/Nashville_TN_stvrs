@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1497279995902577713
+Latitude: 36.18683
+Longitude: -86.80508
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Nashville escape starts here! Just 10 minutes from Broadway, this roomy retreat is ideal for groups, family getaways or bachelorette weekends. Enjoy 3 comfortable bedrooms, a bright and open living area, a fully stocked kitchen, and a private balcony perfect for morning coffee or evening drinks. Free street parking and private garage make arrival easy. Close to music, dining, and nightlife - yet tucked away enough for true relaxation. The perfect blend of convenience and comfort awaits.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alex
+Host User ID: 48634792
+Host Profile URL: https://www.airbnb.com/users/show/48634792
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+49 reviews
+5.0 out of 5 average rating
+9 months of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1522439030769144668
+Latitude: 36.40223060949728
+Longitude: -86.7869222833737
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Greenbrier, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 6
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome To Hosanna Cabin & Retreat!
+
+Seated on beautiful private land,  your peaceful getaway awaits!  You'll feel like you're in Gatlinburg, but just minutes from Nashville! 
+
+This spacious log home is perfect for families or large groups who would love to be a perfect distance from Nashville!
+
+The space
+1 King Bed
+2 Queen Beds
+1 Full Bed
+1 Bunk Bed ( twin over full)
+
+Guest access
+You’ll have the whole property to yourself with stunning views! Enjoy the fire pit, long driveway, basketball hoop, and a peaceful time! 
+Please do not park in Garage.
+
+Other things to note
+Late checkout available until 12:30pm upon request for a $75 fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sofia
+Host User ID: 721799146
+Host Profile URL: https://www.airbnb.com/users/show/721799146
+Host Profile URL Source: public user permalink from passport userId
+Hello! As your host for Hosanna Cabin & Retreat, my job is to make sure you have the best stay in the Nashville area! Ive always lived in Nashville and love inviting people in! When not hosting, I enjoy trying new coffee or restaurants in Nashville, so I'd love to share recommendations!
+My work: Marketing
+Speaks English and Spanish
+Response rate: 50%
+Responds within a day
+11 months hosting
+3 reviews
+5.0 out of 5 average rating
+11 months of hosting

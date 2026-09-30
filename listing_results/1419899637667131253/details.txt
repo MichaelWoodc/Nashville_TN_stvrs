@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1419899637667131253
+Latitude: 36.24658921641815
+Longitude: -86.73543103719402
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home at Montage! Enjoy upscale comfort in this luxury 4BR/4BA Nashville home! Sleeps 12 comfortably with private bathrooms in every bedroom. Features a chef’s kitchen, third-floor rooftop patio, and designer touches throughout. Just 15 minutes from Broadway and BNA—perfect for groups or family getaways!
+
+The space
+Where you'll sleep:
+
+Bedroom #1: 1 king bed, with a private bathroom
+Bedroom  #2: 2 full beds, with a private bathroom
+Bedroom #3: 2 queen beds, with a private bathroom
+Bedroom #4: 2 queen beds, with a private bathroom
+
+We provide all essential linens and towels for your stay.
+
+Guest access
+The entire townhome is all yours to relax in and enjoy!
+
+Other things to note
+IMPORTANT DETAILS and HOUSE RULES:
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/ or Events are not permitted at this property & may result in the removal of your group from the premises without a refund.
+
+House Rules
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move furniture.
+No Confetti or Tape: Please do not use tape or adhesive of any kind on our walls. Damages will be charged to you!
+
+HOUSE RULES-
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move any furniture!
+No Confetti or Tape: Please do not use tape or adhesive of any kind on our walls. *Damages will be charged to you!*
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 675976511
+Host Profile URL: https://www.airbnb.com/users/show/675976511
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+24 reviews
+4.79 out of 5 average rating
+1 year of hosting

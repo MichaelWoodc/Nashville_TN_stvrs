@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1321136673267242465
+Latitude: 36.146
+Longitude: -86.8152
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Western World!
+Discover Nashville from this modern, stylish, and perfectly located 1-bedroom 2nd floor condo in the heart of West End. With a luxurious king bed and a full-sized cot, this inviting space comfortably accommodates up to 4 guests. Whether you’re here for a romantic getaway, solo adventure, or business trip, Western World places you steps from Centennial Park, minutes from Vanderbilt University, and just 10 minutes to Downtown/Broadway—home of world-famous honky-tonks.
+
+The space
+Situated in the sought-after West End neighborhood, this prime location offers effortless access to Nashville’s top attractions. Just a short walk away, Centennial Park provides a scenic escape with its famous Parthenon replica, picturesque walking trails, lush gardens, and a tranquil lake. Vanderbilt University is also nearby, allowing you to explore the beautiful campus of one of the nation’s most prestigious research institutions. West End Avenue offers a lively mix of incredible dining, shopping, and entertainment, perfect for a day of exploration. For music lovers, Music Row is just around the corner, where you can experience the heartbeat of country music through its historic recording studios and iconic industry landmarks.
+
+Short Drives to Nashville Hot Spots! Jump in an Uber or Lyft and you’ll be minutes from:
+-Broadway (6 mins) | Music Row (6 mins) | The Gulch (7 mins)
+-Bridgestone Arena & Ryman Auditorium (9 mins)
+-Nissan Stadium (9 mins)
+-Vanderbilt Medical Center (5 mins) | Belmont University (5 mins)
+-Nashville International Airport (14 mins)
+-Golf lovers? You’re close to McCabe Golf Course (5 mins), Ted Rhodes Golf (8 mins), and Gaylord Springs Golf Links (19 mins). It’s all here!
+
+Designed with your comfort in mind, Western World is a true home away from home. Located on the 2nd floor with elevator access, this condo is stocked with everything you need for a seamless and relaxing stay:
+-Fully equipped kitchen: toaster, drip coffee maker, microwave, cookware, silverware, plates, and glasses (no cooking oil provided)
+-Washer & dryer (with detergent pods), iron, ironing board, and hangers
+-Plush bed linens, cozy blankets, and extra pillows
+-Toiletries provided: shampoo, conditioner, body wash, and a hair dryer
+-Enjoy free parking in any numbered spot (one car per reservation), with limited street parking available on a first-come, first-serve basis.
+
+Book your stay at Western World today and make unforgettable Nashville memories!
+
+Presented by Injoy Nashville: Experience Your Stay. Design by NP/Injoy.
+
+Guest access
+Smart Lock
+
+Registration Details
+2022050729
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: InJoy Vacations
+Host User ID: 425884247
+Host Profile URL: https://www.airbnb.com/users/show/425884247
+Host Profile URL Source: public user permalink from passport userId
+InJoy Vacations proudly offers a selection of high-quality condo rentals in Panama City Beach, FL & Nashville, TN. We are a locally owned and operated business, and we love to share our community with owners and guests. Our goal is to provide exceptional vacation experiences to visitors, and we’ve perfected our craft. Many of our guests choose to return year after year.
+My work: InJoy Vacations
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+4503 reviews
+4.73 out of 5 average rating
+5 years of hosting

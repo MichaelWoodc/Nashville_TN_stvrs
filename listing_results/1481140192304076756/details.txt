@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1481140192304076756
+Latitude: 36.14246
+Longitude: -86.82271
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful townhome in the iconic West End area! So close to everything. The highways are 1 minute away! Enjoy the shopping, cafes, eating that West End has to offer! Check out the parthenon! 6 minutes to downtown! 4 minutes to midtown!
+
+Our "Movie Nights" themed townhome is perfect to feel at home in. Whether you're just stopping through, enjoying the city or having a night in, this cozy space is a great place to relax.
+
+The space
+The living room has a twin bed and two fold down futons. The 40 in Roku TV or the pull down screen and projector are perfect ways to catch up on your favorite movies or shows!
+
+The dining area seats 4 and has a great view of the screens. A half bath to the side.
+
+Enjoy the full kitchen, just like home!
+
+Upstairs there are two queen bedrooms, both with ensuite baths.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Curated Suites
+Host User ID: 255636174
+Host Profile URL: https://www.airbnb.com/users/show/255636174
+Host Profile URL Source: public user permalink from passport userId
+Welcome to the Curated Suites in East!
+
+Curated boutique stays brought to Music City for the wanderer in us all! Affordable rates, local feel + ties. We are a boots on the ground company rooted in our community. 
+
+Who loves to travel? We DO! You DO! Let us host your next Nashville experience.
+Lives in Los Angeles, California
+Response rate: 97%
+Responds within an hour
+7 years hosting
+4261 reviews
+4.7 out of 5 average rating
+7 years of hosting

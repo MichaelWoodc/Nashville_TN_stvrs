@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1000836890039316907
+Latitude: 35.9841
+Longitude: -86.51999
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is an event space that can be created however you’d like! We do an all inclusive experience that we can add a party bus to and from the event space, give you a DJ for your party, and we also have onsite decor.  Add ons are of course appreciated and the space can be used for everything from Bachelorette Parties to Weddings! 
+
+This place fits up to 85 guests at one time seated - 100 total in the building.
+
+Please let us know what kind of party you want to haves
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Victoria
+Host User ID: 299008969
+Host Profile URL: https://www.airbnb.com/users/show/299008969
+Host Profile URL Source: public user permalink from passport userId
+Lives in San Antonio, Texas
+Superhost
+7 years hosting
+35 reviews
+4.63 out of 5 average rating
+7 years of hosting

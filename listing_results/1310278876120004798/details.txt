@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1310278876120004798
+Latitude: 36.1825
+Longitude: -86.8206
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything when you stay at this centrally located place. This cozy cottage is nestled next Ted Rhodes Golf Course, five minutes from the heart of Downtown Nashville with assessable transportation to many great restaurants or activities!
+
+The space
+New renovation of entire house
+
+Other things to note
+Hot water is available. note concerning no hot water is in error.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Darryl
+Host User ID: 593362978
+Host Profile URL: https://www.airbnb.com/users/show/593362978
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+43 reviews
+4.44 out of 5 average rating
+2 years of hosting

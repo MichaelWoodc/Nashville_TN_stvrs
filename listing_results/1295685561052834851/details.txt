@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1295685561052834851
+Latitude: 35.97231902153659
+Longitude: -86.89897751474487
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Whether you are coming to Franklin to explore or catch up with old friends or family, you have found your spot. 
+Central Location:
+- Minutes to downtown Franklin
+- 20 min to Leipers Fork
+- 30 minutes to Nashville. 
+
+Key Features: 
+- Stock Tank Pool (Open April - End of September)
+- Family amenities: Pickler Triangle, Nugget Couch, and Arcade. 
+- Fire Pit
+- One car garage
+- Newly renovated and professionally decorated.
+- Every Bedroom and both living rooms have Smart T.V.s
+
+The space
+Every aspect of our 3 bed 2 bath home has been meticulously designed to give our guests a relaxing and memorable stay. 
+- Large kitchen
+- Spacious living area/Play items for kids. 
+
+Sleeping arrangements: 
+- Primary Suite - king sized bed and an ensuite bathroom.
+- 1st Guest room - Two twin beds
+- 2nd Guest room - 1 queen bed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 77930747
+Host Profile URL: https://www.airbnb.com/users/show/77930747
+Host Profile URL Source: public user permalink from passport userId
+Our journey with Airbnb began in 2016 when we started renting out our personal home while traveling. What started as a simple side project quickly grew into a passion—creating exceptional stays where guests can relax, make memories, and feel at home. Now, as a family with two young children, we not only love hosting in our own properties but have also expanded to helping others provide top-quality stays in the area.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+5779 reviews
+4.89 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1383337800520243121
+Latitude: 36.12276676881945
+Longitude: -86.78852258579505
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Prime Location! Tucked in a quiet, historic neighborhood yet just steps from 12 South’s award-winning restaurants and shops. This beautifully maintained home offers the perfect Nashville retreat, blending southern charm with modern comfort. Spacious enough for larger groups, it features a fenced backyard with a pool—ideal for unwinding between adventures.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC.
+
+This spot was both thoughtfully and functionally designed.
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+➡️800 Feet – 12th South
+➡️.4 Miles – Sevier Park
+➡️.9 Miles - Publix
+➡️1.2 Miles – Vandy / Belmont
+➡️3.1 Miles - Downtown
+
+When you arrive at the property, take the time to enjoy the history as you swing open the gate and walk towards the porch (fun fact – part of the original gate is hanging on the living room wall to provide extra character and charm). Once you make it to the door, take a seat on the swing and snap a few pictures with your group in front of the Nashville sign!
+
+Entryway: Twin Daybed with Twin Trundle; the entryway of the house is shared with the living room, but it's spacious. The daybed in the entryway is the same style/design as the one in the third bedroom, for reference.
+
+LIVING ROOM: Providing a few different options to relax, the living room has two oversized accent chairs, a very comfortable cloud-like couch, and two ottomans. The coffee table also doubles as storage for board games!
+
+FIRST BEDROOM: Queen Bed & Desk Area: Joining us for a business trip? This room is equipped with a desk.
+
+MASTER BEDROOM: King Bed & Master Bathroom: Looking for a spacious room with an oversized bathroom? Call dibs on this room!
+
+THIRD BEDROOM: Queen Bed & Twin Daybed with Twin Trundle: This room is a personal favorite - enjoy direct access to the backyard and extra windows for gorgeous lighting!
+
+KITCHEN & DINING: Fully equipped kitchen, providing all of your cooking and dining needs. Take a night off from eating out (even as a local sometimes it’s hard to do that with all of the amazing choices we have) OR order take-out and eat around the table with your friends and family!
+
+BACKYARD: Grill out or just hang out - your choice! Either way, you and your guests will enjoy the luscious greenery that provides privacy!
+
+Other things to note
+Street Parking
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dave
+Host User ID: 685884069
+Host Profile URL: https://www.airbnb.com/users/show/685884069
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+1 year hosting
+44 reviews
+4.84 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1401469490064140159
+Latitude: 36.19212271155894
+Longitude: -86.73606760137176
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step out of real life and into vacation mode. This 2 bed / 2 bath bungalow is nestled in one of the city’s most walkable and sought-after neighborhoods. The perfect mix of quaint residential charm and city buzz — sip coffee on the porch, stroll to restaurants, bars and parks, and soak up the East Side energy.
+Whether you’re here for a show, on business, or just want to experience where the locals actually hang, this is your perfect home base.
+Book now and settle in — you’re gonna love it here.
+
+The space
+Brand new to Airbnb, this cozy bungalow features two bedrooms, two full bathrooms, an open living area that flows into a well-stocked kitchen and dining area, plenty of natural light, comfy beds, and just the right touch of East Nashville charm.
+
+Out back, a covered porch is perfect for slow mornings or happy hour!
+
+Guest access
+Whole house & yard, 
+no access to  the third bedroom.
+
+Other things to note
+Walkable to : 
+
+Surefire Coffee
+The Wash food court
+Cafe Roze
+Yellow Table Cafe
+Butter Lamp 
+Schulmans 
+Strega
+East Room
+Cobra
+Skinny Dennis
+Vinyl Tap 
+Dreamburger
+Two Ten Jack 
+Five Daughters Bakery 
+Rosepepper Cantina 
+Jeni’s Ice Cream
+
+Publix Grocery
+and many more!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brendan
+Host User ID: 552448672
+Host Profile URL: https://www.airbnb.com/users/show/552448672
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of North Carolina Asheville
+My work: Entertainment Rigger
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+18 reviews
+4.94 out of 5 average rating
+1 year of hosting

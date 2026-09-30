@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1247776787222705941
+Latitude: 36.19806808484675
+Longitude: -86.84400421148703
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our charming North Nashville spa cottage It's the perfect retreat with a hot tub, foot baths, and outdoor space nestled away from the hustle and bustle of downtown. Located just 5 miles away from the city center, this beloved home offers a serene escape with the convenience of easy access to Nashville's vibrant attractions. With 3 bedrooms and 6 comfortable foam beds, including a sofa bed, our home is ideal for small parties, couples, or families looking to relax and enjoy time togeth
+
+The space
+BEDROOMS:
+
+With 7 beds there is plenty of room for everyone! Choose from a queen bed, a twin xl bed (we have 4!), an air mattress, and a very comfortable sleeper sofa. The beds and linen are cozy for a good night's sleep and the closets provide extra room for your things.
+
+BATHROOMS:
+We have a full sized tile bathroom fully equipped for your stay!
+
+KITCHEN & LOUNGE:
+
+The spacious, open-concept living area is perfect for enjoying quality time with friends or family. The kitchen is fully-equipped with all the basic essentials so you can prepare a snack or meal whenever your heart (or stomach) desires! A dining table stands at the ready, and the large TV is perfect while you prepare your meals or for a movie night.
+
+Guest access
+Kick back, relax and get comfortable! With Best Stay, you’re always renting the entire house. You’ll have the place all to yourself & feel like you're at your home away from home!
+
+Other things to note
+We welcome you to stay with us for one night, month to month, or even up to 6 months if needed. We are here to serve our guests and are making special exceptions given the current circumstances. Our hot tub will have you relaxing on the back patio all night!
+
+Pets are welcome! There is a fee of $50.00 per pet to help cover additional cleaning costs
+
+It is our top priority to provide a safe and comfortable space for everyone and we would like to thank you in advance for putting your trust in us as you plan your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: McKenzie
+Host User ID: 367489105
+Host Profile URL: https://www.airbnb.com/users/show/367489105
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Pro Host
+Response rate: 100%
+Responds within an hour
+6 years hosting
+1228 reviews
+4.59 out of 5 average rating
+6 years of hosting

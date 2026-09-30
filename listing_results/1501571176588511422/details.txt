@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1501571176588511422
+Latitude: 36.1306
+Longitude: -86.7683
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy Nashville room just across from GEODIS Park, featuring a Smart TV & Nintendo Switch. Walk to Santa’s Pub, & Sally’s Stay Awhile, and the Nashville Fairgrounds. Enjoy easy access to 12 South, The Gulch, Downtown, Hillsboro Village & East Nashville.
+
+Conveniently located near Belmont, Trevecca & Vanderbilt, as well as major hospitals and highways. After exploring Nashville, come home to relax, play board games, get local recommendations, or hang out with our sweet pup!
+
+The space
+This listing is for a ROOM only in our home on the second story. Guests will only have access to their room and the restroom on the 2nd floor (private access). Please be respectful of your behavior so we can continue to share our wonderful home in Nashville with folks from around the world.
+
+Guest access
+You will have access to the north facing bedroom of our home. Access to the home itself will be through a lockbox with a key inside.
+
+During your stay
+While both of us work, I (Tyler) am typically home Mondays, Tuesdays, Thursdays, and weekends. I am available via text on Wednesdays and Fridays, and can attend to guests needs in the evenings. Please note I am a therapist and thus am not immediately available during normal working hours typically on Wednesdays and Fridays. Text is typically best!
+
+Other things to note
+Please contact Tyler or Valerie to use the Washer/Dryer, Nintendo Switch, or Fire Pit. That just helps us plan accordingly for our own laundry, and approximately how much wood we have for guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyler
+Host User ID: 420768282
+Host Profile URL: https://www.airbnb.com/users/show/420768282
+Host Profile URL Source: public user permalink from passport userId
+Hi! We're Tyler and Valerie. We run Bunica's Bakery, a micro bakery in Wedgewood-Houston specializing in sourdough and traditional Romanian baked goods. I'm also a therapist and love home renovation and woodworking. We enjoy sharing our favorite local restaurants, bars, and hidden gems so you can experience Nashville like a local. We love a board game night and would be happy to host one with you! We're happy to give you privacy but are always just a message away if you need anything!
+My work: Therapist and Baker
+I spend too much time: Baking, Baking, and more baking!
+Fun fact: I was in a Toby Keith music Video
+Pets: Our dog Sandra Dee, the Sock Bandit!
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+1 month hosting
+15 reviews
+5.0 out of 5 average rating
+1 month of hosting

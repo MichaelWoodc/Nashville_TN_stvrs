@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/1497807603978071729
+Latitude: 36.1931
+Longitude: -86.8312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Coastal Cowgirl—a chic, country-glam Nashville retreat just 5–10 mins from Broadway. Features a private 4th-floor rooftop patio with a hot tub, fire pit, and sweeping skyline views. Enjoy 4 floors of luxury living with cozy lounges, a chef’s kitchen, fast Wi-Fi, and smart TVs throughout. Plus, BetterBNB guests get exclusive VIP discounts on white-glove chauffeur service (Sedans, Escalades, Sprinters) and local lake boat rentals!
+
+The space
+Coastal Cowgirl combines coastal chill with Music City glam for the ultimate Nashville stay. Step into open-concept living spaces designed for gathering, cook in a fully equipped chef's kitchen, and unwind on your private 4th-floor covered rooftop patio complete with a hot tub, fire pit, cushioned seating, and panoramic skyline views.
+
+Spacious Floor Plan & Bedroom Layout
+
+1st Floor: 1 Bedroom with a Queen bed and private en-suite bathroom; attached private garage.
+
+2nd Floor: Chef’s kitchen, open living/dining space, and 1 Bedroom with a Queen bed and Jack-and-Jill full bathroom.
+
+3rd Floor: Primary Suite 1 (1 King bed & private en-suite bath) + Primary Suite 2 (2 Queen beds & private en-suite bath).
+
+4th Floor: Guest Suite (2 Queen beds & Jack-and-Jill bath), dedicated theme lounge, and covered rooftop patio with hot tub & fire pit.
+
+Chef's Kitchen & Dining
+
+Full-sized stainless steel appliances (fridge, stove, oven, microwave, dishwasher)
+
+Fully stocked with cookware, bakeware, glassware, and utensils
+
+Drip coffee maker and tea kettle
+
+Comfort & Connectivity
+
+Fast Wi-Fi across all 4 floors
+
+Smart TVs in living areas and bedrooms
+
+Central A/C & heating with individual climate controls
+
+Fresh linens, plush bath towels, and essential toiletries provided
+
+BetterBNB VIP Perks
+Enjoy exclusive guest priority access and discounts across our premier Nashville partner network—including private luxury chauffeur transportation (Executive Sedans, Escalades, Sprinters) and boat rentals at Percy Priest Lake and Old Hickory Lake!
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+Self Check-In: Keyless entry via Yale smart lock with personalized access codes sent prior to arrival.
+
+Parking: Private attached garage parking plus free on-site space for your group.
+
+House Rules: No smoking or parties allowed inside the property. Quiet hours are enforced in accordance with local Nashville ordinances.
+
+VIP Concierge: BetterBNB guests receive exclusive discounts on luxury chauffeur services and lake boat charters!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

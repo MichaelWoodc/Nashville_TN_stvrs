@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/10309379
+Latitude: 36.17164
+Longitude: -86.75893
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful two bedroom, two bath art filled historic bungalow. Roomy front porch plus large screened in back porch. Walking distance to downtown, Five Points activities, grocery, bars, and restaurants. PLEASE NOTE: House rules must be read and agreed to before booking. Owners live in a totally separate space in the back of the property who are available but are very respectful of your privacy. The house is not appropriate for children.
+
+The space
+Nashville is a wonderful place with much going on, but once you sit on the screened in porch you may not want to leave. An eclectic, lux, and contempory space with two bedrooms each with en-suite baths. Full
+amenity kitchen. Large comfortable screened in porch for relaxing, dining, and even sleeping in cool weather. Full home indoor and outdoor sound system to play your favorite music via bluetooth from your phone.
+Please note: there is only one TV in the study with seating for three.
+
+Guest access
+You will have privacy and access to the property from the front door, gate, and back door. Feel free to come and go as you please. You will not be disturbing neighbors or us.
+
+Other things to note
+We have local suggestions awaiting you in the kitchen.  We live in a totally separate building in the back of the property and will completely respect your privacy.  You'll have access to the front and back of the property. NOTE: The house is not appropriate for children. The gas fireplace in the living room is not functional. There is only one TV in the house located in the study which has seating for three.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patrick
+Host User ID: 20207995
+Host Profile URL: https://www.airbnb.com/users/show/20207995
+Host Profile URL Source: public user permalink from passport userId
+artist types
+My work: Medicine and Finance
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+655 reviews
+4.98 out of 5 average rating
+10 years of hosting

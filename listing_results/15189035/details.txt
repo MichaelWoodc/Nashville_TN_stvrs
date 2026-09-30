@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/15189035
+Latitude: 36.20601
+Longitude: -86.71181
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This fully renovated house is located centrally in East Nashville on a huge quiet tree lined corner lot with plenty of parking.  House is designed for specifically for Airbnb.  Entire Space is on one level, zero step entry with large walk in showers, great for elderly folks or children.  Very open floor plan  makes it great for entertaining larger groups. Great location just minutes from downtown and most of the hot spots in East Nashville.
+
+The space
+mid century ranch, open floor plan makes this house a perfect space to entertain and relax while you visit Nashville.  High quality materials  throughout the entire house.  Marble and granite kitchen and bathrooms, luxury hotel quality beds, designer furnishings, outdoor gas grill, Huge corner lot with lots of parking.
+
+Guest access
+Entire Property.
+
+Other things to note
+Please make sure your guests count is accurate.  The City of Nashville strictly enforces occupancy limits and can cancel my short term rental permit if the house is over occupied.  If you need to add more guests after your booking, please let me know prior to the beginning of your stay.   Please understand that undisclosed additional guests may result in the cancelation of the  reservation and forfeiture of the deposit.
+
+Bookings made prior to November 4th 2019 will receive a Nashville city hotel tax bill separate from the original payment to airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ting
+Host User ID: 37906079
+Host Profile URL: https://www.airbnb.com/users/show/37906079
+Host Profile URL Source: public user permalink from passport userId
+I am a business consultant dabbling in real estate as a hobby.  I love designing and building things.  I love pets, cars, boats and eating too many sweets!
+My work: MJMC
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+623 reviews
+4.85 out of 5 average rating
+10 years of hosting

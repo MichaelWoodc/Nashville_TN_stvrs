@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1391573023632729279
+Latitude: 36.1812
+Longitude: -86.7323
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in Nashville's most vibrant neighborhood, our private guest suite offers the perfect mix of convenience and comfort. With top restaurants and bars a short walk away, and downtown Nashville just a 10-minute drive, you’ll be close to all the excitement while enjoying a peaceful retreat. Perfect for couples or friends, the suite features a king-sized bed, modern decor, a private patio, and off-street parking. Explore the local scene with easy access to Broadway and Nashville’s top spots!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cass And Martin
+Host User ID: 12122804
+Host Profile URL: https://www.airbnb.com/users/show/12122804
+Host Profile URL Source: public user permalink from passport userId
+Cass and I love our neighborhood. We have lived here for five years and between the local shops, good friends and great community we are finding that it is a wonderful place to raise our two kids. Over the years we have dabbled in different things, but they have all centered around helping others and making spaces look great. We are in the real-estate world; managing properties and bringing new life into old neighborhoods by remodeling houses. We love sharing what we do with others and honestly want you to feel that our home and the spaces that we have created are your home - or at least wish they were your home. We hope that we can be more than just a host for your trip, but that we can be a resource for you. We often have guest moving to Nashville. If you would like to see some homes or get a tour of the neighborhoods just ask ahead of time and we will take care of the rest.
+Born in the 80s
+My work: Realtor/ Interior Designer and Physical Therapist
+Response rate: 90%
+Responds within an hour
+12 years hosting
+1555 reviews
+4.76 out of 5 average rating
+12 years of hosting

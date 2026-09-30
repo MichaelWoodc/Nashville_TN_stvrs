@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1335891658933160767
+Latitude: 36.13487850555412
+Longitude: -86.64025067185123
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable private room in a quiet Nashville home. Free Wi-Fi, parking, blackout curtains, mini fridge, microwave, electric kettle, and fresh linens provided. 
+One room features a private ensuite bathroom. Convenient to the airport, downtown Nashville, shopping, and restaurants. Ideal for business travelers, visiting family, traveling nurses, and extended stays. 
+Monthly discounts available.
+Quiet home ideal for remote work and restful nights.
+FREE parking. Near airport and downtown.
+
+The space
+Comfortable owner-occupied Nashville home in a peaceful neighborhood. Guests enjoy free parking, Wi-Fi, and easy access to downtown and the airport.
+
+Guest access
+FREE parking - patio- garden -backyard.
+
+During your stay
+Text message or in person. I will always be available.
+Also, world travelers and interested in languages, cultures, food and general chats. Good communication, friendly and amiable.
+
+Other things to note
+Easy access to all amenities quiet: Supermarkets, Restaurants, Opri Mall, close to the Airport and Nashville downtown. 
+A very comfortable peaceful quiet area for a good, refreshing and restful night sleep.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paul
+Host User ID: 673479543
+Host Profile URL: https://www.airbnb.com/users/show/673479543
+Host Profile URL Source: public user permalink from passport userId
+My work: Self Employed
+Favorite song in high school: All You Need Is Love.
+Fun fact: I played lots of Soccer.
+For guests, I always: History, Science and MUSIC & SPORTS.
+Pets: Yes - Nash & Belle - Pussycats.
+2 years hosting
+1 reviews
+5.0 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/1314153147917441650
+Latitude: 36.18956
+Longitude: -86.74578
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 13
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Nash Adventure starts here! 3+1 bedroom, 4-bath home (built in 2021) is just 8-mins from downtown and within walking distance of Publix, Starbucks, and East Nashville’s vibrant bars and eateries. Perfect for bachelorette parties or group getaways, this home boasts a game room, a top-floor porch, and bedrooms spread across multiple levels. Located near major highways, you’re only a short drive to iconic spots like the Grand Ole Opry (15 min) and Nissan Stadium (10 min). Let the fun begin!
+
+The space
+🎶 Welcome to Your Ultimate Nashville Getaway! 🎶
+
+Searching for the perfect Nashville retreat? Look no further! This East Nashville home is ideal for large groups looking for a memorable family reunion, pre-concert gathering, or epic bachelor/bachelorette party.
+
+🏡 The Space
+3 Bedrooms + 1 Extra Room, 4 Bathrooms: Comfortably accommodates up to 16+ guests across three levels.
+
+Sleeps 16+: Perfect for family vacations or large gatherings looking for plenty of sleeping options! 
+
+Modern Convenience: Built in 2021, offering sleek appliances and modern amenities.
+
+🎉 Game On
+The garage has been transformed into a fun-filled game room, with:
+
+Arcade Games 🎮
+Board Games 🎲
+Life-Sized Games 👾
+Pool Table 🎱
+Big-Screen TV 📺
+
+🅿️ Parking
+Free parking available behind the house and on the surrounding streets.
+
+🍴 Perfect Location
+Walk to Publix, Starbucks, and some of East Nashville’s best bars and eateries.
+
+8 minutes from downtown and Broadway’s honky-tonk bars.
+
+Easy access to major highways to explore all that Nashville has to offer.
+
+🌟 Extra Touches
+Enjoy coffee or cocktails on the cozy top-floor porch.
+
+A vibrant neighborhood with everything you need just a few steps away.
+
+Quick rideshare options to Broadway for nightlife fun.
+
+Guest access
+Y’all are gonna love having exclusive access to this entire East Nashville gem! From all four cozy bedrooms and bathrooms to the open-concept living, dining, and kitchen areas, this space was made for good times and great company. Kick back in the epic game room (complete with arcade games 🎮 and more) or sip on sweet tea out on the patio—this home is all yours to enjoy. Whether you’re chillin’ inside or making memories under the Nashville stars, this is the perfect spot to gather, laugh, and soak up everything Music City has to offer! 🎶✨
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: M
+Host User ID: 548778835
+Host Profile URL: https://www.airbnb.com/users/show/548778835
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+187 reviews
+4.97 out of 5 average rating
+3 years of hosting

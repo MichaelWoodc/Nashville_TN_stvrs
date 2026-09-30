@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1043735350636488708
+Latitude: 35.9974
+Longitude: -86.8807
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the heart of nature, our cabin offers a serene escape, yet it is centrally located:
+Broadway: 13 mi
+Franklin: 6 mi
+Leipers Fork: 11 mi
+Nearest Coffee Shop: 1/2 a mile. 
+
+Features to note: 
+* Two bedrooms upstairs, each has a queen bed & a bathroom between the two rooms. 
+* Two bedrooms downstairs, one with a king and one with two single beds and a bathroom next to them. 
+* Back deck with swing & outdoor dining. 
+* Fire pit
+*Pet Friendly
+*Newly paved driveway (no longer gravel).
+
+The space
+When you step into the cabin, you will be walking into the kitchen which leads to the living room. The hallway off of the living room has the washer and dryer. Also off of this hallway is the primary bedroom with a king bed. At the end of the hallway is the bedroom with a trundle bed (two single beds). Next to this room and across from the primary is a full bathroom. 
+
+Upstairs there are two bedrooms across from each other, both have comfortable queen beds. There is a full bathroom between these two bedrooms. We have also turned the hallway closet into a children's play nook with some toys and books.
+
+Guest access
+Guests have full access to the property.
+
+Other things to note
+When arriving at the property you will pull up a paved driveway. Our neighbors house is on the left. Continue up the driveway. This can be a little steep and bumpy so we encourage guests to take it slow. The cabin is a short way up this drive at the end of the road.
+
+We are a pet-friendly home. If you are bringing a pet, please let us know in advance and select the number of pets you are bringing. We allow up to two dogs. If you have any other type of pet or more than two dogs, please reach out before booking. These are approved on a case-by-case basis. Our standard pet fee is $75, which covers 2 dogs for up to 4 nights. Anything beyond that, you will be charged a separate fee after booking of $15 per night per pet. 
+
+After booking, we will also send you a pet agreement that will need to be signed before your arrival. It basically asks guests to follow these guidelines:
+
+- Pick up after dog droppings
+- Do not allow the dog to bark excessively
+- Do not allow dogs on furniture or beds
+- Don’t leave animals unsupervised, unless they are in a crate.
+- Put pet sheets on furniture
+- Pets must be housebroken
+- Crate the dog if left unattended indoors for a long period of time.
+- Groom the dog before the trip and vacuum after your pet if it sheds excessively
+- The dog must be up-to-date on immunizations
+
+*If these guidelines are not followed, guests will be charged the extra fee for cleaning. Specifically if someone has to pick up dog droppings, couch cleaning is required or bedding needs extra time due to a pet being in bed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 77930747
+Host Profile URL: https://www.airbnb.com/users/show/77930747
+Host Profile URL Source: public user permalink from passport userId
+Our journey with Airbnb began in 2016 when we started renting out our personal home while traveling. What started as a simple side project quickly grew into a passion—creating exceptional stays where guests can relax, make memories, and feel at home. Now, as a family with two young children, we not only love hosting in our own properties but have also expanded to helping others provide top-quality stays in the area.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+5779 reviews
+4.89 out of 5 average rating
+9 years of hosting

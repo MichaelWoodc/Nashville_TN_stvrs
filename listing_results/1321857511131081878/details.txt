@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1321857511131081878
+Latitude: 36.38373
+Longitude: -86.5208
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Minutes from Nashville, TN. Reconnect with nature at this unforgettable alpaca escape.
+
+The space
+Create warm and fuzzy memories while staying in our well appointed, private camper on our mini alpaca farm in Middle Tennessee.  We offer a unique camping experience that combines the charm of rural life, though still close enough to Nashville to enjoy the thrill of the city.  Of course the City offers bars, honky-tonks with live music, Grand Ole Opry, tours, you name it, but why stay in the noisy downtown area after a long day?  Our farm offers a serene, peaceful getaway with amenities that are sure to make you relax such as enjoying the fire while making smores, stargazing, reading your favorite book, enjoying a picnic, or best of all -  feeding alpacas their favorite treats and snapping selfies that will make your friends wish they were you!
+
+Your space is completely separated/fenced from all animals so that you only have to interact with them if you want to. The rental area includes the fully equipped RV, a small fenced yard with a picnic table and umbrella, firepit with Adirondack chairs, and a  charcoal grill. We also have kayaks if you'd like to rent those by the day.  If you'd like to make your arrival special with flowers, wine, or a charcuterie board, please let me know at least 72 hours prior to your stay to arrange that for you.
+
+Central TN Points of Interest:
+BNA Airport - 32 mi
+Nashville Center  - 28 mi < 30 mins
+Bridgestone Arena - 27 mi
+Nissan Stadium - 26.5 mi
+Downtown Gallatin - 4  mi
+Indian Lake (Hendersonville) - 10 mi
+Grand Ole Opry, Opry Mills Mall &General Jackson Showboat - 26 mi
+Jack Daniels Distillery - 87 mi
+Arrington Vineyards - 56 mi
+Belle Meade Mansion - 34 mi
+Country Music Hall of Fame  - 28 mi
+Ryman Auditorium - 28 mi
+Scottsville, KY (Amish Country) - 33 mi
+Carnton Plantation - 50 mi
+
+We are situated approximately 30 mins Northeast of Nashville on the Western side of Gallatin, TN and have a quaint mini farm with several alpacas, chickens, 2 mini Dachshunds, a Great Pyrenees, sheep and goats that call this place home.  We are a welcoming couple and recent empty-nesters and look forward to your visit!!
+
+Guest access
+Entire Camper is yours during your stay. We give you complete privacy unless you need anything, of course reach out.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michelle
+Host User ID: 82762592
+Host Profile URL: https://www.airbnb.com/users/show/82762592
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: Tennessee Tech
+Response rate: 100%
+Responds within an hour
+2 years hosting
+6 reviews
+5.0 out of 5 average rating
+2 years of hosting

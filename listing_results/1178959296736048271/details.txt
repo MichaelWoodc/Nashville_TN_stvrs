@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1178959296736048271
+Latitude: 36.1648
+Longitude: -86.8537
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our home of love and care! Kick back and relax in this calm, stylish space with modern design and color! Located on a quiet corner next to a coffee shop and upcoming shopping district, this is our corner of The Nations in Nashville! We’re just around the corner from Nashville Famous coffee shops, restaurants, sports bars, and only minutes away from things like The Parthenon and Broadway!
+
+The space
+A cozy and warm corner condo overlooking the up and coming Centennial Boulevard area, come stay with us! Kick your feet up in front of the fire after making a warm cup of coffee in the galley kitchen, and watch a movie with friends or family! Leaving for the day? Maru Nations, Nashville famous Daddy's Dogs, AND 51st Deli or Frothy Monkey are just down the road!
+
+Guest access
+You'll have access to the building, up to the 3rd floor and access to the entire apartment. It’s all wheelchair accessible, and there is an elevator to take up to the third floor.
+
+Other things to note
+Wheelchair accessible, no steps just take the elevator up to the third floor that the unit is on!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessica
+Host User ID: 159532184
+Host Profile URL: https://www.airbnb.com/users/show/159532184
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Kennewick, Washington
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+147 reviews
+4.97 out of 5 average rating
+2 years of hosting

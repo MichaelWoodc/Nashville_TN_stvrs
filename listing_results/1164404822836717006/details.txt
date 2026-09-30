@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1164404822836717006
+Latitude: 36.13926
+Longitude: -86.79299
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover your Nashville homebase on Music Row, a 3-story oasis with 4 private bedrooms, each with its own bathroom. Enjoy a spacious common area, a fully-equipped kitchen, fast Wi-Fi, and free parking (2 spots). Perfectly located on a quiet street near Belmont and Vanderbilt, and just minutes from downtown and Broadway. Ideal for families and groups seeking luxury, privacy and convenience in the heart of the city.
+
+The space
+Welcome to your next home away from home at this Music Row Brand new house, located in the serene heart of Nashville. This spacious three-story retreat is designed with both large groups and families in mind, offering a perfect blend of communal areas and private spaces to suit everyone’s needs.
+
+Come On In:
+As you step inside, you’ll be greeted by a welcoming living room, complete with a plush sofa and a 60-inch Smart HDTV—ideal for family movie nights or relaxing after exploring the city. The living area flows seamlessly into a dining space that comfortably seats eight, perfect for shared meals and stories from the day.
+
+Culinary Delights:
+Our sunlit kitchen is a dream for those who love to cook, equipped with top-notch appliances like a microwave/oven combo, a second oven with diverse cooking modes, a large stove, and even a Keurig for your morning coffee. It’s all set for you to whip up a feast or a quick snack.
+
+Rest and Recharge:
+The house boasts four expansive bedrooms, each a peaceful haven with its own private bathroom and luxurious showers. The master suite features a king-sized memory foam bed, dual sinks in the bathroom, and a private balcony for quiet moments. Bedroom One, with its queen-sized bed and private balcony, offers beautiful sunset views.
+
+Bedrooms Two and Three offer additional privacy on the third floor, each furnished with memory foam beds and their own bathrooms. Room two features a king bed, while room three features two queen beds ideal for extra guests, kids, or those wishing to share a room, but not the same bed. 
+
+*There are 2 roll-away single beds upon request for extra guests, these can be placed in any of the bedrooms, or living room. Perfect for kids, but can also work for some adults.
+
+Additional Comforts:
+For those mixing business with pleasure, multiple work areas throughout the house provide the perfect spot to stay productive, supported by blazing-fast Wi-Fi. Don’t worry about parking; we’ve got you covered with two complimentary parking spots right on site.
+
+Perfect Location:
+Located on a peaceful, tree-lined street, you’re just a leisurely stroll from Belmont and Vanderbilt University and a quick ride to the vibrant heart of downtown Nashville. Nearby Hillsboro Village and Midtown offer an array of charming shops and eateries.
+
+Our house is more than just a place to stay—it’s a space where families and friends can come together, relax, and create lasting memories. We can’t wait to welcome you to your Nashville retreat, where the comfort of home meets the excitement of the city!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Abe
+Host User ID: 579393806
+Host Profile URL: https://www.airbnb.com/users/show/579393806
+Host Profile URL Source: public user permalink from passport userId
+Avid traveler, with a passion to host. I am a Pizza lover (ask me for my favs), nutrition and fitness junky, and an aspiring interior designer. I've spent extensive time living in some of America's greatest cities including NYC, Chicago, Charlotte, Nashville, Phoenix, Myrtle Beach and Miami. I also lived in some amazing places abroad, incl. Brazil, S. Africa, Vietnam, Bali, CDMX, Lima & Colombia. I hope to have the pleasure of being your host.
+My work: Tech & Your Host :)
+Speaks English, Spanish, Hebrew, and Portuguese
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+150 reviews
+4.96 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,101 @@
+URL: https://www.airbnb.com/rooms/1497807373512767038
+Latitude: 36.1931
+Longitude: -86.8312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Western Harmony! This chic Southwestern-inspired 4-story Nashville retreat features 3 bedrooms and 3 full baths (1 King, 2 Queens, 1 Queen Bunk) + an attached 2-car garage. Unwind on the 3rd-floor private balcony, or head up to the 4th-floor rooftop deck to relax by the fire pit while taking in panoramic skyline views. Located just minutes from Broadway, Germantown dining, and top attractions. Includes exclusive guest VIP perks for luxury chauffeur services & boat rentals!
+
+The space
+Western Harmony is a chic, Southwestern-inspired 4-story Music City townhome designed for group comfort, effortless entertaining, and unforgettable Nashville getaways. Featuring dedicated sleeping areas across 3 bedrooms (including a Queen-over-Queen bunk room, 2 Queen beds, and a private King suite), this home balances open communal gathering spaces with comfortable private retreats.
+
+Enjoy morning coffee from the 3rd-floor private balcony, park effortlessly in the attached 2-car garage, or head up to the 4th-floor rooftop patio to relax around the fire pit with panoramic skyline views.
+
+The Space & Floor Plan Breakdown
+
+1st Floor:
+
+Bedroom 1: 1 Queen-over-Queen Bunk Bed with a private en-suite full bathroom.
+
+Garage: Attached 2-car garage providing secure parking and storage.
+
+2nd Floor (Main Gathering Hub):
+
+Living & Dining Area: Open-concept layout featuring comfortable seating and a smart TV setup.
+
+Gourmet Kitchen: Fully equipped with stainless steel appliances, cookware, and modern finishes.
+
+Bedroom 2: 2 Queen Beds with direct access to a Jack-and-Jill style full bathroom.
+
+3rd Floor (Primary Suite & Balcony):
+
+Bedroom 3 (Primary Suite): 1 King Bed with a private en-suite full bathroom.
+
+Private Balcony: Outdoor retreat accessible directly from the 3rd floor.
+
+4th Floor (Rooftop Deck):
+
+Private Rooftop Patio: Expansive rooftop outdoor lounge featuring a fire pit, outdoor seating, and skyline views.
+
+Key Highlights & Amenities
+
+Comfortable Group Sleeping: 4 real beds (1 King, 2 Queens, 1 Queen-over-Queen bunk) carefully laid out across 4 levels.
+
+4th-Floor Rooftop Oasis: Private rooftop deck with a fire pit lounge and skyline views.
+
+Attached 2-Car Garage: Rare off-street parking for up to 2 vehicles.
+
+Yale Smart Lock Integration: Keyless entry with a personalized code provided prior to arrival for simple 24/7 self check-in starting at 4 PM.
+
+Prime Location: Minutes from Broadway's honky-tonks, Germantown dining, Centennial Park, and local spots.
+
+The BetterBNB VIP Guest Experience
+
+As our guest at Western Harmony, you gain exclusive priority access and guest discounts through our local Nashville luxury network:
+
+Luxury Transportation: White-glove chauffeur services including Executive Mercedes Sedans, Cadillac Escalades, Mercedes Sprinter Vans, and Corporate Charter Buses (requires booking at least 2 weeks prior to check-in for airport pickups).
+
+The Southern Marinas Collection: Exclusive guest discounts on premium boat rentals (wakeboarding boats, tritoons, and luxury pontoons) at Four Corners Resort & Marina (Percy Priest Lake) and Cedar Creek Marina (Old Hickory Lake).
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+Here is the updated Other Things to Note text tailored for Western Harmony, ready to paste into your OwnerRez field:
+
+Age & Identification Requirement: The primary renter must be at least 21 years old and present during the stay. Government-issued photo ID and agreement to house rules are required prior to check-in.
+
+Quiet Hours & Community Guidelines: Western Harmony is located in a quiet residential neighborhood. Quiet hours are strictly enforced between 10:00 PM and 8:00 AM out of respect for our neighbors. Outdoor decibel monitors are active on the property to monitor noise levels (decibels only; no conversation is recorded).
+
+Rooftop & Fire Pit Safety: Use of the 4th-floor rooftop deck and fire pit is at your own risk. Glassware is strictly prohibited on the rooftop deck—please use plastic or non-breakable drinkware.
+
+Strict No Smoking / No Parties Policy: Smoking, vaping, or burning candles inside the home, on the balcony, or on the rooftop deck is strictly prohibited. Unapproved parties or gatherings will result in immediate reservation cancellation without refund.
+
+Pet Policy: Please check with us prior to booking regarding our current pet policy, fees, and approval requirements.
+
+VIP Access & Chauffeur Services: To take advantage of our partner network luxury airport transportation (Mercedes Sprinters, Escalades, etc.), requests must be coordinated at least 2 weeks prior to check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

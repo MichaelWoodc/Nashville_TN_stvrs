@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1075634007541098397
+Latitude: 36.3794
+Longitude: -86.4467
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You will love the welcoming space at Spencer!  This home has all you need in the kitchen to prepare a meal and an open concept to the living room area.  The bedrooms are spacious and cozy.  Come stay and enjoy this special home.
+
+The space
+Experience fall in Gallatin from this beautifully renovated 2-bedroom, 1-bath home designed for comfortable, easy living. The open-concept layout connects a fully equipped kitchen with an inviting living area, giving you plenty of space to relax after a day out. Cozy bedrooms, updated finishes, and thoughtful touches throughout make settling in easy. Spend your stay exploring Gallatin, enjoying the seasonal scenery around Old Hickory Lake, or take a trip into Nashville for dining, live music, and entertainment. A welcoming home base for weekend getaways, business travel, and extended fall stays.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Premier Management
+Host User ID: 230558108
+Host Profile URL: https://www.airbnb.com/users/show/230558108
+Host Profile URL Source: public user permalink from passport userId
+Hello and Thank You for visiting our profile for Premier Management Group. We are a full service real estate management company located just outside of Nashville, TN. We offer services for long term and short term rentals as well as leasing  and management services for commercial properties. In addition, all of our property managers are fully licensed real estate professionals helping buyers and sellers in our area. We are excited to work with you for your visit here. Whether it be a short stay, long term stay, or a permanent relocation; our property managers are eager to assist you.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+655 reviews
+4.91 out of 5 average rating
+7 years of hosting

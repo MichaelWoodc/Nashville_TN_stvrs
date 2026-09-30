@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1173135829783960299
+Latitude: 36.2134
+Longitude: -86.7134
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled on a quiet street in the serene neighborhood of Inglewood, this newly renovated basement suite provides a reprieve from the bustle of downtown Nashville. Conveniently located, we are just a 20-minute walk from several breakfast options, lunch spots, chic restaurants, and a beer garden. Ideal for the remote worker, the space is equipped with ultra-fast fiber internet as well as a comfortable workstation with an external monitor. Come experience the laid-back local life of East Nashville!
+
+The space
+The open floor plan apartment is located on the basement level of a nineteen thirties brick cottage.
+
+Living room with seating for 4 and 32” smart TV. Playing cards and games are also provided.
+
+Full bathroom with a shower boasting strong water pressure; plus provided linens, shampoo, conditioner, & body wash.
+
+Sleeping area with comfortable queen-sized bed, nightstands with reading lights and built-in USB charging, and white noise machine. Dresser and hanging rack with wood hangers provided for clothing storage, as well as an iron and ironing board.
+
+Dedicated Office Space with a spacious 2’x5’ desk equipped with an external monitor (HDMI) available for your use, as well as ultra-fast fiber internet on your own dedicated network – video calls are crisp and clear.
+
+Kitchenette with microwave, Keurig coffee station, and mini fridge with freezer. Disposable plates, cups, and utensils are also provided.
+
+Unit has a dedicated A/C and heating unit.
+
+Unit has a free dedicated off-street parking spot.
+
+Unit is professionally cleaned before each stay.
+
+If you need to get downtown, it’s just a short 15-minute drive.
+
+Excellent local food & drink options:
+Breakfast - Dose Coffee, Ladybird Taco
+Lunch - Mitchell Deli, Castrillo’s Pizza
+Dinner - Lou, Sabell’s, Bite a Bit
+Drinks - Village Pub & Beer Garden, Inglewood Lounge
+
+Guest access
+Private entrance accessed via an external concrete staircase, through a set of double wood doors, on the back right corner of the house.
+
+Other things to note
+This basement suite is below our family's private home so please be respectful of us and our neighbors. We will also do our best to honor quiet hours and keep noise transfer through the floor to a minimum at all times. Due to the nature of our home’s layout, it is inevitable that the sound of some activity and movement upstairs will be audible in the basement.
+
+Registration Details
+2024052222
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Timon
+Host User ID: 57798216
+Host Profile URL: https://www.airbnb.com/users/show/57798216
+Host Profile URL Source: public user permalink from passport userId
+I’m Timon, a father, architect, and music lover.
+Born in the 90s
+Where I went to school: UC Berkeley, Yale
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+79 reviews
+4.91 out of 5 average rating
+2 years of hosting

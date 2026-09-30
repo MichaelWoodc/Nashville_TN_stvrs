@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1420301145969713237
+Latitude: 36.24667664337962
+Longitude: -86.7362608796399
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious 3-story home with 4 en-suite bedrooms—3 with king beds, 1 with full-over-full bunks. Enjoy a chef’s kitchen, spacious living areas, and a 3rd-floor entertainment room with outdoor patio. Perfect for families or groups. Includes double garage parking.
+Ideal for upscale stays, retreats, or vacation getaways. We are 15 minutes from Broadway and the airport!
+
+The space
+Where you'll sleep:
+
+Bedroom #1: 1 king bed, with a private bathroom
+Bedroom #2: 2 full over full bunk, with a private bathroom
+Bedroom #3: 1 king bed, with a private bathroom
+Bedroom #4: 1 king bed, with a private bathroom
+
+We provide all essential linens and towels for your stay. :)
+
+Guest access
+The entire townhome is yours to enjoy!
+
+Other things to note
+IMPORTANT DETAILS and HOUSE RULES:
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/ or Events are not permitted at this property & may result in the removal of your group from the premises without a refund.
+
+House Rules
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move furniture around.
+No Confetti or Tape: Please do not use tape or adhesive of any kind on
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 682837708
+Host Profile URL: https://www.airbnb.com/users/show/682837708
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+39 reviews
+4.92 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1128541192282680638
+Latitude: 36.20889
+Longitude: -86.78393
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the heart of Music City, where comfort, style, and convenience await you!
+
+- centrally located
+- easy freeway access
+- 8 min drive to most neighborhoods including Broadway/Downtown, East Nashville, The Gulch, Germantown (5 min), and more!
+- 13 min to the airport
+- convenient driveway parking
+- WiFi and Roku TV
+- well stocked kitchen
+- easy keypad entry
+
+The space
+Welcome to the Avondale Eclectic! This central Nashville location will make it easy for you to get a lift to just about anywhere in less than 10 minutes. Experience all that Nashville has to offer while being able to retreat to a comfortable and colorful home in a quiet neighborhood. Enjoy all the amenities you need for cooking meals and having a night in, or simply relax in one of three cozy beds. Take a selfie in front of the custom mural wall, and enjoy some cocktails around the kitchen island. This home is filled with unique vintage finds as well as thrifted and DIY decor that you won't find in any hotel.
+
+Guest access
+You will have access to the entire main level of the home. I reside part time in the lower level apartment. Both entrances are entirely separate, and the units don't share any common spaces. The driveway is available for you to safely park two or three cars off street.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leah
+Host User ID: 47214719
+Host Profile URL: https://www.airbnb.com/users/show/47214719
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: McNally Smith College of Music
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+145 reviews
+4.99 out of 5 average rating
+9 years of hosting

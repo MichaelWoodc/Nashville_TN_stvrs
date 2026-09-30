@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/3686152
+Latitude: 36.12521
+Longitude: -86.78528
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 2100 square foot 3 bed/3 bath 1940's bungalow is the perfect respite in the best neighborhood in Nashville.  12 Avenue South is a walkers paradise lined with world class food, drink, and shopping.  The house features queen beds in all bedrooms, a foldout couch in the living room(can be closed off by doors), a futon upstairs, and queen air mattress! Relax on the front porch swing or have an al fresco meal on the back deck! Our private driveway easily fits 3 sedans. Free street parking also!
+
+The space
+The house is on a friendly, quiet street in a neighborhood of young families.  The back deck and fireplace are awesome additions.  I also love having an afternoon cocktail on the porch swing!   Kids welcome! We also stock Barista Parlor coffee beans for our guests to brew their coffee with!
+
+1st Floor: 
+
+Master bedroom w/ queen bed, en suite full bath with tub/shower combo
+
+Hallway full bathroom with tub/shower combo
+
+Living room 1
+
+Living room 2 with IKEA sleeper sofa and doors that close the room off
+
+Dining room 
+
+Kitchen
+
+Breakfast nook
+
+Laundry area 
+
+2nd floor:
+
+Bedroom 2 with queen bed
+
+Bedroom 3 with queen bed
+
+Hallway full bathroom with walk in shower 
+
+Office area with futon couch 
+
+**4th bed in the house is the beige foldout sofa that's in the living room and can be enclosed by doors. We also have an air mattress to accommodate 2 more guests!
+
+**Please note:  by agreeing to reserve you are stating that you will not hold us liable for injuries incurred in the house.**
+
+Other things to note
+*We highly recommend purchasing travel insurance as there are no exceptions made to our cancellation policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neal
+Host User ID: 15586733
+Host Profile URL: https://www.airbnb.com/users/show/15586733
+Host Profile URL Source: public user permalink from passport userId
+I've been a Superhost on Airbnb for 10 years and love sharing my favorite city with people from all over the world!
+Born in the 80s
+My work: Hospitality, Music
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5622 reviews
+4.93 out of 5 average rating
+12 years of hosting

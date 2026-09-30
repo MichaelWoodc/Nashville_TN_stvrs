@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1090686116086847192
+Latitude: 36.1482
+Longitude: -86.7932
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: 2
+occupancy: 4
+fields_status: missing: bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Motif On Music Row
+Host User ID: 561849177
+Host Profile URL: https://www.airbnb.com/users/show/561849177
+Host Profile URL Source: public user permalink from passport userId
+A Suite way to travel!
+Our suites give our guests enough room to call Nashville home for a few nights or an extended stay. Designed to fit your lifestyle, each suite has a full kitchen and plenty of space to relax, eat, sleep, get some work done or spend time with those who matter most — family, friends and even your dog.
+3 years hosting
+52 reviews
+4.83 out of 5 average rating
+3 years of hosting

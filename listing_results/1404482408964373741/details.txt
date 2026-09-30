@@ -1,0 +1,99 @@
+URL: https://www.airbnb.com/rooms/1404482408964373741
+Latitude: 35.9631
+Longitude: -86.4975
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Settle into your own space at Extended Stay America Premier Suites – Nashville – Smyrna. Just off I-24 and minutes from local shops, dining, and Nissan HQ, this stay is built for longer visits. Cook in your own full kitchen, stay connected with free Wi-Fi, and enjoy free parking, on-site laundry, and a fitness center. Whether you’re in town for work, relocating, or exploring Nashville, this suite-style stay gives you room to live—not just sleep.
+
+The space
+Traveling with a friend or need a little more sleep space? This Superior Suite gives you two comfy beds, a full kitchen, and the freedom to stay on your own schedule—whether you're here for work, play, or a longer-term stay just outside Nashville.
+
+✨ Top Reasons Guests Book This Stay
+✔️ Full kitchen means you can whip up your own meals, stash your takeout, or brew coffee in your pajamas—just like home
+✔️ Minutes from Nissan HQ, Sam Ridley shops, and Smyrna’s go-to local eats—like Jim ‘N Nick’s BBQ and La Tavola
+✔️ Free Wi-Fi and on-site laundry make long stays easy—whether you're working remote or settling in between moves
+✔️ Free parking right outside your door—no circling, meters, or side-street stress
+✔️ Hotel extras you won’t find in most Airbnbs: 24/7 front desk support, fitness center, and grab-and-go breakfast every morning
+
+✨ Your Private Suite
+This non-smoking Superior Suite feels more like a one-bedroom apartment. With a spacious layout, modern design, and room to cook, relax, and recharge, it’s ideal for guests who need more than just a bed.
+
+✨ Room Highlights
+✔️ 2 comfy Queen bed with soft linens + blackout drapes = real sleep, not just rest
+✔️ Full kitchen with everything you need: stovetop, full fridge, microwave, and sink—yes, you can actually cook here
+✔️ Flat-screen TV + fast Wi-Fi = binge, scroll, or work from bed if that’s your thing
+✔️ Table for meals, work, or spreading out all your local finds
+✔️ Private bathroom with full-size toiletries and fluffy towels (not the scratchy kind)
+✔️ Cold A/C, hairdryer, iron + ironing board—comforts you didn’t know you’d need
+✔️ 100% smoke-free so everything smells clean, fresh, and exactly how you want it
+
+✨ Perks You Won’t Find in Most Airbnbs
+✔️ Free grab-and-go breakfast every morning—fuel before you hit the road
+✔️ Fitness center open 24/7 so your routine doesn’t have to pause
+✔️ On-site laundry = pack light, stay longer
+✔️ Free on-site parking—no street signs to decipher
+✔️ 24-hour front desk = real help, anytime you need it
+
+✨ Local Favorites Just Minutes Away
+✔️ Sam Ridley Parkway – ~5-min drive to Target runs, sit-down meals, and coffee stops
+✔️ Nissan North America HQ – ~8-min drive for business travelers and plant tours
+✔️ Lee Victory Recreation Park – ~10-min drive for open green space and walking trails
+✔️ Downtown Smyrna – ~10-min drive to local cafés and community events
+✔️ Stones River Greenway – ~15-min drive for scenic biking and nature walks
+✔️ Downtown Nashville – ~25-min drive if you’re chasing live music and Broadway nights
+
+Guest access
+24/7 coverage service prepared to welcome you
+
+Other things to note
+▶ Check-In & Deposit
+✔ Check-in: 3:00 PM / Check-out: 11:00 AM
+✔ You must be 21 to rent this room. Only the person's name on the booking will be allowed to check in.
+✔ Valid photo ID and credit card required at check-in. Special requests are subject to availability; additional charges may apply.
+✔ A refundable incidental deposit may be collected at check-in.
+
+IMPORTANT NOTE: Guests who do not check in as scheduled will be considered a no‑show.
+
+▶ Parking
+✔ Complimentary on-site parking available for all guests.
+
+▶ Pets
+✔ Pets allowed
+— Non-refundable pet cleaning fee: $25 + tax per night for the first 6 nights per pet, $10 + tax per night after 6 nights per pet
+
+▶ Food & Drink
+✔ Complimentary daily breakfast
+— Available daily: 6:00 AM – 9:30 AM
+
+▶ Special Features
+✔ 24-hour fitness center
+✔ Guest laundry facilities
+✔ Complimentary high-speed Wi-Fi throughout the property
+✔ Smoke-free property
+✔ 24-hour front desk assistance
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Extended Stay America Premier Suites
+Host User ID: 689260790
+Host Profile URL: https://www.airbnb.com/users/show/689260790
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+175 reviews
+4.68 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1048693535159253080
+Latitude: 36.1967
+Longitude: -86.7392
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville, We are go glad you are here...so ENJOY!!!
+Cahal House is a spacious and comfortable Nashville retreat perfect for families, friends, work trips, and weekend getaways. Enjoy roomy living areas, a fully equipped kitchen, cozy bedrooms, and fun gathering spaces designed for relaxing after a day exploring Music City. With a convenient location near Nashville attractions, dining, shopping, and live music, this home is the perfect place to settle in, unwind, and enjoy your stay.
+
+The space
+This home is definitely bougie but, so cozy at the same time!  Welcome to Nashville!
+
+Welcome to Cahal House, a spacious Nashville getaway designed for comfort, connection, and a little fun. Whether you’re in town for a family trip, friends’ weekend, work stay, or a Music City escape, this home gives guests plenty of room to relax, gather, and enjoy their stay.
+
+Inside, you’ll find inviting living spaces, comfortable bedrooms, a fully equipped kitchen, and plenty of room for everyone to spread out. The home is set up for easy group travel with cozy seating areas, dining space for meals together, and thoughtful touches that make it feel like home.
+
+Guests will love the fun extras that make Cahal House stand out — perfect for hanging out after a day exploring Nashville or enjoying a laid-back night in. Whether you’re catching up in the living room, cooking dinner with your group, or relaxing outdoors, this home is made for making memories.
+
+Located close to Nashville attractions, dining, shopping, live music, and local favorites, Cahal House gives you a comfortable home base while still keeping you near everything Music City has to offer.
+
+Guest access
+You will have access to the entire house, hot tub, and 1 large patio. There is plenty of parking space for a few cars.
+
+Registration Details
+2023085760
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CousinsBNB
+Host User ID: 21736973
+Host Profile URL: https://www.airbnb.com/users/show/21736973
+Host Profile URL Source: public user permalink from passport userId
+We are a family that love to travel, and we love to host groups at our fantastic Nashville-themed homes as well as our Gulf Shores homes.  We also have homes in Laurel, MS and a cabin in Zionville, NC.  We dedicate a lot of time to making sure our properties provide everything you would expect when vacationing there.  And our reviews show that!
+Where I went to school: University of North Texas
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+3191 reviews
+4.85 out of 5 average rating
+12 years of hosting

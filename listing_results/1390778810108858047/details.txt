@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1390778810108858047
+Latitude: 36.08370597429153
+Longitude: -86.70988171982165
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully furnished 2BR/1BA home w flex space ft:
+*safe neighborhood
+*fenced private backyard, deck
+*outdoor cold plunge, sauna
+*seasonal outdoor shower
+*bathroom ft rainfall walk-in shower, heated floors
+*flex room w desk, printer
+*washer/dryer
+*full kitchen w disposal, dishwasher, gas stove, KitchenAid mixer+more!
+*utilities included
+
+*1960's home w original hardwoods throughout; features updates to the living room, kitchen, bathroom, roof, exterior, backyard, as well as updated windows throughout
+
+The space
+2 queen bedrooms
+1 flex space
+1 bath w walk-in rainfall shower 
+Fenced backyard 
+Dry sauna
+Cold plunge
+Hammock
+Private driveway
+
+Guest access
+Entire house is available and open to use
+Home owner will be in touch regarding check-in details
+
+Other things to note
+*Bedrooms are 10'X10' with standard closet space measuring approximately 2' deep by 5' long with (1) shelf for storage and (1) rod for hanging clothes. Closets have unfinished hardwood floors and feature curtains or sheers at the closet threshold.
+
+*Living plants are a part of the appeal and charm of the space and do require regular weekly-ish attention. The option for tenant care versus property management care will be offered upon booking.
+
+*The cold plunge does require monthly-ish attention. The option for tenant care versus property management care will be offered upon booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heather
+Host User ID: 15092193
+Host Profile URL: https://www.airbnb.com/users/show/15092193
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Lives in Los Angeles, California
+Response rate: 100%
+Responds within an hour
+1 year hosting
+2 reviews
+4.5 out of 5 average rating
+1 year of hosting

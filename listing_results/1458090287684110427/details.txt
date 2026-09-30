@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1458090287684110427
+Latitude: 36.16248
+Longitude: -86.85364
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville retreat in The Nations, one of the city’s most walkable neighborhoods. Perfect for couples visiting Music City, this historic, industrial home offers the ideal mix of character, comfort, and easy access to some of Nashville’s best local spots.
+
+The Nations is known for its restaurants, craft breweries, and local coffee shops—all just a short walk away. Guests especially love the large private backyard, a rare find in the city and perfect for Nashville’s warm evenings.
+
+The space
+This original Nations home was built in 1910 and still has plenty of historical character. The space is open and industrial, anchored by an original double sided brick fire place. 
+
+The front bedroom is bright and airy with a comfortable workspace. The back bedroom is warm and cozy with an en suite bathroom. Both bedrooms feature comfortable beds and soft linens for a great night’s sleep. 
+
+You’ll also be just a short drive from downtown Nashville, Broadway, live music venues, and many of the city’s most popular attractions.
+
+Whether you’re visiting for concerts, great food, or a relaxing weekend getaway, our home is the perfect place to experience Nashville like a local—with all the best spots of The Nations just steps away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Taylor
+Host User ID: 72148896
+Host Profile URL: https://www.airbnb.com/users/show/72148896
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+1 year hosting
+20 reviews
+4.95 out of 5 average rating
+1 year of hosting

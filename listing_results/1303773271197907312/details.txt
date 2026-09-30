@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1303773271197907312
+Latitude: 36.18956441187526
+Longitude: -86.76958421607044
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Whether you’re a short trip from the party scene, the Opry, museums, the delicious food and drinks devoured at the many restaurants or visiting the universities and/or family, this second story apartment sits on the east side of Nashville. East Nashville has restaurants, bars and live music which caters to the local population. In essence you’ll be well entertained, well fed and may learn about how the Southern Charm became a staple of the locals while resting in this peaceful space.
+
+The space
+This is a 2 bedroom, 1 bathroom apartment.  The two bedrooms have queen size beds that sleep 2 in each. There is also an inflatable queen size mattress available that sleeps 2 people.
+
+The apartment has a fully equipped kitchen and a coffee bar that includes Colombian freshly grounded beans.  
+
+Towels, soap, shampoo and hair conditioner are provided.  Just bring your toothbrush, toothpaste and clothing.
+
+Guest access
+Directions, maps and an access code will be provided.
+
+Other things to note
+Peace and tranquility while the hustle and bustle is a short drive/ride share service away. 
+
+It is highly recommended to take a ride share service to Broadway as the traffic is usually very heavy and parking is more expensive than the cost of the ride.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 43345709
+Host Profile URL: https://www.airbnb.com/users/show/43345709
+Host Profile URL Source: public user permalink from passport userId
+We like to hike, work hard and therefore lots of rest is required. We’re personable and friendly and enjoy spontaneity.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+278 reviews
+4.9 out of 5 average rating
+2 years of hosting

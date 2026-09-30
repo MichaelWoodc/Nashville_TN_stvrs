@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/38852575
+Latitude: 36.12475
+Longitude: -86.78293
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Superb 12th Ave South house, 2.5 miles to Bridgestone Arena, walkable to the restaurants/ bars on 12th and 8th Ave South,  3 Baths, spacious deck with fenced in yard and carport, electronic gate for safe parking and private driveway, open floor plan.
+
+The space
+Entire home in desirable 12th South! Walking distance to many bars and restaurants, short Lyft/Uber ride to downtown, gated driveway and fence.
+
+Guest access
+Guests will be able to access the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 106542464
+Host Profile URL: https://www.airbnb.com/users/show/106542464
+Host Profile URL Source: public user permalink from passport userId
+I am a pharmacist, enjoy table tennis, exploring new cities and cultures
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+97 reviews
+4.84 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1324817840890143118
+Latitude: 36.15368564746457
+Longitude: -86.80407915714801
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Stolisma Studio – Close to Broadway and even closer to where Morgan Wallen threw that chair...
+
+The space
+Welcome to The Music City! The peaceful Stolisma Studio is located in trendy Midtown Nashville, on the border of Downtown, Broadway, Music Row, The Parthenon, and Hillsboro Village. Our neighborhood features many chef-driven restaurants and bustling bars. It’s just moments from Vanderbilt Medical Center, Childrens Hospital, the VA Hospital, and Centennial Medical Complex. Its walkability and closeness to both downtown and other unique neighborhoods make it an exceptionally convenient area to stay in Nashville. 
+
+Amenities include:
+· 1 King Bed
+· 1 Air Mattress - Sleeps 2
+· 1 Sofa - Sleeps 1
+· Hassle-free, keyless check-in and 24-hour building access
+· 1 FREE secured parking spot in garage
+· Smart TV
+· High-speed internet
+· SALTWATER Pool, outdoor patio with fire table & grill
+· Entertainment lounge with pool table, co-working space and kitchen
+· In-unit washer & dryer
+· Iconic, highly walkable location in Midtown - near restaurants, shopping, bars & live music
+· Fully equipped kitchen with appliances, glasses & dishware for all your cooking needs
+· Electric coffee maker
+· Acoustic coffee maker
+· 5 minute Uber ride to Broadway
+· Hair dryer, shampoo, conditioner, & body wash provided
+· Linens and towels provided
+· Spacious closet with hangers for storing your belonging
+· Vacuum and extra cleaning supplies provided
+
+My wife and I live in the neighborhood and are always happy to give suggestions for restaurants and fun things to do in town upon request! We love this city and hope you enjoy your stay at our property! :)
+
+We do not host locals and will require all of our guests to send a photo of their ID upon booking for insurance reasons. Please keep this in mind when booking. We are legally unable to host anyone under the age of 21.
+
+Registration Details
+2025023568
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joe
+Host User ID: 670092562
+Host Profile URL: https://www.airbnb.com/users/show/670092562
+Host Profile URL Source: public user permalink from passport userId
+I moved to Nashville wanting to be a rockstar and now I'm just focused on being a good husband and father!
+Born in the 90s
+Where I went to school: Galloup School of Guitar Building
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+495 reviews
+4.96 out of 5 average rating
+2 years of hosting

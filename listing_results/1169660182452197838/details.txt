@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1169660182452197838
+Latitude: 36.06851
+Longitude: -86.70107
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy, quiet guest suite boasting stone walls and two queen sized beds. The home is about 15 minutes to any destination in Music City. The space is private & has a keyless entry through the door at the lower level of the home. You'll have access to the back yard with a fire pit and a creek. The bathroom, kitchen, and coffee bar are stocked with the necessities.
+
+The space
+There are two bedrooms with comfortable queen-sized beds, a cozy living room, kitchen, bathroom, and dining area. 
+
+The coffee bar is stocked with keurig pods, sugars & creamers, and various snacks. We've also got a coffee grinder and coffee machine if you prefer to brew something more fresh. Board games, a TV, and a creek are available for you to enjoy. 
+
+The driveway is a down-hill slope worth considering if you have any mobility restrictions. 
+
+The home is beneath the BNA flight path. We don't find the flyovers disruptive while inside the home, but they can be loud when a plane flies over while you're outside.
+
+(The creek may be dry during summer months.)
+
+Guest access
+You'll receive your own private entry code. You'll have the entire basement guest suite to yourself, with two bedrooms, a full kitchen, bathroom, and living room. The back yard with a creek and fire pit are yours to enjoy as well (minus the shed). We live upstairs but the spaces are completely separate.
+
+Drive times to local hot spots (may vary during peak hours): 
+
+📍 10 minutes to Nashville Zoo
+📍 15 minutes to BNA Airport
+📍 15 min to Gulch
+📍 15 min to Broadway
+📍 15 min to Nissan Stadium
+📍 15 min to Bridgestone Arena
+📍 15 min to Ryman Auditorium
+📍 20 min to The Grand Ole Opry
+📍 20 min to Franklin
+
+Other things to note
+This is our home so please follow house rules and be respectful. Thank you for your interest!
+
+Registration Details
+2024035299
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin And Jess
+Host User ID: 163602603
+Host Profile URL: https://www.airbnb.com/users/show/163602603
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+69 reviews
+5.0 out of 5 average rating
+2 years of hosting

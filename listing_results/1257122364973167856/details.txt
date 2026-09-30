@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/1257122364973167856
+Latitude: 36.146
+Longitude: -86.8152
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ West End location — minutes to Downtown, Vanderbilt, and Broadway
+✔️ Modern condo with city views
+✔️ 1 bedroom, 1 bathroom — sleeps up to 4
+✔️ King suite with smart TV and workspace
+✔️ Full kitchen and in-home laundry
+✔️ Garage parking for 1 vehicle and elevator access
+
+The space
+• Modern condominium designed for comfortable Nashville getaways
+• Bright living room with a full-size foldaway bed and laptop-friendly workspace
+• Full kitchen for easy meals at home
+• King bedroom with smart TV and city views
+• Perfect for couples, business travelers, solo travelers, and small groups
+
+🌅 Indoor & Outdoor Living
+• Open living area with comfortable seating
+• City views
+• Laptop-friendly workspace with high-speed WiFi
+• Elevator access throughout the building
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 4)
+• This home includes 1 bedroom and 1 bathroom.
+• Bedroom 1 — King bed; smart TV
+• Living Room — Full-size foldaway bed (sleeps 2)
+• Bath — Single vanity with stone countertop; shower/tub combo
+
+🍳 Kitchen & Dining
+• Full kitchen with basic cookware and serveware
+• Full-size appliances
+• Cookware, dishes, utensils, and glassware provided
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• Private washer and dryer
+• High-speed WiFi
+• Laptop-friendly workspace
+• Smart TV in the bedroom
+• We provide bedding, towels, and a small starter set of essentials
+
+📍 Location Highlights
+• West End — close to restaurants, cafés, and nightlife
+• Minutes to Downtown Nashville and Broadway
+• Near Vanderbilt University
+• Easy access to music venues, museums, and popular attractions
+
+🚗 Parking, Safety & Notes
+• Parking: Garage parking is available on a first-come, first-served basis for 1 vehicle per unit. Additional street parking is available as needed on a first-come basis. No additional on-site parking beyond what’s described.
+• Elevator: Available in the building; maintenance and outages are managed by the HOA. In case of emergency, please use the stairs.
+• This home is not pet friendly. If there is found evidence of an animal's presence during your stay or post check-out, guests will be charged an additional cleaning fee.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+Permit #: 2022052384
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+4065 reviews
+4.63 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1000824278792934142
+Latitude: 36.15282
+Longitude: -86.63826
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy Nashville retreat! Nestled next to 7 wooded acres, minutes from the airport and downtown, our home offers a perfect blend of nature and convenience. Enjoy the hot tub, fire pit, and comfortable furnishings for a relaxing stay. Ideal for exploring Nashville or a peaceful getaway!
+
+Registration Details
+2023081409
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 57540189
+Host Profile URL: https://www.airbnb.com/users/show/57540189
+Host Profile URL Source: public user permalink from passport userId
+Hey, we are Tim & Jenny, hospitality enthusiasts with a top-rated  Turo rental car business. Our secret? Genuine care. From local tips to smooth rentals, we go above and beyond. Join us for a family-like experience where hospitality isn't just a job—it's a lifestyle.
+Born in the 80s
+Where I went to school: AMDA
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+258 reviews
+4.98 out of 5 average rating
+3 years of hosting

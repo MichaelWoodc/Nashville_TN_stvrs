@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1356024817695759359
+Latitude: 35.9899
+Longitude: -86.56397
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the simplicity and tranquility of our visitor house, self-contained guesthouse with its own entrance. It offers privacy and space, two comfortable bedrooms, one bathroom, a fully equipped kitchen, a laundry area, and a cozy porch to enjoy a morning. Parking is provided in a gravel area, and access to the visitor's house is completely independent and private. Ideal for business travelers or couples looking for a weekend getaway in the city. 20 minutes from downtown.
+
+The space
+It's important to note that this is NOT the main house. It's an annex we call the Visitor House. It's independent, and other vehicles and guests may be on the property during your stay. However, we're sure you'll enjoy the privacy and space our visitor house offers.
+
+Parking for a maximum of two vehicles.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nersy
+Host User ID: 86209213
+Host Profile URL: https://www.airbnb.com/users/show/86209213
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+223 reviews
+4.74 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/10194770
+Latitude: 36.17209
+Longitude: -86.72274
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+East Nash!Private keypad entrance to your cozy suite in a quiet, lovely neighborhood one block from Shelby Park and miles of greenway, 5-10 min to downtown and the best East Nashville restaurants and music venues. QUEEN bed, private bath, washer/dryer, and patio.
+
+The space
+Perfect for a couple, two friends or the solo traveler, this sunny and light, comfortable space includes one QUEEN size bed, your own bathroom, laundry, mini fridge, coffee and tea maker, microwave, and flat screen television. You will have your own parking space, key-less entrance, and a lovely flagstone patio for coffee or afternoon wine to enjoy your East Nashville home away from home.  Only five minutes from Broadway and downtown, you will also be in the heart of the creative spirit of East Nashville and coffee shops like Portland Brew (my favorite), farm to table restaurants like Lockeland Table and the best music venues including the 5 Spot, Basement East, and all the bars, cafes, restaurants and vibe of Five Points.  I keep my house and your suite very clean and do my best to make sure you are comfortable and have everything you need to relax and enjoy your stay in Nashville.
+There is not a thermostat in the suite, but temperature can be adjusted, just let me know!
+
+Guest access
+You will have your own parking space, private entrance and patio, en suite bathroom and laundry.  Coffee and tea will be available and you just need let me know if you're missing anything! Your "wing" of the house is separate from the main house, but feel free to enjoy your patio and visit with me if you'd like to learn more about the city.
+
+Other things to note
+I do have a sweet Kitty, a playful and very friendly Lab mix named Charlie, and cockapoo named Rosie, but they will not have access to your space.  Of course you are welcome to say hi to them and they would love that, but if pets are not your thing, you never have to see those three  rascals!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lori
+Host User ID: 83996
+Host Profile URL: https://www.airbnb.com/users/show/83996
+Host Profile URL Source: public user permalink from passport userId
+I love traveling, cooking, the outdoors and the arts.  I speak Spanish, French, Italian and English.  I enjoy living in Nashville especially because of its natural surroundings and the wonderful creative energy of its people.  Small music venues in town like the High Watt, the 5 Spot, Mercy Lounge, and the Basement East are some of my favorites.
+I'm sort of a globetrotter and have lived in Europe, the Caribbean, and South America, and I'd really like to visit Australia, New Zealand, and venture to Africa and Asia.
+Speaks English, French, Italian, and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+14 years hosting
+657 reviews
+4.87 out of 5 average rating
+14 years of hosting

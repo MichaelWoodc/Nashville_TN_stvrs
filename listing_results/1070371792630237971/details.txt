@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1070371792630237971
+Latitude: 36.1242
+Longitude: -86.7988
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Home away from home! This Bungalow is nestled in one of the most desirable neighborhoods in Nashville! It's close and easily accessible to the downtown area and is close to many delicious restaurants, shopping and music venues. Also, we are located right in the middle of three great Universities; Vanderbilt, Belmont and Lipscomb. Come stay at the Bungalow and experience ALL that Music City has to offer!
+
+The space
+This cozy Bungalow has a two bedrooms, one full bath, kitchen, living room and dining area. It's three miles from downtown Nashville, close enough to walk to the 12th South area,  yet tucked away on a dead end street in a desirable, beautiful neighborhood! Enjoy sitting outside, on your private patio, with a cup of coffee, a glass of wine or simply enjoy the flowers, grill out or warm up by the chiminea!
+
+Other things to note
+WiFi information is written and hanging on the wall in the green bedroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Beth
+Host User ID: 207602554
+Host Profile URL: https://www.airbnb.com/users/show/207602554
+Host Profile URL Source: public user permalink from passport userId
+I, Beth Boles your Host,  a native of Chapel Hill, NC, moved here 24years ago to teach dance. I met my husband Brian, a native of Nashville, and we were married in 2003. Our precious daughter also resides here in Nashville. You might witness our chicken, Koko, resting on her stump. We LOVE working in our gardens and always have a project in the works! Hosting since 2015!
+My work: Dance instructor
+Most useless skill: I can STILL do a cartwheel!
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+27 reviews
+5.0 out of 5 average rating
+3 years of hosting

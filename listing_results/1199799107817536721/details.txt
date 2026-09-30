@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1199799107817536721
+Latitude: 36.3628
+Longitude: -86.4739
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful lake home with sweeping views of Old Hickory Lake -35 min from Downtown Nashville and BNA. The expansive open floor plan and outdoor decks are perfect for family gatherings. Fully equipped kitchen features double ovens and oversized island. The spacious master bedroom ensuite boasts a large walk-in shower & soaking tub. Guest bedrooms have their own private vanity areas, walk-in closets and share a Jack-n-Jill bathroom. The office and basement can be used as additional sleeping areas.
+
+The space
+LIFE IS BETTER AT THE LAKE - Our 4100 sq ft home sits on 2 acres of lakefront property and was fully remodeled in 2022. Enjoy stunning sunrise and sunset views around the fire pit on the 600 sq ft upper deck.
+
+Other things to note
+Downtown Nashville Broadway- 30 min
+Nashville Airport (BNA) - 35 min
+Public Boat Ramp - 2 min
+Gallatin Marina - 6 min
+Awedaddy’s Bar & Grill - 6 min
+Lock 4 Public Mountain Bike Trails - 10 min
+Tennessee Titan’s Stadium - 30 min
+Nashville Predator’s Arena - 35 min
+Grocery Store - 5 min
+Movie Theater - 5 min
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 417389111
+Host Profile URL: https://www.airbnb.com/users/show/417389111
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a day
+Superhost
+2 years hosting
+13 reviews
+5.0 out of 5 average rating
+2 years of hosting

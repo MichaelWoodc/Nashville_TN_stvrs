@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1020986514694827074
+Latitude: 36.30713
+Longitude: -86.81118
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful place to stay on 15 acres of secluded, wooded land. No neighbors in sight and you'll have the whole mountaintop to yourself to enjoy a Gatlinburg-style get-away only 15 minutes from Downtown Nashville, TN. You’ll experience natural Tennessee wildlife, such as, deer, turkey, red-tail hawks, American Eagles, owls, and much more!!!
+
+The space
+The home is very spacious with room for all 8 guests. Enjoy the wrap-around porch with natural views as well as an outdoor firepit in a quiet setting in the woods.
+
+Guest access
+Restricted areas are the locked basement and carpeted stairwell and the garage area which is also locked. The driveway is 1/2 mile long with a 300 vertical feet elevation climb with a mix of gravel and dirt. Low-profile or low-clearance vehicles are not recommended. AWD or 4WD vehicles are preferred. You can use Google earth to preview the driveway access to the home. The road is one-way and only wide enough for one vehicle. There are some areas of the road that are up-to 10% grade and can intimidate some guests. Please travel at your own risk and message me to inquire about additional information.
+
+Other things to note
+Air BNB has granted this property a "SERVICE ANIMAL & EMOTIONAL SUPPORT ANIMAL EXEMPTION", because of my children's allergies to pet dander. This means this property DOES NOT allow any type of animal on the premises.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ben
+Host User ID: 493970885
+Host Profile URL: https://www.airbnb.com/users/show/493970885
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+3 years hosting
+47 reviews
+4.85 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/20848750
+Latitude: 36.1225
+Longitude: -86.7845
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This well-styled studio is nestled in the heart of the 12 South Neighborhood; a popular foodie/shopping district surrounded by a peaceful residential area, with easy access to all that Nashville has to offer.  Whether on vacation or business travel, our guests have everything they need including excellent Wi-Fi, outdoor sitting space and free designated parking. Some of Nashville's favorite local spots are just a few-block walk including Five Daughters' Donuts, Buck Mason & Imogene & Willie.
+
+The space
+This well appointed space is located above our detached garage.  Your private entrance leads you into a foyer with a full washer and dryer.  Climb one flight of stairs and you will find a comfortable and thoughtfully curated studio apartment with everything you need to make your time in Nashville both relaxing and enjoyable.
+
+Although a studio layout, the space is thoughtfully designed to include a dedicated workspace, spacious sleeping and living area and a separate kitchenette with dining area.  The ensuite bathroom is large and is a traditional bathroom with a door that can be closed off from the rest of the space for privacy.
+
+Guest access
+You will have private access to the entire studio space, including designated parking space, and the washer and dryer in the entrance foyer.  
+
+Guests will also have shared access to the gas grill located around the corner in the yard that is shared with our personal home.  An outdoor shower is available May - September.  These spaces are only available to you (the guests) and the property owner who is also your co-host.
+
+Other things to note
+We park our car in the garage below the carriage house and guests do not have access to that space.  The door between the AirBnB and garage is secured with a double-sided deadbolt as well as a privacy chain guests can choose to use for an added layer of security. We do try to be mindful of guests when parking, and raise and lower the garage door as infrequently as possible.  
+
+We do provide a designated guest parking space directly outside your private entrance gate.  Please park at an angle between the yellow lines and take care not to block the garage doors. 
+
+Guests must be able to climb one set of interior stairs to access the space located on the second floor.  There is a landing halfway up and handrails for safety.
+
+Smoking and vaping of any kind are not allowed in the space.  Violation of this rule will result in a $500 smoking fine.  We appreciate your understanding.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bethany
+Host User ID: 39298826
+Host Profile URL: https://www.airbnb.com/users/show/39298826
+Host Profile URL Source: public user permalink from passport userId
+I moved to Nashville in 2006 for music and fell in love not only with the city, but with my husband Keith as well!  My idea of a perfect afternoon usually involves a book, good music and a cup of coffee.  I’ve distilled some of my favorite touches from my own travel experiences to create a hosting style that seeks to make guests feel comfortable and cared for, and was honored to be named Tennessee’s Most Hospitable Host by AirBnB in 2021.
+My work: Violinist & Tour Manager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1303 reviews
+5.0 out of 5 average rating
+10 years of hosting

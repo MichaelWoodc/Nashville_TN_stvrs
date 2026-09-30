@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1394537354294569362
+Latitude: 36.3494
+Longitude: -86.5234
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Rustic Cabin at Pilot Knob is loaded with historic charm! This one bedroom cabin sleeps up to 6 guests and is one of three properties on a quiet, private estate.
+
+The space
+On the main floor, you and your guests can gather in the living room for great conversation or game night, play music on the record player, and there's plenty of room for everyone to enjoy a meal around the table and kitchen bar.
+
+The Cabin sits on the front of the property and features a large covered front porch with a swing and lots of seating to enjoy the wildlife as they come through.
+
+At Pilot Knob Estate, we are proud to offer communal lake access for all the cabins. This means that every guest staying at our estate has the wonderful opportunity to enjoy and make unforgettable memories by the lake. Whether you're looking to swim, fish, or simply relax by the water, our communal lake access ensures that everyone can indulge in the natural beauty and serenity of the lake during their stay.
+
+At Pilot Knob Estate, you'll find simplicity and sanctuary while being just minutes from Kroger Marketplace for all of your grocery needs, as well as Vietnam Veterans Blvd. for convenient access to nearby restaurants, stores, and activities. Downtown Nashville is only a 30 mile drive 
+
+1 large bedroom/1bathroom 
+
+Bedroom 1 – 1 king bed, 1 full bed, 2 futon chairs 
+
+Living room- pullout couch 
+
+Bathroom- soaker tub, and standup shower featuring double shower heads.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diana And William
+Host User ID: 352911753
+Host Profile URL: https://www.airbnb.com/users/show/352911753
+Host Profile URL Source: public user permalink from passport userId
+Diana & William Roberts are co-host. Their main role as co-hosts is to ensure that guests have an enjoyable and comfortable stay during their vacation. Despite being work adventurers who travel full-time in a RV, they are committed to providing excellent hospitality and nothing but 5-star service to their guests. They are enthusiastic about their job and work hard to ensure guests have an unforgettable experience.
+Born in the 80s
+My work: Work adventurers
+3 years hosting

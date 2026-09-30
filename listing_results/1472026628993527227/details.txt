@@ -1,0 +1,106 @@
+URL: https://www.airbnb.com/rooms/1472026628993527227
+Latitude: 36.1497
+Longitude: -86.7941
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover your perfect Nashville getaway with this cozy 1-bedroom, 1-bath apartment, ideally located in the vibrant heart of Music Row. Whether you're here to explore iconic attractions like Centennial Park, the Ryman Auditorium, or Nissan Stadium, or dive into Nashville’s renowned nightlife and live music scene just a mile away on Broadway, this centrally located apartment from Music City Property Management is the ultimate base for your trip.
+
+The space
+Pet Friendly | Walk to Music Row Shops & Eats | 13 Mi to Music City Circle & Grand Ole Opry
+
+Make your Nashville getaway unforgettable with this charming 1-bedroom, 1-bath apartment, perfectly situated in the lively heart of Music Row. Whether you're here to visit iconic attractions like Centennial Park, the Ryman Auditorium, or Nissan Stadium, or to enjoy Nashville's legendary nightlife and live music venues just a mile away on Broadway, this centrally located apartment from Music City Property Management is your ideal base.
+
+🛏 Sleeping Arrangements
+
+Bedroom: 1 Queen Bed
+
+Living Room: 1 Full Sleeper Sofa
+
+🍳 Kitchen Features
+
+Full-size refrigerator, stove/oven, dishwasher
+
+Keurig coffee maker, toaster, microwave
+
+Cooking basics, dishware, paper towels & trash bags
+
+🎉 Property Highlights
+
+2 Smart TVs for your streaming needs
+
+Open-concept layout with modern, stylish decor
+
+Free WiFi, keyless entry, central A/C & heating
+
+🧼 Essentials Included
+
+Fresh linens & towels
+
+Complimentary toiletries
+
+Starter supplies for the bathroom & kitchen
+
+🐾 Pet Friendly
+
+Pets are welcome with an $89 fee (plus taxes & fees) paid before arrival
+
+🚗 Parking
+
+Free parking for up to 2 vehicles in a community lot
+
+Additional free street parking available
+
+📍 Location Perks
+
+Walk to Music Row’s best restaurants, cafes, and shops
+
+Only 1 mile to Broadway’s honky-tonks & vibrant nightlife
+
+13 miles to the Music City Circle & Grand Ole Opry
+
+📌 Accessibility
+
+Exterior stairs required to access this single-story unit
+
+📅 House Rules
+
+Check-in: 4 PM | Check-out: 11 AM
+
+No smoking (Smoking fees: $450)
+
+No parties or events
+
+Must be 25+ to book
+
+Government-issued photo ID may be required at check-in
+
+🔁 Traveling with a group?
+
+An additional rental is available on-site. Contact us for details on booking both units together!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamal
+Host User ID: 409158331
+Host Profile URL: https://www.airbnb.com/users/show/409158331
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+71 reviews
+4.68 out of 5 average rating
+1 year of hosting

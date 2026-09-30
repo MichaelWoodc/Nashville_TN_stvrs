@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1123199024717432564
+Latitude: 36.11701
+Longitude: -86.99446
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pegram, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Brand new offering....Freshly  remodeled, Single story, French inspired cottage with luxury appointments throughout.  Privacy and wooded views only 20 minutes from downtown Nashville, 12 minutes to multiple shopping and dining options . Close to multiple parks, and outdoor recreational destinations known as "Nashville's back yard".  Ample parking, comfortable beds, fully equipped kitchen, view deck on rear with BBQ and dining table overlooking back woods and wildlife.
+
+The space
+Cottage is in the country but with houses within site. Road up to "Sullivan's Ridge" is a winding two lane, well maintained road that climbs in elevation for about 5 miles off of the interstate. A large circular drive way with added parking allows for easy access in and out of the property. Though pup friendly, the yard is not fenced.
+
+Guest access
+Guests have full access!
+
+Other things to note
+1 dog allowed but sorry, no cats
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Monty And Christa
+Host User ID: 14610817
+Host Profile URL: https://www.airbnb.com/users/show/14610817
+Host Profile URL Source: public user permalink from passport userId
+My husband, Monty, and I have opened our home for family and friends for years.  We are fun loving, well traveled, kind, hospitable, accommodating and ready to share our unique homes with grateful folks.
+Born in the 50s
+Where I went to school: Cal State and Taylor University
+Response rate: 100%
+Responds within a few hours
+12 years hosting
+317 reviews
+4.9 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,93 @@
+URL: https://www.airbnb.com/rooms/1521174508998088140
+Latitude: 36.1598
+Longitude: -86.8405
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the best of Nashville from this stylish retreat in The Nations - one of the city's most exciting neighborhoods, known for its local restaurants, craft breweries & artisan coffee shops. Stay here whether you're visiting for a getaway, concert, sporting event, business trip, or to experience live music and fun on Broadway. This thoughtfully designed 2-bedroom, 2-bath condo puts you close to everything while offering a perfect place to relax. We look forward to hosting you in Music City!
+
+The space
+Living Room:
+
+The inviting living area is designed for gathering and relaxing after exploring Nashville.
+•	Plenty of comfortable seating
+•	Smart TV for streaming your favorite shows
+•	Bright, modern décor
+•	Open layout perfect for spending time together
+
+Kitchen & Dining:
+
+Whether you're making a quick breakfast or preparing a home-cooked dinner, the fully equipped kitchen has you covered.
+•	Stainless steel appliances
+•	Refrigerator, oven, stovetop, microwave, toaster, and dishwasher
+•	Keurig coffee maker with complimentary coffee pods provided
+•	10-12 cup coffee maker (bring your own favorite coffee grounds)
+•	Cookware and cooking essentials
+•	Plates, glassware and utensils
+•	Breakfast bar and dining area seating
+
+Bedrooms:
+
+Both bedrooms include:
+•	A King-sized bed with luxurious, white linens
+•	Black-out curtains for restful sleep
+•	Closet and dresser storage
+
+The Primary Bedroom also includes a private en-suite bathroom and Smart TV while the Guest Bedroom has easy access to the second full bathroom.
+
+Bathrooms:
+
+Two full bathrooms make getting ready in the mornings easy!
+•	One bathtub and one walk-in shower
+•	Fresh towels provided
+•	Complimentary starter toiletries
+
+Parking:
+
+Guests have access to the complementary parking lot with first-come, first-served spaces. Additional free street parking is also available nearby.
+
+Extra Perks:
+
+•	Secure building and unit-controlled access
+•	Elevator access for easy arrivals
+•	Shared rooftop patio on the 4th floor
+•	High-speed Wi-Fi
+•	In-unit full-size washer & dryer
+•	Air conditioning and ceiling fans
+
+Perfect for couples, families, friends, and business travelers alike, this stylish condo offers the ideal combination of neighborhood charm, modern amenities, and easy access to everything Music City has to offer.
+
+Book your stay and experience Nashville like a local—comfortable, connected, and just minutes from the heart of the city.
+
+Guest access
+Entire Condo on the 2nd floor - Located in a secure building with a shared rooftop patio that is on the top 4th floor.
+
+There is both an elevator and a stairwell to access the condo.
+
+Registration Details
+Short-Term Rental Permit: 2026011871
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leslie
+Host User ID: 49217801
+Host Profile URL: https://www.airbnb.com/users/show/49217801
+Host Profile URL Source: public user permalink from passport userId
+As your host, our goal is to make your stay comfortable, relaxing, and memorable from check-in to check-out.  We are delighted to have you as our guest and If you need anything during your stay, we're just a message away and happy to help.
+Response rate: 100%
+Responds within an hour
+New Host
+3 reviews
+5.0 out of 5 average rating

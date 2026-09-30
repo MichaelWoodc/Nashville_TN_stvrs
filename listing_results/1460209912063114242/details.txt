@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1460209912063114242
+Latitude: 36.178778368912226
+Longitude: -86.75297974041668
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In the heart of East Nashville, Grandma's House is the great escape. This historic 1930's bungalow home has been in the family since 1964. At almost 100 years old, this home has lots of charm & its imperfections. 
+But that's the beauty of historic homes.. . 
+
+Just 2 miles from downtown Nashville,  you can Uber anywhere in minutes. And, it's walking distance to the best eateries, bars and local entertainment.  
+
+Come visit Grandma's House! 😁
+
+The space
+3-Bedroom & 1 bathroom
+2 beds in the front 2 bedrooms. 
+1 queen sleeper sofa in the 3rd back bedroom.
+
+Guest access
+The entire home.
+
+Other things to note
+- no smoking inside.
+- no pets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Duan
+Host User ID: 100679237
+Host Profile URL: https://www.airbnb.com/users/show/100679237
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+28 reviews
+5.0 out of 5 average rating
+1 year of hosting

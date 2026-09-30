@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/11928110
+Latitude: 36.07418
+Longitude: -86.74955
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private and cozy daylight basement suite in the lovely Crieve Hall neighborhood, just minutes to downtown, Green Hills, East Nashville, Brentwood, Franklin. Enjoy an over-sized bedroom with a sitting area and a private bath all with a separate private entrance from the rest of the home.
+
+The space
+Our lovely basement suite has a private entrance on the back of the house. The bedroom has a queen size bed and private bathroom. There is also a sitting area with a sofa and chair in the bedroom for relaxing and extra sleeping. You will have full access to the back patio and beautiful yard for relaxing or hanging out.
+Permit 2022 #075356
+
+Guest access
+Our guests have access to the basement door and can come and go as they please.
+
+Other things to note
+You can park at the bottom of the driveway, either on the far right or far left. Or you can park on the street in front of our house, but please do not block the mailbox.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shawna
+Host User ID: 20379324
+Host Profile URL: https://www.airbnb.com/users/show/20379324
+Host Profile URL Source: public user permalink from passport userId
+Nashville has been our home for 25 years.  We have three adult boys, a teenage daughter, and two Mini Aussies - Tuck & Rudy. 
+
+Together, we lead a non-profit serving refugee youth here in Nashville. We have over 100,000 refugees and immigrants that call Nashville home who have brought such beautiful and rich diversity to our city. 
+
+One of the ways we show love is through hospitality- hosting friends and strangers is one of our favorite things to do. Whoever you are, you are welcome in our home!
+Born in the 70s
+My work: UrbanPromise Nashville
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+657 reviews
+4.89 out of 5 average rating
+10 years of hosting

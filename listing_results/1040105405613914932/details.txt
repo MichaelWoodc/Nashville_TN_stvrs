@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1040105405613914932
+Latitude: 36.14142
+Longitude: -86.79195
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Airbnb in Midtown Nashville is an absolute gem! Located just an 8-minute drive from the vibrant energy of Broadway and downtown Nashville, it strikes the perfect balance between accessibility and tranquility.
+
+Ideal for larger parties, this spacious home ensures everyone's comfort with its generously sized rooms and bathrooms. One of its standout features is the convenience of walkable bars and restaurants like Barcelona Wine Bar and Old Glory. Lot's of parking is a PLUS!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Valerie
+Host User ID: 380643095
+Host Profile URL: https://www.airbnb.com/users/show/380643095
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Anchorage, Alaska. Like to spend my free time hiking, fishing, or at the lake! Go-to restaurants are Snow City Cafe or 49th State Brewing!
+Where I went to school: Belmont University
+My work: CRE Property Manager
+5 years hosting
+121 reviews
+4.76 out of 5 average rating
+5 years of hosting

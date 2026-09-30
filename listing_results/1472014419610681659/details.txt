@@ -1,0 +1,168 @@
+URL: https://www.airbnb.com/rooms/1472014419610681659
+Latitude: 36.1497
+Longitude: -86.7941
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish Nashville retreat by Music City Property Management! ★ Nestled in the vibrant heart of Nashville, this cozy 2-bedroom condo blends comfort and convenience. Whether you’re here for a weekend getaway, business trip, or to explore Music City, our condo offers the ideal space for your stay. Located just steps away from Nashville’s top attractions, it’s the perfect base to experience the best of Music City.
+
+The space
+Welcome to Your Stylish Nashville Retreat by Music City Property Management! ★
+
+Stay in the heart of Music City at this modern 2-bedroom, 1-bath apartment, offering the perfect blend of comfort, convenience, and style. Just steps away from Music Row and less than 1 mile from Vanderbilt University, this apartment provides easy access to Nashville's top attractions. Explore the Parthenon, catch a game at Nissan Stadium, or experience the famous honky-tonks on Broadway!
+
+Sleeping Arrangements:
+
+Bedroom 1: Queen bed
+
+Bedroom 2: Queen bed
+
+Living Room: Full sleeper sofa
+
+Kitchen Features:
+
+Refrigerator, stove/oven, dishwasher
+
+Keurig coffee maker, toaster, microwave
+
+Cooking basics, paper towels, and trash bags
+
+Property Highlights:
+
+3 Smart TVs
+
+Electric fireplace and dining table
+
+Contemporary decor throughout
+
+Amenities:
+
+Free Wi-Fi
+
+PTAC heating & A/C units
+
+In-unit washer & dryer, iron/board
+
+Linens, towels, hangers, toiletries, hair dryer
+
+Keyless entry
+
+Parking:
+
+Community lot (2 vehicles)
+
+Free street parking
+
+Additional Information:
+
+Pet-friendly with a $125 fee (+ taxes/fees)
+
+No smoking or parties
+
+Must be 25+ to book
+
+Photo ID required at check-in
+
+Access:
+
+The unit is located on the 2nd floor with stair access.
+
+Book your stay with Music City Property Management for a convenient, comfortable Nashville experience!
+Additional Amenities:
+
+In-unit laundry facilities including a washer and dryer for your convenience.
+
+Free parking to make your stay even easier.
+
+Early check-in and late check-out are available upon request (additional fees applies), subject to availability.
+
+Important Information:
+
+No smoking or parties allowed.
+
+Pet-friendly (small to medium-sized pets; non-refundable pet fee applies).
+
+Check-in at 4 pm and check-out by 11 am
+
+Cleaning fee covers final cleaning after check-out, no maid service during your stay.
+
+Important Information for Your Stay:
+
+Windows & Doors: To prevent issues with insects and mold, please keep windows and doors closed when the AC is running. Leaving them open could result in a fee up to $450. For your comfort, we recommend setting the AC between 70-82°F.
+
+Cleaning: This property is privately owned and does not include maid service or daily cleanings. A one-time cleaning fee covers the final cleaning after checkout.
+
+Unregistered Guests: Only registered guests are permitted to stay. Unregistered guests are not allowed.
+
+Pet Policy: We welcome small to medium-sized pets (20–50 lbs., 15–20 inches tall). A non-refundable pet fee of $125 per pet applies if noted at booking. If the fee is not noted at booking, it will be requested manually. Pets outside the size range or undeclared pets will incur a $350 fine.
+
+Noise & Parties: No parties are allowed. Excessive noise or loud music after 9:00 pm will result in immediate eviction without a refund for the remaining duration of your stay.
+
+Smoking: Smoking of any substance is prohibited inside the unit. A $195 cleaning fee will be charged for any evidence of smoking, and you will be asked to leave without a refund.
+
+Check-In & Check-Out: Check-in is after 4 pm, and check-out is by 11 am. Early check-ins or late check-outs are subject to availability. Unauthorized late check-out will incur a $50 fee per hour.
+
+Amenities: Upon check-in, you’ll find towels, linens, shampoo, conditioner, soap, and toilet paper. We do not provide additional supplies during your stay, so please plan accordingly.
+
+Furniture: Moving furniture is not allowed. A $125 fee will apply if this rule is violated.
+
+Trash: Please dispose of all trash in the designated dumpster by the property.
+
+Toilet Use: Please refrain from flushing paper towels, wipes, trash, or feminine products down the toilet. Use the bins provided. Any clogging of the septic system caused by improper disposal may result in a damage charge.
+
+Thank you for your cooperation, and we hope you enjoy your stay!
+
+Book your stay with Music City Property Management today and enjoy a memorable and convenient Nashville getaway. This is your chance to experience the charm and energy of Music City in comfort and style!
+
+Other things to note
+Important Information for Your Stay:
+
+Windows & Doors: To prevent issues with insects and mold, please keep windows and doors closed when the AC is running. Leaving them open could result in a fee up to $450. For your comfort, we recommend setting the AC between 70-82°F.
+
+Cleaning: This property is privately owned and does not include maid service or daily cleanings. A one-time cleaning fee covers the final cleaning after checkout.
+
+Unregistered Guests: Only registered guests are permitted to stay. Unregistered guests are not allowed.
+
+Pet Policy: We welcome small to medium-sized pets (20–50 lbs., 15–20 inches tall). A non-refundable pet fee of $125 per pet applies if noted at booking. If the fee is not noted at booking, it will be requested manually. Pets outside the size range or undeclared pets will incur a $350 fine.
+
+Noise & Parties: No parties are allowed. Excessive noise or loud music after 9:00 pm will result in immediate eviction without a refund for the remaining duration of your stay.
+
+Smoking: Smoking of any substance is prohibited inside the unit. A $195 cleaning fee will be charged for any evidence of smoking, and you will be asked to leave without a refund.
+
+Check-In & Check-Out: Check-in is after 4 pm, and check-out is by 11 am. Early check-ins or late check-outs are subject to availability. Unauthorized late check-out will incur a $50 fee per hour.
+
+Amenities: Upon check-in, you’ll find towels, linens, shampoo, conditioner, soap, and toilet paper. We do not provide additional supplies during your stay, so please plan accordingly.
+
+Furniture: Moving furniture is not allowed. A $125 fee will apply if this rule is violated.
+
+Trash: Please dispose of all trash in the designated dumpster by the property.
+
+Toilet Use: Please refrain from flushing paper towels, wipes, trash, or feminine products down the toilet. Use the bins provided. Any clogging of the septic system caused by improper disposal may result in a damage charge.
+
+Thank you for your cooperation, and we hope you enjoy your stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamal
+Host User ID: 409158331
+Host Profile URL: https://www.airbnb.com/users/show/409158331
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+71 reviews
+4.68 out of 5 average rating
+1 year of hosting

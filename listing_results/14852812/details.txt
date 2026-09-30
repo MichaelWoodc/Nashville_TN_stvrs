@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/14852812
+Latitude: 36.18916
+Longitude: -86.74718
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+No cleaning chores on checkout | Free off street parking | Quiet neighborhood in East Nashville artsy district walkable to cool restaurants and bars. Just 5-10 minute ride to Broadway honkytonk central. 15 minutes ride to the airport and the Grand Ole Opry.  You have the unit entirely to yourself and everything you need from bedding, towels, bathroom items and cookware. I include a Nashville visitor guide with our best local recommendations
+
+The space
+This is the private upstairs apartment/entire floor, of a 2 story home, so you have everything to yourself(private entrance, kitchen, bedroom, bathroom, living room, and your own parking space off the street). The space sleeps up to 4 people with a standard queen bed for 2, and an available queen air mattress or convertible couch for 2 more.
+
+Guest access
+Early check-in and Late checkout sometimes available if prearranged for a small fee | 
+Private entrance with a keypad to let yourself in on your schedule
+
+Other things to note
+The TV has access to all the normal apps through Roku, or antenna for lots of local channels. This is an upstairs apartment so, have fun but this is a quiet house in a quiet neighborhood. No loud noise or groups bigger than the reservation
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Seth
+Host User ID: 25631341
+Host Profile URL: https://www.airbnb.com/users/show/25631341
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1874 reviews
+4.76 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/1065868441816959549
+Latitude: 36.2528
+Longitude: -86.7133
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private studio apartment attached to our house. It has its own entry and self check-in. No shared spaces. My wife and I live in the front portion of the home. We try to be really quiet & respectful of our guests, but it is a lived in home. ;-) 
+
+Private 1-bedroom, 1-bathroom
+Mini fridge
+Microwave
+Coffee Maker
+Queen-size bed
+Fresh linens and towels
+High-speed Wi-Fi
+Free parking on premises
+Smart TV for streaming your favorite shows
+Air conditioning and heating
+
+Permit #2024002149
+
+The space
+Welcome to your private haven just 15 minutes from the vibrant heart of Nashville! This cozy 1-bedroom, 1-bathroom retreat offers a peaceful escape with no shared spaces, ensuring complete privacy during your stay.
+
+This is a private studio apartment attached to our house. It has its own entry and self check-in so you’ll never run into us except maybe in the yard!
+
+The Space:
+Enjoy the entire place to yourself, featuring a well-appointed bedroom with a comfortable queen-size bed. The bathroom is equipped with fresh linens and towels.
+
+The cozy living area provides a comfortable space to relax and unwind after a day of exploring Nashville.
+
+Amenities:
+
+Private 1-bedroom, 1-bathroom space
+Mini Fridge
+Microwave
+Coffee Maker
+Queen-size bed
+Fresh linens and towels
+High-speed Wi-Fi
+Free parking on premises
+Smart TV for streaming your favorite shows
+Air conditioning and heating
+
+Location:
+Conveniently located just 15 minutes from downtown Nashville, this retreat allows you to experience the excitement of the city while enjoying a peaceful residential neighborhood. Explore the iconic attractions, live music, and delicious cuisine that Nashville has to offer, knowing that a quiet and comfortable space awaits your return.
+
+Local Attractions:
+
+Downtown Nashville: 10 minutes
+Grand Ole Opry: 15 minutes
+The Gulch: 12 minutes
+Nashville International Airport: 15 minutes
+Percy Priest Lake: 20 minutes
+No smoking
+No pets allowed
+
+Come and experience the best of Nashville while enjoying the tranquility of your own private space. Book your stay now for an unforgettable getaway!
+
+Guest access
+Guests will have their own separate entrance and will receive access code prior to check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Channing
+Host User ID: 428671522
+Host Profile URL: https://www.airbnb.com/users/show/428671522
+Host Profile URL Source: public user permalink from passport userId
+2 years hosting
+30 reviews
+4.93 out of 5 average rating
+2 years of hosting

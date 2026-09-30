@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1297912182050432538
+Latitude: 36.2087
+Longitude: -86.5981
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Hermitage! Close to the home of Andrew Jackson, and nestled between Old Hickory Lake and Percy Priest Reservoir there's tons to do and see! Go boating with the family or stay in and relax with all the retro games you could dream of, we'd love to have you come stay with us in our own little slice of Nashville. We've got comfy beds for the whole family, a game room downstairs, and plenty of parking for everyone. We are only 9 minutes from BNA and only 15 minutes to downtown.
+
+The space
+null.
+
+Guest access
+Entire home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brad
+Host User ID: 70680520
+Host Profile URL: https://www.airbnb.com/users/show/70680520
+Host Profile URL Source: public user permalink from passport userId
+I am a seedsman and love to travel. Live life like you're dying because none of us are getting out alive.
+Born in the 80s
+Lives in Champaign, Illinois
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+63 reviews
+4.87 out of 5 average rating
+2 years of hosting

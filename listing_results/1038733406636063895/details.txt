@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1038733406636063895
+Latitude: 36.10841
+Longitude: -86.7797
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Convenient and comfortable, this guest house in Green Hills is perfect for your needs during your time in Nashville.  Centrally located to plenty of points of interest, vibrant neighborhoods, and the universities in town.    
+
+2 Miles from 12 South Neighborhood
+4 Miles from Broadway 
+4 Miles from Music Row 
+7 Miles from East Nashville
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cory
+Host User ID: 28504072
+Host Profile URL: https://www.airbnb.com/users/show/28504072
+Host Profile URL Source: public user permalink from passport userId
+Living life one trip at a time
+Lives in Nashville, Tennessee
+Response rate: 86%
+Responds within a few hours
+Superhost
+3 years hosting
+45 reviews
+4.89 out of 5 average rating
+3 years of hosting

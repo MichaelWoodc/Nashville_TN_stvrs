@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/14517297
+Latitude: 36.12032
+Longitude: -86.84325
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your Nashville visit in our beautifully renovated home. You’ll love our home because of its neighborhood & comfortable accommodations. There are parks, grocery stores, restaurants, coffee shops, & more in walking distance. Our home is 5 miles from heart of downtown & a quick Uber ride to Midtown, Gulch, and 12th South neighborhoods. Our home features 2 spacious bedrooms, a fully-equipped kitchen & high-speed TV and internet. Our home is great for couples, business travelers, or families.
+
+Guest access
+Guests have access to the entire home.
+
+Other things to note
+Pets are allowed on a case-by-case basis with a $100 non-refundable pet deposit.  Guests must have prior approval before bringing a pet.  Please send us a message if you have questions or would like more information.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jake
+Host User ID: 32237012
+Host Profile URL: https://www.airbnb.com/users/show/32237012
+Host Profile URL Source: public user permalink from passport userId
+We are Nashville natives! We lived in the Gingerbread House for many years and loved it. We know you will, too!
+
+We enjoy trying new restaurants, going to see live music, and watching our beloved hometown grow. Allison is a pediatric nurse practitioner. Jake works in residential real estate with an office in the popular 12th South neighborhood. Check him out on (Hidden by Airbnb) at @homesinnashville.
+
+We are happy to provide Nashville recommendations during your stay. We are full of them! We look forward to sharing our home with you!
+My work: Compass Real Estate
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within a few hours
+Superhost
+10 years hosting
+193 reviews
+4.92 out of 5 average rating
+10 years of hosting

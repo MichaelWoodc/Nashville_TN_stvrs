@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/13388342
+Latitude: 36.1559
+Longitude: -86.8612
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"Nashville Green Haus"
+
+We are conveniently located providing easy access to all Nashville's greatest attractions! There are many restaurants and shops within walking distance and downtown is only 10 minutes away!  Enjoy the big game on a 65" OLED 4K smart TV with surround sound or a French press sunrise on the front porch swing or nightcap with the pack porch fireplace. This home provides a place for great memories and an unforgettable Nashville experience!
+
+The space
+We have three queens, and sofas providing ample sleeping space for your Nashville trip. Getting ready to go out is easy with mirrors in each room.
+
+Guest access
+You will have access to the entire house shared only with your guests!
+
+Other things to note
+We have a hardline natural gas grill on the back porch ( no propane needed) for you to grill out and enjoy the beautiful weather!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 76043551
+Host Profile URL: https://www.airbnb.com/users/show/76043551
+Host Profile URL Source: public user permalink from passport userId
+Hi, there! I am a Nashville native who has lived here all my life with extensive local knowledge at your service. I love active hobbies such as running, kayaking, outside workout groups (F3Nashville) and small service projects. I enjoy working on home improvement projects and real estate here in Tennessee. I stay busy with work most of the time. 
+When I am fortunate enough I love traveling and experiencing other cultures.  I am a pretty hands off host but am always available if you need me for anything! Feel free to ask questions!
+My work: Real estate
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+281 reviews
+4.86 out of 5 average rating
+10 years of hosting

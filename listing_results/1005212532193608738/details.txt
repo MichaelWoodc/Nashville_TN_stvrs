@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1005212532193608738
+Latitude: 35.9785
+Longitude: -87.0172
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private spacious apartment in small farmhouse. Your host couple and two small short-haired cats live adjacently.  Queen bed and large bathroom with shower and tub. Gorgeous valley view from front porch. Back porch with grill and fire pit. . Dry your clothes on an old fashioned clothesline !  Path to county park nature trails start just outside your door!
+
+The space
+You will receive the punch code on the day of your arrival.
+The ranch house has a nice couple on the other side of the separator wall. You have your own entrance and door to the sitting porch.
+
+Guest access
+Guests at the Welcome homestead may visit the goat farm and may even bottle feed baby goats when opportunity exists. It is a short walk to the county park with many hiking trails
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

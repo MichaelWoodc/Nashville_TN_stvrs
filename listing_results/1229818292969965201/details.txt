@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1229818292969965201
+Latitude: 36.3491
+Longitude: -86.4724
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience fall on the Tennessee shoreline from this calm and inviting waterfront condo. Enjoy two screened-in back porches overlooking the water, perfect for crisp mornings, peaceful evenings, and scenic fall views. Nautical-inspired décor and comfortable living spaces create a welcoming retreat for relaxing weekends and seasonal getaways.
+
+The space
+Experience the beauty of fall on the Tennessee shoreline from this calm and inviting waterfront condo. Two screened-in back porches overlooking the water offer the perfect setting for sipping your morning coffee, enjoying crisp lake air, or unwinding as the sun goes down. Inside, nautical-inspired décor and comfortable living spaces create a relaxed atmosphere that complements the peaceful waterfront setting. Whether you’re planning a quiet weekend, a change of scenery, or a seasonal escape surrounded by nature, this welcoming condo offers a comfortable place to slow down and enjoy fall by the water.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Premier Management
+Host User ID: 230558108
+Host Profile URL: https://www.airbnb.com/users/show/230558108
+Host Profile URL Source: public user permalink from passport userId
+Hello and Thank You for visiting our profile for Premier Management Group. We are a full service real estate management company located just outside of Nashville, TN. We offer services for long term and short term rentals as well as leasing  and management services for commercial properties. In addition, all of our property managers are fully licensed real estate professionals helping buyers and sellers in our area. We are excited to work with you for your visit here. Whether it be a short stay, long term stay, or a permanent relocation; our property managers are eager to assist you.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+655 reviews
+4.91 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/1143587069241242346
+Latitude: 36.1492
+Longitude: -86.7943
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Location, amenities, and convenience are among the many things you'll enjoy at our Kasa in the heart of the iconic Music Row. Relax in our spacious living areas with spa-inspired bathrooms and access to our beautiful outdoor lounge, fitness center, and coffee bar. What's more, you're only steps away from the city's best dining and entertainment. Our tech-enabled apartments offer self check-in at 4pm, 24/7 guest support by text, phone, or chat, and a Virtual Front Desk accessed via mobile device.
+
+The space
+SLEEPING ARRANGEMENT:
+- Bedroom 1: 1 queen-size bed (sleeps 2)
+- Bedroom 2:  1 queen-size bed (sleeps 2) 
+
+PARKING:
+- Parking in our complimentary lot is available on a first-come, first-served basis, but please note that spots are limited. Should our lot reach capacity, there is plenty of street parking available nearby.
+
+LIVING SPACE:
+- Full kitchen with dishes, cookware, dishwasher, and coffee maker
+- Ultra high-speed Wi-Fi
+- Smart TV
+- In-unit washer/dryer
+- 560 to 621 square feet, depending on the room category of choice
+
+We have multiple Kasas in this building, and each one is unique. Decor and layout may vary slightly from what you see in photos.
+
+Guest access
+In addition to your private space, you can enjoy the building’s shared amenities.
+
+BUILDING AMENITIES:
+- Fitness center
+- Clubroom
+- Coffee bar
+- Outdoor lounge and grill
+
+We manage each aspect of your stay, so you can count on reliable service from booking to checkout, all while enjoying a self-directed experience. Every Kasa offers:
+
+- 24/7 support (text, chat, email, or call us any time!)
+- A desirable locale close to points of interest and attractions
+- Professional cleaning
+- Thoughtful design for your comfort and convenience 
+- Security protocols, including ID verification
+- Care-focused technology for detecting noise and smoke
+
+Other things to note
+PLEASE NOTE:
+- Guests are required to complete a Pre-Arrival Checklist, which includes a virtual ID check, and the option to request early check-in (subject to availability). We operate through a Virtual Front Desk, and self check-in is entirely contactless. We'll send you instructions on accessing our property and your Kasa before you arrive. Questions? Contact us 24/7.
+- One approved animal is allowed per unit at a nightly fee of $8-30/night based on length of stay. Pet registration is required prior to arrival.
+- Parking in our complimentary lot is available on a first-come, first-served basis, but please note that spots are limited. Should our lot reach capacity, there is plenty of street parking available nearby.
+- This property does not have luggage storage.
+- Daily housekeeping services are only provided upon request at an additional cost per cleaning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kasa
+Host User ID: 88566861
+Host Profile URL: https://www.airbnb.com/users/show/88566861
+Host Profile URL Source: public user permalink from passport userId
+Kasa provides convenient, tech-enabled apartments and hotel rooms for both short- and long-term stays. Whether you're traveling for business, leisure, or relocation, think of us as your home on the road. With locations in major U.S. cities like New York, Los Angeles, and Chicago, along with new properties opening regularly, we aim to fulfill your needs. Our Guest Experience Team is available 24/7 to assist with any concerns. We look forward to welcoming you!
+Speaks English, Russian, and Spanish
+Lives in San Francisco, California
+Response rate: 100%
+Responds within an hour
+10 years hosting
+65588 reviews
+4.62 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1111523664729578653
+Latitude: 36.1535
+Longitude: -86.7546
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 0
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Decorated by HGTV designer, enjoy a stylish experience at this centrally-located place within 1 mile of downtown Nashville.  The comfiest plush mattresses so rest up after you party hard.  
+Family friendly, flat TV's in each bedroom and the living room, extra long bunk beds to accomodate adults, balcony with views of downtown, building amenities including rooftop deck and other common areas. Luxurious linens, toaster, blenders, dinnerware shot glasses and hosts with an eye for detail. Brand new!
+
+The space
+This property is a mile to the center of downtown on Broadway.  It's a brand new building with awesome an rooftop with downtown views. Ridiculously comfy beds (even the bunks) and a balcony so you can see the lights of music city at night!  Come and enjoy Nashville while also having a cool place to call home and entertain your friends and family.
+
+Other things to note
+We used to accept pets but unfortunately, one of our first guests kind of ruined that for the rest of ya.  Sorry.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kortney
+Host User ID: 261788466
+Host Profile URL: https://www.airbnb.com/users/show/261788466
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Kortney! I love exploring new places, meeting people, and experiencing local culture wherever I go. I'm married with 3 kids (two grown). I’m a respectful and easygoing guest who treats every home with care as if it were my own. I'm also an Airbnbb host so I know the rules:)) Traveling is about creating memories, and I’m excited to connect with hosts who make that possible. Also, I like to eat my way through every city and love recs.
+My work: Realtor in Nashville
+I spend too much time: Watching Romcoms.
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+193 reviews
+4.93 out of 5 average rating
+4 years of hosting

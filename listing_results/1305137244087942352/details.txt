@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1305137244087942352
+Latitude: 36.1574
+Longitude: -86.8351
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+☆ Dream Backyard! 
+☆ Detailed Interior! 
+☆ 12 Beds! 
+☆ Rooftop Deck!
+
+Welcome to The House of Blues! 
+
+Our house is a 4 bed/3 bath home centrally located in The Nations of Nashville, only 4 miles from Broadway! 
+Upscale design that celebrates the beauty and history of Music City. 
+
+Highlights of the home include a rooftop deck, an outdoor space with jacuzzi, putting green, bbq & more, and amenities inside to match. 
+
+The House of Blues is sure to complete your Nashville experience!
+
+Guest access
+Entire place, Private Residence, backyard, rooftop deck, 2 private parking spaces.
+
+Other things to note
+Our 12 beds include:
+
+King beds: 2
+Queen beds: 2
+Twin trundle beds: 2
+Twin rollaway beds: 6
+
+The twin trundles are under the queen beds and twin rollaway beds are distributed between all four bedrooms.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 86784511
+Host Profile URL: https://www.airbnb.com/users/show/86784511
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+134 reviews
+4.93 out of 5 average rating
+2 years of hosting

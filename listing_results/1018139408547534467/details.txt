@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1018139408547534467
+Latitude: 36.14615
+Longitude: -86.81772
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a fabulous experience at this new 2 bedroom condo in a perfect location!  Near Centennial Park- walking distance to West End and any Vandy events, and a 5 min Uber ride down the street to Broadway!  Great location, great amenities (on site gym and outdoor pool), and fully stocked and ready for your stay.  Expect comfortable and stylish furnishings, an attentive host, and a safe location.  Truly a great place to stay for your Nashville experience!  STRP #2023080573
+
+The space
+New condo, clean, safe.  Two bedrooms (1 king bed, 1 queen bed) with 2 full bathrooms and a queen sleeper sofa.  Island with seating and kitchen table for 6.  Several Great restaurants and beautiful Centennial park within walking distance.
+
+Guest access
+All access is electronic- smart access into building and unit.  Also, you have access to a full fitness center and an outdoor pool.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tracy
+Host User ID: 140656100
+Host Profile URL: https://www.airbnb.com/users/show/140656100
+Host Profile URL Source: public user permalink from passport userId
+We are Tracy and Andy- we love to travel and have 4 girls so we ALWAYS use an Airbnb.  When Andy’s business started a branch in Nashville, we decided to purchase a condo to rent out to other traveler’s like you!  We love this part of the city!
+My work: Nurse Practitioner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+89 reviews
+4.89 out of 5 average rating
+3 years of hosting

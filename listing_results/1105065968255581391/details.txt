@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1105065968255581391
+Latitude: 36.19573
+Longitude: -86.7629
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish retreat in Cleveland Park, East Nashville! 
+
+This bright and airy space welcomes you with abundant natural light and a spacious layout, a full kitchen, washer & dryer, king-sized bed, and smart TV. Plus you'll have a private entrance and a parking spot.
+
+Whether you're planning an extended stay or a weekend getaway, this Airbnb offers the ideal blend of comfort and style. Book now for an unforgettable experience in Music City!
+
+The space
+Our loft apartment is a large space - about 900 square feet. There is Wi-fi and a smart TV available to guests. Each room (living & loft) have their own AC/heat unit. 
+
+You'll have a living room, dining area with a bench, full kitchen, and full bathroom. 
+
+The kitchen has a side-by-side refrigerator/freezer under the countertop, range, oven, and garbage disposal. There is no dishwasher.
+
+Please note: the upstairs loft bedroom has low ceilings at just under 6’. If you are uncomfortable in tight spaces or have a history of claustrophobia, please consider booking a different place. The ceilings are not standard height in the loft, but makes for a cozy little nook bedroom :)
+
+Guest access
+You can access the home from the alley off of Marie St. You have your own entrance and can park in the gravel at the front door. 
+
+There is a smart keypad and you will have a custom code sent to you prior to check-in.
+
+Other things to note
+Please see note about the loft ceiling height. This is a back house unit and we live in the front house full-time.
+
+This house is a short 6 min Uber to Broadway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mallory
+Host User ID: 565339458
+Host Profile URL: https://www.airbnb.com/users/show/565339458
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English
+Response rate: 100%
+Responds within an hour
+3 years hosting
+64 reviews
+4.83 out of 5 average rating
+3 years of hosting

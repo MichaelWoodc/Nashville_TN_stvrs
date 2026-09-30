@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1159032072473845595
+Latitude: 36.23078
+Longitude: -86.7138
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+15 min from downtown Nashville, this luxurious home offers the best of both worlds: close to everything yet in a quiet neighborhood perfect for recharging. With 4 bedrooms, 6 beds, a futon, and a roll-out bed, there’s ample space for everyone. Three full baths ensure comfort. A fully equipped kitchen, dining room, living room, and a full-size in-ground pool with patio provide room to relax. Pool is unheated and open April–Oct.
+
+The space
+Welcome to your perfect Nashville retreat! This opulent home comfortably hosts up to 10 guests, offering 4 spacious bedrooms and 3 full bathrooms, including a master bath with an oversized tub for ultimate relaxation. The chef’s kitchen is fully equipped for your culinary creations, and the cozy living room invites you to unwind with a 75-inch TV, Bluetooth speaker, board games, puzzles, and books. On chilly nights, curl up by the electric fireplace for added warmth and ambiance. 
+
+The bedrooms in this home are designed for comfort and relaxation. The master suite features a king bed, an ensuite bathroom, and access to a screened-in back porch, offering a private oasis. A second bedroom boasts a queen bed, ensuite bathroom, and a TV for your enjoyment. The double twin room is ideal for guests or children, complete with a TV for their entertainment. Lastly, the daybed room includes a trundle, providing versatile sleeping arrangements for additional guests.
+
+Step outside to relax on the expansive deck or take a dip in the refreshing pool. The backyard is the perfect place to create lasting memories with friends and family, featuring a grill, ample seating, a cooler, and a cornhole set for fun. **NOTE (The private pool is available for swimming April–October. It is unheated and closed from November–March, but the patio area is still open for lounging and outdoor relaxation). Multiple parking spaces are available for your convenience.
+
+This home is designed for relaxation and fun, offering the perfect blend of luxury and comfort in a quiet, welcoming neighborhood close to everything Nashville has to offer.
+
+Guest access
+Guests will have full access to the main floor of the house, except for the locked manager's closet. The spiral staircase and loft are off-limits.
+
+Parking is available in front of the house and on the left side driveway. Please avoid parking in front of the gate or on the right side, as this area is reserved for homeowner access.
+
+Other things to note
+The homeowner, Jeff, resides in the carriage house located in the backyard. This ensures he’s nearby to assist with any needs or questions while respecting your privacy.
+
+The Pool is unheated and open from March through November.  
+
+Requests for early check-in or late check-out should be made in advance. We will not accommodate last-minute requests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 9038467
+Host Profile URL: https://www.airbnb.com/users/show/9038467
+Host Profile URL Source: public user permalink from passport userId
+Frequent traveler and air b & b host myself.  I understand how much goes into sharing your home with guests and appreciate the air b & b host community.
+Where I went to school: NYU
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+10 years hosting
+148 reviews
+4.89 out of 5 average rating
+10 years of hosting

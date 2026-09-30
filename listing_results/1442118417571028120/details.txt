@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1442118417571028120
+Latitude: 36.1518
+Longitude: -86.8032
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Harmony Hall Suite, Loft 202 — a nod to the harmonies of classic country, rock, and soul music that shaped Music City. Vibe is warm, vintage, and melodious — perfect for group stays with heart and history — your all-access pass to Nashville’s legendary music scene! Just 1 mile from the neon lights of Broadway and steps from Vanderbilt, this 3-bedroom, 3-bath apartment hits all the right notes with a one-of-a-kind décor inspired by Country Western royalty.  Highlights: 
+Gold & Plat
+
+The space
+Loft 202, Harmony Hall, is located right above the Elliston Place Soda Shop in the Rock Block neighborhood and within walking distance to Ascension St. Thomas and Vanderbilt University and a mile from Broadway, the Ryman, Bridgestone Arena, Music Row and all things downtown Nashville.  You will feel like a star in this immersive, music-themed space where every detail is a tribute to the legends of the Grand Ole Opry. Whether you’re headed to Nashville for good old country fun, business or an extended stay, this is the place for you.
+
+Guest access
+Rock Block Lofts have their own private entrance at the back of the Soda Shop Restaurant building. Go up a short staircase and ent through the glass doors. Loft 202 is down the hallway to your right.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Maddox
+Host User ID: 388968184
+Host Profile URL: https://www.airbnb.com/users/show/388968184
+Host Profile URL Source: public user permalink from passport userId
+Welcome to our Luxury Hotel in downtown Nashville! We pride ourselves on providing the best guest experience possible while being in the perfect location to explore all that Nashville has to offer!
+My work: BoutiqueHotelManager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1072 reviews
+4.95 out of 5 average rating
+5 years of hosting

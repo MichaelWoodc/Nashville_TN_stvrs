@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/13654633
+Latitude: 36.11741
+Longitude: -86.82475
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our home is an eclectic oasis from the hotspots of Nashville.  The backyard (with patio, pool and porch) is an area welcoming quiet reflection.  Your-Home-Away-From-Home is comfortable and welcoming in a quiet, well established neighborhood.  It is less than 5 minutes to the interstate and less than 15 minutes to downtown!
+
+The space
+Our home is an eclectic oasis from the hotspots of Nashville.  The backyard (with patio, pool and porch) is an area welcoming quiet reflection.
+
+Guest access
+Guests will have access to the  house, backyard, patio, porch and pool.
+
+Other things to note
+We want you to be comfortable and feel that this is your home away from home, so do let us know how we can make your time here the best it can be!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bella
+Host User ID: 48970735
+Host Profile URL: https://www.airbnb.com/users/show/48970735
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+160 reviews
+4.95 out of 5 average rating
+10 years of hosting

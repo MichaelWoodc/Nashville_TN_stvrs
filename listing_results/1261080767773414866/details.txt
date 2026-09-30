@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1261080767773414866
+Latitude: 36.17130102232964
+Longitude: -86.78369713333312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious 3 bedroom townhome in the heart of downtown Nashville has an en-suite bathroom attached to each for guest privacy.  It's centrally located and makes it easy for you to take a short walk to Nashville's best local sports or attractions such as a Titans game or concert at Nissan Stadium, Bicentennial Mall, Germantown and the Nashville Farmer's Market, or Broadway for the live music scene that Music City is famous for. Garage and use of street parking included for your convenience.
+
+Registration Details
+T2024088720
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jon
+Host User ID: 65810733
+Host Profile URL: https://www.airbnb.com/users/show/65810733
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Virginia Tech
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+174 reviews
+4.91 out of 5 average rating
+7 years of hosting

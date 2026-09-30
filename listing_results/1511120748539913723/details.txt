@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1511120748539913723
+Latitude: 36.232
+Longitude: -86.7246
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sophisticated Nashville Escape with Skyline Views
+Indulge in a refined Nashville stay at this modern luxury condo, perfectly situated in vibrant East Nashville. Unit 403 offers a sleek, high-end retreat designed for discerning travelers who value comfort, style, and convenience. Just minutes from downtown Broadway, Nissan Stadium, and the city’s most celebrated restaurants and music venues, this residence places you at the center of it all.
+
+The space
+Modern Nashville Retreat with Skyline Views
+Welcome to your stylish getaway in the heart of East Nashville! This modern 3-bedroom, 3-bath condo is perfectly designed for comfort and convenience. Located on bustling Gallatin Pike, you’ll be just minutes from Five Points, downtown Broadway, Nissan Stadium, and all of Nashville’s best dining, music, and nightlife.
+
+Guest access
+You will have access to the entire unit and roof.
+
+Registration Details
+2022042744
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CousinsBNB
+Host User ID: 21736973
+Host Profile URL: https://www.airbnb.com/users/show/21736973
+Host Profile URL Source: public user permalink from passport userId
+We are a family that love to travel, and we love to host groups at our fantastic Nashville-themed homes as well as our Gulf Shores homes.  We also have homes in Laurel, MS and a cabin in Zionville, NC.  We dedicate a lot of time to making sure our properties provide everything you would expect when vacationing there.  And our reviews show that!
+Where I went to school: University of North Texas
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+3191 reviews
+4.85 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1368289741334833117
+Latitude: 36.19435148706794
+Longitude: -86.83491535165
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Cumberland Cottage is a stunning 1930s restoration, eclectically furnished and bursting with high-end details like a chef's kitchen, king master suite, well appointed bedrooms, and dedicated parking. There's also an incredible outdoor oasis, with total privacy for your hot tub enjoyment, a gas fire pit, and sparkling lights overhead.
+
+The Cottage is close to all the action of Nashville, but tucked away on a quiet residential street. It's the perfect base for your adventure!
+
+Other things to note
+Enjoy our lightning fast high speed internet service, perfect for streaming the free YouTube TV with DVR, your own Netflix/Amazon/Disney+ account, or using Zoom for work.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 475703522
+Host Profile URL: https://www.airbnb.com/users/show/475703522
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+202 reviews
+4.81 out of 5 average rating
+4 years of hosting

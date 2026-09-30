@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1344321219710976344
+Latitude: 36.044594448253065
+Longitude: -86.613709855981
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Very spacious house, you'll have full access to the downstairs area which includes the master bedroom with bathroom, kitchen and dining area, living room, guest hallway bathroom, and laundry room! Pet-free and non smoking home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adriane
+Host User ID: 548705315
+Host Profile URL: https://www.airbnb.com/users/show/548705315
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m a Nurse who works a lot and travels often. I’m a Nashville native and I would love to be your host! My home is also very spacious and kid-friendly.
+Born in the 80s
+Where I went to school: Antioch High
+My work: RN
+For guests, I always: Accomodate your stay the best I can!
+What's for breakfast: Keurig and Nespresso station
+Responds within a few days or more
+2 years hosting

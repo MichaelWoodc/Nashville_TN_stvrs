@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1220161034781218400
+Latitude: 36.17035
+Longitude: -86.76268
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Nissan Stadium 🏈🎶 | Calm Retreat w/ Porch + Fenced Yard 🐾
+
+Stay close to the action without staying in the chaos. This cozy historic bungalow is just a 5-minute walk to Nissan Stadium and a quick ride to Broadway. 🎸
+
+Guests love the screened-in back porch 🌿, fully fenced dog-friendly yard, and thoughtful touches that make it feel like home. Enjoy private gated parking 🚗, an easy layout, and a peaceful place to unwind after concerts, games, or nights out!
+
+The space
+Historic bungalow that has all the southern charm with the modern amenities that will make your stay cozy and convenient! 
+
+The jewel of the house is the 400 sq ft screened in porch that is a great gathering place for guests and a wonderful place to spend an evening grilling and watching a game on the big screen!
+
+The two bedrooms are spacious and private with thick walls and large comfy queen beds. 
+
+In addition to all the amenities inside the house, there's also private gated 2-car parking in the back that will allow you to easily come and go without having to fight for street parking.
+
+We hope that you enjoy the house as much as we do and feel like it's a home away from home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elizabeth
+Host User ID: 99535991
+Host Profile URL: https://www.airbnb.com/users/show/99535991
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of South Carolina
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+39 reviews
+5.0 out of 5 average rating
+2 years of hosting

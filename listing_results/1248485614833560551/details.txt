@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1248485614833560551
+Latitude: 36.19022
+Longitude: -86.52772
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Reconnect with loved ones in this family-friendly place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kenny
+Host User ID: 19872224
+Host Profile URL: https://www.airbnb.com/users/show/19872224
+Host Profile URL Source: public user permalink from passport userId
+Software engineer from Nashville, living in Brooklyn, working in Manhattan.
+My work: Software Engineering
+Speaks English
+2 years hosting

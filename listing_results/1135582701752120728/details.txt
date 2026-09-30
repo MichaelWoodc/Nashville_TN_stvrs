@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/1135582701752120728
+Latitude: 36.1262
+Longitude: -86.7257
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New Studio with 2 beds 7 mins to DT
+
+The space
+Listing provided by Chady Property Management.
+
+Brand new studio located only 7-10 mins to downtown Nashville, BNA, and many of the city's top attractions including Broadway, Top Golf, & Country Music Hall of Fame!  We cant wait to host your getaway to Music City!
+
+It's a newly converted office building into studio loft apartments. This condo sleeps 4 comfortably and includes a king size bed w/ a memory foam mattress and a queen sofa sleeper in the living room. The kitchen comes fully stocked as well with a complimentary coffee bar. 
+
+*PETS: Up to 2 dogs are allowed with prior host approval. A $75 fee per pet applies, and breed restrictions may apply. Cats are not allowed. Pets must be kept off all furniture at all times and kenneled when left unattended. Please clean up after your pets. Additional fees may apply for excess pet hair, damage, or extra cleaning.
+
+All properties are contactless checkin. Please be sure to arrive to checkin between 4pm & 8pm. If you do arrive later, you will still be able to checkin but may not have assistance if needed. Checkin time is always 4pm unless approved in writing by management. If you book and edit your checkin time to be earlier than 4pm, you will not be able to checkin until 4pm.
+
+If making a reservation with a same day checkin, checkin time is subject to change depending on cleaning schedule for that day.
+
+Sorry, we do not host locals. Any local that books this property without contacting management first for approval will have the reservation canceled without refund.
+
+Other Things To Note:
+- Free WiFi
+- Free Parking
+- Smart TV's to login to your subscription accounts. 
+- We do not have cable but you can log into your Netflix, Hulu, and other subscription account.
+- Hassle Free Keyless checkin
+- Complimentary coffee bar with Starbucks coffee provided.
+- Washer/Dryer
+- Charcoal Grilling Station (back side of the building)
+- Pet Allowed - a non refundable fee and no pets over 30 lbs.
+- All linens and bathing essentials are provided.
+
+- No smoking inside unit
+- No unauthorized guests
+- No parties
+
+For reservations that are made through platforms other than Airbnb and HVMB, and guest is entitled a refund, guest will be charged a 3% credit card processing fee that is deducted from their refund.
+
+Guest access
+Guests will have full private access. Management will be available if needed.
+
+Other things to note
+-You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+-Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4196 reviews
+4.78 out of 5 average rating
+5 years of hosting

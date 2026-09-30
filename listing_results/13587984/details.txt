@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/13587984
+Latitude: 36.1596
+Longitude: -86.5063
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My town of Mount Juliet is just outside of Nashville. 18 minutes to the airport and 25 minutes from downtown. You'll have access to 2 bedrooms and 1.5 baths in my townhouse in a very quiet and serene setting to sleep off your hangovers.  Walkable, yet quiet community as it's on the edge of a stream, a farm, and other large undeveloped tracts of land.
+
+The space
+Luxury townhouse unit in a walkable community and 15 just a minute drive to two of middle Tennessee's best lakes. Beautiful walking trail. There is NO TELEVISION in the home, but I have high speed internet for streaming YouTube, Hulu, etc.
+
+Guest access
+This property provides secure, keyless entry with a personalized deadbolt code. The master bedroom and some closets will be locked, but the rest of the unit and the common areas are yours to enjoy.
+
+During your stay
+I'll be at home during your stay, and will be reachable by text and phone.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ben
+Host User ID: 3390691
+Host Profile URL: https://www.airbnb.com/users/show/3390691
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Ben! I run my own business and love to travel -- especially to the beach and ski resorts. When you stay at my place, you can expect a comfortable, no-nonsense experience. I'm a little bit geeky, so expect to access my home without keys. And know that everything about my home -- from driving directions to local restaurants -- is well documented in a PDF that I'll send once you confirm your booking.
+My work: Self employed
+Lives in Durham, North Carolina
+12 years hosting
+171 reviews
+4.81 out of 5 average rating
+12 years of hosting

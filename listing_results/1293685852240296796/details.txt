@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1293685852240296796
+Latitude: 36.14797072378414
+Longitude: -86.81705814653091
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish 744 sqft condo is adjacent to Nashville's premier 132-acre Centennial Park featuring the Parthenon, multiple gardens, sidewalk trails and an art museum. On the edge of Midtown, home to the prestigious Vanderbilt University, this NEW Odyssey at the Park building's condo has an open-concept floor plan, tasteful furnishings, luxurious amenities and proximity to both downtown and other unique neighborhoods making it an exceptionally convenient area to stay in Nashville.
+
+The space
+The master bedroom features a soft king bed with an en-suite bathroom. The bathroom has a shower/tub combo. The kitchen is fully stocked with everything you need for at home cooking. There is a large flat screen TV in the living room as well as a smart TV in the bedroom. Fabric-wrapped modern cassette blackout roller blinds have been installed in both the living room and bedroom windows for complete privacy. Enjoy easy ground-level access to your unit from the parking garage entrance located in the back of the building that walks directly into the second level of the building where the unit is located.
+
+Guest access
+The entire condo is for guests. Guests also have access to the business center, pool, and workout facility.
+
+Other things to note
+A common question is how far this rental is from Broadway. I’ve walked it a few times and takes about 45 minutes at a fast pace; otherwise, it’s typically a 5-10 minute drive (Around $10 Uber or Lyft ride if it’s not surging). It is off of 31st Ave whereas the heart of downtown starts on 5th Ave so about 25 blocks away. 
+
+The address:
+
+303 31st Ave N
+Nashville, TN 37203
+
+Registration Details
+2023079917
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 148871564
+Host Profile URL: https://www.airbnb.com/users/show/148871564
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of Colorado
+My work: Healthcare IT
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+70 reviews
+4.99 out of 5 average rating
+2 years of hosting

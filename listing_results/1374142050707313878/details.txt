@@ -1,0 +1,103 @@
+URL: https://www.airbnb.com/rooms/1374142050707313878
+Latitude: 36.1598
+Longitude: -86.8406
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish and cozy condo is located in The Nations just minutes from the heart of Downtown Nashville. It features a stocked kitchen, complete with all the essentials. The living area offers a flexible space with a queen sofa bed.
+Nestled in a lively neighborhood, you'll be just steps away from trendy breweries, top-notch restaurants, and charming coffee shops. Despite its proximity to all the excitement of downtown, the condo remains a quiet sanctuary, offering the best of both worlds.
+
+The space
+Queen Tempur-Pedic mattress in the main bedroom and queen memory foam pull out sofa in the living room.
+
+Guest access
+Entire Condo on the 3rd floor - Located in a secure building with a shared rooftop patio that is on the top 4th floor. 
+There is both an elevator and a stairwell to access the condo.
+
+Other things to note
+Explore the Area:
+- Walking Distance -
+5 mins: Fat Bottom Brewing
+12 mins: Bringle's Smoking Oasis
+12 mins: Burger + Grain
+12 mins: Jeni's Ice Creams
+13 mins: Nicky's Coal Fired
+13 mins: 51st Deli (The Nations)
+13 mins: Bare Bones Butcher
+13 mins: Stay Golden Cafe
+13 mins: Brightside Bakeshop
+13 mins: Czann's Brewing Company
+13 mins: Field House Tavern
+13 mins: Harding House Brewing Co
+13 mins: Midnight Oil
+13 mins: Rock'n Dough Pizza & Brewery
+13 mins: Southern Grists
+13 mins: Tinwigs
+15 mins: Frothy Monkey
+15 mins: Red Bicycle
+15 mins: The Centennial
+16 mins: 51 North Taproom
+16 mins: Oscar's Taco Shop
+16 mins: The Nations Bar & Grill
+17 mins: Daddy's Dogs
+18 mins: Centennial Café
+19 mins: Betty's Bar & Grill
+20 mins: Headquarters
+
+- Uber/Lyft -
+2 mins: Tennessee State University
+3 mins: The Nations
+4 mins: Climb Nashville
+5 mins: Centennial Park
+5 mins: SandBar Nashville
+5 mins: Avo Café & Bar
+6 mins: Ted Rhodes Golf Course
+7 mins: Nashville Yards - Amazon HQ2
+7 mins: Broadway
+7 mins: Midtown
+7 mins: McCabe Golf Course
+8 mins: Music City Center
+8 mins: Music Row
+8 mins: The Parthenon
+9 mins: SOBRO
+9 mins: Country Music Hall of Fame and Museum
+9 mins: Bridgestone Arena - Nashville Predators
+9 mins: Wedgewood-Houston
+9 mins: Belmont-Hillsboro
+10 mins: Germantown
+10 mins: Nissan Stadium - Tennessee Titans
+10 mins: Vanderbilt University
+10 mins: The Gulch
+10 mins: RCA Studio
+10 mins: Vanderbilt University Medical Center
+10 mins: Belmont Mansion
+10 mins: Josephine
+12 mins: Topgolf
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alese
+Host User ID: 683586346
+Host Profile URL: https://www.airbnb.com/users/show/683586346
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Metal Building Sales
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+64 reviews
+4.98 out of 5 average rating
+2 years of hosting

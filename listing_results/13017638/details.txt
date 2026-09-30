@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/13017638
+Latitude: 36.20107
+Longitude: -86.70933
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 2
+occupancy: 5
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My husband & I are excited about our town & love to share with people!  Our space is a basement suite with it's own entrance. The space has 2 great beds! One is a queen mattress, the other a king. A large fenced yard along with crate are available for your pets use.
+
+The space
+It's huge, especially for the price! Your 1 bathroom is accessed through the bedroom.
+
+Guest access
+There is a new mini fridge & microwave in the suite! Parking adequate for a U-Haul & trailer.
+
+During your stay
+I love interacting with our guests! But am definitely not pushy. I let my guests set the tone.
+
+Other things to note
+My husband, Paul & I live on the top floor of home.  We try to be really quiet & respectful of our guests, but it is a lived in home. ;-) We  adopted 2 kittens that are now large cats (a Maine Coon mix) & they do get the zoomies sometimes. Most people report they never hear them but a few do.  The same is true for the human noises.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angie
+Host User ID: 71850546
+Host Profile URL: https://www.airbnb.com/users/show/71850546
+Host Profile URL Source: public user permalink from passport userId
+We have been hosting for almost 9 years & love it! We’ve met great people from over 20 countries & all over the U.S. 
+My husband Paul & I have been in this house for 12 years & it’s perfect for us. We back up to land that will never be built on & its a corner lot. Lots of wildlife outside our door... deer, raccoons, fox, coyotes, owls, wild turkeys,,, & only a 15 minute drive to Lower Broadway. It is NOT walkable to resteraunts or shopping.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1534 reviews
+4.91 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1498595341629322652
+Latitude: 36.1267
+Longitude: -86.7242
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy all Nashville has to offer in this conveniently located, remodeled studio. The studio offers a fully outfitted bright kitchen, designated working space, private terrace, guest entrance and free parking. It is centrally located, an easy 10 minutes to downtown and 7 minutes to the airport. Located in a small and quiet neighborhood, you will love this peaceful pocket of the city.
+
+The space
+Recently renovated last year, this studio features an open floor plan thoughtfully styled and filled with natural light. 
+
+Additional Highlights Include:
+*Tree lined private terrace with a view of the Tennessee hills
+*Fully outfitted kitchen with bar seating 
+*Dedicated parking spot in driveway 
+*Pillow top Queen mattress 
+*Full bath with shower/tub combo
+*Smart TV with Netflix, Hulu, HBO and more
+
+Guest access
+Guests have full and private access to the studio, terrace and guest only entrance. While there is a single dedicated spot in the driveway, guests are welcome to park along the street in front of the home.
+
+Other things to note
+The studio is located on top of the garage. Guests must be able to climb 1 flight of stairs to access the entrance. The stairs are well lit with hand rails and additional tread for ease of use in dark or rainy conditions.
+
+Registration Details
+2025073821
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hannah
+Host User ID: 716190852
+Host Profile URL: https://www.airbnb.com/users/show/716190852
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Hannah! I'm an engineer with a passion for all things DIY, travel, and dogs. I've lived in the great state of Tennessee since I was 15 years old, and co-host with my husband Tyler. We hope you have an amazing visit to Nashville!
+My work: Engineer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+58 reviews
+4.97 out of 5 average rating
+1 year of hosting

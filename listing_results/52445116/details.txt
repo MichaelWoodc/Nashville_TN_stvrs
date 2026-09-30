@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/52445116
+Latitude: 36.27533
+Longitude: -86.74831
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back and enjoy this calm, cozy lovely home. A cheerful two-level 3-bedroom home with ideal livable basement area with entertainment (e.g. pool table and outdoor basketball goal) and fitness (e.g. tread mill) accommodations.  A very peaceful area to enjoy your getaway, with family and friend's. Not too far from downtown Nashville. You're basically in the center of it all. Opry Land is 10mins away, BNA is 15mins away. So you're still in the mist of it all. So please come and have a ball.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 278539230
+Host Profile URL: https://www.airbnb.com/users/show/278539230
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 83%
+Responds within an hour
+Superhost
+4 years hosting
+114 reviews
+4.84 out of 5 average rating
+4 years of hosting

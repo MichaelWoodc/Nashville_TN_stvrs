@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1237993374102664805
+Latitude: 36.19818
+Longitude: -86.78202
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern 3 story 3 bedroom with Rooftop located in the heart of Nashville. This specious stylish home offers lots of space for your next family gathering, bachelor and bachelorette parties or any other large groups. It’s located within minutes from Broadway, East Nashville, Vandy and Belmont, Gulch and other entertainment locations in Nashville.
+
+The home has 3 queen beds, bunk bed with twin and full combo, 2 queen air mattresses and 2 couches for sleeping accommodations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aj
+Host User ID: 71879937
+Host Profile URL: https://www.airbnb.com/users/show/71879937
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 95%
+Responds within an hour
+10 years hosting
+237 reviews
+4.21 out of 5 average rating
+10 years of hosting

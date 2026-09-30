@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1021065797519433904
+Latitude: 36.15657
+Longitude: -86.83389
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Stapleton! We’ve newly renovated and our townhome is located in The Nations just 5 miles from bustling Broadway, 5 miles from the famous 12 South, 3 miles to the Gulch, and 10 miles to Nashville International Airport. Next to several note worthy breweries and restaurants including Nashville native Hattie B’s, and Fat Bottom Brewery! The perfect location for your Nashville stay!
+
+The space
+Cozy and comfortable, we pride ourselves on keeping it well designed but still feels like home! Make yourself some morning coffee and enjoy looking off the back deck while you sit with friends and family. Sit around a fire (inside or out) and share memories while you make new ones in Nashville!
+
+Guest access
+Full access! Just keep in mind the driveway space is shared.
+
+Registration Details
+13118803
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessie Mercer
+Host User ID: 239875662
+Host Profile URL: https://www.airbnb.com/users/show/239875662
+Host Profile URL Source: public user permalink from passport userId
+I'm Jessie, Co-Owner of SouthHouse Management.  My husband and I own and operate our vacation rental management business.  We also own vacation rental properties in Nashville, TN as well as previously owned and managed property on Barren River Lake in Scottsville, KY.  I'm passionate about growing in my relationship with Christ, serving others, homeschooling my children, being with family and friends, enjoying the outdoors, and traveling! I love meeting new people as well as learning new skills!
+Born in the 80s
+Where I went to school: WKU
+Response rate: 100%
+Responds within an hour
+4 years hosting
+177 reviews
+4.92 out of 5 average rating
+4 years of hosting

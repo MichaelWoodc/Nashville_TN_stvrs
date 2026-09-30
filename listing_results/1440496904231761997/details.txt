@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1440496904231761997
+Latitude: 36.2829
+Longitude: -86.4993
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Lakeview Cabin is a luxury cabin that sleeps 2 people with a king-size bed and a couch. Fully equipped kitchen, spacious living room, and a private outdoor area. This cabin is pet-friendly!.
+A luxurious retreat just across the street from Old Hickory Lake. There is an access area where you can launch your boat, kayak, swim, hike, and picnic. The charming cabin features a wraparound deck and a fire pit, offering the perfect blend of comfort for a relaxing getaway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kassidy
+Host User ID: 517568396
+Host Profile URL: https://www.airbnb.com/users/show/517568396
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+241 reviews
+4.83 out of 5 average rating
+3 years of hosting

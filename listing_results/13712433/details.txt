@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/13712433
+Latitude: 36.1146
+Longitude: -86.7226
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Modern-Vintage styled home is the perfect place to return to after an action packed day of exploring Nashville. A 1 bedroom, 1 bath home  conveniently located, where you'll enjoy easy access to popular destinations. This home Is well-equipped with everything you need for a hassle free retreat including a kitchenette, washer/dryer, comfy furnishings and free WIFI. This peaceful and unique place has comfort, style and ambiance for a relaxing stay!
+
+The space
+This a 400 sq ft, fully furnished, 1Bed/Bath apartment equipped with it's own washer/dryer, kitchenette, small dining area, 42" TV and fridge.
+
+This is apt shares a wall with the other side of the home.
+
+Guest access
+This is one side of a duplex.
+
+Other things to note
+Your entrance is on the side of the house through the wooden fence. You can park in front of the wooden fence or through it.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nadina Chavez
+Host User ID: 72180287
+Host Profile URL: https://www.airbnb.com/users/show/72180287
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: SUNY at Albany
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+48 reviews
+4.83 out of 5 average rating
+4 years of hosting

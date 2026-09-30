@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1386130234183538733
+Latitude: 36.17139587621774
+Longitude: -86.79655066837623
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Jefferson Haus! Experience downtown views from every floor – our 4‑story luxury home features two living areas, a game room and a private rooftop lounge. Located near the heart of Germantown, and just a little over a mile from Broadway and the city’s iconic music scene. This brand-new home offers spectacular city VIEWS FROM EVERY FLOOR. Best of all, Jefferson Haus is just a short walk away from fabulous restaurants and the lively nightlife that Germantown is known for.
+
+The space
+Our 4-story townhome offers 4 bedrooms, 4.5 bathrooms, with two living spaces and a spectacular roof deck and a game room!
+
+Guest access
+The entire home. (All four floors.)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Terah
+Host User ID: 165883168
+Host Profile URL: https://www.airbnb.com/users/show/165883168
+Host Profile URL Source: public user permalink from passport userId
+Lives in Las Vegas, Nevada
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+57 reviews
+4.91 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1294311099880517951
+Latitude: 36.10730218561066
+Longitude: -86.74734200659672
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Nashville House, a hidden gem in Nashville, Tennessee designed for creatives. Our cozy and intimate retreat offers an unparalleled experience for musicians seeking inspiration and a peaceful space to create.
+
+This beautifully, newly renovated, clean, well stocked house requires a 4 day minimum booking, removing it from being selected for bridal party tourism and partying in general.
+
+The space
+Ideal for guests working on music projects in Music City, that want a clean, safe, quiet place to wind down after working all day, to recharge their creativity. 
+
+🛏️The house will comfortably hold (4) guests. There are (2) bedrooms and a pull-out couch. Parking is free and can hold up to (2) cars. 
+
+🛑Unfortunately, we do not accept any 1st Bookings from new Air B&B Guests with no Prior feedback.
+
+🔥Enjoy high speed wifi, Apple TV, Full Kitchen, Espresso Machine, Modern Appliances, Ice Maker, Garbage Disposal, Oven/Stove, and Double Sink 
+
+🛁 Luxury 1 & 1/2 Baths with Jacuzzi Tub, and full 2 person Walk in Granite / Stone Shower.
+
+ 🚘We are conveniently located one minute away from Berry-Hill City Hall, 100 Oakes and Thompson Lane at E.Iris. We are seven minutes from Green Hills, Music Row, Airport, and Downtown Nashville (traffic permitting) 🎵100 Year old, Charming Kimball Baby Grand Piano, and assorted musical instruments PERMIT #2024099624
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 515996343
+Host Profile URL: https://www.airbnb.com/users/show/515996343
+Host Profile URL Source: public user permalink from passport userId
+My work: Addiction Sound
+Response rate: 100%
+Responds within an hour
+3 years hosting
+18 reviews
+5.0 out of 5 average rating
+3 years of hosting

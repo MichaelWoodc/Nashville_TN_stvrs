@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1348817936190486368
+Latitude: 36.2095
+Longitude: -86.7345
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxury Condo Minutes to Broadway – Your Nashville Getaway! Welcome to your home away from home in this stylish & thoughtfully designed Condo Minutes to Broadway!
+
+Stay in this 2-BR, 2-BA condo just minutes from downtown with top attractions like Broadway & Nissan Stadium. Open layout, spacious sleeping areas & a beautiful private deck. With on-site parking, & top amenities, your comfort is our priority. 
+
+✔ WiFi & Smart TV
+✔ Fully Equipped Kitchen
+✔ Washer & Dryer 
+✔ Outdoor Deck
+✔ Free Parking
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kyle
+Host User ID: 572416526
+Host Profile URL: https://www.airbnb.com/users/show/572416526
+Host Profile URL Source: public user permalink from passport userId
+Bidwell
+Born in the 80s
+Where I went to school: Montana
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+174 reviews
+4.74 out of 5 average rating
+2 years of hosting

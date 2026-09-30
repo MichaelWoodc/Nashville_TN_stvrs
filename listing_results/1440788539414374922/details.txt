@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1440788539414374922
+Latitude: 36.1982
+Longitude: -86.7416
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+HOWDY HOUSE in MUSIC CITY NASHVILLE is 5 mi to Downtown, Broadway, Nissan Stadium, Bridgestone Arena, CMA Fest & Iconic Venues - Ryman Auditorium, Grand Ole Opry and Country Music Hall of Fame! 3 Bedrooms, 3 Full Baths, 1 Half Bath, 2 Car Garage, and a Spacious ROOFTOP DECK with incredible views of the Nashville skyline! High-end kitchen w/granite countertops & hardwood flrs. Located near a variety of restaurants, boutique shops & bars to suit every palate. New Owner. Previous excellent reviews.
+
+The space
+3 Bedrooms, 3 Full Baths, 1 Half Bath, 2 Car Garage, and a Spacious ROOFTOP DECK with incredible views of the Nashville skyline! Sleeps 10. 4 beds and a sofa sleeper or air mattress.
+
+Located in the heart of the city’s trendiest neighborhood, East Nashville with a vibrant, culturally diverse and eclectic spirit. Explore walking to some of Nashville’s best restaurants, cafes, record stores, and graffiti art walls. The perfect stay for eclectic adventurers. Located nearby are a variety of restaurants, boutique shops, coffee shops and bars to suit every palate. New owner just now allowing short term rentals so no reviews. Previous reviews were excellent.
+
+Amenities:
+
+~ 7 minute drive to downtown
+
+~ 9 minute drive to Broadway
+
+~ 14 minute drive to airport
+
+~ Easy Lyft/Uber to all of Nashville’s attractions
+
+~ Keyless entry and self check-in
+
+~ Attached two car garage
+
+~ 1 Gigabyte WiFi connection
+
+~ Adjustable A/C unit in every room
+
+~ Large dining table and custom island seating for 10
+
+~ Filtered water and ice from fridge
+
+~ Fully stocked kitchen with all of your cooking essentials
+
+~ Second floor balcony
+
+~ Three smart TVs 
+
+~ Black out curtains in every bedroom
+
+~ Washer/Dryer with laundry detergent for your use
+
+~ Each bedroom complete with en suite bathroom and closet
+
+~ Walk in shower and closet in primary suite
+
+~ Bistro tables, chairs, and string lights to enjoy the rooftop deck & views
+
+Guest access
+Entire House
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michele
+Host User ID: 88151764
+Host Profile URL: https://www.airbnb.com/users/show/88151764
+Host Profile URL Source: public user permalink from passport userId
+Born & raised in Nashville, TN. Realtor & Property Manager in TN & FL with over three and a half decades in real estate. I offer a boutique style of home management that exudes service and meticulous attention to detail. I leverage my wealth of experience & knowledge to strategically showcase your home's unique features and maximize its marketability and rental revenue. I'm feisty & fun and get the job done! I'm not bashful, I'm from Nashville.
+My work: Realtor/Property Mgr
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 months hosting
+1 reviews
+5.0 out of 5 average rating
+9 months of hosting

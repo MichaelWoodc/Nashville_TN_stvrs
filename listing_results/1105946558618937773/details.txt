@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1105946558618937773
+Latitude: 36.13402
+Longitude: -86.86118
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your retreat in the heart of Nashville! This charming cabin feel retreat offers a unique and comfortable space, perfect for a solo traveler, couple, or small family. 
+You’ll love our central location!  
+•Downtown Nashville: 10 min. ride to Music Cities best live venues and bars. 
+•The Gulch:Trendy neighborhood with, shops, restaurants, and bars.
+•The Nations:Up-and-coming area with shops and restaurants.
+ •12 South: Charming neighborhood shops, restaurants, and iconic murals.
+
+The space
+We are on 1 acre of land in the heart of Nashville. The room is a cozy cabin like feel with basic amenities for quick meals like a microwave and coffee maker. We live in or rent out the main house area but it is totally seperate.
+
+Guest access
+You have your own entrance and exit, access to our shared back yard and fire pit as well as a seasonal garden.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie And Leith
+Host User ID: 87568124
+Host Profile URL: https://www.airbnb.com/users/show/87568124
+Host Profile URL Source: public user permalink from passport userId
+Hi, We are the Loftin’s. We are excited to have you stay at our place conveniently located near Downtown Nashville and many local restaurants.
+My work: Self employed
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+268 reviews
+4.81 out of 5 average rating
+8 years of hosting

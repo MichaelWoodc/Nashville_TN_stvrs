@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1417012493885513368
+Latitude: 36.1714
+Longitude: -86.7825
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located just minutes from Nashville's vibrant attractions, you’ll have easy access to restaurants, live music, and  entertainment on Broadway! You can also enjoy one of the  trendiest, most walkable neighborhoods in Nashville, Germantown. It's known for its great restaurants, laid-back bars, local boutiques and high-end design. Book now for an unforgettable Nashville experience!
+
+The space
+Discover your perfect getaway in this spacious, immaculate townhouse featuring 3 bedrooms and 4 beds, accommodating up to 8 guests. With 3.5 bathrooms, morning routines are a breeze! Relax on the rooftop patio, ideal for enjoying stunning views and evening gatherings or use any of the three private balconies for outdoor relaxing.
+
+Guest access
+The townhouse can be accessed by a coded front door or through the double car garage.
+
+Other things to note
+This property is conveniently located minutes North of downtown Nashville. You can walk South 5-10 minutes and be in Printers Alley or visit the Musicians Hall of Fame.  Continue another 5 minutes South and you are on BROADWAY!  You can walk North 5-10 minutes and enjoy a romantic evening at one of the amazing eateries in Germantown.  Intermixed in the Germantown neighborhood are several wonderful brewpubs and local bars.  As you can see, whether it's a couples date night or a family and friends honky tonk getaway, you have both within walking distance.  If your thing is sports, you have 3 amazing venues within a 5-15 minute walk.  Pro Football and Hockey are a quick 15 minute walk.  If you like Baseball, the AAA team plays in your back yard (literally).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Saira And Nick
+Host User ID: 99411946
+Host Profile URL: https://www.airbnb.com/users/show/99411946
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+63 reviews
+4.98 out of 5 average rating
+1 year of hosting

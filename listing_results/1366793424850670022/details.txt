@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/1366793424850670022
+Latitude: 36.1625
+Longitude: -86.7751
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ Steps to Broadway, Riverfront Park, and live music
+✔️ Historic 1875 Riverfront Lofts building
+✔️ Studio, 1 bathroom — sleeps up to 4
+✔️ King bed plus queen sleeper sofa
+✔️ Kitchenette with coffee maker and mini fridge
+✔️ Walk to Nashville's top attractions
+
+The space
+• Cozy hotel-style studio blending historic charm with modern comfort
+• Comfortable seating area with smart TV and dedicated workspace
+• King bed plus queen sleeper sofa for flexible sleeping
+• Kitchenette with everything needed for coffee and light bites
+• Perfect for couples, friends, business travelers, and weekend getaways
+
+🌅 Indoor & Outdoor Living
+• Open-concept studio with comfortable seating
+• Smart TV for streaming
+• Dedicated workspace with high-speed WiFi
+• Historic building with classic Nashville character
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 4)
+• This home includes a studio layout and 1 bathroom.
+• Studio — King bed; queen sleeper sofa; smart TV; dedicated workspace
+• Bath — Ensuite with single vanity and walk-in glass shower
+
+🍳 Kitchen & Dining
+• Kitchenette with mini fridge/freezer
+• Microwave and coffee maker
+• Please note: This home does not include a full kitchen
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• High-speed WiFi
+• Smart TV
+• Dedicated workspace
+• We provide bedding, towels, and a small starter set of essentials
+
+📍 Location Highlights
+• Steps to Broadway, SoBro, and Fifth + Broadway
+• Walk to Riverfront Park, Public Square Park, and Cumberland Park
+• Close to the Ryman Auditorium, Ascend Amphitheater, and the John Seigenthaler Pedestrian Bridge
+• Minutes to the Nashville Farmers' Market and Tennessee State Museum
+• Easy access to the Cumberland River Greenway, shopping, dining, and live music
+
+🚗 Parking, Safety & Notes
+• Stairs: Historic 1875 building; stair access is required
+• Parking: No on-site parking; paid parking available nearby at the Metropolis Parking Garages on Commerce Street. Current rates are approximately $40/day and are subject to change.
+• Security cameras: Cameras are located above the front door and in the front and back sections of the entrance hallway. They monitor entry/common areas only.
+• This home is not pet friendly. If there is found evidence of an animal's presence during your stay or post check-out, guests will be charged an additional cleaning fee.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+201622783
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+4065 reviews
+4.63 out of 5 average rating
+6 years of hosting

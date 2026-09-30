@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1456820305294731061
+Latitude: 36.13015
+Longitude: -86.78104
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Get the best of both worlds: enjoy an easy walk to one of Nashville's most popular streets while returning to a getaway on a quiet street. Wake up to a view of tree branches outside a wall of windows in this hotel-like studio apartment perfect for two. 
+
+Walk to: 
+- 8th & Roast Coffee (5 min) 
+- Ladybird Taco, E+Rose (10 min) 
+- all of the dining, drinks, and shopping you can imagine on 12th South! (12 min) 
+
+Easy drive: 
+- Vanderbilt, Belmont
+- Downtown 
+- the Gulch 
+- Radnor Lake
+
+The space
+The cottage offers a cozy feel with a queen bed, full bath, and kitchenette. It is located on the rear of our property and faces our screened-in porch. The mounted TV can be swiveled to enjoy a show while in bed or relaxing on the couch.
+
+Guest access
+You’ll access the cottage by entering the gate along the alley. Parking is always available on our quiet street.
+
+Other things to note
+As pictured, our dog Rainey is our third co-host. She is low key and sweet! She will not enter the cottage but you may see her in the yard.
+
+If you are allergic or prefer not to interact with Rainey, let us know and we will keep her inside during your stay.
+
+Registration Details
+2025066285
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyler
+Host User ID: 8784474
+Host Profile URL: https://www.airbnb.com/users/show/8784474
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+I'm obsessed with: Homemade cold brew
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+105 reviews
+4.92 out of 5 average rating
+2 years of hosting

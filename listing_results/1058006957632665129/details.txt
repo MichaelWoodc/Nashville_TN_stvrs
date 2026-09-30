@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/1058006957632665129
+Latitude: 36.20325
+Longitude: -86.74096
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This newly professionally designed 2-bedroom, 2.5-bathroom townhouse is the perfect home away from home for traveling couples, business travelers, and anyone seeking a temporary stay in Nashville. Located just 10 minutes from downtown, you'll have easy access to all the Music City has to offer, while still enjoying the peace and quiet of this vibrant neighborhood.
+
+The space
+Things You'll Love:
+★Karaoke Stage & Mic Stand★
+★Keurig K-Cup & Drip (Pot) Coffee Maker★
+★Espresso Machine★
+
+Close To It All!
+★Broadway★ - 7 miles (10-12 min)
+★Nissan Stadium★ - 4 miles (5-7 min)
+
+Walking Distance Attractions:
+★Grimey's Record Shop★ - 0.1 miles
+★Living Water's Brewing★ - 0.1 miles
+★The Fox Bar & Cocktail Club★ - 0.2 miles
+★Elegy Coffee★ - 0.2 miles
+★Nicoletto's Italian Kitchen★ - 0.2 miles
+
+Home Layout
+★★★1st Floor★★★
+-Front Door Entrance + Garage Available for Guest Parking
+-BR#1: Full Bed + En-Suite Full Bathroom
+-1 Twin Daybed (in hallway)
+
+★★★2nd Floor★★★
+-Kitchen & Living Room
+-1 Half Bath
+-Karaoke Stage + 1 Queen Daybed & 1 Full Trundle Bed (underneath stage)
+
+★★★3rd Floor★★★
+-Master Bedroom: King Bed + Ensuite Full Bath
+-Baby Crib
+-Rooftop Deck (accessible from double opening doors in the Master)
+
+Guest access
+You will be messaged a door code 24hrs before check in. This door code allows self-check in, at any time after your check-in time. The door code is unique to your stay, and only active during your reservation time.
+
+Registration Details
+2026022432
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric With Nashville Stays
+Host User ID: 410568638
+Host Profile URL: https://www.airbnb.com/users/show/410568638
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Eric & We are Nashville Stays! 
+
+We are a small management company, consisting mainly of my wife (Kimberly) & I. We hope you will check out our other properties and reviews online to learn more!
+
+We are Locals, so let us know how we can help. We look forward to hosting you & playing a part in your special trip to Music City!
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1125 reviews
+4.89 out of 5 average rating
+5 years of hosting

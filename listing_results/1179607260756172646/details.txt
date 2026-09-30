@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1179607260756172646
+Latitude: 36.232
+Longitude: -86.7246
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay at Nashville Nights, a spacious 6-bedroom, 3-bath vacation rental perfect for large groups, family trips, bachelor and bachelorette parties, and weekend getaways. Conveniently located near Downtown Nashville, Broadway, East Nashville, and the Grand Ole Opry. Enjoy comfortable beds, modern finishes, a game room, oversized communal balcony, and quick highway access. Experience the best of Music City while staying in a safe, comfortable, and centrally located home.
+
+The space
+6 Bed/3 bath
+
+- 1 King Bed
+- 1 Queen Bed
+- 2 Full BunkBeds
+
+Guest access
+Entire Condo.
+
+Game Room and Rooftop Balcony on 4th floor
+
+Other things to note
+1 reserved Parking space -   Phelps #106
+
+Additional Parking: Unmarked spaces in the Point East Office Complex lot across the street (Friday 5pm - Sunday 10am, and holiday nights) Also on the side of the building there are 3 guest parking spots on the street side. 
+
+The Primary Bedroom closest is locked and used for storage for the cleaning crew.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zach
+Host User ID: 583619399
+Host Profile URL: https://www.airbnb.com/users/show/583619399
+Host Profile URL Source: public user permalink from passport userId
+Welcome to my Airbnb profile! I'm delighted to have you consider my place for your stay.
+
+**About Me:**
+Hi there! My name is Zach and I'm thrilled to be your potential host. I have a passion for hospitality and love creating comfortable, welcoming spaces where guests can relax and feel at home. I believe that travel is one of life's greatest pleasures, and I'm dedicated to ensuring you have an unforgettable experience during your stay.
+Where I went to school: University of Kansas
+My work: Real Estate Investor
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+73 reviews
+4.9 out of 5 average rating
+2 years of hosting

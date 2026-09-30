@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1354449765000955171
+Latitude: 36.21167366902831
+Longitude: -86.70842564565113
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautifully renovated 1 bed / 1 bath in East Nashville! Strikes a perfect balance between peaceful neighborhood and close proximity to Downtown, Opryland, and countless incredible restaurants, bars and entertainment within East Nashville.
+
+Free covered parking + private driveway, private entrance, fully stocked kitchen, queen bed, spacious dining area, cozy living room space, loads of closet + dresser storage, dedicated workspace, serene backyard with fire pit (shared), and so much more!
+
+The space
+Safe and cozy 1 bed / 1 bath duplex unit with full kitchen, living space, dining area, private driveway and carport. Access to lush shared backyard and walkable to food and entertainment in East Nashville!
+
+Guest access
+Your entire unit is private and unshared. The backyard is shared, and there are two dogs that spend lots of time in the yard. Please note that the dogs could be outside at any time, but they will never be in your private areas of the property.
+
+Other things to note
+Please note that the shared backyard has two dogs that spend some time outside. The dogs are very friendly, and by proceeding with the booking you acknowledge that the dogs' behavior is not the host's responsibility. You engage with the dogs at your own risk.
+
+NO SMOKING IS ALLOWED IN OR AROUND THE PROPERTY. If you would like to smoke please go out by the street near the mailbox. If the home smells like smoke or vape then a $500 smoking fee will be charged.
+
+Registration Details
+2025025429
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mackenzie
+Host User ID: 24021954
+Host Profile URL: https://www.airbnb.com/users/show/24021954
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Mackenzie, a photographer and videographer based in Nashville. I love hosting and providing a welcoming space for guests to relax and enjoy their stay. As someone who travels often, I understand the importance of a cozy, well-equipped space. I’m excited to host you and make sure your time in Nashville is memorable! Let me know if you need any local tips or recommendations!
+Born in the 90s
+Where I went to school: University of California, Berkeley
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+88 reviews
+4.98 out of 5 average rating
+8 years of hosting

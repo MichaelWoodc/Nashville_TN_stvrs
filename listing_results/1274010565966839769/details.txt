@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1274010565966839769
+Latitude: 36.1952
+Longitude: -86.723
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 7
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is the kind of place you book when you want Nashville to feel effortless. Walk to East Nashville’s best restaurants, coffee shops, and local spots—no planning or Uber stress. After a day out, head to the rooftop for sunset views, great vibes, and a perfect mix of energy and relaxation. Inside, the space is clean, comfortable, and thoughtfully designed—ideal for couples, friends, or longer stays. Close to downtown, yet peaceful enough to truly enjoy your nights.
+
+The space
+Step into this Nashville retreat, perfectly designed for comfort and convenience across four levels. The first level features a 2-car-garage, ideal for parking smaller vehicles and doubles as a game room, alongside a dedicated workspace equipped with a single daybed and a trundle bed, offering flexible sleeping arrangements. Ascend to the second level, where you'll find the heart of the home: a fully-equipped kitchen, a dining area perfect for meals, a cozy living room for relaxation, and a convenient half bath. The third level houses two beautifully appointed bedrooms and two full bathrooms, including a dedicated make-up station complete with a ring light, perfect for preparing for a night out. Finally, the fourth level unveils a rooftop terrace, an outdoor oasis complete with a mini-fridge, essential for enjoying drinks, an outdoor TV, a BBQ grill for grilling, a fire pit for cozy evenings, and comfortable outdoor furniture, all illuminated by enchanting string lights.
+
+Guest access
+You will receive a custom code to open the front door. Once you're inside you can use the garage remote to access the garage
+
+Other things to note
+If you’re looking for a place that feels like a true Nashville experience—not just a place to sleep—this is it.
+
+Book your stay and experience East Nashville the way it’s meant to be.
+
+Registration Details
+2024091264
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diego | Elevate Vacation Rentals
+Host User ID: 657149305
+Host Profile URL: https://www.airbnb.com/users/show/657149305
+Host Profile URL Source: public user permalink from passport userId
+Hey! I'm Diego,  I own & operate Elevate Vacation Rentals. I'm passionate about making every guest feel at home with a safe and clean environment. Our properties are inspected frequently to ensure you have a wonderful stay! I am a natural problem solver and I am known for "having a guy" for anything you could think of.
+Born in the 80s
+Where I went to school: Full Sail University
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+44 reviews
+4.95 out of 5 average rating
+2 years of hosting

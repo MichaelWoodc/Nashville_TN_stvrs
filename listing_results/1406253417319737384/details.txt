@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1406253417319737384
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Nashville in our stylish 1br retreat that is minutes from Broadway, Music Row, and Nashville's best nightlife. 
+
+You have access to all of the property's amenities, such as, heated pool, gym, lounge areas.
+
+Walk
+4 mins →Country Music Hall of Fame
+7 mins →Bridgestone+Broadway Strip
+10 mins→The Ryman
+20 mins →Titans Stadium
+
+10 min drive→Nashville Airport/BNA
+
+Parking available- $30 per night
+Permit #2018068421
+
+The space
+Our space provides two spacious queen beds, a fold-down couch, and a single rollaway bed which easily accommodates 6 guests.
+
+Enjoy the complimentary welcome gift (wine & waters), teas, and coffee. 
+
+A 38 piece BBQ grilling accessory set also available for use.
+
+There are two smart TVs. Feel free to login into your favorite streaming platforms.
+
+Unit also has a Wi-Fi porter where you can seamlessly tap or scan your phone and instantly connect to Wi-Fi. No passwords, no hassle!
+
+Enjoy some of your favorite games on us. Check out our game basket located in the living room. 
+
+Pool cabanas are available for rent (4 hour window). Contact us for booking.
+
+Guest access
+Guests will be set by email to the Latch Smartlock system upon booking. This property uses Latch Smartlock system throughout the entire property. 
+
+Please note, to access the pool, you must list all of your guests’ names for each guest you have in your Airbnb Reservation details. This would be a detail you must update on your end.
+Guests have access to the entire unit and all of the property’s amenities such as lobby, courtyard, sky lounge, swimming pool & gym are included in this rental. Please, make yourself at home. We are not responsible for the closure or unavailability of any of these shared amenities, which is completely out of our control. Should this situation occur, we will not be able to refund any of your stay with us.
+
+Other things to note
+Property provides bellhop service (at an additional fee) where you can check-in your bags before check in time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamila
+Host User ID: 84601395
+Host Profile URL: https://www.airbnb.com/users/show/84601395
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+67 reviews
+4.97 out of 5 average rating
+1 year of hosting

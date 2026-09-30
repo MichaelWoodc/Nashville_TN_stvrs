@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/1255380958470433888
+Latitude: 36.2621
+Longitude: -86.6484
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover Casa Azul, where comfort meets convenience. Our cozy retreat is minutes from Old Hickory Beach & the Cumberland River, and just 20 minutes from Nashville’s top attractions. With a game room, spacious living areas, and modern amenities, it’s perfect for families, music lovers, and anyone seeking the best of both city and nature.
+
+The space
+WHAT YOU'LL LOVE:
+
+Spacious living room with an electric fireplace & 65" smart TV
+
+Fully equipped kitchen with stainless steel appliances + large dining table
+
+3 bedrooms with soothing coastal décor & 4 extra-comfy beds
+
+2.5 bathrooms, perfect for families & groups
+
+Rec room with darts, foosball, board games & more
+
+Hamby’s Market right outside for convenient snacks & essentials
+
+PERFECT FOR:
+
+Family getaways or group trips
+
+Concert weekends & Nashville events (just 20 minutes to Downtown & Grand Ole Opry)
+
+Relaxing lake escapes with plenty of space to unwind
+
+Book your stay at Casa Azul today and enjoy the best of both worlds—city excitement + lakeside charm!
+
+Guest access
+Whole house is yours!
+
+Other things to note
+The garage isn’t available for parking, we use that for recreation and fun for the family while you’re in town!
+
+We strongly encourage all guests to get travel insurance to protect them from any last-minute cancellations and trip interruptions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 80822535
+Host Profile URL: https://www.airbnb.com/users/show/80822535
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Baylor University
+My work: Data Science
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+54 reviews
+5.0 out of 5 average rating
+2 years of hosting

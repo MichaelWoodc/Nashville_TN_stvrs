@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1501123841807313072
+Latitude: 36.1501
+Longitude: -86.79508
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish 3BR retreat on Music Row—two modern condos booked together to comfortably sleep 10 guests! With 2 full kitchens, cozy living spaces, and a homey vibe, it’s perfect for group getaways or family stays. Just minutes from Broadway, Midtown, and top attractions, you'll enjoy the comfort of home with the excitement of Nashville at your doorstep. Relax, explore, and experience Music City from the heart of it all!
+
+Registration Details
+2024071620; 2024071594
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamal
+Host User ID: 409158331
+Host Profile URL: https://www.airbnb.com/users/show/409158331
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+71 reviews
+4.68 out of 5 average rating
+1 year of hosting

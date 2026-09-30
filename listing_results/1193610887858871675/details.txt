@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1193610887858871675
+Latitude: 36.37033
+Longitude: -86.52571
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Guest Suite! This upscale in-law suite offers a private entrance, cozy screened porch, a firepit, and beautiful gardens. Inside, enjoy a living room with a kitchenette and pull-out sofa, a bedroom with a queen bed, walk-in closet, and a full bathroom. Just minutes from shopping and dining, and only 30 minutes to Nashville, our stylish retreat provides 5-star treatment and a serene escape. Perfect for a peaceful getaway or exploring vibrant Nashville. Book now and relax in luxury!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 587529771
+Host Profile URL: https://www.airbnb.com/users/show/587529771
+Host Profile URL Source: public user permalink from passport userId
+Meet your hosts, Ashley and Steve! We're passionate about creating exceptional guest experiences and are dedicated to making your stay as comfortable and enjoyable as possible. With a deep love for hospitality & local knowledge of the Gallatin & Nashville areas, we provide personalized touches & thoughtful amenities. Whether you're here for relaxation or adventure, we’re here to ensure your stay is truly unforgettable. Welcome to The Guest Suite!
+Born in the 80s
+Where I went to school: Michigan State University
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+109 reviews
+4.98 out of 5 average rating
+2 years of hosting

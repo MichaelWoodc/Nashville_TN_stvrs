@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/1689989654156032693
+Latitude: 36.135909203619335
+Longitude: -86.77979645086074
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 20
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2 connected homes. 8 bedrooms. One unforgettable Nashville trip.Experience Nashville in style at this stunning 8-bedroom retreat steps from Broadway, Zanies, and the city's best dining. This luxurious home features  a private Wellness Studio with Peloton, infrared sauna, yoga station, and a garage door that opens to fresh air. Unwind on the rooftop terrace with fire pit, string lights, and open Nashville sky views. Move. Recover. Relax. It's all here.
+
+The space
+COMBINED, YOUR GROUP ENJOYS:
+🛏️ 8 Bedrooms across both units
+🛁 6 Bathrooms (4 full + 2 half)
+👑 2 Kings | 6 Queens | 4 Bunks | 4 Rollaways
+📺 12 Smart TVs
+🍳 2 Fully Stocked Kitchens
+🌿 2 Private Balconies
+Each unit has 2 Car Garage
+
+Unit 1: AIR
+★ LEVEL 1★
+ENTRANCE LEVEL
+Bedroom 1: 2 Queen Beds w/Smart TV and Full Bathroom
+
+★ LEVEL 2★
+Kitchen/Living Room/Dining Area
+Gourmet Fully Stocked Kitchen
+Spacious Living and Dining Area
+Half Bathroom
+
+★ LEVEL 3★
+Bedroom 2: Queen Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:King Bed + twin hotel-style rollaway bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 4★
+Bedroom 4: 2 Bunkbeds (twin sized) + twin hotel-style rollaway bed + Smart TV + vanity tables
+Wellness Area with Peloton, Sauna + Yoga + Balcony w/Firetable
+
+Unit 2: VIBE
+★ LEVEL 1★
+ENTRANCE LEVEL
+Bedroom 5: 2 Queen Beds w/Smart TV and Full Bathroom
+
+★ LEVEL 2★
+Kitchen/Living Room/Dining Area
+Gourmet Fully Stocked Kitchen
+Spacious Living and Dining Area
+Half Bathroom
+
+★ LEVEL 3★
+Bedroom 6: Queen Bed w/ensuite full bathroom + Smart TV
+Bedroom 7:King Bed + twin hotel-style rollaway bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 4★
+Bedroom 8: 2 Bunkbeds (twin sized) + twin hotel-style rollaway bed + Smart TV + vanity tables
+Lounge Area with Smart TV and Balcony!
+
+Guest access
+Guests have access to the entire home except the locked storage closets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨8th And Argyle⁩
+Host User ID: 667473372
+Host Profile URL: https://www.airbnb.com/users/show/667473372
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+231 reviews
+4.96 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1326195852330956031
+Latitude: 36.16267
+Longitude: -86.77468
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Retreat to the serenity of our Riverfront Double King Suite with Sofa bed. Relax in 2 king-sized beds while soaking in the tranquil Cumberland river views through 10ft arched windows. Utilize the sofa bed for added convenience.
+
+The space
+Studio 154 Hotel is a boutique hotel in the heart of downtown Nashville. The original building is historic from the mid-1800's that has been transformed into unique and modern accomodations. Studio 154 Hotel is a 100% digital and mobile key check in experience that requires you to download the hotel app to check in and access your room. Guests choose Studio 154 Hotel for the perfect location to all downtown attractions and festivities and one of a kind accomodations. We look forward to hosting you!
+
+Other things to note
+Studio 154 Hotel is located in a row of historic brick buildings. Due to its uniqueness, some rooms do not have windows. It is important that you review the photos of each room and ask the hotel if you have questions about the room prior to booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Studio 154 Luxury
+Host User ID: 211231188
+Host Profile URL: https://www.airbnb.com/users/show/211231188
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+369 reviews
+4.87 out of 5 average rating
+8 years of hosting

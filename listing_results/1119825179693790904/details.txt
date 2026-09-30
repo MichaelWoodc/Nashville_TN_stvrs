@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1119825179693790904
+Latitude: 36.25734
+Longitude: -86.59223
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our apartment combines the hip 70's vibe in a brand new modern space.   This home is very unique because its sits on one acre of woods on the lake with a full size pool.  It's sassy decor and brand new appliances will make staying here unforgettable  Speaking of unforgettable, the sunsets are amazing!
+
+Note: Due to severe pet allergies we are a no pet space. Unfortunately this includes service and emotional support animals, we have been granted an exception thru Airbnb for this.
+
+The space
+Our home is located in a very quiet neighborhood.  You will enjoy the sounds of birds, boats and bullfrogs.  There are numerous deer to view along with a large area of woods.
+
+Guest access
+Guests have access to the pool.
+The pool is located just steps from the entrance to the apartment.  The pool is not fenced off from the entrance door.  Swim at your own risk.  There are pool toys and floats available on a  first come, first served basis. 
+NO CHILDREN (UNDER 18) ALLOWED IN THE POOL OR AT THE DOCK WITHOUT A PARENT OR GUARDIAN PRESENT.
+
+Other things to note
+The basement apartment is zero entrance with no stairs!  The space is very private.  
+
+However, the pool and dock are public/common space and will be utilized by the homeowner at times.  If you'd like to reserve a private time at the pool, please just let us know and we will do our best to accomodate you.
+
+Due to severe pet allergies , we are a no pet space. Unfortunately, this includes service and emotional support animals; we have been granted an exception thru Airbnb for this.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cindy
+Host User ID: 22664351
+Host Profile URL: https://www.airbnb.com/users/show/22664351
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Purdue University
+My work: Dental Hygienist
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+27 reviews
+4.96 out of 5 average rating
+7 years of hosting

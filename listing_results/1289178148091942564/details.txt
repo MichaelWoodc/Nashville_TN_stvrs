@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1289178148091942564
+Latitude: 36.205209608947484
+Longitude: -86.80999038781074
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 15
+occupancy: 11
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Here's why you should stay with us:
+
+✓ Huge Rooftop Patio w/ TV & Entertaining Area
+✓ Stunning Skyline Views of Downtown Nashville
+✓ Spacious Layout: Sleeps 10+
+✓ Luxury Bunks - 6+ Guest
+✓ Perfect For Groups!
+✓ 5 Star Cleaning
+✓ Private En Suite Bathroom in Every Bedroom
+✓ Prime Location – Just Mins to Broadway
+✓ Newly Built with Large Walk-In Showers
+✓ Luxury Bedding & Full Amenities 
+✓ Smart TVs with Streaming Services Ready
+✓ Coffee Maker & Complimentary Coffee
+✓ Unique, Modern Decor
+
+& MORE!
+
+The space
+Welcome to your ultimate Nashville escape! This modern retreat comfortably sleeps 10 with a luxurious king bed, two queen beds, and six cozy twin bunks, each with an en suite bathroom. Enjoy the spacious rooftop patio with breathtaking downtown views, an outdoor TV, and plenty of seating for memorable gatherings. Perfect for groups or families, this home is minutes from Nashville's top attractions. Relax in style, and experience Music City like never before from this stunning rooftop oasis!
+
+Guest access
+Guests have full, private access to the entire home, including every room and bathroom, as well as the exclusive rooftop patio with stunning skyline views of downtown Nashville. Enjoy complete privacy throughout your stay, with unrestricted access to all amenities, including the outdoor TV, smart home features, and fully equipped kitchen. Whether you’re relaxing on the rooftop or settling into one of the comfortable bedrooms, the space is yours to enjoy!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 212523030
+Host Profile URL: https://www.airbnb.com/users/show/212523030
+Host Profile URL Source: public user permalink from passport userId
+Michael Gordon Weist III is an American talent manager, producer, actor, and entrepreneur known for his work in managing social media influencers and his involvement in several high-profile digital media projects. Weist gained significant attention for organizing TanaCon and for his appearance in the Hulu documentary Jawline, which played at the 2019 Sundance Film Festival.
+
+Weist is a voting member of The Recording Academy.
+Where I went to school: Belmont University
+My work: Entrepreneur
+Response rate: 100%
+Responds within an hour
+7 years hosting
+367 reviews
+4.53 out of 5 average rating
+7 years of hosting

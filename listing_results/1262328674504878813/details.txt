@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1262328674504878813
+Latitude: 36.21258608149207
+Longitude: -86.80174770448284
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your private Nashville retreat, just 7 miles from Downtown! 
+
+Unwind in a beautiful clawfoot tub, cozy up by the fireplace, or enjoy an evening around the outdoor fire pit.
+
+Guests consistently rave about the spotless space, peaceful setting, and incredibly comfortable king bed. 
+
+Located in a quiet historic neighborhood with easy access to Broadway, Music Row, and Nissan Stadium, perfect for a romantic getaway or relaxing Nashville stay.
+
+The space
+Welcome to your private studio suite in a historic Nashville neighborhood! Guests say this is the perfect mix of quiet retreat and close-to-downtown convenience.
+
+🛋 What you’ll enjoy
+•	Spacious master suite with clawfoot tub & fireplace
+•	Outdoor fire pit for cozy evenings
+•	Ultra-comfortable bed (guests rave about their sleep!)
+•	Private parking and your own entrance
+•	Peaceful setting with sheep, deer and turkey sightings, yet just minutes to Broadway
+
+📍 Distances to attractions
+•	Broadway Honky Tonks – 5 miles
+•	Nissan Stadium – 4 miles
+•	Music Row – 6.5 miles
+•	Grand Ole Opry – 11 miles
+•	Nashville Airport – 9.3 miles
+•	Columbia, Franklin, & other charming towns are 20–40 minutes away for easy day trips
+
+💡 Insider Tip: Most guests grab Lyft/Uber to Broadway—just $15–$17 on weekend nights.
+
+Guest access
+Enjoy complete privacy with your own private entrance and dedicated guest space. 
+
+Your outdoor fire pit is just steps from your front door. 
+
+The homeowner lives right next door and is available if you need anything during your stay, while giving you complete privacy to enjoy your space.
+
+Other things to note
+To help us maintain a clean, comfortable space for all guests, we’re unable to accommodate pets. Thank you for understanding!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michelle
+Host User ID: 20032684
+Host Profile URL: https://www.airbnb.com/users/show/20032684
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+98 reviews
+4.94 out of 5 average rating
+2 years of hosting

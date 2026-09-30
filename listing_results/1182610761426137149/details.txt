@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1182610761426137149
+Latitude: 36.1728
+Longitude: -86.7802
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Riverfront condo right on the river with river views and a private balcony.  just 17 minute walk to Broadway and honkytonks. Walkable to Titans stadium.  Just 8 minute walk north to Germantown with many great restaurants.  Two blocks to Baseball stadium and two blocks to Brooklyn bowl.  Free covered parking just outside this bottom floor condo.
+
+The space
+Fully stocked kitchen
+Fully stocked bathroom includes shampoo, conditioner, soap, blow dryer and straightening iron.
+The bedroom has a king bed and the living has a foldout twin bed.
+
+Guest access
+Guest has full access to this one bedroom apartment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimberly
+Host User ID: 55410380
+Host Profile URL: https://www.airbnb.com/users/show/55410380
+Host Profile URL Source: public user permalink from passport userId
+I spend too much time: Doom scrolling !
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+521 reviews
+4.92 out of 5 average rating
+11 years of hosting

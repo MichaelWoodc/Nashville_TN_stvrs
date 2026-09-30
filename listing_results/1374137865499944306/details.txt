@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1374137865499944306
+Latitude: 36.17843561675588
+Longitude: -86.80922296789738
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect for Valentine’s weekend, couples getaways, and romantic group stays. 
+
+Two-night minimum applies for peak weekends.
+
+Step into the Pink Barbie Dream Escape — a bold, photo-worthy home designed for girls trips, bachelorettes, birthdays, and group stays. This vibrant pink retreat sleeps up to 9 guests and is just minutes from downtown Nashville and Broadway.
+
+The space
+✨ Barbie Dream Escape ✨
+
+Welcome to the ultimate pink paradise! This dreamy, Barbie-inspired getaway is designed for fun, relaxation, and unforgettable memories.
+
+MAIN HOUSE:
+
+1st Bedroom:
+	•	2 Twin Size Beds
+	•	TV
+	•	Tall Mirror
+	•	Cozy House Shoes & Plush Robes
+
+2nd Bedroom:
+	•	4 Twin Size Beds (2 Bunk Beds)
+	•	Private Bathroom with Dual Mirrors
+	•	Upstairs Vanity Area & Dressing Room
+	•	TV
+	•	Tall Mirror
+	•	Cozy House Shoes
+
+Open Kitchen & Dining Space:
+	•	Keurig Coffee Maker ☕
+	•	Complimentary Drinks & Snacks
+
+Spacious Backyard:
+	•	Open area perfect for relaxing or entertaining
+
+PRIVATE BACK HOUSE (Included in Booking):
+	•	1 Queen Size Bed
+	•	TV & Cozy Couch
+	•	Stripping Pole for Fun Nights ✨
+	•	Private Bathroom
+	•	Tall Mirror
+	•	Cozy House Shoes
+
+A stylish, picture-perfect escape for bachelorette parties, girls’ trips, and anyone looking to live out their Barbie dreams! Book now and experience the magic!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carissa
+Host User ID: 683585296
+Host Profile URL: https://www.airbnb.com/users/show/683585296
+Host Profile URL Source: public user permalink from passport userId
+At The Barbie Dream Escape, my goal is to provide a stylish, fun, and comfortable stay for guests of all ages. Whether it’s a family trip or a girls’ getaway, I want every guest to feel welcomed and inspired.
+
+With thoughtful decor, kid-friendly amenities, and a cozy atmosphere, I strive to create a memorable experience—not just a place to stay. My mission is to make every visit feel like a dream come true!
+Response rate: 90%
+Responds within an hour
+2 years hosting
+48 reviews
+4.65 out of 5 average rating
+2 years of hosting

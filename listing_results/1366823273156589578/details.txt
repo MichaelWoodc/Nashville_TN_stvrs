@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/1366823273156589578
+Latitude: 36.1625
+Longitude: -86.7751
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ Stay steps from Broadway, live music, and Riverfront Park
+✔️ Historic 1875 loft with exposed brick charm
+✔️ 1 bedroom, 1 bathroom — sleeps up to 4
+✔️ King suite with queen sleeper sofa
+✔️ Full kitchen with dining for 4
+✔️ Walk to Nashville's top attractions
+
+The space
+• Historic loft blending original character with modern comforts
+• Open-concept living room with smart TV and comfortable seating
+• Full kitchen with stainless appliances and dining table for 4
+• Spacious king bedroom with ensuite bathroom
+• Perfect for couples, business travelers, and weekend getaways
+
+🌅 Indoor & Outdoor Living
+• Open-concept living room with smart TV
+• Historic loft featuring exposed brick and beam details
+• Bright, open layout with interior loft windows
+• Comfortable seating for relaxing after exploring Nashville
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 4)
+• This home includes 1 bedroom and 1 bathroom.
+• Bedroom 1 — King bed; smart TV; ensuite bath with walk-in glass shower
+• Living Room — Queen sleeper sofa (sleeps 2)
+• Bath — Ensuite with single vanity and walk-in glass shower
+
+🍳 Kitchen & Dining
+• Full kitchen with stainless appliances and basic cookware/serveware
+• Dining table seating 4
+• Cookware, bakeware, dishes, utensils, and glassware provided
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• High-speed WiFi
+• Smart TVs
+• We provide bedding, towels, and a small starter set of essentials
+
+📍 Location Highlights
+• Steps to Broadway honky-tonks and live music
+• Walk to Riverfront Park and the Cumberland River
+• Close to the Ryman Auditorium and Fifth + Broadway
+• Minutes to Assembly Food Hall, Bridgestone Arena, and Ascend Amphitheater
+• Easy access to museums, shopping, and Downtown attractions
+
+🚗 Parking, Safety & Notes
+• Stairs: Historic 1875 building; stair access is required
+• Parking: No on-site parking; paid parking available nearby at the Metropolis Parking Garages on Commerce Street. Current rates are approximately $40/day and are subject to change.
+• Security cameras: Cameras are located above the front door and in the front and back sections of the entrance hallway. They monitor entry/common areas only.
+• This home is not pet friendly. If there is found evidence of an animal's presence during your stay or post check-out, guests will be charged an additional cleaning fee.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+201622798
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+4065 reviews
+4.63 out of 5 average rating
+6 years of hosting

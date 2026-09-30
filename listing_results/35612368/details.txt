@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/35612368
+Latitude: 36.1318
+Longitude: -86.7755
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious and perfect for families, friends, and large groups! This home is just an 8-10 minute Uber ride from Downtown Nashville and within walking distance to shops and restaurants. With three floors of living space, comfortable bedrooms, and ample room to relax, it’s ideal for gatherings of all kinds. Enjoy the convenience of being near Nashville’s top attractions while having a peaceful retreat to unwind after exploring the city.
+
+Permit Number: CASR -201518941
+
+Guest access
+There will be a smart lock located on the front door- Feel free to come and go as you please.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gerry
+Host User ID: 24758299
+Host Profile URL: https://www.airbnb.com/users/show/24758299
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+286 reviews
+4.9 out of 5 average rating
+7 years of hosting

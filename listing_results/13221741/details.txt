@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/13221741
+Latitude: 36.1308
+Longitude: -86.6973
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your private Nashville retreat awaits! This bright, inviting condo comfortably sleeps 8 guests and is perfectly located for exploring Music City. Just minutes from the airport (BNA), Downtown Nashville, and Opryland. Relax in the cozy living room after a day of sightseeing. Features a fully equipped kitchen, private porch, and free parking. The perfect home base for your group's Nashville adventure!
+
+The space
+Unwind in a bright, inviting space perfectly located for exploring everything Music City has to offer. After a day of sightseeing, relax on the large sectional sofa in the welcoming living room, where a beautiful decorative fireplace with a reclaimed wood surround adds a touch of cozy charm.
+
+Our comfortable condo is designed to host your group with ease. The modern, all-white kitchen is fully equipped for you to prepare meals, and the private back porch offers a peaceful, wooded view for your morning coffee.
+
+This home comfortably sleeps up to 8 guests. The bed setup is as follows:
+* Bedroom 1: One Queen Bed with an en-suite Jack-and-Jill bathroom and a walk-in closet.
+* Bedroom 2: One Queen Bed, a bunk bed (Twin over Full), and an en-suite Jack-and-Jill bathroom with a walk-in closet.
+
+Need more space? We own two other units in the same subdivision. Please inquire about booking multiple condos for groups of up to 24!
+
+Guest access
+Guests will have private and exclusive access to the entire condo during their stay. Make yourself at home in all rooms, common areas, and relax on the private back porch.
+
+Other things to note
+* Noise Potential: The condo is located near railroad tracks and the airport, so you may experience some related noise during your stay.
+* Shared Walls: This is a condo complex, and our unit shares one wall with an adjoining condo. You may occasionally hear creaks from the floor or water running through pipes.
+* Decorative Fireplace: The fireplace is for ambiance only. Please do not burn anything in it.
+* Starter Supplies: We provide a starter kit of supplies (toilet paper, paper towels, etc.) to begin your stay. Guests are responsible for any additional items needed.
+* Liability: All listed amenities are to be used at the guest’s own risk. The homeowner is not liable for any risk, danger, injury, or damages.
+
+* Nashville Permit Issued In 2016 Followed By:2016032225
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 38710717
+Host Profile URL: https://www.airbnb.com/users/show/38710717
+Host Profile URL Source: public user permalink from passport userId
+Originally from Phoenix, AZ, we moved to Nashville in 2014.  We love real estate and hanging out as a family.
+Born in the 80s
+Where I went to school: Arizona State University
+Response rate: 100%
+Responds within an hour
+10 years hosting
+527 reviews
+4.79 out of 5 average rating
+10 years of hosting

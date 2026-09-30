@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1435948861539769174
+Latitude: 36.14285
+Longitude: -86.85811
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Unit: This is a spacious, ground-floor 1 bedroom apartment with a full kitchen, dining area, large walk-in closet, comfy carpeted bedroom, newly-remodeled bathroom, and living area that includes lounging options to relax, 65in HD Samsung SmartTV, home office area featuring an adjustable sit-stand desk. The apartment comes fully furnished and decorated. The bedroom suite includes a luxurious, brand-new single mattress with a decked-out wooden bedframe with the dresser drawers underneath.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 17426960
+Host Profile URL: https://www.airbnb.com/users/show/17426960
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Vanderbilt
+Responds within a few days or more
+12 years hosting
+3 reviews
+4.67 out of 5 average rating
+12 years of hosting

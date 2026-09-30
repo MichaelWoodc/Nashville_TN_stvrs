@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/546580167757305317
+Latitude: 36.12905
+Longitude: -86.77994
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 10
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new spacious build is both luxurious and cozy. With beautiful finishes, endless natural light, and thoughtful touches (including a full size arcade gaming machine) you will absolutely feel the love that went into the design. Offering 3 bedrooms and 3.5 bathrooms, this property is the perfect spot for groups looking to spread out while enjoying this centrally located spot, which is right in between not one but TWO of Nashville’s hippest neighborhoods (8th South/Melrose and 12South).
+
+The space
+Enjoy a 3-level, 3 bedroom, 3.5 bath home close to everything you need for your Nashville stay! The home has two outdoor patios so you can enjoy your time outside and inside. Enjoy smart TV's in every bedroom! 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+Beautiful 3 bedroom/3.5 bathroom home. The first bedroom (with full bunk beds) and en suite bathroom are located on the main floor. The second level features a large living room/kitchen/dining room and covered patio. The third floor has laundry, two bedrooms, and 2 full en suite bathrooms.  
+
+BEDROOMS:
+✔ Master Bedroom : King Bed
+
+✔ Bedroom 2: Queen Bed + Single over Single Daybed
+
+✔ Bedroom 3: Full over Full Bunk Beds
+
+Living room has 2 Couches that fold flat if extra sleeping options is needed.
+
+Guest access
+Guests will have the entire home to themselves! We are available via the app, should they need anything at all.
+
+Other things to note
+This is a three-level home with many stairs, so please keep that in mind prior to booking.
+
+There is parking for one car in the garage, and all other vehicles must be parked on the street, which is first come first serve.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angie
+Host User ID: 34013549
+Host Profile URL: https://www.airbnb.com/users/show/34013549
+Host Profile URL Source: public user permalink from passport userId
+Always looking for a new adventure, lucky in love and family. My favorite thing to do is something I've never done before!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+Superhost
+11 years hosting
+487 reviews
+4.88 out of 5 average rating
+11 years of hosting

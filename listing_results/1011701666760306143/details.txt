@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1011701666760306143
+Latitude: 36.12044
+Longitude: -86.74067
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Your Cozy Nashville Getaway Basement Bungalow!
+
+Our private basement bungalow offers a comfortable Queen Size bed and a Full-sized sofa bed, a kitchenette, and a relaxing living and dining space. Enjoy a large, fenced-in backyard, secure parking, and a fully screened and covered porch.  Convenient in-unit washer-dryer. Explore nearby attractions like the Grand Ole Opry and the vibrant downtown Broadway area. Book your Nashville adventure today!
+
+The space
+Here are some of the highlights of your stay:
+
+Private Space: You'll have your own entrance, ensuring complete privacy during your stay. The basement bungalow is exclusively yours, so you can relax and unwind without any interruptions.
+
+Kitchenette and Open Living Space: The bungalow features a convenient kitchenette where you can prepare simple meals and snacks. The combo living room and dining room provide a cozy space for you to relax, dine, or plan your Nashville adventures.
+
+Outdoor Paradise: Step out to a large, fenced-in backyard that's ideal for enjoying the beautiful Tennessee weather. Relax on the deck with your morning coffee or evening drinks. It's a great spot to soak in the sunshine or stargaze at night.
+
+Convenient Amenities: The property offers a driveway with secure parking, making your travel worry-free. You'll also find an in-unit washer-dryer for added convenience.
+
+Cozy Bathroom: We've recently remodeled the bathroom, which features a quaint and comfortable design. You'll find all the essentials you need for an enjoyable stay.
+
+Accessibility: Please note that the bungalow is in the basement, so you must be comfortable using stairs. The ceilings are a bit lower due to the basement location, but it adds to the cozy atmosphere of the space.  If you are over 6 ft tall, this may be a bit too cozy for you.
+
+Friendly Neighborhood: Our neighborhood is a hidden gem in Nashville. Just a short drive to the city's vibrant attractions, you can experience the local charm while still being close to the action. Plus, you might get a chance to meet us and our family when we occasionally use the backyard and deck.
+
+Explore Nashville: Don't miss the opportunity to explore the lively music scene, dine at famous restaurants, and visit nearby attractions such as the Grand Ole Opry, the Parthenon, and the vibrant downtown Broadway area.
+
+Local Flavor: In our neighborhood, you can discover eclectic shops, unique eateries, and enjoy the local Nashville culture. Nashville is known for its diverse music scene, art galleries, and friendly atmosphere.
+
+Your Nashville adventure begins here! Book your stay at our private basement bungalow, complete with a kitchenette and an open living space. We can't wait to host you!
+
+Guest access
+This is a basement with a private entrance.
+
+Other things to note
+As mentioned in the description, this is a basement with low ceilings.  If you are over 6ft tall, it may not be the most comfortable experience for you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steven
+Host User ID: 58868269
+Host Profile URL: https://www.airbnb.com/users/show/58868269
+Host Profile URL Source: public user permalink from passport userId
+N/A
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+61 reviews
+4.95 out of 5 average rating
+3 years of hosting

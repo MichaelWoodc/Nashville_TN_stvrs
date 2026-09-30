@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1468994620937438110
+Latitude: 36.18494
+Longitude: -86.76939
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious East Nashville Retreat Near Downtown ✨
+Stay in the heart of East Nashville in this stylish two-bedroom, 2.5-bath home, perfectly located just 1.8 walkable miles from Nissan Stadium. Nestled in a lively, walkable neighborhood with plenty of restaurants to explore, it’s the ideal blend of city energy and home-away-from-home comfort.
+Whether you’re here for a concert, a game, or just to experience the vibrant Nashville scene, this home is designed for both comfort and convenience.
+
+The space
+2 bedrooms both with king beds.
+Room for 1 king or 1 twin air mattress available upon request
+
+Guest access
+Guest have access to a fully stocked kitchen, an easy to use pellet grill on a spacious covered porch and two living areas with TV’s
+
+Other things to note
+Baby equipment available upon request as well as a rowing machine.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tammy
+Host User ID: 251071235
+Host Profile URL: https://www.airbnb.com/users/show/251071235
+Host Profile URL Source: public user permalink from passport userId
+Born in the 50s
+My work: Retired
+Response rate: 100%
+1 year hosting
+9 reviews
+5.0 out of 5 average rating
+1 year of hosting

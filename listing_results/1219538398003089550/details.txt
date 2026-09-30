@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1219538398003089550
+Latitude: 36.11735
+Longitude: -86.76857
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious 4-bedroom home, each with a private bathroom, is perfect for gatherings. Enjoy the open living, dining, and kitchen areas, relax on the rooftop patio, or have fun with the karaoke machine. Located just 10 minutes from downtown and 3 minutes from Geodis Park, you’re close to all the action. With a 2-car garage, this stylish home offers the perfect blend of comfort and convenience. Book your unforgettable stay today!
+
+The space
+This 4-bedroom home, each with its own private bathroom, is designed for ultimate comfort. Enjoy the rooftop patio with games and lounge furniture, and make use of the two-car garage. The open-concept living, dining, and kitchen areas are perfect for your crew to relax and gather. And yes, there’s a karaoke machine for unforgettable fun! Book now for a stay that hits all the right notes.
+
+Guest access
+You'll have the entire home to yourself.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Murat
+Host User ID: 502215348
+Host Profile URL: https://www.airbnb.com/users/show/502215348
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 94%
+Responds within an hour
+Superhost
+2 years hosting
+326 reviews
+4.9 out of 5 average rating
+2 years of hosting

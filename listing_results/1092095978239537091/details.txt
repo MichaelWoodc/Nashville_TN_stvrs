@@ -1,0 +1,94 @@
+URL: https://www.airbnb.com/rooms/1092095978239537091
+Latitude: 36.2261
+Longitude: -86.726
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New East Nashville 1 bedroom condo that sleeps 4 comfortably  Minutes to everything East Nashville,Downtown, Broadway, and local bars/restaurants. This home features a king bed, queen pullout sofa, smart TVs, and a fully stocked kitchen with complementary coffee bar. Secure entry for peace of mind. Your perfect Music City getaway!
+
+The space
+Listing by Chady Property Management
+
+🛌 The Space
+	•	Bedroom with a King bed and attached full bathroom (shower/tub combo)
+	•	Queen pullout sofa in the living area (linens provided)
+	•	Smart TV – log in to your favorite streaming services (cable not included)
+	•	Fully stocked kitchen with complimentary coffee
+	•	Fresh linens, towels, soap, shampoo, and conditioner provided
+
+🏡 Amenities
+	•	High-speed WiFi
+	•	Free on-site parking
+	•	Secure building with elevator access
+
+📍 East Nashville Hotspots
+
+You’re just minutes away from some of Nashville’s best local gems:
+	•	Five Points – Lively hub of bars, dining, and live music (5 min)
+	•	Skinny Dennis – East Nashville’s only honky tonk (5 min)
+	•	Noble’s Kitchen & Beer Hall – Rooftop sports bar & grill (5 min)
+	•	Rosepepper Cantina – Tex-Mex favorite with a cult-following (4 min)
+	•	The Basement East – Popular venue for live music (6 min)
+	•	Vinyl Tap – Bar meets record store with local tunes (4 min)
+	•	Shugga Hi Bakery & Café – Brunch, coffee, and cocktails (3 min)
+	•	Shelby Bottoms Greenway – Scenic trails for walking & biking nearby
+
+🚘 Getting Around
+	•	Uber & Lyft are easily accessible
+	•	Free parking is available on-site
+
+🔑 Good to Know:
+• All properties are contactless checkin. All check-ins begin at 4 PM unless otherwise approved in writing. Edits made to an earlier time do not override this policy.
+• Late arrivals after 8 PM are still welcome, but live assistance may be limited.
+• Local residents must message before booking. Non-inquiry local bookings may be canceled without refund.
+• No pets allowed! We love pets, but unfortunately, they’re not allowed at this property. Please note that an unauthorized pet will result in a $500 fee.
+• If making a reservation with a same day checkin, checkin time is subject to change depending on cleaning schedule for that day.
+• Refunds, if applicable, are subject to a 3% processing fee. This does not apply to HVMB reservations.
+• After booking, you may be asked to complete a rental agreement or provide additional details for Chady Property Management—just to ensure everything is set for your stay!
+-You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+-Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+
+🚫 Important Note for Local Residents
+We do not host local guests.
+If you live locally and book without prior written approval, your reservation will be canceled without refund.
+
+Other things to note
+-You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+-Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4196 reviews
+4.78 out of 5 average rating
+5 years of hosting

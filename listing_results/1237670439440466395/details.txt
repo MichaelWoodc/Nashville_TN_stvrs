@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1237670439440466395
+Latitude: 36.18254
+Longitude: -86.8067
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"Stunning 3BR/2BA modern home in Nashville! 5min from Nashville General Hospital, 8min from downtown. Open-concept living, modern kitchen, spacious bedrooms, fenced-in backyard with massive deck, grill & outdoor fireplace. Jacuzzi tubs, smart TVs in every room! Walking distance to Buena Vista shops & restaurants. Convenient location, washer/dryer on site
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kyle And Megan
+Host User ID: 587117926
+Host Profile URL: https://www.airbnb.com/users/show/587117926
+Host Profile URL Source: public user permalink from passport userId
+We are a family of 4 and we love Jesus and country line dancing .
+Born in the 90s
+Where I went to school: Kyle - Greene,NY  Megan-Horseheads,NY
+Response rate: 38%
+Responds within a few days or more
+2 years hosting
+109 reviews
+4.46 out of 5 average rating
+2 years of hosting

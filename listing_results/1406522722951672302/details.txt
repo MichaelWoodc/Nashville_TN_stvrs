@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1406522722951672302
+Latitude: 36.031419
+Longitude: -86.804792
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spot offers easy access to scenic parks, local trails, and historic sites. Enjoy outdoor adventures, visit iconic music venues, and savor Southern barbecue and regional flavors—all from a comfortable and convenient home base near Nashville.
+
+The space
+This listing is for a room within a hotel.
+
+✦ Your room is 300 sq. ft, equipped with complimentary toiletries, kitchen with basic amenities, TV, ensuring cleanliness and comfort throughout your stay.
+
+✦ Daily cleaning services included in the nightly price.
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 4:00PM.
+
+✦ Public or shared fitness center open 24/7, available in the property.
+
+✦ Paid parking lot, available for $5 per day.
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Pets are welcome. $75 up to 7 nights, $150 for longer stays plus tax
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ The required refundable security deposit is charged per unit, per night, on a valid credit card.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: RoomPicks
+Host User ID: 501999514
+Host Profile URL: https://www.airbnb.com/users/show/501999514
+Host Profile URL Source: public user permalink from passport userId
+Speaks French
+Response rate: 100%
+Responds within an hour
+4 years hosting
+28364 reviews
+4.37 out of 5 average rating
+4 years of hosting

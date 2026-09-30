@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1189919724514559514
+Latitude: 36.09851
+Longitude: -86.64044
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful place to stay. Next to Recreation Park. This two story home is within driving distance of many popular areas of Nashville.
+1. Airport/BNA (8 min)
+2. Opry Mills Mall/ Grand Ole Opry(18 min)
+3. Broadway Downtown (18min) 
+4. Nashville Zoo (18 min)
+5. Parthenon/Centennial Park (18min)
+6. Percy Priest Lake (8 min.)
+7. Grocery Stores/ Nashboro Village (5 min)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Merced
+Host User ID: 575779019
+Host Profile URL: https://www.airbnb.com/users/show/575779019
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+My work: Manager.
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+67 reviews
+4.94 out of 5 average rating
+2 years of hosting

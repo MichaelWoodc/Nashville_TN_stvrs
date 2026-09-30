@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1405735812259333292
+Latitude: 36.1247
+Longitude: -86.7633
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Floyd’s Place, a spacious three-bedroom, 3.5-bath Nashville retreat with five beds and room for up to 10 guests. Just minutes from Broadway, Nissan Stadium, Bridgestone Arena, and Nashville’s restaurants and nightlife, it’s ideal for families, groups, concerts, and game-day weekends. Enjoy a private rooftop deck with skyline views, a fully equipped kitchen, comfortable living spaces, fast Wi-Fi, and free parking with EV Charger —the perfect home base for experiencing Music City.
+
+The space
+Stay in one of Nashville's most convenient locations, just minutes from Broadway, Geodis Park, 12 South, Wedgewood-Houston, Berry Hill, Bridgestone Arena, and Nissan Stadium. This spacious 3-bedroom, 3.5-bath townhome comfortably sleeps up to 10 guests and features a private rooftop deck with a fire pit, outdoor TV, comfortable seating, and skyline views.
+
+Enjoy a fully equipped kitchen, high-speed Wi-Fi, smart TVs throughout the home, EV charging, in-unit washer and dryer, and parking for up to 4 vehicles. Walk to restaurants, coffee shops, nightlife, concerts, soccer matches, and some of Nashville's most popular neighborhoods.
+
+Whether you're in town for a concert, sporting event, family getaway, business trip, or weekend exploring Music City, this home offers the perfect combination of comfort, location, and convenience.
+
+Please note that this is a multi-level townhome with four floors connected by stairs, including access to the rooftop deck. Guests should be comfortable using stairs throughout their stay.
+
+Guest access
+Guests can access the entire unit including the amazing rooftop. There is a two car garage with an EV Charger and two more free parking spaces in front of the garage.
+
+Other things to note
+Please note there four levels to this house and all of them have stairs.  Please note before booking if you have guests with mobility issues.
+
+The fire pit on the rooftop has a propane tank.  It is the responsibility of the guest to fill the propane tank if they would like to use it.  There may be propane left from a previous guest.
+
+Registration Details
+CASR 202409366
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 355735638
+Host Profile URL: https://www.airbnb.com/users/show/355735638
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: Kansas State University
+Response rate: 100%
+Responds within an hour
+3 years hosting
+163 reviews
+4.99 out of 5 average rating
+3 years of hosting

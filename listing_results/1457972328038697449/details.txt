@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1457972328038697449
+Latitude: 36.13724
+Longitude: -86.77828
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Professionally designed with creamy tones and bold personality, Music City Retreat is a 4BR/3.5BA Nashville haven made for good times. Think rooftop patio with lights and cornhole, indoor shuffleboard, guitars on the wall, and a putting green out back. Every room is a vibe — from the custom bunk room to the elegant bathrooms and sunlit bedrooms. Come stay, play, and unwind.
+
+The space
+🎯 Highlights:
+- Prime location near The Gulch, Midtown, and Music Row — minutes from Hattie B’s, Broadway, and local coffee shops
+- Rooftop patio with cornhole, twinkle lights, and ample seating
+- Indoor shuffleboard, guitars on the wall, and games throughout
+- Professionally designed interiors with creamy tones and unique flair in every room
+- Backyard putting green and turf yard for outdoor fun
+- Snazzy drink station and huge dining table for group meals
+- Sleeps 12+ comfortably with spacious bedrooms and custom bunk room
+- Snacks and Champagne on us! 
+
+🛏️ Where You’ll Sleep:
+- Bedroom 1: King bed, walk-in shower
+- Bedroom 2: King bed, combo tub/shower
+- Bedroom 3: King bed, combo tub/shower
+- Bedroom 4: Custom bunk room with 1 bunk bed + twin trundle 
+
+📝 Things to Note:
+- Starter kit provided: paper towels, toilet paper, linens, towels, dish soap, laundry pods, etc.
+- Premium Bath Amenities: Full-sized shampoo, conditioner, body wash, lotion, and hand soap.
+- High-speed Wi-Fi for streaming and remote work
+- Smart locks on front and back doors for easy, secure access
+- Full-size washer and dryer
+- Private parking in back 
+
+📍 Location Perks:
+- Walk or quick Uber to Hattie B’s, The Gulch, Broadway, and Music Row
+- Close to Midtown’s best bars, brunch spots, and boutiques
+- Easy access to Nissan Stadium, Bridgestone Arena, and the Grand Ole Opry
+- Local favorites nearby: Biscuit Love, Barista Parlor, and Five Daughters Bakery
+
+Guest access
+It's all yours! Guests have access to the entire home during your stay.
+
+Other things to note
+- Minimum age to rent the home is 23.
+- Vacation disruptions can be a bummer. While it doesn’t happen often, you may experience issues with Wi-Fi. We are not responsible for any disruptions to the Wi-Fi service or any construction that may affect your experience. Please note that such occurrences are beyond our control, and we appreciate your understanding and patience in these matters.
+- Apologies no furry friends at this home
+- Street parking in front of home & shared parking behind home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalos Dwellings
+Host User ID: 351901804
+Host Profile URL: https://www.airbnb.com/users/show/351901804
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Sarah and I am one of the co-founders of Kalos Dwellings along with my husband, Dustin, and our best friends, Aaron and Tara.  
+Our entire team of hosts are here for anything you need during your stay!
+Born in the 80s
+My work: Kalos Dwellings
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4955 reviews
+4.92 out of 5 average rating
+5 years of hosting

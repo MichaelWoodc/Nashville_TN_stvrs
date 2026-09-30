@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1332762622570689208
+Latitude: 36.028736524272375
+Longitude: -86.54910544887275
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable townhouse located just Centrally Located 35 min from Downtown Nashville and 35 min to Franklin Tn.  Large bedroom with furniture included.  Large closet and Private on-suite.  Access to all shared spaces.  Smart Tvs. Fiber Speed Internet.  A contemporary feel.  I have an office downstairs if you need something printed.  Wallace And I are chill, Easy going people that work most of the time.
+
+The space
+The Room your renting is up the stairs straight on.  There is a washer and dryer up there also.
+
+Guest access
+The whole house is shared.  Find a space in the refrigerator.  If you like Coffee I got a coffee bar going next to the stove.
+
+During your stay
+Both Wallace and I are here to help you.  If you have any issues at all please give one of us a call.
+
+Other things to note
+We only have two parking spots in front of my townhome. I will want my spot.  if you have more than one car/truck there is guest parking at the end of the street.  We have a smart Lock on the front door.  a 6 digit code will be assigned to you at checkin.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Biscuit
+Host User ID: 672552758
+Host Profile URL: https://www.airbnb.com/users/show/672552758
+Host Profile URL Source: public user permalink from passport userId
+2 years hosting
+1 reviews
+5.0 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1496452400319020301
+Latitude: 36.1977
+Longitude: -86.7516
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in this cozy cottage tucked away on a quiet dead-end street in East Nashville. Downtown and Broadway are just a short drive away, while East Nashville’s restaurants, coffee shops, bars and local favorites are easy to explore nearby.
+
+With a king bed, private fenced backyard, fully stocked kitchen, washer and dryer, dedicated workspaces and free parking, you’ll have everything you need for a comfortable Nashville stay. Traveling with your pup? They’re welcome too!
+
+Registration Details
+T2025084567
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sydney
+Host User ID: 397741718
+Host Profile URL: https://www.airbnb.com/users/show/397741718
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Project Management
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+47 reviews
+4.98 out of 5 average rating
+11 months of hosting

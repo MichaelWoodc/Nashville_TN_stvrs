@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1434278929825723961
+Latitude: 36.34336691642989
+Longitude: -86.7089467265204
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this private, cozy basement retreat just 20 minutes from Nashville! Enjoy a spacious living area, comfy king-size bed, private bath, and a peaceful outdoor oasis with stylish seating and a fire table. Located in a quiet neighborhood, it's perfect for unwinding after a day of exploring. Enjoy a mini-fridge, microwave, Keurig, and dining space. Thoughtfully decorated and fully private—your home away from home! Ideal for couples.
+
+The space
+Bright, spacious and very comfortable lower-level 1 bedroom with King-sized bed with premium quality mattress in the bedroom and sectional sofa in the living room.  Full bath with shower and bathtub, high speed wifi, patio sitting. Perfect for couples, friends as well as business travelers. Professionally-cleaned.
+
+Guest access
+You have the full unit to yourself. Easy self check-in with combination lock entry.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stay Awhile
+Host User ID: 696650556
+Host Profile URL: https://www.airbnb.com/users/show/696650556
+Host Profile URL Source: public user permalink from passport userId
+1 year hosting
+1 reviews
+5.0 out of 5 average rating
+1 year of hosting

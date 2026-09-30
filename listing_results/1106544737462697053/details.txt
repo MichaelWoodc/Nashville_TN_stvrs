@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1106544737462697053
+Latitude: 35.9752
+Longitude: -86.8918
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly Remodeled home in a great neighborhood, short drive to Downtown Franklin, TN! Centrally located and only 25 mins from Downtown Nashville, a great spot to stay if you want to explore Franklin, Nashville, etc! The modern design and decor will make you feel right at home while also offering an upscale feel . *PLEASE NOTE: The home has a totally separate, attatched studio apartment that is rented separately to guests as well. The Studio apt can be reserved with the main house if available.
+
+The space
+This 3-bed/ 2 bath haven is a part of the entire home, which is also available for reservation. Double locked by the doors to the rest of the home- this space offers a wonderful place to rest while visiting Franklin. 
+
+Please note-While occasionally there may be some noise from the other side of the unit, that is to be expected since it is attached to the rest of the home. No matter, this space offers a comfortable and enjoyable stay.
+
+Come and see!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Phillip
+Host User ID: 259083382
+Host Profile URL: https://www.airbnb.com/users/show/259083382
+Host Profile URL Source: public user permalink from passport userId
+I’m Phillip and I love to travel, history, and meeting new people!
+Born in the 90s
+Where I went to school: Centennial High School; Lee University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+232 reviews
+4.93 out of 5 average rating
+3 years of hosting

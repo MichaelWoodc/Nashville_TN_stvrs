@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1114667019200235996
+Latitude: 36.0975
+Longitude: -86.71912
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome home to your Nashville getaway perfect for an extended stay.  Central location to everything that Nashville has to offer. An enclosed yard will ensure your dog as plenty of room to run. We love hosting travel nurses, families, business professionals, and anyone looking for a peaceful place to land as they make the transition to Music City. Located on a quiet, dead end street. Less than 15 min to Downtown, about 13 min to the Airport.
+
+The space
+2 bedroom 1 bath with an enclosed yard. Home is the upstairs unit of a duplex. This spacious upstairs home has a separate, private entrance and driveway. Bonus office room included. Apartment downstairs occupied by another tenant.
+
+Guest access
+You'll receive a smart lock code at check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 85158751
+Host Profile URL: https://www.airbnb.com/users/show/85158751
+Host Profile URL Source: public user permalink from passport userId
+Music and real estate.
+Lives in Nashville, Tennessee
+Response rate: 97%
+Responds within an hour
+Superhost
+10 years hosting
+156 reviews
+4.96 out of 5 average rating
+10 years of hosting

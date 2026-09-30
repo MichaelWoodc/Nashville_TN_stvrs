@@ -1,0 +1,18 @@
+.county-title-bar { display: flex; align-items: center; background: #222; min-height: 48px; position: relative; z-index: 30; }
+.county-title-bar h2 { flex: 1; font-size: clamp(15px, 2.5vw, 24px); }
+.county-menu { margin-left: 10px; color: white; }
+.county-menu summary { cursor: pointer; padding: 8px; }
+.county-menu nav { position: absolute; top: 100%; left: 10px; width: 230px; background: white; box-shadow: 0 3px 12px #0006; border-radius: 4px; padding: 6px; }
+.county-menu a, .county-menu button { display: block; box-sizing: border-box; width: 100%; padding: 12px; text-align: left; border: 0; background: white; color: #222; font: inherit; text-decoration: none; cursor: pointer; }
+.county-menu a:hover, .county-menu button:hover { background: #e8eef5; }
+.new-location-panel { position: absolute; z-index: 25; top: 65px; left: 50%; transform: translateX(-50%); width: min(350px, calc(100% - 32px)); box-sizing: border-box; padding: 14px; background: white; color: #222; border-radius: 6px; box-shadow: 0 3px 12px #0006; max-height: calc(100dvh - 150px); overflow: auto; }
+.new-location-panel input { box-sizing: border-box; width: 100%; padding: 8px; margin-top: 6px; }
+.new-location-panel button { padding: 9px; margin: 4px 4px 0 0; cursor: pointer; }
+.new-location-panel p { margin: 9px 0; font-size: 14px; }
+body.placing-new-location .filter-panel, body.placing-new-location .host-panel { visibility: hidden; }
+body.placing-new-location .maplibregl-canvas { cursor: crosshair !important; }
+
+/* Keep the menu entry visible against the dark map header. */
+.county-menu > summary { border: 3px solid #dc2626; border-radius: 0; }
+
+#newLocationAddressOptions { width: 100%; box-sizing: border-box; font: inherit; }

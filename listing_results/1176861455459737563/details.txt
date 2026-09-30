@@ -1,0 +1,88 @@
+URL: https://www.airbnb.com/rooms/1176861455459737563
+Latitude: 36.12555
+Longitude: -86.72532
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your cozy, stylish, and inviting Nashville themed condo in the charming neighborhood of South Nashville! Step into your charming 1st-floor unit and be greeted by a vibrant greenery accent wall adorned with a Nashville sign, setting the tone for your Music City experience. Come experience the warmth and hospitality of the Music City in this inviting space! Book now and make memories that will last a lifetime.
+
+The space
+A cozy living space with comfortable seating and a flat-screen TV for your entertainment.
+
+A fully equipped kitchen with modern appliances, perfect for preparing meals or enjoying takeout from local eateries. Also a complimentary coffee bar with name brand coffee available. 
+
+A plush bedroom with a queen-sized bed featuring a memory foam mattress and soft linens to ensure a restful night's sleep.
+
+A clean and spacious bathroom stocked with fresh towels and essential toiletries.
+
+Amenities to work remote: Dedicated workstation & High-speed Wi-Fi to keep you connected during your stay.
+
+Free parking available on the premises for your convenience.
+Centrally located in Nashville, you're only a short drive or a quick ride-share away from the bustling downtown area.
+
+Guest access
+All our properties include all of the essentials and needs to allow for a comfortable and enjoyable stay! The items listed below are provided in every single one of our properties:
+- Kitchen set includes: keurig coffee pods, dishwashing tablets, dish soap, laundry detergent pods, and basic household cleaners. 
+- The bathroom set includes: shampoo, conditioner and body wash. 
+- We'll also be sure to provide you with two (2) paper towel rolls per kitchen and two (2) rolls of bathroom tissue per bathroom.
+- All listed amenities are to be used at the guest’s risk. The homeowner and Skyline Property Management will not be held liable in any way for the trouble, danger, injury, or damages caused to the other party.
+- Unfortunately, additional items cannot be provided if requested as these are to kick-start your stay.
+
+Other Things To Note- Guest Amenities 
+o Kitchen
+o Toaster
+o Coffee Maker
+o Microwave
+o Blender
+o Cooking Essentials
+o Silverware
+o Plates, Bowls, Glasses, etc
+o Iron and Ironing Board
+o Hangers
+o Hair Dryer
+o Shampoo, Conditioner and Body Wash
+o Bed Linens
+o Extra pillows and Blankets
+
+Other things to note
+Guest Amenities : 
+o Fully Equipped Kitchen 
+o Toaster
+o Coffee Maker
+o Microwave
+o Blender
+o Cooking Essentials
+o Silverware
+o Plates, Bowls, Glasses, etc
+o Iron and Ironing Board
+o Hangers
+o Hair Dryer
+o Shampoo, Conditioner and Body Wash
+o Bed Linens
+o Extra pillows and Blankets
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katie
+Host User ID: 262326385
+Host Profile URL: https://www.airbnb.com/users/show/262326385
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+476 reviews
+4.86 out of 5 average rating
+2 years of hosting

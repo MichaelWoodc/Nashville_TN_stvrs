@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1234872167659222926
+Latitude: 36.1431
+Longitude: -86.8255
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Anchor down at Commodore's Quarters—a spirited 1 BDR, 1 bath apartment filled with Vandy pride in Sylvan Park! Just 1 mile from Vanderbilt and 2 miles from Lower Broadway, you're perfectly positioned for all the Nashville action. Unwind in the cozy outdoor space with Adirondack chairs and café lights. Whether you're here for school, work, or play, Commodore's Quarters is your home base for all things Vandy and beyond!
+
+The space
+Welcome to Commodore’s Quarters—your ultimate Vandy getaway, bursting with school spirit and Commodore pride! This stylish one-bedroom, one-bathroom apartment is decked out with custom Vanderbilt-inspired wallpaper in the kitchen and Vandy artwork throughout, setting the perfect tone for your stay.The bedroom features two queen beds, room-darkening curtains, and a ceiling fan to ensure a restful night’s sleep. The bathroom includes a combo tub/shower for a relaxing soak or quick refresh. Whip up some game-day snacks in the full kitchen, then enjoy them in the handsome dining area. After a day of exploring campus or Downtown Nashville, working hard, or cheering on the Commodores, kick back in the bright and spacious living room. The sofa even transforms into a bed, so you can host two more of your Vandy crew! Step outside to the community outdoor space, where you can unwind in Adirondack chairs under cafe lighting amid tasteful landscaping.  Easily ride your bike to Vanderbilt or take a walk/jog to Centennial Park using the Richland Greenway conveniently located at the end of the street.
+
+Guest access
+Guests have full access to the private apartment and shared outdoor spaces.
+
+Other things to note
+Please be aware that a freight train runs behind the apartment complex, operating irregularly, including during the night. While some guests may not be bothered by the noise, others may find it disruptive. If you are sensitive to noise, we recommend not renting this property.
+
+The train travels from Memphis to Nashville, but it does not blow its horn near the building, so you will mostly hear it as background noise. It is mostly obscured from view by vegetation. To help minimize disturbances, sound and light-reducing curtains and a sound machine are provided.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5524 reviews
+4.92 out of 5 average rating
+13 years of hosting

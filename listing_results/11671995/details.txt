@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/11671995
+Latitude: 36.19855
+Longitude: -86.67723
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming Mid Century house! Sleeps 10! Quiet neighborhood with rolling hills and sunset views. Feels like the country but minutes from everything Nashville has to offer. A mile to The Grand Ole Opry, 10 minutes to Downtown 3 Br. 1.5 bath. TN. State permit #201605233.
+
+The space
+Charming and  spacious Mid century home located in one of Nashville's hippest and most desirable neighborhoods. Sleeps 10+! 50s style and charm but with all recent upgrades. Super cozy and inviting house is located in a quiet neighborhood with rolling hills and sunset views. Feels like you are in the country but  you are minutes from everything Nashville has to offer. A mile to The Grand Ole Opry and 10 minutes to Downtown and Broadway. Park like environment within 2 miles of two of Nashville's premier golf courses and Two Rivers Park. 3 Bedrooms, 1.5 baths all new hardwood floors and spacious layout with two separate living rooms perfect for larger groups. Stainless steel appliances, dine in kitchen and additional separate Dining room as well. Tree lined street with massive flat grass backyard perfect for entertaining or relaxing. Just two exits away from the Airport for easy access and right between Briley Parkway and Lebanon pike and close to I-40 for quick access to anywhere you need to go. Shopping at Opry Mills one of Nashville's premier shopping malls, is just down the street and the brand new Crossings Shopping Center is just minutes from your door for groceries, restaurants and any thing else you could need. Convenience, value and easy access to all Nashville's sights are all combined with this home!
+
+Guest access
+The whole house and massive park like back yard is yours to enjoy and I provide a letter a week before with 24 hour Check in access!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 47346271
+Host Profile URL: https://www.airbnb.com/users/show/47346271
+Host Profile URL Source: public user permalink from passport userId
+Lives in Los Angeles, California
+Response rate: 100%
+Responds within an hour
+11 years hosting
+545 reviews
+4.8 out of 5 average rating
+11 years of hosting

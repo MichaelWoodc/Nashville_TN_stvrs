@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1251079841357957222
+Latitude: 36.1497
+Longitude: -86.7942
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy and stylish 1-bedroom apartment, perfectly located on Nashville's iconic Honky Tonk Row! This charming space features a comfortable queen bed, a fold-out couch for extra guests, and a fully equipped kitchen for those nights you want to stay in. With the best restaurants, bars, and live music venues all within walking distance, you’ll have the ultimate Nashville experience right outside your door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Apryl
+Host User ID: 555939923
+Host Profile URL: https://www.airbnb.com/users/show/555939923
+Host Profile URL Source: public user permalink from passport userId
+My work: Realtor
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+535 reviews
+4.87 out of 5 average rating
+3 years of hosting

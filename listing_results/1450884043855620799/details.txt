@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/1450884043855620799
+Latitude: 35.96644
+Longitude: -86.84893
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully detached guest house on twelve wooded acres in Franklin, ten minutes from Cool Springs and twenty five from downtown Nashville. Past the stone gate, the building is yours alone: private entrance, parking at the door, full kitchen with a Bosch induction range, and fast WiFi tested on video calls. Single level with 36 inch doorways and a low step shower. Quiet enough to work all week, close enough to be on Broadway by dinner.
+
+The space
+YOUR PRIVATE SANCTUARY
+
+The guest house sits on twelve wooded acres beyond a small private lane and our gated stone entrance framed by bamboo. It is a separate building with its own entrance and parking just steps from the door. We live in the main house and share the driveway with you. The buildings are far enough apart that we don't hear each other. Mature trees shade the house, so the light inside is soft and shaded most of the day.
+
+A gate code and two remotes will be waiting in the unit to make coming and going easy.
+
+SET UP FOR REMOTE WORK
+
+Many guests work during their stay, so we built for it. Fast WiFi tested for video calls and streaming. The building is all yours, making it easy to take calls and get real work done.
+
+A KITCHEN FOR REAL COOKING
+
+* 36-inch Bosch induction range with full-size oven
+* GE Café dishwasher drawers
+* Full-size refrigerator
+* Island with bar seating
+* KitchenAid stand mixer and baking sheets
+* Coffee station with drip coffee maker and kettle
+* Cookware and knives included
+* Stocked spice collection and baking supplies
+
+THE SPACE
+
+* Open living area with hardwood floors
+* Queen bedroom with a GhostBed mattress, Tempur-Pedic topper, adjustable base, and ceiling fan
+* Queen sleeper sofa with a Tempur-Pedic mattress
+* Full bathroom with walk-in shower and a dedicated makeup vanity
+* Powder room
+* Walk-in closet with custom built-ins, quality hangers, a shoe rack, and a full-length mirror
+* Stacked washer and dryer in the closet, with a folding counter, detergent, and stain spray included
+* Iron and pull-out ironing board
+* Everything on one level
+
+ACCESSIBILITY
+
+* 36-inch doorways to every room
+* Low step shower entry
+* Grab bars at the primary bathroom toilet and shower
+* Adjustable bed base in the bedroom
+* No stairs from parking to any room
+
+THE LOCATION
+
+Cool Springs is ten minutes away for groceries, restaurants, and shopping. Downtown Nashville is twenty-five minutes away for Broadway, live music, and the big venues. Downtown Franklin's Main Street, with its shops and restaurants, is even closer. You get the city when you want it and quiet when you're done.
+
+Guest access
+The entire house is yours to use
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elizabeth
+Host User ID: 179680747
+Host Profile URL: https://www.airbnb.com/users/show/179680747
+Host Profile URL Source: public user permalink from passport userId
+My work: Software Engineer
+Speaks English, Spanish, and Polish
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+78 reviews
+4.91 out of 5 average rating
+1 year of hosting

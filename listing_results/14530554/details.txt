@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/14530554
+Latitude: 36.16076
+Longitude: -86.70891
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious entirely PRIVATE suite with own entrance, bathroom and parking located 4.8 miles from downtown Broadway Nashville and 5.7 miles to the airport (both a 10 minute drive). Ten minute drive to family-friendly activities, nightlife, Nashville International Airport, Grand Ole Opry, Opryland, Music Valley Drive (Nashville Palace etc) Downtown, Nissan Stadium, Bridgestone Arena, Ascend Amphitheatre. Great for couples, solo adventurers, business travelers, and families. Hope to see you soon!
+
+The space
+The room and bathroom are an extension to the back of our house. They are both completely private with own entrance. The space is large and can easily accommodate four adults or family. Off-street Parking is available for one car. $10 extra per night per person after 2 guests.
+
+Guest access
+Guests are welcome to use/ walk around the yard during daylight. No access the main house. Parking for one car available on the driveway - please park up to fence and to the right.
+
+Other things to note
+We are quite close to the airport so occasional air traffic noise (but not at all loud).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicole
+Host User ID: 89842614
+Host Profile URL: https://www.airbnb.com/users/show/89842614
+Host Profile URL Source: public user permalink from passport userId
+Hello! I’m originally from the UK but been in Nashville almost 10 years! You’ll have a great time here!
+Lives in Nashville, Tennessee
+What makes my home unique: It’s like a little rustic cabin
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+572 reviews
+4.74 out of 5 average rating
+9 years of hosting

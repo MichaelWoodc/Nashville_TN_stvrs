@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/13064758
+Latitude: 36.1552
+Longitude: -86.67098
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly remodeled home in Donelson just minutes from the airport (1.5 miles), Downtown (7 miles), Grand Ole Opry/Land area (5.3 miles), Lakes and parks. Enjoy this centrally located Nashville area home- in the center of it all.  10-15 mins. to most all attractions -  Entire home is yours to enjoy with a large backyard for enjoying the outdoors!
+
+The space
+Our 1,100sq ft. home is complete with bedding/linens in 3 bedrooms, 1 bath and open floor plan with hardwood floors throughout.  Spacious backyard with deck for enjoying morning coffee or relaxing evenings.  We are close to downtown ( 7 miles to Broadway/1st Ave.)  Grand Ole Opry, Airport, 2 Lakes, and minutes from all major interstates. Enjoy everything Nashville has to offer and then come back home to relax in your very own home! 
+Bedroom 1: Queen bed
+Bedroom 2: Queen bed
+Bedroom 3: 2 Twin beds
+Flat screen TV with Cable, DVD player with some DVD's available, and wireless internet.  Open kitchen with all your cooking needs.  A washer and dryer and laundry detergent is also provided for your use.
+
+Guest access
+Entire House is yours to use.  We have a key-less entry for convenient check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carla
+Host User ID: 52349054
+Host Profile URL: https://www.airbnb.com/users/show/52349054
+Host Profile URL Source: public user permalink from passport userId
+We are born and raised local Nashvillians who love our city!  We like the outdoors, boating on our beautiful lakes, and traveling. We enjoy entertaining guests and love meeting new friends!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+10 years hosting
+157 reviews
+4.99 out of 5 average rating
+10 years of hosting

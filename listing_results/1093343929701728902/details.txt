@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1093343929701728902
+Latitude: 36.174
+Longitude: -86.7809
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! This newly remodeled, chic riverfront condo is in the perfect location! It sleeps 4, with a king bed and a queen sleeper sofa. Enjoy the fully stocked designer kitchen and have coffee, dinner or drinks on the balcony with river views. Free parking is included, and you'll have access to a pool, workout facility, laundry, fire pit, and grills. Conveniently located < 1 mile from Broadway and Titans Stadium, and a short walk to Sounds Stadium, breweries, restaurants, and parks.
+
+The space
+This newly renovated condo is perfect for your Nashville getaway!  The primary bedroom has a brand new bed and mattress, walk in closet, smart TV, and a beautifully designed bathroom. With the cozy queen sleeper sofa in the living room, it comfortably sleeps four guests, making it ideal for couples, small families, or a group of friends.
+
+The heart of the condo is its designer kitchen, fully stocked with everything you need to prepare meals during your stay. Whether you're brewing a morning coffee or whipping up a gourmet dinner, you'll appreciate the high-end appliances and thoughtful touches that make cooking here a pleasure. Step out onto the balcony to enjoy your meals or drinks with stunning river views—it's the perfect spot to relax and soak in the serene surroundings.
+
+As a guest, you'll enjoy a range of fantastic amenities. Take a dip in the pool, work out in the on-site fitness center, or take advantage of the laundry facilities to keep things fresh during your stay. The communal fire pit and grills provide additional opportunities for outdoor enjoyment, whether you're toasting marshmallows or grilling up a feast.
+
+Location is everything, and this condo delivers! You're less than a mile from the vibrant Broadway area, where live music, honky-tonks, and entertainment await. The Titans Stadium is also just a short stroll away, making it easy to catch a game or event. If you're in the mood for a more laid-back outing, you can walk to Sounds Stadium, explore local breweries, or take a leisurely walk through nearby parks. 
+
+Free parking is included, so you can easily explore all that Nashville has to offer, knowing that you have a secure spot to return to at the end of the day. Whether you're here to experience the city's famous nightlife, enjoy a sporting event, or simply relax by the river, this condo provides the perfect home base for your Nashville adventure.
+
+Guest access
+Guests have access to the entire condo, the pool, fitness center, laundry center, fire pit, and outdoor grilling and dining area.
+
+Registration Details
+Permit #: 2024034313
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 29657160
+Host Profile URL: https://www.airbnb.com/users/show/29657160
+Host Profile URL Source: public user permalink from passport userId
+I was born and raised in Lebanon, TN right outside of Nashville. I’m a busy mom of three children 5 and under which keeps me on the go! My husband and I own a real estate firm and also enjoy real estate investing. Owning and hosting vacation rentals is the perfect blend of two things I love, traveling to beautiful places and visiting beautiful homes!
+Lives in Lebanon, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+275 reviews
+4.92 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1472823818323849786
+Latitude: 36.235501148938575
+Longitude: -86.44454228312134
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into history at our vintage 1900s farmhouse, nestled on over 5 peaceful acres in Mt. Juliet, TN. Featuring original architecture, custom art, antique furnishings, and a stunning wall of Bible pages from 1888, this 5-bedroom retreat offers comfort, beauty, and balance. Enjoy quiet porches, jade-lined sinks, and a private drive. A serene escape just minutes from Nashville, perfect for rest, reflection, or reconnecting. Ideal for families to relax, explore, and make lasting memories.
+
+Guest access
+Stay out of the old Barn. This is a safety issue. Stay out of the garage. Stay out of the locket closets in the upstairs 3rd bedroom and upstairs bathroom.
+
+Other things to note
+If any linens or towels are stained, taken or ruined, you will be charged to replace them. If you break, steal, stain any of the collectables and furniture in the home you will also be charged. Do not try and remove the carbon monoxide or fire alarms in the home. They are hardwired in and removing them will result in a costly bill for you. 
+
+Please do not move furniture, window coverings, rugs, pictures, etc. around the home. You will be charged if we can't find items after your stay. 
+
+If you don't follow the rules on the checkout, you will also be charged an additional fee. If the property is deemed to need a deep clean after your stay, out of the ordinary cleaning services, excessive garbage, you will be charged the addition payment amount. 
+
+The owner reserves the right to file extra fees as needed to fix the property back to how it was when you got there. We do a full inventory after every stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angelina
+Host User ID: 225675025
+Host Profile URL: https://www.airbnb.com/users/show/225675025
+Host Profile URL Source: public user permalink from passport userId
+My work: Non-profit
+Lives in San Ramon, California
+Response rate: 100%
+Responds within an hour
+1 year hosting
+17 reviews
+4.59 out of 5 average rating
+1 year of hosting

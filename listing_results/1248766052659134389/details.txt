@@ -1,0 +1,92 @@
+URL: https://www.airbnb.com/rooms/1248766052659134389
+Latitude: 36.1201
+Longitude: -86.7932
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+3 Mi to Broadway | Stroll to Cafés & Shops | Remote Work Setup
+
+Discover the rhythm of Nashville from this bright and breezy, 1-bedroom, 1-bath vacation rental house. Whether sipping coffee at a local spot, hunting for vintage treasures, or cruising down Music Row, you’ll feel the city’s creative pulse around every corner. Back home, unwind on the deck, prepare a Southern-inspired dish, or catch up on business. Ready for fun? Downtown’s iconic live music scene is just a few miles away!
+
+The space
+CAZ10A001-2024055810
+
+SLEEPING ARRANGEMENTS 
+- Bedroom: 1 queen bed 
+
+MAIN FEATURES 
+- Smart TV w/ cable 
+- Dining bar 
+- Laptop workspace 
+- Deck & fully fenced yard
+
+KITCHEN 
+- Refrigerator, stove/oven, dishwasher 
+- Nespresso coffee maker (pods provided) 
+- Microwave, toaster, beer tap 
+- Dishware/flatware, cooking basics 
+- Trash bags & paper towels 
+
+GENERAL 
+- Free WiFi 
+- Keyless entry 
+- Central A/C & heating, ceiling fans 
+- Linens/towels, complimentary toiletries 
+- Washer & dryer, laundry detergent 
+
+FAQ 
+- 2 exterior security cameras (facing out) 
+- Homeowner on-site (main house) 
+
+ACCESSIBILITY 
+- 2-story home, 4 steps to enter 
+- Bedroom & full bathroom on 2nd floor
+
+PARKING 
+- Driveway in alley (2 vehicles)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Must be at least 25 years old to book
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+
+ADDITIONAL INFORMATION
+- This 2-story home requires 4 steps to enter; the bedroom and full bathroom are located on the 2nd floor
+- The homeowner lives on-site, in the main house with a separate entrance, and may be present during your stay
+- Your safety matters. This property features 2 exterior security cameras: 1 camera is on the front of the home facing the driveway and alley, and 1 camera is next to the front door facing the front entry area. These cameras are outward facing and record sound and video continuously while guests are in residence
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

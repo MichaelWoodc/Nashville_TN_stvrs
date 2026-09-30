@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1442245737246669681
+Latitude: 36.2744
+Longitude: -86.6711
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located 1 mile from Old Hickory Beach, 3 miles from Marina with boat rentals and restaurants. Peaceful neighborhood 5 miles from East Nashville,  14 miles from downtown. Living room has private entrance with a pullout bed that can be used as a third bedroom.
+
+￼ Music can be played pretty loud inside the house, and won’t disturb neighbors . Roku TV and pretty good JBL sound system. This is a budget friendly option for those who don’t want to break the bank just to be 5 miles closer to town.
+
+The space
+🚨Dog Owners🚨 
+The backyard is now fully fenced. Book with the confidence in knowing they are safe and secured in a large yard 🦮
+
+Guest access
+Whole house and yard
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric
+Host User ID: 700967292
+Host Profile URL: https://www.airbnb.com/users/show/700967292
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Musician
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+99 reviews
+4.95 out of 5 average rating
+1 year of hosting

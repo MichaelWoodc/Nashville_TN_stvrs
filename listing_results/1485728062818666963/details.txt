@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1485728062818666963
+Latitude: 36.1497
+Longitude: -86.7769
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish retreat in the Gulch, Nashville's trendiest neighborhood! This beautifully designed space blends vintage charm with modern comfort, offering the perfect base to explore the city's vibrant music scene. Just a short walk from iconic restaurants, boutique shopping, and Broadway's live music! Enjoy 5 star amenities- full gym, and a pool with a glass backdrop overlooking the heart of Nashville with views of landmarks like the Batman Building, Music City Center, plus more!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angel
+Host User ID: 712968172
+Host Profile URL: https://www.airbnb.com/users/show/712968172
+Host Profile URL Source: public user permalink from passport userId
+My names is Angel. I was Born and Raised in Charlotte, NC. I love spending time with loved ones, big into running and being a helping hand to others.
+Born in the 00s
+My work: Entrepreneur
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+36 reviews
+4.72 out of 5 average rating
+1 year of hosting

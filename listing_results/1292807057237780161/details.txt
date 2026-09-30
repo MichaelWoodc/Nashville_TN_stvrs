@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1292807057237780161
+Latitude: 36.1732
+Longitude: -86.7805
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our stylish downtown Nashville condo with stunning river views! Walk or Uber to Broadway, Nissan Stadium, Sounds Stadium, and top dining. 
+
+Perfect for live music lovers, foodies, and adventurers. 
+
+After exploring, relax in your well-appointed condo and watch the boats go by. 
+
+Enjoy free parking, pool access, and a riverfront firepit terrace — and did we mention the view? 
+
+Make this your home base for the best of Music City!
+
+The space
+Spacious 1BR condo with king bedroom + living room queen sleeper—sleeps 4 comfortably.    Pool plus free covered parking included. 1 mile to Broadway
+
+Guest access
+Full condo.
+Bedroom, living room, bathroom, kitchen.
+
+Plus common areas of pool, firepit terrace, pet relief areas, laundry.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Janine
+Host User ID: 592190228
+Host Profile URL: https://www.airbnb.com/users/show/592190228
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+20 reviews
+4.95 out of 5 average rating
+2 years of hosting

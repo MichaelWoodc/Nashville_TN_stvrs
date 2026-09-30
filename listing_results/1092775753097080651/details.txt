@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1092775753097080651
+Latitude: 36.1355
+Longitude: -86.7562
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Close to the calamity but private enough for a calm evening - this location alone is a must. A mere 10 minute drive to Broadway, with similar & shorter travels to other wonderful must-see's around town. Ride share miles stay low, and the free parking on premises makes bringing your own car or rental even easier. The interior itself offers modern arrangements & decor with a spacious, open layout with enough natural light to never need to hit a switch during the day. We can't wait to welcome you!
+
+The space
+This spacious condo is both charming and gorgeous. Your first steps up the stairs will lead you into the kitchen and living areas, where you'll find up-to-date appliances and amenities, including a full sized washer & dryer, a dining table that can accommodate six, as well as a 55" smart TV, and a pull out couch that includes a queen sized, premium mattress topper. You'll also find a stacked washer and dryer inside closet just left of the fridge. From there you'll head down the hall to a full sized bath, as well as the main level bedroom with a queen bed, smart TV and decent storage due to our custom built-in closet arrangement.  Around the corner you'll find the stairs that lead up to the primary bedroom as well as our patio lined with string lights and wicker patio furniture! In that bedroom you'll find another smart TV,  as well as two queen mattresses, and some of the best lighting in the entire home. You'll also find a master bath with a dual sink, and a closet big enough to live in.  
+
+Just outside - you'll spot a local coffee shop named Matryoshka which we highly recommend for your mornings! However, if you prefer to make the coffee yourself, we have a Keurig and provide plenty of pods.
+
+Surrounding the homes is a large, free parking lot. So it will be no trouble for you should your party be arriving in multiple vehicles. (Out of courtesy to our neighbors - We do ask to keep trailers out of the lot when at all possible.)
+
+Guest access
+The entirety of the condo is open for you to use! 
+We only ask that you not get into the storage locker in the primary closet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ross
+Host User ID: 263913809
+Host Profile URL: https://www.airbnb.com/users/show/263913809
+Host Profile URL Source: public user permalink from passport userId
+We love traveling and have just become hosts of our first Airbnb Properties.
+Born in the 50s
+My work: MD
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+208 reviews
+4.96 out of 5 average rating
+7 years of hosting

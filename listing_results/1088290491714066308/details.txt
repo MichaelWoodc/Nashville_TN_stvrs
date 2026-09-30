@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1088290491714066308
+Latitude: 36.153303769630575
+Longitude: -86.76345434209826
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Super Host & Entire Home and Gated Parking for 6 cars.  Our guests  will have access to a complete spacious kitchen, 2 Full Baths(Showers), 2 King bedrooms and 2 Queen Bedrooms & Living room space w/ 2 full size twin trundle beds if needed.  All our rooms are very large!  Enjoy our pickle ball court w/paddles, nets and balls incl.  Relax on our front porch with morning coffee or pre-gaming before walking to Bway (or $6 Uber ride). Well behaved small pets allowed for an addl fee. See details
+
+The space
+1929 Historic Home with Huge bedrooms and a front porch for sipping and relaxing!  Very close to downtown Broadway...so you can walk or $6 Uber ride.  Protect your vehicles with our Gated Parking as well at no extra cost. Big enough for 6 vehicles.  No more parking on the street!
+
+Within the gated back area we have a fire pit and chairs for you use. We offer Duraflame logs for an extra $12.00 per log should you wish to use. They are in the white crate on back porch.
+
+Guest access
+Entire Home is yours during the stay as well as the gated parking! and Includes 2 full bathrooms with showers.
+
+Within the gated back area we have a fire pit and chairs for you use. We offer Duraflame logs for an extra $12.00 per log should you wish to use. They are in the white crate on back porch.
+
+Other things to note
+Small well behaved dogs are allowed for a fee.  Please discuss with us before arrival.
+
+Within the gated back area we have a fire pit and chairs for you use. We offer Duraflame logs for an extra $12.00 per log should you wish to use. They are in the white crate on back porch.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pat
+Host User ID: 16672701
+Host Profile URL: https://www.airbnb.com/users/show/16672701
+Host Profile URL Source: public user permalink from passport userId
+Recently receiving Super Host status with airbnb was an achievement I am very proud of.  I grew up in Michigan and rode horses in 4H then lived in Tucson,Az.... love the desert and mountains and skiing.  Last 4 decades I raised my 3 children in Nashville Tn on a farm with chickens, horses, sheep and cattle.
+Born in the 50s
+Where I went to school: Michigan State
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+168 reviews
+4.89 out of 5 average rating
+9 years of hosting

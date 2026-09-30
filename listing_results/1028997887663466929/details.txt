@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1028997887663466929
+Latitude: 36.1737
+Longitude: -86.7983
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+An amazingly appointed home located just 1.5 miles north of Broadway (where the bars are) in Downtown Nashville. Thoughtful design touches will make your Nashville trip both comfortable and entertaining!
+A luxurious heated plunge pool is the center attraction in the backyard surrounded by perfect conversation zones and an outdoor kitchen.
+Views of Downtown Nashville from the 3rd floor patio gives that downtown vibe!
+Please be a respectful neighbor - No smoking and don't jump in the pool!
+
+The space
+This 3 story home has 3 bedrooms on the second floor. Two gorgeous rooms with King beds and one room with a stunning built in bunk bed holding two full mattresses. 
+A third floor living space has an amazing layout including a mini kitchen, 1/2 bath, and a large pullout queen bed from the cozy couch. Just outside this third floor room is the patio overlooking downtown!
+Hand painted murals throughout the property create a unique place you won't find anywhere else!
+
+Guest access
+Guests will have private access to the whole house and the backyard.
+
+Other things to note
+The pool can heat up to 100°!
+Heat for the pool can be turned on through contact with the owners and will require an hourly rate payment of $7/hour.
+No jumping in the pool please!
+There are two full baths; One being in the Primary Bedroom and the other in the 2nd floor hallway accessible to all.
+Bedrooms are arranged as follows: Two rooms have King beds. One room has a bunk bed with two Full beds. The third floor has a pull out Queen bed!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sean
+Host User ID: 146208401
+Host Profile URL: https://www.airbnb.com/users/show/146208401
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+93 reviews
+4.96 out of 5 average rating
+3 years of hosting

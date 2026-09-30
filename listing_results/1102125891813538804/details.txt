@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1102125891813538804
+Latitude: 36.1648
+Longitude: -86.7799
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fairlane Hotel
+Host User ID: 564495112
+Host Profile URL: https://www.airbnb.com/users/show/564495112
+Host Profile URL Source: public user permalink from passport userId
+Where timeless style meets modern sensibility, and service reigns supreme, the Fairlane hotel creates a beautiful and vibrant setting for your stay, with just the right balance of luxury and rebellious spirit. welcome to the music city — Nashville, Tennessee.
+Superhost
+3 years hosting
+220 reviews
+4.78 out of 5 average rating
+3 years of hosting

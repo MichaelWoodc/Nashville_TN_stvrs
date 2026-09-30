@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/14522963
+Latitude: 36.12525
+Longitude: -86.79094
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+While away balmy evenings on the porch with a sip of bourbon in the swing seat and take it slow at this high-end city hideaway. 
+
+This spacious 3 bedroom, 2 bath is in a wonderful location. This charming home is in the heart of the 12 South area, a short walk from Belmont and Vanderbilt.
+
+ It's located in the 12 South hood, a lively, yet quiet, walkable neighborhood close to downtown and Music Row, with plenty of shops, restaurants, bakeries, coffee houses, and bars just a short walk away.
+
+The space
+This spacious 3 bedroom, 2 bath is in a wonderful location. **Please note: The main house consists of 3 bedrooms, 2 baths, and is priced as such. There is actually an attached studio apartment out back with a separate/private entrance from 15th Ave. It's a wonderfully appointed complete unit you may view at "Explore 12 South from an Enchanting Cottage" (the cottage brings an additional charge.). These units share a back wall, but there is no access from one to the other. Both have beautiful hard wood floors throughout. This charming home is in the heart of the 12 South area, a short walk from Belmont and Vanderbilt.
+
+This accommodation is perfect for larger groups. If six, then the main house is perfect. If eight persons, then the cottage adds an additional space that gives one couple a private entrance and space, including a kitchen. If you desire the entire place for eight persons, simply book and we'll work out the details for the cottage.
+
+Guest access
+You'll have access to the entire 3BR house.
+
+Other things to note
+The house and cottage each have washer/dryer.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim & Suzy
+Host User ID: 2012989
+Host Profile URL: https://www.airbnb.com/users/show/2012989
+Host Profile URL Source: public user permalink from passport userId
+We moved from NYC to Nashville a decade ago and were delighted to open a couple of AirBnB rentals next door in the popular 12 South area. We've rented to vacationers over 25 yrs. It's what we do!  We're very hands on hosts, doing our own management.
+When you travel you want a place that's special. A place you want to come back to, whether you ever get to or not.  That's what we pride ourselves in offering. Your Nashville getaway should be memorable, and that starts with a cozy place you love!
+My work: Rivers Edge Cottages, Inc.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+870 reviews
+4.97 out of 5 average rating
+15 years of hosting

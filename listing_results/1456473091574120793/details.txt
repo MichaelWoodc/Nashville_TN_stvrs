@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1456473091574120793
+Latitude: 36.206405550847585
+Longitude: -86.81159115820256
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish home away from home just minutes from the heart of Nashville! This modern and spacious retreat offers unforgettable skyline views, especially from the private rooftop terrace - perfect for sipping morning coffee or enjoying an evening cocktail under the stars.
+
+The space
+Welcome to your perfect getaway!
+
+- Downtown Skyline Views
+- Rooftop Deck
+- 10 Beds with 4 full bathrooms, including a huge walk-in shower
+- Kitchen equipped with pots, pans, and coffee maker
+- Towels, linens, iron & board, hair dryer, washer/dryer, Wi-Fi.
+- Unique atmosphere for a night out on the town
+
+The space:
+Experience the vibrant energy of Nashville from this stunning vacation rental featuring new downtown skyline views. With a spacious rooftop deck, this property is perfect for groups or families looking to enjoy the city's nightlife and attractions. Accommodating up to 12 guests, it boasts 4 full bathrooms, ensuring ample space and comfort for everyone.
+
+The interior is designed for relaxation and convenience, making it an ideal home base for your Nashville adventure. With 10 beds, there's plenty of room for everyone to unwind after a day of exploring.
+
+Comfortable Accommodation:
+- 10 beds to accommodate large groups
+- 4 full bathrooms for convenience
+- Huge walk-in shower and vanity for easy preparation
+
+Interior Feeling:
+- Modern design with a welcoming atmosphere
+- Ample natural light throughout the space
+- Cozy living areas for relaxation and socializing
+
+Outdoor Bliss:
+- Rooftop deck with breathtaking skyline views
+- Perfect for enjoying evening sunsets or morning coffee
+- Ideal space for gatherings and celebrations
+
+Delightful Dining:
+- Fully equipped kitchen with all necessary amenities
+- Pots, pans, and storage containers provided
+- Coffee maker, wine glasses, and corkscrews available for your enjoyment
+
+Professional Cleaning:
+- Towels and linens provided for your stay
+- Iron and board, hair dryer, and washer/dryer included
+- Wi-Fi for entertainment and connectivity
+
+This property is perfect for those looking to immerse themselves in Nashville's lively culture. Whether you're here for music, food, or fun, you'll find everything you need for a memorable stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: M&W Property Management
+Host User ID: 552986316
+Host Profile URL: https://www.airbnb.com/users/show/552986316
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+36 reviews
+4.67 out of 5 average rating
+2 years of hosting

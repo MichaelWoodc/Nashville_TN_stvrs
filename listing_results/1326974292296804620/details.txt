@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1326974292296804620
+Latitude: 36.17799
+Longitude: -86.79004
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+LOCATION,  LOCATION, LOCATION
+★ Walk to broadway (1.3 miles)
+★ Fully detached house nestled in the heart of Nashville in the safe, vibrant, and bustling Germantown neighborhood, close to the best bars, fine dining, casual restaurants, and music
+★Nearby attractions: Broadway, Nashville Farmer's Market, Ryman Auditorium, Honky Tonks, Bicentennial Park,  Ascend Amphitheater, Bridgestone Arena,  Nashville Sounds
+★ Kitchen fully equipped 
+★ High speed internet
+★ 2 free parking spaces
+★ Washer & Dryer
+
+The space
+Master Bedroom 2nd floor:
+1 King bed with en-suite bathroom (tub/ shower combo), Roku TV, & massage chair 
+
+2nd Bedroom 2nd floor: 
+2 Queen beds with Roku TV
+
+Laundry Room 2nd floor 
+Washer & Dryer 
+
+3rd Bedroom 3rd floor: 
+1 King bed with en-suite bathroom (shower only), work space, and Roku TV
+
+Living Room 1st floor: 
+Queen-sized pull-out couch, half bath, and Roku TV
+
+Dining Room 1st floor: 
+Large dining table (seats 8-10) 
+
+Kitchen 1st floor
+Refrigerator, Freezer, Dishwasher, Microwave, Coffee maker(Keurig), Large countertop space, pots & pans, 
+
+Front porch patio 
+Multiple chairs
+
+Guest access
+You have full access to the property!
+
+The house is keyless entry and the 
+door code will be given to you upon arrival.
+
+Other things to note
+We have a ring doorbell security camera on the front door and back door. 
+
+We have free parking for 2 cars directly behind the house. Street parking is randomly available on the surrounding streets if you have more than 2 cars. The dedicated parking area behind the house is marked with 2 parking signs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brent
+Host User ID: 267683410
+Host Profile URL: https://www.airbnb.com/users/show/267683410
+Host Profile URL Source: public user permalink from passport userId
+Lives in Brentwood, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+61 reviews
+4.9 out of 5 average rating
+4 years of hosting

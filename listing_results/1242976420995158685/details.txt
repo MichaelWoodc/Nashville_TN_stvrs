@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1242976420995158685
+Latitude: 36.1943
+Longitude: -86.7635
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your East Nashville retreat — an ADA-accessible apartment 10 minutes from Broadway and the Opry, ideal for short or long stays. Fully equipped kitchen, dedicated work table, in-unit washer/dryer, toiletries, and warm neon and string lighting. The building offers free parking and a rooftop deck with seating, a fireplace, and downtown skyline views. Butcher & Bee, The Pharmacy, and Kroger are close by, and a coffee shop is next door. New smart thermostat (2026) holds your set temp.
+
+The space
+An ADA-accessible one-bedroom condo in East Nashville with a full kitchen, in-unit washer and dryer, a dedicated work table, and a warm neon-and-string-light vibe. The building's rooftop deck has seating, a fireplace, and downtown skyline views. A coffee shop sits right next door, and downtown and Broadway are about 10 minutes away.
+
+Guest access
+The apartment is all yours, plus access to the building's rooftop deck. Smart-lock self check-in and parking for 1 car.
+
+Other things to note
+Maximum 1 pet allowed with a $55 non-refundable pet fee.
+
+Registration Details
+2024080474
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rupa
+Host User ID: 24554768
+Host Profile URL: https://www.airbnb.com/users/show/24554768
+Host Profile URL Source: public user permalink from passport userId
+I'm Rupa — owner of Sedona Haven Rentals and a fun-loving traveler who's explored 50+ countries and counting. I'm passionate about working out, eating healthy, and constantly learning new things. My love for travel inspires how I design and set up our vacation
+  rentals — focusing on comfort, functionality, and what guests truly need for a great stay.
+My work: Owner/ Property Mgr
+Most useless skill: Half of my brain filled with song lyrics
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+366 reviews
+4.96 out of 5 average rating
+5 years of hosting

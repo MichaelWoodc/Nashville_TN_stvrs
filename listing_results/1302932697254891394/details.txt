@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1302932697254891394
+Latitude: 36.2417
+Longitude: -87.0231
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover your perfect Nashville trip nestled in the hills. Here, you can unwind amidst nature with hiking, kayaking, and fishing on the Cumberland River, all while being just a short drive from Nashville's renowned dining and entertainment scene. Our property offers the ideal setting for cozy evenings: grill up a feast on the BBQ smoker or griddle, gather around the fire pit, set the mood with outdoor music, and enjoy the creek flowing through the backyard. We also have kayaks available for rent
+
+The space
+This cozy 2-bedroom, 1-bathroom space features its own back entrance and a lovely covered patio. We've set up the outdoor area with patio lights and surround sound so you can fully enjoy the peace and quiet of our 2-acre property. Upstairs, resides a young family with two kids and two friendly dogs, so you'll likely see them around the property. While we aim to be mindful, please expect to hear the normal, happy sounds of a young family living overhead at times.
+
+Guest access
+You’ll have access to the entire apartment. 
+
+The only thing we do not provide access to right now, is the garage.
+
+Other things to note
+Important Information for Your Stay:
+To maintain a comfortable environment for all, smoking and parties are not permitted on the premises.
+
+Understanding the Property:
+Our property is a duplex with two distinct units. You will be staying in the completely private basement apartment. The upstairs unit is home to a wonderful young family, including two children and two friendly dogs. While we aim for a peaceful environment, please anticipate that you may hear the cheerful sounds of family life from the unit above during your stay. Our friendly dogs are often out on the property and happy to say hello!
+
+Parking is a one car driveway but with plenty of area on the asphalt and grass area for at least two vehicles. Please do not park in the entrance to the driveway, as it's the only way in and out of the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bronson
+Host User ID: 200586448
+Host Profile URL: https://www.airbnb.com/users/show/200586448
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Syracuse - Utah
+Superhost
+2 years hosting
+13 reviews
+5.0 out of 5 average rating
+2 years of hosting

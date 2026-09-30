@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1278971010007902620
+Latitude: 36.19266135390073
+Longitude: -86.75942003896422
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new build is located 2 miles from Broadway in East Nashville's Cleveland Park neighborhood walking distance to local coffee shops, breweries, and restaurants. Its also a minute away from highway entrance & exit access making it a quick uber to anywhere in the city. It features a cozy king bed, bathroom, kitchen with brand new appliances, Keurig duo coffee machine, ninja blender, swivel mount smart tv, washer & dryer, closet, dresser, fenced in yard, & two driveway parking spots.
+
+The space
+The private rental unit includes access through the alley with two driveway parking spots and a private fenced in yard. It is a private unit (not attached to any other units)
+
+Guest access
+Guests will be given a door code prior to check in to use during their stay.
+
+Other things to note
+Early check in & late check out may be available upon request depending on other bookings. If that’s not possible we can most likely accommodate storing luggage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicole
+Host User ID: 659722185
+Host Profile URL: https://www.airbnb.com/users/show/659722185
+Host Profile URL Source: public user permalink from passport userId
+Hello! I’m Nicole, originally from Michigan and now living in Nashville with my husband Alec. We love to travel and are hosts so we are very respectful to our guests & fellow hosts!
+Where I went to school: Michigan State University
+My work: Mechanical Engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+68 reviews
+5.0 out of 5 average rating
+2 years of hosting

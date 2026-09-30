@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1208997760048171954
+Latitude: 36.1859
+Longitude: -86.7378
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish apartment is in the heart of East Nashville, a vibrant neighborhood known for its fantastic restaurants, cozy coffee shops, and lively entertainment spots. Minutes from downtown, you'll have easy access to Nashville's music, nightlife, and cultural attractions while enjoying the charm of a residential area.
+
+Whether you're here for a weekend getaway, a business trip, or an extended stay, this East Nashville apartment offers the perfect blend of comfort, convenience, and local charm.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandon
+Host User ID: 411028411
+Host Profile URL: https://www.airbnb.com/users/show/411028411
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+65 reviews
+4.98 out of 5 average rating
+2 years of hosting

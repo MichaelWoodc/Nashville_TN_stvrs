@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1053020494317619085
+Latitude: 36.16343
+Longitude: -86.65938
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Brand new 4 bedroom home with modern elegant furnishings and a hidden Speakeasy. 3 miles to airport, 5 miles to Opryland Convention Center and 8 miles to Broadway. 
+
+This home is spacious and can comfortably sleep up to 10 people. Have all the girls get ready in the glam room,  have cocktails in the hidden bar, or enjoy the patio for a morning coffee.
+
+This home is perfect for bachelorette’s, large groups, or business stays for Opryland.
+
+We're a No Chores Airbnb, making for an easy checkout.
+
+The space
+A brand new townhome decorated for a truly unique and beautiful stay. Lavish wallpapers, beautiful chandaliers, two dedicated vanity rooms for multiple people to get ready in, luxurious bedrooms, a balcony patio, a spacious layout 
+& a hidden bar will make this a stay you won't forget.
+
+Includes everything you would expect on a great trip, high-speed fiber internet, Smart TV's in every room, kuerig with starbucks coffee,
+memory foam beds, a full kitchen with granite countertops, and spacious bathrooms and showers.
+
+Just a few minutes away from Nashville hot spots and the airport, the home is also conveniently located to grocery stores and local favorite restaurants, within two miles there is target, publix, Edly's BBQ, Party Fowl Hot Chicken, Tennfold Brewery, Nicoletto's Pasta, and multiple local coffee shops!
+
+We are a no chores airbnb, just lock the door when you leave.
+
+For larger parties please inquire about our sister unit next door!
+
+Guest access
+The home has a smart lock and guest will receive a code for the front door.
+
+Registration Details
+4432133
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Micah
+Host User ID: 443620723
+Host Profile URL: https://www.airbnb.com/users/show/443620723
+Host Profile URL Source: public user permalink from passport userId
+My husband & I are excited to share our Air BNB with you! We are Nashville locals and happy to answer any questions you may have about the area. We hope you enjoy your stay!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+297 reviews
+4.92 out of 5 average rating
+5 years of hosting

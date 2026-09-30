@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/868206849507861399
+Latitude: 36.1243
+Longitude: -86.7988
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 11
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Dolly-themed Airbnb just a few minutes walk from the high-end shops and restaurants of 12 South, a 5 min Uber to midtown and 10 min to downtown! Located on one of the nicest and most beautiful streets in town, this unit is safe, quiet and convenient. It is 1,700 square foot, has 3 bedroom, 2 bathrooms and ample indoor and outdoor space for up to 11 guests. There are 2 kitchens, a W/D, off street parking, a private outdoor courtyard and a hot tub!
+
+The space
+This unit is the entire lower level of my 1950’s cottage renovation. It has its own private entrance and is 1,700 square feet, has 3 bedrooms, 2 baths, a living room, 2 kitchenettes, 2 large outdoor spaces and a hot tub. This space is spacious and light and is brand new construction. Bedroom 1 has a King bed, bedroom 2 has a Queen bed and a single over full bunk. Bedroom 3 has a Queen bed and sofa bed. There is also a sofa bed in the living room, as well as a single blow up mattress and a pack-n-play.
+
+Guest access
+Guests have their own private entrances to the home on the side of the home next to a private parking pad. They can enter through a private courtyard as well as through the side yard of the property.
+
+Other things to note
+There are 2 refrigerators, 2 sinks and 2 dishwashers in the unit as well as a microwave. The house is within walking distance of dozens of restaurants. There is also a washer/dryer in the unit!
+
+*Early check in/ Late check out* - I am happy to accommodate an early check in or late check out, when possible. Please message me with the details of your request and I will try to accommodate it!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daphne
+Host User ID: 482133442
+Host Profile URL: https://www.airbnb.com/users/show/482133442
+Host Profile URL Source: public user permalink from passport userId
+Hi I’m Daphne and I’m a real estate developer, songwriter and  most importantly a mom of 3!
+Where I went to school: University of Alabama - MBA
+My work: RE Developer
+Response rate: 90%
+Responds within an hour
+Superhost
+3 years hosting
+92 reviews
+4.82 out of 5 average rating
+3 years of hosting

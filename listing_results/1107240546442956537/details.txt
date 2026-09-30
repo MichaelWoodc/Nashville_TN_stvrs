@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1107240546442956537
+Latitude: 36.28317
+Longitude: -86.50028
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the serenity of The Cozy Cabin, a luxurious retreat just across the street from Old Hickory Lake. There is an access area where you can launch your boat, kayak, swim, hike, and picnic. This cabin offers a loft with a King bed, and a Queen bed in the downstairs bedroom, living room, and full bathroom and kitchen. The charming cabin features a wraparound deck, firepit, and offering the perfect blend of comfort for a relaxing getaway. We are pet-friendly!! NEW HOT TUB!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kassidy
+Host User ID: 517568396
+Host Profile URL: https://www.airbnb.com/users/show/517568396
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+241 reviews
+4.83 out of 5 average rating
+3 years of hosting

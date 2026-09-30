@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/649476060506182345
+Latitude: 36.1322
+Longitude: -86.76655
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 6
+beds: 14
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+These two homes are only 10 minutes from Broadway and steps away from Geodis Park (home to Nashville's MLS Team, Nashville SC). The homes features garages with arcade games, TVs, a movie room and three holes of mini-golf, making it the ideal location for adults and kids alike. The homes can sleep 20 people and has 14 beds.
+
+The space
+The homes are three floors and a tad over 2,000sf. The first floor is home to one bedroom and the garage. The second floor contains the kitchen, living room, balcony, daybed and half bath. The third floor features two bedrooms, makeup room, and laundry room. Every bedroom has its own closet and ensuite bathroom. The property has high-speed WiFi and TVs in each bedroom. Additionally, we provide guests with standard kitchen appliances, k-cups, pots and pans, shampoo, conditioner, soap, hair dryers, iron and iron board, cleaning supplies, laundry detergent, toilet paper, makeup towels, paper towels and other home/travel essentials. We have you covered!
+
+PLEASE NOTE: These are two separate homes, but they are located right next to each other. They have the same floorplan.
+
+Guest access
+KEYLESS ENTRY - The front door is secured with a smart lock. You will receive a code that is valid for the duration of your stay prior to check-in. There will be a lockbox on-site with a physical key in the event of a smart lock failure.
+
+PARKING - There is room for two spots directly behind each garage. Please see the picture with the highlighted areas showcasing the free parking available to guests. 
+
+KITCHEN CLOSET - There is a locked closet in the kitchen used for storage and will not be accessible to guests.
+
+Other things to note
+We are the following minutes away from these destinations by car:
+- 6 minutes from Broadway, Ryman Auditorium, Nissan Stadium, Country Music Hall of Fame & Bridgestone Arena
+- 14 minutes from Grand Ole Opry & Opry Mills Mall
+- 10 minutes from the Nashville International Airport (BNA)
+- 2 minutes from Geodis Park (Home to Nashville SC)
+- 5 minutes from Belmont University
+- 6 minutes from Vanderbilt University
+
+PET FRIENDLY - We are pet-friendly hosts; however, we must be informed of all pets occupying the property prior to your stay. An additional $100/pet cleaning fee will be administered for your stay. Any evidence of unregistered pets in the house or on the property will result in a $250 fine. Service animals are not considered pets and are not subject to the pet fee (with appropriate documentation); however, emotional support animals are considered pets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cully
+Host User ID: 236657857
+Host Profile URL: https://www.airbnb.com/users/show/236657857
+Host Profile URL Source: public user permalink from passport userId
+Hello my name is Cully and I've been a Nashvillian for about 5 years now. I've been using Airbnb for about 7 years and have been hosting for 3 years now. I currently live here in town with my Saint Bernard named Hank. In my free time you can usually find me watching my favorite teams (Cubs, Colts, and University of Illinois), going out to eat with friends, or traveling all over the country. 
+
+I love to spend time traveling the world so if you have any recommendations I'd love to hear them!
+
+Please reach out to me with any and all questions you have about my houses or anything Nashville!
+My work: Innovacation Properties
+Speaks English
+Response rate: 100%
+Responds within an hour
+7 years hosting
+413 reviews
+4.83 out of 5 average rating
+7 years of hosting

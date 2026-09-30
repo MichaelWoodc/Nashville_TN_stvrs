@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1497807851079189941
+Latitude: 36.1926
+Longitude: -86.8316
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Songbird Social – Spacious 5BR/5BA Nashville retreat with a private rooftop hot tub, BBQ grill, and skyline views. Features 6 Queens and 1 King across two stylish living areas. Located minutes from Broadway and Germantown—perfect for large groups, families, and Music City adventures!
+
+The space
+Welcome to Songbird Social! This vibrant retreat features 5 spacious bedrooms, 5 full baths, 6 queen beds, and 1 king bed—perfect for groups up to 12. Enjoy two stylish living areas and an expansive private rooftop deck with a hot tub, BBQ grill, and skyline views. Located minutes from Broadway and Germantown. Guests also receive exclusive VIP access, discounts, and custom arrangements for luxury local transit and boat rentals!
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

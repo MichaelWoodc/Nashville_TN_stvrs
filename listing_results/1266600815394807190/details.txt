@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1266600815394807190
+Latitude: 36.19592128316371
+Longitude: -86.83348931378605
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home in Nashville! This charming ADU offers a cozy retreat perfect for month-long stays. Enjoy a fully equipped kitchen, spacious living area, and private outdoor space to relax after exploring the city. Located just minutes from downtown, you'll have easy access to Nashville's vibrant music scene, delicious dining, and local attractions. Ideal for remote work or a long getaway, this peaceful hideaway combines comfort and convenience for an unforgettable stay.
+
+The space
+Step into the inviting living room, where comfort meets style. Relax on the cozy couch while enjoying your favorite shows on the 50" TV, perfect for movie nights or catching up on your favorite series. A sleek table offers space for meals or work, making it versatile for all your needs. With plenty of room to move around, the bright, airy atmosphere creates a welcoming space to unwind or entertain. Whether you're here to relax or explore, this living room is the ideal spot to recharge after a day in Music City.
+
+Retreat to the serene bedroom featuring a plush queen bed, perfect for a restful night's sleep. Soft linens and comfortable pillows ensure you wake up refreshed and ready to explore Nashville. With cozy décor and thoughtful touches, this space invites relaxation. Whether you're winding down after a busy day or enjoying a quiet morning, this bedroom provides a peaceful escape tailored for your comfort.
+
+Though space is limited, the kitchen is equipped with all the essentials for light meal prep, including a stovetop, microwave, fridge, and basic cookware. Perfect for preparing breakfast or quick snacks! If you're not in the mood to cook, you'll love the location—situated just steps away from a wide variety of amazing restaurants, cafés, and takeout spots. Whether you're craving local flavors, international cuisine, or comfort food, you'll have countless options at your doorstep. Enjoy the convenience of dining out while having the option to whip up something small at home!
+
+Guest access
+This ADU is located at the rear of the property. The driveway leading to the ADU is the long drive to the left of the main house. There is a tall privacy fence separating the rear yard of the main house from the space dedicated to the ADU. Please note, access to the rear yard of the main house inside the tall privacy fence is NOT allowed. Also, parking for the main house is in the front of the main house. Parking for this ADU is in the rear of the property, at the end of the long drive. If you have a very wide vehicle, please notify us beforehand as this may make accessing the ADU difficult or impossible. The main house operates as a short term rental, so there are frequent changes of guests at this house. Guests of both properties are expected to be courteous neighbors. Our cleaning team will use the main house parking area when they are on site cleaning the main house, but will need periodic short term access to the driveway to clean the rear yard of the main house. Guests of the ADU accept this shared use of the space.
+
+Other things to note
+Enjoy our lightning fast high speed internet service, perfect for streaming the free YouTube TV with DVR, your own Netflix/Amazon/Disney+ account, or using Zoom for work..
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 475703522
+Host Profile URL: https://www.airbnb.com/users/show/475703522
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+202 reviews
+4.81 out of 5 average rating
+4 years of hosting

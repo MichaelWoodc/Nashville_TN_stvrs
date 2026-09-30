@@ -1,0 +1,82 @@
+URL: https://www.airbnb.com/rooms/1123431402183660494
+Latitude: 36.15587
+Longitude: -86.69049
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your newly renovated 3 bed, 2 bath East Nashville home featuring 3 Kings, 3 king size beds so every guest can feel like royalty. Just 10 minutes to the airport and 15 minutes to Broadway, plus a short drive to Opry Mills, Nashville Shores, and great local restaurants like Nectar’s Urban Cantina.
+
+Relax with the whole family in this comfortable, clean home and enjoy all the live music, food, and fun that the city has to offer. You will definitely feel like a king during your stay.
+
+The space
+Master Suite:
+1 king size bed, tile shower, garden tub, extra twin size bed, and crib.
+
+Guest Rooms:
+Each of the two guest rooms has 1 king size bed. The second full bath is located in the hallway between the two guest rooms. Extra amenities include a desk or makeup vanity, baby crib, high chair for infants, and keyless entry.
+
+Pets:
+Dogs are allowed on a case by case basis with an additional cleaning fee of $125. No pets over 30 lbs. Breed restrictions apply. The pet fee will be added to the reservation after booking if not added at the time of reservation. No cats allowed.
+
+Check In:
+Contactless check in. Please notify the host of your expected arrival time. If making a same day booking, please check with the host regarding check in time. The cleaning schedule may be delayed for same day check ins or same day turns.
+
+Important Policies:
+We do not host locals to Nashville. Any local bookings made without contacting the host for prior approval will be canceled without refund. Absolutely no parties.
+
+Accessibility:
+The steps into the house are approximately 5.5 inches and 7.5 inches. Once inside, the home is all one level. If you have any wheelchair or accessibility questions, please contact us before booking.
+
+Amenities:
+Free WiFi
+Free parking
+Smart TV
+Keyless check in
+Complimentary coffee bar
+Washer and dryer
+Linens and bathing essentials provided
+
+House Rules:
+No smoking or vaping inside the home
+No unauthorized guests
+No parties
+Any damages will be charged
+
+You will be staying in someone’s home, so please treat it with care and respect.
+
+We cannot wait to host you and help you create lasting memories with your family and friends. Reserve your stay today and experience Nashville for yourself.
+
+Guest access
+The entire home.  Keyless entry.
+
+Registration Details
+2021036440
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 310719605
+Host Profile URL: https://www.airbnb.com/users/show/310719605
+Host Profile URL Source: public user permalink from passport userId
+I'm passionate about creating cozy, welcoming spaces where guests can relax and feel at home.  I love sharing the best of what this city has to offer, and I’ve designed my space to be a comfortable, stylish home base while you explore. Whether you’re hitting Broadway or looking for quiet spots off the beaten path, I’m happy to share local tips. Can’t wait to host you!
+Fun fact: I am in the Orchid Society
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+122 reviews
+4.84 out of 5 average rating
+2 years of hosting

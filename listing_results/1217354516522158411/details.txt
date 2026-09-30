@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1217354516522158411
+Latitude: 36.1164
+Longitude: -86.76897
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our cozy two-bedroom home in Berry Hill, one of Nashville’s most vibrant neighborhoods. Perfect for remote work, it features a spacious office and a rooftop patio for morning coffee or sunset views. Just 10 minutes from downtown and 3 minutes from Geodis Park, you’ll have easy access to the city's best attractions. A two-car garage ensures hassle-free parking. Book now for a comfortable and convenient stay!
+
+The space
+Two bedrooms, each with a private bath. A downstairs office features a futon and half bath. The open-concept kitchen, dining, and living area provide plenty of space to relax. Enjoy the rooftop patio, karaoke machine, and double-car garage for a fun and comfortable stay!
+
+Guest access
+You'll have the entire home to yourself.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Murat
+Host User ID: 502215348
+Host Profile URL: https://www.airbnb.com/users/show/502215348
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 94%
+Responds within an hour
+Superhost
+2 years hosting
+326 reviews
+4.9 out of 5 average rating
+2 years of hosting

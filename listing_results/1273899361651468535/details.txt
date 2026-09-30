@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1273899361651468535
+Latitude: 36.13480851347454
+Longitude: -86.75641818111963
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into a warm, whimsical stay inspired by all things chocolate. Completed in 2025, this thoughtfully designed condo blends playful charm with modern comfort—perfect for couples, friends, or solo travelers.
+
+Located just a few doors down from local favorites like Poppy & Peep Chocolate, Matryoshka Coffee, and Gladly Gather -  you’ll be staying in one of Nashville’s most creative and flavorful pockets.
+
+The space
+Our thoughtfully designed one-bedroom space offers everything you need for a cozy, comfortable stay whether you’re here to explore, unwind, or work remotely.
+
+The Bedroom
+The serene bedroom features a comfy queen bed, closet or hanging space for your clothes and suitcase, and blackout curtains with roller shades to ensure a restful night’s sleep. You’ll also find nightstands with lamps and earplugs tucked inside for added comfort.
+
+Bathroom
+The clean, modern bathroom includes a shower, fresh towels, shampoo, conditioner, body wash, and a hair dryer for your convenience.
+
+Kitchen
+The fully equipped kitchen has everything you need to prepare a meal or reheat your favorite takeout. It includes a Smeg fridge, stove, microwave, coffee maker, and essential cookware. We also provide coffee, tea, olive oil, and basic spices.
+
+Living Area
+The cozy living space includes a queen sleeper sofa, a smart TV with streaming access, and a dining table that’s great for meals or remote work.
+
+Outdoor Space
+Guests have access to picnic benches just outside—perfect for your morning coffee or a casual meal with friends. (Fun fact: I’m on the HOA board and helped make those happen.)
+
+Extras
+Enjoy fast WiFi for streaming or remote work, as well as heating and air conditioning to keep you comfortable year-round.
+
+Guest access
+Guests have full access to the entire apartment during their stay. This includes the bedroom, bathroom, kitchen, living area, and any outdoor shared spaces.
+
+The only off-limits area is the small utility closet where the water heater is located. Otherwise, the space is all yours to relax and enjoy!
+
+Other things to note
+Designed by Evane Stoner Interiors, a host & local expert who brings Nashville charm and chocolate dreams together in this one-of-a-kind space. As a native to the area, thoughtful touches blend modern comfort with the rich history of chocolate, reflected in unique artifacts from Projet Chocolat, a true curator of chocolate.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evane
+Host User ID: 22693763
+Host Profile URL: https://www.airbnb.com/users/show/22693763
+Host Profile URL Source: public user permalink from passport userId
+Hey there, I’m Evane (like Evan) and I love hosting on airbnb! I have a chocolate company called Poppy & Peep
+Born in the 90s
+My work: Chocolatier
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+417 reviews
+4.97 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1022594018018881433
+Latitude: 36.23311
+Longitude: -87.03801
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sleeps up to 8 people in 4 queen beds. Swim in the resort style gunite swimming pool with swim up bar, infinity edge sitting area and swim up bar. Spa is open year round. Pool is open March 1 through September 15. Architecturally inspired cupola and spacious windows let in tons of natural light. Enjoy the complimentary kayaks (4 included) or just relax at the boat dock. This is a unique place only 20 minutes to Nashville restaurants and nightlife
+
+The space
+This a completely detached guesthouse. Upstairs and downstairs included. Upstairs is a beautiful space with full kitchen (granite countertops, dishwasher, fridge, stove) queen bed with memory foam mattress, pull out queen sofa bed with memory foam mattress, walk-in shower with 2 vanities. Huge flatscreen tv and back deck with sitting area overlooking the lake
+
+Downstairs is completely separate and has a 2 queen beds. This has another large flatscreen tv, heat and air conditioning, and a workout gym with free weights and treadmill. Please keep in mind anyone sleeping downstairs will need to go upstairs to use the bathroom.
+
+The resort style pool is yours to enjoy. A boat dock with kayaks are included for you to use
+
+Guest access
+Entire 2 levels of the detached guesthouse
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 502633657
+Host Profile URL: https://www.airbnb.com/users/show/502633657
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+32 reviews
+4.91 out of 5 average rating
+4 years of hosting

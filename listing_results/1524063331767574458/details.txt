@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/1524063331767574458
+Latitude: 36.16233
+Longitude: -86.80662
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to The Herman Haven, a vibrant boho-chic Nashville retreat for 10! Less than 2 miles from downtown Broadway. This unique home features a private en-suite bathroom for every bedroom, ensuring ultimate comfort. Gather in the photo-worthy living space or unwind in your private backyard oasis with a 7-person hot tub, fire pit, and BBQ. Perfect for groups seeking a stylish Music City getaway just minutes from Broadway.
+
+The space
+Welcome to The Herman Haven, your professionally redesigned boho-chic retreat in the heart of Nashville, comfortably accommodating groups of up to 10. The home's bold, colorful décor and luxurious finishes create a truly memorable setting for your getaway.
+
+The open-concept living area is the ideal spot to gather, complete with fun neon signs perfect for photos. Amenities include a SmartTV, sound system, fast WiFi, a dedicated workspace, and a selection of board games.
+
+Private Backyard Oasis
+Step outside into your private, fully-fenced backyard, a perfect urban oasis for making memories. Enjoy Nashville's beautiful evenings with:
+ A luxurious 7-person hot tub
+ A cozy gas fire pit lounge area
+ A charcoal BBQ grill under a charming pergola
+ Comfortable sun loungers
+
+Bedrooms & Bathrooms (Sleeps 10)
+Each bedroom is a private haven featuring plush cotton linens, room-darkening shades, and a dedicated en-suite bathroom for ultimate convenience.
+ Ground Floor: Queen bedroom with an en-suite bathroom.
+ Second Floor: King bedroom with a private balcony and en-suite bathroom.
+ Second Floor: Bunk room with two sets of twin bunks (4 beds total) and an en-suite bathroom.
+ Living Room: A comfortable sofa bed that can be configured as a king or two single beds.
+
+Kitchen & Dining
+Our fully-stocked kitchen has everything you need to prepare delicious meals or a quick morning coffee before you explore.
+ Major Appliances: Refrigerator, stove, oven, microwave, dishwasher.
+ Small Appliances: Blender, toaster, and a Nespresso coffee machine.
+
+Guest access
+Guests will have private and exclusive access to the entire home, including the front and back entrances and the fully-fenced backyard. For your convenience, luggage drop-off is allowed to make your arrival day smoother. A few closets are locked for owner storage and are not accessible to guests.
+
+Other things to note
+Booking Process
+To comply with local regulations and ensure a secure stay, our booking process includes a signed rental agreement, ID verification, and a security hold of $1500. This is a temporary hold, not a charge, and is released after your stay, provided no damage occurs. As an alternative, you may purchase an optional, non-refundable damage waiver for $59. This secure process is managed through a guest portal, which will also provide you with all your check-in details and our favorite local recommendations.
+
+Safety & Security
+Your safety is our priority. The property is equipped with:
+ Exterior security cameras (one facing the front entrance, one facing the backyard) and a doorbell camera. These record video and audio for your security and do not have a view of any interior spaces.
+ Smoke detectors, CO detectors, a fire extinguisher, and a first aid kit.
+We advise guests to avoid leaving valuables in vehicles, as car break-ins can be common in the city.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Spencer
+Host User ID: 162780157
+Host Profile URL: https://www.airbnb.com/users/show/162780157
+Host Profile URL Source: public user permalink from passport userId
+As a touring musician, I deeply value the comfort of a thoughtful, well-designed space. I design my properties with the same care I want for myself—meaningful details, quality products, clean design, and everything you need to feel at home. Each property is crafted as a world with a concept, where every detail works together to create comfort, simplicity, peace of mind, and genuine hospitality.
+My work: Music
+Lives in Los Angeles, California
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+62 reviews
+4.94 out of 5 average rating
+11 months of hosting

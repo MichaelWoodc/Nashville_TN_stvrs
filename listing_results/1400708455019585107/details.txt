@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1400708455019585107
+Latitude: 36.24821991776225
+Longitude: -86.73618102373246
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This modern, three-story is your group’s home away from home! Located just minutes from Nashville’s top attractions, it’s perfect for groups, families, and anyone here for the music & energy of the city.
+
+bedroom 1 - king bed with private bathroom
+bedroom 2 - full over full bunk bed with private bathroom
+bedroom 3 - two queen beds with private bathroom
+bedroom 4 - two queen beds with private bathroom
+
+Every room has a TV, there’s a private garage, and the rooftop deck is perfect for unwinding!
+
+The space
+Where you'll sleep:
+
+Bedroom #1: 1 king bed, with a private bathroom
+Bedroom  #2: 2 twin beds, with a private bathroom
+Bedroom #3: 2 queen beds, with a private bathroom
+Bedroom #4: 2 queen beds, with a private bathroom
+
+We provide all essential linens and towels for your stay.
+
+Guest access
+The whole townhome is yours to relax in and enjoy.
+
+Other things to note
+IMPORTANT DETAILS and HOUSE RULES:
+
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/ or Events are not permitted at this property & may result in the removal of your group from the premises without a refund.
+
+House Rules
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move furniture.
+No Confetti or Tape: Please do not use tape or adhesive of any kind on our walls. Damages will be charged to you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 682822966
+Host Profile URL: https://www.airbnb.com/users/show/682822966
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+44 reviews
+4.84 out of 5 average rating
+1 year of hosting

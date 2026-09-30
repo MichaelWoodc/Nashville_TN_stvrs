@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1181968869477539513
+Latitude: 36.1629
+Longitude: -86.7834
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay at Kasa Capitol Hill in downtown Nashville and enjoy fully furnished apartments with modern kitchens and in-suite laundry—ideal for extended stays. Walk to top restaurants, shops, and iconic spots like Broadway, Printer’s Alley, and Ryman Auditorium. Plus, Nissan Stadium is just a mile away. Experience the best of Music City with us! Our tech-enabled apartments offer self check-in at 4pm, 24/7 guest support by text, phone and a Virtual Front Desk accessed via mobile device.
+
+The space
+SLEEPING ARRANGEMENT:
+- Bedroom 1: 1 king-size bed (sleeps 2)
+- Bedroom 2: 1 king-size bed (sleeps 2)
+- Bedroom 3: 1 queen-size bed (sleeps 2)
+
+PARKING:
+- Limited parking is available on-site for a fee based on the length of your reservation: $30 per night for 1-14 nights, $20 per night for 15-21 nights, $15 per night for 21+ nights. Parking fees will be collected online in your Kasa Booking Confirmation.
+
+LIVING SPACE:
+- Full kitchen with dishes, cookware and dishwasher
+- Steeped coffee and tea
+- Ultra high-speed Wi-Fi
+- In-unit laundry
+- Comfortable dining table for WFH meetings or studying needs 
+- Smart TV
+- 500 to 1000 square feet, depending on the room category of choice 
+
+We have multiple Kasas in this building, and each one is unique. Decor and layout may vary slightly from what you see in photos.
+
+Guest access
+In addition to your private space, you can enjoy the building’s shared amenities.
+
+BUILDING AMENITIES:
+- Lounge area
+- Luggage lockers
+- Warner Hall, a communal workspace features a boardroom that seats up to 10 people, ideal for both work and private meetings.
+- Outdoor space
+- Elevator
+
+We manage each aspect of your stay, so you can count on reliable service from booking to checkout, all while enjoying a self-directed experience. Every Kasa offers:
+
+- 24/7 support (text, chat, email, or call us any time!)
+- A desirable locale close to points of interest and attractions
+- Professional cleaning
+- Thoughtful design for your comfort and convenience 
+- Security protocols, including ID verification
+- Care-focused technology for detecting noise and smoke
+
+Other things to note
+PLEASE NOTE:
+- Guests are required to complete a Pre-Arrival Checklist, which includes a virtual ID check, and the option to request early check-in (subject to availability). We operate through a Virtual Front Desk, and self check-in is entirely contactless. We'll send you instructions on accessing our property and your Kasa before you arrive. Questions? Contact us 24/7.
+- One approved animal is allowed per unit at a nightly fee of $8-30/night based on length of stay. Pet registration is required prior to arrival.
+- Limited parking is available on-site for a fee based on the length of your reservation: $30 per night for 1-14 nights, $20 per night for 15-21 nights, $15 per night for 21+ nights. Parking fees will be collected online in your Kasa Booking Confirmation.
+- Housekeeping services are only provided upon request at an additional cost per cleaning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kasa
+Host User ID: 88566861
+Host Profile URL: https://www.airbnb.com/users/show/88566861
+Host Profile URL Source: public user permalink from passport userId
+Kasa provides convenient, tech-enabled apartments and hotel rooms for both short- and long-term stays. Whether you're traveling for business, leisure, or relocation, think of us as your home on the road. With locations in major U.S. cities like New York, Los Angeles, and Chicago, along with new properties opening regularly, we aim to fulfill your needs. Our Guest Experience Team is available 24/7 to assist with any concerns. We look forward to welcoming you!
+Speaks English, Russian, and Spanish
+Lives in San Francisco, California
+Response rate: 100%
+Responds within an hour
+10 years hosting
+65588 reviews
+4.62 out of 5 average rating
+10 years of hosting

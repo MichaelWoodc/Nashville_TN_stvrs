@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1320663769217362763
+Latitude: 36.1541
+Longitude: -86.68244
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy is the vibe here at Little Merry Oaks. Whether you're here for a work trip or you've come to party on Broadway, this charming studio apartment is the perfect landing place in a prime location for getting around the city.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 147706421
+Host Profile URL: https://www.airbnb.com/users/show/147706421
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+88 reviews
+4.91 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,99 @@
+URL: https://www.airbnb.com/rooms/1522847666436360347
+Latitude: 36.1932
+Longitude: -86.7779
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience a luxury vacation in this spacious 4-bedroom, 4-bath townhome featuring a stunning rooftop patio with breathtaking downtown Nashville views. Perfectly located just minutes from Broadway and other attractions in the heart of the city, this residence is ideal for groups seeking the ultimate blend of comfort and convenience.
+
+The space
+Listing provided by Chady Property Management.
+
+The Space
+	•	4 bedrooms, all ensuite bathrooms
+	•	7 total beds – sleeps 12 guests comfortably
+	•	Rooftop deck with lounge seating and skyline views
+	•	Open-concept living room with Smart TV & natural light
+	•	Fully equipped kitchen with stainless steel appliances + large dining table
+	•	Washer & dryer in-unit
+	•	Private garage parking 
+
+Sleeping Arrangements (7 Beds )
+	•	Bedroom 1: King bed
+	•	Bedroom 2: Queen bed
+	•	Bedroom 3: Queen bed
+	•	Bedroom 4: 2 Bunk beds
+
+Location Highlights
+
+Stay close to Nashville’s best attractions:
+	•	5 min drive to Broadway & Honky Tonks
+	•	7 min to Nissan Stadium & Bridgestone Arena
+	•	10 min to The Gulch & Midtown
+	•	12 min to BNA Airport
+	•	15 min to 12 South
+
+Guest Perks
+	•	Rooftop with city views – ideal for morning coffee or evening cocktails
+	•	Hotel-quality linens & towels provided
+	•	Starter pack with coffee, paper goods, and toiletries
+	•	Smart lock check-in for easy arrival
+
+Whether you’re here for live music, a family trip, or a weekend with friends, this home is your ultimate Nashville getaway.
+
+Good to Know:
+
+• All properties are contactless checkin. All check-ins begin at 4 PM unless otherwise approved in writing. Edits made in Airbnb to an earlier time do not override this policy.
+
+• Late arrivals after 8 PM are still welcome, but live assistance may be limited.
+
+• Local residents must message before booking. Non-inquiry local bookings may be canceled without refund.
+
+• If making a reservation with a same day checkin, checkin time is subject to change depending on cleaning schedule for that day.
+
+• Refunds, if applicable, are subject to a 3% processing fee. This does not apply to HVMB reservations.
+
+• You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+
+* No pets allowed! We love pets, but unfortunately, they’re not allowed at this property. Please note that an unauthorized pet will result in a $500 fee.
+
+* Security Cameras may be on the exterior of the property for your protection and ours. Footage is held by a 3rd party and is only reviewed if there is reason. There are no cameras inside of the home.
+
+* Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4196 reviews
+4.78 out of 5 average rating
+5 years of hosting

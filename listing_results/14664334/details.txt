@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/14664334
+Latitude: 36.20796
+Longitude: -86.76287
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This gem is a centrally located in trendy East Nashville.  10 mins or less to Broadway/Downtown and steps away from our local favorites. Live like a local with walkable coffee shops, bars, breweries and markets. This clean unique getaway has a Tennessee vintage charm. You will surely feel relaxed in between exploring the city and don't forget to enjoy our fir pit. Our space is perfect for trips with friends, couples weekends, family gathering and artist retreats.
+
+The space
+Our home sleeps up to 8 comfortably with one queen bed in master, 4 queen ( bunk beds ) in second bedroom, a comfy couch, and  two queen blow up beds and twin blow up . All linens and bedding are new and luxurious.  It has all the conveniences of home including wireless internet, 42" flat screen smart tv, washer and dryer, and full kitchen. It has a great vibe and is easy to relax in. We really would love for you to stay and have as much fun as we do when we chill here.
+
+Guest access
+-Easy access Keypad code, check in at any time for your convenience after 4
+-Free, private parking in driveway and plenty of free street parking. 
+-Full kitchen
+-Outdoor fire pit with seats
+-Private backyard
+
+Other things to note
+House rules:
+No pets 
+Pet fee per pet starts at 150.
+No smoking in house, no parties 
+No late check out unless agreed
+Unauthorized late check out is $150 per hour
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Molly
+Host User ID: 89846619
+Host Profile URL: https://www.airbnb.com/users/show/89846619
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 91%
+Responds within an hour
+10 years hosting
+788 reviews
+4.72 out of 5 average rating
+10 years of hosting

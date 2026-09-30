@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1328576123808412647
+Latitude: 36.20414
+Longitude: -86.62818
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Visiting Nashville and budget minded?  Our basement studio apartment is a great option for you!
+
+1 King bed, Full bathroom & Kitchenette. Also has off street parking & a fenced in back yard with 1/2 an acre of space if you want to bring your furry friends.
+
+Please note, we live upstairs, and we do have children, so you might hear us.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maghan
+Host User ID: 671313281
+Host Profile URL: https://www.airbnb.com/users/show/671313281
+Host Profile URL Source: public user permalink from passport userId
+I’m Maghan and I’m a family woman
+Born in the 80s
+My work: Licensed therapist
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+165 reviews
+4.84 out of 5 average rating
+2 years of hosting

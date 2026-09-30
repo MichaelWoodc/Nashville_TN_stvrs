@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1059000352386853631
+Latitude: 36.21052
+Longitude: -86.60549
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a private, walk out basement studio apartment in the heart of Hermitage, TN; only 20 min from Downtown Nashville, 15 min from the airport and 20 minutes from Grand Ole Opry. This cozy and private nook features a queen bed, wood burning stove, bathroom, hotel style kitchenette, outdoor patio, and private parking. Our family of 4 lives upstairs with our dog so from time to time you may hear voices and movement. We do our best to keep quiet time from 8 pm to 8 am.
+Permit2024007013
+
+The space
+Our cozy nook is set up as a studio apartment. There is a comfortable queen sized bed with a 50" TV. The space includes a reading corner and a living area with an indoor fireplace. The couch folds down to a full size bed and would be perfect for a second sleeping space. There is a bar area that has a hotel like set up with a Keurig, microwave, and mini-fridge. The bar space offers plenty of room if a work space is needed. The bathroom is also cozy, but offers an enclosed shower with salon grade Morocco Argan Oil products. 
+
+There is also an outdoor patio area with a table and chairs for morning coffee, meals outside or simply to relax. There is a fire pit for your use as well. If you are quiet enough you may see some of the wildlife that frequent our yard. Deer are regular visitors around dawn and dusk. We often see squirrels  and chipmunks playing and if you are lucky you may see the large groundhog that lives under the storage shed. 
+
+There is one parking space behind the house near the Air BNB entrance. If an extra space is needed please let us know and we will arrange for an additional spot. 
+
+Our family of 4 lives upstairs with our dog so you will most likely hear voices and movement if you are around during the day or in the early evening. We do our best to keep quiet hours from 8 pm to 8 am. You may also see us outside on nice days and in the evenings. We will respect your privacy and the space that is designated for the Air BNB. The yard is a shared space. Our dog is friendly but we will keep him close to ensure that everyone is comfortable during your stay.  
+
+We hope to provide a welcoming and comfortable environment for your trip to Nashville. Our cozy nook is stocked with bed linens, blankets, towels, coffee, tea, firewood, an iron, shower supplies, and filtered water in the fridge. If there is anything else that you should need during your stay, please do not hesitate to let us know! We want to make sure you have everything you may need!
+
+Guest access
+The apartment is a completely separate and private space that guests will have full access too. The parking and entrance are located around the back of the main house. There you will also find a patio area with an outdoor seating area and fire pit. The back yard is a shared space and may sometimes be used by our family on nice days and evenings.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric & Kali
+Host User ID: 16592114
+Host Profile URL: https://www.airbnb.com/users/show/16592114
+Host Profile URL Source: public user permalink from passport userId
+Hi my name is Eric and my wife Kali is my travel buddy.  We have traveled to Switzerland, Germany, England, and Ireland using airbnb.
+Both of us have traveled all over the Caribbean while working for Carnival Cruise Lines before getting married  We like to get the most out of our days and try to experience everything a location has to offer.  We love to meet people and have friends all over the world.  We want to bring our experience right to our own home and host guests traveling the same way we did. Happy Traveling :)
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+9 years hosting
+64 reviews
+4.84 out of 5 average rating
+9 years of hosting

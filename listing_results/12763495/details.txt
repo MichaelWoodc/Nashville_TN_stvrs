@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/12763495
+Latitude: 36.13837
+Longitude: -86.77652
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This beautiful place is perfect for visitors who would like to call Nashville home for a few days. Located just a few minutes outside of the Heart of Downtown, this home gives visitors the perfect place to relax and enjoy the Nashville experience.
+
+####We take our Disinfecting Seriously especially now with COVID19 and will have dehumidifiers to help fight the CV Crisis during your stay such as Lysol or similar and Hand Sanitizer for all our guests. ###
+
+The space
+Some of the amenities include:
+- 4 Bedrooms
+- Three and a half baths
+- Loft Sitting Area
+-BBQ Grill
+-Toddler and Infant PlayPen
+- Washer & Dryer
+- Deck
+- Private Parking
+- Less than 10 minutes away from Downtown Nashville
+
+Guest access
+Remote Access Smart Lock with this home. Home is near downtown and even closer to 12 South locals trendy area of Nashville.
+
+Other things to note
+N/A
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alphonso
+Host User ID: 69338665
+Host Profile URL: https://www.airbnb.com/users/show/69338665
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+316 reviews
+4.84 out of 5 average rating
+10 years of hosting

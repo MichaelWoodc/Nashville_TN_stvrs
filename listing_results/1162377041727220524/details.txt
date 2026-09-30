@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1162377041727220524
+Latitude: 36.1381
+Longitude: -86.7873
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy all Nashville has to offer in this awesome location in the heart of Nashville, located between the Gulch and 12 South and next to Belmont University.  With all new furnishings and home goods, it’s stylishly decorated and appointed to make your trip a great experience.  There are two bedrooms on the first floor and one loft bedroom on the second floor, enjoy the fully equipped kitchen, outdoor bbq, sitting area and dining table.  Come stay at the Sweet Spot, located close to everything!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emilio
+Host User ID: 555131833
+Host Profile URL: https://www.airbnb.com/users/show/555131833
+Host Profile URL Source: public user permalink from passport userId
+Hi I’m Emilio, I recently moved to Nashville and bought this Sweet Spot.  When I’m not preparing for your stay, I’m at work as a USPS mail carrier walking my way through nearby neighborhoods or checking out all the fantastic local restaurants and entertainment venues.
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+68 reviews
+4.97 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1042834053003045515
+Latitude: 36.26727
+Longitude: -86.5546
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil getaway.  Gorgeous Family Retreat located on Old Hickory Lake close to Downtown Nashville.  Watch the sunrise on your private deck overlooking lake with great fishing, swimming, skiing and bird watching.  This place overlooks a natural bird habitat.  Enjoy swimming and fishing directly behind the house.  Beautiful sunsets most days.
+
+The space
+Please note there are a number of stairs to climb to enter the property.  Bedroom 3 is a queen pullout couch off to the side of the  living room area.  Please see photos.
+
+Guest access
+This is a gorgeous property built above the carport of an adjoining property.  Your space is a separate space 2 traditional bedrooms with a third sleeping space in the living room area off to the side.
+
+Other things to note
+There are a number of stairs leading up to the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 27151458
+Host Profile URL: https://www.airbnb.com/users/show/27151458
+Host Profile URL Source: public user permalink from passport userId
+I am a Mother of 5 of the best people I know!  I love hosting and helping my guests have the best experience they can have!  I love to travel and experience what other hosts are doing to attract guests.  I love the outdoors and live music.
+Born in the 60s
+Where I went to school: University of Kentucky
+Response rate: 100%
+Responds within an hour
+9 years hosting
+491 reviews
+4.91 out of 5 average rating
+9 years of hosting

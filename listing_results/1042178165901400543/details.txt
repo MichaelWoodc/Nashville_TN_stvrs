@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1042178165901400543
+Latitude: 36.1444
+Longitude: -86.7604
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Champagne Nights! This beautiful 3 story home is just a 5 min drive into Downtown Broadway, which you can also see from the 360° view up on the full rooftop! This would be the perfect stay for bridal parties, bachelorettes, birthdays, graduations and more, with the fun, vibrant colors and champagne theme 🍾🥂We are truly excited for you to stay and celebrate whatever may bring you into Nashville 💕
+
+The space
+This beautiful custom made home has 4 levels: 
+
+The first floor is the living room, kitchen, half bath, dining room, and washer and dryer. From this floor you’ll be able to walk out onto the first patio which leads down to the fenced-in backyard. 
+
+Second floor has two bedrooms, the Rosè room with a built in Queen bunk bed, two spacious closets and a master bathroom with a walk in shower, two sinks, and separate toilet room. We also have the Veuve Clicquot room with a Queen bed, closet, and full bathroom. 
+
+The third floor has a lively and colorful lounging area, kitchenette, full bathroom with two sinks, large TV, work desk, the champagne bubbles bedroom with a Queen bed and full closet. 
+
+Then you’ll walk out onto the balcony with comfortable lounging seating, perfect place to drink your coffee in the morning. 
+
+The 4th level if you very carefully take the spiral staircase from the balcony you’ll be able to walk up to the rooftop where you’ll see and incredible 360° view of Nashville. The perfect spot to watch the sunrise or sunset!
+
+Guest access
+You’ll be able to access the home by entering a code provided to you. The front door of the home will have an electronic keypad.
+
+Other things to note
+The only way to access the rooftop deck is by the spiral staircase. Please exercise caution when going up and down the spiral staircase.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

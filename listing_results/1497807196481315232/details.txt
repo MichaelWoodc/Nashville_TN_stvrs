@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1497807196481315232
+Latitude: 36.193
+Longitude: -86.8312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern 3-story townhome just 4.8 miles from Broadway! This stylish 2BR home features 3 comfy beds, a full kitchen, 2 car garage, and a private rooftop deck with amazing city views. Perfect for small groups, couples, or friends looking to explore the best of Nashville while enjoying peaceful nights. Enjoy free parking, smart TVs, Wi-Fi, in-unit laundry, and more. Relax, unwind, and make this your home base for an unforgettable stay!
+
+The space
+Bed Setup
+Primary Bedroom: 1 King Bed with a Smart TV, Walk-in Closet, and En-suite Bathroom
+Second Bedroom: 2 Queen Beds with a Smart TV, Walk-in Closet, and En-suite Jack-n-Jill Bathroom
+
+Floor Setup:
+Rooftop Patio (3rd Floor)
+Private rooftop patio with outdoor seating, 2 dining tables, each with 4 seats, and views of the Nashville skyline.
+
+2nd Bedroom (2nd Floor)
+Features two queen beds, a smart TV, walk-in closet, and a Jack-and-Jill style bathroom that connects to the kitchen.
+
+Jack-and-Jill Bathroom (2nd Floor)
+Jack-and-Jill style bathroom with a single vanity and a shower/tub combo that connects to the 2nd bedroom and the kitchen.
+
+Kitchen (2nd Floor)
+Fully equipped kitchen with stainless steel appliances, ample counter space, and bar seating for two guests.
+
+Living Area (2nd Floor)
+Open-concept living room with comfortable seating and a Smart TV.
+
+Primary Bedroom (1st Floor)
+Features a king bed, walk-in closet, and en-suite bathroom with a single vanity and shower/tub combo.
+
+Primary Bathroom (1st Floor)
+En-suite bathroom with a single vanity and a shower/tub combo.
+
+Garage (1st Floor)
+Two-car garage, with additional parking available in the development for added convenience.
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

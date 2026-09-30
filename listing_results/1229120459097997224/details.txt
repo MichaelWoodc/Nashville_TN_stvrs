@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1229120459097997224
+Latitude: 36.1928
+Longitude: -86.7417
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our spacious 2736sqft 4-bedroom home is just 8 minutes from Broadway, giving you quick access to downtown while having a comfortable place to relax and hang out!
+
+The highlight of the home is the private game room with a pool table, ping pong, Pac-man machine, cards  and darts + cornhole in the backyard for even more group fun!
+
+The space
+📍 Location
+
+Close enough to downtown to get there quickly, but far enough to avoid the noise. You’ll be minutes from Broadway, restaurants, bars, and major venues! A great deal of East Nashville bars are also within walking distance!
+
+🛋️ The Space
+
+The home offers over 2,736 sq ft with a layout that works great for groups:
+
+* 4 bedrooms plus Zen room
+* 3 full bathrooms
+* Open living area
+* Fully equipped kitchen
+* Dedicated game room
+
+There’s plenty of space to get ready, unwind, and spend time together without feeling crowded. 
+
+**We want you to have fun, however we DO NOT allow confetti or glitter. If you do use confetti or glitter there will be an additional $200 fee added to your cleaning fee.**
+
+Please note that we do have quite hours as we have neighbors.
+
+Guest access
+You will receive the entry code 24 hours before your check-in time.
+
+Other things to note
+Additionally, If you have 11-20 guests, We may be able to accommodate your group if the dates are available. Reach out to Alfonso and we can work it out for you :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Will
+Host User ID: 16593492
+Host Profile URL: https://www.airbnb.com/users/show/16593492
+Host Profile URL Source: public user permalink from passport userId
+Serial Entrepreneur, Real Estate Investor, Musician, Songwriter, Speaker, Multi-Media Content Creator, Lover of All Things Beautiful and Inspirational.
+My work: Real Estate & Music
+I'm obsessed with: Music, Travel, Creating, Learning & Food
+10 months hosting

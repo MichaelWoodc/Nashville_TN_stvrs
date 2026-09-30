@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1090650793140022426
+Latitude: 35.9841
+Longitude: -86.59
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 0
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+An incredible home offering the perfect family getaway! Come and enjoy a truly exceptional experience at our property, featuring plenty of fun activities to do and share. This completely renovated house boasts a breakfast area and living spaces designed for everyone's enjoyment. We feature a game room, four comfortable bedrooms where you can rest and recharge, and a beautiful patio where you can admire the sunsets, host a barbecue, enjoy the fresh air, or simply hang out!
+
+The space
+Discover our charming home, designed to offer you comfort and fun in every corner. Our house features 4 cozy bedrooms and 3 bathrooms, spread across two floors to ensure everyone has their own space.
+
+On the ground floor:
+- Master bedroom with a king-size bed for a restful night's sleep
+- 2 bedrooms with queen-size beds for added comfort
+- Fully equipped kitchen for preparing delicious family meals
+- Dining and living areas for enjoying unforgettable moments
+- Game room for endless fun
+
+On the upper floor:
+- Family bedroom with 2 queen-size beds and a sofa bed with 2 twin mattresses for extra space
+
+Plus, enjoy our beautiful patio and parking space for up to 4 vehicles.
+Make your stay an unforgettable experience! 😊
+
+Guest access
+Access to the entire property
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nersy
+Host User ID: 86209213
+Host Profile URL: https://www.airbnb.com/users/show/86209213
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+223 reviews
+4.74 out of 5 average rating
+4 years of hosting

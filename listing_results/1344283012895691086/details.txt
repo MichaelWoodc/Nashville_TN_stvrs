@@ -1,0 +1,103 @@
+URL: https://www.airbnb.com/rooms/1344283012895691086
+Latitude: 36.2844
+Longitude: -86.5416
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 11
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2,300 Sq Ft | 3-Season Room w/ View | 22 Mi to Dtwn Nashville
+
+Discover the splendor of Mt. Juliet at this inviting 3-bedroom, 2.5-bath vacation rental. Ideal for families, this stunning home boasts a spacious yard with a fire pit and a fully stocked kitchen to cater to your culinary needs. Take advantage of the boat dock and explore the wonders of Old Hickory Lake before gathering on the deck to watch the sunset. When you're ready to venture off-site, take a day trip to Nashville!
+
+The space
+SLEEPING ARRANGEMENTS
+- Bedroom 1: 1 king bed
+- Bedroom 2: 1 twin XL adult bunk bed, 1 triple twin bunk bed
+- Bedroom 3: 1 queen adult bunk bed
+- Additional Sleeping: 1 portable crib (available upon request)
+
+OUTDOOR LIVING
+- Waterfront plot w/ fully fenced backyard
+- Private boat dock, kayaks
+- Furnished deck
+- 36" Blackstone gas grill
+- Wood-burning fire pit w/ 6 Adirondack chairs
+
+INDOOR LIVING
+- Newly renovated
+- Furnished sunroom
+- 3 Smart TVs, Bluetooth-compatible soundbar
+- 12-person dining table & 15' breakfast bar
+- Walk-in closet
+- 30' x 30' gather/great room
+
+KITCHEN 
+- Stove/oven, refrigerator
+- Microwave, dishwasher, Vitamix blender
+- Combo drip/single-serve Keurig coffee maker
+- Fully equipped w/ cooking essentials
+- Dishware/flatware
+- Trash bags & paper towels
+
+GENERAL 
+- Free WiFi
+- Washer & dryer, iron/board
+- Central A/C & heating, ceiling fans
+- Linens/towels, complimentary toiletries
+- Hair dryer
+- Keyless entry
+
+FAQ
+- 2 exterior security cameras (facing out)
+
+ACCESSIBILITY
+- Single-story home, step-free entry
+
+PARKING
+- Carport (2 vehicles)
+- Driveway (4 vehicles)
+- Free street parking (first-come, first-served)
+- RV/trailer parking allowed on-site
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+
+ADDITIONAL INFORMATION
+- This single-story home offers step-free entry
+- Your safety matters. This property features 2 exterior security cameras. There is a Ring doorbell device with an exterior security camera facing the front outdoor entry and a Ring doorbell device with an exterior security camera facing the back outdoor entry. The cameras are outward facing and do not look into interior spaces. The cameras actively record video and sound when motion is detected or when the video doorbell buttons are pressed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

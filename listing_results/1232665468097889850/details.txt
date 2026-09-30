@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1232665468097889850
+Latitude: 36.13825
+Longitude: -86.70176
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a Hotel room in a Exterior corridor property, With a King size bed.
+Mexican Restaurant onsite! 
+
+5 mins from BNA airport 
+5 Mins to Opry mills mall
+8mins to downtown Nashville
+This location is in center, Uber and Lyft is so cheap from here due to everything is very close to the property.
+
+Refundable deposit is charged at the hotel of $50.  
+
+If you are a picky Guest this place is not for you. Please don't book it.
+
+THIS PLACE IS ONLY FOR PEOPLE WHO UNDERSTANDS YOU GET WHAT YOU PAY FOR !!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rajkumar
+Host User ID: 549004899
+Host Profile URL: https://www.airbnb.com/users/show/549004899
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 years hosting
+43 reviews
+2.37 out of 5 average rating
+3 years of hosting

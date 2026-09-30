@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1492047418700315267
+Latitude: 36.3722912713712
+Longitude: -86.76980216299008
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil getaway complete with your own UTV to explore the property and trails. Nestled on a 40 acre farm  15 miles from downtown Nashville, this cozy cabin is a peaceful retreat surrounded by nature. Include in your stay is 4x4UTV to access the cabin and to explore the surrounding property and wooded trails. 
+This cabin is "off grid" and private at the back of the property. We have solar power for ceilng fan, coffee pot, outlets, etc. Outdoor shower/ camp toilet.
+
+The space
+This is a one room cozy cabin with all you will need to enjoy the outdoors. A queen size bed has an oversized loft above. Included are bedding and linens, towels, cooking utensils, water, coffee, wood for the fire, fire starter, outdoor cooking, gas grill,outdoor sink,  outdoor heated shower, outdoor camp toilet.
+
+Guest access
+Upon arrival, proceed halfway up the driveway and turn left. You will park at the upper level area on your right by the big red barn. There is a "Guest Parking" sign on the tree where you will park. You will find your UTV waiting there.  You wil load your belongings in the UTV and drive to the cabin toward the back of the property. Signs will point you past the baryard, past the main house, through the field to a gravel road leading to the cabin.
+
+Other things to note
+There are many types of farm animals and personal pets on the property. For that reason, we do not allow dogs. Feel free to interact with mini highland cows, Gypsy Vanner horses, chickens, pigs, mini goats, and sheep.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catherine
+Host User ID: 74176068
+Host Profile URL: https://www.airbnb.com/users/show/74176068
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+404 reviews
+4.98 out of 5 average rating
+8 years of hosting

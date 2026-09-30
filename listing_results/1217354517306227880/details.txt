@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1217354517306227880
+Latitude: 36.11624
+Longitude: -86.7674
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your luxury escape in Berry Hill! This 4-bedroom home, each with its own private bathroom, ensures ultimate comfort and privacy. The open-concept living, dining, and kitchen area is perfect for gatherings and shared meals. Unwind on the rooftop patio or enjoy a fun karaoke night in. Just 10 minutes from downtown and 3 minutes to Geodis Park, you’re close to Nashville’s top attractions. With a two-car garage, convenience meets style. Book now for an unforgettable stay!
+
+The space
+Four bedrooms, each with a private bathroom, ensuring comfort and privacy. Enjoy the rooftop patio with games and lounge seating for ultimate relaxation. The open-concept living, dining, and kitchen area is perfect for gathering with your crew. Plus, there’s a two-car garage for easy parking. And yes—there’s a karaoke machine for unforgettable fun! Ideal for your Nashville stay!
+
+Guest access
+You'll have the entire home to yourself!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Murat
+Host User ID: 502215348
+Host Profile URL: https://www.airbnb.com/users/show/502215348
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 94%
+Responds within an hour
+Superhost
+2 years hosting
+326 reviews
+4.9 out of 5 average rating
+2 years of hosting

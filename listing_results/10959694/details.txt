@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/10959694
+Latitude: 36.1084
+Longitude: -86.70344
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tucked in a quiet neighborhood, our home has welcomed families and musicians alike-some famous, all unforgettable. Play the piano, guitars, or ukulele, and relax in two inviting living areas, a glassed-in front porch perfect for morning coffee or late-night chats, and a sunny back deck that’s just right for unwinding after a long day.
+
+With a full kitchen, comfy beds, and off-street parking, there's space for everyone to feel at home. Come make memories—and maybe a little music—while you're here
+
+The space
+Spacious, Fun & Perfect for Groups – 4BR, 3BA Retreat
+
+Welcome to your home away from home! This spacious 2800 sq. ft. mid-century ranch offers room for everyone to spread out and relax, with 4 bedrooms, 3 full baths, and cozy touches throughout.
+
+On the main level, you'll find:
+
+A serene primary suite with a king bed and private ensuite bath
+
+A sunny second bedroom with a queen bed
+
+A versatile third bedroom that doubles as a home office with a twin daybed + trundle—perfect for kids or work-from-home guests
+
+Downstairs, unwind in a massive primary suite with a fireplace, wet bar/kitchenette, and a third full bath—ideal for privacy or extended stays. You’ll also love the media room, complete with a 50" HDTV with Roku, a game table, and another twin daybed with trundle for extra sleeping space.
+
+The fully equipped kitchen includes a rolling island for flexibility and flows out to a comfortably furnished deck with a gas grill. 
+
+The glassed-in front porch is perfect for morning coffee or late-night chats.
+
+Enjoy high-speed internet and Roku TVs throughout the home. (Please note: we don’t offer cable TV.)
+
+For outdoor fun, Seven Oaks Park is just 2 miles away with new pickleball courts, a disc golf course, and plenty of space to play.
+
+Whether you're traveling with family, friends, or a creative crew, our home is designed to make you feel welcome, inspired, and totally at ease.
+
+Guest access
+We have a keyless entry and you'll have a door code to allow easy access and no problems getting a key.
+
+Other things to note
+We’ve got you covered with fresh linens, towels, dish soap, dishwasher pods, bar soap, and a starter supply of paper goods to get you going.
+
+That includes:
+🧻 2 rolls of toilet paper per bathroom
+🧼 1 roll of paper towels in the kitchen
+
+You'll also find a small supply of laundry detergent and dryer sheets— enough to wash a load or two of your clothes and toss in a load of towels before checkout. If you plan to do lots of laundry during your stay, feel free to pick up a bit more soap.
+
+Thanks so much—we’re glad to have you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Terje
+Host User ID: 56606146
+Host Profile URL: https://www.airbnb.com/users/show/56606146
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Norwegian
+Lives in Nashville, Tennessee
+Response rate: 88%
+Responds within an hour
+Superhost
+11 years hosting
+120 reviews
+4.82 out of 5 average rating
+11 years of hosting

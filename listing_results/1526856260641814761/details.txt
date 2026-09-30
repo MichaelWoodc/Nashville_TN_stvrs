@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1526856260641814761
+Latitude: 36.21245
+Longitude: -86.57434
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole family or just yourself, or you and a friend, friends, or couple to this great place with lots of room for fun.  Easy and short drive to the airport (15 minutes), downtown Nashville (25 minutes), shopping, Mt. Juliet (10 minutes) and historical sites (10 minutes).  So much to do and yet a great place for privacy and downtime during your stay in the Nashville area.
+
+The space
+Living room, Kitchen, half bath 1st floor, 3 bedrooms, master bathroom, full bathroom, washer/dryer upstairs.
+
+Other things to note
+No smoking and no pets are allowed on this premises.  
+NOTE:  Temporary Wireless WIFI can be purchased for your stay through XFinity for $10 for 10 days.  Thank you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 722823961
+Host Profile URL: https://www.airbnb.com/users/show/722823961
+Host Profile URL Source: public user permalink from passport userId
+I love Nashville!  Everything about it.  There is so much to do and most people are friendly and just great!  It is a positive vibe here that I love!
+My work: Music
+Fun fact: I am a pianist!
+Response rate: 100%
+Responds within an hour
+9 months hosting
+1 reviews
+5.0 out of 5 average rating
+9 months of hosting

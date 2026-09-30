@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/851354481137722300
+Latitude: 36.12571
+Longitude: -86.80346
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+-Walk to 12S, Hillsboro Village
+-1 mile to Vanderbilt Hospital
+-Easy Interstate Access
+
+This boho modern townhome in the 12 South/Hillsboro Village neighborhood is situated in a quiet, peaceful neighborhood and is perfect for small families, couples, or friend groups. Both bedrooms have their own bathrooms and there is one half bath on the first level. Central/walking distance to 12 South and 21st Ave Hillsboro Village. Has a lovely sitting area on the back deck.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Callie
+Host User ID: 21521489
+Host Profile URL: https://www.airbnb.com/users/show/21521489
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Portuguese
+Lives in Durham, North Carolina
+Response rate: 86%
+Responds within an hour
+Superhost
+10 years hosting
+402 reviews
+4.77 out of 5 average rating
+10 years of hosting

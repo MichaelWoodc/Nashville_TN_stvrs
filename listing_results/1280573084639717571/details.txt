@@ -1,0 +1,106 @@
+URL: https://www.airbnb.com/rooms/1280573084639717571
+Latitude: 36.0691
+Longitude: -86.7356
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Delight in the very best of Music City from the comfort & convenience of this spacious private retreat! Perfectly situated just 20 minutes to Downtown, experience the vibrancy of Broadway, tour the Grand Ole Opry or stroll the stunning 55-acre Cheekwood Gardens simply a short drive away. Visit Country Music Hall of Fame & Museum, Parthenon at Centennial Park, Nashville Zoo, Music City Walk of Fame & more! The perfect place for family & friends, you will love this private getaway in Nashville!
+
+The space
+Experience the energy of Music City from the comfort of this spacious and beautifully updated four-bedroom private retreat, conveniently located just about 20 minutes from Downtown Nashville. Perfect for families, groups of friends, and business travelers, this inviting home offers modern amenities, multiple indoor and outdoor gathering spaces, and easy access to the iconic music, dining, and entertainment that make Nashville one of the country’s most exciting destinations.
+
+Step inside to discover a bright open-concept living space designed for relaxing and connecting. The welcoming living room features comfortable seating, a cozy gas fireplace, and a large 75” Smart TV, making it the perfect place to unwind after a day exploring the city. Large windows bring in natural light while creating a warm and inviting atmosphere throughout the main living area.
+
+The fully equipped modern kitchen offers everything needed to prepare meals during your stay, including a stove, oven, refrigerator, dishwasher, and microwave. With generous counter space, counter-height seating, and a nearby dining area, the kitchen and dining spaces make it easy to gather for breakfast before heading downtown or enjoy a relaxed dinner together after a night on Broadway.
+
+Each of the four bedrooms is thoughtfully furnished with crisp linens, plush pillows, and comfortable bedding, providing restful spaces for everyone in your group. The home’s layout offers both privacy and shared living space, making it ideal for longer stays or group trips.
+
+Step outside to enjoy the home’s private outdoor areas, including a backyard, patio, and balcony with seating—perfect for morning coffee, evening conversation, or enjoying Nashville’s mild evenings. Additional conveniences include high-speed WiFi, an in-home laundry area, onsite parking, and keyless entry for a seamless and stress-free arrival.
+
+The location places you within easy reach of Nashville’s most popular attractions. Spend the day exploring Broadway’s famous honky-tonks, tour the legendary Grand Ole Opry, or visit the Country Music Hall of Fame & Museum. Stroll the beautiful grounds of Cheekwood Estate & Gardens, take photos at the Parthenon in Centennial Park, or visit the Nashville Zoo. Music fans will also love discovering the Music City Walk of Fame, historic recording studios, and the city’s incredible live music venues.
+
+Whether you’re visiting for a weekend of live music, a bachelorette trip, family vacation, or business travel, this comfortable Nashville home offers the perfect balance of space, convenience, and proximity to the heart of Music City.
+
+Spacious, modern, and close to everything—your Nashville getaway starts here.
+
+----------------------------------------------------------------------------------------------
+
+Nashville, known as the "Music City," is a vibrant and dynamic destination that offers something for everyone. From its rich country music heritage to its thriving culinary scene, arts, and outdoor attractions, Nashville is a place where Southern charm meets creative energy. Whether you're visiting for a weekend getaway, a music pilgrimage, or just to explore, here’s a guide to some of the best things to do in Nashville, TN.
+
+1. Visit the Country Music Hall of Fame and Museum
+Nashville’s most iconic museum, the Country Music Hall of Fame, is a must-see for music lovers. With exhibits dedicated to the legends of country music, including Johnny Cash, Dolly Parton, and Hank Williams, the museum tells the rich history of the genre. Explore interactive exhibits, video installations, and memorabilia from country music’s golden age to present day.
+
+2. Explore Broadway and the Honky-Tonks
+The heart of Nashville’s nightlife scene, Broadway is a bustling street lined with bars, honky-tonks, and live music venues. Walk along the neon-lit strip, stop into famous venues like Tootsies Orchid Lounge, The Stage, and Robert's Western World, where you can enjoy live music all day and night. It’s the perfect spot for country music enthusiasts to experience the city’s musical roots.
+
+3. Tour the Grand Ole Opry
+The Grand Ole Opry is one of the most legendary music venues in the world. Founded in 1925, it’s the birthplace of country music and hosts weekly live radio broadcasts featuring country stars, up-and-coming artists, and musical legends. Take a backstage tour to see where the magic happens and, if you're lucky, catch a live performance.
+
+4. Visit the Parthenon in Centennial Park
+Nashville is home to a full-scale replica of the Parthenon in Athens, Greece, located in Centennial Park. This impressive structure houses an art museum and features a 42-foot statue of Athena. The park itself is a great place for a leisurely walk, picnicking, or enjoying outdoor activities like paddleboarding on the park’s scenic lake.
+
+5. Experience the Johnny Cash Museum
+The Johnny Cash Museum is a tribute to one of country music’s greatest legends. Located just a short walk from Broadway, this museum features an extensive collection of memorabilia, including Cash's personal letters, instruments, costumes, and recordings. The museum also showcases his musical journey and cultural impact, making it a must-visit for fans of the "Man in Black."
+
+6. Walk Through Ryman Auditorium
+The Ryman Auditorium is known as the “Mother Church of Country Music” and has hosted a wide range of artists, from Elvis Presley to modern-day stars. Take a guided tour to learn about its history and stunning acoustics, or catch a concert in this intimate and iconic venue. Its rich history and atmosphere make it a Nashville landmark you can't miss.
+
+7. Explore the Nashville Zoo at Grassmere
+If you're traveling with family, the Nashville Zoo at Grassmere is a fun and educational stop. Located just outside of downtown, it features over 2,700 animals, beautiful botanical gardens, and exhibits like the Tiger Exhibit, Giraffe Viewing, and the Discovery Center. It's a great way to spend a day outdoors with kids or animal lovers.
+
+8. Stroll Through the Cheekwood Estate & Gardens
+For a more tranquil escape, head to Cheekwood Estate & Gardens, a beautiful 55-acre botanical garden and art museum. Located just a short drive from downtown, it’s home to beautifully curated gardens, including a Japanese Garden, wildflower meadow, and rose garden. The estate also hosts rotating art exhibitions and seasonal events like holiday light displays and outdoor concerts.
+
+9. Check Out the Music City Walk of Fame
+The Music City Walk of Fame is a tribute to influential figures in music who have contributed to Nashville's legacy. The sidewalk along Demumbrian Street is lined with stars, similar to Hollywood’s Walk of Fame, honoring legends from all genres, not just country music. It’s a fun walk to take while exploring downtown.
+
+10. Visit the Frist Art Museum
+For art lovers, the Frist Art Museum is a stunning venue housed in a former post office building. The museum features rotating exhibits of local, national, and international art, ranging from contemporary pieces to more classical works. It also offers a variety of educational programs and events throughout the year.
+
+11. Experience the Local Food Scene
+Nashville’s food scene is booming, with everything from Southern comfort food to trendy fusion restaurants. Don’t miss trying hot chicken, a Nashville specialty, at spots like Hattie B’s or Prince’s Hot Chicken Shack. Explore the city’s food scene further by visiting Nashville Farmers’ Market, where you can enjoy fresh local produce, artisanal products, and regional cuisine.
+
+12. Take a Cruise on the Cumberland River
+Experience Nashville from the water with a riverboat cruise along the Cumberland River. Companies like Nashville Paddle Co. and the General Jackson Showboat offer scenic cruises with spectacular views of the downtown skyline, bridges, and riverfront attractions. Many of these cruises include live music, dinner, or brunch, adding a special touch to your Nashville experience.
+
+13. Explore the Belle Meade Plantation
+History buffs will enjoy visiting the Belle Meade Plantation, a historic mansion and former thoroughbred horse farm. Learn about the plantation’s history, including its role in the antebellum South and its world-famous racehorses. The property also includes a winery where you can enjoy a tasting after your tour.
+
+14. Attend a Nashville Predators or Tennessee Titans Game
+If you’re in Nashville during sports season, check out a Nashville Predators (NHL) hockey game at the Bridgestone Arena or a Tennessee Titans (NFL) game at Nissan Stadium. Nashville has a passionate sports community, and attending a game is a great way to experience the local energy and excitement.
+
+15. Take a Walking Tour of Historic Germantown
+Just north of downtown, Germantown is one of Nashville’s oldest neighborhoods and offers a lovely mix of history, architecture, and trendy shops and restaurants. Take a walking tour to learn about the area’s Civil War history, admire its historic Victorian homes, and stop for a bite at one of the neighborhood’s upscale eateries or bakeries.
+
+Guest access
+Guests have full access and complete privacy inside the home and may enjoy full use of the outdoor amenities. Instructions for access, check-in, check-out, and directions to the home are provided in the house manual on Airbnb. When checking out, please be sure all windows and doors are locked prior to your departure.
+
+Other things to note
+If you have any questions about the property, or if you need any additional information regarding calendar availability, directions, parking, access, or check-in/check-out procedures please contact us directly using the message center on Airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Plushy
+Host User ID: 353152177
+Host Profile URL: https://www.airbnb.com/users/show/353152177
+Host Profile URL Source: public user permalink from passport userId
+Hello from the team at Plushy! We are a technology-driven professional hosting and hospitality management company comprised of full-time Airbnb hosts, expert property managers, developers, designers, financial analysts, marketers, innovators, and above all else dedicated operators who share an uncompromising passion for providing excellent hospitality and service to our homeowners and guests. From full-service management duties, to 24/7 interactive booking and guest support, our team provides professional, technology-driven hospitality services that makes Airbnb hosting easy for everyone.
+Lives in United States
+Response rate: 100%
+Responds within an hour
+6 years hosting
+9272 reviews
+4.53 out of 5 average rating
+6 years of hosting

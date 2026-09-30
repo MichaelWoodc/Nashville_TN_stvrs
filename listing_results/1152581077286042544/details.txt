@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1152581077286042544
+Latitude: 36.1956
+Longitude: -86.7807
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience this new construction, professionally designed Nashville retreat, featuring downtown views from the rooftop hot tub, a game room with vending machine, electronic games, billiards & a bar, and high end finishes throughout this 4 bedrooms, 4 bathroom stunner! Enjoy the gourmet kitchen, themed bedrooms, and make-up mirrors. Situated only 3 miles from downtown and .5 from the future site of Landings at River North, you can explore the city's attractions easily.
+
+The space
+Step into this remarkable home where the airy open floor plan seamlessly blends the living room, dining area, and kitchen, providing a space tailored for your relaxation. With a total of 7 beds, this condo ensures ample comfort for family gatherings and small groups.
+
+Living Room: Unwind in the spacious living room furnished with a large flat-screen TV and plenty of seating for everyone.
+
+Kitchen: Effortlessly prepare meals in the open kitchen equipped with stainless steel appliances and all the essentials for cooking and snacking.
+
+Four Bedrooms:
+"The Miley" / Bedroom One: 1 full size sleeper sofa
+"The Elvis" / Bedroom Two: 2 full beds
+"The Dolly" / Bedroom Three: 2 full beds and a single rollaway bed 
+"The Taylor" / Bedroom Four: 1 queen bed
+
+"Tipsy Jolene" Game Room & Bar: Transforming the garage into a delightful game room, enjoy amenities like a flat-screen TV, antique bar, pool table, Wheel of Fortune arcade game, vending machine, and various seating areas.
+
+"NashTiki" Rooftop: Indulge in the expansive rooftop area featuring a hot tub and multiple seating arrangements, ideal for soaking up the sun or unwinding with loved ones.
+
+Parking: Find open parking on the street, with one additional space available behind the house.
+
+Other things to note
+All listed amenities are to be used at guest’s own risk. The homeowner will not be held liable in any way for the risk, danger, injury, or damages caused to the other party.
+
+All reservations are subject to a Pre Check-In Security Deposit collection of $350 for incidentals and damage protection. This deposit will be returned should no issues occur. 
+
+This unit contains a smoke detector and Minut device. You must be 23 years of age to rent this property. 
+
+By moving forward and booking this reservation, I give permission to the property manager to use a third-party to verify my identity and check criminal databases to confirm my reservation. Complete terms regarding the guest screening can be provided by the property manager. You may receive an email to complete your screening. Please check your spam inbox for this email and contact the property manager if you have any questions.
+
+As a friendly reminder, smoking in your unit, common areas, or on any of the grounds is strictly prohibited; doing so may result in an inability for us to continue hosting you along with an additional cleaning fee of $250.
+
+STR#2024038169
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vector Nashville
+Host User ID: 501554574
+Host Profile URL: https://www.airbnb.com/users/show/501554574
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+964 reviews
+4.82 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,183 @@
+URL: https://www.airbnb.com/rooms/1400705817367621522
+Latitude: 36.1794
+Longitude: -86.7263
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🏡 Welcome to your East Nashville home-away-from-home!
+
+This charming Riverside duplex is nestled in one of Nashville’s most walkable, local-loved neighborhoods — just minutes from Five Points, Shelby Park, and some of the best food, coffee, and music the city has to offer.
+
+🛏 2 Bedrooms | 3 Beds | 1.5 Bathrooms
+Whether you’re here for a weekend getaway, a family visit, or a local event, this space is designed for comfort and relaxation.
+
+The space
+⭐ What You’ll Love:
+
+✨ Inviting Living Room – Unwind after a day of exploring with plush seating, warm touches, and a Smart TV ready for your favorite shows.
+
+🍽 Fully Stocked Kitchen – Whether it’s a quick bite or a full dinner, you’ll have everything you need — from cookware to coffee essentials.
+
+🌿 Relaxing Outdoor Spaces – Sip your morning coffee on the private front porch or wind down in the shared backyard oasis.
+
+🚗 Free & Easy Parking – Enjoy hassle-free parking with both driveway and street options.
+
+🔐 Seamless Check-In – Keyless entry for a smooth, secure arrival anytime.
+
+⚡ High-Speed WiFi – Stay connected for work, streaming, or planning your next Nashville adventure.
+
+For your safety and peace of mind, the property is equipped with exterior security cameras monitoring the outdoor areas. These are in place for security purposes only and do not record any private or indoor spaces.
+
+Guest access
+Guests will have private access to their side of this duplex unit, ensuring a comfortable and independent stay.
+
+Other things to note
+Location Perks:
+
+🏙 10 mins to Downtown/Broadway
+
+🎸 Close to local East Nashville favorites: trendy cafes, music spots, parks, and more
+
+🛍 Quick access to grocery stores and essentials
+
+Whether you’re here to explore, unwind, or celebrate, the Chic Riverside Retreat is the perfect base for your Nashville experience.
+
+Here's what’s close by:
+
+🍽️ Top Restaurants (0.5–2 miles):
+
+Noko – Modern Asian-inspired wood-fired fare (0.6 mi)
+Kore (Eastland Ave.) – Upscale Korean-American fusion (0.8 mi)
+Two Ten Jack (Eastland Ave.) – Japanese izakaya & ramen (0.8 mi)
+Graze Nashville (Eastland Ave.) – Plant-based brunch & dinner (0.8 mi)
+Rosepepper Cantina (Eastland Ave.) – Famous for margaritas (0.8 mi)
+Kase – Wine bar with small bites (0.6 mi)
+GrillShack Fries & Burgers – Casual, delicious bites (0.5 mi)
+Shulman's – Classic deli-style sandwiches (1 mi)
+Café Roze – Stylish all-day café (1 mi)
+Babo – Modern Korean BBQ (1.2 mi)
+Sabell's – Mediterranean market & deli (2 mi)
+Mitchell's Deli – East Nashville staple for sandwiches (2 mi)
+Village Pub & Beer Garden – Laid-back neighborhood spot (2 mi)
+Ladybird Taco – Breakfast and lunch tacos (2 mi)
+Bite a Bit Thai & Sushi – Thai favorites & fresh sushi (2 mi)
+The Tennessee Cobbler Company – Southern comfort desserts (2 mi)
+
+☕ Coffee & Brunch (0.5–2 miles):
+
+Portland Brew East – Local favorite for coffee & pastries (0.8 mi)
+Brightside Bake Shop – Known for their incredible croissants (0.8 mi)
+Weak Coffee – Cozy neighborhood coffee spot (0.5 mi)
+Dose Coffee – Great coffee & light bites (2 mi)
+
+🎶 Things to Do (0.8–1.5 miles):
+
+Climb East Nashville – Indoor climbing gym (0.8 mi)
+Shelby Park & Greenway – Perfect for walking, biking, or a picnic (1 mi)
+Shelby Bottoms Nature Center & Greenway – Beautiful trails and nature (1.5 mi)
+
+🍰 Desserts (0.6–0.8 miles):
+
+5 Daughters Bakery – Legendary 100-layer donuts (0.8 mi)
+Jeni’s Ice Cream – Unique, seasonal ice cream flavors (0.8 mi)
+HiFi Cookies – Gourmet cookies with a music theme (0.6 mi)
+
+🛍️ Local Shops (0.5–1 mile):
+
+Lemon Laine – Clean beauty & wellness shop (0.8 mi)
+Welcome Home – Stylish home goods & gifts (0.8 mi)
+Amelia’s Flowers East – Fresh flowers in a charming setting (0.6 mi)
+Shops at Porter East – Boutiques, gifts, and more (0.6 mi)
+Apple & Oak – Vintage home decor & rugs (0.6 mi)
+Dirty Livin – Women’s clothing boutique (0.6 mi)
+Knockin' Roots Plant Co. – For plant lovers (0.6 mi)
+Nelson Drum Shop – Unique vintage drums (0.5 mi)
+Horse Girl Vintage – Curated vintage clothing (0.5 mi)
+Cecil's Skate Shop – For skate enthusiasts (1 mi)
+Vinyl Tap – Record store & bar (1 mi)
+
+More Spots close by: 
+
+You’re minutes away from everything that makes East Nashville one of the city’s most vibrant neighborhoods. Here’s what’s close by:
+
+🍽️ Foodie Favorites:
+
+Five Points – The heart of East Nashville’s dining and nightlife scene (5 mins)
+Butcher & Bee – Creative small plates and craft cocktails (7 mins)
+Rosepepper Cantina – Famous for margaritas and bold Mexican flavors (6 mins)
+Folk – Upscale pizza and seasonal dishes (5 mins)
+The Pharmacy – Iconic burgers and beer garden (8 mins)
+🎶 Live Music & Entertainment:
+
+The 5 Spot – Intimate venue for local bands (6 mins)
+Basement East – Larger venue for up-and-coming artists (5 mins)
+Nashville Sunday Night at 3rd & Lindsley – Weekly live music showcase (10 mins)
+☕ Coffee & Brunch:
+
+Barista Parlor – Hip coffee shop with artisan brews (5 mins)
+Frothy Monkey – Great for coffee, breakfast, or lunch (7 mins)
+Hearts – Australian café with great coffee and bites (6 mins)
+
+🌳 Outdoor Fun:
+
+Shelby Park & Greenway – Walking, biking, and scenic views (5 mins)
+East Park – Perfect for a quick stroll or picnic (4 mins)
+🛍️ Shopping & Local Finds:
+
+Fatherland District – Boutiques, vintage shops, and local makers (6 mins)
+Turnip Truck – Local grocery store for anything you need (5 mins)
+🚗 Quick Access:
+
+Downtown Nashville & Broadway – Just 10 minutes away
+Nissan Stadium – Home of the Tennessee Titans and concerts (8 mins)
+BNA Airport – Only 15 minutes by car
+
+🌿 Shelby Park (1 mile away):
+
+A historic, 300-acre park perfect for picnics, walking, and relaxing.
+Features playgrounds, sports fields, and scenic views of the Cumberland River.
+Great for morning walks or an afternoon break from the city buzz.
+🚲 Shelby Bottoms Greenway & Nature Center (1.5 miles away):
+
+Over 5 miles of paved trails for biking, walking, or running.
+Beautiful wetlands, wooded areas, and wildlife along the Cumberland River.
+The Nature Center offers exhibits, free bike rentals, and trail maps.
+⛳ Shelby Golf Course (1 mile away):
+
+18-hole public course with affordable rates and scenic views.
+One of Nashville’s oldest golf courses, established in 1924.
+Ideal for golfers of all skill levels looking for a quick round.
+
+CHOO CHOO!
+🚂 Heads up—there’s a train that runs behind the house! While it might catch your attention at first, most guests get used to it quickly after hearing it once or twice. Plus, if you’re out exploring all that Nashville has to offer, you might not even notice it.
+
+For extra comfort, we’ve provided white noise machines in each bedroom to help ensure a restful night’s sleep. If you have any concerns, just reach out—I’m always happy to help! 🎶💤
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 78356744
+Host Profile URL: https://www.airbnb.com/users/show/78356744
+Host Profile URL Source: public user permalink from passport userId
+Hi! Im Adam, owner of ---Acorn Property Management--- , a 5th-generation Nashville native dedicated to creating unforgettable stays. Since 2017, I’ve managed properties with a local touch, ensuring guests enjoy the best of Nashville. Whether you're here to stay or seeking a reliable co-host, Acorn provides top-notch service, quick responses, and attention to detail. Let us make your Nashville visit or hosting experience seamless and special!
+My work: Acorn Property
+Speaks English, Spanish, and Italian
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+622 reviews
+4.79 out of 5 average rating
+4 years of hosting

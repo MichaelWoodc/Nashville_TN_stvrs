@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1121068610426646525
+Latitude: 36.1603
+Longitude: -86.8408
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your next Music City getaway awaits at this bright 1-bedroom, 1-bath Nashville vacation rental! Ideal for couples or small groups, this condo boasts a fully equipped kitchen, a modern interior, a community rooftop deck, and easy access to the area’s top attractions. Pack a picnic at Centennial Park, step back in time at the Country Music Hall of Fame, or explore Broadway Street. After the day’s activities, grab a drink at a nearby brewery or head home for a cozy movie night by the Smart TV.
+
+The space
+Nashville STR Permit No. T2023000063 | Community Rooftop Deck | In-Unit Laundry | 4 Mi to Downtown
+
+Bedroom: Queen Bed | Living Room: Full Sleeper Sofa | Additional Sleeping: Queen Air Mattress
+
+MAIN FEATURES: 2 Smart TVs, 2-person dining table, ceiling fans
+KITCHEN: Cooking basics, refrigerator, stove/oven, microwave, dishwasher, dishware/flatware, Keurig coffee maker
+GENERAL: Free WiFi, linens/towels, central A/C & heating, in-unit washer/dryer, hangers, complimentary toiletries
+FAQ: Ring doorbell (facing front entry)
+ACCESSIBILITY: Step-free access via elevator, single-story unit, 3rd-floor condo
+PARKING: Community lot (1 vehicle, first-come, first-served, permit provided), free street parking (first-come, first-served)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: This single-story property on the 3rd floor offers step-free access via elevator
+- NOTE: Your safety matters. This property features a Ring doorbell device with an exterior security camera facing the front outdoor entry. The camera does not look into any interior spaces. The camera actively records video when motion is detected by the device (including devices linked to the camera such as the alarm system’s motion detector) or when the video doorbell button is pressed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

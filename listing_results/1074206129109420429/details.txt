@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1074206129109420429
+Latitude: 36.19676
+Longitude: -86.77207
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 9
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Superhost for 5 years brings you this Beautiful luxurious NEW townhouse with an AMAZING Nashville Skyline view ROOFTOP
+
+- 2 Miles to Downtown Nashville
+- 2,100 SQF with a large space for 10 guests comfortably 
+- Fully equipped kitchen, 4 smart TVs with cables
+- High-speed internet
+- 2 car garages
+- Huge Rooftop with smart TV, comfortable patio furniture, chaise lounges, and hammock. Breathtaking Skyline view
+- $7-10 Uber/Lyft rides to Broadway and all the hot locations in Nashville
+
+The space
+Modern 2,300 SQF Townhouse, 3 stories, rooftop with AMAZING Nashville skyline,  big open space, lots of light
+
+Bed configuration - 
+Downstairs bedroom 1 - 2  Full  Beds with full bath
+Upstairs bedroom 2 - 2 Queen Beds with HUGE full bath
+Upstairs bedroom 3 - 1 King Bed - with full bath
+Living Room - 2 Queen pullout sofa beds
+2 extra folding bed 
+
+This place has been planned thinking about you, the guest. Not one detail was overlooked. This house is straight out of a magazine! 
+
+You'll enjoy:
+
+Guest access
+You will receive a welcome message with all the necessary information including the access codes 48 hours before your arrival.
+
+Other things to note
+* GREAT FOR LARGE GROUPS *
+We own the whole complex. There are 5 side by side large beautiful NEW townhomes with the capability of holding up to 50 guests. Each house has 3 bedrooms and 3.5 baths. We have accommodations that can fit any group size, so please inquire and we will find the best option for you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shac
+Host User ID: 12153920
+Host Profile URL: https://www.airbnb.com/users/show/12153920
+Host Profile URL Source: public user permalink from passport userId
+In the past 10 years, I've specialized in hosting large groups for friend gatherings, family reunions, corporate retreats, and weddings. We carefully select and design our properties with guest comfort in mind, featuring private open spaces, spacious bedrooms with comfortable beds, and easy access to Nashville’s vibrant scene. As locals, we’re available to answer any questions or make recommendations during your stay!
+My work: Hospitality hosting!
+Favorite song in high school: Don’t Stop Believin’ by Journey!
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+615 reviews
+4.86 out of 5 average rating
+11 years of hosting

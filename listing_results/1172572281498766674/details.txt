@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1172572281498766674
+Latitude: 36.075
+Longitude: -86.7371
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy, basement studio suite in Nashville, Tennessee! With a completely private entrance and a quiet, central location, you'll have everything you need for an unforgettable Nashville getaway. We have designed everything with you in mind! My husband and I are the main residents of the property and are happy to assist you with anything you may need during your stay. We love giving recommendations as we want you to love Nashville as much as we do!
+
+The space
+You will enter through the ground-floor backside of the house through keypad entry door. You will have space to park behind the house in the driveway. The bedroom has a queen bed with plenty of closet storage and the living area has a twin-pull out sofa and smart tv equipped with all major streaming services available for guest use. The kitchenette contains a mini fridge, microwave, and Keurig, as well as dishware, glasses and utensils. There is only one sink, located in the bathroom. The whole space is handicap accessible including the bathroom and shower. 
+ 
+Our home is in a safe, quiet neighborhood just south of downtown Nashville. We are in a great central location with a short drive to all your Nashville favorites! 
+ 
+Broadway – 10 minutes 
+The Gulch – 12 minutes 
+12 South – 13 minutes 
+Nissan Stadium – 12 minutes 
+Geodis Park – 11 minutes 
+East Nashville – 19 minutes 
+Germantown – 15 minutes 
+Downtown Franklin – 22 minutes 
+Nashville International Airport (BNA) - 15 minutes 
+Walmart – 4 minutes 
+Target – 10 minutes
+
+Guest access
+You have your own private entrance with a self check-in experience! Your space is separate with no shared common areas inside, so feel free to come and go as you please.
+
+Other things to note
+As the upstairs of the home is our residence, you may hear some walking above you, but we try to be mindful of all our guests. Additionally, there is no thermostat for our guests to control, however the suite stays insulated from the heat or the cold. We run A/C in the summer and heat in the winter to keep it comfortable for our guests. We also provide an additional fan for you to use if needed. 
+
+We do not allow any smoking on the property premises.
+ 
+We love our neighbors, so it is important to respect our quiet hours and never have guests over that are not on the reservation.
+
+Permit #2024073194
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sophie
+Host User ID: 581753038
+Host Profile URL: https://www.airbnb.com/users/show/581753038
+Host Profile URL Source: public user permalink from passport userId
+My work: Nurse Practitioner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+121 reviews
+4.99 out of 5 average rating
+2 years of hosting

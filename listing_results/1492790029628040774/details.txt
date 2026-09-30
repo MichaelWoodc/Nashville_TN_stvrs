@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1492790029628040774
+Latitude: 36.1461
+Longitude: -86.8152
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our modern 1-Bedroom Midtown Nashville condo that sleeps up to 5 across three beds. Spacious, stylish, and upgraded, with a fully equipped kitchen, modern bathroom, & fast Wi-Fi.
+
+Perfect for couples, friends, small families, or business travelers. Just 9 minutes from downtown, with nearby dining, live music, coffee shops, and local shops. Experience comfort, convenience, and Music City vibes!
+
+The space
+The bedroom features a cozy king-size bed, perfect for a restful night’s sleep. In the living area, a queen pull-out sofa and twin cot provide flexible sleeping options for additional guests. The home is set up with comfort in mind, soft linens, fresh towels, and thoughtful touches throughout so you can settle in easily.
+
+The kitchen includes all the essentials for simple meals or morning coffee before heading out to explore. After a day in Music City, relax in the bright living room, stream your favorite shows on Netflix, or just kick back and recharge.
+
+Other things to note
+The condo is located in Midtown Nashville, just an 8-minute walk to the iconic Parthenon at Centennial Park and minutes from Vanderbilt University. You’ll also be close to local coffee shops, restaurants, and live music venues, with downtown Nashville only a short drive away.
+
+Sports fans will love the location, you’re just a 13–15 minute drive from both the Tennessee Titans’ Nissan Stadium and the Nashville Predators’ Bridgestone Arena. Whether you’re here for music, culture, or game day excitement, this spot makes it easy to enjoy the best of the city.
+
+Registration Details
+Permit # 2022061590
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: RoamAura Stays
+Host User ID: 697366293
+Host Profile URL: https://www.airbnb.com/users/show/697366293
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+59 reviews
+4.95 out of 5 average rating
+1 year of hosting

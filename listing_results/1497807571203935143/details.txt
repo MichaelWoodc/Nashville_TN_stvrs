@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1497807571203935143
+Latitude: 36.1931
+Longitude: -86.8312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 18
+beds: 18
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect for large families, friends, or group getaways, the Harmony Heights Collection offers four fully equipped homes side by side with covered rooftops and 2 hot tubs! Just 5 miles from Downtown Nashville. This unique setup gives your group the rare combination of privacy and togetherness, making it ideal for family reunions, bachelor/bachelorette weekends, corporate retreats, or multi-family trips.
+
+The space
+This listing includes four beautiful, modern homes booked together, perfect for large groups, retreats, reunions, corporate stays, or multi-family trips. Across all homes, you’ll have 15 bedrooms, 18 bathrooms, and enough beds to sleep 50+ guests comfortably.
+
+Home 1 features 3 bedrooms, 3 bathrooms, and a large uncovered rooftop with a fire pit and built-in speakers connected to both the kitchen and rooftop.
+
+Homes 2, 3, and 4 each offer 5 bedrooms, 5 bathrooms, and spacious layouts with covered rooftop decks—ideal for year-round entertaining. All three include Bluetooth speakers in the kitchen and rooftop areas that easily connect through the 4Stream app.
+
+Across all four homes, you’ll enjoy:
+
+3 King beds + 22 Queen beds
+
+Multiple rooftops for gathering and relaxing
+
+Built-in speaker systems
+
+Modern kitchens and open living spaces
+
+Plenty of room for large groups to spread out while staying together
+
+This setup is perfect for big groups wanting comfort, convenience, and premium amenities all in one place.
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+Spacious living areas for gathering, dining, and relaxing
+
+Fully equipped kitchens in every home
+
+Private spaces and multiple bathrooms for comfort and convenience
+
+2-car garages and street parking available for each home
+
+Managed by local hosts with 5+ years of short-term rental experience, ensuring a clean, safe, and welcoming stay
+
+Close proximity to Downtown Nashville, Broadway, live music venues, and local dining
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

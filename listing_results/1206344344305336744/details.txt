@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1206344344305336744
+Latitude: 36.1546
+Longitude: -86.7638
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You drop your bags, roll up the glass garage-style door, and step onto your own private balcony with the city humming below. Tonight, Broadway's neon is a short walk away — but first, a sunset drink on the rooftop terrace while the Nashville skyline lights up gold. Tomorrow, a workout in the building gym, coffee on the balcony, then back out into Music City. This is your downtown base camp: modern, easy, and right in the middle of it all.
+
+The space
+Let's start with the part you'll brag about: this condo has its own private balcony, opened by a roll-up glass garage-style door that turns the whole living room into indoor-outdoor space. Throw it open for morning coffee with the city soundtrack, or leave it cracked at night with the provided sound machines doing their quiet work. It's the kind of feature people photograph the second they walk in.
+
+Up top, the building's rooftop terrace is where your evenings happen — skyline views, a drink in hand, and that downtown-Nashville glow in every direction. It's the sunset spot you'll keep coming back to.
+
+Inside, the unit is bright, modern, and built for an easy stay. The open living, dining, and kitchen area flows together, so nobody's stuck away from the action. The living room couch doubles as a sleep space, and with an added air mattress the condo sleeps four — more than most downtown one-bedrooms, making it a smart pick for couples traveling together or a small group of friends.
+
+The bedroom is your quiet retreat: a queen bed, soft linens, and a sound machine so the city stays outside when you rest. The bathroom is sleek and modern, and the kitchen is fully equipped for everything from morning coffee to a full meal in. There's a full-size washer and dryer right in the unit, plus fast WiFi, a smart TV, an elevator, keypad self check-in, and a building fitness room.
+
+It all adds up to a place that feels less like a hotel room and more like your own downtown apartment — private balcony, rooftop views, gym, in-unit laundry, and a walkable location, without the usual compromises of staying right in the city.
+
+Guest access
+Check-in is on your own schedule: arrive any time after 4:00 PM and let yourself in with the keypad code — no waiting on a key handoff. You'll have the entire condo to yourself, plus full access to the building's shared amenities: the rooftop terrace, the fitness room, and the elevator. Check-out is by 11:00 AM, and we're just a message away if you need anything.
+
+Other things to note
+There is street parking available, as well as, a pay-to-park garage.
+
+Laundry facilities are located in the Muse lobby and in unit.
+
+There is a luggage drop at The Drip Bar next door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Izzy Friedman
+Host User ID: 500334812
+Host Profile URL: https://www.airbnb.com/users/show/500334812
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+122 reviews
+4.86 out of 5 average rating
+4 years of hosting

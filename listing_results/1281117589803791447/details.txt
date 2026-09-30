@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1281117589803791447
+Latitude: 36.222
+Longitude: -86.8236
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Music City Ranch, a spacious 3-bedroom, 1.5-bath home about 20 minutes from Broadway and downtown Nashville. The house offers comfortable living space, a king suite, and room for families or groups visiting Music City. Located in a residential neighborhood close to attractions like the Ryman Auditorium and Nissan Stadium. An attached apartment with a separate entrance may be occupied during your stay, though spaces are private.
+
+The space
+-Bedroom 1- King Bed
+-Bedroom 2-Queen Bed
+-Bedroom 3-two single beds
+
+-Fully loaded Kitchen
+-Coffee Bar and Tea Kettle
+-Bluetooth Stereo
+-Washer and Dryer
+-Firepit
+-Gas Grill
+-Smart TVs with Streaming Capabilities
+-EV Charger 
+-Covered back patio
+-Free Parking
+
+Guest access
+Guest access is managed via electronic keypad. Code will be provided prior to check in.
+
+Other things to note
+I No Smoking Policy:
+Smoking indoors is strictly prohibited. If we detect any evidence of smoking (such as smell, cigarette butts, or ashes indoors), we will immediately report it to Airbnb, and a $300 professional cleaning fee will be applied.
+
+Cleaning:
+There is optional mid-stay cleaning with a fee of $200
+
+Quiet Hours:
+Please respect quiet hours and be considerate of the attached apartment, this is a residential area. Your cooperation is greatly appreciated!
+
+Shared Backyard Patio:
+There is an attached studio unit to the home, with a separate listing (www.airbnb.com/rooms/1394237133004527393). It's possible that different guests will have booked it, or if you need the extra space, you can book it yourself. The entrance for it is the white door at the back, not to be confused with the green door in front, which is for your home.
+
+Thank you for helping us maintain a comfortable and peaceful environment!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

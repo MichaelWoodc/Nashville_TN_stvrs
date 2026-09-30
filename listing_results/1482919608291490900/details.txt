@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/1482919608291490900
+Latitude: 36.146
+Longitude: -86.8152
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+HOWDY, Y'ALL! Experience Nashville in style at Neon Daes, a modern West End condo ideal for couples, families, or business travel!
+
+Space for 4, elevator access, & free parking, it’s the perfect launchpad for your stay. Walk to Centennial Park/The Parthenon, restaurants, Vanderbilt, or ride to Music Row, Broadway, and more in 10 mins. Enjoy a stocked kitchen, washer/dryer, hotel-style amenities. Smart TVs, comfortable bed, fully equipped kitchen, and much more in this charming 4th floor condo.
+
+The space
+Our third-floor condo comfortably accommodates up to four guests with a king bed in the bedroom and a queen sleeper sofa in the living room. The unit is accessible by elevator and includes free on-site parking for one vehicle, with additional first-come, first-serve street parking available.
+
+Whether you’re walking to nearby restaurants or taking a short ride share to a show or sporting event, you’ll enjoy convenient access to everything Nashville has to offer.
+
+Within walking distance:
+Maggiano's (4 minutes)
+BrickTop's (6 minutes)
+Bellagio Pizza (7 minutes)
+Taziki's Mediterranean Cafe (8 minutes)
+Starbucks (8 minutes)
+The Local (9 minutes)
+Ted's Montana Grill (10 minutes)
+Fable Lounge (10 minutes)
+Newk's Eatery (10 minutes)
+Centennial Park and the Parthenon (5 minutes)
+
+Via Uber or Lyft:
+Vanderbilt University (4 minutes)
+Vanderbilt Medical Center (5 minutes)
+Belmont University (5 minutes)
+Tennessee State University (6 minutes)
+Music Row (6 minutes)
+The Gulch (7 minutes)
+Music City Center (7 minutes)
+Bridgestone Arena (9 minutes)
+Ryman Auditorium (9 minutes)
+Nissan Stadium (9 minutes)
+Nashville International Airport (14 minutes)
+
+Inside the condo, you'll find everything you need for a comfortable stay:
+- Fully stocked kitchen with stainless appliances, Keurig coffee maker, toaster, microwave, dishes, and cookware (no cooking oil provided)
+- Washer and dryer with detergent provided
+- Hair dryer, iron, ironing board, and hangers
+- Shampoo, conditioner, and body wash
+- Clean linens, extra pillows, and blankets
+
+Whether you're here for a concert, campus tour, medical appointment, or just to explore the city, Neon Daes offers a clean, convenient, and relaxing space to return to at the end of the day.
+
+Presented by Injoy Nashville: Experience your stay.
+
+Guest access
+SMART LOCK
+
+Registration Details
+2022052232
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: InJoy Vacations
+Host User ID: 425884247
+Host Profile URL: https://www.airbnb.com/users/show/425884247
+Host Profile URL Source: public user permalink from passport userId
+InJoy Vacations proudly offers a selection of high-quality condo rentals in Panama City Beach, FL & Nashville, TN. We are a locally owned and operated business, and we love to share our community with owners and guests. Our goal is to provide exceptional vacation experiences to visitors, and we’ve perfected our craft. Many of our guests choose to return year after year.
+My work: InJoy Vacations
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+4503 reviews
+4.73 out of 5 average rating
+5 years of hosting

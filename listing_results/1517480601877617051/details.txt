@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/1517480601877617051
+Latitude: 36.22524
+Longitude: -86.72693
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy and quiet 1 BR condo in East Nashville (Inglewood) just minutes away from Downtown Broadway, and local bars and restaurants.  Features cozy king size bed, pullout sofa bed, smart TV's, and a fully stocked kitchen.  Secure entry for peace of mind. Minutes to downtown Nashville and Grand Ole Opry.
+
+The space
+Bedroom with King bed with attached bathroom (shower/tub) and laundry room.  pull out sofa in living room, linens provided. 
+
+Fresh linens, towels, body wash, shampoo and conditioner provided.
+
+Roku Smart TV's in bedroom and living area.  
+
+Fully stocked kitchen with complimentary coffee.
+
+Getting around: Uber & Lyft are easily accessible.  Free parking on-site.
+
+Guest access
+The entire unit is available.
+
+Other things to note
+Video surveillance in progress for safety and security purposes outside and hallway. 
+
+No smoking inside unit; $200 cleaning fee will be accessed.  
+
+No pets allowed, consideration for other guests who may be allergic. $200 cleaning fee will be accessed.
+
+A $20 per hour fee for early check-in and/or late check out. 
+
+No parties.
+
+Booker must be over the age of 21 per Nashville code.
+
+Bookings may be declined for accounts that have no previous Airbnb history.
+
+Per fire code: 4 person maximum capacity 
+
+Booking & Identification Policy:
+Reservations must be made by the individual who will be staying at the property. Third-party bookings are not permitted. The name on the reservation must match the primary guest occupying the property. Unregistered guests and visitors are not permitted without prior approval. 
+
+A valid government-issued photo ID may be requested prior to check-in or upon arrival to verify the identity of the registered guest.
+
+We do not accept reservations from local guests. Reservations made by individuals residing within the local area may be declined or canceled.
+
+Failure to comply with these requirements may result in cancellation of reservation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marie
+Host User ID: 710332766
+Host Profile URL: https://www.airbnb.com/users/show/710332766
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+29 reviews
+5.0 out of 5 average rating
+11 months of hosting

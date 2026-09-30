@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1264510445988493832
+Latitude: 36.1453
+Longitude: -86.7687
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience sophisticated comfort at Memoir Wedgewood Houston. 
+
+This One-Bedroom apartment features sleek furnishings and a fully equipped kitchen with top-of-the-line amenities, including a dishwasher, gas stove, and cookware. Enjoy the convenience of in-unit washer/dryer and every detail designed for your comfort.
+
+The space
+Memoir Wedgewood Houston offers uniquely designed apartments with antique brass hardware, custom tile, and options of Ivory or Navy finishes. Exposed concrete ceilings and operable awning windows reflect the area's industrial heritage, inspired by the historic May Hosiery Mills. Located in a vibrant Nashville neighborhood, enjoy art galleries, friendly bars, and a thriving culinary scene, all within easy reach.
+
+Guest access
+Short-term rental guests have full access to our building amenities, including a pool, cold plunge, dry sauna, putting green, ping pong. Enjoy the gym, bar, and coffee services daily, as well as a grill area and pet exercise park for your enjoyment.
+
+Other things to note
+Parking Information 
+
+-Please register your vehicle through Metropolis. You may scan the QR code in the garage for the website. 
+
+-Guests can use a one-time 24 hour validation or pay hourly rates through Metropolis. See concierge for details. 
+
+-Rates:
+-$21 max rate per entry
+-$150 monthly rate
+-Any stay over 8 nights will be charged the max monthly rate of $150
+
+Photos are representative of the unit you will stay in, however there are small variances in layout of the different units. Message us with any questions or concerns.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Memoir Residential
+Host User ID: 576475782
+Host Profile URL: https://www.airbnb.com/users/show/576475782
+Host Profile URL Source: public user permalink from passport userId
+2 years hosting
+230 reviews
+4.8 out of 5 average rating
+2 years of hosting

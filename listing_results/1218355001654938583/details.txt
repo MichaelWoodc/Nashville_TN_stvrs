@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1218355001654938583
+Latitude: 36.1762
+Longitude: -86.7576
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Rhinestone Cowboy!
+
+Just 2 miles from the excitement of Broadway/Downtown in East Nashville, this spot is perfect for your Nashville getaway. Enjoy an open floor plan with a stylish living area, a cozy bedroom featuring a king-sized bed, a full bathroom with everything you need, and a separate room with a twin-over-twin bunk. Enjoy a shared rooftop as well! Experience the best of Nashville’s nightlife, music, and charm from this trendy retreat- walk to Nissan Stadium!
+
+The space
+The apartment’s kitchen boasts sleek stainless steel appliances (please note no cooking oil available), crisp white cabinetry, and rustic wooden accents, offering both style and functionality. The living area is a standout, featuring a neon “Rhinestone Cowboy” sign that adds a whimsical, Nashville-inspired touch. The cozy bedroom with bunk beds is decorated in warm hues, complemented by a vintage cowboy photograph for a fun, western vibe. In the bathroom, you’ll find elegant striped wallpaper, double sinks, and modern fixtures, blending style and practicality. We can comfortably accommodate up to 4 guests- the primary bedroom has a king bed, and the second bedroom has twin over twin bunk beds. 
+
+Enjoy access to a convenient first-come, first-serve covered parking garage beneath the building, with additional street parking available right outside. Please note you will need to download the DOOR APP for access to the building and condo.
+
+This apartment’s prime location puts you within minutes of top attractions:
+- Nissan Stadium - 1 mile
+- Music City Center - 2.3 miles
+- Honky Tonks on Broadway - 2 miles
+- Bridgestone Arena - 2.2 miles
+- Ryman Auditorium - 1.9 miles
+- Country Music Hall of Fame - 2.2 miles
+- Grand Ole Opry - 10 miles 
+
+Perfect for visitors who want to explore the best of Nashville while enjoying a comfortable, stylish retreat in a vibrant, walkable neighborhood.
+
+Presented by Injoy Nashville: Experience Your Stay, Design by NP/Injoy
+
+Guest access
+DOOR APP
+
+Registration Details
+2024066407
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: InJoy Vacations
+Host User ID: 425884247
+Host Profile URL: https://www.airbnb.com/users/show/425884247
+Host Profile URL Source: public user permalink from passport userId
+InJoy Vacations proudly offers a selection of high-quality condo rentals in Panama City Beach, FL & Nashville, TN. We are a locally owned and operated business, and we love to share our community with owners and guests. Our goal is to provide exceptional vacation experiences to visitors, and we’ve perfected our craft. Many of our guests choose to return year after year.
+My work: InJoy Vacations
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+4503 reviews
+4.73 out of 5 average rating
+5 years of hosting

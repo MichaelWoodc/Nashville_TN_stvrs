@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1060250528818521182
+Latitude: 36.2464
+Longitude: -86.849
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the woods just 15 minutes from Downtown Nashville, this 3 bedroom, 2.5 bath custom-built log home offers 1000 sq ft of wrap-around porch living and luxury interior decor. You can enjoy the lights and sounds of Music City and rest well at night to nothing but the sounds of the forest.
+
+The space
+The cabin is 2 stories, featuring the primary bedroom on the first floor with an en-suite bathroom and 2 additional bedrooms on the second floor. There is a full bathroom directly in the middle of the 2 upstairs bedrooms. On the first floor, along with the primary bedroom, you will find an inviting living room with Smart TV, 8-person dining room table, fully equipped kitchen (everything you'd need to make home cooked meals, please note no cooking oil provided), and laundry room. There are 3 different entry points out on to the wrap around porch with additional seating and views of 2 seasonal ponds, a small bridge, and even a pear orchard! 
+
+Primary Bedroom (ground floor): 1 King bed + en suite bathroom
+Bedroom Two (upstairs): 2 Full beds 
+Bedroom Three (upstairs): 1 King bed
+
+Presented by Injoy Nashville: Experience Your Stay, Design by NP/Injoy
+
+Guest access
+Smart Lock
+
+Registration Details
+2023101035
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: InJoy Vacations
+Host User ID: 425884247
+Host Profile URL: https://www.airbnb.com/users/show/425884247
+Host Profile URL Source: public user permalink from passport userId
+InJoy Vacations proudly offers a selection of high-quality condo rentals in Panama City Beach, FL & Nashville, TN. We are a locally owned and operated business, and we love to share our community with owners and guests. Our goal is to provide exceptional vacation experiences to visitors, and we’ve perfected our craft. Many of our guests choose to return year after year.
+My work: InJoy Vacations
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+4503 reviews
+4.73 out of 5 average rating
+5 years of hosting

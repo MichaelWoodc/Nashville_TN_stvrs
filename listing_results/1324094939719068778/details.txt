@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1324094939719068778
+Latitude: 36.19453
+Longitude: -86.76601
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home in East Nashville! This beautifully designed 700 sqft guest house offers a great blend of modern comfort and charm. Both bedrooms have their own en suite bathrooms - perfect to get ready before hitting the town or exploring Middle Tennessee.
+
+The location is convenient with many coffee shops and restaurants in the neighborhood. 5 min drive to Five Points in East Nashville, 5-10 min to Lower Broadway, 15 min to 12 South, and 15 min to the airport.
+
+The space
+The primary bedroom features a luxurious king bed,  while the second bedroom has a cozy queen bed. Both bedrooms have comfortable linens and a sleek wall-mounted smart TV.
+
+The bathrooms include modern fixtures, glass door showers, and complimentary toiletries.
+
+The living area and kitchen have great natural light and a comfortable feel. There is a smart TV in the living area and the kitchen is fully equipped with stainless steel appliances and complimentary coffee.
+
+Also included are high speed Wi-Fi, central heating and cooling, and a washer and dryer.
+
+Guest access
+The entire second floor of the building is yours with a private exterior staircase.
+
+Other things to note
+Please note the following governmental taxes, which are different from Airbnb fees. Airbnb initially displays prices with fees included, but taxes will not be displayed until you proceed to book a reservation.
+
+As of January 2026:
+Tennessee Sales Tax: 7%
+Nashville Sales Tax: 2.25%
+Nashville Hotel Occupancy Tax: 6% plus $2.50 per night
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bill
+Host User ID: 48902367
+Host Profile URL: https://www.airbnb.com/users/show/48902367
+Host Profile URL Source: public user permalink from passport userId
+Hello! My wife Shevba and I live in Nashville, TN, USA. We started hosting on Airbnb in early 2025. As a guest I like to travel to expand my horizon, learn about others, reflect, and experience new things.
+Born in the 80s
+My work: Engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+48 reviews
+4.98 out of 5 average rating
+2 years of hosting

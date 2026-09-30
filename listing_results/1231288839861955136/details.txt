@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1231288839861955136
+Latitude: 36.18252
+Longitude: -86.80503
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+King Suite in Nashville! 5min from Nashville General Hospital, 8min from Downtown, Nissan Stadium, & Bridgestone Arena. 15min from Airport. Enjoy shared living room, fenced-in backyard with deck, fireplace, wrap-around outdoor couch, board games, & yard games. Relax & unwind in this convenient retreat!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kyle And Megan
+Host User ID: 587117926
+Host Profile URL: https://www.airbnb.com/users/show/587117926
+Host Profile URL Source: public user permalink from passport userId
+We are a family of 4 and we love Jesus and country line dancing .
+Born in the 90s
+Where I went to school: Kyle - Greene,NY  Megan-Horseheads,NY
+My work: Entrepreneurship.
+Fun fact: We met while linedancing
+For guests, I always: Want them to feel at home.
+Response rate: 38%
+Responds within a few days or more
+2 years hosting
+109 reviews
+4.46 out of 5 average rating
+2 years of hosting

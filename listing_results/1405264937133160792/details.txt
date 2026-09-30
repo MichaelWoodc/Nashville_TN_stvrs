@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1405264937133160792
+Latitude: 36.1753
+Longitude: -86.8112
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 8
+beds: 20
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Two giant homes with a total of 20 beds and more common areas than you know what to do with!  These homes are one block apart on the same street. With easy access to one another and more than 6500 sqft of interior space your large group will be comfortable and loving their time in Nashville!
+
+Everywhere you want to be downtown is within a 10 minute drive from the home!
+
+Don't need quite this much space? Both homes can be rented separately as well!
+
+The space
+1605 21st 4000 sqft -
+https://www.airbnb.com/rooms/605181888900550845
+
+4 Bedrooms
+4 Full Bathrooms
+13 Beds
+2 Large common areas
+Arcade
+Hot Tub
+
+Underwood 2600 sqft -
+https://www.airbnb.com/rooms/34307701
+
+4 Bedrooms
+3 Full Bathrooms
+7 Beds
+2 Large common areas
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lynn
+Host User ID: 231273495
+Host Profile URL: https://www.airbnb.com/users/show/231273495
+Host Profile URL Source: public user permalink from passport userId
+Hi
+I'm a real estate developer from Hampton Roads Virginia.  Best known for having seven amazing kids and an extraordinary wife.   We live in Nashville Tennessee and Hampton Roads Virginia on the Chesapeake Bay. That's our elaborate plan for stalking our kids.  They live in cities we like.  We develop real estate there and provide great places for others to come home as well
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1647 reviews
+4.9 out of 5 average rating
+8 years of hosting

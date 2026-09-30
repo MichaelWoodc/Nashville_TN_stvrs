@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1521225462177120823
+Latitude: 36.19075294965911
+Longitude: -86.77239941260515
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home! Nestled in the vibrant neighborhood of East Nashville, this stylish 3-story retreat is just 1.5 miles from downtown and Broadway. You’ll be nearby beloved local restaurants, cozy coffee shops, craft breweries, and laid-back dive bars, while still close enough to enjoy the excitement of the city. Relax on the rooftop deck with a view of the downtown skyline, or unwind in the comfort of this inviting space after a day of exploring.
+
+The space
+GUEST ACCESS
+
+✦ The entire home is yours to enjoy — all three floors, the private rooftop deck, and every amenity inside.
+
+LAYOUT
+
+First Floor
+✦ Living Room – Relax with the 65" HDTV  or stretch out on the queen sleeper sofa.
+✦ Kitchen – Fully stocked and ready for anything, with granite countertops, fridge/freezer, oven, stove, microwave, dishwasher, and a coffee maker to kickstart your mornings.
+✦ Dining Area – An easy open-concept setup with both table seating and counter stools — perfect for shared meals or casual snacks.
+✦ Half Bath – A convenient bathroom right on the main floor.
+✦ Laundry – Washer and dryer available for your use.
+
+Second Floor
+✦ Main Bedroom – King bed, 35" HDTV, spacious walk-in closet, and a private en-suite bathroom for maximum comfort.
+✦ Second Bedroom – A cozy queen bed, 35" HDTV, and generous closet space.
+✦ Hall Bath – Full bathroom with sleek, modern finishes.
+
+Third Floor
+✦ Rooftop Deck – Nearly 600 sq ft of outdoor hangout space with comfortable seating and sweeping views of downtown — ideal for morning coffee, sunset cocktails, or stargazing.
+✦ Wet Bar – A mini-fridge and serving counter make it easy to keep drinks and snacks upstairs.
+✦ Views – Large windows with skyline views that glow both day and night.
+
+HIGHLIGHTS:
+3-story townhome with high-end finishes
+Rooftop deck with stunning Nashville skyline view
+1.5 miles from downtown, close to Broadway
+Multiple HDTVs and free WiFi
+Modern kitchen and spacious living areas
+
+ACCESSIBILITY:
+Townhome includes stairs; no elevator
+Not wheelchair accessible
+
+Guest access
+PARKING:
+There are two dedicated outdoor parking spot and free street parking is available.
+
+ENTERING THE HOME:
+The Home is Accessed Via Self Check-In Using a Smart Lock with a Unique Code Per Guest.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Noah
+Host User ID: 121597029
+Host Profile URL: https://www.airbnb.com/users/show/121597029
+Host Profile URL Source: public user permalink from passport userId
+My work: Marketing Manager
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+72 reviews
+5.0 out of 5 average rating
+11 months of hosting

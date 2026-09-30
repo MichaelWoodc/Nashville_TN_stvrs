@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1364763966554115862
+Latitude: 36.178152072189874
+Longitude: -86.61822378462126
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a stylish and inviting townhouse, perfect for up to 8 guests. Thoughtfully designed with chic décor and modern comforts, this home offers bright, airy spaces, plush bedding, and a fully equipped kitchen. Enjoy beautiful views of the nearby park, and library, all just 15 minutes from downtown and 10 minutes from the airport. Experience warm hospitality and effortless convenience—book your stay today!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mohit
+Host User ID: 652291189
+Host Profile URL: https://www.airbnb.com/users/show/652291189
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+80 reviews
+4.91 out of 5 average rating
+2 years of hosting

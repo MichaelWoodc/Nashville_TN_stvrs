@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/679931862383553071
+Latitude: 36.1288
+Longitude: -86.7918
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Blackbird Manor is a beautifully remodeled 1930s cottage just 2 blocks from 12 South, 1 mile from Vanderbilt, and minutes to Broadway. This fully furnished 3BR/2.5BA home features adjustable beds, smart TVs, a dedicated office, high-speed WiFi, private gym, sauna, renovated kitchen, laundry, and keyless entry. Family-friendly with pack-and-play, high chair, and baby essentials. Walk to Nashville's best dining, shopping, and entertainment.
+
+The space
+Bedroom 1 – Primary Suite
+Spacious primary suite featuring an adjustable California King bed, smart TV, generous closet space, and a private en-suite bathroom. The perfect retreat for relaxation after a day exploring Nashville.
+
+Bedroom 2
+Comfortable guest suite with an adjustable California King bed, smart TV, and ample storage. Designed to provide the same premium sleep experience as the primary suite.
+
+Bedroom 3
+Inviting guest bedroom with a queen bed, smart TV, and convenient access to the home's full bathroom. Ideal for additional guests, children, or extended stays.
+
+Living Room
+Warm and welcoming living space with comfortable seating and a smart TV, perfect for gathering with family and friends or relaxing after a day in the city.
+
+Kitchen & Dining
+Fully remodeled and stocked kitchen featuring modern appliances, cookware, dishes, and everything needed to prepare meals at home. Enjoy a dedicated coffee bar with a Keurig coffee maker and Breville Barista Express espresso machine, fully stocked with complimentary coffee. The separate dining room offers a comfortable setting for meals, entertaining, or working remotely.
+
+Home Office
+Dedicated workspace with desk, chair, and high-speed WiFi, making remote work or business travel effortless.
+
+Private Gym & Sauna
+Enjoy exclusive access to a private fitness room and in-home sauna, providing the convenience of wellness and relaxation without leaving the property.
+
+Outdoor Living
+Relax on the classic front porch or unwind on the newly built rear deck, perfect for morning coffee, outdoor dining, or an evening glass of wine.
+
+Family-Friendly Amenities
+Traveling with little ones? Blackbird Manor includes a pack-and-play with sheets, high chair, baby utensils, plates, bibs, and cups to make family travel easier.
+
+Sleeping Arrangements
+Bedroom 1: Adjustable California King Bed
+Bedroom 2: Adjustable California King Bed
+Bedroom 3: Queen Bed
+Sleeps up to 6 guests comfortably.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Veronica
+Host User ID: 339409561
+Host Profile URL: https://www.airbnb.com/users/show/339409561
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Veronica! I created Blackbird Manor as the kind of place I love staying in myself—comfortable, welcoming, and close to everything that makes Nashville special.
+
+When I'm not hosting guests, I'm usually enjoying the home myself, relaxing in the neighborhood, discovering great local restaurants, and spending time with my Pomeranian, Mr. Big.
+
+I hope you enjoy Blackbird Manor and Nashville as much as I do!
+Where I went to school: Belmont Abbey College, Belmont NC
+My work: Real Estate Broker
+Response rate: 100%
+Responds within an hour
+3 months hosting
+3 reviews
+5.0 out of 5 average rating
+3 months of hosting

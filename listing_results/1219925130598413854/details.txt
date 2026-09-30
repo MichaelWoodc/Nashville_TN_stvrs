@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1219925130598413854
+Latitude: 36.2856788714914
+Longitude: -86.71757108399865
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located just 15 minutes from downtown Nashville, The Slayton House is your gateway to both city attractions and suburban tranquility. Perfectly situated near parks and shopping, it’s an ideal base for exploring all this city has to offer. Whether you’re here for live music, history, or dining, our home provides a comfortable space to recharge. We can’t wait to welcome you to The Slayton House!
+
+Other things to note
+This is a quiet, residential duplex designed for relaxed stays.
+
+Please note:
+• This home is located in a residential area, so a car or rideshare is recommended for restaurants, nightlife, and downtown activities.
+• While the space is designed for a quiet, relaxed stay, occasional sound from the neighboring unit or surrounding homes may be heard.
+• No parties or events
+• Primary guest must be 25+
+• Please ensure your reservation reflects the correct number of guests
+
+We kindly ask all guests to review our full house rules prior to booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 595271855
+Host Profile URL: https://www.airbnb.com/users/show/595271855
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 50%
+Responds within a day
+2 years hosting
+46 reviews
+4.78 out of 5 average rating
+2 years of hosting

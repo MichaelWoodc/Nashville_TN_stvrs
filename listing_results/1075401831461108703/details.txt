@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1075401831461108703
+Latitude: 36.26745
+Longitude: -86.59605
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax and unwind in this stylish space that offers lake views and amenities for everyone in your group. Perfect as a creative retreat or get together for friends and family.
+
+The space
+The MAIN LEVEL includes a large sunny living room, dining area and chef's kitchen plus 3 ensuite bedrooms, a sun room, and a half bath--
+
+The PRIMARY KING ENSUITE has lake views from each window. 
+
+KING BEDROOM 2 opens to the deck with backyard and lake views.
+
+QUEEN BEDROOM 3 looks out over the garden with lake views.
+
+The LOWER LEVEL includes 2 full size beds, queen sleeper sofa, full bathroom, TV area, game table, and opens out to the patio, pool and hot tub. 
+
+The saltwater pool is open Mar-Nov. The hot tub is open year round. The fire pit, dock and shoreline are behind the house.
+
+Let us know if you'd like to bring your boat and dock at ours during your stay. 2 kayaks and plenty of noodles are available for your use.
+
+Guest access
+This is our own house. We'll keep the garage and owner's suite locked, but you'll have access to everything else the lakehouse has to offer.
+
+Other things to note
+The use of pool, hot tub, and lake is at your own risk. We are not responsible or liable for any actions or events that take place by you or your guests.
+
+Children are welcome and must be supervised at all times.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deidre
+Host User ID: 21895643
+Host Profile URL: https://www.airbnb.com/users/show/21895643
+Host Profile URL Source: public user permalink from passport userId
+I'm a traveler, I'm curious about people, and I enjoy a good conversation where I get to learn something new!
+Where I went to school: Vandy
+My work: Filmmaking
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+1707 reviews
+4.82 out of 5 average rating
+11 years of hosting

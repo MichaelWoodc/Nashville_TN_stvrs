@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1234896246424862692
+Latitude: 36.1431
+Longitude: -86.8255
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Dolly Vibes Only, a 1-bedroom, 1-bath retreat full of Dolly Parton flair in the heart of Sylvan Park! Just a mile from Vanderbilt and 2 miles from the buzz of Lower Broadway, this ever-so-Dolly chic retreat brings Nashville to your doorstep with all the glitz and glam of Dolly herself!.  Enjoy the cozy outdoor space with Adirondack chairs and café lights at the end of the day.  It’s perfect for play or a “9 to 5” work day.
+
+The space
+Step into Dolly Vibes Only, a one-bedroom, one-bathroom retreat with the charm of Dolly Parton herself! From the moment you enter, you’ll be wrapped in Dolly’s iconic style—prepare meals in the full kitchen, decked out with custom Dolly wallpaper that pops against bright blue cabinets. It’s the perfect setting to whip up something fabulous while channeling your inner country star. 
+
+When it’s time to dine, settle into the chic, Dolly-fied dining space, where every detail is as vibrant as Dolly's wardrobe. The living area is equally as fun, with bright, spacious vibes that bring a touch of Tennessee’s Queen of Country into every corner.
+In the bedroom, you’ll find two comfy queen beds, with room-darkening curtains and a ceiling fan to ensure a restful night’s sleep. The bathroom offers a tub/shower combo—perfect for a relaxing soak or a quick refresh before heading back out to enjoy the town.
+
+Step outside and kick back in the community outdoor area, where you can relax under café lighting in Adirondack chairs. 
+
+And if you’re feeling adventurous, hop on your bike to Vanderbilt or take a stroll along the Richland Greenway, just steps away, leading you straight to the beautiful Centennial Park. Dolly Vibes Only is more than a stay—it’s an experience in pure Dolly magic!
+
+Guest access
+Guests have full access to the private apartment and shared outdoor spaces.
+
+Other things to note
+Please be aware that a freight train runs behind the apartment complex, operating irregularly, including during the night. While some guests may not be bothered by the noise, others may find it disruptive. If you are sensitive to noise, we recommend not renting this property.
+
+The train travels from Memphis to Nashville, but it does not blow its horn near the building, so you will mostly hear it as background noise. It is mostly obscured from view by vegetation. To help minimize disturbances, sound and light-reducing curtains and a sound machine are provided.
+
+Stairs are required to access Apt. 12 on the 2nd floor.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5524 reviews
+4.92 out of 5 average rating
+13 years of hosting

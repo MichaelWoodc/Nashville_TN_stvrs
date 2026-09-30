@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1358257295353148577
+Latitude: 36.250792133191084
+Longitude: -86.64029447636625
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 12
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Lakesview Living at Blue Turtle Bay!  Right off the shores of Old Hickory Lake, you get two spacious homes—perfect for your fun-filled getaway with friends & family! Each unit is a 4BR/3BA home (8BR/6BA, 18 beds total), offering modern comfort with a relaxed lakeside vibe. Plus, you're just minutes from all the Nashville action!
+
+You’re only:
+20 mins to Broadway & Downtown
+18 mins to Vanderbilt University
+22 mins to Music Row & The Gulch
+25 mins to Nissan Stadium
+20 mins to the airport
+
+The space
+Welcome to Scarlett Shores & Lakeside Blues!
+
+Where every detail captures the vibrant spirit of Nashville! These two units are Better Together, blending Music City charm with modern comfort—perfect for your next getaway.
+
+🍽️ Cook & Gather: Our fully stocked kitchens make home-cooked meals a breeze—just bring the ingredients!
+
+🛏️ Sleep in Style: Spacious bedrooms, and cloud-like comfort for a restful night after a day of exploring. (8BR 6BA total)
+
+🧺 Stay Fresh: In-unit washer & dryer for easy laundry during your stay.
+
+📺 Endless Entertainment: TVs with all your favorite streaming services—because sometimes a cozy night in is just what you need.
+
+🎸 More Than a Stay—It’s an Experience! Whether you're unwinding inside or soaking up the Nashville energy just outside, Spinnin' Pretty & The Record Room are your perfect home base. Book now and make unforgettable memories!
+
+Guest access
+You'll be booking two charming townhome units. They're conveniently located within a few doors of each other, making it a breeze for everyone to connect and enjoy each other's company. Just a quick heads up, these units aren't right next to each other or directly connected, but they're close enough for easy access and mingling.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin
+Host User ID: 385021064
+Host Profile URL: https://www.airbnb.com/users/show/385021064
+Host Profile URL Source: public user permalink from passport userId
+Hey, I'm Justin. I believe great travel is about experiencing a place, respecting it, and leaving it better than you found it. That's the kind of stay I try to create—thoughtfully designed homes, easy communication, and spaces I'd genuinely want to stay in myself. If you travel the same way, I'd love to host you. 
+
+IG: @peakhost | YouTube: @justhostin for hosting tips, behind-the-scenes, and exclusive deals.
+Born in the 90s
+Where I went to school: St. Joseph's University
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+2033 reviews
+4.84 out of 5 average rating
+6 years of hosting

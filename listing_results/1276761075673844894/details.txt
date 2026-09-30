@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/1276761075673844894
+Latitude: 36.1546
+Longitude: -86.8204
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This unique place has a style all its own. "Back Stage Pass" is full of iconic musician decor so your group gets the Nashville experience! The bright lights of Broadway are just 2.7 miles away. When you book with us you get an incredible guidebook to Nashville and this incredible home.
+
+The space
+Welcome to Back Stage Pass!
+
+We’re excited to host you at our modern and stylish townhome in the heart of City Heights! You’re just minutes away from some of Nashville’s most iconic attractions, with downtown, Broadway, Demonbreun St, Bridgestone Arena, Nissan Stadium, and the Gulch all within a short Uber/Lyft ride.
+
+This expertly designed home features:
+
+- 4 Bedrooms & 4 Baths: Perfect for any bachelor/bachelorette trip, groups of friends or a family get-together!
+- Luxurious Kitchen: Fully equipped with appliances and bar seating.
+- Open Concept Living Area: Includes a Smart TV, plenty of comfortable seating, sofa pullout bed, vibrant Taylor Swift Mural and a custom Music City sign.
+- Game Room: Enjoy fun for all ages with a Ping Pong table, dart board and a Pac Man machine.
+- Double-Sided Rooftop: Relax with city views in our lounge space featuring a custom boxwood wall and a Backstage Pass light sign.
+
+Sleeping Arrangements:
+
+Bedroom 1: 1 King bed - First Level
+Bedroom 2: 1 King bed - Main Level plus sofa bed in living room
+Bedroom 3: 2 Queen beds with 2 trundles - Third Level
+Bedroom 4: 2 Queen beds - Third Level
+
+Amenities for the Perfect Stay:
+
+- High-Speed Wi-Fi and 3 Smart TVs
+- Game Room with Ping Pong and a Pac Man machine
+- Parking Available - 1 spot in garage and free parking on premises and street parking for 40+ cars 
+- Fully Stocked Kitchen: All the essentials for cooking or reheating meals, including a coffee maker and toaster oven.
+- Massive rooftop deck with breathtaking city views
+- 8 beds
+- Air conditioning and heating
+- In unit washer/dryer
+- Self check-in with keyless entry
+- Spacious bedrooms with modern bathrooms
+
+Parking:
+
+- Attached garage with space for 1 vehicle provides secure and convenient parking
+- Additional free street parking available in front of the property, offering extra space for more vehicles or guests.  
+
+Guest Access:
+
+Guests will have exclusive access to the entire property for the duration of their stay. Entry instructions and an access code will be provided to guests prior to arrival, ensuring seamless, and stress-free check-in. The property is equipped with a smart lock for easy access and an element of added security. 
+
+Listing Must Knows:
+
+- Publix (1.9 miles away), Sandbar, Starbucks, and L&L Market all under 1 mile.
+- Minutes from downtown Nashville.
+- Towels and linens provided, along with an iron/board and washer/dryer.
+- You’ll have access to the entire home, making it the perfect getaway for relaxation and fun. If you have any questions or need assistance during your stay, feel free to reach out!
+
+Enjoy your time in Nashville and make yourself at home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: M&W Property Management
+Host User ID: 552986316
+Host Profile URL: https://www.airbnb.com/users/show/552986316
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+36 reviews
+4.67 out of 5 average rating
+2 years of hosting

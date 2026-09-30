@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1364214067902319595
+Latitude: 36.16652340542823
+Longitude: -86.78335980963747
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Nashville Escape Awaits at Margaritaville! This sleek space creates a trendy backdrop for your stay.  Relax in style at this cozy studio featuring a king bed and double sleeper sofa, perfect for up to 4 guests. Enjoy modern comforts, a kitchenette, and a private balcony.  Take a dip in the rooftop pool, savor live music, and soak in the city views. Your Music City adventure starts here—book now and let the good times roll! 
+
+Sleeps 4 • Rooftop pool • Prime downtown location
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Serenity
+Host User ID: 434236194
+Host Profile URL: https://www.airbnb.com/users/show/434236194
+Host Profile URL Source: public user permalink from passport userId
+A group of friends with a serious passion for travel.
+Response rate: 100%
+Responds within a few hours
+3 years hosting
+142 reviews
+4.75 out of 5 average rating
+3 years of hosting

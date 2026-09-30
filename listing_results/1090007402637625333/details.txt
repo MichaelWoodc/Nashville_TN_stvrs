@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1090007402637625333
+Latitude: 36.18463
+Longitude: -86.84066
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Brahms Haus! Perfect for Short or Long Term stays.  Less than 10 Minutes from Nashville's best stuff and BROADWAY. Large Open Living & Kitchen. Stainless Appliances and Cookware. Smart TVs in Bedrooms. Three Queen Beds, 1 Twin XL and Futon Couch. Dedicated Working Space with Brother Printer. Google Nest and SimpliSafe. Backyard perfect for pets with Large Covered Patio. Tons of Parking. Garage perfect for storage, tools and equipment.  We hope you come and stay a while :)
+
+The space
+Large Bedrooms
+Comfortable Furniture
+Very Nice
+
+Guest access
+Front Door. The entire house.
+
+Other things to note
+Perfect for families, groups, nurses, students and construction crews.
+Tons of closets and room for storage in garage
+House has everything you need. 
+SimpliSafe Security system
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steve
+Host User ID: 561732100
+Host Profile URL: https://www.airbnb.com/users/show/561732100
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+45 reviews
+4.44 out of 5 average rating
+2 years of hosting

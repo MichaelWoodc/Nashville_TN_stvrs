@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1482785207969254719
+Latitude: 36.19972
+Longitude: -86.71069
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! You’re in a quiet and safe neighborhood in East Nashville, a 3-5 minute drive to some of East's best cafes, restaurants and bars. 15 minutes to Downtown, Broadway and to the Opry! Perfect for travel with family, friends, or work!
+
+Across the street from Riverwood Mansion, we’re a perfect place to say if you're attending a wedding there. Whole house water filtration, full kitchen and cooking tools. 3BR, 2BA.
+
+No pets. No smoking. Quiet hours are 11:30pm-7am.
+
+Permit #2025081
+
+The space
+My home is in a quiet neighborhood in East Nashville. It was built in 1962 and was remodeled last year. There are 3 bedrooms - the primary bedroom has a queen bed, a dresser, a large shower, two sinks, a toilet and a large closet. The desert room has a full size bed, dresser and closet. The forest room has two twin beds, a dresser and a closet. They are on each side of a bathroom with shower, tub, toilet and sink. The living room has a futon couch that can become a bed. There are also 3 cushioned chairs and a piano!
+
+We have a whole-house water filtration unit and a kitchen sink reverse osmosis and re-mineralization unit. All linens are cotton and most are organic.
+
+Safe and quiet neighborhood with friendly neighbors. Nice to go for walks and close to Shelby Park - a nature reserve. 
+
+Parking on street and in driveway. Sometimes I live in the ADU garage conversion!
+
+Guest access
+Guests can use all parts of the home except for areas marked “Private” and the ADU garage conversion (sometimes I stay there).
+
+Please be careful in the backyard as we are still dealing with the ice storm tree debris, remodeling and demo materials.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 3040668
+Host Profile URL: https://www.airbnb.com/users/show/3040668
+Host Profile URL Source: public user permalink from passport userId
+Hi my name's Daniel Ray Hilsinger. I'm a singer songwriter, filmmaker, photographer and I'm very grateful to be alive! 
+
+I love to cook and enjoy time with my family and loved ones. I love the ocean, trees and nature. I am kind, considerate, compassionate and caring. I love to learn and to travel and hope to see as much of the world as I can!
+Where I went to school: Dartmouth College
+My work: singer/songwriter
+Response rate: 100%
+Responds within an hour
+Superhost
+14 years hosting
+49 reviews
+4.65 out of 5 average rating
+14 years of hosting

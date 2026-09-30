@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/11990998
+Latitude: 36.12141
+Longitude: -86.7429
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🌟 Hip Cottage Retreat — 5-Star Comfort close to downtown & airport! 🌟
+
+Welcome to your private Nashville escape!
+This newly renovated 1-bedroom, 2-bed cottage offers the perfect blend of comfort, convenience, and Southern charm — ideal for couples, friends, or solo travelers looking to enjoy the city without sacrificing peace and privacy.
+
+✅ 5-Star Rated by happy guests
+✅ 2 miles to Downtown Nashville & Broadway
+
+The space
+Totally private Stylish Cottage 8 minutes from Nashville core. Air conditioned, Endless hot water, double filtered aquasana water, new furniture just renovated. $9 average Uber from city center, outdoor seating front and back porch, full kitchen, food and drink delivered to door from Publix. Plush rugs and modern concrete floor. Much more!! It was built in 1945 so old house charm and eclectic decor make for a totally unique spot and traveling experience. All are welcome! :)
+
+Guest access
+You can access all, 8 foot privacy fence, nice yard, outdoor seating in front and in back with a rock garden and festive lighting. Small but newly renovated with new bed, queen couch bed, entire bath, and decor.
+
+Other things to note
+Self Check in with a lock-box on front porch, instructions in Self Check-in on Airbnb app
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tina
+Host User ID: 64102361
+Host Profile URL: https://www.airbnb.com/users/show/64102361
+Host Profile URL Source: public user permalink from passport userId
+As a native Nashvillian I have always lived in this beautiful city and love it to the ends of the earth!
+I have rebuilt and designed this cottage to be a comfortable haven for all travelers to my beautiful city. With all the comforts of home I want to provide you a fabulous stay in a quiet neighborhood with a super comfy bed, fine linens, plush towels and a place to call your own.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+719 reviews
+4.92 out of 5 average rating
+9 years of hosting

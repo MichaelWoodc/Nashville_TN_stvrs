@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1066021435973962222
+Latitude: 36.1375
+Longitude: -86.7977
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NEW Charming Home in the Heart of Nashville
+
+Welcome to a delightful residence nestled in the vibrant and sought-after neighborhood of Nashville, TN. This charming home offers a perfect blend of classic elegance and modern comfort, making it an ideal haven for those seeking a distinctive urban lifestyle.
+Minimum age of 25 required.
+
+Please see pics for Nashville STR permit info.
+
+The space
+The home is awesome with a floor plan that works well for groups of 8-10. Some of the best features of the home include a selfie wall with props, roof top deck and 2 living spaces! The home also is equipped with large beds, only queen and king will do! 
+
+***Please note there are 6 total beds, 4 kings and 2 queens. The master bedroom is equipped with custom queen over king bunk bed. There is also a queen bed in the 4th floor which is a murphy bed.
+
+Guest access
+Guest will receive access directions within 72 hours of check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kyle
+Host User ID: 536987608
+Host Profile URL: https://www.airbnb.com/users/show/536987608
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: THE Ohio State University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+137 reviews
+4.92 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1190480706538312158
+Latitude: 36.206
+Longitude: -86.8098
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the lap of luxury in this 4 bedroom, 4 bath townhouse with amazing views of the Nashville skyline, from the 4th floor rooftop.  Short ride to downtown.  Luxurious bedrooms with a mix of king, queens, and full sized beds, comfy mattresses, and TV’s in each room.  Upscale bathrooms, with walk in, tile showers in 3 of the 4, a bathtub in the fourth.  Kitchen and living room have a spacious open floorplan, with additional speakeasy-like den.
+
+The space
+Our townhouse is a fully stocked "home away from home".  Each guest may enjoy their own space in one of the four bedrooms or come together in the open floorplan living room / kitchen space, speakeasy space with pool table on first floor, or the rooftop deck.  You are only minutes from downtown Nashville.
+
+The rooftop is a private space just for our guests.
+
+There will be a 30% (of daily rate) surcharge for checkins earlier than 3:00pm and checkouts later than 11:00am.
+
+Other things to note
+Permit #2024061705
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sherry
+Host User ID: 586603324
+Host Profile URL: https://www.airbnb.com/users/show/586603324
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+71 reviews
+4.86 out of 5 average rating
+2 years of hosting

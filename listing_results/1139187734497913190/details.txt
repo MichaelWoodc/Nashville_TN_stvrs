@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1139187734497913190
+Latitude: 35.972
+Longitude: -86.88362
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a warm, welcoming stay at this private country chic retreat where cozy meets stylish in the heart of America's favorite small town. This beautifully decorated space offers the perfect blend of charm & utility, making it the ideal getaway for a relaxing, vibrant visit. Recuperate on the large front porch watching a beautiful sunset chased by hundreds of sparkling fireflies. Experience the perfect blend of comfort, stylish utility & affordability with any creature comfort minutes away.
+
+The space
+This is a private space, with. I shared spaces or access points. It has your own private entrance and outside porch to sit and relax on. There are shared doubly “soundproofed” walls for added comfort and privacy.
+
+Guest access
+Exclusive use your the Airbnb space, front porch, amenities and yard at your leisure.
+
+Other things to note
+There is an Airbnb approved decibel meter in the unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 48784673
+Host Profile URL: https://www.airbnb.com/users/show/48784673
+Host Profile URL Source: public user permalink from passport userId
+Our family's been living and hosting in Franklin TN for 8 years, and we'd be honored to host you. We take great pride in providing an exceptional personal stay and experience, as well as being accessible if you require. If there's anything you need, please don’t hesitate to ask. If we don't have it, we’ll get it. Your comfort and enjoyment is absolutely paramount to us. We hope you'll take advantage, and book with us. You won’t regret it!
+Born in the 70s
+Where I went to school: University of Richmond
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1022 reviews
+4.97 out of 5 average rating
+10 years of hosting

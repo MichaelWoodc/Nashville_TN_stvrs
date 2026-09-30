@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/638460604227329482
+Latitude: 36.1292
+Longitude: -86.79381
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable, convenient and beautiful, this modern 1 bedroom free standing guest house is an extraordinary value. Located in the heart of the bustling Belmont/Hillsboro 12th South district you will be centrally located to see the best Nashville has to offer.
+
+The space
+It is the perfect location for music city visitors, Belmont parents, or couples who want to explore the many shops and restaurants in the Hillsboro Village/12th South area. The building is completely freestanding and private, and amazingly quiet due to extra insulation in walls and floors. One car parking is free and 2 car parking is available. The house has hardwood floors, 10 foot ceilings, and large full length windows with built in adjustable shades. The house has a modern kitchen with a gas stove, microwave, half size refrigerator, ice maker, dishwasher, lots of cabinet space and all cooking and dining utensils for longer stays. Large living room with new 55' LED television and fast/free wifi. Brand new Ethan Allen queen sized pull out couch. The bedroom is separated from the living area for privacy, and has a large comfy queen sized bed (top of the line mattress), and has a large walk-in closet. The bathroom is exceptional with a honeymoon tub, and a steam shower. All towels, soap, etc provided. A cleaning/laundry can be arranged for your stay.
+
+Guest access
+There is an upstairs loft that is used as an office by the owner but the entrance is separate and privacy respected.
+
+Other things to note
+The building was built by Ben Folds of Ben Folds Five and no expense was spared.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 93347817
+Host Profile URL: https://www.airbnb.com/users/show/93347817
+Host Profile URL Source: public user permalink from passport userId
+Welcome! Amanda (the property manager/concierge) here.... I, along with the team, would like to welcome you to our charming air bnbs! We aim to make your stay at our houses and your time a memorable one! Please contact us with any questions you may have!
+
+When I get the chance to travel myself, I love visiting new places and checking out all they have to offer.. I love live entertainment, the outdoors and food - the more unique/local, the better!
+My work: Property Host for Short Term Rentals, Editor of Nashville Music Guide, Full-Time Mom
+Most useless skill: Being a Pollyanna
+Response rate: 100%
+Responds within a day
+10 years hosting
+171 reviews
+4.68 out of 5 average rating
+10 years of hosting

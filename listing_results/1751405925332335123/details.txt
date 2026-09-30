@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1751405925332335123
+Latitude: 36.1351
+Longitude: -86.7771
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+* FREE High Speed WIFI
+* FREE Coffee & Tea Station
+* FREE Fully Equipped Kitchen & Cooking Essentials
+* FREE Washer & Dryer W/ detergent
+* FREE Self Check-in W/ Smart Lock
+* FREE On-site 2 Cars garage W/ Driveway
+
+6 mins - Vanderbilt University
+6 mins - GEODIS Park
+8 mins - Vanderbilt University Medical Center
+9 mins - VA Tennessee Valley Healthcare
+10 mins - Ascension Saint Thomas Hospital Midtown
+11 mins - Nissan Stadium 
+12 mins - TriStar Centennial Medical Center
+14 mins - Honky Tonk highway
+
+The space
+Nestled in the vibrant Wedgewood-Houston (WeHo) neighborhood, this prime location places you right next to local breweries, top dining off 8th Avenue South, and minutes from Downtown, The Gulch, and 12 South.
+
+Designed to welcome families, game-day fans heading to Nissan Stadium, and traveling healthcare professionals near major medical centers, this space offers the perfect mix of cozy comfort, convenient parking, and fast access to all the action.
+
+Guest access
+Entire space to unwind or entertain your family.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 1733373016031266856
+Host Profile URL: https://www.airbnb.com/users/show/1733373016031266856
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting
+11 reviews
+5.0 out of 5 average rating
+1 month of hosting

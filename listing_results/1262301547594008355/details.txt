@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1262301547594008355
+Latitude: 36.153598563783596
+Longitude: -86.6383488822471
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*Important* We do not allow parties at this property. It is perfect for small groups, family vacations, travel nurses, and other business/tourist travels. This is a duplex with unit A on the right for our guests.
+
+Relax with the whole family at this peaceful place to stay. Less than 10 minutes from the airport, 17 minutes to Broadway and 4 min to Percy Priest Lake. You will feel right at home when you step into this spacious, clean, cozy townhouse.
+
+The space
+This townhouse/duplex is newly renovated with lots of natural light, high ceilings and an open floor plan. We know it can be hard to remember everything when you are traveling so we have tried to do that for you. We provide a hair dryer, and iron for our guests convenience. This townhouse also has a full kitchen well stocked. The bathrooms are stocked with Shampoo and Conditioner and fresh bath towels. There is also laundry on the premises. Time and thought have been put into the comfort and decor, to make our guests have a memorable experience. We also have a pack n' play, children's books and games for a family friendly experience.
+
+We have a smart T.V. in the living room and the master bedroom. There is a back deck where you can relax in the evening and listen to the creek in the back.
+
+Both bedrooms and two bathrooms are upstairs and a 1/2 bath downstairs. The Master has an in-suite bathroom. The guest room has a full bed, a single bed with another single trundle.
+
+Guest access
+We do not allow parties at this property. We use a noise alert monitoring system in order to ensure that neighborhood noise levels are respected. There is no electronic video surveillance or audio recording. It simply notifies guests and us when the noise levels has reached a volume that would disturb the neighbors
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 165141932
+Host Profile URL: https://www.airbnb.com/users/show/165141932
+Host Profile URL Source: public user permalink from passport userId
+Lives in Maryville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+47 reviews
+4.83 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1129093911476121290
+Latitude: 36.20496
+Longitude: -86.76067
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 0
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Looking for a Nashville vacation, and want to be in the heart of it all? Stay with us! This newly built home is centrally located just north of the downtown district. The 3BD/3.5BA home features plenty of space to gather and relax. With an excellent selection of local bars and eateries all around, it’s the perfect space for all groups. With the property located less than 4 miles from Nashville’s famous Broadway strip, it provides the best of what our town has to offer.
+
+The space
+The Space--
+Bedroom #1: 1 full over full bunk bed (main level)
+Bedroom #2: 1 queen (3rd floor)
+Bedroom #3: 1 king (3rd floor)
+Living Room: 2 air mattresses
+
+Bathroom #1: walk-in shower (hallway)
+Bathroom #2: tub/shower combo (ensuite)
+Bathroom #3: walk-in shower (ensuite)
+Half Bath: living level (2nd floor)
+
+About the home:
+-3 bedrooms
+-3.5 bathroom
+-10 people MAX accommodation
+-Rooftop Patio
+-2 car garage (only parking)
+
+House Amenities:
+-WiFi
+-Smart TVs
+-Basic Amenities (paper products, soaps, trash bags, etc)
+-Linens Provided
+-Stocked Kitchen
+
+OTHER THINGS TO NOTE:
+-- No parties, excessive noise, or illegal activity of any kind.
+-- Check-in is any time after 3 p.m. Check-out by 10 a.m.
+-- Primary renter must be over the age of 21.
+-- Maximum occupancy is never to exceed 10 people.
+-- The base rate is based on 6 guests. There is an extra fee of $25 per person per night over SIX guests to a maximum of TEN and this includes children and infants. This pricing allows smaller groups and families to enjoy my home without paying the same price as larger groups.
+-- Same day bookings require approval. Do not instant book. 
+--Local Permit: Issued Year 2023 followed by 039 then 079 - this is required to legally rent in Nashville.
+
+Guest access
+Guest will receive a unique access code to the property prior to arrival time.  We do require the check-in form and rental agreement executed prior to gaining access to the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lischey
+Host User ID: 570929799
+Host Profile URL: https://www.airbnb.com/users/show/570929799
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+6 reviews
+4.33 out of 5 average rating
+2 years of hosting

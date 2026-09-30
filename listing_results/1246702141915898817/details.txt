@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1246702141915898817
+Latitude: 36.17838626391354
+Longitude: -86.61685948737602
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Serene Retreat in Hermitage! This cozy getaway offers 3 spacious bedrooms, each with a private bath, a fully equipped kitchen, and a relaxing living area, spread across 3 floors. Located in a peaceful neighborhood, you’re just 20 minutes from downtown Nashville. Enjoy a private 2-car garage, and professionally laundered linens. Explore nearby Percy Priest Lake, Hermitage Park, and local attractions. Ideal for families or groups—book now and make yourself at home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mohit
+Host User ID: 652291189
+Host Profile URL: https://www.airbnb.com/users/show/652291189
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+80 reviews
+4.91 out of 5 average rating
+2 years of hosting

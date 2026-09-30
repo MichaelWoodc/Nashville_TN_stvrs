@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1332708865268980980
+Latitude: 35.9785
+Longitude: -86.8297
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 7
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this stunning 1-acre hilly retreat with  creek in the front, woods in the back, and a lush lawn filled with fruit trees and flowering shrubs. Fenced backyard with chicken & sheep. Perfect for weddings, receptions, reunions, and corporate meetings with parking for 30+ cars. Sleeps 14 guests, featuring 3 living rooms, 5 bed rooms, a game room/meeting space for 50, and a fully equipped kitchen with an 8-seat dining area. Ideal for nature lovers and group gatherings. Book your stay today
+
+The space
+🏡 Bedroom & Bathroom Layout (Easy Overview)
+
+The home has 5 bedrooms and 4 full bathrooms, laid out across two levels.
+
+Main Floor (No Stairs)
+• Almond Suite
+– 1 bedroom
+– Private attached full bathroom
+– Sleeps 2
+Upper Floor (Accessed by Stairs)
+• Pear Suite
+– 1 bedroom
+– Private attached full bathroom
+– Sleeps 2
+• Walnut Suite
+– 1 bedroom
+– Private attached full bathroom
+– Sleeps 4
+• Maple Suite (2 Bedrooms)
+– Consists of two separate bedrooms (sometimes listed as Maple Suite and Maple Suite 2)
+– These two bedrooms are connected by a shared Jack-and-Jill full bathroom
+– Combined sleeping capacity: up to 6 guests
+
+Important Notes
+
+• Almond, Pear, and Walnut Suites each have their own private bathrooms
+• Maple Suite rooms are separate bedrooms but share one bathroom
+• Photos may look similar for Maple Suite rooms because they are part of the same connected suite
+
+Other things to note
+ROOM LAYOUT: Main floor Almond Suite (private bath, sleeps 2). Upstairs: Pear Suite (private bath, sleeps 2), Walnut Suite (private bath, sleeps 4), Maple Suite = 2 bedrooms sharing a Jack & Jill bath (sleeps 6).
+Best room assignments for groups: Babies or light sleepers do well in Almond or Pear Suites (private baths). Snorers are best in Almond, Pear, or Walnut Suites. Maple Suite is ideal for families sharing space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Becky
+Host User ID: 672527638
+Host Profile URL: https://www.airbnb.com/users/show/672527638
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+Superhost
+2 years hosting
+63 reviews
+4.68 out of 5 average rating
+2 years of hosting

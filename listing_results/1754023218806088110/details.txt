@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1754023218806088110
+Latitude: 36.13184
+Longitude: -86.76788
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish, spacious home in Wedgewood-Houston, one of Nashville’s most vibrant neighborhoods. Close to downtown, Broadway, GEODIS Park, restaurants, breweries, galleries, Vanderbilt, and Music City’s top attractions. Relax in a beautifully finished home with comfortable living spaces, a fully equipped kitchen, fast Wi-Fi, entertainment, and convenient parking. Ideal for families, groups, concerts, sporting events, corporate stays, and extended visits.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike
+Host User ID: 19361288
+Host Profile URL: https://www.airbnb.com/users/show/19361288
+Host Profile URL Source: public user permalink from passport userId
+I have been in the real estate investment business since high school. I was remodeling homes in my teens and I have taken that experience to my favorite city. I hope you enjoy the extra detail and fun I put into my homes. It is my goal to make your stay in KC the absolute best it can be. 
+
+Mike Kudrna
+My work: Real Estate Investment
+Speaks English
+Response rate: 80%
+Responds within an hour
+9 years hosting
+184 reviews
+4.88 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1483595743696442021
+Latitude: 36.2028
+Longitude: -86.6979
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Dinner on the screened porch while the General Jackson showboat paddles past below — that's this house. A Cumberland riverfront home in East Nashville with a fire pit in the terraced yard, a one-minute walk to Shelby Bottoms Greenway, and Riverside Village minutes away. Sleeps ten properly: three bedrooms with king beds, five beds total, two full baths. Full kitchen, keypad self check-in. Downtown is about fifteen minutes when you want it; the river is right there when you don't.
+
+The space
+This beautiful riverfront home in East Nashville offers the perfect blend of comfort, style, and space. With 3 thoughtfully designed bedrooms and ample sleeping arrangements for up to 8 guests, it’s ideal for families, groups, and special getaways. Enjoy a fully equipped kitchen, cozy living room, and dining area that opens to serene river views. Step outside to a peaceful deck and enjoy your morning coffee or evening wine while watching the water flow by.
+
+Other things to note
+Smoking Fee - $250
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2254 reviews
+4.86 out of 5 average rating
+4 years of hosting

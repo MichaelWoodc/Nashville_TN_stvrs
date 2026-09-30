@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1134975995538255451
+Latitude: 36.24859
+Longitude: -86.63976
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your stay in Nashville just a block away from Old Hickory Lake. This historic 1920s home provides original character with modern conveniences. Walk to the Lake and grab dinner at Sam's Sports Grill or take a 20 minute Uber to Downtown Nashville. Two kayaks are provided for you to use during your stay. Please make use of our herb garden and kale grown by the back door. We have gas cooking, a California King bed, and can leave a twin mattress for an extra guest. We trust you'll love it here!
+
+The space
+There’s a California King Bed in the bedroom, and a twin mattress can be provided at guest’s request.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Terra
+Host User ID: 351179403
+Host Profile URL: https://www.airbnb.com/users/show/351179403
+Host Profile URL Source: public user permalink from passport userId
+I love the outdoors!
+Lives in Nashville, Tennessee
+Responds within a few days or more
+4 years hosting
+11 reviews
+4.36 out of 5 average rating
+4 years of hosting

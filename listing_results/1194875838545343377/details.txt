@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1194875838545343377
+Latitude: 36.18893
+Longitude: -86.76302
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville like a local from our cozy 2-bedroom East Nashville retreat- our Music City Cash Pad! Tucked away in Cleveland Park, our private apartment offers a quiet place to relax while keeping you close to all the action. Walk to neighborhood coffee shops and restaurants, explore nearby Five Points, or make the quick trip downtown. Perfect for couples, friends and families of up to 4, with a full kitchen, in-unit laundry and free off-street parking.
+
+The space
+Our bright and comfortable 700-square-foot apartment is located above our detached garage and has its own private entrance.
+Inside you'll find:
+-Two bedrooms — one with a queen bed and one with twin bunk beds
+-Full bathroom located between the two bedrooms
+-Fully equipped kitchen with stainless steel appliances, dishwasher and cooking essentials
+-Comfortable living room with TV and sleeper sofa
+-In-unit washer and dryer
+-Wi-Fi
+-Free off-street parking for one car with street parking for any additional cars
+
+We’ve stocked the apartment with thoughtful extras to make traveling a little easier, so you can spend less time worrying about the details and more time enjoying Nashville.
+
+Other things to note
+We’re located in Cleveland Park, a residential neighborhood in East Nashville that gives you the best of both worlds—a quieter place to come home to with easy access to Nashville’s most popular destinations.
+Cleveland Park is about a five-minute walk away, and you'll find local coffee shops and restaurants within walking distance.
+We're also conveniently located near:
+-Five Points
+-Nissan Stadium
+-Downtown Nashville & Broadway
+-The Gulch
+-East Nashville restaurants, coffee shops and shopping
+
+Uber and Lyft are readily available, and having free parking makes it easy if you're bringing a car.
+
+We want this to feel less like a rental and more like your home base in Nashville. Our guests frequently tell us they love how clean, comfortable and thoughtfully stocked the apartment is—and we take a lot of pride in making sure it's ready for every new arrival. Whether you're coming to Nashville for a concert, a family getaway, a weekend with friends or simply to explore the city, we'd love to host you at the Music City Cash Pad!
+
+Registration Details
+2018049145
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebekah
+Host User ID: 79167541
+Host Profile URL: https://www.airbnb.com/users/show/79167541
+Host Profile URL Source: public user permalink from passport userId
+I am happily married to my  highschool sweetheart- Ryan. We have been together for 27 years and married for 21 of them. We love seeing Broadway shows in NYC, visiting 30-A beaches, and doing anything fun with our kids (ages 15, 13 and 9!)
+Born in the 80s
+Where I went to school: University of Delaware
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+312 reviews
+4.96 out of 5 average rating
+10 years of hosting

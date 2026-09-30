@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1000723275920698851
+Latitude: 36.25080115177323
+Longitude: -86.7074963179517
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 2 Bed house sleeps 6-8 comfortably! Just 20 minutes from Broadway and BNA. This cozy getaway also has a multifunctional workspace that can be used for writing music, working, or relaxing in the massage chair!
+
+Amenities include:
+• Washer & Dryer
+• High speed internet
+• Full kitchen
+• Keureg
+• Massage chair
+• Sound-proof workspace 
+• Pet friendly
+
+Reserve your stay in this quiet getaway today!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 541552905
+Host Profile URL: https://www.airbnb.com/users/show/541552905
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Mcgavock High School
+My work: Ashley Furniture
+Response rate: 100%
+Responds within an hour
+2 years hosting
+86 reviews
+4.7 out of 5 average rating
+2 years of hosting

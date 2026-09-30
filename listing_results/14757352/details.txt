@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/14757352
+Latitude: 36.12403
+Longitude: -86.76338
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect Nashville getaway! This beautiful home in the heart of Berry Hill/Nashville comfortably sleeps up to 16 guests, making it ideal for large groups. Nestled in a safe gated community.
+Located within walking distance to Geodis Park, minutes from 12 South, 8 South, The Gulch and Downtown.
+
+Prior to 2025 the listing was only for the second floor and reviews reflect it. The entire home is now fully renovated and ready for your perfect Nashville stay.
+
+The space
+You will have a picket fenced in small front yard, and tall-more private fenced in small backyard with plenty of seating. There is a fire pit and grill that both run on gas, not propane. We ask that you turn the gasline on before use, and off after use so there can be no mistake of gas still emitting after use. 
+
+There are 3 bedrooms upstairs. 2 average sized rooms each with a queen bed and a bigger "bonus room" bedroom with a day bed where the bottom rolls out to create 2 twin beds. There is also a futon with a good quality mattress that folds down for another sleeping space.  There is a landing with seating connecting these 2 rooms with a full bathroom. There is a TV in each bedroom.  One is a smart TV and the other has Apple TV.  There is NO CABLE but you can log into Netflix, HBO, Showtime and most streaming services that you have a personal account for.
+
+Downstairs you will have a laundry room, full kitchen, half bathroom, living area connected in an open floor plan with a dining area, and a master bedroom with a king sized bed connected to it's own private master bathroom with double sinks, a shower and tub. The toilet is within it's own space with a door. In the living room is a 65 inch television which does get some standard channels through an antenna and is a smart TV for signing into streaming services you have a personal account for. 
+
+We ask that you do not use the fireplace, as it has not been cleaned and it could present a hazard. 
+
+There is self check in and you'll get your code 24 hours beforehand. You can enter the house through either the front or the back doors with a keypad.
+
+You have 2 parking spots in the driveway, plus additional free parking in the neighborhood as long as you do not park on the outer perimeter of the square of houses or near a yellow curb (near corners).
+
+There is a gate outside our "square" of houses that sometimes closes between the hours of 10pm-6am that you will also get a code for if needed. Since the middle of our "square" is technically a park, the gate sometimes remains open at all times.
+
+Guest access
+The house has keypads for easy check in.  You will be given your code the day before you check in.
+
+Other things to note
+A detailed list of instructions and contact info will be given to you upon booking.  
+
+Here is a list of our sleeping spaces:
+
+Bedroom #1 Downstairs:
+-1 King Bed in the Master Bedroom with connecting bathroom and shower
+
+Bedroom #2 Upstairs:
+-2 Queen Beds
+-2 Full fold-out futons
+
+Bedroom #3 Upstairs:
+-1 Queen Bed
+
+Bedroom #4 Upstairs:
+-1 Queen Bed
+
+Landing/Loft Upstairs
+-Pull out daybed with 2 Twins
+
+(There is a full bathroom with shower upstairs attached to the landing/loft)
+
+Downstairs there is a sectional sofa with 2 blowup mattresses stored in the couch storage and a 1/2 bathroom
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John J
+Host User ID: 59393197
+Host Profile URL: https://www.airbnb.com/users/show/59393197
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+10 years hosting
+224 reviews
+4.96 out of 5 average rating
+10 years of hosting

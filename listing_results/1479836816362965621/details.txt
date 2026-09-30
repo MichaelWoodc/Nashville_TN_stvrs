@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1479836816362965621
+Latitude: 36.22826
+Longitude: -86.72738
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Vintage Vibe at Pearl's Place. Enjoy the mid century feel with modern conveniences in this lovely one level 3BR 2BA home with a fun private patio area, nice yard and privacy fence. This home offers free off street parking and a designated work space. TVs are in every bedroom. The furnished kitchen still has it's original 1948 counter tops and East Nashville vibe. Conveniently located 10 minutes to the Titan's Stadium,  5 mins to Five Points in East Nashville and 4 miles to Opryland.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Janie
+Host User ID: 94712555
+Host Profile URL: https://www.airbnb.com/users/show/94712555
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Middle Tennessee I have a deep love for Nashville and all things southern. I am a music lover of all kinds and genres especially country and classic rock.  Concerts are my happy place. We look forward to sharing our home with nice people exploring Tennessee
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+35 reviews
+5.0 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1242280950592721782
+Latitude: 36.1262
+Longitude: -86.7256
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Johnny Cash Hideaway, a one-of-a-kind, country music-themed retreat in the heart of Nashville!  Step into this cozy, stylishly decorated condo inspired by the Man In Black himself, and immerse yourself in the history and culture of country music!  Johnny Cash memorabilia from bubble heads, to vintage posters, to having a cup of coffee from a Sun Records mug these pieces celebrate the life and legacy of Johnny Cash. The condo comes with a fully stocked kitchen and washer and dryer!
+
+The space
+The condo sleeps four with a queen bed in the bedroom and a pull out mattress from the couch in the living room.  It has a fully equipped kitchen and washer & dryer for extended stays. It is an easy ten minute Uber or Lyft to downtown Nashville nestled in between downtown and the airport.  It also has free parking and WIFI on the premises.  There is also a dog park area as well as charcoal grills and picnic tables in the courtyard.
+
+Guest access
+Guests have access to the entire condo.
+
+Registration Details
+2024070766
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jimmy
+Host User ID: 338522324
+Host Profile URL: https://www.airbnb.com/users/show/338522324
+Host Profile URL Source: public user permalink from passport userId
+Hello!  My name is Jimmy and I am a full-time real estate agent here in middle Tennessee with a strong emphasis in Nashville & Clarksville where I own and operate investment property.  I am from Clarksville and live in Nashville.  I am also in the Tennessee Army National Guard and am a VA loan specialist.  I would love to have you stay at one of my houses, condos, or townhomes and would love to help you find a home if you are looking here in Nashville, Clarksville or the middle Tennessee area.
+My work: Real Estate Agent & Investor
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+478 reviews
+4.87 out of 5 average rating
+7 years of hosting

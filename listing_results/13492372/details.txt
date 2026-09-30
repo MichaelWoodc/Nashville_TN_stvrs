@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/13492372
+Latitude: 36.13851
+Longitude: -86.81201
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Vanderbilt, Hillsboro Village, West End, Belmont, Parthenon, and Music Row. You’ll love my place because of the coziness, peacefulness, walking distance to so much, cleanliness. My place is good for couples, solo adventurers, and business travelers.
+
+The space
+The upstairs suite of the house is totally private with a side/front entrance and a back entrance.  It is a large 1 bedroom unit (890 ft2) that includes a living room, dining room, bedroom, and full bathroom.  There are also 2 cozy alcoves, one with a day bed, dresser, and chair, and the other with a desk and chair.  The upstairs suite was totally renovated in 2015 with raised ceilings with 2 ceiling fans, new carpet, new paint, and a new high efficiency HVAC unit with spray foam insulation.  It has a private small deck with table and 2 chairs, and there's a table with chairs and umbrella in the backyard that can be used.
+
+Guest access
+The upstairs suite is totally separate from the downstairs where I live.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Youssef
+Host User ID: 77328853
+Host Profile URL: https://www.airbnb.com/users/show/77328853
+Host Profile URL Source: public user permalink from passport userId
+My work: Wealth Management
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+116 reviews
+4.97 out of 5 average rating
+10 years of hosting

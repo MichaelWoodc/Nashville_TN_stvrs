@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1458925695540337022
+Latitude: 36.16967
+Longitude: -86.68798
+rental_type: Private room in bed and breakfast
+property_type: BNB
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Carriage House 2 is a charming first-floor retreat offering a quiet, private escape on the Belle Air Mansion property. Designed with warm finishes and an efficient, comfortable layout, this intimate space is perfect for a relaxing stay. 
+
+A private exterior entrance enhances the sense of seclusion while still enjoying the beauty of the historic estate. 
+
+A full plated breakfast is included each morning of your stay at Belle Air.
+
+The space
+Welcome to Belle Air Mansion, a beautifully restored 1800s Greek Revival estate offering a one-of-a-kind bed and breakfast experience in Nashville. Set on 6 peaceful acres just minutes from downtown, BNA Airport, and Opryland, Belle Air blends historic charm with modern comfort for a truly memorable stay.
+
+As a boutique inn, Belle Air offers individually designed guest rooms, each with its own character, along with inviting shared spaces throughout the mansion and grounds. Guests are encouraged to relax on the veranda, stroll the property, or unwind in our elegant common areas.
+
+Each morning, enjoy a complimentary full plated breakfast prepared fresh and served on-site—one of the highlights of the Belle Air experience.
+
+Please note this is a bed and breakfast setting, not a full home rental. While your room is private, common areas may be shared with other guests unless the property is reserved in full for a private event or buyout.
+
+Whether you're visiting Nashville for a romantic getaway, wedding, retreat, or weekend escape, Belle Air offers a unique blend of Southern hospitality, history, and comfort.
+
+Guest access
+Guests have access to a variety of shared spaces throughout Belle Air Mansion and the surrounding grounds. You’re welcome to relax on the veranda, enjoy our elegant common areas, and explore the property during your stay.
+
+Please note that these spaces are shared with other guests, as Belle Air operates as a boutique bed and breakfast. On occasion, certain areas may be reserved for private events or property buyouts, which may limit access during those times.
+
+During your stay
+We aim to make your stay as seamless and comfortable as possible. On the day of your arrival, our automated system will send you a text and email with all the details you’ll need for your stay, including access information and important property notes. This message also provides a direct line to our on-site Belle Air team, so you can easily reach us during your visit if anything comes up.
+
+If you have any questions prior to arrival, feel free to message us anytime here on Airbnb—we’re happy to help.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lewis
+Host User ID: 50400360
+Host Profile URL: https://www.airbnb.com/users/show/50400360
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+11 years hosting
+117 reviews
+4.94 out of 5 average rating
+11 years of hosting

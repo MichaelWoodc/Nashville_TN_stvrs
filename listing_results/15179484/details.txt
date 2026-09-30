@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/15179484
+Latitude: 36.31977
+Longitude: -86.66889
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Let recording artists and long-time Nashville residents, Fleming and John,  be your next hosts! You will love the retreat-like feel of their funky, retro-modern home where you will enjoy your own apartment with a private entrance.
+But best of all... it is conveniently located one mile from the interstate so you can be anywhere you need to be quickly, and it's only 15 minutes from downtown Nashville!!!
+.
+
+The space
+This is an above ground basement apartment with a private entrance, lots of light and screened windows. There is a bedroom with a desk and new Queen-sized bed. A living room with a futon couch, seating, a dinette table, TV with Apple TV, WiFi, mini fridge stocked with water, tea kettle with assorted teas, microwave, Nespresso espresso machine.  Full bathroom with shower, sink and toilet.
+
+Guest access
+There is a large parking area in the driveway and the entrance is around the back of the house. You will have access to the back yard and your own patio space by the private entrance.
+
+Other things to note
+Please let us know if you are expecting guests.
+Not a party house :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 96347956
+Host Profile URL: https://www.airbnb.com/users/show/96347956
+Host Profile URL Source: public user permalink from passport userId
+My work: Self Employed Musician
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+10 years hosting
+214 reviews
+4.9 out of 5 average rating
+10 years of hosting

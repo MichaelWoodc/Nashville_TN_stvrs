@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1014469117444957252
+Latitude: 36.0307
+Longitude: -86.7992
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The property is located in Brentwood, only 10 miles from Nashville. Experience the best of Nashville, with attractions such as the historic Grand Ole Opry, the Country Music Hall of Fame and Museum, and the vibrant honky-tonk bars of Broadway. Take a stroll through the beautiful Radnor Lake State Park or explore The Factory at Franklin for unique shopping and dining experiences. Catch a live show at Ryman Auditorium or tour the Belle Meade Historic Site and Winery for a taste of local history.
+
+The space
+This listing is for 2 separate rooms within a hotel. The price shown in the listing covers all 2 rooms.
+
+✦ Each room is 750 sq. ft, equipped with complimentary toiletries, kitchen with basic amenities, standard quality TV, available with Standard cable, and Premium cable, ensuring cleanliness and comfort throughout your stay.
+
+✦ Rooms are not adjoining and possibly not next to each other. Spaces are assigned upon arrival based on availability.
+
+✦ Cleaning services availability and frequency vary by stay
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 4:00PM.
+
+✦ Fitness center is available.
+
+✦ Paid parking lot – 1 space(s), available for $5 per day.
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Pets are welcome. Up to 2 pets. $75/pet/stay & $150 for longer stays
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ Early Check-ins & Late Check-outs are subject to availability and additional charge.
+
+✦ Guests must not leave their pets in the room alone, even if crated.
+
+✦ Smoking is strictly prohibited in all guest rooms. A fee may be charged if this rule is violated
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: RoomPicks
+Host User ID: 501999514
+Host Profile URL: https://www.airbnb.com/users/show/501999514
+Host Profile URL Source: public user permalink from passport userId
+Speaks French
+Response rate: 100%
+Responds within an hour
+4 years hosting
+28364 reviews
+4.37 out of 5 average rating
+4 years of hosting

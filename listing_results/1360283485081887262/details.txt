@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1360283485081887262
+Latitude: 36.1529
+Longitude: -86.7603
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The perfect Nashville getaway just five minutes from Broadway! Challenge your group to ping pong, or relax in a stylish, spacious home designed for comfort and fun. Enjoy an open living area, fully-equipped kitchen, and cozy bedrooms. Close to top bars, live music, and nightlife, yet a private retreat when you need it. Book now for the ultimate Music City experience
+
+The space
+This modern and spacious home is designed for both relaxation and entertainment, featuring an open-concept living area, a fully equipped kitchen, comfortable bedrooms, and a private backyard and ping pong table—perfect for unwinding after a night out on Broadway
+
+Guest access
+Private Entrance with gated yard.
+
+Other things to note
+Noise Policy: Quiet hours are from 10 PM to 8 AM out of respect for neighbors.
+Parking: Free on-site parking is available.
+Ride-Sharing: Uber and Lyft are the best options for getting around downtown quickly.
+No Unauthorized Parties: We welcome celebrations but ask that all guests respect the space and neighborhood
+
+Unauthorized late check-outs beyond 30 minutes after the scheduled check-out time may incur a $100 fee, plus additional hourly charges for extended delays or impacts to cleaners and incoming guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hannah
+Host User ID: 72029373
+Host Profile URL: https://www.airbnb.com/users/show/72029373
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+477 reviews
+4.84 out of 5 average rating
+4 years of hosting

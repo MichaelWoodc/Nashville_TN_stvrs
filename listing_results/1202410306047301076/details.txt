@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1202410306047301076
+Latitude: 36.30455
+Longitude: -86.51588
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful water accessible sites at Cages Bend Campground. Gallatin, Tennessee  - boat ramp - parking for boat. Clean showers and bathrooms.Guest must book campsite online with Cages Bend and pay for site -Provide me with date and I will deliver and pickup camper. Check with me first on available dates for my camper tho
+
+Guest access
+Key on counter
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sam
+Host User ID: 64623527
+Host Profile URL: https://www.airbnb.com/users/show/64623527
+Host Profile URL Source: public user permalink from passport userId
+Professional Songwriter /Singer/Publisher-/Musician
+Published writer - ASCAP 40 years
+Licensed General Contractor 
+Keyboardist - Hammond Organ and Piano/Synth 
+Former piano /staff at Calvary Chapel- Redlands , Calif 
+2 children that live in Columbus , Ohio 
+Loves: Music , Cars ,Relationship
+Distant cousin of Tex and John Ritter
+Swede and Scots heritage
+Works in film industry as a carpenter, extra and amateur location scout . Film composer
+My work: Sam Scott Music - Sam Scott Builders
+Most useless skill: Scotch drinker -
+Response rate: 100%
+Responds within a few hours
+2 years hosting
+2 reviews
+5.0 out of 5 average rating
+2 years of hosting

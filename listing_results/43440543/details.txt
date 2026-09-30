@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/43440543
+Latitude: 36.1237
+Longitude: -86.7895
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Nashville’s iconic 12South neighborhood, steps from popular restaurants, coffee shops, boutiques, and local favorites. This stylish 2BR apartment features a private balcony, FREE parking, fully equipped kitchen, and complimentary local coffee. Enjoy Malin+Goetz luxury bath products for an elevated stay. Perfect for couples and solo travelers looking to experience 12South, Music City, and Nashville’s top attractions.
+
+The space
+We are a boutique Guest House in the heart of 12 south. We provide complementary local coffee in every suite. Our location is in one of the best neighborhoods in Nashville. You can walk to just about anything you may desire. If you want to just sit, have a drink and people watch, we have seat set up for you on our balcony. Two large smart TVs with cable. Great standard amenities, including, iron and ironing boards, hairdryers and much more. Come enjoy our place.
+
+Guest access
+You have the condo to yourself just like home !
+
+Other things to note
+Hi Guests!
+12South is one of Nashville’s hottest neighborhoods, and it’s growing like crazy! With that growth comes a little hustle and bustle, so you may hear or see some of the action during your stay. Think construction, neighborhood events, live music, busy streets, and the occasional sounds of Nashville life!
+You’re staying right in the heart of 12South, which means you’re close to all the coffee shops, restaurants, bars, boutiques, and fun that make this neighborhood so popular. The trade-off? Sometimes the neighborhood can be lively!
+Please keep in mind that we cannot control noise, construction, private or public events, or other activity happening outside of the building. This is a multifamily community, and building ownership manages the amenities, common areas, and shared spaces.
+We’ll take care of everything we can control inside your apartment to make sure it’s clean, comfortable, and ready for a great Nashville stay.
+Thanks for understanding, and get out there and enjoy 12South! 🤠🎶
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scarlett
+Host User ID: 45101594
+Host Profile URL: https://www.airbnb.com/users/show/45101594
+Host Profile URL Source: public user permalink from passport userId
+Hi Guests , 
+I am a Nashville native I love to host parties with friends and family. I love helping guests at Getaways Nashville. 
+*I love people, encouraging and helping others
+*I love to laugh and enjoy life 
+*I love to travel 
+*I am a caring idealist
+*I am a mother to a wonderful daughter and she blessed me with two grand babies 
+*The Beach is my happy place !
+My work: Getaways Nashville
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+7541 reviews
+4.91 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1086264193119588656
+Latitude: 36.1861
+Longitude: -86.8153
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville this fall from a modern 3-bedroom retreat tucked inside a private gated community. Bright interiors, spacious living areas, and comfortable furnishings offer a relaxing place to recharge. Explore Music City’s dining, live music, and attractions, then return to peaceful surroundings and premium amenities.
+
+The space
+Enjoy fall in Nashville from this modern 3-bedroom retreat tucked inside a private gated community. Bright interiors, spacious living areas, comfortable furnishings, and premium amenities create an inviting place to relax throughout your stay. Spend crisp fall days exploring Music City’s restaurants, live music, seasonal events, and local attractions before returning to peaceful surroundings each evening. With convenient access to Nashville while offering a comfortable escape from the city’s energy, this stylish retreat is ideal for business travel, weekend getaways, group trips, and fall adventures.
+
+Registration Details
+Permit #2019056033
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 23572246
+Host Profile URL: https://www.airbnb.com/users/show/23572246
+Host Profile URL Source: public user permalink from passport userId
+I'm an avid traveler, always looking to see and learn new things. My personal travel usually revolves around nature, animals or exploring the wonders this natural world has to offer. My team tries to bring that same experience to the properties we host. A luxury experience combined with the connectedness only untouched nature can provide.
+My work: Investment Advisor
+Lives in Nashville, Tennessee
+Response rate: 98%
+Responds within an hour
+Superhost
+5 years hosting
+807 reviews
+4.9 out of 5 average rating
+5 years of hosting

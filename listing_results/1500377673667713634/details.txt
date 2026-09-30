@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1500377673667713634
+Latitude: 36.1889
+Longitude: -86.7399
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in this spacious cottage in the heart of East Nashville. Walk to local  restaurants, coffee shops and bakeries.  If music is your scene we are just 2.5 miles to downtown where you can hear music on Broadway.  If you are looking for a local experience, walk or drive to 5 points just and enjoy local music at the 5 Spot. With laundry on site, a fully stocked kitchen, a designated workplace, parking and an outside patio, make this sweet East Nashville cottage your home away from home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emily
+Host User ID: 115670712
+Host Profile URL: https://www.airbnb.com/users/show/115670712
+Host Profile URL Source: public user permalink from passport userId
+I live in a sweet neighborhood in East Nashville . I have two daughters. We enjoy riding bikes, playing outside and spending time with neighbors and friends. We enjoy Shelby Park, just 1.5 miles away where we spend many a day and evening relaxing and playing by the river and amid the beautiful canopy of trees. We hope you will come visit and enjoy all that East Nashville has to offer.
+My work: Non profit admin
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+117 reviews
+4.95 out of 5 average rating
+1 year of hosting

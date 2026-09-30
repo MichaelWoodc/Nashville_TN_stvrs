@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1426408678973048275
+Latitude: 36.125701136094925
+Longitude: -86.72451692197555
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music City where the history of music and live performance are deeply written. Nashville is THE place to explore legendary music venues, historic sites, and nightly shows. Let our condo be your nostalgic break from the excitement and fun of making your own Music City Memories!
+
+**All Airbnb service fees now included in nightly rate. Only cleaning and taxes added for total.
+
+The space
+-Easy free parking and stair/ramp access.
+-Queen size bed
+-Washer/dryer in unit
+-Wi-Fi and Smart TV for streaming your subscription accounts
+-Record Player
+-Kitchen fully stocked with cookware, Keurig, toaster, and microwave
+-Starter toilet paper, paper towels, and coffee are provided
+-NO SMOKING
+-NO PARTIES
+-NO PETS ($100/day fee)
+
+Other things to note
+Everything Nashville has to offer is a close ride from the condo.
+
+7 mins: Broadway
+7 mins: Nissan Stadium - Home of TN Titans
+8 mins: Country Music Hall of Fame and Museum
+8 mins: Johnny Cash Museum
+8 mins: Music City Center
+9 mins: The Gulch
+9 mins: Music Row
+9 mins: Centennial Park
+10 mins: GEODIS Park
+11 mins: Germantown
+11 mins: Vanderbilt University Medical Center
+13 mins: The Parthenon
+13 mins: Grand Ole Opry
+15 mins: Nashville Zoo
+
+Permit #2025040638
+
+Registration Details
+2025040638
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris And Lindsey
+Host User ID: 369697089
+Host Profile URL: https://www.airbnb.com/users/show/369697089
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Murfreesboro, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+156 reviews
+4.92 out of 5 average rating
+2 years of hosting

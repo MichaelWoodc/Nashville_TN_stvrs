@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1337220130920113069
+Latitude: 36.1261
+Longitude: -86.7261
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+“Welcome to your Nashville getaway! This cozy and stylish Airbnb is located just minutes from Broadway’s vibrant nightlife, Bridgestone Arena, Nissan Stadium, the iconic Grand Ole Opry, Opry Mills Mall, and BNA Airport. Whether you’re here for live music, shopping, or exploring the city’s rich history, you’ll love the convenience of our central location. Perfect for a weekend escape or a longer stay, this space offers the perfect blend of comfort and accessibility.” Must be 21 to book.
+
+The space
+This condo in Bradford Flats is a perfect blend of modern living and cozy comfort. Built in 2023, this 660 sq. ft. one-bedroom, one-bath home offers a king-size bed and a walk-in shower for a luxurious touch. Convenience is at your fingertips with an in-unit washer, dryer, high speed internet access including Hulu, a fully equipped kitchen featuring a stove, refrigerator, dishwasher, cookware, and accessories for preparing full-course meals.
+
+Guests will love the coffee bar stocked with coffee and tea, as well as a roll-a-way bed that folds out to a twin size bed. . The condo comes fully furnished with linens, extra pillows, blankets, and an electric fireplace for added warmth and ambiance. This modern yet inviting condo is move-in ready and ideal for anyone looking for a comfortable getaway in Nashville, Tennessee.
+
+Guest access
+Self check in
+
+Other things to note
+Complimentary Shampoo, Conditioner and body wash products by Ginger Lilly Farms. 
+
+Complimentary Coffee bar.
+
+Early check in when available is $19. Inquire at time booking.
+
+Registration Details
+2024051415
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephen
+Host User ID: 431140261
+Host Profile URL: https://www.airbnb.com/users/show/431140261
+Host Profile URL Source: public user permalink from passport userId
+I am originally from Bartlett Tennessee. I moved to Nashville in 2020. I am  currently licensed Real Estate Agent in Nashville with Exit Realty Elite.
+Born in the 60s
+My work: Elevate Realty
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+70 reviews
+4.99 out of 5 average rating
+4 years of hosting

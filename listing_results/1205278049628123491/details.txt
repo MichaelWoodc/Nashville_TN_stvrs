@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1205278049628123491
+Latitude: 36.19548
+Longitude: -86.74503
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy, single-family bungalow located in East Nashville! This inviting retreat offers the perfect blend of comfort and convenience, making it the best choice for your Nashville stay. Ideally situated, we’re just a walk away from a variety of local restaurants, bars,  coffee shops and grocery stores, ensuring you have everything you need right at your doorstep. For exploring Nashville further, a 10-15 minute Uber ride will get you to Broadway and all the best Music City hangouts!
+
+The space
+Our home features 2 comfortable bedrooms with their own smart TVs, and 1 full bathroom, accommodating up to 4 guests. It has a fully equipped kitchen for all your cooking needs,  a fenced in backyard perfect for a cookout or relaxing outdoors and office space for all your business needs. You’ll have the entire property to yourself, ensuring privacy and tranquility throughout your stay.
+
+Guest access
+Guests will have full access to the entire property, including all amenities. Whether you’re planning a quiet night in or a cookout in the backyard, you’ll find everything you need for a memorable stay. (We do have 2 small storage buildings in the back yard that are not accessible to guests.)
+
+Other things to note
+Dogs will be considered on a case by case basis and must be approved by host prior to booking. Unfortunately, we cannot allow cats at this time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 87363357
+Host Profile URL: https://www.airbnb.com/users/show/87363357
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Fun fact: I'm married to a Judge Judy alum.
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+126 reviews
+4.96 out of 5 average rating
+9 years of hosting

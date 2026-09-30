@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1128589912394142147
+Latitude: 36.11802
+Longitude: -86.71226
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centrally located just 10–15 (driving) minutes from Downtown Nashville, Broadway, Bridgestone Arena, Nissan Stadium, and BNA Airport. Our neighborhood is safe, quiet, and comfortable, while still being close to everything the city has to offer. Driving is easy with dedicated parking included, and rideshare and bus routes are nearby.
+
+The space
+This is a one bedroom on the main floor of the house with a shared bathroom just for guests. Bathroom is adjacent to the bedroom accessible through the hallway.  This is an older home, the stairs and floors are squeaky at times :) You may also hear other guests or our family from time to time.
+
+Guest access
+Guests will enter through the main door of the house and be able to access their room and bathroom through the hallway.  Guests will have access to the room and bathroom only during the stay.
+
+During your stay
+We are available through the app throughout your stay.  Please reach out if you need anything at all.
+
+Other things to note
+There are other people that live and rent other areas of the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris And Jenny
+Host User ID: 45242129
+Host Profile URL: https://www.airbnb.com/users/show/45242129
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+844 reviews
+4.88 out of 5 average rating
+4 years of hosting

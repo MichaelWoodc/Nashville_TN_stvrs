@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1497807787942408533
+Latitude: 36.1934
+Longitude: -86.8312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the ultimate Nashville group getaway in this designer 5BR/5BA home. Boasting a secret-speakeasy theme and enough space for 12+ guests, our home is crafted for both celebration and relaxation. Enjoy a private rooftop firepit, a chef’s kitchen, and two stylish lounges just minutes from the neon lights of Broadway and local breweries.
+
+The space
+Welcome to your luxury home base. Designed for large groups who refuse to compromise on style, this home offers:
+
+Sleeping for 12: Featuring 6 queen beds and 1 king bed, each thoughtfully furnished for a restful night.
+
+The 5/5 Advantage: With 5 full bedrooms and 5 modern bathrooms, your entire group can get ready for a night out simultaneously.
+
+Rooftop Firepit: Our private outdoor lounge is the perfect spot for morning coffee or starlit cocktails with city views.
+
+Gathering Spaces: Two separate living areas and a fully equipped chef’s kitchen make group dining and game nights effortless.
+
+The Layout & Sleeping Arrangements:
+
+1st Floor: * Bedroom 1: 1 Queen Bed + Full private bathroom.
+
+2nd Floor (The Heart of the Home):
+
+Main Living Area: Open-concept designer lounge and fully equipped kitchen.
+
+Bedroom 2: 1 King Bed + Shared full bathroom.
+
+3rd Floor: * Bedroom 3: 2 Queen Beds + En-suite full bath.
+
+Bedroom 4: 1 Queen Bed + En-suite full bath.
+
+4th Floor (The Entertainment Level):
+
+Bedroom 5: 2 Queen Beds + Shared full bathroom.
+
+The Theme Room: Our unique "Speakeasy" lounge for late-night vibes.
+
+Rooftop Oasis: Access to the private rooftop deck with a firepit and city views.
+
+Guest access
+You will have full, private access to the entire 5-bedroom home. This includes the main living areas, all five bedrooms and bathrooms, the kitchen, and the private 4th-floor rooftop.
+
+Easy Check-In & Entry:
+
+Self Check-In: No need to coordinate a key handoff. You can arrive anytime after 4 PM.
+
+Smart Lock Access: Each stay is equipped with a Yale smart lock. You will receive a personalized entry code via the Airbnb app 48 hours before your arrival, which will be active for the duration of your stay.
+
+Private Parking: Guests have access a 2 car garage and additional free parking onsite.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

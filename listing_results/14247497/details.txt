@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/14247497
+Latitude: 36.16785
+Longitude: -86.74136
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My place is close to the city center, parks, art and culture, and restaurants and dining. You’ll love my place because of the coziness. My place is good for couples, solo adventurers, and business travelers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 43542241
+Host Profile URL: https://www.airbnb.com/users/show/43542241
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+316 reviews
+4.97 out of 5 average rating
+10 years of hosting

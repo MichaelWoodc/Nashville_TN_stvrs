@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1493514738110877465
+Latitude: 36.24951
+Longitude: -86.78138
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful place to stay. A cozy Townhouse 3-bedroom, 2.5-bathroom END UNIT minutes from Opryland and downtown. Offers: trash service, greenspace, and sidewalks/streetlights. Additionally, ALL GE appliances, 8x10 rear patio, and Smart NEST thermostat, Kitchenware, Bath ware, Air Conditioning, Security, TV, Heating, Cable TV, Smoke/Carbon Monoxide Detector, Internet, Kitchen, Quiet, Stovetop, ironing board, Storage, Dishwasher, fridge, Non-Smoking, Free Parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LaDonna
+Host User ID: 465868377
+Host Profile URL: https://www.airbnb.com/users/show/465868377
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+4 reviews
+5.0 out of 5 average rating
+4 years of hosting

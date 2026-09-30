@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/1125602217328392808
+Latitude: 36.1734
+Longitude: -86.8026
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful 3BD, 3BT Home w/ Private Deck, FirePit and Cozy Interior (~2 Mi to Broadway)
+
+Experience Nashville inside and out with this beautifully crafted, Dolly Parton inspired home. Enjoy the luxuries of an entire home rental, with a private backyard and plenty of space for a gathering of family, friends, or both. With three bathrooms, a game room and fully equipped kitchen, a night out on the town can begin with a home cooked meal or end with a night cap on your very own private deck.
+
+The space
+-	Main Level – “The Entertainment Hub”
+ o	Dolly Parton pioneered the cross of pop culture and country music, just like you’ll find here in Dolly’s Den- a space to gather and begin your adventures.
+ o	Cook In -or- Cook Out- With an open concept kitchen and living room you’ll always be close to the entertainment.
+ o	BRAND NEW APPLIANCES¬- 4 burner stove, full size refrigerator/freezer, coffee pot and K-Cup Machine perfect for a lazy morning or gourmet meal.
+ o	50” TV- The perfect spot to crack a cold one and watch the game.
+
+-	Backyard
+ o	Enjoy peaceful Nashville nights under the stars- Our elevated deck overlooks your private area for tailgate games and barbeque.
+ o	Grab your guitar and sit around the Fire Pit*
+
+-	Second Level
+ o	Primary Bedroom – One King Bed, one twin bed (cot stored in closet) Full Bathroom, Walk-in Closet and 50” Smart TV
+ o	Second Bedroom – One Queen Bed (w/ pull out Trundle Bed)
+ o	Third Bedroom – One Queen Bed with a Walk-In Closet
+ o	WASHER & DRYER – Free to use/coin free machines
+
+-	Game Room
+ o	Two-Player Arcade Basketball – 10 different game modes and 6 audio options
+ o	Ping Pong Table
+ o	Dart board
+ o	Cornhole
+
+-	Parking
+ o	Two Reserved Driveway Spaces
+ o	Plenty of street parking in front of the house
+
+Guest access
+Guests will enjoy full, unrestricted access to the property. The home utilizes Yale smart lock technology. Secure access codes are generated for each guest and provided prior to check-in. House rules and housekeeping items will be sent via text. Ring security camera on premise.
+
+Other things to note
+-	Our Murals are hand crafted and a labor of love- please don’t ruin them with any wall fixtures, hangings, or holes.
+-	Smoking of Cigarettes and E-Vapes are prohibited inside the house. Please feel free to use the ashtray located at the fire pit.
+-	Leave your furry friends at home, this home is pet free.
+-      The cot stored in the master bedroom closet is NOT to be brought downstairs. Please only utilize the cot in the upstairs bedrooms or hallway.
+-      *If you are interested in having a bonfire please provide advance notice up to a week prior to arrival. 
+-	*Nashville is a family town- please be respectful of our neighbors. 
+-	**Please ensure your vehicles do not obstruct the sidewalk, this is public property. Additionally, there is absolutely no parking along the back alley.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephen
+Host User ID: 118888114
+Host Profile URL: https://www.airbnb.com/users/show/118888114
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: The College of New Jersey
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+93 reviews
+4.97 out of 5 average rating
+2 years of hosting

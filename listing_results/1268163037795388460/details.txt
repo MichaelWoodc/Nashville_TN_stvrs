@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1268163037795388460
+Latitude: 36.1493376100829
+Longitude: -86.79574901925173
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy being within walking distance of restaurants, bars and coffee shops, but just a little bit away from the chaos.  This stylish, comfortable, centrally-located condo will allow a good night's sleep, but also lots to do, and many places to visit during the day. When you want to participate in the fun chaos of Broadway, you're only a 20 minute walk, or a 10 minute Uber ride away! It's the best of both worlds!
+
+The space
+This is a one bedroom, one bathroom condo with a full kitchen and living room.  It is on the second floor and does require the guests to climb one outside flight of stairs.
+
+Guest access
+You have private access to the entire condo.  You also  have access to the coin operated laundry room located at ground level of the building.  The designated free parking space is very close to the building, not a long walk.
+
+Other things to note
+The condo is in a small building, parking is close to building and laundry room is close to unit.  However, guests will have to climb one flight of stairs, so all guests need to be physically able to do so.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cindy
+Host User ID: 301043516
+Host Profile URL: https://www.airbnb.com/users/show/301043516
+Host Profile URL Source: public user permalink from passport userId
+I’m Cindy, a retired elementary school teacher. My husband and I love to travel. I love to sew heirloom garments for my one year old grand daughter.
+Born in the 60s
+My work: Retired teacher
+2 years hosting

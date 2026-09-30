@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1049262653803083979
+Latitude: 36.2738
+Longitude: -86.4846
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy, rustic cabin nestled on 18 acres in the heart of Mount Juliet. With beautiful views of the surrounding wilderness, this secluded retreat is the perfect escape from the hustle and bustle of city life. Located just a short drive from town, you can enjoy the best of both worlds – the peace and solitude of the great outdoors, combined with easy access to local attractions and activities.
+
+The space
+Escape to our charming cabin, perfectly situated on 18 serene acres in the heart of Mount Juliet. Surrounded by breathtaking views of lush wilderness, this secluded retreat offers the ideal getaway from the hustle and bustle of everyday life. Enjoy the tranquility of nature while being just a short drive away from local attractions and activities.
+
+Our spacious cabin features:
+
+- **Accommodations:** Three comfortable bedrooms, including:
+  - Bedroom 1: King bed
+  - Bedroom 2: Queen bed
+  - Bedroom 3: King bed
+  - Loft Bedroom: Queen bed
+- **Bathrooms:** 2.5 bathrooms for your convenience.
+
+- **Living Spaces:** A cozy living room with a fireplace, a media and game room for entertainment, and a sunroom perfect for dining or relaxing while soaking in the stunning views.
+- **Outdoor Amenities:** A patio equipped with a hot tub and grill, a fire pit, and two covered porches, ideal for enjoying the fresh air and the beauty of nature.
+
+Please note that our rock driveway is long and can be rough, especially after rain. 
+
+Come experience the beauty of Mount Juliet like never before! Your tranquil escape awaits.\
+
+30 min from Nashville International Airport
+28 miles from Broadway (Downtown Nashville)
+8 min from dinning and shopping in Mount Juliet 
+Food Delivery and Uber available
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diana And William
+Host User ID: 352911753
+Host Profile URL: https://www.airbnb.com/users/show/352911753
+Host Profile URL Source: public user permalink from passport userId
+Diana & William Roberts are co-host. Their main role as co-hosts is to ensure that guests have an enjoyable and comfortable stay during their vacation. Despite being work adventurers who travel full-time in a RV, they are committed to providing excellent hospitality and nothing but 5-star service to their guests. They are enthusiastic about their job and work hard to ensure guests have an unforgettable experience.
+Born in the 80s
+My work: Work adventurers
+3 years hosting

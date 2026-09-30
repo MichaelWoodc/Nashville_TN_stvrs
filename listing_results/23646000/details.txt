@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/23646000
+Latitude: 36.13671
+Longitude: -86.78582
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Upscale, simple, mid-century inspired new home with contemporary features and classic comforts.  Walk to local spots, or ride share to any corner of the city in minutes.  Perfect for family escapes, bachelor/bachelorette parties, or just a weekend with friends in Nashville.  Fully furnished rooms with all the amenities.  Take in the night air on our rooftop patio or snuggle up on our couch and make our home your own.  We thought of everything, come see for yourself.
+
+The space
+Our intent is smart and simple.  Everything you need and the little things you want; plush towels and percale cotton linens, Leesa queen mattresses in every room (with queen-size pop up FrontGate air mattress), and Sonos surround sound.  Grill out on the rooftop or entertain in our chef's kitchen.
+
+Guest access
+Our guests always have access to Smart TV and WIFI, and all the tools of a fully functioning kitchen.  We also have a great collection of DVD/Blu-Ray movies that we love (great kids selection), and child-care equipment(Pack n' Play, Stroller) that can be made available.  We want this to be your home away from home.  Let us know if either of these extras are of interest to you, or if there's anything we can do to prepare for your arrival.
+
+Other things to note
+Limited private parking
+If you need a longer stay, reach out via the app and we can discuss rates
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sean
+Host User ID: 107312254
+Host Profile URL: https://www.airbnb.com/users/show/107312254
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+8 years hosting
+90 reviews
+4.96 out of 5 average rating
+8 years of hosting

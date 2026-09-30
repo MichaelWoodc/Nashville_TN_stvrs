@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1475474601707354038
+Latitude: 35.99441
+Longitude: -86.68398
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+15 mins to Arrington Winery! Kick back & relax in this calm, stylish space. This tranquil new home getaway will help ease your stress away! This is a quiet, fully furnished, private lower level brand new rental. One bedroom with a queen bed, a sun lit living room, & fireplace. Large kitchen area w/ new appliances, espresso machine, & laundry area upstairs. Sit outside, rest by the pond! Visit Nashville (25 mins away) or Franklin (15 mins away). Located on edge of Brentwood & Nolensville.
+
+The space
+Private Townhome
+
+Guest access
+Private stay
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joe
+Host User ID: 710193702
+Host Profile URL: https://www.airbnb.com/users/show/710193702
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a day
+1 year hosting
+3 reviews
+4.67 out of 5 average rating
+1 year of hosting

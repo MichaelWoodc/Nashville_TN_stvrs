@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1311063496936624820
+Latitude: 36.16274
+Longitude: -86.77467
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This historic loft is steps from Broadway and 2nd Ave, perfect for a group trip. Enjoy easy access to Honky Tonks, Bridgestone Arena, Nissan Stadium, and Music City Center. The spacious unit features exposed brick, modern furnishings, memory foam beds, a full kitchen, and more. Note: 20 stairs to access (no elevator) and ambient noise from Broadway. One parking validation included. As the building dates to the 1800s, occasional dust may be present.
+
+The space
+The property is on the corner of Broadway and 2nd Ave. IDEAL LOCATION!
+
+Guest access
+24/7 Automated Check-in/out
+
+Other things to note
+Due to our unbeatable downtown location, you will hear ambient noise from nearby bars, especially at night—ideal for guests who want to be steps from the action.
+
+Good to know: The building dates to the 1800s, so occasional dust or a rare bug may occur.
+
+Parking for one car is included in a garage one block away and will be validated during your stay.
+
+Please note: One flight of stairs is required to access the apartment; there is no elevator.
+
+Local discounts, baggage services, party & bachelorette planning, and décor services available upon request.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dyer Management
+Host User ID: 265031048
+Host Profile URL: https://www.airbnb.com/users/show/265031048
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+7 years hosting
+1012 reviews
+4.27 out of 5 average rating
+7 years of hosting

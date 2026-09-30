@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1174050359862187063
+Latitude: 36.20442
+Longitude: -86.81208
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Here's why you should stay with us:
+
+✓ Huge Rooftop Patio w/ Outdoor TV + Lights
+✓ Private Bathrooms Attached to Each Room
+✓ Skyline Views of Downtown Nashville
+✓ Central Location (5 Mins to Broadway)
+✓ Smart Lighting + Wireless Audio
+✓ Newly Built w/ Large Walk-in Showers
+✓ 1GB+ Wifi Speeds
+✓ Luxury Bedding + Amenities
+✓ Bathroom, Paper Products, + Towels Provided 
+✓ Smart TVs w/ Streaming Services
+✓ Sleeps 12 Guests + Sleeper Sofa 
+✓ Coffee Marker + Coffee Provided
+✓ Siri Smart House
+
++  MORE
+
+The space
+This smart home features lux touches, like white granite countertops, tile showers, and showcases an aesthetic that is unique, stylish, comfortable, & inviting. This smart home features wireless sound throughout via Apple HomePods, smart lighting, and more. Enjoy panoramic views of downtown Nashville, watch the Titans practice from the rooftop lounge, or stream your favorite series on the outdoor smart TV. 
+
+Relax and unwind on the rooftop patio, or head downtown and hit broadway like never before; this is the ultimate Music City experience!
+
+Guest access
+Private access to the entire property, and the rooftop patio!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 212523030
+Host Profile URL: https://www.airbnb.com/users/show/212523030
+Host Profile URL Source: public user permalink from passport userId
+Michael Gordon Weist III is an American talent manager, producer, actor, and entrepreneur known for his work in managing social media influencers and his involvement in several high-profile digital media projects. Weist gained significant attention for organizing TanaCon and for his appearance in the Hulu documentary Jawline, which played at the 2019 Sundance Film Festival.
+
+Weist is a voting member of The Recording Academy.
+Where I went to school: Belmont University
+My work: Entrepreneur
+Response rate: 100%
+Responds within an hour
+7 years hosting
+367 reviews
+4.53 out of 5 average rating
+7 years of hosting

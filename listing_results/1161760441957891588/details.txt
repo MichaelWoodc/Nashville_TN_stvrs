@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1161760441957891588
+Latitude: 36.20251
+Longitude: -86.74268
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 11
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This distinctive home boasts its own unique style. It offers a beautiful setting and an ideal spot for any group visiting the city.
+
+Bedroom 1 - Twin over Full Bunk Bed
+Bedroom 2 - King Bed with the hats
+Bedroom 3 - 3 Sets of twin Beds
+
+The space
+Make the most of your time with friends or family in our spacious home. Located just minutes from downtown, it's the ideal spot to prepare for a night out on Broadway or to unwind together in our large open-plan social area and fully equipped kitchen. With ample sleeping options and a cozy couch for watching your favorite shows, our home offers everything you need. Plus, it’s conveniently close to restaurants, nightlife, shopping, parks, and more.
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you prior to your reservation.
+
+Other things to note
+While the neighborhood is mostly quiet and safe this is still an urban environment and you should always remain aware of your surroundings and use common sense. We recommend that you don't leave valuables in your car and don't leave the doors and windows unlocked when you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

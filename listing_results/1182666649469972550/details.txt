@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1182666649469972550
+Latitude: 36.24146
+Longitude: -86.7971
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Forget your worries in this spacious and serene space.
+
+The space
+Welcome to our cozy retreat, conveniently located just minutes away from the vibrant heart of Nashville and in front of Kid Rock's house! 
+Our beautiful house features 3 bedrooms and 2.5 bathrooms, comfortably accommodating 10 guests with 1 king, 2 queen, 3 full beds and a futon. The open-concept living area is thoughtfully decorated creating a warm and peaceful atmosphere.
+Not only is there a fully equipped kitchen but for added entertainment, our home features a fantastic game room. Challenge your friends to a friendly game of pool or show off your skills at the ping pong table. 
+
+Step outside onto the private patio, where you'll find your very own Jacuzzi - the perfect place to relax and soak your cares away after a day of exploring downtown Nashville. The patio also offers outdoor seating and a BBQ grill, ideal for hosting and enjoying Nashville's pleasant weather.
+
+Location:
+Our home is ideally situated just a short drive from downtown Nashville(8mi), offering easy access to the city's renowned music venues, excellent restaurants, and trendy shops. You'll have the best of both worlds - a peaceful retreat to unwind after a day of exploration, yet close enough to enjoy all the excitement that Nashville has to offer. 
+
+Whether you're visiting Nashville for business or pleasure, our charming retreat offers everything you need for an unforgettable stay. We look forward to hosting you and ensuring you have a wonderful time in the House of Peace!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Roderick
+Host User ID: 370190338
+Host Profile URL: https://www.airbnb.com/users/show/370190338
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within an hour
+Superhost
+2 years hosting
+51 reviews
+4.96 out of 5 average rating
+2 years of hosting

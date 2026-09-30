@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1202417158841717133
+Latitude: 36.2068
+Longitude: -86.74762
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the ultimate Nashville getaway in this new East Nashville gem. Thoughtfully designed with your comfort in mind, this home features a stunning rooftop patio, a wet bar, a TV in each bedroom, six beds, and a two-car garage.
+Enjoy prime convenience with a location just 10 minutes or less from Downtown (Broadway), Opryland, The Ryman, Gulch, and more!
+
+Perfect for families, youth groups, or bachelor trips, this home is your perfect launchpad for an unforgettable Nashville experience!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marco
+Host User ID: 69617432
+Host Profile URL: https://www.airbnb.com/users/show/69617432
+Host Profile URL Source: public user permalink from passport userId
+Speaks Arabic, English, French, and Italian
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+277 reviews
+4.89 out of 5 average rating
+7 years of hosting

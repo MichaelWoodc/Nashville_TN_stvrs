@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1303045100393826247
+Latitude: 36.1597
+Longitude: -86.8405
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tucked in The Nations, one of Nashville's most exciting up-and-coming neighborhoods, this modern 2-bedroom condo sleeps 6 with style. Two bedrooms, bunk beds, two full baths, and dedicated parking are included. Hardwood floors, a fully stocked kitchen, and fast WiFi throughout. Broadway and downtown Nashville are 7 minutes away. Local breweries, restaurants, and bars are right outside the door. Real Nashville living at its best.
+
+The space
+Step into a welcoming living area where comfort meets style. Furnished with plush seating, chic decor, and bathed in natural light, this space is the heart of your home. Gather around the flat-screen TV for movie nights or game days with loved ones. The sofa effortlessly converts into a pull-out bed, offering extra sleeping space.
+
+The open layout seamlessly connects to the kitchen, which boasts ample cooking space and a breakfast bar with seating for four. This fully equipped kitchen is stocked with all your essential cooking needs and features sleek stainless-steel appliances. It's the perfect spot for whipping up delicious meals and enjoying casual dining.
+
+Retreat to the Primary Bedroom, offering the perfect escape for rest and relaxation.
+
+Ample natural lighting fills the rooms, creating a bright and inviting space for you to enjoy.
+
+Guest access
+The Entire Condo is in the guest access.
+
+Other things to note
+We are located in the heart of Downtown Nashville, where the vibrant city life adds to the charm of your stay. However, you may occasionally hear sounds from cars, planes, trains, party buses, dogs, other guests in the building, or lively passersby enjoying the area. While we can't control these elements, we hope you’ll embrace the energy of Music City as part of your experience!
+
+Smoking Fee - $250
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2254 reviews
+4.86 out of 5 average rating
+4 years of hosting

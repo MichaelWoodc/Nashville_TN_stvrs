@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1206625454274379649
+Latitude: 36.10885
+Longitude: -86.51144
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Rural Hill, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind in this Charming Cottage in a serene wooded setting. Located in a quiet, safe and established neighborhood in Mt. Juliet. Fully and freshly furnished. Convenient to shopping and restaurants, Airport, Lake (Long Hunter State Park), Medical services and I-40 and I-24. Large 1.5 acre with Lawncare provided. 2 Bedroom plus Office with guest function and 2 Baths.  2 Car Garage. Perfect for executive and professionals.
+
+The space
+2 Bedroom plus Office with guest function and 2 Baths.  Relaxing porch for enjoying the peaceful setting. 2 Car Garage Located in a quiet, safe and established neighborhood in Mt. Juliet area. Large 1.5 acre lot with Lawncare provided. Perfect for executive and professionals.
+
+Guest access
+Whole house with basement garage. The only thing not accessible to guests is a barn located at rear of property.
+
+Other things to note
+Absolutely NO PETS allowed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gary
+Host User ID: 59409517
+Host Profile URL: https://www.airbnb.com/users/show/59409517
+Host Profile URL Source: public user permalink from passport userId
+Lifelong Tennesseans, we have always had a special love for the Smoky Mountains. Jennifer grew up in middle Tennessee and built strong memories and traditions vacationing in Gatlinburg every summer. Gary graduated from UT Knoxville and has called East Tennessee “God’s country “ever since.
+
+With three grown and married children and 7 (so far!) Grandchildren living in 3 different states, we built Blackstone Lodge to create a mountain retreat where our growing family can gather  and build our own traditions. But we designed the Lodge from the ground up with the goal to provide the highest quality vacation experience for our guests.
+
+The mountains always inspire us and declare the glory of their Creator. We are honored to be able to share them with all our guests at BLACKSTONE Lodge.
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+57 reviews
+5.0 out of 5 average rating
+8 years of hosting

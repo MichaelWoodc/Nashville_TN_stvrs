@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1329842617937907222
+Latitude: 36.1705
+Longitude: -86.7946
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This beautifully renovated house is located conveniently near Nashville's vibrant attractions, yet offers a serene environment to escape the hustle. This spacious home offers a perfect blend of modern amenities and comfortable living, making it an ideal retreat for relaxation and quality time with family or friends.
+Each bedroom is thoughtfully designed to provide a peaceful atmosphere. The living area and fully equipped kitchen invites natural light and is perfect for unwinding or socializing.
+
+The space
+This property is newly renovated by yours truly with the help of amazing humans who believed in this space as much as I did!
+
+Guest access
+Guests enter through the front door with their very own code that is only active during the time of their stay for safety!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Destiny
+Host User ID: 262438393
+Host Profile URL: https://www.airbnb.com/users/show/262438393
+Host Profile URL Source: public user permalink from passport userId
+Hey there! 
+My name is Destiny, I am a NEW local host! 
+I am passionate about hospitality and communication. Please reach out if you have any questions or need anything during your time here. I’m so excited for you to experience Nashville! thank you for making me apart of your stay.
+Born in the 90s
+My work: Lifestyle Management
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+38 reviews
+5.0 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/8271426
+Latitude: 36.12852
+Longitude: -86.7883
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Easy walk to 12th south restaurants, shops, Sevier Park and Belmont.   Just a few minutes' drive or Uber / Lyft to downtown.   Perfect for university visitors, vacationers to enjoy a quiet, comfortable stay yet close to the best of Nashville.
+
+The space
+Clean modern, comfortable home with unique multi- level space with 3 bedrooms, 2 large baths.  4 Large HDTVs throughout.   Upper 2 bedrooms are light filled and spacious, with living space in between.  Lower, entry level room can be closed and used as bedroom or living / entertaining space with large sectional sofa and 55" HD tv w/ large table that can be used for games, extra dining or workspace.  Downstairs living room equipped with queen sized Murphy bed which provides for convertible use as a large master suite.   Upper-level bedroom has futon that converts from sofa to bed that can sleep an adult or two children comfortably.  Upper deck with great sunrise and full moon view.  Kitchen is fully equipped.
+
+** Parking:   The parking driveway is just beside the house.  The drive appears very narrow but note that there is a slope to the alley way a good bit into the drive, so you have more space than appears on the right side.   It's best to pull fully forward and veer toward the house once at the back of the pad, to enter and exit from both sides easily.   As your entering or exiting if you keep an eye on the house side, using it as a guide and are clearing it you'll be fine.   Two cars will fit in the drive back-to-back, but it will be tight for the second car.   Large utility trucks park in the space just fine and I've had two large trucks parked back-to-back in the space.   However, there will be some that may feel intimidated by pulling fully onto the drive as it is on a shelf up from the alleyway.  It looks scarier than it is.    You'll find you'll get used to it quickly.   It may be best to back in to be able to unload luggage most easily.    
+
+Street parking is also available on Eastwood in the back and 12 South with a short walk to the house if needed.
+
+Guest access
+Entry to home is by personalized key code.  All space is accessible other than a locked utility closet
+
+Other things to note
+Please note that there are layers of stairs in the home.  If climbing stairs is a challenge, please take close consideration.  There is a living room/ bedroom area at ground level, however there are stairs to the kitchen and upper-level living and bedrooms.  Please note the sleeping spaces include 3 queen sized beds and a futon sofa in the 3rd, upper-level bedroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karen
+Host User ID: 27181078
+Host Profile URL: https://www.airbnb.com/users/show/27181078
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+324 reviews
+4.99 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1018231842058487220
+Latitude: 36.17211
+Longitude: -86.64975
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spend time in the city and then retreat back to The Velvet Underground. This basement apartment is an eclectic studio complete with it's own entrance, a full kitchen, luxury shower with double shower heads, a queen bed, and a private patio space. This space is centrally located to BNA Airport, Opryland,  and Downtown Nashville.
+
+Opryland - 7 Miles
+BNA Airport - 3 Miles
+Downtown Nashville - 10 Miles
+
+The space
+This studio apartment is located in the basement of the owner's home. We will be very quiet and respectful; however, you may hear our and our little pup Maggie's footsteps from time to time.
+
+You will have the entire basement to yourself with a separate entrance and plenty of room to park. This space was designed with good vices to allow you to have a great and comfortable stay. Take in the nature in the backyard with wild turkeys and deer as well as many different birds. 
+
+The kitchen is fully equipped with a fridge, Keurig (coffee and tea provided), microwave, full oven, and every utensil that you need to make a meal but the space is also in close proximity to great restaurants.
+
+Guest access
+Guest access is in the back of the house. You will park in the lower section of the driveway, further instructions will be given upon reservation. Please do not block the driveway entrance. Once parked, follow the wooden pathway to the patio and then you will enter through the green door using a keypad entry.
+
+Other things to note
+This listing is the house we live in and located  in a neighborhood, hence not suitable for parties.  You may occasionally hear some foot traffic from us and our friendly puppy, Maggie, as we live upstairs. As our reviews show, this has not been an issue for our previous guests. You may  also hear the garage door open from time to time. This does not allow entry into your space.
+
+Registration Details
+2023064943
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Madalyn
+Host User ID: 338536570
+Host Profile URL: https://www.airbnb.com/users/show/338536570
+Host Profile URL Source: public user permalink from passport userId
+My work: BCBA
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+123 reviews
+4.98 out of 5 average rating
+3 years of hosting

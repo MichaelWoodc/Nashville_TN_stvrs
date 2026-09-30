@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1436452321360884320
+Latitude: 36.2421
+Longitude: -86.70264
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming home is tucked away in a quiet neighborhood right next to the Cumberland River.  Lebanon Pike is a 10 minute drive away where you'll find grocery stores and delicious dining options like Edleys BBQ and Sweet Milk (our favorites!). Located a short 3 minutes from the Grand Ole Opry and 15 minutes to downtown Broadway (Music Row), you'll enjoy the tranquility of a quiet retreat while being minutes away from Nashvilles vibrant attractions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cozette
+Host User ID: 338029838
+Host Profile URL: https://www.airbnb.com/users/show/338029838
+Host Profile URL Source: public user permalink from passport userId
+Lives in Manchester, New Hampshire
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+6 reviews
+5.0 out of 5 average rating
+1 year of hosting

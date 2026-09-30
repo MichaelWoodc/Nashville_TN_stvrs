@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1497807638197706371
+Latitude: 36.1931
+Longitude: -86.8312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish 4-story 5 bed/bath Nashville retreat with 6 Queens and 1 King, two living areas, and a covered rooftop with lounge and dining. Just minutes from Broadway, Germantown, and The Nations. Perfect for groups, families, or music-loving friends.
+
+The space
+Melody & Manor is a four-story retreat blending modern elegance with musical charm. With six queen beds and one king bed, it comfortably hosts large groups or families. The open-concept living areas feature cozy seating, stylish décor, and plenty of room to gather, while the fully equipped kitchen makes cooking and entertaining effortless.
+
+Step outside to the private deck with lounge and dining area, perfect for relaxing or entertaining under the Nashville sky. Each bedroom is thoughtfully furnished for restful sleep, and bathrooms include modern fixtures and finishes.
+
+4 Stories | 5 bedroom | 7 Beds | 5 Bathrooms
+
+Sleeping arrangements: 6 Queens, 1 King
+
+Two spacious living areas
+
+Fully equipped kitchen with modern appliances
+
+Private deck with lounge and dining
+
+Washer & dryer for convenience
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

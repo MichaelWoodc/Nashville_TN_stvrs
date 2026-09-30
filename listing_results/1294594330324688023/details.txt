@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1294594330324688023
+Latitude: 36.17893567295582
+Longitude: -86.76745643381282
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+WELCOME to New Elevations 🎸🌆
+
+⭐ 3 KING Size Beds, 2 Extra FULL Size Beds
+⭐ Stunning Rooftop features a fire pit +games
+⭐ 3-bedroom and 3.5-Bath, extra small room  w/ full size bed, extra full size bed in living room
+⭐ 2 miles from Downtown Nashville – a quick Uber to Broadway & honky-tonks!
+⭐ Fully-equipped kitchen with a marble round table
+⭐ In Unit washer/dryer
+⭐ High Speed Internet
+⭐ Hassle-free check-in with no keys, just code
+⭐ Toiletries provided
+⭐ Private Garage Parking + driveway
+
+The space
+🎸 **Perfect for Groups, Families & Business Travelers!**  
+Book now for an unforgettable **Nashville experience!** 🚀🏙️
+
+🏡 Modern & Comfortable Stay
+Brand-new construction with stylish décor & cozy vibes.
+Spacious rooftop deck – Enjoy skyline views & relax under the stars! 🌌
+Fully equipped kitchen – Perfect for cooking meals or enjoying takeout.
+Fast WiFi & Smart TVs – Stay connected & stream your favorites.
+
+🚗 Easy Access & Parking
+Free on-site parking – No hassle with downtown parking!
+Quick access to major highways for easy exploration.
+
+Guest access
+Guests will access the property using a automatic door code. The code will be provided before check-in and will activate at the designated check-in time. No physical keys are needed—just enter the code on the keypad, and the door will unlock. This ensures a seamless, contactless check-in experience! 🚀🔑
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ali
+Host User ID: 77124381
+Host Profile URL: https://www.airbnb.com/users/show/77124381
+Host Profile URL Source: public user permalink from passport userId
+Hi there! I'm a passionate traveler and adventure seeker who loves experiencing new places, cultures, and connections. When I'm not hosting, you'll find me snowboarding in the mountains, swimming in the ocean, watching a beautiful sunset. I believe life is all about making the best memories. As a Nashville host, I’ve created a space that reflects my love for unique experiences, ensuring you have an unforgettable stay. I can’t wait to welcome you!
+Where I went to school: University of Illinois in Chicago
+My work: Senior Consultant
+Response rate: 11%
+Responds within a few days or more
+2 years hosting
+8 reviews
+4.75 out of 5 average rating
+2 years of hosting

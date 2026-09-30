@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1155736456589600468
+Latitude: 36.14987
+Longitude: -86.69737
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+About this space
+
+Welcome to Nashville Haven Hideaway — a cozy retreat just 5 minutes from the airport and 9 minutes from Broadway and the Grand Ole Opry. Relax in the stylish living area, cook in the fully equipped kitchen, and unwind on the private patio. Located in a quiet neighborhood with easy access to everything. Please note: the driveway is shared with a completely separate, detached guest suite located at the back of the property; each space remains fully private.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lydia
+Host User ID: 506761429
+Host Profile URL: https://www.airbnb.com/users/show/506761429
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+190 reviews
+4.92 out of 5 average rating
+3 years of hosting

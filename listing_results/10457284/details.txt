@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/10457284
+Latitude: 36.1291
+Longitude: -86.75165
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This quaint, renovated home built in the 1940s reflects the character of Nashville. With a full kitchen, 3 bedrooms, 2 full baths, and huge front porch, you'll feel right at home in our hometown. Plus, it's close to everything!
+
+*This property has a Nashville rental permit.
+
+The space
+Our house is designed to give you a place to relax and rest after enjoying our city! As you enter, you may want to stop on the porch for a little reading time on a beautiful day. As you walk through the front door, you'll step into a living area with a big comfy couch and a large flat-screen TV. Then you can choose which bedroom suits you best, a king, queen, or twins, each with quality bedding and mattresses. Regardless of which room you land, there’s a Roku TV in each. If you choose to cook a little in the kitchen, you'll have what you need- pots, pans, utensils, and dishes.
+
+Bedroom 1: King bed
+Bedroom 2: Queen bed 
+Bedroom 3: 2 Twin beds 
+Pack'n'play available 
+
+2 bathrooms
+
+Guest access
+You'll have access to the entire house including a full kitchen, eating area, and backyard.
+
+We have a long driveway that accommodates 3-4 cars easily.
+
+Other things to note
+Nashville requires rental permits for short-term rental properties. Our home has one so you're staying in an inspected, Nashville-qualified property!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamin Michael
+Host User ID: 53879154
+Host Profile URL: https://www.airbnb.com/users/show/53879154
+Host Profile URL Source: public user permalink from passport userId
+We're Nashville locals who enjoy being active, good food, good reads, and visiting great places. We love our city and love raising our family here! When we're not in Nashville, we're probably headed to a beach or exploring somewhere new. We love Nashville and know you will too!
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+430 reviews
+4.92 out of 5 average rating
+10 years of hosting

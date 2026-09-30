@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1126360244583887642
+Latitude: 36.0793
+Longitude: -86.4439
+rental_type: Barn
+property_type: BARN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming Farmhouse style Barndominium, welcome to tranquility!
+
+Enjoy a view of Nigerian Dwarf goats & seasonal playful, baby goats. 
+Gorgeous sunset views and large fire pit.
+
+Near 2 Lakes (Percy Priest & Old Hickory), Catch the Thrills of the Super Speedway Race Track, Golf, or stay for seamless travel to nearby Business Hubs.
+
+5 min: Piercy Priest boat dock
+7: Super Speedway
+15: Long Hunter State Park, Cedars of Lebanon
+20: Wilson County Fairground
+25: BNA airport 
+35: Nashville downtown
+
+The space
+Fully Furnished, New barndominium in the front section of a barn. Includes a full kitchen, with an island that has seating for 4. 
+Living room has lots of seating, push button electric recliner, and a sleeper sofa. Bedroom includes a motorized head raise queen bed, desk, and walk in closet. Large bathroom with cozy towels, toiletries, and an entrance to a  laundry room. 
+Enjoy rustic farmhouse charm throughout and a spacious front porch with a beautiful  view during your relaxing stay! It’s not unusual to see deer, wild turkeys, and rabbits in addition to our little goats.
+
+Guest access
+You can enjoy the entire farmhouse suite, front porch, and fire pit next to the fence. Feel free to stand at the fence to watch the goats.
+
+Feel free to bring your boat or trailer.  Plenty of parking in the circle driveway or to side of barndominium
+
+Other things to note
+Please turn in driveway with the 260 address sign. Aloha Goats Farm sign is posted at the entrance of barndominium driveway. You can park in the circular driveway. Plan to relax and unwind on our peaceful farm.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michelle
+Host User ID: 401747807
+Host Profile URL: https://www.airbnb.com/users/show/401747807
+Host Profile URL Source: public user permalink from passport userId
+5 years hosting

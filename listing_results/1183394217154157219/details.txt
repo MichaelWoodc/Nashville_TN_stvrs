@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1183394217154157219
+Latitude: 36.1875339760585
+Longitude: -86.81228500078238
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This modern, stylish townhome is the perfect stay for your Nashville trip! Located 5 minutes away from Broadway, it is the most convenient place for concerts, group trips, and so much more!
+
+It is beautifully furnished, 4 bedrooms with 3.5 bathrooms, with a fully equipped kitchen. Additionally, the home includes a bonfire area in the back and a rooftop lounge area. Amenities are provided in the home, including coffee, extra linens, shampoo, conditioner, body wash, etc.
+
+Fits about 4-5 vehicles!
+
+The space
+1 Master Bedroom with a King mattress; 1 Bedroom with a queen/full bunk bed; 2 Bedrooms with a queen mattress; 3.5 Bathrooms
+
+Registration Details
+2024062615
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tommy
+Host User ID: 584686529
+Host Profile URL: https://www.airbnb.com/users/show/584686529
+Host Profile URL Source: public user permalink from passport userId
+Hi, my name is Tommy. I am a local here in Nashville, TN, and I still reside here with my wife and 2 kids. I enjoy exploring this Music City, and I especially enjoy trying all the different cuisines it has to offer!
+My work: Judicial system
+I spend too much time: On my phone
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+48 reviews
+4.96 out of 5 average rating
+2 years of hosting

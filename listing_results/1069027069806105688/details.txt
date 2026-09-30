@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1069027069806105688
+Latitude: 36.196
+Longitude: -86.7801
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience one of Nashville’s most breathtaking skyline views. Floor-to-ceiling windows frame the city lights from this stunning contemporary retreat featuring soaring 25-foot ceilings, abundant natural light, a chef’s kitchen, grand piano, and designer furnishings throughout. Whether you’re visiting for a relaxing getaway, celebration, business trip, or Music City adventure, you’ll enjoy luxury, comfort, and unforgettable views just minutes from Nashville’s top attractions.
+
+The space
+Each room offers its own unique character and comfort. The primary suite features a dramatic wall of glass with sweeping views of Nashville, creating a luxury penthouse feel. For guests who prefer complete darkness, a custom blackout curtain covers the entire window wall. Wake up to stunning sunrises or enjoy falling asleep beneath the city lights.
+
+The upstairs guest suite is warm, stylish, and inviting, featuring a king bed and daybed for additional sleeping space. Rich textures, thoughtful design, and comfortable furnishings create a relaxing retreat.
+
+The downstairs guest bedroom offers two queen beds and a clean, functional layout with designer touches throughout. Green and gold accents carry seamlessly from the bedroom into the adjoining bath.
+
+The open-concept living area is the heart of the home, connecting the spacious kitchen and living room into one welcoming gathering space. Whether you’re enjoying a meal, relaxing with friends, or taking in the views, the home is designed for comfort, connection, and memorable stays.
+
+Guest access
+The home is yours apart from the basement/ garage where storage and cleaning supplies are stored
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cody
+Host User ID: 155954955
+Host Profile URL: https://www.airbnb.com/users/show/155954955
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of Arkansas
+My work: NFL
+Response rate: 100%
+Responds within an hour
+3 years hosting
+18 reviews
+5.0 out of 5 average rating
+3 years of hosting

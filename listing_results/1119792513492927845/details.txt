@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1119792513492927845
+Latitude: 36.27515
+Longitude: -87.05184
+rental_type: Private room in bed and breakfast
+property_type: BNB
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 0
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A spacious home, small town bed & breakfast which offers a private master bedroom, equipped with full ensuite bathroom, private lounge room, smart-tv and walk-in closet. It is in the main area of Ashland City so there is a variety of shops and restaurants nearby. It’s 35 minutes from downtown Nashville and 5 minutes from the Cumberland River. As well as lots of nature activities to do! Couples, friends and solo travelers welcome!
+
+The space
+A shared 3 bedroom, 3 bathroom house in quite little neighborhood. 5 minutes from Cumberland River and 35 minutes away from DOWNTOWN NASHVILLE. There is a variety of  nearby restaurants such as Sidelines grille, Japanese hibachi,  Don Chuys, plenty of convenience stores and medical centers all within 5 miles from property!
+
+Guest access
+Your will have access to a private bedroom, which is equipped with a comfy king-size bed, en-suite full-bath, large walk-in closet, smart-tv , and a private lounge room. The only spaces that guests will share access are the living room, dining room, kitchen, outdoor back patio, and parking.
+
+During your stay
+You will be able to communicate with the host via email, txt or call.
+
+Other things to note
+Just a good ole fashioned bed & breakfast , the host ( Nick ) actually lives 10 min away so incase problems do occur, guests can expect immediate care. We welcome you to come enjoy a visit in our small town of Ashland City!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nick
+Host User ID: 159641842
+Host Profile URL: https://www.airbnb.com/users/show/159641842
+Host Profile URL Source: public user permalink from passport userId
+I’m happy to spend time with my guests or give them space
+3 years hosting

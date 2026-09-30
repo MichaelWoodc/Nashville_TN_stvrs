@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1166212579956934141
+Latitude: 36.28532
+Longitude: -86.60953
+rental_type: Houseboat
+property_type: HOUSEBOAT
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 2
+occupancy: 3
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to a relaxing spot in nature and experience a small getaway on a dock at Old Hickory Lake! Wake up to the tranquil sounds of water and enjoy a coffee off the stern of your own private small houseboat to start your day right while watching wildlife. Explore the beauty of the lake with two free kayaks. Spend your days fishing off the marina or paddling through the serene waters at your leisure.
+
+The space
+Rustic cabin style houseboat with cozy space. Wake up to the sounds of the water and go to bed watching an amazing sunset! Perfect for a lovers retreat, friends get away, guys fishing trip, or quality alone time to recharge. Many cozy features such as: full size lower deck bed with private TV, music, and river view. VERY SMALL full bathroom and kitchenette. Upper deck twin bed with outside view. Kayaks provided anchored on port side that are free to use along with fishing poles. Stern patio furniture for early morning wildlife watching. This is a small
+houseboat docked in a marina on a lake with lakeside wildlife. The boat does not move from the dock, but simply camping on the water. Perfect for avid outdoor lovers that love the water and those comfortable with lakeside ecosystem. There is a small bathroom on the boat. There is also a bath house facility 40 yards away that has amazing water pressure and clean restrooms.
+
+Other things to note
+The bathroom is compact but fully functional. For your convenience, additional bathroom facilities are located on the dock, just 40 yards away. This is a 1980s model houseboat with seasoned blemishes, providing a cozy and quaint atmosphere rather than a luxurious yacht experience. Additionally, guest will be staying on a lake with animals and insects in their natural habitat. You will see fish, turtles, birds, and deer. Late summer/early fall, Charlotte’s lake cousins hang out in their webs on the dock catching annoying insects. They are harmless. We treat the inside of the boat. This experience is similar to camping, outside in nature, but with the added charm of sleeping on a lake. Please look at all pictures and videos to make sure it’ll meet your expectations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christy
+Host User ID: 464360905
+Host Profile URL: https://www.airbnb.com/users/show/464360905
+Host Profile URL Source: public user permalink from passport userId
+I’m from Tennessee and my husband is from New England. I have a passion for animals.  We have a small farm with horses. My husband loves the water. So our little houseboat is a compromise and a place for him to relax (hide) away from the farm!
+Where I went to school: Lipscomb University
+My work: Horse Rescue
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+71 reviews
+4.92 out of 5 average rating
+2 years of hosting

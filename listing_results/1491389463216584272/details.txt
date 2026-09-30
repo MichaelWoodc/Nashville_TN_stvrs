@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/1491389463216584272
+Latitude: 36.29918
+Longitude: -86.76196
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Stoneglass Retreat – Pool, 20 min to Nashville
+
+Just 20 minutes north of Nashville, The Stoneglass Retreat blends historic stone architecture with a modern glass extension. Set on over an acre, this unique home is perfect for families and groups looking for space, style, and fun.
+Private 20×40 pool 
+Sleeps up to 12 across 4 bedrooms & 3 baths.
+Enjoy resort-style amenities in a peaceful setting, while staying close to the music, food, and nightlife of downtown Nashville.
+
+The space
+Welcome to our rustic retreat, where comfort meets nature. Please note that, as this is an older home surrounded by nature, you may occasionally encounter insects or other elements of the outdoors. While we take regular steps to maintain and care for the property -- including cleaning and inspecting the home as close to your arrival as possible -- having a pristine outdoor area and bug free setting are sometimes impossible.
+
+If you’re looking for an older home, set in the country, this is the perfect place to unwind and reconnect with nature.
+
+Other things to note
+🏡 House Rules – The Stoneglass Retreat
+
+We’re so glad you’re considering a stay at the Stoneglass Retreat! To keep the home in great condition and ensure a wonderful experience for all guests, please review and follow these rules during your stay:
+
+👥 Guest Capacity & Visitors
+• Maximum occupancy: 12 guests.
+• All guests must be included in the reservation at the time of booking.
+• If additional guests are expected, you must request and receive approval before their arrival.
+• Unauthorized guests are a violation of house rules and may result in removal from the property without refund.
+
+🎉 Parties & Events
+• No parties or events are permitted.
+• Any gathering that disrupts neighbors’ peace or enjoyment will not be tolerated.
+• If parties/events occur, guests will be asked to leave immediately with no refund.
+
+🎊Confetti
+• No confetti allowed on the property 
+
+🔇 Noise & Quiet Hours
+• Quiet hours are from 10:00 PM to 8:00 AM.
+• Please keep music and voices at a respectful level at all times.
+• Loud, disruptive, or obnoxious noise in violation of local ordinances will result in immediate removal without refund.
+
+🚽 Septic System
+• The property is on a septic system.
+• Only the toilet paper provided at the house may be flushed—no wipes, feminine products, or other “flushable” items.
+• Failure to follow this rule may result in costly damage, which guests will be held responsible for.
+
+🏊 Pool & Towels
+• Pool towels are provided for outdoor use.
+• White bath towels are for use inside the home only.
+• Pool slide is decorative only.
+
+🧊 Appliances
+• The refrigerator’s water dispenser and ice maker are not functional.
+
+Smoking
+• No smoking
+
+⚠️ Enforcement
+• Any violation of these rules (including exceeding guest limits, hosting events, or noise disturbances) will result in guests being asked to vacate the property immediately and no refund will be provided.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 481452264
+Host Profile URL: https://www.airbnb.com/users/show/481452264
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+1 year hosting
+23 reviews
+4.74 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1498807714430060212
+Latitude: 36.16224
+Longitude: -86.8233
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience a modern Nashville stay in a newly renovated condo located in a safe, quiet neighborhood just 12–15 minutes from downtown and close to the city’s best dining, live music, and culture. This 2-bedroom retreat features stylish finishes, a comfortable living area, and a private patio to relax after a day of exploring. Perfect for couples, professionals, or small families seeking both comfort and convenience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vi
+Host User ID: 372847268
+Host Profile URL: https://www.airbnb.com/users/show/372847268
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+1 year hosting
+9 reviews
+4.78 out of 5 average rating
+1 year of hosting

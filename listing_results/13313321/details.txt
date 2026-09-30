@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/13313321
+Latitude: 36.16777
+Longitude: -86.67797
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My place is good for couples, solo adventurers, business travelers, and families (with kids).
+
+The space
+This house is approximately 1400 square feet. The driveway can accomodate at least 3-4 cars.
+
+Guest access
+Guests can enjoy access to the entire house & fenced backyard.  When arriving please use side door entrance with keyless entry key-pad.
+
+Other things to note
+Short Term Rental Permit #2016061559
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eva Marie
+Host User ID: 65479494
+Host Profile URL: https://www.airbnb.com/users/show/65479494
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Eva.  I live & work in Nashville.  I enjoy attending many events & concerts that Nashville has to offer.  I love this city.
+My work: NASBA-National Association of State Boards of Accountancy
+Speaks English
+Response rate: 100%
+Responds within an hour
+10 years hosting
+154 reviews
+4.96 out of 5 average rating
+10 years of hosting

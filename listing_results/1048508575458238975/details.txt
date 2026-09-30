@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1048508575458238975
+Latitude: 36.29578
+Longitude: -86.62534
+rental_type: Entire place
+property_type: OTHER
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 10
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Driving Sauna offers a unique spa experience delivered to your doorstep. Driving Sauna is a mobile sauna on wheels for up to 8-15 people. Whether you are on a picnic, hiking trip or even in the comfort of your home, our Driving Sauna is the first wood-burning sauna in Tennessee and that can be wherever you are.
+Driving Sauna is a safe and positive relaxing space for all to enjoy. Breaking a sweat has lots of health benefits and this is your chance to try and enjoy it.
+
+The space
+We bring the sauna to your place
+
+Guest access
+Sauna has a hot room and a sitting area
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Oleg
+Host User ID: 525576053
+Host Profile URL: https://www.airbnb.com/users/show/525576053
+Host Profile URL Source: public user permalink from passport userId
+Responds within a few days or more
+3 years hosting

@@ -1,0 +1,98 @@
+URL: https://www.airbnb.com/rooms/1497807712998382783
+Latitude: 36.1932
+Longitude: -86.8319
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish Music City retreat features spacious living areas and a private 4th-floor covered rooftop patio with a hot tub, fire pit, and sweeping skyline views. Enjoy 4 levels with cozy lounges, a fully equipped chef's kitchen, high-speed Wi-Fi, and smart TVs throughout. Located just 5–10 minutes from Broadway and Germantown. Plus, BetterBNB guests get exclusive VIP discounts on luxury chauffeur transportation (Sedans, Escalades, Sprinters) and local lake boat rentals!
+
+The space
+This country‑chic Nashville retreat features spacious living areas designed for ultimate comfort and style. Relax in cozy seating areas, cook in the fully equipped chef's kitchen, and gather around the dining table for memorable meals or game nights. Step outside to your private 4th-floor covered rooftop patio featuring a hot tub, fire pit, and cushioned seating—perfect for morning coffee, sunset cocktails, or starry-night conversations with sweeping skyline views.
+
+Spacious Floor Plan & Bedroom Layout
+
+1st Floor:
+
+1 Bedroom with a Queen bed and private en-suite bathroom
+
+Private attached garage parking
+
+2nd Floor:
+
+Open-concept main living area and fully stocked chef’s kitchen
+
+1 Bedroom with a Queen bed and Jack-and-Jill style full bathroom
+
+3rd Floor:
+
+Primary Suite 1: 1 King bed with private en-suite bathroom
+
+Primary Suite 2: 2 Queen beds with private en-suite bathroom
+
+4th Floor:
+
+Guest Suite: 2 Queen beds with a Jack-and-Jill full bathroom
+
+Dedicated Theme / Lounge Room
+
+Private covered rooftop patio with hot tub, fire pit, and skyline views
+
+Chef's Kitchen & Dining
+
+Full-sized stainless steel appliances (refrigerator, stove, oven, microwave, dishwasher)
+
+Fully stocked with cookware, bakeware, dinnerware, glassware, and utensils
+
+Drip coffee maker and kettle to start your mornings right
+
+Dining seating space perfect for group meals and family gatherings
+
+Comfort & Tech Amenities
+
+Ultra-fast Wi-Fi throughout all four floors
+
+Smart TVs in the main living space and bedrooms for streaming your favorite shows
+
+Central A/C and heating with individual climate controls
+
+Fresh linens, plush bath towels, and essential toiletries provided
+
+BetterBNB VIP Perks
+As a BetterBNB guest, you get exclusive priority access and direct discounts across our premier Nashville partner network—including white-glove luxury chauffeur transportation (Executive Sedans, Escalades, Sprinters) and boat rentals at Percy Priest Lake and Old Hickory Lake!
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+Self Check-In: Keyless entry via Yale smart lock with personalized entry codes sent prior to arrival.
+
+Parking: Private attached garage parking plus free on-site parking for your group.
+
+BetterBNB VIP Perks: Priority access & guest discounts across our Nashville partner network—including luxury chauffeur transportation (Executive Sedans, Escalades, Sprinters) and lake boat rentals!
+
+House Rules: No smoking or parties allowed inside the property. Quiet hours are enforced in accordance with local Nashville ordinances.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

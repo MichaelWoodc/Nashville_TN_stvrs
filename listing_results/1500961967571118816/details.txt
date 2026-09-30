@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1500961967571118816
+Latitude: 36.1415
+Longitude: -86.7658
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly outfitted 1 BR/1 BA in the heart of Wedgewood/Houston (WeHo), Nashville's hippest neighborhood. Step into a bold and stylish music-inspired retreat. Featuring striking black-and-white wallpaper, vintage touches, and plenty of modern comfort, this suite is the perfect backdrop for your next adventure. Just minutes from Broadway, local bars, and live music venues — this space hits all the right notes.
+
+The space
+You'll love this cozy one-of-a-kind Nashville getaway. It combines bold design with everything you need for a comfortable stay:
+
+**Bedroom
+
+Cozy Queen bed with blackout shades for a peaceful night’s sleep
+
+**Living & Dining
+
+Spacious living room with a plush sectional sofa
+
+50” Smart TV for movie nights or streaming your favorite shows
+
+Long bar with seating — perfect for morning coffee or evening cocktails
+
+**Kitchen & Bath
+
+Fully equipped kitchen with everything you need to cook and dine in
+
+Large bathroom with roomy step-in shower
+
+Fresh towels and bathroom essentials provided
+
+*Parking
+Free street parking is available right out front or on a neighboring street in the neighborhood. Paid lots are available across the side street. 
+
+**Extra Touches
+
+Super-fast WiFi throughout
+
+Vintage-inspired décor with Insta-worthy style
+
+Music-themed accents that celebrate Nashville’s creative spirit
+
+Check out our neighborhood guide for recommendations!
+
+Guest access
+You have access to the entire apartment
+
+Other things to note
+We’re thrilled to welcome a well-behaved dog at our property — we’re pet lovers ourselves! To help ensure a great stay for everyone (especially our kind neighbors), we ask all pet parents to follow a few simple guidelines:
+
+We do limit to one small/crate trained/well-behaved dog. We love our furry friends but know that new spaces can be scary to pups. You are still responsible for your pet, picking up after your pet, inside and outside. There will be an additional fee of $100 added to the existing pet fee ($25) if there are any surprises left behind or if your dog continually barks and disturbs the residents in the building. This is a multi-unit building and everyone must respect the other units. This apartment is in the city and there will be noises that can cause anxiety to a animal. If you need a dog-walking recommendation, please let us know. There's a great dog park less than 10 mins away!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dwellish
+Host User ID: 465428850
+Host Profile URL: https://www.airbnb.com/users/show/465428850
+Host Profile URL Source: public user permalink from passport userId
+We are Stephanie and Zach with Dwellish, your hosts for an exceptional stay. Our passion for design and travel is evident in every detail. 
+Originally from AZ, Stephanie has spent the last 12 years in the Windy City. Her degree in hospitality mgmt makes her the perfect host. Zach grew up in Kansas City and has been a top real estate broker for over 12 yrs. He brings his expertise to their partnership.  
+Enjoy your stay!
+I'm obsessed with: Traveling
+Lives in Chicago, Illinois
+Response rate: 100%
+Responds within an hour
+4 years hosting
+569 reviews
+4.75 out of 5 average rating
+4 years of hosting

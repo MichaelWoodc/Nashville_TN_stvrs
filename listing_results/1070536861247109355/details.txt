@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1070536861247109355
+Latitude: 36.14784
+Longitude: -86.81651
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashvilles finest one bedroom luxury rental unit located in Mid Town just moments away from the Parthenon, Vanderbilt University and 10 mins from Broadway!
+
+The space
+This one bedroom luxury apartment offers the perfect blend of comfortable sophistication…
+
+This unit is wheelchair friendly and perfect for anyone looking to experience Nashville to its fullest! Just a few blocks from the Parthenon and walking distance to Centennial Park, Vanderbilt University, Vanderbilt Medical, Centennial Hospital, and the cities vibrant entertainment scene!
+
+With just a 10 minute car ride to Broadway, getting your party on will be no issue! 
+
+Enjoy walking distance food options such as Maggiano’s, Bellagio Pizza and Subs, J Alexander’s, Chipotle, Honey Baked Ham, Subway, Great American cookies, Tazikis, Ted’s Montana Grill and 51st Deli!
+
+(There’s also a CVS, GNC and so much more down the street)
+
+Guest access
+As an honored guest, you have access to the gym, pool and business center at The Odyssey.
+
+Other things to note
+Please note that at the time of photography, the fridge and washing machine were not yet installed. Rest assured all of the amenities listed are up and running!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: D
+Host User ID: 242966053
+Host Profile URL: https://www.airbnb.com/users/show/242966053
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+57 reviews
+4.98 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/46179487
+Latitude: 36.122
+Longitude: -86.7912
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Location, location, location! Amazing new guest house in a dream 12th South location. 30 second walk to giant park, coffeeshops, shopping, and award-winning restaurants and all the fun of 12th South. Enjoy all Nashville has to offer in this guest house with living room, full kitchen, and bedroom. You are also 3 miles from downtown, straight down 12th Avenue to the Gulch! Arrive and walk to anything you need.
+
+All guests receive our curated guide to Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Geoff
+Host User ID: 262856184
+Host Profile URL: https://www.airbnb.com/users/show/262856184
+Host Profile URL Source: public user permalink from passport userId
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+6 years hosting
+487 reviews
+4.97 out of 5 average rating
+6 years of hosting

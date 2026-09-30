@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/1258301323748600410
+Latitude: 36.12999
+Longitude: -86.80353
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a cozy & quiet stay at this centrally-located bungalow apartment in the idyllic Hillsboro West End neighborhood
+      
+• 10 min to downtown / 7 min to Greenhills 
+• Short walk to Vanderbilt, Belmont & Hillsboro Village
+• 15-20 min walk (3min drive) to 12 South 
+• Across the street from the iconic Brown’s Diner (food and local music)
+• Next door to Kroger Grocery
+• We will provide a visitors guide with our favorite local spots, upon arrival
+• Quiet, historic neighborhood
+
+The space
+If you are looking for a well designed, cozy space, look no further.  Our home is a lovely 1928 cottage, so it has all of the quirks but also all of the charm.  If you are looking for a white, sterile box, Blair Bungalow is not for you. Also note, the entrance is on the 2nd floor so there are two flights of stairs to the unit.  
+
+• 1 queen bed in bedroom (blinds + curtains - not blackout) 
+• 1 twin bed in sleeping nook, off kitchen/ living space. Bed is tucked behind curtains.  Additional curtains in living space are heavily lined
+
+• 1 bathroom with shower / tub 
+
+• (2) 34” tv’s - (1) in bedroom and (1) in living space 
+• Dining table can also serve as workspace 
+
+• Whole Home water filtration system - on all faucets 
+
+• Kitchenette 
+    - Coffee - Keurig (hot or cold) - pods provided 
+    - coffee grinder (beans not provided) 
+    -Fridge / small freezer
+    -Air frier / toaster oven 
+    - Microwave 
+    - Sink
+    - Dishes / cutlery provided 
+
+• Spacious deck with (4)  Adirondack chairs
+
+• Closet to store luggage
+
+Guest access
+Keypad Entry. Apartment is above our home, but has its own entrance, lounging porch, & parking spot in driveway.
+
+Other things to note
+When coming and going, please be mindful of noise levels. The homes around us are also full time residents, so please be respectful.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gena
+Host User ID: 22805263
+Host Profile URL: https://www.airbnb.com/users/show/22805263
+Host Profile URL Source: public user permalink from passport userId
+Entrepreneur / Interior Designer
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within a few hours
+Superhost
+12 years hosting
+66 reviews
+4.97 out of 5 average rating
+12 years of hosting

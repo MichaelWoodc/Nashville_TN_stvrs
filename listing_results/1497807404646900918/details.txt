@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1497807404646900918
+Latitude: 36.1939
+Longitude: -86.83214
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 9
+beds: 14
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole crew! This rare Nashville find offers three full homes rented together, just 5 minutes from Broadway and the heart of Music City. Perfect for large groups, family reunions, bachelor/ette trips, or corporate retreats, these stylishly designed homes provide plenty of space for everyone to stay close—while still enjoying privacy.
+
+Each home features modern kitchens, comfortable living areas, and multiple bedrooms/bathrooms to accommodate your group with ease. Outside, enjoy private
+
+The space
+Each Home Includes:
+
+3 Bedrooms / 3 Bathrooms
+
+5 Beds Total
+
+1 King Bed
+
+2 Queen Beds
+
+2 Additional Queen Beds
+
+Modern, fully stocked kitchen
+
+Open-concept living + dining area
+
+Rooftop deck or private patio for relaxing & gathering
+
+Total Across All 3 Homes:
+
+9 Bedrooms / 9 Bathrooms
+
+15 Beds (3 Kings + 12 Queens)
+
+Comfortably sleeps 30+ guests
+
+With multiple living spaces, plenty of bathrooms, and private rooftops/patios, your group will have the perfect balance of togetherness and comfort.
+
+Guest access
+Guests will have full access to all three homes during their stay. Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

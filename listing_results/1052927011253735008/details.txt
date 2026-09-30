@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1052927011253735008
+Latitude: 36.1754
+Longitude: -86.7436
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Five Points bars, restaurants, and coffee shops. Just 10 minutes to Broadway and downtown Nashville. Perfect for bachelorette trips, weekend getaways, and group stays.
+
+Welcome to your East Nashville retreat! Located in the heart of historic Lockeland Springs on Holly Street, this newly remodeled home blends modern style with warm Southern charm. Enjoy the vibrant energy of East Nashville while staying just minutes from the music, nightlife, and entertainment of downtown.
+
+The space
+STYLISH EAST NASHVILLE RETREAT
+
+Enjoy a stylish and spacious home in the heart of historic Lockeland Springs. Thoughtfully designed with modern touches and cozy comfort, this home is the perfect place to relax after a day exploring Nashville.
+
+PRIME LOCATION
+
+Walk to Five Points restaurants, bars, coffee shops, and boutiques. Experience the vibrant culture of East Nashville while staying just minutes from downtown.
+
+SPACIOUS & COMFORTABLE
+
+With plenty of room to relax, our home blends comfort and style to make your stay both memorable and relaxing—perfect for groups, weekend trips, and Nashville adventures.
+
+EXPLORE THE OUTDOORS
+
+Shelby Park is just minutes away and offers beautiful greenways, bike trails, and scenic spots for a morning walk or afternoon ride.
+
+Quick Access to Nashville Hotspots
+
+Only a 10-minute Uber ride to Broadway, The Gulch, Music Row, and downtown Nashville nightlife.
+
+Whether you're visiting for live music, amazing food, or a fun weekend with friends, our Holly Street home is the perfect base for your Nashville getaway.
+
+Guest access
+Guests have full access to the entire home, deck, and yard during their stay. The garage is not included with the rental.
+
+The detached garage on the property contains a separate private apartment that we sometimes use, but guest spaces are completely private and not shared.
+
+Other things to note
+Free parking is available in the driveway and on the street.
+
+Registration Details
+RESIDENTIAL SHORT TERM RENTAL / CASR-2026061857
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamie
+Host User ID: 80258045
+Host Profile URL: https://www.airbnb.com/users/show/80258045
+Host Profile URL Source: public user permalink from passport userId
+My husband and I want to get away from the heat in Nashville.   Your home looks perfect!
+My work: Green Wave Solar
+Lives in Springfield, Ohio
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+390 reviews
+4.99 out of 5 average rating
+7 years of hosting

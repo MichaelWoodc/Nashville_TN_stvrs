@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1495632646809798954
+Latitude: 36.2318
+Longitude: -86.72473
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New, luxury 1BR apartment with free parking and 1GB wifi! Just a 12-minute ride to Broadway and Nissan Stadium. Enjoy our two shared rooftop terraces. Located in vibrant East Nashville, your building features an e+rose wellness cafe right in the lobby. Self-check-in and an in-unit washer/dryer make your stay a breeze.
+
+The space
+Welcome to your brand new, luxury 1-bedroom apartment, the perfect home base for exploring Music City. Tucked away in a quiet East Nashville neighborhood, you're just a 12-minute Uber or car ride from the heart of the action. Enjoy the best of both worlds: a peaceful retreat after a busy day with fast access to all the excitement.
+
+We've designed this space with your comfort and convenience in mind. Step inside to an open-concept living area with modern furnishings, high-end finishes, and plenty of natural light. The kitchen is a chef's delight, fully equipped with new stainless-steel appliances and a waterfall quartz countertops, perfect for a quiet night in.
+
+🤠  Unbeatable Amenities & Location
+What truly sets this listing apart are the building's top-tier amenities:
+
+🌇 Two Shared Rooftop Terraces: With two shared rooftop terraces to choose from, you're guaranteed to find the perfect spot for a morning coffee or a sunset drink.
+
+🚗 Free Parking: The building has a first-come first-serve parking lot located directly behind means you can come and go with ease.
+
+🍓 e+rose Wellness Cafe: Start your day with a healthy juice, smoothie, or coffee without ever leaving the building. This high-end cafe located in the lobby is the ultimate convenience.
+
+🚪 Self-Check-In: Arrive on your own schedule with our simple, keyless self-check-in process.
+
+👕 Washer/Dryer in Unit: Pack light and refresh your clothes anytime with a washer and dryer right in your apartment.
+
+🏠 The Space
+The bedroom features a comfortable queen-size bed and the bathroom includes a spacious walk-in shower and high-end fixtures. The kitchen features a waterfall quartz countertop and ample natural lighting when you don't feel like exploring some of the local nearby restaurants. Google Fiber internet will keep you plugged in when needed, as well! 
+
+🤠 The Neighborhood
+You'll love being in vibrant East Nashville, a lively area known for its unique restaurants, local coffee shops, and artistic charm. Explore trendy boutiques, grab a bite at a famous eatery, or check out the local music scene, all just minutes from your front door.
+
+Whether you're visiting for a concert at Nissan Stadium, a night out on Broadway, or a relaxing weekend getaway, this apartment is the ideal choice for a memorable and luxurious stay. We look forward to hosting you!
+
+Registration Details
+2025035440
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eva
+Host User ID: 49357218
+Host Profile URL: https://www.airbnb.com/users/show/49357218
+Host Profile URL Source: public user permalink from passport userId
+My work: Artist
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+49 reviews
+4.96 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1364848700764367539
+Latitude: 36.0386
+Longitude: -86.4605
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this secluded rustic farmhouse, just a short walk from the lake. Surrounded by nature, this cozy retreat features warm wood interiors, a stone fireplace, and a front porch perfect for relaxing. Enjoy peaceful mornings and easy access to hiking, fishing, and lake adventures. Ideal for a quiet getaway or a cozy gathering, this farmhouse is your perfect escape from the everyday.
+
+The space
+Welcome to your perfect rustic getaway! This charming 3-bedroom, 2-bathroom farmhouse offers cozy comfort in a secluded setting, just a short walk from the lake. Thoughtfully designed with warm wood accents and farmhouse décor, the home features two queen-sized beds and a twin, making it ideal for families, couples, or small groups. Relax by the stone fireplace, sip coffee on the front porch, or explore the nearby trails and water activities. Whether you’re here for a peaceful retreat or an adventure-filled stay, this farmhouse is the perfect place to unwind and make lasting memories.
+
+Other things to note
+No Smoking inside! A $500 fine will be charged if any smoke odor is found inside. You may smoke outside as long as you dispose of butts in a trashcan.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonah
+Host User ID: 387705832
+Host Profile URL: https://www.airbnb.com/users/show/387705832
+Host Profile URL Source: public user permalink from passport userId
+Born in the 00s
+Where I went to school: Lipscomb University
+Response rate: 94%
+Responds within an hour
+Superhost
+5 years hosting
+522 reviews
+4.82 out of 5 average rating
+5 years of hosting

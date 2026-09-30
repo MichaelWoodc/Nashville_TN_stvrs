@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1071728247547524174
+Latitude: 36.15788
+Longitude: -86.7086
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to Foxwood Cottage 🌿 - A private designer studio retreat near Nashville's best. Perfect for couples or solo travelers, this stylish space offers a peaceful getaway just minutes from Broadway, BNA, and the Grand Ole Opry. Enjoy a stone fireplace, a serene deck, and high-end finishes in this unique, cozy home base.
+
+The space
+Step into a stunning studio cottage where airy, vaulted ceilings and warm wood beams create an open yet cozy atmosphere. This thoughtfully designed space is your perfect home base for exploring Music City.
+
+Key Features:
+Relaxing living area with a stone fireplace and record player.
+High-end finishes and premium linens for a touch of luxury.
+Fully equipped kitchenette for preparing simple meals.
+Peaceful private deck, perfect for morning coffee or an evening glass of wine.
+Modern bathroom with a spacious walk-in shower.
+
+Guest access
+Guests will have exclusive and private access to the entire cottage. 
+
+Your stay includes:
+The entire studio cottage and a private rear deck area.
+A private entrance for your convenience.
+Self check-in with a secure access code.
+One complimentary, dedicated off-street parking spot.
+
+Other things to note
+We live on-site in the main house, which is linked to the cottage by a 4-foot utility doorway leading to our laundry room (strictly used by us during turnovers). 
+
+Your space is 100% private with its own exterior entrance, and the cottage shares zero common areas with our home—meaning zero risk of us awkwardly bumping into you while you're shuffling to the Keurig in your pajamas for morning coffee! ☕
+
+We are right next door if you ever need a local recommendation or extra coffee pods, but  you have a completely private entrance to come and go as you please.🌿
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 479081885
+Host Profile URL: https://www.airbnb.com/users/show/479081885
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+125 reviews
+4.91 out of 5 average rating
+2 years of hosting

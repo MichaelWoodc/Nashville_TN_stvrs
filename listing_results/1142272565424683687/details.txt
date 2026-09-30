@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1142272565424683687
+Latitude: 36.09583
+Longitude: -86.63546
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 6
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the lovely setting of this romantic spot in nature.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mo
+Host User ID: 57338877
+Host Profile URL: https://www.airbnb.com/users/show/57338877
+Host Profile URL Source: public user permalink from passport userId
+Peace & Love!
+Speaks English
+Lives in Nashville, Tennessee
+7 years hosting
+32 reviews
+4.03 out of 5 average rating
+7 years of hosting

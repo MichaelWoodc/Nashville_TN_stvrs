@@ -1,0 +1,99 @@
+URL: https://www.airbnb.com/rooms/1325342194584599994
+Latitude: 36.37706
+Longitude: -86.49499
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 3,300-sq-ft log cabin just 30 minutes from Downtown Nashville. Enjoy fast Wi-Fi, central AC/heat, a full kitchen, washer/dryer, and a cozy fireplace. Sip coffee on the wraparound porch, unwind under the stars, and relax in peaceful country surroundings. Your private Nashville-area retreat—where rustic charm meets modern comfort.
+
+The space
+A spacious 3,300-sq-ft private log home on 50 peaceful acres, just 30 minutes from Downtown Nashville. Enjoy the quiet of the countryside with fast access to Music City’s top spots (times approximate):
+
+🎸 Country Music Hall of Fame – ~30 min
+🎤 Broadway Honky Tonks – ~30 min
+🎶 Grand Ole Opry – ~25 min
+🏟️ Nissan Stadium – ~28 min
+🎫 Bridgestone Arena – ~30 min
+
+Unwind on the wraparound porch, recharge by the fireplace, and use this Nashville-area log cabin as your private base for concerts, games, and nights out.
+
+Why This Place
+🌟 Private 50-acre log home near Nashville
+🧭 30 min to Downtown; peaceful, starlit nights
+🏡 3,300 sq ft to spread out; porch + fireplace
+🔑 Easy self check-in, parking for 5, fast Wi-Fi
+
+Sleeping Arrangements
+🛏️ Bedroom 1: King bed
+🛏️ Bedroom 2: Queen bed
+🛏️ Bedroom 3: Full-size bunk beds
+👥 Sleeps: 8 total
+
+Kitchen & Dining
+👩‍🍳 Fully equipped kitchen: stainless refrigerator, dishwasher, stove/oven, microwave
+🍳 Cookware & serveware: pots/pans, dishes, wine & drinking glasses, cutting board, can opener
+☕ Coffee maker + coffee
+
+Entertainment & Connectivity
+📺 Flat-screen TVs with Netflix
+📶 High-speed Wi-Fi
+
+Amenities
+❄️ Central AC & heat
+🔥 Fireplace
+🧺 Washer & dryer
+🔑 Electronic key entry
+
+Parking
+🚗 Up to 5 vehicles on site
+
+House Rules (Disclaimers)
+🚫🎉 No parties or large gatherings
+🚭 No smoking
+🚫💊 No drug use
+🚫🐾 No pets
+🐄 Farm animals are present (please don’t enter fenced areas)
+
+Safety
+🔔 Smoke detectors
+🧪 Carbon monoxide alarm
+🧯 Fire extinguishers
+
+Starter Set Provided
+🗑️ Trash bags • 🧼 Dish pods • 🧴 Laundry detergent
+🛁 Bath towels • 🧻 Toilet paper • 📄 Paper towels
+🧽 Dish soap • 🧴 Hand soap • 💄 Makeup towels
+💇 Hair dryers
+
+Guest access
+The log cabin and surrounding property down to the creek.
+
+Other things to note
+☕ Local Touch, Fresh Brew
+
+Wake up to a taste of Gallatin’s charm! Every guest receives one free coffee from Grahams Coffee Co, a beloved local café known for its rich, small-batch blends. Consider it our way of sharing a little hometown warmth before you head into Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Suzette
+Host User ID: 670234690
+Host Profile URL: https://www.airbnb.com/users/show/670234690
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 80%
+Responds within a few hours
+2 years hosting
+5 reviews
+5.0 out of 5 average rating
+2 years of hosting

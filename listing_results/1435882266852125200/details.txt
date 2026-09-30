@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1435882266852125200
+Latitude: 36.199211588957716
+Longitude: -86.75332109219917
+rental_type: Barn
+property_type: BARN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+* Super cool one of kind fully renovated 1940s Barn!
+
+* 3.5 Miles from Downtown Nashville (Predators and Titan's games, CMA Fest, Honky Tonks,  Ryman, Etc
+
+* 1. 5 Miles from 5 points (the heart of "East Nashville")
+
+* 7 Miles from The Grand Ol Opry and Opryland Mall
+
+The space
+Stay in a one-of-a kind fully renovated barn in the heart of East Nashville!
+
+Welcome to your private retreat in one of Nashville’s most vibrant neighborhoods! This unique newly renovated 600 sq. ft. barn offers a great blend of charm and modern comfort. From barn themed wall hangings, customized barn themed coffee mugs, and all the little details, this will be a stay you will long remember because of how special it is!
+
+Inside, you’ll find:
+
+ * A cozy upstairs loft bedroom with a comfortable queen size bed
+
+ * A fully equipped kitchen for home-cooked meals  (including pots, pans, dishes glassware, and keurig for coffee supplied)
+
+ * A bright and inviting living room space to relax or stream your favorite shows on a large screen tv
+
+ * A compact bathroom with both shower and bath
+
+The space has been thoughtfully designed to give you everything you need, whether you’re in town for a quick getaway, a music-filled weekend, or an extended stay. Downtown Nashville and Broadway are only a short drive or rideshare away and the space is perfect for solo travelers, couples, or anyone looking for a hip spot to call home while exploring Music City.
+
+Guest access
+You have complete access to the entire barn during your stay, which is designed for a maximum of 2 guests.
+
+Other things to note
+Please do not park vehicles on the front lawn of the property. Parking is available at the rear of the house in the space marked "barn only" (on the "Left"), and there is parking available for 2 vehicles. The house on the property is also a separate Airbnb and guests staying there park to the "Right" in the driveway.
+
+Please also NOTE: The loft area for sleeping is rather "low" (around 50-50" in hight), so you will probably need to duck down when you go up the stair to access the bedroom area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jim
+Host User ID: 29955861
+Host Profile URL: https://www.airbnb.com/users/show/29955861
+Host Profile URL Source: public user permalink from passport userId
+I'm an Aussie living in Nashville (over 20 years!) and love living in the US (although going back home to Australia when I can is not bad either!). I'd love to make everyone's experience in East Nashville as great as possible...and if you are into music, you should really like all the music themed touches in the house!
+My work: International Songwriting Competition, Unsigned Only
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+542 reviews
+4.89 out of 5 average rating
+11 years of hosting

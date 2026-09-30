@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/14693200
+Latitude: 36.12674
+Longitude: -86.7916
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In an amazing location with tons of shops, restaurants, farmers market, coffee shops, bars, and more one block away on 12 South. 
+
+Set in the trendy 12 South neighborhood, the house is only one block away from the diverse restaurants, boutiques, bars, and coffee houses. Downtown’s iconic nightlife and dining scene is 13 min away.
+
+Street parking is free and available. Music Row is a 5 minute, as is Belmont and Vanderbilt. The Gulch and downtown areas are 6-8 minutes away.
+
+The space
+The location is amazing. Tons of shops, restaurants, farmers market, coffee shops, bars, and more are only one block away on 12 South Ave.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim & Suzy
+Host User ID: 2012989
+Host Profile URL: https://www.airbnb.com/users/show/2012989
+Host Profile URL Source: public user permalink from passport userId
+We moved from NYC to Nashville a decade ago and were delighted to open a couple of AirBnB rentals next door in the popular 12 South area. We've rented to vacationers over 25 yrs. It's what we do!  We're very hands on hosts, doing our own management.
+When you travel you want a place that's special. A place you want to come back to, whether you ever get to or not.  That's what we pride ourselves in offering. Your Nashville getaway should be memorable, and that starts with a cozy place you love!
+My work: Rivers Edge Cottages, Inc.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+869 reviews
+4.97 out of 5 average rating
+15 years of hosting

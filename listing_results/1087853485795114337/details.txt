@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1087853485795114337
+Latitude: 36.15649
+Longitude: -86.68638
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Urban Renewal. Located minutes from the airport and a few miles from downtown, it's the perfect location to take in the city, but retreat to the quiet and calm for a restful night.
+
+This space is newly renovated and connected to our main house through a door locked on both sides. You have a private entrance with off-street parking right outside your door. We're conveniently located in the middle of Donelson, which has many local restaurants and small shops.
+
+The space
+Your private space is located in the back of the main house. Although the backyard is shared space, we will do our best to remain out of that area while you're here.  Feel free to use any of the outdoor seating. You have a separate entrance from the main house. Your space has a mudroom, bedroom with a queen bed, bathroom, and small kitchenette area.
+
+Guest access
+You can use any of the outdoor seating under the carport.
+
+Other things to note
+Our home is located in a peaceful neighborhood, but it is very close to the airport and interstate. Some city noise including airplanes, interstate traffic, and sirens can be heard in the distance. Also, your guest space does share a wall with our kitchen, so some sound may travel, though we try to mitigate that as much as possible.
+
+Also, we do not allow pets. We have allergies and since the Airbnb can open into our house, we ask that anyone traveling with a pet book elsewhere. Thank you for understanding.
+
+Registration Details
+2024061983
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nehemiah
+Host User ID: 561247334
+Host Profile URL: https://www.airbnb.com/users/show/561247334
+Host Profile URL Source: public user permalink from passport userId
+We're Nehemiah and Emily. Nehemiah is a transplant from Virginia and I am a Nashville native. Being small business owners and parents, we don't have a lot of downtime, but we enjoy watching sports and traveling.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+286 reviews
+4.96 out of 5 average rating
+2 years of hosting

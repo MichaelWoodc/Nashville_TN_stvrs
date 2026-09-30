@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1217414619315756841
+Latitude: 36.15523
+Longitude: -86.76291
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Lindsley by AvantStay, your perfect home away from home in the heart of Downtown Nashville. This contemporary two-bedroom, two-bathroom condo boasts a stylish and modern design and all the comforts and amenities you need for a relaxing stay.
+
+The space
+Step inside to find a bright and inviting living room, perfect for unwinding after a day of exploring this one-of-a-kind city. The fully equipped kitchen features sleek countertops and barstool seating, making it an ideal spot for morning coffee or a casual meal. Each of the two bedrooms is a serene retreat, offering a queen bed, television, and ensuite bathroom for ultimate privacy and convenience. Enjoy the fresh air on your private balcony (accessible through the primary bedroom and living room), and take advantage of the convenient in-home laundry and multiple parking options. 
+
+Located just minutes from the excitement of Downtown Nashville, Broadway, and Music Row, Lindsley is the perfect base for your next adventure. Whether you're here for the live music, vibrant nightlife, or rich history, you'll find everything you need right at your fingertips.
+
+Book your stay at Lindsley today and experience the best of Nashville!
+
+There’s a reason Nashville has become one of the country’s most loved southern cities. With its vibrant nightlife, country music scene, and incredible food, “Nashvegas” is a top destination for people simply looking to have a good time- which means lots of drinking and eating. Visitors flock to Broadway, a street lined with multi-level bars playing live music and serving BBQ. You might get stuck in traffic behind party bikes called Pedal Taverns, but you’re more likely to cheer them on than get road rage because having fun is part of the culture in Nashville.
+
+Experience Nashville, AvantStay style.
+
+AvantStay provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more. For anything you need, we’re at your fingertips!
+
+Other things to note
+Home Truths:
+- Please note that our occupancy includes an additional two beyond the bed count. Trifold floor mattresses and additional linens can be provided upon request.
+- Unfortunately, pets are not allowed in this home. If undisclosed pets are brought into the home without AvantStay's approval, there is a fine of $500 per pet.
+
+Parking Details:
+Up to 4 cars are allowed on site. The garage has 18 spaces available on a first-come, first-served basis.
+- You get 50% off garage parking for the property.
+- There is also plenty of street parking upfront
+
+[DISCLAIMERS]
+  - No smoking in or outside of this home. Subject to a $500 fine.
+  - Occupancy and noise limits are strongly enforced. Subject to fines that can reach up to $10,000 per violation.
+  - IDs and security deposits when applicable will be requested after booking
+  - We have the right to report and prosecute all Credit Card Fraud
+
+STR Permit Registration Number: 2023/054744
+
+Registration Details
+2023054744
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: AvantStay Nashville
+Host User ID: 338667310
+Host Profile URL: https://www.airbnb.com/users/show/338667310
+Host Profile URL Source: public user permalink from passport userId
+AvantStay makes group travel easy. Our homes are designed for comfort, connection, and memorable moments, with consistent quality you can count on—every time, everywhere.
+Speaks Arabic, German, English, Spanish, French, Hindi, Japanese, Korean, Portuguese, and Chinese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+6903 reviews
+4.76 out of 5 average rating
+7 years of hosting

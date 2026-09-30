@@ -1,0 +1,71 @@
+[build-system]
+requires = ["uv_build>=0.10.8,<0.11.0"]
+build-backend = "uv_build"
+
+[project]
+name = "nicknames"
+version = "1.0.1"
+authors = [
+  { name="Carlton Northern", email="carlton.northern@gmail.com" },
+  { name="Nick Crews", email="nicholas.b.crews@gmail.com" },
+]
+description = "Hand-curated dataset of English names and nicknames."
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: Apache Software License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Sociology :: Genealogy",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Text Processing",
+    "Topic :: Text Processing :: Linguistic",
+    "Typing :: Typed",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/carltonnorthern/nicknames"
+"Bug Tracker" = "https://github.com/carltonnorthern/nicknames/issues"
+
+# to use these, either `uv run poe <task>`, or install poethepoet globally:
+# `uv tool install poethepoet` and then `poe lint`
+[tool.poe.tasks]
+# Run these in the reproot to get ALL python files
+check-fmt = "ruff format --check .."
+check-ruff = "ruff check .."
+check-ty = "ty check .."
+fix-fmt = "ruff format .."
+fix-ruff = "ruff check --fix .."
+test = "uv run pytest"
+check = ["check-fmt", "check-ruff", "check-ty"]
+fix = ["fix-fmt", "fix-ruff"]
+
+[dependency-groups]
+dev = [
+  "poethepoet>=0.30.0",
+  "pytest==7.4.4", # The last version that supports python 3.7
+  "ruff>=0.15.5",
+  "ty>=0.0.21",
+]
+
+[tool.ruff]
+lint.select = [
+  "E",  # pyflakes
+  "F",  # pyflakes
+  "I",  # isort
+]
+
+[tool.pytest.ini_options]
+addopts = "-Werror --doctest-modules"
+testpaths = ["src", "test_package.py"]

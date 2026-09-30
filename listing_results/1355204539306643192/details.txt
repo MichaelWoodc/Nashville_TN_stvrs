@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1355204539306643192
+Latitude: 36.1545
+Longitude: -86.7637
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Muse | third-floor downtown condo with high-speed WiFi & central AC
+
+The space
+This charming condo’s bright and cheerful decor creates a fun and inviting atmosphere—can you spot all the horse-themed details? Stay cool with central air-conditioning as you unwind on the spacious corner sofa, perfect for sipping a refreshing drink. Grab a glass of bubbly from the mini-bar cart or mix up your favorite cocktail in the fully equipped kitchen, complete with full-size appliances and a breakfast bar that seats three. When it's time to rest, simply close the room-darkening shades for a peaceful night’s sleep. Need extra space? The sofa bed in the living area has you covered.
+
+During your stay, you’ll also have access to a fitness room for added convenience.
+
+MUSE AMENITIES
+
+Rooftop lounge
+Fitness center
+Elevator in the building
+
+Guest access
+You have access to the entirety of the home!
+
+Other things to note
+THINGS TO KNOW
+
+- Streaming is available using your own accounts.
+- No pets are allowed at this vacation rental.
+- This rental is located on floor 3.
+- Parking notes: No parking available.
+- Guest entry instructions: This rental utilizes an E-lock, a digital lock that requires a unique code to enter. This code is reset after each guest's stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

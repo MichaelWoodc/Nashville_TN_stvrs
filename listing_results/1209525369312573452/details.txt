@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1209525369312573452
+Latitude: 36.1727
+Longitude: -86.7802
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This perfectly located condo features 1 bedroom with 2 queen beds, and a stylish living room with a sofa bed. Enjoy the convenience of amenities like the pool, WiFi, an on-site fitness room, FREE PARKING, and an on-site laundry room.  The river view is breathtaking and the pool supplies a great place to recover from a fun night on Broadway. Within walking distance of downtown, Brookly Bowl, Nashville Farmers Market, German Town, and lots more. Please note that the pool is closed in winter.
+
+The space
+This property has 1 bedroom with 2 beds, a pull-out couch, and one bathroom. The neighborhood is quiet and comfortable. Walk or take a 5 minute car ride to Broadway, Bridgestone Arena, Nissan Stadium, Brooklyn Bowl, Nashville Sounds Ball Park, Germantown, restaurants, breweries, Nashville Farmers Market, Ryman Auditorium, and so much more. The central location is hard to beat and the pool is a great place to rest up for another night of fun on the town. Walk along the beautiful greenway trail and enjoy the lovely views from the balcony. The pool, gym, fire pit, grill, free parking, and laundry provide great amenities and comfort. The pool closes for the winter on November 1st.
+
+Guest access
+This unit has one bedroom with two beds, a pull-out couch, and one bathroom. The neighborhood is quiet and close to so many great attractions in Nashville. Walk or take a 5 minute car ride to Broadway, Nissan Stadium, Bridgestone Arena, Nashville Sound Ball Park, Brooklyn Bowl, Nashville Farmers Market, German Town and so much more. Walk along the beautiful greenway trail and enjoy the lovely views from the balcony. The pool, gym, fire pit, grill, and laundry provide great amenities and comfort.
+
+Other things to note
+We don't allow loud partying in the unit or decorations to be hung on the walls with tape or other damaging methods so please plan to use the space respectfully. No Pets
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tracey
+Host User ID: 127747909
+Host Profile URL: https://www.airbnb.com/users/show/127747909
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Contractor
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+34 reviews
+4.97 out of 5 average rating
+2 years of hosting

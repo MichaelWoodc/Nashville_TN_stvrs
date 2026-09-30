@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1042888587719777106
+Latitude: 36.26906
+Longitude: -86.55258
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful view of Old Hickory Lake yet close to downtown nashville for all the live music, great food, and wonderful attractions nashville has to offer. Several restaurants located on the water reachable by boat or car with live music. Pontoon boats, kayaks and much more to enjoy your stay in nashville and enjoy the lake. Swim and fish directly behind house. . Grocery stores and other necessities close by.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 27151458
+Host Profile URL: https://www.airbnb.com/users/show/27151458
+Host Profile URL Source: public user permalink from passport userId
+I am a Mother of 5 of the best people I know!  I love hosting and helping my guests have the best experience they can have!  I love to travel and experience what other hosts are doing to attract guests.  I love the outdoors and live music.
+Born in the 60s
+Where I went to school: University of Kentucky
+Response rate: 100%
+Responds within an hour
+9 years hosting
+491 reviews
+4.91 out of 5 average rating
+9 years of hosting

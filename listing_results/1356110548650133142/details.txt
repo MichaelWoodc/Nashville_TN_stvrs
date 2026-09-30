@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1356110548650133142
+Latitude: 36.20584753268809
+Longitude: -86.72405937320664
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful and newly built high end guest house right in East Nashville, TN.  Studio space with fold down Murphy Bed and full bath.  Includes full size refrigerator and amenities.
+
+Only 3 miles to Downtown or hot spots like 5 points East Nashville.  Additionally, many local hot spots in walking distance such as Curry Boys BBQ, Ladybird Taco, Bite a Bit, and Sean Brocks latest pizza restaurant Sho. 
+
+Off street parking provided with clear signage for guest parking.  1 car only.
+
+The space
+Well appointed detached studio apt with full refrigerator and full bathroom.  
+
+Bathroom includes large tiled shower with overhead rain shower head. Toilet is separated and in its own room for your convenience.  Full length lighted mirror as well is provided in the bathroom.
+
+The main room includes a Murphey bed that can fold down at night, and be stashed away during the day.  Provided more space to relax or spread out.  Large 55 inch tv to keep you entertained with in ceiling speakers.  
+
+Kitchenette is simple with dish ware and limited snack provided.  Stashed away in the drawers are a hot plate and small toaster oven.  A separate beverage station includes coffee maker and hot water kettle.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 678726319
+Host Profile URL: https://www.airbnb.com/users/show/678726319
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+2 years hosting
+172 reviews
+4.95 out of 5 average rating
+2 years of hosting

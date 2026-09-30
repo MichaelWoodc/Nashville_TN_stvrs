@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1146384192910106347
+Latitude: 36.1216
+Longitude: -86.7871
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Chic  2 bedroom 2 bathroom , our recently remodeled two-bedroom, two-bathroom retreat in the lively 12South neighborhood of Nashville, TN! 
+
+ This home provides a private escape with a unique charm. Enjoy the convenience of a private entrance and free parking at the front of the property, steps away from your entryway.
+
+The space
+Hello Guests the layout of our home is as follows : 
+Living dining and kitchen on first level 
+Full bath standup shower on the first level 
+Upstairs two bedrooms one on the right one on the left , Master has an in-suite  bath .
+
+Guest access
+You will be sent a code and directions on how to use our smart lock to the message thread on your reservation on check in day . The code is time based on your reservation .
+
+Other things to note
+You must be ok with stairs
+
+Registration Details
+2024103718
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scarlett
+Host User ID: 45101594
+Host Profile URL: https://www.airbnb.com/users/show/45101594
+Host Profile URL Source: public user permalink from passport userId
+Hi Guests , 
+I am a Nashville native I love to host parties with friends and family. I love helping guests at Getaways Nashville. 
+*I love people, encouraging and helping others
+*I love to laugh and enjoy life 
+*I love to travel 
+*I am a caring idealist
+*I am a mother to a wonderful daughter and she blessed me with two grand babies 
+*The Beach is my happy place !
+My work: Getaways Nashville
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+7541 reviews
+4.91 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1026260750623375921
+Latitude: 36.3768
+Longitude: -86.44408
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy Gallatin retreat! Our vintage modern/Boho townhome offers 2 bedrooms, 1.5 baths, and stylish decor. Relax in the spacious living area with a Smart TV, cook in the fully equipped kitchen, or dine on the private patio. Sleep peacefully in the comfortable bedrooms, and refresh in the stylish full bathroom. Enjoy complimentary Wi-Fi and in-unit laundry facilities. Explore charming Gallatin and downtown Nashville's excitement, just 30 minutes away. Perfect for a TN get away!
+
+The space
+Welcome to our charming vintage modern/Boho townhome nestled in the heart of Gallatin, Tennessee! Just 30 minutes away from the vibrant downtown Nashville scene, our two-bedroom, one-and-a-half-bath retreat offers the perfect blend of style and convenience. 
+
+Step inside and be greeted by eclectic decor, boasting a mix of mid-century modern accents and Bohemian flair, creating a cozy and inviting atmosphere. Relax in the spacious living area, complete with plush seating and a Smart TV for your entertainment needs.
+
+Whip up delicious meals in the fully equipped kitchen, featuring modern appliances and ample counter space. Enjoy your culinary creations in the adjacent dining area, or take your meals outside to the private patio for a breath of fresh air.
+
+Retreat to one of the two comfortable bedrooms, each appointed with cozy bedding and unique decor touches. The primary bedroom offers a tranquil escape with a king-sized bed  and a workspace, perfect for remote work or leisurely browsing. The second bedroom is spacious with a queen bed.  
+ 
+Unwind after a day of exploring in the stylish full bathroom, complete with a tub/shower combo and plenty of fresh towels. Additional amenities include a convenient half bath, in-unit laundry facilities, and complimentary Wi-Fi throughout the home.
+
+Guest access
+Guest have access to the entire townhouse.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Josie
+Host User ID: 409571130
+Host Profile URL: https://www.airbnb.com/users/show/409571130
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+55 reviews
+4.87 out of 5 average rating
+3 years of hosting

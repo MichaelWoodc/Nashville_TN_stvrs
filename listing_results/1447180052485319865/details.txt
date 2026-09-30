@@ -1,0 +1,88 @@
+URL: https://www.airbnb.com/rooms/1447180052485319865
+Latitude: 36.175211232449286
+Longitude: -86.781361200956
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from this chic 2BR/1.5BA condo steps from the Cumberland River. Whether you're here for a weekend of honky tonks or a work trip downtown, this well-appointed getaway offers comfort, convenience, and charm—plus a stunning pool will open on 04/01 with river views and complimentary covered parking!
+
+The space
+Sleeps up to 6 guests
+
+Bedroom 1: King bed, Smart TV
+
+Bedroom 2: King bed, Smart TV
+
+Living Room: Full-size sofa bed, Smart TV
+
+Bathrooms:
+Full Jack & Jill bath with walk-in shower.
+Additional half bathroom
+
+Fully Equipped Kitchen:
+Keurig coffee maker (coffee & tea provided), toaster, and full cookware for all your meal needs
+Private Balcony: Perfect for morning coffee or evening drinks
+Dining Area
+
+Amenities
+High-speed WiFi
+Smart TVs in every room
+Washer & Dryer Facilities 
+Central air conditioning & heating
+Pet-friendly
+On-site pool open on 4/1, overlooking the Cumberland River
+Covered, complimentary parking adjacent to the unit
+
+Location Highlights:
+
+Located in a secure building, with free & covered parking just:
+
+-2 min walk to Nashville Sounds Stadium
+-10 min walk to Broadway & Honky Tonks
+-Short stroll to Downtown Nashville Nissan Stadium, Ryman Auditorium, Farmers Market & TPAC
+Steps from the Greenway trails and 5th Ave Arts District
+
+Easy Uber/Lyft access to all of Nashville
+
+Perfect For
+-Families or groups
+-Business travelers needing downtown access
+-Pet owners
+
+Anyone looking for a comfortable, stylish home base near all the action!
+
+Guest access
+You will receive check-in instructions with a code (Unique code for each guest, and is only active during your reservation times for your security).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric With Nashville Stays
+Host User ID: 410568638
+Host Profile URL: https://www.airbnb.com/users/show/410568638
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Eric & We are Nashville Stays! 
+
+We are a small management company, consisting mainly of my wife (Kimberly) & I. We hope you will check out our other properties and reviews online to learn more!
+
+We are Locals, so let us know how we can help. We look forward to hosting you & playing a part in your special trip to Music City!
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1125 reviews
+4.89 out of 5 average rating
+5 years of hosting

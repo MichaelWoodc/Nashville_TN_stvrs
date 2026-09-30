@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/4169295
+Latitude: 36.1246
+Longitude: -86.7969
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful, architect designed home, 4500 sf, 100 yr old home turned modern masterpiece in the heart of the most sought after neighborhood! 3 minute walk to  all the shops and restaurants of 12 South.  Belmont University, Vanderbilt, The Gulch and Broadway are all 5 minutes from this centrally located part of town that boasts some of the most famous shops and restaurants in town.  Walk to coffee shops, cafes, boutiques, and more.
+
+The space
+This modern home is overflowing with light.  There are three levels plus 4 outdoor living spaces  to enjoy, a wet bar on every floor, Jacuzzi tub, outdoor kitchen, and so many more luxury amenities to enjoy.   
+
+Huge king master suite with marble bathroom and double shower and tub plus 
+additional bedrooms. 
+
+1: King with bath
+2: queen with bath
+3: queen (shared bath)
+4: 2 queens (shared bath)
+5:  Private third floor  has a queen bed plus a full bathroom. 
+
+  There is a roof deck, a balcony off the master, plus an outdoor living room on the main floor with fireplace and TV.  
+
+House has 1 king and 5 queens plus a portable queen if requested  
+
+4.5 baths
+
+The house is equipped with everything you will need to enjoy your stay. Provisioning is also available, so please let us know if you would like the kitchen and bar stocked for your arrival.
+
+Guest access
+The house is yours to enjoy!
+
+Other things to note
+PETS: If you are considering bringing a pet, you must request a reservation before you book and let us know about your animal(s) so we can approve them. Accepted reservation will be subject to an additional pet cleaning fee of which you will be charged after booking, through airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 2275056
+Host Profile URL: https://www.airbnb.com/users/show/2275056
+Host Profile URL Source: public user permalink from passport userId
+I have been in Nashville over 30 years and have called this neighborhood home the whole time.  We can recommend great places to eat, see, listen to music etc.  Nashville has so much to offer.  
+no
+My work: Cybersecurity
+I'm obsessed with: fruit trees
+Response rate: 100%
+Responds within an hour
+13 years hosting
+1381 reviews
+4.75 out of 5 average rating
+13 years of hosting

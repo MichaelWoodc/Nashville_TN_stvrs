@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1507312636291547356
+Latitude: 36.1925
+Longitude: -86.76208
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax and unwind at this family friendly apartment. It’s conveniently located to all the East Nashville favorites and just a few miles from Broadway and downtown.
+
+If you’re traveling with your family, a travel crib, Slumberpod, sound machine, and toys are available on request.
+
+The space
+You’ll have one bedroom with a queen sized bed and a queen sized sleeper sofa in the living room. There is one bathroom with a bathtub. 
+The kitchen is full sized with all the essentials for cooking and Nespresso machine and drip coffee pot. There is a washer and dryer in unit. 2 dedicated driveways parking spots are available.
+
+Guest access
+Keypad entry. There are interior stairs up to the apartment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jo
+Host User ID: 61273493
+Host Profile URL: https://www.airbnb.com/users/show/61273493
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+14 reviews
+5.0 out of 5 average rating
+1 year of hosting

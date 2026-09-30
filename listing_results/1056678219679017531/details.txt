@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1056678219679017531
+Latitude: 36.1369
+Longitude: -86.76636
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A convenient and contemporary space that offers up a spacious layout and a fabulous location, that's only 1.5 miles from Downtown and .3 miles to the Nashville Soccer Stadium, (so close you can walk)! You'll love the comfort and ease of this darling rental!
+
+Comes with 2 parking spots
+
+The space
+Main Floor - kitchen, living area, guest bedroom with king bed, bathroom with walk in shower and two sinks, and powder room.
+Second Floor - two guest bedrooms with queen beds, bathroom with shower tub combo, and common space with full size futon.
+
+Other things to note
+There is 2 parking space available next to the building, with a permit. Street parking is first-come, first-serve for all other vehicles
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 553184035
+Host Profile URL: https://www.airbnb.com/users/show/553184035
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+94 reviews
+4.95 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1309730542906860741
+Latitude: 36.1685
+Longitude: -86.8129
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our stylish 4-bed, 4-bath modern Nashville townhome, perfect for groups! This elegant retreat features a private rooftop terrace with stunning city views, unique modern art, and is just minutes from downtown. Enjoy the ultimate Music City experience in a space designed for comfort and style, comfortably accommodating your entire group.
+
+The space
+The main level boasts a sleek, fully equipped kitchen for culinary enthusiasts and is adorned with one-of-a-kind artwork that adds a unique and modern touch. Step outside to the highlight of this property the private terrace. With ample seating, yard games, charming string lights, and stunning city views, it s the ideal space to unwind or entertain.
+
+Guest access
+The whole house is yours!
+
+Other things to note
+*We provide a complimentary starter pack of essentials to help you settle in, including basic toiletries and paper products. For your extended stay, please plan to purchase additional items as needed.
+
+Although we do not like fees in order to maintain our units we must make you aware of the following:
+Strict NO SMOKING policy. If you smoke inside you will be fined $250.
+We are not responsible for items left behind by guests. If you leave an item behind and you want it to be sent back to you. We charge $25 for that item to be shipped plus the shipping costs.
+Any stay greater than 21 days will require an additional long term cleaning fee of $50 that will be MANUALLY charged after reservation confirmation.
+An unapproved late check-out fine is $50.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeffrey
+Host User ID: 295881194
+Host Profile URL: https://www.airbnb.com/users/show/295881194
+Host Profile URL Source: public user permalink from passport userId
+Hello, my name is Jeffrey Lage, and I started Lage Real Estate Management to manage my own properties out of St. Charles, MO in 2019.  We have since grown to not only manage my own properties, but also properties for others.  We are a growing company based out of St. Charles, MO and we are thrilled to host you.  We only grow from feedback, so please, share your experiences staying with us and let us host you!
+Born in the 80s
+Where I went to school: Notre Dame Regional High School and SEMO
+Response rate: 99%
+Responds within an hour
+7 years hosting
+9110 reviews
+4.74 out of 5 average rating
+7 years of hosting

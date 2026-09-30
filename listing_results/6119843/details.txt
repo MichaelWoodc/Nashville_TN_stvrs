@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/6119843
+Latitude: 36.1366
+Longitude: -86.7928
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This space offers the rare mix of a private space within a desirable residential neighborhood! Like a hotel room, it is well suited for up to 2 people. The space is situated above a detached garage. Desirable location close to many attractions! Within walking distance to quality restaurants and shopping in Edgehill Village, Hillsboro Village, and 12 South. Perfect location for parents visiting students of Belmont University or those attending a show at Fisher Center of Performing Arts.
+
+The space
+The space is located above a detached garage and offers a private entrance at the top of the stairs. The primary room includes a queen sized bed, armoire, 2 oversized leather chairs with ottoman, a smart TV, small refrigerator, and vanity with sink. There is a separate bathroom that includes a shower and second sink.
+
+Guest access
+Guests will have full access to the entire space above the garage.  The detached garage sits behind our home.  Guests will enter from a gate into the backyard. The private suite is located at the top of a flight of stairs.  Guests are welcome to share our backyard space with us. Free parking available on the street in front of the home.
+
+Other things to note
+We offer an early check in time of 10am and late check out time of 12 noon as standard. We love our neighborhood due to its walkability to wonderful restaurants and shops. We are very close to Belmont University and within walking distance to their Fisher Center for Performing Arts. We are located 2 miles from Downtown Nashville. It is a $8-12 Uber/Lyft ride, depending on time of day. You may also want to explore the city on an electric bike or scooter, which are easy to access from the area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patrick
+Host User ID: 31751665
+Host Profile URL: https://www.airbnb.com/users/show/31751665
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Realtor and people person.  We do the AirBNB thing because we like meeting people and making a little $. Our guest experiences are important to us so we do out very best to provide a good experience.
+
+Thanks for viewing.
+Born in the 60s
+Where I went to school: Purdue
+Response rate: 100%
+Responds within an hour
+11 years hosting
+345 reviews
+4.93 out of 5 average rating
+11 years of hosting

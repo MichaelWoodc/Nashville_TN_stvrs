@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/12712683
+Latitude: 36.18209
+Longitude: -86.74122
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private entrance to loft apartment above the main house with one bedroom and an additional single sleeping area.  Guests have key code access and convenient parking.
+
+The space
+The loft is a comfortable suite for three guests, one private bedroom with a queen bed and an additional cozy sleeping nook for one.  There is a large common area for hanging out, a kitchenette perfect for bringing the to-go boxes home, and one bathroom.  This is the second level of a single family home with a private entrance for guests, located in the historic Lockeland Springs neighborhood in East Nashville.
+
+Guest access
+Off street driveway parking and access by key code to guest space.
+
+Other things to note
+Quiet, walkable residential area but close to the excitement of East Nashville and the Honky Tonks of Lower Broad.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joan
+Host User ID: 69115035
+Host Profile URL: https://www.airbnb.com/users/show/69115035
+Host Profile URL Source: public user permalink from passport userId
+Welcome to my home, where you will have easy access to things that I love about Nashville; dining, music, arts and sports.  My guests like quiet and comfy, and often say that they sleep well here and love the East Nashville neighborhood that is close to downtown.  I like books and movies and have a collection of both at the Loft.  My travel style is also B & B and my favorite travel destinations are the gulf coast and California wine country.  My hosting style is to welcome you and make sure you have what you need to enjoy your stay.
+My work: Psychotherapist
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+608 reviews
+4.99 out of 5 average rating
+10 years of hosting

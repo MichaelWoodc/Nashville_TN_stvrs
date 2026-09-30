@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1172765512562514991
+Latitude: 36.2605
+Longitude: -86.714
+rental_type: Dome
+property_type: DOME
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This memorable place is anything but ordinary.  The exterior metal "shell" of our dome is  called a Quonset Hut.  A Quonset hut is a tough, and durable structure but once inside this shell, you'll find a glamorous space decorated with furniture from bygone eras mixed  with new decor. Unique touches include a spiral staircase wrapped in roses, a luxurious freestanding bathtub with a TV above, gleaming brass sinks, a vintage hot pink sofa and  multiple elegant chandeliers.
+
+Registration Details
+2024059905
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leslie
+Host User ID: 224824154
+Host Profile URL: https://www.airbnb.com/users/show/224824154
+Host Profile URL Source: public user permalink from passport userId
+I am a rental property owner and manager in Nashville, TN. My husband and I have three  AirBnBs. We love hosting and we love the convenience of booking AirBnBs when we travel.
+Born in the 60s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1353 reviews
+4.92 out of 5 average rating
+8 years of hosting

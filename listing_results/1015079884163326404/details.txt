@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/1015079884163326404
+Latitude: 36.1462
+Longitude: -86.6931
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our hotel is located in downtown Nashville, Tennessee. You may visit the Grand Ole Opry to catch a live performance or the Country Music Hall of Fame to learn about the background and culture of the music genre. Spend the day in Centennial Park at the Tennessee State Capitol to visit the Parthenon, go boating on the lake, and stroll through the gardens. Less than ten minutes away, you may go to Nashville Zoo or take a tour of Belle Meade Plantation.
+
+The space
+This listing is for a room within a hotel.
+
+✦ Your room is 320 sq. ft, equipped with complimentary toiletries, standard quality 55-inch TV, available with Standard cable.
+
+✦ Cleaning services included in the nightly price.
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 4:00PM.
+
+✦ Public or shared fitness center open 24/7, available in the property.
+
+✦ Indoor shared pool available all year, opened from 5:30AM to 11:00PM.
+Additional features:
+    • Heated pool
+
+✦ Paid parking lot – 1 space(s), available for $20 per day.
+
+✦ Shuttle service is available upon reservation between 5:00AM and 11:00PM.
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Please note that the mandatory resort fee is charged per night, per unit, plus tax which will be collected in person at check-in.
+
+✦ Pets are welcome. $100/pet per stay, max 2 dogs under 50 lbs/room
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ The required refundable security deposit is charged per night on a valid credit card.
+
+✦ Early Check-ins & Late Check-outs are subject to availability and additional charge.
+
+✦ The outdoor pool will be open from May to October.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: RoomPicks
+Host User ID: 501999514
+Host Profile URL: https://www.airbnb.com/users/show/501999514
+Host Profile URL Source: public user permalink from passport userId
+Speaks French
+Response rate: 100%
+Responds within an hour
+4 years hosting
+28364 reviews
+4.37 out of 5 average rating
+4 years of hosting

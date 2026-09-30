@@ -1,0 +1,94 @@
+URL: https://www.airbnb.com/rooms/1488495706583213946
+Latitude: 36.2036
+Longitude: -86.74428
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville’s Trinity Country Club!  Your own private country club in the heart of Music City.
+
+Perfect for group getaways, family trips, or golf-themed weekends.
+ 
+Enjoy:
+⛳ Private Custom Mini Golf Course
+💦 Relaxing Hot Tub
+🎮 Clubhouse-Style Game Room (separate house)
+🎱 Pool Table
+🕹️ Golden Tee & Big Buck Hunter Arcades
+🛌 Sleeps up to 12 guests, 9 beds
+✨ Al Fresco Dining
+🚗 Parking for up to 3 Vehicles
+📍 East Nashville, walkable to bars
+
+The space
+🏌️‍♂️ Nashville Country Club Escape | Private Mini Golf Course • Hot Tub • Clubhouse Game Room • Walkable Bars & Restaurants
+
+Main House & Game Room Clubhouse
+12 guests • 4 bedrooms • 9 beds • 2.5 baths
+
+⛳ Private Mini Golf Course
+Step outside into your own 4-hole custom-designed mini golf course, complete with 4 greens and evening lighting for nighttime putting.
+
+💦 Relaxing Hot Tub
+Unwind in the hot tub, set in a private outdoor space with string lights and seating for everyone.
+
+🎮 Clubhouse Game Room (Separate Dwelling)
+•	Bunk Bed (Twin XL)
+•	Pool table
+•	Arcade games (Golden Tee & Big Buck Hunter)
+•	Lounge and bar seating
+•	75" TV 
+•	Full kitchen and full bath
+
+🛌 Room to Recharge
+•	Main House Bedroom 1: King bed 
+•	Main House Bedroom 2:  2 Queen beds
+•	Main House Bedroom 3: 4 ‘tour bus’ style Twin XL beds
+•	Clubhouse Bedroom 4: 1 Twin XL-over-Twin XL bunk bed
+All rooms include high-end linens, window shades, extra pillows, full length mirror and a closet with hangers.
+
+🚗 Parking for up to 3 Vehicles
+Rare for the area — private driveway parking with space for cars, vans or ride share pickups.
+ 
+📍 Convenient Location
+Located in the vibrant, walkable, East Nashville neighborhood just 7 minutes to downtown.
+Walk to:
+•	Trendy bars & live music venues
+•	Dive bars, brunch spots & craft cocktail bars
+•	Coffee shops, breweries & vintage shopping
+
+🔑 The Vibe:
+Modern Hunting Lodge meets Southern Country Club
+
+Guest access
+Main house, Clubhouse, Mid yard, Front yard, Parking area
+
+Other things to note
+Permit #2025072713
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aaron & Tiffany
+Host User ID: 141220691
+Host Profile URL: https://www.airbnb.com/users/show/141220691
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+56 reviews
+4.98 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1247172112778269785
+Latitude: 36.15280913179342
+Longitude: -86.75729545819217
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 7
+beds: 16
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville getaway! Just 3 minutes from Downtown and Broadway, this stunning 3,400 sq ft custom-built mansion blends luxury, comfort, and convenience. With 7 bedrooms, 5 bathrooms, 2 living rooms, and 2 kitchens, it sleeps up to 20 guests, perfect for families, reunions, or celebrations. 
+
+Private note: Message me directly after booking for any special requests. We always do our best to accomodate
+
+The space
+Nearby Attractions
+
+🎸 Broadway & Honky Tonk Row – Legendary live music, neon lights, and nightlife just 3 minutes away
+🎤 Ryman Auditorium & Country Music Hall of Fame – Discover the roots of country music at world-famous venues
+🍫 Goo Goo Chocolate Co. – Create your own sweet Nashville classic
+🎨 Frist Art Museum – Inspiring exhibits in an Art Deco landmark
+🌳 Centennial Park & The Parthenon – Scenic green space with a full-scale replica of the Parthenon
+🧪 Adventure Science Center – Hands-on fun for families and kids
+🥘 Nashville Farmers’ Market – Fresh produce, local eats, and artisan finds
+🏟 Nissan Stadium & Bridgestone Arena – Catch concerts, sports, and major events steps from downtown
+
+No matter your reason for visiting, you’ll be just minutes from the best that Music City has to offer, while enjoying the comfort of having your own private retreat to come home to.
+
+Guest access
+Guest can use the whole house!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mubarak
+Host User ID: 652402575
+Host Profile URL: https://www.airbnb.com/users/show/652402575
+Host Profile URL Source: public user permalink from passport userId
+Real estate agent, investor and developer. My passion is in building custom and design homes/ amenities without the luxury price tag. Fun fact: I have 5 degrees, played D1 basketball, and was Mr Louisiana Basketball 2017/18. Follow my page on IG @realtree_remodel
+Where I went to school: Louisiana Tech University
+My work: Design Engineer
+Response rate: 100%
+Responds within an hour
+2 years hosting
+28 reviews
+4.57 out of 5 average rating
+2 years of hosting

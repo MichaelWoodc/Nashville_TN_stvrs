@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/13682881
+Latitude: 36.15071
+Longitude: -86.79269
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay and play in Nashvegas!
+
+The space
+Nestled in the iconic Spence Manor with a stunning view of Historic Music Row, Row Top promises the ultimate Nashville retreat!
+
+This chic two-bedroom, one-bath condo comfortably sleeps four and places you within a short stroll of Music City’s finest attractions. Explore Vanderbilt University, cheer on the Titans and Predators, or dive into the vibrant nightlife on Lower Broadway—all just steps away.
+
+Unwind in the unique Webb Pierce guitar-shaped swimming pool or luxuriate in your own soaking tub. Savor delicious food and drinks a a myriad of local restaurants, conveniently located right across the street. You're just minutes from The Gulch, Hillsboro Village, and downtown.
+
+Elvis enthusiasts, brace yourselves to walk in The King’s footsteps! Legend has it that during his Nashville recording sessions, Elvis would rent out the entire top floor of Spence Manor—then Nashville’s only four-star hotel. Music Row’s premier address has also attracted U.S. Presidents and musical legends like Frank Sinatra, The Beatles, and Willie Nelson.
+
+Arrive, unwind, and immerse yourself in an unforgettable and unique Nashville experience.
+
+Guest access
+You will have access to the entire unit. The guitar-shaped pool is generally open from Memorial Day to around Labor Day.
+
+Other things to note
+This is strictly a non-smoking building and our unit is no exception. There will be a $250.00 fine if evidence of smoking is smelled or found. Please smoke outside.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 79666960
+Host Profile URL: https://www.airbnb.com/users/show/79666960
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+97 reviews
+4.89 out of 5 average rating
+8 years of hosting

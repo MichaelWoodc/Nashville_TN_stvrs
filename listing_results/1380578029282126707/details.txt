@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1380578029282126707
+Latitude: 36.17291
+Longitude: -86.78134
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the perfect blend of relaxation and city excitement at this peaceful riverside apartment, just moments from the heart of Downtown Broadway! Overlooking the Cumberland River, this stylish 2-bedroom, 2-bathroom retreat offers a serene escape while keeping you close to all the action. Wake up to a waterfront view, spend your day exploring Nashville’s vibrant scene, and come home to unwind in a peaceful, upscale setting.
+
+Guest access
+You will receive check in instructions and your smart-lock code 24 hours before your stay. This code is unique to your stay and is only active during your reservation day/times.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Destination Management LLC
+Host User ID: 683733452
+Host Profile URL: https://www.airbnb.com/users/show/683733452
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Management
+Fun fact: I was in a commercial before!
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+29 reviews
+4.93 out of 5 average rating
+1 year of hosting

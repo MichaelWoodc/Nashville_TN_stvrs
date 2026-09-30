@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1226837480837140746
+Latitude: 36.26117
+Longitude: -86.69279
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover your modern Nashville home! This bright, open-plan house comfortably sleeps 6 guests. Features a fully equipped kitchen, a spacious fenced-in backyard with a deck, and dedicated parking. Perfectly located just 10 minutes from the Grand Ole Opry and trendy East Nashville, and a 20-minute drive to the vibrant energy of Broadway. Ideal for families or groups looking to explore Music City.
+
+The space
+Welcome to our modern, open-plan home bathed in natural light. The perfect space for up to six guests to relax and plan their Nashville adventures.
+
+Main Floor:
+   Spacious living room with a large, comfortable sectional sofa.
+   Dining area seamlessly connected to the living space.
+   Modern kitchen with granite countertops.
+
+Outdoor Space:
+   Private deck accessible from the main floor.
+   Large, fully fenced-in backyard for your group to enjoy.
+
+Bedrooms & Bathrooms:
+   Three comfortable bedrooms.
+Two full bathrooms and one half-bathroom.
+
+Guest access
+Guests will have full and private access to the entire home throughout their stay. This includes all interior spaces, the back deck, and the fenced-in backyard. Enjoy complete privacy and make the space your own.
+
+Other things to note
+Please review these important details before and during your stay:
+   Strict Parking Limit: Parking is limited to a maximum of TWO cars in the designated spots. Additional vehicles are not permitted and will be towed at the owner's expense. Please do not book if your group will have more than two vehicles.
+   Deliveries: For food or grocery deliveries, please instruct drivers not to park for more than five minutes to respect our neighbors' private parking.
+   Potential Fees: Additional charges will be applied for the following:
+       A $50 per person fee for any guests exceeding the 6-person limit.
+       A fee for any evidence of smoking inside the home.
+       An additional cleaning fee for significant stains on carpets or bedding.
+Cleaning: As a local musician who personally manages this property, I take great pride in its cleanliness. The cleaning fee covers a standard turnover. Any excessive cleaning required may incur additional charges.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gregory Randolph
+Host User ID: 10666620
+Host Profile URL: https://www.airbnb.com/users/show/10666620
+Host Profile URL Source: public user permalink from passport userId
+Traveling musician who loves to explore and try new foods!
+Where I went to school: Florida Southern College
+My work: Guitarist/Bassist
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+148 reviews
+4.88 out of 5 average rating
+2 years of hosting

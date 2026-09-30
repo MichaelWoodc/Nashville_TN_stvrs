@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1212465037318411483
+Latitude: 36.3128
+Longitude: -86.71253
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax and enjoy Nashville in this family friendly place to stay. Just 15 minutes from Downtown Nashville. 
+
+Goodlettsville is a quiet town with lots of close by amenities such as our local swimming pool, splash pad and parks such as Peay Park & Moss Wright Park. 
+
+Our local grocery store, Cafe, and antique stores are all within walking distance!
+
+The space
+Our home has a large open plan style Kitchen, Dining & living room, it has a separate living space with dedicated office desk for working from home. 
+
+The bedrooms are as follows:
+1. Master Bedroom with King size bed & full master bathroom with walk in shower.  
+
+2. Queen Bed room 
+
+3. Double Bed room with a Twin bed also. 
+
+The second full bathroom has a whirlpool bathtub that also has a shower head option for taking a shower or bath. 
+
+our home has 600mbps high speed internet.
+
+There is a separate building on the property, about 50 feet back from the main house that is a separate rental.
+
+Guest access
+You can use the entire house.
+
+The yard has a fully fenced in section where your dogs can run free, though that is shared with the other rental building on the land so please check it’s not already being used before going back there.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caleb
+Host User ID: 163459327
+Host Profile URL: https://www.airbnb.com/users/show/163459327
+Host Profile URL Source: public user permalink from passport userId
+A kiwi living in the USA!
+My work: Drummer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+227 reviews
+4.85 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/13019691
+Latitude: 36.10477
+Longitude: -86.70412
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay 5 minutes from BNA and about 15 minutes from Broadway in this cozy 3BR bungalow for up to 8. The private fenced yard—one of guests’ favorite features—has a covered patio, fire pit, gas grill, and outdoor games. Inside: a fully stocked kitchen, fast fiber Wi‑Fi, smart TVs, workspace, washer/dryer, and family essentials, and child friendly. Walk to Seven Oaks Park for tennis, pickleball, disc golf, and a playground. Pet-friendly, with parking for 4 cars.
+
+The space
+LAYOUT & SLEEPING
+• Bedroom 1: twin bed and blackout curtains
+• Bedroom 2: queen bed, TV and blackout curtains
+• Bedroom 3: queen bed, TV and blackout curtains
+• Living room: queen sleeper sofa
+• Queen air mattress available
+• 1 full bath with tub/shower + 1 half bath
+
+INDOORS
+Fully stocked kitchen with stove/oven, microwave, dishwasher, air fryer, drip coffee maker and Keurig; coffee and tea provided. Fiber Wi‑Fi, dedicated workspace, smart TVs, gas fireplace, board games, washer/dryer and laundry supplies.
+
+OUTDOORS & PARKING
+Private fenced yard, covered patio, deck, gas grill, fire pit, outdoor games and driveway parking for up to 4 cars. Front porch with swing and rocking chair.
+
+NEARBY (drive times vary with traffic)
+• BNA: about 5 minutes (2.4 mi)
+• Nashville Zoo: about 10 minutes (2.6 mi)
+• Broadway, Music City Center, Ryman and Nissan Stadium: about 15 minutes
+• Opry Mills: about 10 minutes
+• GEODIS Park: about 10 minutes
+• Vanderbilt Medical Center: about 15–20 minutes
+
+Smart-lock self check-in. Linens, towels and essentials provided.
+
+Guest access
+There is 24/7 access with a smart lock. We are always available if you need anything!
+
+Other things to note
+A queen air mattress, pack ’n play and highchair are available.
+
+The pet fee is $100 per pet, per stay. Please include pets on the reservation; up to 2 pets are allowed. For stays of 28 nights or more, contact us before booking to confirm the long-stay pet fee.
+
+Early check-in or late checkout may be available for $75, subject to the cleaning schedule.
+
+Guests who live locally should contact us before booking and briefly explain the purpose of their stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kathy
+Host User ID: 30777503
+Host Profile URL: https://www.airbnb.com/users/show/30777503
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Hendersonville, TN
+My work: Retired
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+495 reviews
+4.79 out of 5 average rating
+10 years of hosting

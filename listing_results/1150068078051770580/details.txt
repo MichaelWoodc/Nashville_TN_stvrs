@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1150068078051770580
+Latitude: 36.1506
+Longitude: -86.6624
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our place is perfect for 1-2 guests who prefer privacy AND convenience to airport, d’town, Opry. King bed, 2 Roku TVs, well equipped kitchen and bath, coffee, small outdoor patio. This is truly a home away from home that’s safe (alarm/security cameras), away from downtown traffic, private and quiet with lots of Southern charm. 4 min to BNA. 15 min to Opry Mills Mall/Grand Ole Opry, 15 min to downtown. Infant/child friendly! Big trucks welcome (1 acre lot). Early check ins are frequently offered.
+
+The space
+Brick duplex on shaded 1-acre lot. Side B is owner’s office, but rarely there. (You’re in A, left side) One bedroom/one bath. Kitchen space is tight (older home w/upgraded appliances) so check photos well. One Roku TV in bedroom, one in living room. Google fiber Internet. Ask for air mattress if more than 2 guests. Closet in hallway with hangers. Office desk/makeup area, chair and charging station in front room and bedroom. No pets. Please provide advance notice if you’re bringing a service dog.
+
+Guest access
+Self check in with code provided in arrival instructions. You have access to unit A (left porch with welcome sign), front parking and side patio only. Please do not access backyard, side B, carport/porch or right side of home.
+
+Other things to note
+For basic troubleshooting of any small home issues please consult troubleshooting guide. If that doesn’t fix it or there is a major maintenance issue please let us know immediately. Do not access electrical panel.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gina
+Host User ID: 298274819
+Host Profile URL: https://www.airbnb.com/users/show/298274819
+Host Profile URL Source: public user permalink from passport userId
+Hard working mama of two elementary school rockstars! I have worked independently in the Airbnb world since 2018. I love treating guests like family and find so much joy in hosting and maintaining our rental. I enjoy cooking, gardening and listening to good music with my kids. I grew up here so I’m happy to make recommendations. My goal is for guests to live like a local!
+Born in the 80s
+My work: Airbnb Service Pro
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+179 reviews
+4.97 out of 5 average rating
+2 years of hosting

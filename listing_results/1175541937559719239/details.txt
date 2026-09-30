@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1175541937559719239
+Latitude: 36.3645
+Longitude: -86.4464
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our charming 3 bedroom, 2.5 bath, 2 year old townhome in the historic town of Gallatin, TN. This location is a short walk from a new Publix and 8 restaurants that feature everything you are craving from burgers, smoothies, hibachi, gyro, to Jonathan's Sports Bar. Take a stroll through the charming town square a mile down the road and it's many boutiques, or explore the nearby historic homes, parks, and hiking trails. A quick 35 minute drive will get you to the airport or downtown.
+
+The space
+You will enjoy the open concept  floor plan of the first floor complete with a kitchen with a XLARGE island, dining, and living rooms all open to each other. 
+
+No smoking at any time for any reason.
+
+All bedrooms are upstairs with soft and cozy beds to include 1 king, 1 queen, and 2 full sized beds.  2 full sized bathrooms are upstairs with one bathroom in the king bed suite, and 1 full bathroom accessible in the hallway for use by the other guests. There is an additional 1/2 bathroom on the first floor
+
+We also include the following: 
+3 New Smart TVs, 50” and larger 
+1 gig AT&T fiber WiFi
+Seasonings 
+Oils
+Water
+Snacks upon arrival
+Pots/Pans
+Baking Sheets
+Cutting boards
+Crock pot 
+Blender
+Crystal wine glasses
+Coffee cups
+Plates/bowls 
+Dishwashing tabs
+Luxury down filled sofa
+Starter shampoo/conditioner 
+Lotion
+Bodywash
+Makeup face cleaning cloths  
+Ample towels 
+Extra soft blankets under the Tv downstairs 
+Blankets in the closet upstairs 
+Washer and Dryer 
+Laundry Tabs 
+Dryer Sheets
+Dedicated workdesk loft area
+
+Guest access
+All access to all locations except the owner closet and the laundry room closet
+
+Other things to note
+Trash service comes on Thursday mornings so the trash can needs to be outside on Wednesday night. Can will need to be rolled back into the garage once empty
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrea
+Host User ID: 251636966
+Host Profile URL: https://www.airbnb.com/users/show/251636966
+Host Profile URL Source: public user permalink from passport userId
+Tennessee local who loves
+small towns, big concerts, travel, and meeting new folks!
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+55 reviews
+4.98 out of 5 average rating
+2 years of hosting

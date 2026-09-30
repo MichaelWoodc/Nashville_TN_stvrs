@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/12410928
+Latitude: 36.146
+Longitude: -86.7877
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This apartment is centrally located in an area perfect for those wanting to stay near the cultural heartbeat of music city. It's situated conveniently near Music Row, Vanderbilt and Belmont Universities, Edgehill Village, Hillsboro Village, 12 South, and the Gulch/Downtown. 
+
+You'll enjoy 2 bedrooms (1 queen bed & 2 twin beds). High speed internet, cable, 2 televisions, and a washer/dryer make you feel instantly at home.
+
+The space
+The Stella James is ready to welcome you and your guests to Music City, USA.  The apartment is 675 square feet, but open and decorated with your comfort and convenience in mind.  Features like charging stations, fully appointed kitchen, and washer and dryer make it perfect for those traveling for business or a fun weekend getaway.
+
+Guest access
+The entire apartment is available for your use.  An electronic keypad on the front door allows easy access in and out of the apartment.
+
+Other things to note
+Please note the apartment is located in a multi-unit complex.  We ask you respect those living on either side of the apartment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jesse
+Host User ID: 61710598
+Host Profile URL: https://www.airbnb.com/users/show/61710598
+Host Profile URL Source: public user permalink from passport userId
+My wife and I love Nashville and have called it home for over 15 years.  Our city has great restaurants, attractions, and friendly folks that we've grown to love.  We hope you enjoy your stay here in Music City.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+962 reviews
+4.92 out of 5 average rating
+10 years of hosting

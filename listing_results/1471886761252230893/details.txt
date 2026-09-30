@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1471886761252230893
+Latitude: 36.17128806635574
+Longitude: -86.75431573831128
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ Historic East Nashville Craftsman Bungalow with Downtown Views ✨
+
+Luxury meets soul at this historic East Nashville Airbnb. This 4-bedroom home is just minutes from Broadway and Titans Stadium. Enjoy skyline views, local dining, and modern Southwestern charm—an unforgettable stay in one of Nashville’s most sought-after neighborhoods.
+
+The space
+Welcome to your Nashville sanctuary — a beautifully restored historic bungalow in the heart of East Nashville, just a short stroll from the Titans Stadium and a 20-minute walk (or quick 3-minute drive) to the energy of Broadway.
+
+Blending Western and Southwestern charm with modern comfort, this 4-bedroom, 2-bath retreat offers a uniquely luxurious yet soulful experience. Each space is curated with art and treasures from my grandmother’s collection — pieces that tell the story of her life in Nashville and beyond— giving the home warmth, history, and character.
+
+Unwind in the private sauna, relax around the fire pit, or gather with friends on the spacious covered porch as the sun sets over downtown. The outdoor patio includes a grill and a propane fire pit, making al fresco evenings unforgettable.
+
+Inside, four serene bedrooms with plush queen beds offer plenty of space for family or couple getaways. You’ll also find a comfortable couch, and three memory foam bed rolls for extra guests (totaling 12 guests).
+
+Located in one of Nashville’s most beloved neighborhoods, you’re steps from local restaurants, live music, and coffee shops — yet close enough to downtown to feel part of the city. 
+
+Whether you’re here to relax, explore, or celebrate -- this East Nashville gem invites you to slow down, connect, and experience Music City in a whole new way.
+
+Guest access
+Guests have access to: the spacious 4-bedroom, 2-bath home, a charming covered front porch, and a cozy enclosed back porch. Enjoy outdoor living at its finest with a full kitchen featuring a grill, an outdoor dining area, a fire pit with built-in bench seating and private sauna. The fenced backyard and side yard offer plenty of space to unwind and connect.
+
+Other things to note
+We offer an array of toiletries (shampoo, conditioner, body wash, hand soap, lotion, Qtips, cotton swabs and hair dryers). 
+
+We have a well-stocked kitchen for you to cook your own meals, including a quality knife set. 
+
+We have extra linens, extra pillows, and blankets. 
+
+Air conditioning/heating: ensures the property is comfortable in all seasons. 
+
+For entertainment, we have a television with streaming services, books, and the house is stocked with fun games (including games for children).
+
+If you need to work during your trip, our dining table is comfortable, big enough for 12 people, and well lit for your enjoyment.
+
+We're happy to provide personalized recommendations or arrange grocery delivery.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Charles L'Abri
+Host User ID: 96805574
+Host Profile URL: https://www.airbnb.com/users/show/96805574
+Host Profile URL Source: public user permalink from passport userId
+World traveler, lover of hospitality and purveyor of fine life experiences.
+Spend my time between Mariposa, San Francisco and Nashville.
+My work: Having fun!
+Fun fact: I was a cast member on Full House
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+301 reviews
+4.96 out of 5 average rating
+4 years of hosting

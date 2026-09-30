@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1413050329790992570
+Latitude: 36.245901013064994
+Longitude: -86.98247946984768
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 6
+beds: 8
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the hidden beauty of TN at its finest in our private and secluded retreat just minutes from the fun of Downtown Nashville.  This Large Cabin sits on top of its own private 50 acre mountain!  Complete privacy and seclusion yet just 3 miles to shops and restaurants. and just 16 miles to downtown Nashville.  This Cabin will provide luxury comfort in a rustic setting.  fully stocked commercial kitchen, big screen TV's, Firepit, Large Patio, Loft, Game room, mini theatre room, and more!
+
+The space
+Spacious yet private experience similar to a Smokey mountains retreat yet just a short drive into Nashville.  Feel at home with cozy seating, spacious dining areas, and custom kitchen.  Have fun with arcade games, shuffleboard table, pool table and more.  This home is easy to gather together, or have privacy depending on your mood.  True luxury with a rustic flare
+
+Small town food, restaurants, grocery and more are very close by, within a few minutes drive.  And Downtown Music City (Nashville) is just a short 18 miles away!  Best of both worlds.
+
+Guest access
+Our lodge has 2 levels plus a loft.  The lower basement has drive up access without stairs.  Walk directly into the game room from the driveway,  The game room features a pool table, arcade games, and more! This lower level also features a small theatre room, 3 bedrooms, and 2 bathrooms.  all with no stairs or transitions between rooms.  interior stairs going up gives you acess to the 2nd level.  
+
+  The 2nd level has a front door entrance from our front porch, and patio doors for acess to a large back deck.  This level features a grand living room, plenty of table and countertop seating, 3 bedrooms and 2 bathrooms.  Large commercial grade kitchen and laundry room.
+
+  The loft area is the 3rd level of this amazing property.  featuring large windows for an amazing view, pull out couch for sitting or as a sleeper sofa.  Desk for a comfy work space, and a shuffleboard table.
+
+Other things to note
+It is a Steep drive up the driveway to access the property.  But do not fear, a slow yet steady speed will be safe to travel and you will become used to it after just a few back and forths.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 179025348
+Host Profile URL: https://www.airbnb.com/users/show/179025348
+Host Profile URL Source: public user permalink from passport userId
+Small business owner from Nashville TN.  love to travel for work, with Family, and/or friends.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+33 reviews
+5.0 out of 5 average rating
+1 year of hosting

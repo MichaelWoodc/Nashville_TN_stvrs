@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/10549143
+Latitude: 36.13347
+Longitude: -86.83346
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Entire private & spacious West End home! 5-10 minutes to Vanderbilt, music row, downtown, and endless restaurants/nightlife. Relax on the front porch, back deck, or at the grand piano in our family-friendly art & music-filled atmosphere. Pets are allowed on a case by case basis and MUST be pre-approved prior to booking. A $30 per night per pet fee will be charged through Airbnb the following morning after check-in. NO PARTIES OF ANY KIND ARE ALLOWED AT THIS HOME.
+
+The space
+Built in 1929, our spacious 2300 sq. ft home is centrally located in a historic, tree-filled neighborhood with sidewalks (a rarity in Nashville!). Easy access to Vanderbilt, the Frist Museum, Lower Broadway, Cheekwood Museum and Botanical Gardens, and many other Nashville attractions. 
+
+A baby grand piano awaits you in the living room (an excellent place to play music!) and the private master bedroom includes a boudoir and big bathroom. Enjoy the swing on the front porch, or lounge on the hammock in the sunshine on the back deck that looks out onto a large, magnolia-lined fenced-in yard.
+
+For those who like to cook, there is an enormous kitchen, large kitchen table, and a dining room that seats eight people.
+
+Our house has always been filled with friends, music, books, and art, and I hope you will enjoy the warmth of its very special atmosphere.
+
+Pets are welcome. Pets MUST be pre-approved prior to booking. A $30 per per per night fee will be charged through Airbnb the following morning after check-in.
+
+THIS HOME IS LOCATED IN A FAMLY FRIENDLY NEIGHBORHOOD AND NO PARTIES OF ANY KIND ARE ALLOWED.
+
+Campers and/or trailers of any type are prohibited by homeowners association.
+
+Guest access
+Private driveway that accommodates up to 2 cars, large fenced in backyard.
+
+Due to neighborhood association restrictions, No campers or trailers are allowed to be parked on the property. NEIGHBORHOOD STRICTLY PROHIBITS ANY PARTIES OF ANY KIND.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hollis
+Host User ID: 3632231
+Host Profile URL: https://www.airbnb.com/users/show/3632231
+Host Profile URL Source: public user permalink from passport userId
+I'm a novelist, and I have often used airbnb when traveling for research, and I have had such great experiences! This is the first time that I have shared our home, where my husband, who is a musician, and I raised our two children, one of whom is studying law in Paris, while the other is getting a degree in fine arts in New York.
+
+We are now spending half of our time in Paris, and so are opening our home to you. It's a place that still feels magical to me, after having lived here for twenty-three years.
+Lives in Mikonos, Greece
+Response rate: 100%
+Responds within an hour
+11 years hosting
+101 reviews
+4.89 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1116701276848861591
+Latitude: 36.33924
+Longitude: -86.61052
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious two-story home boasts a large balcony and patio with plenty of seating, a grill, firepit, and a charming front yard perfect for outdoor activities. This 3 bedroom, 2 bath home is ideal for families, friends, or anyone looking for a fun and comfortable getaway. With easy access to SR 386 and I-65, you can explore all that Nashville has to offer. If you need even more space, we have an adjacent single-level home with 4 bedrooms and 2 bathrooms available for booking as well.
+
+Other things to note
+This home is pet friendly to dogs only with a two pet maximum. Please make sure you select your pets at the time of booking as a $150 fee is collected for reservations including animals. We do also follow breed and weight restrictions please reach out to us directly for more information!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5853 reviews
+4.81 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1044287440981385466
+Latitude: 35.9974
+Longitude: -86.8807
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a one bedroom mother-in-law suite on the ground level of a single family home. Centrally located, this is the perfect place for one or two travelers. 
+Broadway: 13 miles
+Franklin: 6 miles
+Leipers Fork: 11 miles
+Nearest Coffee Shop: 1/2 a mile. 
+
+Features to Note: 
+* Guests enter through red door into a hallway. The door to the suite is on the left at the end of the hallway & has its own lock & code. 
+*Living room
+*Kitchenette
+*Washer and Dryer
+* Queen bedroom with ensuite bathroom.
+
+The space
+It is important for guests to note the follow:
+*This is a mother-in-law-suite attached to a single family home. 
+*Guests have their own space, except for a shared hallway that leads to the unit. 
+*There is a cat at the property that will get into the main house through the shared hallway. 
+*The suite has a kitchenette with a Keurig coffee maker, hot plate, and toaster oven to do some basic cooking.
+
+Guest access
+Guests have full access to their suite, it is a private unit that only shares a hallway to the unit. The family that lives upstairs is very quiet and only has adult children.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 77930747
+Host Profile URL: https://www.airbnb.com/users/show/77930747
+Host Profile URL Source: public user permalink from passport userId
+Our journey with Airbnb began in 2016 when we started renting out our personal home while traveling. What started as a simple side project quickly grew into a passion—creating exceptional stays where guests can relax, make memories, and feel at home. Now, as a family with two young children, we not only love hosting in our own properties but have also expanded to helping others provide top-quality stays in the area.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+5779 reviews
+4.89 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/11186757
+Latitude: 36.17236
+Longitude: -86.78042
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from this modern, country-western themed riverfront apartment in vibrant Germantown. Enjoy stunning river views, a comfortable King bed, and a pull-out sofa. Walk to Germantown restaurants, Broadway, Bridgestone Arena, and Ascend Amphitheater. Features a shared pool and easy self check-in. Comfortably fits 4 guests, perfect for city explorers.
+
+The space
+Welcome to your unique Nashville retreat!
+   Theme: Modern apartment with a subtle country-western theme.
+   Living Area: Bright, spacious main living area with comfortable furnishings and an open layout, seamlessly flowing into the kitchen.
+   Bathroom: Clean, contemporary bathroom.
+   *Sleeping Arrangements:
+       One comfortable King bed.
+       One convenient pull-out sofa for additional guests.
+   Capacity: Comfortably fits 4 people.
+Unique Feature: Enjoy a unique riverfront experience with views of boats passing by.
+
+Guest access
+Guest have use of entire condo.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimberly
+Host User ID: 55410380
+Host Profile URL: https://www.airbnb.com/users/show/55410380
+Host Profile URL Source: public user permalink from passport userId
+I spend too much time: Doom scrolling !
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+521 reviews
+4.92 out of 5 average rating
+11 years of hosting

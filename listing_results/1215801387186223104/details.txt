@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1215801387186223104
+Latitude: 36.09238
+Longitude: -87.05753
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pegram, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Country Cottage located in a safe quiet area ony 16 miles from Downtown Nashville, Broadway and Bridgestone Arena. This very clean Cottage has everything you need to make you comfortable and at home.
+
+The space
+Located a few minutes from kayaking on Harpeth River, yet only 16 miles Bridgestone Arena and Broadway, 
+21 miles from BNA. 
+Pets under 10 pounds may be allowed (additional fee)
+
+Guest access
+Entire unit with one parking space in driveway
+
+Other things to note
+Cottage has everything you need to make your stay enjoyable
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ed And Nina
+Host User ID: 66030048
+Host Profile URL: https://www.airbnb.com/users/show/66030048
+Host Profile URL Source: public user permalink from passport userId
+My work: VP of Infrastructure
+Speaks English
+Response rate: 100%
+Responds within an hour
+10 years hosting
+31 reviews
+4.94 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1093482588734104496
+Latitude: 36.158591670984045
+Longitude: -86.68390572787949
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Are you looking for a Nashville vacation, but don't want to be in the middle of downtown, then this house is for you! Home is 6 miles from Opryland Hotel/Convention Cntr.  With an excellent selection of restaurants & groceries nearby, it is the perfect space for your family or group of friends.  Property is  2 miles from BNA and 7 miles from Nashville’s top sites.    Pets allowed by request only!
+
+The space
+House: 3 bedrooms with 2 full baths.  Large backyard deck, with grill & firepit for those cool evenings.  It has a fantastic game room with Smart TV, darts, air hockey, hook-a-ring as well as many board games & playing cards.  It also boasts of a fully stocked kitchen with everything you will need, including a crockpot. Additional space just off primary suite allows for multiple people to get ready simultaneously.
+
+Guest access
+Access to entire home with exception to Owner's closet.
+
+Other things to note
+Pets are by request only! Please inquire in advance.  A fee of $100 per pet will be charged if permitted to stay.  Evidence of unauthorized pets will cause a $300 fee per pet to be charged.
+
+Absolutely No Parties!!!   We love & respect our neighbors. 
+
+No Smoking or Vaping.  If evidence is found, you will be charged $500 fee.
+
+OUTSIDE:
+In the backyard, there is an open-air, multi-level patio with table, umbrella and 6 chairs as well as 2 lounge chairs that can comfortably accommodate all guests. It has a grill and is a perfect area to relax, enjoy the firepit and end the day with a glass of wine and good conversation with your friends and family.
+
+You will enjoy this home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tammy
+Host User ID: 222365292
+Host Profile URL: https://www.airbnb.com/users/show/222365292
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+29 reviews
+4.93 out of 5 average rating
+3 years of hosting

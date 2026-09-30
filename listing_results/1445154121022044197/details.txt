@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/1445154121022044197
+Latitude: 36.1261
+Longitude: -86.7262
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover Nashville from our modern 1-bedroom apartment! Located just minutes from downtown, BNA Airport, and popular spots like Broadway and the Country Music Hall of Fame. Enjoy amenities like a fully equipped kitchen and free parking, perfect for exploring Music City.
+
+The space
+Listing provided by Chady Property Management.
+
+It's a newly converted office building into studio loft apartments. This condo sleeps 4 comfortably and includes a queen size bed and a queen pull-out couch in the living room. The kitchen comes fully stocked.
+
+*PETS: Up to 2 dogs are allowed with prior host approval. A $75 fee per pet applies, and breed restrictions may apply. Cats are not allowed. Pets must be kept off all furniture at all times and kenneled when left unattended. Please clean up after your pets. Additional fees may apply for excess pet hair, damage, or extra cleaning.
+
+All properties are contactless checkin. Please be sure to arrive to checkin between 4pm & 8pm. If you do arrive later, you will still be able to checkin but may not have assistance if needed. Checkin time is always 4pm unless approved in writing by management. If you book through Airbnb and edit your checkin time to be earlier than 4pm, you will not be able to checkin until 4pm.
+
+If making a reservation with a same day checkin, checkin time is subject to change depending on cleaning schedule for that day.
+
+Sorry, we do not host locals. Any local that books this property without contacting management first for approval will have the reservation canceled without refund.
+
+Other Things To Note:
+- Free WiFi
+- Free Parking
+- Smart TV's to login to your subscription accounts.
+- We do not have cable but you can log into your Netflix, Hulu, and other subscription account.
+- Hassle Free Keyless checkin
+- Washer/Dryer
+- Charcoal Grilling Station (back side of the building)
+- All linens and bathing essentials are provided.
+
+• NO SMOKING: No smoking of any kind is allowed inside the home. A $1,500 fine will be applied for any violation.
+• NO PARTIES: Parties or large gatherings are not allowed unless pre-approved. Only the number of guests listed at booking are allowed in the house.
+• DAMAGES: Guests are responsible for any missing or damaged items and agree to pay the retail value for any such items.
+• LOCAL GUEST BOOKING POLICY: Locals must first contact host prior to booking. Failure to do so may result in cancelation without the possibility of a refund.
+
+• Enjoy a smooth, contactless check-in! Check-in is anytime after 4 PM, and we recommend arriving between 4–8 PM for the best experience. If you arrive later, you can still check in, but assistance may be limited. Please note, early check-ins must be approved in writing by management. Editing your check-in time won’t change the standard 4 PM check-in.
+• After booking, you may be asked to complete a rental agreement or provide additional details for Chady Property Management—just to make sure everything is good to go!
+• For eligible refunds, a small 3% credit card processing fee will be deducted from the refunded amount."
+
+Other things to note
+-You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+-Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4196 reviews
+4.78 out of 5 average rating
+5 years of hosting

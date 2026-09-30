@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1484422225948613403
+Latitude: 36.1745
+Longitude: -86.7812
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful one bedroom residential condo. Located in Downtown Nashville on 1st Avenue North, in the heart of MUSIC CITY. Enjoy a private balcony with views of the Cumberland River. An easy walk to everything Nashville! Broadway, Honky Tonks & Bars are only a short .9 mile walk or quick Uber/Lyft away.
+Half a block from the new Nashville Sounds Baseball Stadium, music venues, and diners..
+Check out reviews
+On VRBO “Riverside Peace in Nashville.”
+
+The space
+Beautiful one bedroom residential condo. Available for vacation or corporate rental with everything you need to make you feel right at home. Located in Downtown Nashville on 1st Avenue North, in the heart of MUSIC CITY. Enjoy a private balcony with views of the Cumberland River. An easy walk to everything Nashville! Broadway, Honky Tonks & Bars are only a short .9 mile walk or quick Uber/Lyft away.
+Half a block from the new Nashville Sounds Baseball Stadium, music venues, and dining.
+
+Sleeping Options:
+-Queen and Full bed in bedroom 
+-Twin and Queen couch bed options in living room
+Amenities:
+- Pool
+-Laundry 
+-Gym
+
+Guest access
+Free covered parking and numeric keypad to unlock the door.
+
+Registration Details
+2026053512
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alex
+Host User ID: 712605484
+Host Profile URL: https://www.airbnb.com/users/show/712605484
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+8 months hosting
+16 reviews
+4.81 out of 5 average rating
+8 months of hosting

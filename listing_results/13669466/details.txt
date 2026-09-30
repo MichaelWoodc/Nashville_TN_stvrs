@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/13669466
+Latitude: 36.10466
+Longitude: -86.72974
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Close to the airport, this room is perfect for couples, individuals, or business travelers. Within a few miles of downtown, this lovely room has a private entrance with a patio. There is also access to our huge deck with a hot tub. Children or pets - no problem! Quick access to I-40 and I-24.
+
+The space
+There is plenty of parking at the back of the house. Please park in a marked space. Private outside entrance is on the right side of the house when you face the back.
+
+Guest access
+Guests may enjoy the deck (hot tub and chiminea). Remember that upstairs is where our family lives. You'll love the hot tub and the deck! Make sure you let us know that you want to use the hot tub. Sometimes we have it down for cleaning.
+
+During your stay
+I should be available during the day to address any needs or answer any questions. You can call/text me if I am away from the house. We may even enjoy a glass of wine with you by the hot tub.
+
+Other things to note
+We'll be glad to give you recommendations for restaurants and things to do in Nashville.
+
+Our favorite restaurants are Istanbul Market, Ginger Thai, Rafferty's and Longhorn. These are within a few miles of the house. There is Pfunky Griddle in Berry Hill where you can cook your on pancakes. Yummm....
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 36286409
+Host Profile URL: https://www.airbnb.com/users/show/36286409
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Trevecca Nazarene University
+Fun fact: Born in Nashville TN
+Lives in Nashville, Tennessee
+What makes my home unique: Remodeled 50's ranch.
+Pets: My dog Ziva and my cat Puddles
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+732 reviews
+4.91 out of 5 average rating
+10 years of hosting

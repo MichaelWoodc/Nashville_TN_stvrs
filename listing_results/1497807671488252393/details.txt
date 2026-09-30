@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/1497807671488252393
+Latitude: 36.1932
+Longitude: -86.8307
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 15
+beds: 15
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay together in style at Harmony Heights with this triple-unit combo all featuring three modern 5-bedroom, 5-bathroom homes. 
+Total of 15 bedroom/15 bathrooms/21 beds(3 kings, 18 queen beds).
+
+Each unit boasts covered rooftop patios, hot tubs (Units 12 & 13), fire pits, fully equipped kitchens, 2 car garages and spacious living areas. Ideal for large groups, reunions, or bachelor/ette trips just minutes from Downtown Nashville.
+
+The space
+This Harmony Heights combo includes Units 11, 12, and 13—three spacious and modern 4-bed, 5-bath homes designed for group comfort, style, and unforgettable gatherings. Combined, the three units offer 12 bedrooms, 15 beds, and 15 bathrooms, making it perfect for large groups traveling together while still wanting space and privacy.
+
+Unit 11 – Group-Friendly Rooftop Retreat (No Hot Tub)
+
+5 Bedrooms | 7 Beds | 5 Bathrooms
+Enjoy a roomy floor plan, a fully equipped kitchen, and a private rooftop patio ideal for relaxing, dining, and social time.
+
+Unit 12 – Stylish Rooftop Escape w/ Hot Tub
+
+5 Bedrooms | 7 Beds | 5 Bathrooms
+Features a private rooftop deck complete with a hot tub—perfect for winding down after exploring the city.
+
+Unit 13 – Rooftop Views + Relaxing Hot Tub
+
+5 Bedrooms | 7 Beds | 5 Bathrooms
+Includes a private rooftop patio with a hot tub and lounge seating, ideal for sunsets and group hangouts.
+
+Combined Features Across All Three Homes
+
+12 Bedrooms, 15 Beds, 15 Bathrooms
+
+Spacious open-concept living, dining, and kitchen areas
+
+Fully stocked kitchens in each unit
+
+Private rooftop patios (hot tubs in Units 12 & 13)
+
+Washer & dryer in every home
+
+Designed for comfort, convenience, and large-group stays
+
+This trio of homes gives your group the perfect balance of shared spaces and individual privacy—all within the same community.
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

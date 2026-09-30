@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1467352243019287860
+Latitude: 36.17471
+Longitude: -86.77989
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Top-floor riverfront apartment with balcony views, steps from Nissan Stadium, Germantown, Top Golf, Broadway & Downtown. Walk to bars, cafes & restaurants. Includes FREE covered parking, king bed, pull-out sofa, full kitchen with utensils, ensuite bath, closet, A/C, high-speed WiFi, and 2 Roku TVs. Quiet but close to the action. Access to pool, gym & laundry with provided fob. Perfect Nashville stay in a prime location!
+
+The space
+1 Bedroom with a King Bed
+
+1 Living Room with a Pull Out Sofa
+
+1 Bathroom with Shower/Tub
+
+1 Fully Functioning Kitchen
+
+1 Balcony with 2 Chairs and a Table
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 440805478
+Host Profile URL: https://www.airbnb.com/users/show/440805478
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Missouri Valley College
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+48 reviews
+4.96 out of 5 average rating
+1 year of hosting

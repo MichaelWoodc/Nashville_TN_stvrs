@@ -1,0 +1,91 @@
+URL: https://www.airbnb.com/rooms/1232679686503456764
+Latitude: 36.1474
+Longitude: -86.766
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious —ideal for large groups. Enjoy a private hot tub, elevator to all floors, and a game room with karaoke, shuffleboard, ski-ball, and downtown views. Just 1 mile from Broadway and walkable to the lively WEHO neighborhood. Sleeps up to 12, please inquire for specific layout.
+
+The space
+Welcome to Your Ultimate Getaway – A Multi-Level Retreat with Fun, Comfort & Style!
+
+Please Note:
+While the home does have an interior elevator, guests must use stairs to enter the property. This home is not ADA-compliant.
+
+Bottom floor:
+-Game room and karaoke room
+-murphy beds in common area (queen size)
+-full bathoom
+-storage room with optional additional beds on request
+
+First Floor
+-kitchen and dining room
+-living room
+
+Second Floor
+-Master suite with dedicated master bath
+-Guest suite with King 
+-Guest suite with Queen
+-additional full bathroom in hallway 
+
+Third Floor
+-roof top
+-Guest suite with Queen
+
+2-Car Garage
+Private garage located at the rear of the home, accessible via the alley
+
+For safety and security, exterior security cameras are installed
+
+Guest access
+Whole house
+
+Other things to note
+-Located in the vibrant Wedgewood-Houston area, this home is within walking distance to great coffee shops, restaurants, and bars. Just a short Uber or rideshare ride to Downtown Broadway, and about 15 minutes from the airport, it’s a convenient spot for exploring all that Nashville has to offer.
+
+Please note:
+
+The elevator inside the home is essential for moving between floors, but both entrances require using stairs. This home is not ADA compliant.
+
+Parking is available behind the house.
+
+Exterior security cameras are present on the property for your safety.
+
+Families are welcome, but please be aware that the home features multiple staircases and does not include baby or pet gates. Children must be supervised at all times. Any safety items required for your children are your responsibility to bring.
+
+Responsive, Highly-Rated Management
+This home is managed by an experienced and hands-on management company known for excellent service and strong reviews. The team is involved to ensure guests have the smoothest, most enjoyable experience possible—from booking through check-out.
+
+Registration Details
+2026069637
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dante
+Host User ID: 4533947
+Host Profile URL: https://www.airbnb.com/users/show/4533947
+Host Profile URL Source: public user permalink from passport userId
+35 years old
+Director for a Media Agency
+Smart-Driven-Cool-Respectful
+Where I went to school: Stanford
+My work: Wine / Spirits Co.
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+135 reviews
+4.83 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1197773872837202894
+Latitude: 36.19603
+Longitude: -86.72366
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our stylish and contemporary 2-bedroom, 2-bathroom townhome located in the heart of East Nashville, Tennessee. This urban retreat offers the perfect blend of comfort and convenience, making it an ideal choice for families, couples, or small groups looking to explore the vibrant culture of Music City. Perfectly located in one of Nashville’s most eclectic neighborhoods. Whether you’re here for a weekend getaway, a music-filled adventure, or a long stay, you’ll feel right at home.
+
+The space
+Things to Know:
+10 minute drive downtown Nashville
+Walk to coffee shops and restaurants
+Near Five Points
+Dedicated free parking spot off street
+Free High Speed Wifi
+Central air conditioning and heating
+Washer and dryer in unit
+Fully stocked Kitchen
+2 x Queen Sized bed
+Private roof top deck with outdoor dining
+Pet Friendly Nashville stay
+
+Our townhome is situated in the heart of East Nashville, one of the city's most eclectic and vibrant neighborhoods. You'll be within walking distance to an array of local shops, trendy boutiques, and a diverse selection of restaurants and cafes. Don't miss the local music venues and bars that give East Nashville its unique charm. Downtown Nashville is just a short drive away, where you can explore iconic attractions such as the Country Music Hall of Fame, Ryman Auditorium, and Broadway's famous honky-tonks.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joshua
+Host User ID: 34668316
+Host Profile URL: https://www.airbnb.com/users/show/34668316
+Host Profile URL Source: public user permalink from passport userId
+Lives in Saugatuck, Michigan
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+618 reviews
+4.94 out of 5 average rating
+8 years of hosting

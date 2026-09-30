@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1525577093980013617
+Latitude: 36.19365
+Longitude: -86.77879
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*Reason YOU will LOVE this space*
+-Large open floor plan with bar seating and separate dining area
+-12 sperate beds
+-4 private baths
+-Private rooftop with outdoor games and downtown skyline views 
+-12 mins to Broadway 
+-less than 3 mins to Topgolf & Shake Shack
+- 5 mins to Nissan Stadium
+-Great for Bachelorette Trips, Friends getaways, work trips or couples retreats
+-close to all Nashville hot spots!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pamela Lash
+Host User ID: 593315532
+Host Profile URL: https://www.airbnb.com/users/show/593315532
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Real estate broker
+Response rate: 99%
+Responds within an hour
+Superhost
+2 years hosting
+328 reviews
+4.82 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1482771409490687984
+Latitude: 36.28046
+Longitude: -86.7236
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Basement apartment located in a quiet neighborhood just 10 miles north of downtown Nashville
+~700 sq ft
+Private entrance 
+Large bedroom with new furniture including 
+King bed and sleeper sofa
+Full bathroom
+Newly built kitchen with hightop table to seat 3 + dining essentials including fridge, Keurig & drip coffee maker, pots & pans with 2 burners, toaster over, air fryer, blender & more 
+Outdoor sitting area
+Free uncovered on-site parking
+Access to washer + dryer for extended stays upon request
+
+The space
+Large bedroom including King bed, sitting area + sleeper sofa, smart tv and dresser. Kitchen + high top table and chairs and dining essentials. Full bathroom with shower.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Natalie
+Host User ID: 174289288
+Host Profile URL: https://www.airbnb.com/users/show/174289288
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Central Florida
+Response rate: 100%
+Responds within an hour
+5 months hosting
+2 reviews
+5.0 out of 5 average rating
+5 months of hosting

@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/13176145
+Latitude: 36.14944
+Longitude: -86.66305
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tons of space and centrally located. 
+5 minutes from the airport.
+5 minutes from Opryland (Grand Ole Opry, Opry Mills Mall and Opryland Hotel).
+10 minutes from downtown.
+
+The space
+My home is just a few minutes away from the airport and 10 minutes away from Downtown (Broadway, Ascend Amphitheater, The Ryman, Bridgestone Arena, Titans' stadium) and Opry Mills/Grand Ole Opry.
+
+It's a great house for work trips OR for groups of friends on vacation OR for families traveling together. Even though it's really close to the heart of the city, it is on a quiet street in a very peaceful neighborhood. The full stainless and quartz kitchen with the open concept is great for for cooking meals at home.
+All three bedrooms have brand new beds. There's a queen-sized air mattress available on request that can be put in the living room or master bedroom.
+
+Permit # 2018037271
+
+Guest access
+Guests will have access to the entire upstairs, deck and back yard. The downstairs/garage are used for storage.
+
+Other things to note
+If you have a special request, please let me know as far in advance as possible so I can try to accommodate them. 
+
+No smoking in the house but you can smoke on the patio. You are responsible for disposing of your cigarette butts. Please DO NOT flick them into the yard!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jerry
+Host User ID: 73670150
+Host Profile URL: https://www.airbnb.com/users/show/73670150
+Host Profile URL Source: public user permalink from passport userId
+Hello, Jerry here! I’ve lived in Nashville my whole life. Just another musician in the mix. Let’s do something awesome today!
+Born in the 80s
+My work: Musician
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+546 reviews
+4.91 out of 5 average rating
+10 years of hosting

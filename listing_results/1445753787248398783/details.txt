@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/1445753787248398783
+Latitude: 36.365
+Longitude: -86.6119
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a simple place to stay with a fantastic view just outside your door. The garage has been renovated into a detached guest room, complete with a full bathroom. You also have access to the yard for your pets. Please note that the bed will not be made upon your arrival, but linens will be provided, and the couch will be set up. The main area is 126 square feet (14x9)
+Note: The WiFi signal is weak indoors, and you may need to be outside for it to work properly.
+Second guest is welcome, but pl
+
+Guest access
+Guest have access to the entire apartment.
+No smoking is allowed. (Smoking Violation fee is $350)
+Disclaimer: Please note that occasional Wi-Fi issues from the service provider may occur. The host will not be liable for any compensation due to lost Wi-Fi connections experienced by guests.
+Local guests within a 50 km radius of the property are subject to approval.
+
+Other things to note
+Important Information:
+
+ID and Verification: 
+To comply with legal and security requirements, you may be asked to provide a government-issued photo ID, verify your contact information, and provide a valid credit card matching your ID for verification. Depending on our screening results, additional credit card verification may be required. A security deposit may be needed (excluding Airbnb guests).
+
+Pet Policy:
+2 pets are allowed on the property.
+A non-refundable pet cleaning fee of $125 per stay applies.
+Guest Support:
+
+My team is available daily from 7 AM to 8 PM CT to address your questions and concerns.
+Food Delivery:
+For any food deliveries, Shipt dot com will deliver to you.
+
+Sleeping Capacity:
+
+Maximum capacity: 2 guests
+All guests over 2 years old must be listed on the reservation. Unlisted guests will be charged $50 per person, per night.
+Check-In/Check-Out:
+
+Standard Check-In: 3 PM Central
+Early Check-In: Requests before 11 AM Central are subject to availability and will incur a 50% nightly rate fee.
+Standard Check-Out: 11 AM Central
+Late Check-Out: Subject to availability with fees as follows:
+50% of the nightly rate for check-outs after 11 AM
+75% of the nightly rate for check-outs after 1 PM
+100% of the nightly rate for check-outs after 3 PM
+A minimum fee of $100 applies, whichever is higher.
+Video Walkthrough:
+If you want to see a video walkthrough, do a YouTube search for "Drakes Creek Overlook." It should be your first result.
+
+Supplies: 
+Basic essential starter kits are provided. For longer stays or additional needs, please plan accordingly.
+
+Smoking Policy: A $350 fee will be charged for smoking inside the property, including cigarettes, vaping, and marijuana.
+
+Wi-Fi Disclaimer: Occasionally, Wi-Fi issues may arise due to service provider problems. We are not liable for any compensation due to lost Wi-Fi connections.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stevens Realty
+Host User ID: 174969407
+Host Profile URL: https://www.airbnb.com/users/show/174969407
+Host Profile URL Source: public user permalink from passport userId
+Lives in Algood, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+789 reviews
+4.43 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/13575385
+Latitude: 36.15733
+Longitude: -86.63496
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! Our home offers comfort and convenience just minutes from the vibrant downtown scene and the BNA airport. Enjoy the best of both worlds with easy access to Nashville’s famous music venues, dining spots, and attractions. Relax by the pool after a day of exploring the city or before you hit Broadway. With multiple bedrooms and 2 living spaces, everyone can enjoy their own space, while the fully equipped kitchen and large dining area are perfect for larger groups.
+
+The space
+The best location for getting in and out of Welcome to your ideal Nashville getaway! This fantastic rental property boasts the perfect location for convenience, being just one exit away from the airport. Experience the ease of arriving at your new home away from home in less than 5 minutes from the terminal.
+
+This spacious property offers ample sleeping accommodations with three queen beds spread across three separate bedrooms. Additionally, there's a twin over full bunk bed, a room with two twin beds, and a versatile space with a futon. For extra guests, a couch and inflatable mattress are also available. If you require a crib during your stay, please let us know, and we'll gladly accommodate your request.
+
+Enjoy the refreshing pool, which typically opens around Memorial Day. However, we aim to have it ready by late April, weather permitting. Please note that the pool closes in early October. Our comprehensive cleaning fee includes pool maintenance during the summer months, ensuring a clean and pleasant swimming experience.
+
+Whether you're visiting for business or leisure, this property promises comfort, convenience, and relaxation. Book your stay now and make the most of your Nashville visit!
+
+Guest access
+Guests have the entire property for their own private use. You will have access to the in ground pool in the backyard (not heated) along with the fenced in backyard and the 1 car garage.
+
+Other things to note
+Once you arrive, please feel free to reach out to us for anything that you need that we have failed to provide. We want to make sure the house has everything a traveler would need or want. Call or text, we usually respond within the hour.
+
+While we are not a pet-friendly property, we can recommend several boarding facilities close by where your pups will be treated like family.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anthony
+Host User ID: 34840601
+Host Profile URL: https://www.airbnb.com/users/show/34840601
+Host Profile URL Source: public user permalink from passport userId
+My work: Commercial Real Estate
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+308 reviews
+4.83 out of 5 average rating
+10 years of hosting

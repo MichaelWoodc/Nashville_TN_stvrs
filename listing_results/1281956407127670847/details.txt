@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1281956407127670847
+Latitude: 36.1262
+Longitude: -86.7256
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the best of Nashville from a peaceful, stylish retreat! Just 8 minutes from the excitement of Broadway and BNA Airport, this modern-industrial studio offers city access without the downtown noise. With tall ceilings, contemporary decor, and a cozy, thoughtfully designed space, it’s ideal for solo travelers, couples, or business guests looking to relax after a day of exploring. Enjoy Nashville’s charm, convenience, and quiet comfort—book your stay today!
+
+The space
+The unit is located in unit 106 of the 295 building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emma
+Host User ID: 261219290
+Host Profile URL: https://www.airbnb.com/users/show/261219290
+Host Profile URL Source: public user permalink from passport userId
+Junior Explorer :)
+Born in the 90s
+I'm obsessed with: Traveling
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+199 reviews
+4.86 out of 5 average rating
+2 years of hosting

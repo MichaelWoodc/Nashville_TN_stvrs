@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1422394709459265071
+Latitude: 36.33499
+Longitude: -86.96456
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Secluded log cabin on 8 private acres just 30 minutes from Nashville! Sleeps 8 with 3 bedrooms, 2.5 baths, plus a bonus room featuring a daybed with trundle. Enjoy peaceful woodland views, abundant wildlife, modern amenities, and plenty of space to relax. Perfect for families, couples, girls' trips, and anyone looking for a quiet Tennessee retreat close to city attractions.
+
+The space
+Our cabin is tucked away on 8 peaceful, wooded acres, where deer, wild turkeys, foxes, and other wildlife often wander through the woods and near the cabin. It’s a tranquil, nature-filled escape perfect for slowing down and reconnecting with the outdoors.
+
+Brand-new cabin
+3 bedrooms + bonus room
+Sleeps 8
+Fully equipped kitchen
+Modern amenities
+8 private acres
+Peaceful setting
+
+Other things to note
+Conveniently located, our cabin is just 5 minutes from I-24, making it easy to get here and explore the area. We’re only 20 minutes from the beautiful Cumberland River—perfect for fishing, kayaking, or a scenic day out. For quick essentials, Dollar General is just 2 minutes away, and you’ll find a Walmart less than 25 minutes from the cabin.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sheri
+Host User ID: 139649778
+Host Profile URL: https://www.airbnb.com/users/show/139649778
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Sheri and Paul, proud owners and builders of this cozy cabin retreat. This space is the result of years of hard work, love, and a shared dream between my partner and me. Every detail has been thoughtfully crafted to create a peaceful, comfortable, and memorable experience for our guests. We truly look forward to hosting you and making sure your stay is as relaxing and enjoyable as possible.
+Born in the 90s
+My work: Carpenter
+Response rate: 100%
+Responds within an hour
+1 year hosting
+28 reviews
+4.89 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1574784450907387851
+Latitude: 36.1233
+Longitude: -86.7897
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+12 South Collections – Stay | Unit 201 is a boutique two-bedroom corner condo that comfortably accommodates up to six guests. Located in one of Nashville’s most sought-after, walkable neighborhoods, the residence is just steps from top local shops and restaurants and only minutes from The Gulch and downtown. 
+
+The primary bedroom contains a king bed, while the second bedroom features a queen bed. The spacious living room includes other key amenities such as a fridge, toaster, coffee maker, silve
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: MaryBeth
+Host User ID: 733612202
+Host Profile URL: https://www.airbnb.com/users/show/733612202
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+8 months hosting
+83 reviews
+4.99 out of 5 average rating
+8 months of hosting

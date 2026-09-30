@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1427709001535917003
+Latitude: 36.1716
+Longitude: -86.7512
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You will be close to everything when you stay at this centrally-located stay in East Nashville. 
+
+Walkable to many attractions including:
+
+Nissan Stadium: 1 mile
+Broadway: 1.5 miles
+Five Points: 0.5 mile
+Shelby Park: 1 mile
+Golf Course: 1 mile
+
+Whether you are in town for a concert, football/ hockey game, celebration or just a weekend getaway; this East Nashville stay has much to offer!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Phillip
+Host User ID: 697175085
+Host Profile URL: https://www.airbnb.com/users/show/697175085
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Asbury University
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+31 reviews
+4.84 out of 5 average rating
+1 year of hosting

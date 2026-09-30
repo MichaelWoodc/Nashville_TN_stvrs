@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/11087723
+Latitude: 36.40075
+Longitude: -86.7782
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable queen bed in quiet home. Large groups have the OPTION to add the second room (if available). Ask before booking if you need the extra room) for an extra $40 per night..This room is NOT included in the price of the Airbnb room. 
+Coffee and muffins available inside room.  
+Bathroom is shared if both rooms happen to rented. refrigerator and water cooler
+3-9pm check in Downtown(20/25 mins) and airport.
+ This is an upstairs bedroom.
+All bookings are required to have ID verification.
+
+The space
+Large, Comfortable and clean room in the upstairs of our home. Quiet country neighborhood. Walking trail. Close to shopping and lots of restaurants. 
+Close to airport and Downtown Nashville.
+
+Guest access
+We are NOT ALLOWING access to the lower level or parts of the home at this time unless granted ahead of time. 
+
+Check in from 3-9pm only.
+May allow some later check in if arranged ahead of booking.
+
+During your stay
+After greeting at check in Will interact with guest as much or as little as they prefer.
+
+Other things to note
+Very basic continental breakfast provided in room. Coffee and muffins or something else. 
+Coffee and tea are available at all times thru small coffee maker inside room. 
+Small refrigerator and water cooler provided. 
+
+IMPORTANT!!!
+We are not allowing animals of any sort due to my severe allergies. 
+Check in from 3-9pm. Check out is 10AM. Late 
+checkout without previous arrangements are subject to up to a full days charge for the room.
+This is an upstairs bedroom. There are two rooms upstairs. If both r rented you will have to share the bathroom in between the two rooms. 
+All bookings must have a verified ID.
+Parking is halfway up the driveway to the left in the bare spot with the cone. Not up by the garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lois
+Host User ID: 55175940
+Host Profile URL: https://www.airbnb.com/users/show/55175940
+Host Profile URL Source: public user permalink from passport userId
+Laid back. Spontaneous. Love people. Like trying new things. Trying to get in great shape.
+Born in the 60s
+Where I went to school: Ohio
+My work: Self Employed
+Pets: Not right now
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+988 reviews
+4.89 out of 5 average rating
+11 years of hosting

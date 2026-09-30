@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/14633012
+Latitude: 36.09682
+Longitude: -86.8263
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perched high on a hill with breathtaking 10 mile views from every room. 800 square feet. 
+
+Luxuriously furnished as shown, includes everything from linens and towels to silverware.
+
+Two master suites, (Each with en-suite bathroom) are located on opposite ends of the home. (Available for a six month lease)
+
+The space
+Perched high on a hill with breathtaking 10 mile views from every room.
+
+Luxuriously furnished as shown, includes everything from linens and towels to silverware.
+
+This ground floor Green Hills condominium even has its own small yard just off the large private slate patio. 
+
+Large slate patio is perfect for entertaining or relaxing, with ceiling fans, fire pit and automatic low voltage lighting.
+
+The property has a tennis court, pool, & private hillside hiking trails.
+
+Less than 1/2 a mile down the hill is the Bluebird Café, Whole Foods, Nordstrom, Tiffany, and other exclusive shops, restaurants and entertainment.
+
+Guest access
+The entire condo of course, and all of the amenities on the property available to other residents.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Roman
+Host User ID: 40825613
+Host Profile URL: https://www.airbnb.com/users/show/40825613
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Responds within a few days or more
+10 years hosting
+6 reviews
+5.0 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,216 @@
+URL: https://www.airbnb.com/rooms/1417507441071645264
+Latitude: 36.1871
+Longitude: -86.8161
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 24
+beds: 30
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your private North Nashville compound — a 24-bedroom, 24-bath retreat for up to 66 guests across 6 fully equipped homes. Three rooftop decks feature private hot tubs, three feature outdoor grills and dining. Each home includes open-concept living, a fully stocked kitchen, and a private garage. The perfect Nashville base for large groups, corporate retreats, and celebrations.
+
+The space
+🏠 6 Private Homes | 🛏️ 24 Bedrooms | 🛁 24 Bathrooms | 🚻 6 Half Bathrooms | 👥 Up to 66 Guests
+
+Six side-by-side three-story homes in North Nashville, each with independent access and a private rooftop deck. Units A, C, and E feature rooftop decks with outdoor dining and grill. Units B, D, and F feature rooftop decks with private hot tub and seating. All six homes feature open-concept living, dining, and kitchen on the Second Floor, with rooftop deck access from the Third Floor. All homes are reserved exclusively for your group.
+
+FEATURES
+🍳 Kitchens: 6 fully stocked kitchens with essential cookware
+🌅 Rooftop Decks: 6 private rooftop decks — 3 with hot tubs, 3 with grills
+♨️ Hot Tubs: Private rooftop — Units B, D & F
+🔥 Grills: Private rooftop — Units A, C & E
+🚗 Parking: 6 private garages — one per unit
+🛏️ Bedding: Premium Helix mattresses & Matouk linens and towels
+📶 High-Speed WiFi
+🧴 Toiletries: High-end essentials
+📺 XL Flat Screen TV in each living room
+
+ 
+🛏️ Bedroom And 🛁 Bathrooms Layout
+
+Unit A
+First Floor:
+🛏️ Bedroom 1: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 1: Ensuite full bathroom to Bedroom 1 — walk-in shower
+
+Second Floor:
+🛏️ Bedroom 2: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 2: Ensuite full bathroom to Bedroom 2 — walk-in shower
+🚻 Half Bathroom 1 — off kitchen, serves common areas
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+🧺 Laundry
+
+Third Floor:
+🛏️ Bedroom 3: 1 Queen bed
+🛏️ Bedroom 4: 2 Double beds (ensuite full bathroom)
+🛁 Bathroom 3: Full Hallway Bathroom (Serves Bedroom 3) — walk-in shower & tub
+🛁 Bathroom 4: Ensuite full bathroom to Bedroom 4 — walk-in shower
+🌅 Rooftop Deck Access — outdoor dining & grill
+
+Unit B
+First Floor:
+🛏️ Bedroom 5: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 5: Ensuite full bathroom to Bedroom 5 — walk-in shower
+
+Second Floor:
+🛏️ Bedroom 6: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 6: Ensuite full bathroom to Bedroom 6 — walk-in shower
+🚻 Half Bathroom 2 — off kitchen, serves common areas
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+🧺 Laundry
+
+Third Floor:
+🛏️ Bedroom 7: 2 Double beds
+🛏️ Bedroom 8: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 7: Full Hallway Bathroom (Serves Bedroom 7) — walk-in shower & tub
+🛁 Bathroom 8: Ensuite full bathroom to Bedroom 8 — walk-in shower
+🌅 Rooftop Deck Access — hot tub & outdoor seating
+
+Unit C
+First Floor:
+🛏️ Bedroom 9: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 9: Ensuite full bathroom to Bedroom 9 — walk-in shower
+
+Second Floor:
+🛏️ Bedroom 10: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 10: Ensuite full bathroom to Bedroom 10 — walk-in shower
+🚻 Half Bathroom 3 — off kitchen, serves common areas
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+🧺 Laundry
+
+Third Floor:
+🛏️ Bedroom 11: 1 Queen bed
+🛏️ Bedroom 12: 2 Double beds (ensuite full bathroom)
+🛁 Bathroom 11: Full Hallway Bathroom (Serves Bedroom 11) — walk-in shower & tub
+🛁 Bathroom 12: Ensuite full bathroom to Bedroom 12 — walk-in shower
+🌅 Rooftop Deck Access — outdoor dining & grill
+
+Unit D
+First Floor:
+🛏️ Bedroom 13: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 13: Ensuite full bathroom to Bedroom 13 — walk-in shower
+
+Second Floor:
+🛏️ Bedroom 14: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 14: Ensuite full bathroom to Bedroom 14 — walk-in shower
+🚻 Half Bathroom 4 — off kitchen, serves common areas
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+🧺 Laundry
+
+Third Floor:
+🛏️ Bedroom 15: 2 Double beds
+🛏️ Bedroom 16: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 15: Full Hallway Bathroom (Serves Bedroom 15) — walk-in shower & tub
+🛁 Bathroom 16: Ensuite full bathroom to Bedroom 16 — walk-in shower
+🌅 Rooftop Deck Access — hot tub & outdoor seating
+
+Unit E
+First Floor:
+🛏️ Bedroom 17: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 17: Ensuite full bathroom to Bedroom 17 — walk-in shower
+
+Second Floor:
+🛏️ Bedroom 18: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 18: Ensuite full bathroom to Bedroom 18 — walk-in shower
+🚻 Half Bathroom 5 — off kitchen, serves common areas
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+🧺 Laundry
+
+Third Floor:
+🛏️ Bedroom 19: 1 Queen bed
+🛏️ Bedroom 20: 2 Double beds (ensuite full bathroom)
+🛁 Bathroom 19: Full Hallway Bathroom (Serves Bedroom 19) — walk-in shower & tub
+🛁 Bathroom 20: Ensuite full bathroom to Bedroom 20 — walk-in shower
+🌅 Rooftop Deck Access — outdoor dining & grill
+
+Unit F
+First Floor:
+🛏️ Bedroom 21: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 21: Ensuite full bathroom to Bedroom 21 — walk-in shower
+
+Second Floor:
+🛏️ Bedroom 22: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 22: Ensuite full bathroom to Bedroom 22 — walk-in shower
+🚻 Half Bathroom 6 — off kitchen, serves common areas
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+🧺 Laundry
+
+Third Floor:
+🛏️ Bedroom 23: 2 Double beds
+🛏️ Bedroom 24: 1 Queen bed (ensuite full bathroom)
+🛁 Bathroom 23: Full Hallway Bathroom (Serves Bedroom 23) — walk-in shower & tub
+🛁 Bathroom 24: Ensuite full bathroom to Bedroom 24 — walk-in shower
+🌅 Rooftop Deck Access — hot tub & outdoor seating
+
+OUTDOOR SPACE
+Units A, C & E
+🌅 Rooftop Deck: Third Floor — outdoor dining area
+🔥 Grill
+Units B, D & F
+🌅 Rooftop Deck: Third Floor — outdoor seating
+♨️ Hot Tub: Private
+
+ACCESSIBILITY
+Stairs: Few steps from street level to entrance in all units; interior stairs to Second and Third Floors; rooftop deck accessed from Third Floor
+Floors: All units — 3 floors + rooftop deck
+Elevator: No
+Independent unit access: Yes
+Step-free entry: No
+
+HOST INFORMATION
+
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+separately and together depending on how much space your group needs. If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+Each unit has locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+*IMPORTANT DISCLAIMERS*
+ 
+-We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+-We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+-We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+-We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+-Pets are not allowed at this property. 
+-Mailing packages to the premises is not permitted.
+-We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heirloom
+Host User ID: 276892829
+Host Profile URL: https://www.airbnb.com/users/show/276892829
+Host Profile URL Source: public user permalink from passport userId
+At Heirloom, we believe that group travel should never mean compromising on luxury amenities and beautiful design.
+
+We’ve established ourselves across the US, with over 300 listings in premier cities around the country. Whether you’re looking for a relaxing getaway on Nantucket or an upbeat visit to New Orleans, we have the home for you.
+My work: Professional Luxury Vacation Rentals
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+17069 reviews
+4.77 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1386302457457771986
+Latitude: 36.15060287328083
+Longitude: -86.80474639845279
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great Location on Elliston Place.  You can walk to Vanderbilt and Vanderbilt Medical Centre.
+Exit Inn, Elliston Soda shop, multiple restaurants and its a quick Uber ride 1.5 m to Broadway and the exciting Bars and Live Music and fun!  Spacious corner unit with high ceilings. Full kitchen with new washer and dryer. Phenomenal Walkability. Walk to Centennial Park. 2 bedrooms 2 queen beds. and queen sleeper couch.  1 free parking space behind building. Free parking in front if available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robyn
+Host User ID: 188906198
+Host Profile URL: https://www.airbnb.com/users/show/188906198
+Host Profile URL Source: public user permalink from passport userId
+I am a Visual Artist/ Painter /Film Maker and Mom.
+Also I am a Top Realtor at Weichert Realty and have a great time with Nashville.
+I moved here from Johannesburg and studied art at University of Cape Town.
+I love living in Nashville this is such a exciting town! I am excited to start hosting with Airbnb.
+Where I went to school: South Africa
+My work: Realtor and Artist
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+923 reviews
+4.83 out of 5 average rating
+8 years of hosting

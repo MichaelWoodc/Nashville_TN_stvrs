@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1388494330936225305
+Latitude: 36.1528
+Longitude: -86.805
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern Midtown Apartment – Walk to Vanderbilt & The Parthenon
+Experience comfort and convenience in our stylish Midtown apartment, perfect for up to 4 guests. Enjoy a king bed, 4K HDTV, high-speed WiFi, and a fully equipped kitchen. Building perks include a gym, pool, free garage parking, and self check-in. Walk to Vanderbilt & Centennial Park, and be minutes from Broadway’s nightlife. No pets, smoking, or parties. Book your Nashville stay today!
+
+The space
+The living room features a comfortable sofa that easily converts into a bed, perfect for extra guests. It is a modular couch that turns into a bed big enough for two people, very comfy too!
+
+Kingsize bed in the bedroom. Washer and dryer in the unit make longer stays hassle free. Easy street access and free parking included.
+
+Guest access
+Full apartment, and the club room found on the second floor of the apartment building. Pool access only when open during summer months.
+
+Other things to note
+Located in Midtown, our apartment offers the perfect balance of city convenience and a peaceful retreat:
+Walking distance to Vanderbilt University & The Parthenon – Ideal for campus visits, events, or a relaxing stroll in Centennial Park.
+Near Centennial Sports Complex – Enjoy swimming, tennis, or ice skating.
+Surrounded by hospitals – Convenient for healthcare professionals or visiting family.
+Minutes from Broadway – A quick drive or Uber ride to Nashville’s famous live music scene, dining, and nightlife.
+
+Please note that this unit is in an apartment building and there are neighbors and other tenants that we have not screened.
+
+While our unit is 100% non-smoking and we use HEPA + activated-carbon filtration, in rare instances odors from neighboring units may be noticeable due to shared ventilation. If you ever notice this, message us
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tomas L
+Host User ID: 678699867
+Host Profile URL: https://www.airbnb.com/users/show/678699867
+Host Profile URL Source: public user permalink from passport userId
+I started a furnished housing company, SwiftStay Living,  with my family and closest friends! 
+At SwiftStay Living, we pride ourselves in being furnished housing professionals. We focus on providing top-quality short term rentals for families and individuals alike. Our rentals are located throughout Tennessee, and we pride ourselves on our exceptional customer service. We hope to host you soon and make your visit a home away from home.
+My work: Swiftstay Living
+I spend too much time: Running!!
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+113 reviews
+4.92 out of 5 average rating
+1 year of hosting

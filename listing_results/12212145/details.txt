@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/12212145
+Latitude: 36.06519
+Longitude: -86.72997
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bright and Full of fun & colorful Music City decor in a BIG 2,000+ sq. ft. home with a rolling hill, backyard retreat including spacious deck, Party bar & game room!  Easy & quick trip to the famous Honky Tonks on Broadway.  Lots of space for large groups!
+
+The space
+A welcoming and inviting space with plenty of room for large groups, families and parties_Fully stocked, working kitchen, several dedicated eating areas (including a huge feast table), exciting "Fun-Zone", flat panel TVs throughout the home with lots of DVD movie options, vinyl record player, game machines, board games, comfortable beds and linens, Bluetooth speakers and laundry facility
+
+Guest access
+We want our guests to feel right at home.  You and your guests will have complete access to the entire home.
+
+Other things to note
+4 parking spots
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City
+Host User ID: 65683912
+Host Profile URL: https://www.airbnb.com/users/show/65683912
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+10 years hosting
+117 reviews
+4.93 out of 5 average rating
+10 years of hosting

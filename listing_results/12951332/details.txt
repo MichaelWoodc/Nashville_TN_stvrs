@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/12951332
+Latitude: 36.11211
+Longitude: -86.79406
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great location within walking distance to the shops, bars and restaurants of 12South and a quick trip to all the activity in downtown Nashville. Tucked in between both Lipscomb and Belmont Universities and just 20 minutes from the airport.  There are 3 bedrooms, 2.5 baths and a fully stocked kitchen for you to use plus a beautiful patio area and backyard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elizabeth
+Host User ID: 71155589
+Host Profile URL: https://www.airbnb.com/users/show/71155589
+Host Profile URL Source: public user permalink from passport userId
+Born in the 50s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+10 years hosting
+133 reviews
+4.98 out of 5 average rating
+10 years of hosting

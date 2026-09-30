@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1215959032802669464
+Latitude: 36.1637
+Longitude: -86.7758
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unite the comforts of home and the luxuries of a hotel in our Deluxe 2 Bedroom Queen Suite with Sofa bed. This spacious internal (windowless) suite boasts 12 ft ceilings, two queen-sized beds with private bedrooms, a separate living area, and a convenient sofa bed, making it an ideal choice for families and groups.
+
+Other things to note
+Studio 154 Hotel is located in a row of historic brick buildings. Due to its uniqueness, some rooms do not have windows. It is important that you review the photos of each room and ask the hotel if you have questions about the room prior to booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Studio 154 Luxury
+Host User ID: 211231188
+Host Profile URL: https://www.airbnb.com/users/show/211231188
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+369 reviews
+4.87 out of 5 average rating
+8 years of hosting

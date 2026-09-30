@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1138527852202045205
+Latitude: 36.36453
+Longitude: -86.47111
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Book and submerge your friends and family in cozy and welcoming  surroundings!  lot's of good surprises here!  PS Butler is semi-retired! 
+Enjoy Nashville shopping and nightlife!
+
+ I enjoy decorating and it shows with the quirky deco finds!  Of course Christmas is my favorite! 
+
+Surprise in primary bath... a butler! LOL!
+
+The space
+3 bedroom 2 bath home with LVP flooring thru-out 
+
+In a walkable neighborhood (one way in & out) with views of lake!
+
+In unit Laundry (washer & dryer)
+
+Guest access
+The complete 1st floor or ranch style home includes covered deck with member's mark griddle, front porch with 2 comfy benches, treed yard.
+
+Other things to note
+Smoking/vaping allowed outside on deck, front porch or yard ONLY!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vicki
+Host User ID: 300808633
+Host Profile URL: https://www.airbnb.com/users/show/300808633
+Host Profile URL Source: public user permalink from passport userId
+Sporty grandmother of 4 luv football, basketball, volleyball! No matter the  amount of travel, I'm there!
+My work: Broker/Rltor 39 yrs
+I spend too much time: on my laptop & phone
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+150 reviews
+4.91 out of 5 average rating
+7 years of hosting

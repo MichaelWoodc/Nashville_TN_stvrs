@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1025428559288303389
+Latitude: 36.19607
+Longitude: -86.78133
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hilltop location overlooking Music City. Just a 5 minute Uber from the Heart of Downtown Broadway, Nissan Stadium, Bridgestone Arena and many more Nashville favorites. 5 Minutes from hip and happening East Nashville.  This house is designed and styled to perfection for an elevated and comfortable Nashville experience, no matter the reason for your visit. Stocke with everything, including all the details of a luxury hotel experience. We've thought of everything- just get here.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 38378209
+Host Profile URL: https://www.airbnb.com/users/show/38378209
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: REALTOR, Actor/Model
+Response rate: 100%
+Responds within a few hours
+Superhost
+3 years hosting
+122 reviews
+4.94 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1095484339653583603
+Latitude: 36.1149
+Longitude: -86.7938
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy fall in Nashville from this cozy guesthouse in the popular 12 South neighborhood. Relax with comfortable interiors, a private outdoor patio, and convenient off-street parking. Walk to local restaurants, coffee shops, and neighborhood favorites, or take a quick drive downtown for Broadway, live music, and more.
+
+The space
+Experience Nashville this fall from a private guesthouse in the popular 12 South neighborhood. Enjoy crisp mornings with coffee on the private patio before heading out to explore nearby restaurants, coffee shops, boutiques, and neighborhood favorites. When you’re ready for the energy of downtown, Broadway and Music City’s live music and entertainment are just a quick drive away. With cozy interiors, convenient off-street parking, and a relaxed setting, this inviting retreat is a comfortable home base for weekend getaways, couples’ trips, and fall adventures in Nashville.
+
+Guest access
+You have the entire guest house to yourself.
+Just walk up the stairs from the covered parking spot, and you’ll be at the back door. Enter the code, and slide to the right.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 23572246
+Host Profile URL: https://www.airbnb.com/users/show/23572246
+Host Profile URL Source: public user permalink from passport userId
+I'm an avid traveler, always looking to see and learn new things. My personal travel usually revolves around nature, animals or exploring the wonders this natural world has to offer. My team tries to bring that same experience to the properties we host. A luxury experience combined with the connectedness only untouched nature can provide.
+My work: Investment Advisor
+Lives in Nashville, Tennessee
+Response rate: 98%
+Responds within an hour
+Superhost
+5 years hosting
+807 reviews
+4.9 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1241390675220221795
+Latitude: 36.25207
+Longitude: -86.78182
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind in this stylishly furnished  large bedroom with king size bed and large private bathroom, office desk and large walk/in closet in a 4-bedroom home with brand new appliances with lots of natural light in Nashville, nested in a charming neighborhood just 15 mins drive from downtown. Living room is tastefully decorated with a 75" smart TV with WiFi and an electric fireplace, perfect for relaxation. This property is located in a serene neighborhood with great scenery.
+
+The space
+The bedroom is tastefully furnished with a King-size bed, large office desk and chair, nightstand, spacious walk-in closet to accommodate all your wardrobe needs. There is an in-unit laundry room with washer and dryer for your use. Keep in mind this will be a shared living space so please be respectful of the other guests in the home.
+The living area boasts of modern decor and two living rooms with furniture and 75 smart TV . The home also includes a patio space to enjoy the evening breeze and an ideal spot for relaxation. It also comes with a fully equipped kitchen and Wi-Fi access. There are parking spots in the driveway and garage + street parking available
+
+Guest access
+Please keep in mind that you will be staying in a private bedroom with shared living rooms, kitchen, dining area & backyard. During your stay, there will be other guests in the house as well. We ask everyone to be courteous and respectful of each other.
+
+During your stay
+==== Getting in Touch=====
+
+Don't hesistate to reach out if you need travel advice, local restaturant and bar recommendation, or any question or concern about anything, we'll be happy to help!
+
+We hope your Airbnb experience will be 5-star worthy! Let us know if there's any way we can help make your stay even better in Nashville!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 296785386
+Host Profile URL: https://www.airbnb.com/users/show/296785386
+Host Profile URL Source: public user permalink from passport userId
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+72 reviews
+4.71 out of 5 average rating
+2 years of hosting

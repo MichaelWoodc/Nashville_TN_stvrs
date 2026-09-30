@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1394237133004527393
+Latitude: 36.222993634257186
+Longitude: -86.82326343251647
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a private, cozy studio about 20 minutes from downtown Nashville and Broadway. The studio has its own entrance and is attached to the main house in a quiet residential neighborhood. Inside you’ll find comfortable furnishings, a queen bed, and a simple kitchen setup for light meals. Outdoor seating is available to relax after exploring Music City. The driveway may be shared if the main house is occupied. Ideal for solo travelers or couples visiting for a few nights.
+
+The space
+Spotlessly clean and bathed in natural light, this studio offers a bright and welcoming atmosphere. Step outside to a charming backyard featuring a covered patio and a nearby fire pit—perfect for cozy evenings under the stars. Located just minutes from downtown Nashville, the home sits in a peaceful neighborhood with easy walking access to the city bus line and quick access to the highway. The studio is thoughtfully outfitted with brand-new furnishings, luxurious linens, and high-quality towels to ensure a comfortable and enjoyable stay.
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you prior to your reservation.
+
+Other things to note
+The Cozy Studio Apartment offers convenient access to the best of Nashville. Downtown, Broadway, and the city’s top attractions—including restaurants, bars, museums, the zoo, and more—are just a short drive or quick rideshare away.
+
+Designed as a peaceful retreat, the studio is ideal for unwinding after a day out. Guests can relax with a good book, enjoy the private yard, or spend time on the covered patio.
+
+Property Notes
+	•	Weekly lawn care and routine maintenance are scheduled on the property. This may include sidewalk, front porch, and patio cleaning and could occur during your stay.
+
+Shared Patio & Layout
+This studio is attached to a main house that is also listed separately (www.airbnb.com/rooms/1281117589803791447). The two units have separate exterior entrances and may be occupied by different guests during your stay.
+
+There is a shared interior connecting door between the studio and the main house. This door remains locked unless both spaces are booked by the same guest, allowing the units to be combined into one larger accommodation when desired.
+	•	Studio entrance: White door at the back (your entrance)
+	•	Main house entrance: Green door at the front
+
+If you need additional space or want exclusive access to the full property, you’re welcome to book both listings together.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

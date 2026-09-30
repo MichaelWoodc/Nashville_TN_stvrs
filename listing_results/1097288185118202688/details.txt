@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1097288185118202688
+Latitude: 36.11486
+Longitude: -86.78046
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come stay at the Battlemont Cottage - the completely-separate lower level of a house in the family-friendly neighborhood near 12th South. The unit has a private entrance, which is accessible from the back yard. The unit includes a living room, bedroom, bathroom, and laundry/kitchenette. Walk to 12th South for shopping and dining, but still feel tucked away in one of Nashville's oldest neighborhoods. Perfect location for CMA fest and other downtown events and Nashville-area graduations.
+
+The space
+The unit has a separate entrance and includes a living room, bedroom with a queen bed, bathroom, and laundry/kitchenette. You will have a covered parking spot in the carport right by the entrance to the unit.
+
+The living area has a sectional, and there is also a blowup mattress in the moveable living room table to accommodate extra guests. A pack-n-play is provided in the closet.
+
+Guest access
+The unit has keyless entry. I will send you your 4-digit code on the day of your arrival.
+
+Other things to note
+This is a beautiful, family-friendly neighborhood within walking distance to 12th South. There are many children in the neighborhood, so our ideal tenants would adhere to noise laws and be mindful of children when driving in the neighborhood / street / driveway.
+
+*We do have a kitten who lives upstairs with us. If you are allergic to cats it is not recommended that you stay here!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Whitney
+Host User ID: 221054086
+Host Profile URL: https://www.airbnb.com/users/show/221054086
+Host Profile URL Source: public user permalink from passport userId
+Hello!  My name is Whitney and I live in Nashville, TN with my two young children. We enjoy time with family and friends, and enjoy adventuring as often as possible. I was an Airbnb host at my previous home about 8 years ago and loved the experience!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+2 years hosting
+33 reviews
+4.97 out of 5 average rating
+2 years of hosting

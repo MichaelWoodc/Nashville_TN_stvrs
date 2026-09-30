@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1480480713347053283
+Latitude: 36.20195
+Longitude: -86.78615
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious Home Near Downtown – Perfect for Families & Groups!
+Welcome to your home away from home! This bright and spacious getaway is just minutes from downtown, making it the perfect base for exploring the city while enjoying peace, comfort, and room to relax.
+
+The space
+Welcome to your home away from home!
+This comfortable and thoughtfully equipped space has everything you need for a relaxing and convenient stay. Enjoy a fully stocked kitchen, cozy living area, comfortable beds with fresh linens, Wi-Fi, smart TV, dedicated workspace, and in-unit laundry. Whether you’re visiting for business, a family getaway, or a weekend escape, you’ll find all the essentials to settle in and feel right at home. Conveniently located near local attractions, dining, shopping, and transportation, this space is designed to provide comfort, convenience, and a memorable stay from check-in to check-out. We look forward to hosting you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joey
+Host User ID: 67611468
+Host Profile URL: https://www.airbnb.com/users/show/67611468
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+472 reviews
+4.9 out of 5 average rating
+8 years of hosting

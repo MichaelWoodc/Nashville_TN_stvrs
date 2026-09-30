@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1259544936769002843
+Latitude: 36.112889120229234
+Longitude: -86.71765623625235
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the 'HOWDY' Honky Tonk Studio...just Minutes to sooo many hotspots. You will find comfort in this spacious & unique setup. You will enjoy your own exterior covered patio & fenced area just for your pets.
+Perfect for a solo traveler, couple, or friends. It offers a spacious Kitchen, Bath, Dining table, Washer/Dryer, double recliner & remote adjustable bed.
+
+Registration Details
+2024046435
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jodie
+Host User ID: 178305410
+Host Profile URL: https://www.airbnb.com/users/show/178305410
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+628 reviews
+4.87 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1515472304750081321
+Latitude: 36.05415119764463
+Longitude: -86.70640257288146
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 11
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home in Nashville! This spacious 4-bedroom, 3-bathroom home offers plenty of room for families, friend groups, business travelers, and extended stays. It has 2 living rooms, 2 desks for WFH, a fully stocked kitchen, and even a ping pong table. It's just 15 minutes from downtown Nashville and 15 minutes from the airport, nestled in a quiet neighborhood.
+
+The space
+* 4 spacious bedrooms
+* 3 full bathrooms
+* Fully equipped kitchen for cooking and dining
+* Additional kitchenette/bar area for entertaining and extra convenience
+* Dedicated private office with workspace and high-speed Wi-Fi
+* Spacious primary suite with private bathroom
+* Multiple living rooms for relaxing, socializing, or accommodating larger groups
+* Laundry facilities available for guest use
+* Plenty of free parking space for several cars
+* Even a ping pong table and a piano!
+
+Guest access
+This rental includes access to the entire private property along with a spacious yard and outdoor deck.
+
+Please note the garage is off limits to guests.
+
+Other things to note
+There are 5 beds in 4 bedrooms, plus a futon in the office that converts into a bed.
+
+Please read through our rules carefully.
+* No parties or events
+* No smoking inside 
+* Quiet hours: 10 PM – 8 AM
+* No unregistered guests
+* No Pets
+
+Any rule violations may result in additional charges, cancellation without refund, and removal from the property.
+
+There is an exterior security camera in use for guest safety.
+
+Registration Details
+2025066535
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 163492634
+Host Profile URL: https://www.airbnb.com/users/show/163492634
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+27 reviews
+4.96 out of 5 average rating
+6 months of hosting

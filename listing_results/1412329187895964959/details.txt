@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1412329187895964959
+Latitude: 36.17098920637453
+Longitude: -86.74914987370106
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming 1910 bungalow in East Nashville—perfect location just minutes to downtown, top restaurants, coffee shops & live music. This private main-level space offers ~1,100 sq ft with 1 spacious primary bedroom and 1.5 baths. Enjoy a stylish, boutique-style interior with modern comforts, a wraparound porch, and a fully fenced, pet-friendly yard. Ideal for couples, weekend getaways, or longer stays—experience Nashville like a local in one of its most vibrant neighborhoods.
+
+The space
+The main side of the home features over 900 square feet of comfort, thoughtfully renovated and lovingly updated. It includes a spacious master bedroom with a private en suite bathroom, a well-equipped kitchen with generous dining space, a cozy living area, a dedicated work space, a convenient half-bath, and in-unit laundry. Stylish, functional, and full of character—this home offers everything you need for a relaxing and enjoyable stay.
+
+Note:  This listing is for the main living area. A private bedroom with separate entrance and en suite bath on the opposite side may or may not be rented during your stay. Both spaces are fully private with a double-locked door in between.
+
+We are proud superhosts with airbnb.  See this link for reviews from oour prior guests.  
+
+https://www.airbnb.com/rooms/26280450?guests=1&adults=1&s=67&unique_share_id=511cff07-3003-4ac5-af8a-3aab6f43d5d7
+
+Guest access
+Guests have full access to the main side of the home as described in the listing. Please note, there is a separate private bedroom with its own entrance and en suite bath that may be rented separately at times. If occupied, a securely locked door separates the two spaces to ensure complete privacy for all guests.
+
+Keypad entry is available at both the front and back doors, programmed specifically for your stay using a code of your choice, which will be provided prior to arrival.
+
+Other things to note
+We welcome one well-behaved dog under 30 lbs with prior approval. A $100 non-refundable pet fee and  will be added to your stay and collected 48 hours prior to arrival. A complimentary dog crate is available for your use. Please note that unapproved pets will result in fees processed through the Airbnb Resolution Center.
+
+The home’s location can’t be beat—just minutes from some of East Nashville’s most beloved restaurants, local shops, music venues, and parks. Whether you’re here to explore the vibrant culture or simply relax, you’ll find the best of Nashville right outside your door.
+
+This is our personal home, lovingly maintained and styled for both comfort and charm. We ask that you treat it with the same care and respect we do. No smoking indoors, no drug use, no excessive drinking, and no parties. We value our community and strive to keep it quiet, clean, and enjoyable for everyone.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacey
+Host User ID: 25912979
+Host Profile URL: https://www.airbnb.com/users/show/25912979
+Host Profile URL Source: public user permalink from passport userId
+Love to travel, it feeds my soul!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+8 years hosting
+65 reviews
+5.0 out of 5 average rating
+8 years of hosting

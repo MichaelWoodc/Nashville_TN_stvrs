@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1495170652520516770
+Latitude: 36.1431
+Longitude: -86.6201
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming lake retreat with 2 bedrooms (including a pullout sofa for kids), 2.5 baths, and a trail to Percy Priest Lake right behind the home. Close to downtown and Nashville airport.
+
+The space
+Bedroom 1: Queen bed + private bath
+Bedroom 2: Full-size pullout sofa (best for children)
+🚿 Bathrooms:
+2.5 bathrooms for extra convenience 
+
+Essentials Provided:
+Fresh linens & towels
+Basic toiletries
+Iron & ironing board
+Hair dryer
+Curling Irons
+
+Guest access
+Entire home
+
+Other things to note
+What You’ll Love
+🚗 Free parking on premises
+📶 Fast Wi-Fi
+📺 Smart TV for streaming
+🧺 Washer & dryer
+🍳 Fully equipped kitchen (stove, oven, microwave, coffee maker, cookware, dishes, utensils)
+🧼 Dishwasher
+❄️ Central heating & air conditioning
+🛋️ Cozy living room with plenty of seating
+🌿 Private trail access to Percy Priest Lake
+☕ Outdoor patio (perfect for morning coffee or evening relaxing)
+🛥 0.6 miles to Elm Hill Marina (boat rentals & Shipwreck Cove restaurant)
+💦 Close to Nashville Shores Waterpark (open Memorial Day to Labor Day, fun for all ages!)
+✈️ 4.5 miles to Nashville International Airport
+🌆 20 min to Downtown Nashville 
+🎸12 min to Opryland Hotel and The Grand Ol Opry
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicole
+Host User ID: 111824577
+Host Profile URL: https://www.airbnb.com/users/show/111824577
+Host Profile URL Source: public user permalink from passport userId
+Hey there! I’m Nicole, your Nashville host with a love for good vibes, great food, and southern charm!  Whether you’re here to catch a show at the Grand Ole Opry, hit the lake, or explore Music City’s hidden gems, I’ve got you covered. I’ve designed my space to be cozy, comfy, and welcoming—like staying with a friend. Get ready to relax, explore, and make unforgettable memories!
+My work: Realtor
+I spend too much time: Watching every episode of Law & order
+Response rate: 100%
+Responds within an hour
+1 year hosting
+11 reviews
+5.0 out of 5 average rating
+1 year of hosting

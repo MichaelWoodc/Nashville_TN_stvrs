@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1463808834513898861
+Latitude: 36.23375
+Longitude: -86.58409
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Green Hill, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our peaceful estate on a spacious 1-acre lot, tucked away in a quiet neighborhood yet close to everything! Just 5 minutes from the historic home of the 7th U.S. President—one of Nashville's most visited landmarks—and minutes from the lake, this family-friendly retreat offers the perfect balance of comfort and convenience. You're only 15 minutes from the airport and 20 minutes to downtown Nashville, making it easy to explore the city while enjoying the tranquility of estate living.
+
+The space
+Spacious Home – 3BR/3BA, 1-Acre Yard!
+Sleeps upto 6 | 5 Min to Old Hickory Lake | 10 Min to Mt. Juliet
+
+3 Luxurious Bedrooms
+
+Master Suite (Upstairs): California King bed, private ensuite, walk-in closet.
+
+2 Downstairs Bedrooms: Queen beds, personal closets, easy bathroom access.
+
+Bonus Sleep Space: Comfy sofa bed (+ ping-pong table conversion for fun nights!).
+
+3 Full Bathrooms – No morning queues!
+
+📍 Unbeatable Location:
+5 min to Old Hickory Lake (kayak/fish!).
+
+10 min to Mt. Juliet’s Providence shops/dining.
+
+12 min to BNA Airport | 15 min to Downtown Nashville.
+
+✨ Why Book?
+✔ Space for Everyone: Privacy (split bedrooms) + communal areas.
+✔ Unique Perks: Piano, games, and room to roam.
+✔ Nature + Convenience: Lakeside vibes with city access.
+
+Ideal for: Family reunions, friend getaways, or musicians craving inspiration!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nadeem
+Host User ID: 493810876
+Host Profile URL: https://www.airbnb.com/users/show/493810876
+Host Profile URL Source: public user permalink from passport userId
+Welcome to my wanderlust haven! As a seasoned globetrotter, I'm constantly exploring the world. Now, while I'm away, I invite you to indulge in this serene and beautiful estate. Embrace nature's embrace, breathe in fresh air, and experience true tranquility. Your peaceful and fun-filled stay awaits!
+Speaks English, Hindi, and Punjabi
+Response rate: 100%
+Responds within an hour
+4 years hosting
+18 reviews
+4.56 out of 5 average rating
+4 years of hosting

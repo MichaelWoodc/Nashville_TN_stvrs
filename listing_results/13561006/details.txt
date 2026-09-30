@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/13561006
+Latitude: 36.11206
+Longitude: -86.73308
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming cottage has been completely renovated for comfort and style. Walk atop refinished hardwood floors into rooms featuring contemporary artwork, colorful accent pillows and decorated with music-themed pieces throughout. Includes all the comforts of home, including a fully-stocked kitchen for preparing meals, spices, complimentary coffee, washer and dryer, big screen TV, cable, Wi-Fi, patio furniture and more! Come make yourselves at home!
+
+Brand new renovation with refinished hardwood floors, new kitchen and bath, light fixtures, etc. Initial supply of coffee, cooking utensils, pots and pans, paper products, towels, hand towels, washcloths, shampoo/conditioner, hair dryer and make-up removal towels are provided.
+
+Home is approximately 1,000 sq. ft. Parking in driveway with enough room for four cars. You will be provided an access code before arriving.
+
+Please feel free to text or call during your stay for references to local events, activities in the city or for the basics - like the access code to the WiFi or residence! I live next door to the property, so please feel free to reach out when needed.
+
+Woodbine is a quiet neighborhood only minutes from downtown Nashville. Whether you're attending an outdoor show at The Ascend, a concert or sporting event at Bridgestone Arena or Nissan Stadium, visiting the Country Music Hall of Fame, strolling through Centennial Park or enjoying any of the hundreds of restaurants and clubs for great dining and music, you're only a 10 minute Uber-ride away!
+
+The cottage is 5 miles from downtown Nashville, a $10 Uber/Lyft ride to most anywhere in the city (depending on availability).
+
+Mashburn Heights is a quiet, safe neighborhood with families living nearby.  Please be mindful and considerate of your neighbors and abide by the city noise ordinances.
+
+The space
+Brand new renovation with refinished hardwood floors, new kitchen and bath, light fixtures, etc. Initial supply of coffee, cooking utensils, pots and pans, paper products, towels, hand towels, washcloths, shampoo/conditioner, hair dryer and make-up removal towels are provided.
+
+Guest access
+Home is approximately 1,000 sq. ft. Parking in driveway with enough room for four cars. You will be provided an access code before arriving.
+
+Other things to note
+Mashburn Heights is a quiet, safe neighborhood with families living nearby.  Please be mindful and considerate of your neighbors and abide by the city noise ordinances.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dave
+Host User ID: 78135385
+Host Profile URL: https://www.airbnb.com/users/show/78135385
+Host Profile URL Source: public user permalink from passport userId
+Greetings from Nashville!  I've been a professional musician in Nashville for 30 years.  I recently purchased the home next door to me with the idea of offering  everyone an opportunity to come stay in a really cool place while visiting this city of dreams. Whether you've come to celebrate, to get away from it all, to spend time with loved ones, or simply to enjoy all the great music, sporting events, dining or art our city has to offer, make yourself at home and welcome.  And if you're curious about the music business, or where a killer place to eat or hear some great live music might be, just knock.
+Lives in Nashville, Tennessee
+10 years hosting
+477 reviews
+4.98 out of 5 average rating
+10 years of hosting

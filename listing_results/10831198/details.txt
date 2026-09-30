@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/10831198
+Latitude: 36.3859
+Longitude: -86.9985
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 12
+occupancy: 15
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our log & stone cabin is situated on the bank of a spring fed creek, on 80 acres,  and overlooking a 200 year old Tobacco  barn. It has comfortable, modern furniture, and is appointed with primitive antiques. You'll be at home in the country + close to downtown and the airport.
+
+The space
+The 5 bedrooms are spacious and each has a private bath. There is a large gathering room with a fireplace, comfortable seating and a large television. The large dining room + table seats 16 people. The kitchen is spacious with good storage, double sink (no dishwasher). It has  a basic electric oven and two refrigerators.  There is a large charcoal grill on the back kitchen patio. There is fresh cut wood stacked on that porch for your use in the indoor fireplace and/or outdoor fire pit. Enjoy the outdoors: porches, a  stone fire pit, spring fed creek, walking trails, open meadows and so much more.
+
+Guest access
+Enjoy hiking and even a creek walk if you can take the cool spring fed water. Sit on the barn porch overlooking the creek and allow nature to nourish your soul. Corn hole game and giant jenga are available your enjoyment. There's plenty of firewood for your campfire or indoor fire.
+
+Other things to note
+With advance notice we can serve you a fantastic farm to table meal up at the main inn. We can also deliver, in disposable containers, any meal for you. Again, with advance notice.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sally
+Host User ID: 56081420
+Host Profile URL: https://www.airbnb.com/users/show/56081420
+Host Profile URL Source: public user permalink from passport userId
+My family and I operate a dining inn/retreat/event venue called Hachland Hill.  We offer an authentic Nashville experience. We love nature, good music, good friends, and good food. We offer up to 15 sleeping rooms in two separate inns. On 80 acres, our guests enjoy the best of nature and privacy. Plenty of hiking, outdoor seating and entertainment, like fire pits, corn hole, etc..  We're known for elevated Southern cuisine.  Plan your group or private dining experience with us! Only 25 minutes from the excitement of downtown and from the  airport, you'll find the best of worlds at Hachland Hill.
+Born in the 60s
+My work: Hachland Hill Inn
+Response rate: 100%
+Responds within an hour
+11 years hosting
+401 reviews
+4.87 out of 5 average rating
+11 years of hosting

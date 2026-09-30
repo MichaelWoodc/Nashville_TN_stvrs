@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1209302837081760307
+Latitude: 35.9728
+Longitude: -86.7973
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Amazing location that is close to everything.  Family and Dog friendly home on over an acre with peaceful backyard and plenty of parking.  Bring the whole family to this great place with lots of room for fun.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Melanie
+Host User ID: 102110733
+Host Profile URL: https://www.airbnb.com/users/show/102110733
+Host Profile URL Source: public user permalink from passport userId
+Amazing guest because we have 4 Airbnbs and 1 Long Term.
+Born in the 70s
+My work: Own/Manage Rentals
+Response rate: 100%
+Responds within an hour
+2 years hosting

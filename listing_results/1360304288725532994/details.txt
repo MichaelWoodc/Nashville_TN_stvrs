@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1360304288725532994
+Latitude: 36.24792656501921
+Longitude: -86.73468721521702
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 14
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Our Spacious Retreat for 24 Guests Comfortably!
+Book two of our beautiful homes for the ultimate getaway! Perfect for large groups, family reunions, or special occasions, our combined homes offer space, comfort, and privacy for up to 24 guests.
+
+Whether you're winding down after a day of adventures or spending quality time with loved ones, you'll have all the room and amenities you need for a memorable stay!
+
+The space
+Bed configuration:
+Bedroom #1: 1 king bed, with a private bathroom
+Bedroom #2: 2 twin beds, with a private bathroom
+Bedroom #3: 2 queen beds, with a private bathroom
+Bedroom #4: 2 queen beds, with a private bathroom
+Bedroom #5: 1 king bed, with a private bathroom
+Bedroom #6: 2 twin beds, with a private bathroom
+Bedroom #7: 2 queen beds, with a private bathroom
+Bedroom #8: 2 queen beds, with a private bathroom
+
+Guest access
+This listing includes access to TWO (2!) units, with enough garage space for four vehicles, as well as driveway space for additional vehicles.
+
+Other things to note
+This listing gives you access to two neighboring homes! Each home features 4 spacious bedrooms with private bathrooms, totaling to 8 bedrooms with 8 private bathrooms. 
+Each home includes:
+The primary suite features a king bed with a private bathroom
+The secondary bedroom features a twin-over-twin bunk with a private bathroom
+The third bedroom features two queen beds, with a private bathroom
+The fourth bedroom features two queen beds, with a private bathroom 
+
+Distance to popular attractions:
+Bridgestone Arena/Broadway: 12 minutes (7 miles)
+Music City Center:  12 minutes (7.5 miles)
+Opryland Hotel: 8 minutes (5 miles)
+Ryman Auditorium: 12 minutes (7 miles)
+Grand Ole Opry: 10 minutes (6 miles)
+Centennial Park: 14 minutes (10 miles)
+Belmont University: 15 minutes (12 miles)
+Vanderbilt University: 13 minutes (10 miles)
+East Nashville: 6 minutes (3 miles)
+12 South: 14 minutes (12 miles)
+Wedgewood Houston: 12 minutes (11 miles)
+
+ IMPORTANT DETAILS and HOUSE RULES:
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/ or Events are not permitted at this property & may result in the removal of your group from the premises without a refund. 
+
+House Rules
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move furniture around at all.
+No Confetti or Tape: Please do not use tape or adhesive of any kind on our walls. Damages will be charged to you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 660519333
+Host Profile URL: https://www.airbnb.com/users/show/660519333
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+62 reviews
+4.9 out of 5 average rating
+2 years of hosting

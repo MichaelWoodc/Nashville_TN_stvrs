@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/14534800
+Latitude: 36.23701
+Longitude: -86.71085
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The River House! Amazing 150 ft of private sandy RIVERFRONT home. Sleeps 10 comfortably, gourmet kitchen, installed gas grill on covered porch. Gorgeous spaces in and out to relax, eat and play. Ten minutes from downtown and 3 miles from Gaylord Opryland. Oprymills Mall, Regal movies, restaurants and plenty to do.
+PERMIT NUMBER 2016035149
+
+The space
+THE RIVER!!! Having breakfast by the river, and go down for a soak or sunbathe at the sandy private 150 feet riverfront. And late at night enjoy the moon reflection on the water from the back porch or the loft. Even dining inside. You will make rich memories at The River House.
+
+Guest access
+You will have the whole house to your enjoyment. The River House is just 3 miles from Gaylord Opryland conference center, Oprymills Mall and Regal movies. 10 minutes to Downtown Nashville, and plenty of restaurants nearby.
+
+Other things to note
+riverfront, riverfront, riverfront
+The River House gives a sense of peace and calm the moment you step in. We thought of anything you might need and have done the best to provide it. From good towels and linens to bath salts, Internet, cable, movies, and a clean garage. 
+3 TVs, DVD player, very comfortable mattresses.
+There are Arlo cameras located outside the front and back entrances to the home as an additional safety for guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Graciela
+Host User ID: 89895046
+Host Profile URL: https://www.airbnb.com/users/show/89895046
+Host Profile URL Source: public user permalink from passport userId
+Born in the 50s
+Where I went to school: Buenos Aires, Argentina
+Response rate: 100%
+Responds within an hour
+10 years hosting
+192 reviews
+4.78 out of 5 average rating
+10 years of hosting

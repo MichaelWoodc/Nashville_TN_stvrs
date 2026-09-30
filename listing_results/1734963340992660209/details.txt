@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1734963340992660209
+Latitude: 36.1245
+Longitude: -86.7892
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: 2
+beds: None
+occupancy: 4
+fields_status: missing: beds, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Gilmore, An AvantStay Hote
+Host User ID: 1734963168610479347
+Host Profile URL: https://www.airbnb.com/users/show/1734963168610479347
+Host Profile URL Source: public user permalink from passport userId
+AvantStay makes group travel easy. Our homes are designed for comfort, connection, and memorable moments, with consistent quality you can count on—every time, everywhere.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+2 months hosting
+49 reviews
+4.92 out of 5 average rating
+2 months of hosting

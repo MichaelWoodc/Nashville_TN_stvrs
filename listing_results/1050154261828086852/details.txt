@@ -1,0 +1,94 @@
+URL: https://www.airbnb.com/rooms/1050154261828086852
+Latitude: 36.3986
+Longitude: -86.4573
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Al Fresco Dining & BBQ | ~30 Mi to Nashville | Community Pool & Fitness Center (w/ Fee) 
+
+Retreat to Tennessee with your loved ones and book this Gallatin vacation rental! The home features 3 Smart TVs, a full kitchen, and a deck to relax on after your well-spent days. Take a morning stroll through Thompson Park with your furry friend, then tee off at Long Hollow Golf Course! After, head into town and tour Sumner County Museum or enjoy a movie at The Palace Theatre. The choice is yours!
+
+The space
+SLEEPING ARRANGEMENTS
+- Bedroom 1: 1 queen bed
+- Bedroom 2: 1 full bed
+- Bedroom 3: 1 full bed
+- Additional Sleeping: 1 queen air mattress
+
+INDOOR LIVING
+- 3 Smart TVs w/ cable
+- Dining table & breakfast bar
+- Laptop workspace
+- Washer/dryer
+- Ceiling fans
+
+OUTDOOR LIVING
+- Furnished deck, dining area
+- Charcoal grill (charcoal provided)
+- Private yard
+- Furnished porch
+
+KITCHEN
+- Refrigerator, stove/oven, dishwasher
+- Microwave, food processor
+- Keurig coffee maker
+- Cooking basics
+- Dishware/flatware
+- Trash bags & paper towels
+
+ACCESSIBILITY
+- 2-story home, 1 step to enter
+- 2nd-floor bedrooms & full bathrooms only
+
+PARKING
+- Driveway (2 vehicles)
+- RV/trailer parking on-site
+- Free street parking (first-come, first-served)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- Pet friendly w/ $75 fee (+ fees & taxes, 2 max )
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+
+ADDITIONAL INFORMATION
+- This property sleeps 6 guests in 3 beds, with room for 8 total by using the queen air mattress
+- This 2-story home requires 1 step to enter, and all bedrooms and full bathrooms are located on the 2nd floor and require additional interior steps to access
+- The community pool and fitness center are located at the Gallatin Civic Center and are available for a $5 fee per visit
+
+SECURITY CAMERA INFORMATION
+- Your safety matters. This property features 2 exterior security cameras: 1 camera is located next to the front door facing toward the front entry area, and 1 camera is located on the back of the property facing toward the backyard. These cameras do not look into any interior spaces. These cameras record sound and video when activated by motion and will be on during your stay
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

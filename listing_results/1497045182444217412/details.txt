@@ -1,0 +1,100 @@
+URL: https://www.airbnb.com/rooms/1497045182444217412
+Latitude: 36.1247
+Longitude: -86.7626
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay just 10 minutes from Broadway in a stylish townhome perfect for group getaways. Sleeps 6 comfortably (up to 8), with multiple levels, 3.5 baths, and a private rooftop.
+
+Designed for comfort, space, and ease—ideal for friends, families, or couples traveling together who want to be close to the action without sacrificing comfort.
+
+Sleeping Arrangements:
+King (primary, en suite)
+Queen (full bath)
+Bunk (Full + Twin, en suite)
+Bonus flex space: Twin daybed + half bath
+
+The space
+Enjoy skyline views from your private rooftop, relax in Nashville-inspired bedrooms, and stay just 10 minutes from Broadway. Music City Fusion is designed for unforgettable group getaways
+
+Our modern 3-bedroom, 3.5-bath, 3-story townhome is designed for comfort, style, and convenience—perfect for groups, families, or friends. Just 10 minutes from Broadway and close to top Nashville attractions, this home blends local character with thoughtful amenities.
+
+Living Spaces: A bright family room with cozy seating, smart TV, and Nashville-inspired décor.
+
+Kitchen & Dining: Fully stocked kitchen with modern appliances, four counter stools, and a breakfast nook that seats two—great for coffee or planning your day.
+
+Rooftop Terrace: Expansive rooftop with seating, artificial grass, and wood-tone deck tiles—perfect for lounging, games, or enjoying skyline views.
+
+Extras: garage, laundry area, and high-speed WiFi.
+
+From brunch to movie nights under the stars, Music City Fusion offers the ultimate Nashville stay!
+
+Guest access
+Guests will have full access to the entire home, including:
+
+All bedrooms and bathrooms
+
+Fully stocked kitchen and living areas
+
+Rooftop terrace with seating and artificial grass patch
+
+Laundry area with washer and dryer
+
+Garage parking for one vehicle (additional free street parking available)
+
+Other Things to Note
+The garage is a tighter fit and works best for one vehicle; additional parking for one vehicle right behind the garage door.
+
+For your safety, we’ve provided a fire extinguisher under the kitchen sink, a second extinguisher on the 3rd floor hallway, and fire blankets in the oven drawer.
+
+A CO detector is located in the family room.
+
+The home is three stories plus a rooftop; stair access is required.
+
+Please respect our house rules so all guests can enjoy their stay.
+
+No smoking in the property or on the rooftop.
+
+Other things to note
+Parking: The garage is snug and may not fit two cars. One car can park inside, and another can be parked directly behind the garage door. Please note there is no street parking.
+
+Stairs: This is a 3-story home with a rooftop. Stairs are required to access all bedrooms and the outdoor space.
+
+Dining: The breakfast nook seats 2, and the kitchen counter has 4 stools for additional dining space.
+
+Neighborhood: Centrally located — just minutes from Broadway and Nashville’s top attractions. Please be mindful of neighbors when using the rooftop.
+
+Safety: Smoke and CO detectors are installed. Fire extinguishers and fire blankets are located in the kitchen and upstairs hallway for your peace of mind.
+
+Décor: Each room is Nashville-themed — from music and sports to local culture — for a truly unique stay.
+
+Dedicated work space in bunk room. Perfect for business travelers or families.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Y
+Host User ID: 37990109
+Host Profile URL: https://www.airbnb.com/users/show/37990109
+Host Profile URL Source: public user permalink from passport userId
+As a longtime host, I am obsessed with excellence. Comfort, cleanliness and convenience are always my priority.
+My work: Entertainment Exec
+I spend too much time: looking at home decor
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+104 reviews
+4.98 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1185618399810093422
+Latitude: 36.12456
+Longitude: -86.80864
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just 5 min drive or 20 minute walk to Vanderbilt University Medical Center and in close proximity to all area hospitals.
+On the weekends, take a drive down Music Row, the epicenter of the Nashville music community and a 7 minute drive from the property. This spot is just about a 5-15 minute drive from any side of downtown Nashville. It has a large walk-in closet, large bedroom, and is newly remodeled (2023). Just down the road from Whole Foods, Trader Joe’s, and Green Hills shopping.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joshua
+Host User ID: 110499789
+Host Profile URL: https://www.airbnb.com/users/show/110499789
+Host Profile URL Source: public user permalink from passport userId
+Born in the 00s
+Where I went to school: Belmont University
+Response rate: 100%
+Responds within an hour
+2 years hosting
+85 reviews
+4.94 out of 5 average rating
+2 years of hosting

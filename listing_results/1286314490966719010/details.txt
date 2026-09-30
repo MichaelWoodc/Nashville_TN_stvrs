@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1286314490966719010
+Latitude: 36.156777773537385
+Longitude: -86.8061088082805
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 11
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home in the heart of Nashville, appointed with high-end appliances, furniture and accompanied by luxurious beds and linens for an unmatched stay. Enjoy the privacy of a fully fenced yard, and unwind on the half-covered rooftop patio offering breathtaking views of the downtown skyline. Its prime location puts you just minutes from Broadway, Music Row, Midtown, Germantown, the Gulch, and Centennial Park, with easy access to grocery stores, universities, and medical facilities.
+
+The space
+A modern design single-family home with 4 bedrooms and 3.5 bathrooms, featuring open-concept living-dining-kitchen area and a half-covered rooftop deck.
+
+-- First Floor -- 
+Living Room, Dining Room, Kitchen
+Half Bathroom
+Bedroom 1 with Ensuite Full Bathroom 1
+Full Fenced Backyard
+2-Parking Carport
+
+-- Second Floor -- 
+Bedroom 2
+Bedroom 3
+Full Bathroom 2
+Bedroom 4 (Master Bedroom)  with Ensuite Full Bathroom 3
+Laundry Room
+
+-- Third Floor -- 
+Rooftop Deck
+
+Guest access
+Whole home with exception of locked storage spaces.
+
+Other things to note
+** No Cleaning Fee and No Chores! **
+Just lock the doors when you leave, and our team will take care of everything else!
+
+** No Shoe Policy **
+We’re so excited to have you here. To maintain a clean and comfortable space, we have a no-shoe policy.
+
+To make your visit even more enjoyable, we’ve provided brand-new slippers for you to wear while you’re here—and they’re yours to take home afterward as a small token of our appreciation!
+
+Thank you for helping us keep our home cozy and clean. We hope you enjoy your time here!
+
+Registration Details
+CASR 2024105417
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sho
+Host User ID: 509643548
+Host Profile URL: https://www.airbnb.com/users/show/509643548
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+83 reviews
+4.99 out of 5 average rating
+2 years of hosting

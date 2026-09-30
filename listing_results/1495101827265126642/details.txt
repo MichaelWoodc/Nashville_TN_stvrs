@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1495101827265126642
+Latitude: 36.1706
+Longitude: -86.7553
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a fully remodeled 1930s Craftsman in East Nashville, just across the river from downtown. Walk to coffee shops, boutiques, and the stadium, or reach Broadway in 6 minutes by car. With 3 bedrooms, 2 baths, and modern updates blended with historic Southern charm, it’s the perfect spot to relax and experience Nashville like a local.
+
+The space
+There is a main living room next to the kitchen, with the main entry point to the home being in the backyard. To the left is the kitchen and living room area, to the right is the staircase to the upstairs space and bathroom! The upstairs sleeps roughly 5 people with 1 single bed, 1 full-sized bed, and 1 queen-sized bed with it's own dedicated bathroom!
+
+The main floor past the kitchen and living room has two additional bedrooms. One with an office and daybed that can sleep two guests comfortably. The other bedroom has a Queen for another two guests, and a bathroom between the two bedrooms!
+
+Guest access
+Guests will have access to the entire home and backyard! Pull up into the alley to the gate with the redwood, and there's a concrete parking pad for guests. The backyard has plenty of space for the gang to hang out in, and leads to the main entry of the home.
+
+Other things to note
+During your stay we ask that you remember to be respectful of your neighbors. Quiet hours are from 11 pm- 7 am.
+
+**PETS - If you bring a service animal/pet to the house and there is excessive mess or damage left behind, we have to assess a $100 minimum fee for cleanup to pay the cleaners.
+
+**SMOKING - Our house is also strictly no smoking. Please respect my home, as we have to also charge a minimum $100 fee to make sure the smell doesn't linger for the next guest.
+
+Please treat this property with the respect you would like shown to your own home. I get that accidents happen—some more sober than others! So thank you, I appreciate you for respecting my home 😊
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Benjamin
+Host User ID: 49554297
+Host Profile URL: https://www.airbnb.com/users/show/49554297
+Host Profile URL Source: public user permalink from passport userId
+Ben & David from Nashville, Tennessee
+Born in the 90s
+Where I went to school: University of British Columbia
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+37 reviews
+5.0 out of 5 average rating
+1 year of hosting

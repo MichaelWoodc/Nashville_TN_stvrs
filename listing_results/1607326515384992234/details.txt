@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1607326515384992234
+Latitude: 36.12902975933843
+Longitude: -86.77857617574149
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Registration id2018038775
+
+Infuse your getaway with the unbeatable spirit of Music City. Just a short drive from Downtown Nashville, this spacious home is thoughtfully designed with artistic nods to the city’s legendary music scene in every room.
+
+The space
+The main living area features a roomy leather sectional perfect for gathering, while a football table adds a fun touch between the living room and the large, fully equipped kitchen. Head to the recreation room for a game of pool or settle in for a cozy movie night with your group.
+With three bedrooms—each offering a private ensuite bathroom—everyone can enjoy comfort and privacy throughout their stay. After a day of live music, Southern dining, and exploring the city, this property, provides the perfect place to unwind and feel right at home.
+
+Guest access
+Parking Details
+• Space for 2 cars in front of the garage.
+• On-street parking is available on surrounding streets.
+
+Other things to note
+Registration id2018038775
+
+**You must be 25 or older to book this property. ID will be verified in accordance with Airbnb Age Restriction Policies**
+
+Accidental Damage Protection: A non-refundable accidental damage protection plan is included in the price of your reservation. Under this plan, you will not be held responsible to pay for accidental damage or loss to the property resulting from you or the guests in your party up to $10,000. This plan does not cover intentional acts of a guest, gross negligence, or willful and wanton conduct. This plan is only available for stays less than 30 nights.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Time And Place
+Host User ID: 498092235
+Host Profile URL: https://www.airbnb.com/users/show/498092235
+Host Profile URL Source: public user permalink from passport userId
+At Time & Place, we believe in bringing families and friends together, under one roof, in luxurious vacation homes. To gather and play in beautiful spaces, and to create memories that will live on forever. To that end, Time & Place offers ultra-premium travel experiences with no compromises. You can truly have it all, exactly as you wish. Our homes come with a level of personal service and attention to detail that's second to none.
+My work: Property Manager
+Speaks English and Spanish
+Response rate: 96%
+Responds within an hour
+Superhost
+4 years hosting
+379 reviews
+4.87 out of 5 average rating
+4 years of hosting

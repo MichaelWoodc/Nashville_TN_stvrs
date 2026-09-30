@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1232026739804483799
+Latitude: 36.232
+Longitude: -86.7246
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay close to Nashville’s downtown energy in this modern condo near Broadway. Walk to live music, dining, entertainment, and popular attractions, with Bridgestone Arena, SoBro, The Gulch, and more nearby. Contemporary comforts and a central location make it easy to explore Music City throughout the late-summer and early-fall season.
+
+The space
+The Space
+
+Bedrooms: 3
+Bedroom 1: King bed with en-suite bathroom
+Bedroom 2: Two Queen beds with en-suite bathroom
+Bedroom 3: Full bunk bed with trundle, desk area, and adjacent bathroom (shower/tub)
+Premium touches: modern fixtures, upscale appliances, and a fully stocked kitchen
+Enjoy a private balcony, plus shared rooftop access with a fire pit, and game room!
+
+Guest access
+Guest Access -
+The condo has a convenient side entrance from the parking lot. You’ll receive a unique door code before check-in. Elevator access to the 3rd floor brings you to Unit #306, located at the end of the hallway.
+
+Location Highlights Easy access to:
+
+Opryland: 5 mins
+Airport: 10 mins
+Broadway: 15 mins
+E+Rose Wellness Cafe-1 block
+
+Good to Know-
+This is a 3rd-floor unit; occasional noise from upstairs neighbors may occur.
+Though centrally located, this property is best accessed by car.
+Embrace Nashville’s culture and comfort in this beautiful condo – your stylish retreat awaits!
+
+Other things to note
+Please read before you book!
+- This space is a short drive from most places but not very walkable
+- This is a 3rd floor unit with neighbors above, so please expect potential noise.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tamara
+Host User ID: 598429053
+Host Profile URL: https://www.airbnb.com/users/show/598429053
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in West Chester, Pennsylvania
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+47 reviews
+4.96 out of 5 average rating
+2 years of hosting

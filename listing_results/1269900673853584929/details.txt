@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1269900673853584929
+Latitude: 36.1781
+Longitude: -86.6001
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The perfect central location to experience all things Nashville, yet private enough to enjoy the wooded backyard featuring a fire pit, large screened in porch + outdoor dining area. Just 20 mins from downtown Nashville, 15 mins to the Opry and a quick 10 minute drive to the airport! The full kitchen and living space is cozy, yet designed with an open-layout perfect for entertaining your group. Access + privacy of entire home and laundry access! Sleeps 6 but happy to accommodate extra guests.
+
+The space
+My property offers three inviting bedrooms, each including Roku TVs and blackout shades/curtains. There are two full bathrooms including a spacious master suite with a roomy shower, a seated makeup vanity, and a heated bidet for extra comfort. The open-concept living and dining area features a large TV and an electric fireplace. The fully equipped kitchen has all the appliances, big or small, plus all the essentials you need to cook any meal. The back of the house features a completely private screened-in porch that overlooks the peaceful wooded backyard filled with all sorts of wildlife.
+
+Guest access
+A code to access the front and side doors will be sent to you the morning of check-in at 11am.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maddie
+Host User ID: 427585267
+Host Profile URL: https://www.airbnb.com/users/show/427585267
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Airbnb Host
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+380 reviews
+4.95 out of 5 average rating
+3 years of hosting

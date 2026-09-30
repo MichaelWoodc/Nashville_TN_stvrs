@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/1504294016856611797
+Latitude: 36.19409
+Longitude: -86.76221
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your cozy hideaway - A brand-new studio in East Nashville’s hip Cleveland Park! Enjoy a king bed, chic finishes, natural light, and thoughtful touches in an amenity-packed space. The location is unbeatable:
+
+-Walk to top restaurants, bars, and coffee
+-Downtown in under 10 minutes via rideshare. 
+
+Featured Amenities:
+
+-Rooftop deck, showcasing Nashville's skyline
+-Rooftop Firepit
+-Onsite Peloton + Echelon fitness mirror
+
+This space is a perfect home base for exploring Music City!
+
+The space
+Welcome to the coziest retreat in East Nashville, right in the heart of Cleveland Park. 
+
+This studio condo blends modern design with thoughtful finishes, offering guests a bright and comfortable home base just minutes from all the action.
+
+The space features a plush king-size bed, a well-equipped full kitchen, and a flexible workspace with lightning-fast Google Fiber internet—perfect for both leisure and business travelers. Natural light pours through the windows, giving the studio an open, light, airy feel. For added convenience, you’ll also enjoy a full-size washer and dryer right in the unit.
+
+Step outside and take advantage of the building’s amenities: a rooftop deck with sweeping Nashville views, a fire pit, fitness area with Peloton and Echelon mirror, and free onsite parking. Make sure to take advantage of the next door convenience of Memento Coffee for a morning latte or afternoon snack!
+
+Best of all, you’re staying in one of Nashville’s most vibrant neighborhoods. Cleveland Park puts you within walking distance of top restaurants like Audrey, Xiao Bao, Folk, and Red Headed Stranger, as well as neighborhood favorites like Southern Grist Brewing and Golden Pony. 
+
+Downtown and Broadway are less than a 10-minute drive, Nissan Stadium and River North are even closer - just 2.5 miles away - and the airport is only 15 minutes from your door.
+
+Multiple functional amenities are close by!
+
+Publix - 1.2 miles
+Kroger 1.8 miles
+Turnip Truck - 2 miles
+Walgreens - 1.5 miles
+
+Other noteworthy locations within 10 miles:
+
+Grand Ole Opry
+The Gulch
+Belmont / Vanderbilt
+Germantown
+Centennial Park / Shelby Park
+WeHo
+Green Hills Mall
+
+Whether you’re here for a quick getaway, a concert, or a longer stay to soak up East Nashville's legendary culture, this is your perfect homebase to experience Music City.
+
+Guest access
+Entire unit, Rooftop Deck and 3rd Floor Terrace, Fitness Area
+
+Other things to note
+Booking party must be 21 years of age or older.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ben
+Host User ID: 64165879
+Host Profile URL: https://www.airbnb.com/users/show/64165879
+Host Profile URL Source: public user permalink from passport userId
+My work: Real estate
+Lives in Prairie Village, Kansas
+Response rate: 100%
+Responds within a few hours
+Superhost
+1 year hosting
+20 reviews
+5.0 out of 5 average rating
+1 year of hosting

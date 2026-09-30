@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1371243776626861688
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Blush-n-Bloom-a chic retreat  in the heart of Nashville! Just steps from the Honky Tonks, Convention Center, and Bridgestone Arena. This 2-bedroom, 2-bath escape blends soft blush hues and floral accents for a vibrant, stylish stay. Perfect for celebrating and unwinding with your besties! Enjoy a cozy living space, fully equipped kitchen, and plush bedrooms. Lounge poolside, grill outdoors, hit the gym, or relax in the stylish lounge. Let the good times bloom in Music City!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gail
+Host User ID: 682799879
+Host Profile URL: https://www.airbnb.com/users/show/682799879
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 97%
+Responds within an hour
+Superhost
+2 years hosting
+116 reviews
+4.94 out of 5 average rating
+2 years of hosting

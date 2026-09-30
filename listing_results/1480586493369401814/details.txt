@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1480586493369401814
+Latitude: 36.20700407349315
+Longitude: -86.79635521858279
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your ultimate getaway in Nashville — a brand new 4BR 4BA, 3-story home designed for laid-back luxury, friendly competition, and nights you won’t forget.
+This spot is perfect for bachelor parties and group weekends with the crew. This house has everything you need — including a golf arcade game, rooftop hangout, and private hot tub in the garage.
+-Private hot tub
+-Golf arcade game
+-Rooftop deck w/ skyline views
+-Smart TVs in every bedroom
+-10 mins to Broadway & TopGolf
+
+Guest access
+The entire home is all yours to enjoy and get comfortable!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauryl
+Host User ID: 711592133
+Host Profile URL: https://www.airbnb.com/users/show/711592133
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+38 reviews
+4.97 out of 5 average rating
+1 year of hosting

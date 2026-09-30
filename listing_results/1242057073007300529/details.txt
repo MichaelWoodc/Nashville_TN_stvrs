@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1242057073007300529
+Latitude: 36.2643
+Longitude: -86.8305
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Calling all history buffs and city explorers! Immerse yourself in the charm of Whites Creek and stay at 'Earthman Cottage,' a 2-bedroom, 1-bath vacation rental. Just steps from a storied saloon where Jesse James's gang once met their fate, this cozy home invites you to relive the past while enjoying modern comforts. Spend your days exploring the serene trails or practicing your swing on the lush golf courses before heading to Honky Tonk Highway for live music and great drinks. Book today!
+
+The space
+T2024026558 | Natural Gas Fire Pit | Spacious Yard | In-Unit Laundry
+
+Bedroom 1: Queen Bed | Bedroom 2: Queen Bed
+
+MAIN FEATURES: Smart TVs, dining table, 2 gas fireplaces, board games, ceiling fans, deck w/ patio furniture
+KITCHEN: Refrigerator, microwave, gas stove, oven, dishwasher, Keurig coffee maker (starter coffee provided), toaster, blender, pots/pans, dishware/flatware, cooking basics
+GENERAL: Free WiFi, towels/linens, complimentary toiletries, central A/C & heating, hair dryer, clothes hangers, trash bags/paper towels
+FAQ: 2 exterior security cameras (outward facing)
+ACCESSIBILITY: Single-story home, 2 steps to enter
+PARKING: Driveway (3 vehicles)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Must be at least 25 years old to book
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: Your safety matters. This property features 2 exterior security cameras. Camera 1 is a Ring doorbell device with an exterior security camera at the back door facing the entryway, and camera 2 is on the side of the house facing the side yard. The cameras are outward facing and do not look into any interior spaces. They record video and audio when motion is detected or when the video doorbell button is pressed
+- NOTE: This single-story home requires 2 steps to enter
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1053050035824446070
+Latitude: 36.2072
+Longitude: -86.7666
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Chic tri-level open-concept townhome just minutes from all the excitement in Downtown Nashville. Relax on the patio with gas fire bowl until it is time to hit the World Famous Honky Tonks! Fully equipped kitchen including Keurig for making coffee or tea after a long night out. Extremely convenient to all the hot eateries of East Nashville, and you can even walk to Crema, a local coffee shop down the block. 
+
+We can’t wait to host you & your friends and family on your Nashville adventure!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 629420
+Host Profile URL: https://www.airbnb.com/users/show/629420
+Host Profile URL Source: public user permalink from passport userId
+Traveling the world one Airbnb at a time!
+Born in the 80s
+Where I went to school: Florida State & Nova Southeastern
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+492 reviews
+4.89 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/12345794
+Latitude: 36.1052
+Longitude: -86.60074
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our guest suite, located on the lower level of our home.  We offer driveway parking, a private entrance, a tranquil bedroom, full bath, living space furnished with a daybed & trundle along with a mini kitchenette. Our home is nestled on 2 acres in the Cedar Glade Natural area beside Percy Priest Lake, just 8 miles from the airport. Enjoy all downtown Nashville has to offer (13 miles away) then come home, sit back relax in the serene setting on the patio, gazebo or inside our cozy suite.
+
+The space
+The bedroom has a very comfortable queen size bed, a nightstand, dresser, luggage rack and ample closet space. In the main living space there is a couch, multiple chairs, end tables, desk, footstool, TV, DVD player, movies, books  & games. There is a daybed, trundle, dresser, small dinner table, kitchenette with a microwave, mini refrigerator, coffee pot, water dispenser, complementary breakfast items, snacks, coffee & teas and more.
+
+Guest access
+Enjoy our outdoor seating in the gazebo or the open sky at the patio table with seating for 4 surrounded by flowers, in season of course. Open for dinning outside or doing a little work. 
+
+Throughout the day you might get to see a few deer grazing as they pass through our yard on a regular basis.
+
+Other things to note
+We believe you will love your stay with us. Our space is decorated with an eclectic décor, drops of color and an artful eye.  We have tried to think of all situations that could arise and prepare the space and supplies to meet all your needs! I believe this is what makes us stand out from other Airbnbs.  
+ 
+You are likely to hear us stirring around in the upper part of the home because our floor is your ceiling.  We have one dog that live upstairs and her paws do go pitter patter on the floor some.  We do try to keep the noise to a minimum, when guest are here.
+
+The space is a smoke free environment, inside and out. It is not suitable for parties or other pets. There is plenty of driveway and yard for you to pull a boat and park it close to the house.  
+
+Our guest enjoyed their stay with us because the location is convenient to the Nashville's actractions but far enough away where one can relax and unwind.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Todd & Jill
+Host User ID: 63548165
+Host Profile URL: https://www.airbnb.com/users/show/63548165
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+275 reviews
+4.93 out of 5 average rating
+8 years of hosting

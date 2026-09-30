@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/10353731
+Latitude: 36.18746
+Longitude: -86.71662
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern Design Meets Cozy Charm in East Nashville. 
+Welcome to this beautifully rebuilt 3-bedroom, 2.5-bath designer home, thoughtfully crafted by PROFILE + PRINCIPLE in 2024. Spanning 2,500 sq ft, this architectural gem offers a harmonious blend of style and comfort, perfect for your Nashville getaway. GUESTS MUST BE 18 YEARS OR OLDER.
+
+The space
+The home features a stunning solarium dining room with an 8-person table, bathed in natural light, and offering a peaceful view of the tranquil courtyard. Relax by the large fireplace in the spacious living areas, where quarry tile floors and warm finishes create an inviting atmosphere. Step outside to the serene outdoor space, where the stucco exterior and private courtyard, complete with a small plunge pool, offer a perfect place to unwind after exploring the city.
+
+Located just 15 minutes from downtown Nashville and 5 minutes from the lively Five Points area, the home offers the best of both worlds—a quiet retreat with convenient access to all the action. Off-street parking, airy rooms filled with light, and homey touches throughout ensure you feel right at home during your stay.
+
+Nestled in the heart of East Nashville, you'll be less than a mile from trendy cafes, local restaurants, and the area’s vibrant culture and a 10 minute drive to downtown while enjoying the peace and comfort of your own inviting sanctuary in a quiet and safe neighborhood.
+
+Please note: Any reviews from before 2024 reflect the property’s previous setup as a single-room rental. Since then, the home has been completely rebuilt into the stunning 3-bedroom, 2.5-bath residence you see today.
+
+Guest access
+Front door keypad. Patio door must be locked and unlocked from the inside. Gate can be opened or closed by a latch.
+
+Other things to note
+We’ve invested a great deal of care and thought into creating a comfortable, beautiful space with mid-century modern furnishings and carefully selected amenities. We kindly ask that guests treat the home with respect, as if it were their own, so that everyone can enjoy it for years to come. We also value our relationship with the neighbors and ask that you be mindful of noise and maintain a respectful environment. With that said we do not allow parties or group gatherings. Only listed guests. Thank you for your understanding! GUESTS MUST BE 18 YEARS OR OLDER. The plunge pool and fireplace are both seasonal.
+
+Registration Details
+T2024097198
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mel
+Host User ID: 6539199
+Host Profile URL: https://www.airbnb.com/users/show/6539199
+Host Profile URL Source: public user permalink from passport userId
+My work: Business Owner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+188 reviews
+4.92 out of 5 average rating
+11 years of hosting

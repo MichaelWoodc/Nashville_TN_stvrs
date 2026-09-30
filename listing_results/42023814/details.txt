@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/42023814
+Latitude: 36.13052
+Longitude: -86.78177
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautifully renovated Modern Cottage in the heart of Nashville. Walk to all the restaurants and shops in Nashville’s hottest neighborhood- 12 South. Gated yard, private parking, California King bed, claw foot tub, and screened in porch! Centrally located (6 min drive/uber to Gulch and Downtown)
+
+The space
+Entire House
+
+Other things to note
+Will consider pets on a case by case basis with a $50/night pet fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 137159385
+Host Profile URL: https://www.airbnb.com/users/show/137159385
+Host Profile URL Source: public user permalink from passport userId
+Originally from Arkansas, but moved to Nashville in 2010 and fell in love with the city! I work in cybersecurity, coach youth soccer, run a food blog, love live music, college football, premier league soccer, exercise, interior design, the great outdoors, and good conversation! I love to host and hope to make your stay a great experience!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+578 reviews
+4.98 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/1168205561402749910
+Latitude: 36.1758
+Longitude: -86.4875
+rental_type: Private room in cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Forget your worries in this spacious and serene space. Can go outback with a private lake view, very easy parking. Full kitchen,  Quite at night for there is another tenant living in above apartment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 580583027
+Host Profile URL: https://www.airbnb.com/users/show/580583027
+Host Profile URL Source: public user permalink from passport userId
+2 years hosting

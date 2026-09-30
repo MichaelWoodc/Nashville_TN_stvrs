@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1093588452473562060
+Latitude: 36.1829
+Longitude: -86.72154
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our quaint older home in East Nashville, home of musicians & artists.  This culturally diverse area is chock full of trendy bars & restaurants, all within minutes driving or walking, and less than 10 minutes from downtown & Music Row.  Easy access to everything from this centrally located place.  Enjoy super fast internet, our big back yard which is regularly visited by white tail deer, sleep in late and enjoy fresh coffee & donuts  or some fresh ice cream just down the street.
+
+The space
+3 bed, 2 bath, office space w/ daybed and queen size portable folding mattress, large living areas and spacious back yard.
+
+Guest access
+Guests have use of all of house other than locked areas.
+
+Registration Details
+STR Permit# 2023093860
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: J. Robert
+Host User ID: 4470657
+Host Profile URL: https://www.airbnb.com/users/show/4470657
+Host Profile URL Source: public user permalink from passport userId
+We live in Wheatland, CA (north of Sacramento) & Nashville, TN.
+Where I went to school: Cal Poly SLO; UC Davis, Vet Med
+My work: Retired Veterinarian
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+33 reviews
+4.97 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1026927471114754084
+Latitude: 36.1686
+Longitude: -86.7952
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into The Vintage Vibe House, a groovy residence that effortlessly blends modern-retro aesthetics with a primo location just a skip away from downtown Nashville. This pad has been artfully crafted to conjure a one-of-a-kind atmosphere, radiating both city chic and retro coolness!
+
+The space
+Located in the heart of Nashville, this beautiful home is a perfect destination for those seeking to experience the vibrant energy of the city. It is situated in an ideal location, with easy access to all of the city's most popular neighborhoods, such as Germantown, Marathon Village, and The Gulch.  
+
+It features high-speed Wi-Fi and a fully stocked kitchen. Quick access to Broadway, the Ryman, and Bridgestone, you'll be able to explore the city's music and entertainment scene with ease.
+
+Guest access
+You will receive a door code and detailed directions two days before arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 1477422
+Host Profile URL: https://www.airbnb.com/users/show/1477422
+Host Profile URL Source: public user permalink from passport userId
+i’m a Nashville native and I’ve lived downtown Nashville for over 15 years I love and enjoy new restaurants and live music.
+Born in the 80s
+Where I went to school: Vanderbilt
+Response rate: 100%
+Responds within an hour
+6 years hosting
+274 reviews
+4.69 out of 5 average rating
+6 years of hosting

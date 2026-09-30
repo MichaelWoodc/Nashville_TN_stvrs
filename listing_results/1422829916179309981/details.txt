@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1422829916179309981
+Latitude: 36.07338347673574
+Longitude: -86.71933662174804
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Disco Den is a vibrant, music-inspired tiny house just 15 minutes from Nashville Airport and 15 minutes from downtown. With colorful decor, funky lighting, and cozy furnishings, it sleeps 4 comfortably. Enjoy a kitchenette, Roku Smart TV, Wi-Fi, and a private outdoor fire pit. On-site parking for 2 vehicles. Perfect for couples or friends seeking a fun, laid-back escape outside the city, with all Nashville’s sights just a quick drive away. 
+
+Book now for a unique Nashville experience!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ben
+Host User ID: 163510002
+Host Profile URL: https://www.airbnb.com/users/show/163510002
+Host Profile URL Source: public user permalink from passport userId
+As a sales manager and I get the luxury of traveling often. Otherwise I’m a dog lover, outdoor enthusiast, and amateur foodie!
+Born in the 90s
+Where I went to school: University of Arizona
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+103 reviews
+4.92 out of 5 average rating
+1 year of hosting

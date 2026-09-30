@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1247184706749620021
+Latitude: 36.2954
+Longitude: -86.6466
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect for a couples getaway! Bring your boat! Steeped in local tradition, this stylish space beckons you to kick back, relax and have fun! Only 20 minutes to Nashville. Enjoy our paddle boards, canoe or kayaks and a beautiful sunset on 96 mile Old Hickory Lake and even a boat slip! Walking distance to Anchor High Marina and the Rudder Bar and Grill waterfront. There are several other marinas with restaurants and boat rentals here on Old Hickory Lake! Experience, Nashville, like the locals!
+
+The space
+Gorgeous property with mature trees, and lake access. Great king size, 1 bedroom apartment with shared deck, dock with slip, paddle boards, and kayaks, and huge back yard on 96 mile Old Hickory Lake and only 20 minutes to Nashville
+
+Guest access
+Full, private lower level guest apartment and shared deck plus huge shared back yard and boat dock with paddle boards, kayaks, and a canoe. Chairs and, weather permitting, fire pit and gas grill. We also have some outdoor Lawn games like cornhole and a hook and loop game.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cyndy
+Host User ID: 160756652
+Host Profile URL: https://www.airbnb.com/users/show/160756652
+Host Profile URL Source: public user permalink from passport userId
+We are an entrepreneurially spirited family, and we have been in the Nashville area, operating several local businesses, for almost 15 years. During the summer months, you can usually find me in the garden, or find us out back jet skiing or down south of Nashville enjoying Tennessee Walking Horse shows. On the rare date night we enjoy the cuisine and live music downtown. we also love to travel both domestic and internationally and we love diving.
+Born in the 80s
+Fun fact: I’m really good at backing up trailers
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+157 reviews
+4.91 out of 5 average rating
+3 years of hosting

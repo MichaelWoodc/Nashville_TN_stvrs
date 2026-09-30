@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1261212592859308250
+Latitude: 36.1793
+Longitude: -86.7686
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Elevate your Music City experience with breathtaking skyline views from a rooftop deck, featuring a grill and seating for 12. Minutes from Nissan Stadium, Broadway, and the trendy East Nashville dining scene, you'll be immersed in all the city's top attractions. Inside, enjoy endless fun with foosball, air hockey, ping-pong, 4K TVs, and a Sonos sound system. Perfect for family reunions, corporate stays, or bachelor/bachelorette parties. 
+
+Make entertainment and relaxation memories of a lifetime!
+
+Other things to note
+Metropolitan Government of Nashville and Davidson County
+Department of Codes and Building Safety Permit:2024101472
+
+One parking spot in the driveway in front of the garage. Plenty of street parking for other guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 46249653
+Host Profile URL: https://www.airbnb.com/users/show/46249653
+Host Profile URL Source: public user permalink from passport userId
+I travel often to explore culture in many all places.
+My work: Sales
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+238 reviews
+4.88 out of 5 average rating
+9 years of hosting

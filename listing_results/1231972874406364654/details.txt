@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1231972874406364654
+Latitude: 36.20901
+Longitude: -86.76675
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern and Spacious with great decor and only 10 minutes from lower Broadway! A stone's throw to everything in East Nashville! This home is fully equipped to you need to enjoy your stay is music city! Enjoy a stylish experience at this centrally-located place. Our southern charm decor will bring you home to Nashville after a long day out on the town.
+
+The space
+-> Bedroom 1: king bed w. ensuite bath (shower only) and large closet
+-> Bedroom 2: two full size beds, full bath (bathtub) in the hall + balcony!
+-> Living room has fold out sofa bed + a 1/2 bath!
+-> Fully equipped kitchen and bar seating for 4!
+
+Unit comes with two parking spaces inside our gate
+
+Other things to note
+Central to it ALL!
+
+Nissan Stadium-> 8 min
+Bridgestone-> 12 min
+Broadway -> 14 min
+Midtown-> 16 min
+Five Points -> 8 min
+Opryland -> 20 min
+BNA -> 14 min
+Soccer Complex -> 14 min
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City Stays
+Host User ID: 598410005
+Host Profile URL: https://www.airbnb.com/users/show/598410005
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Vacation Rentals
+Response rate: 98%
+Responds within an hour
+2 years hosting
+324 reviews
+4.61 out of 5 average rating
+2 years of hosting

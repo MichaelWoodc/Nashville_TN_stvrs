@@ -1,0 +1,6 @@
+.nashville_cache/
+__pycache__/
+*.pyc
+/Parcels*.csv
+*.tmp
+oversized_files_for_git/

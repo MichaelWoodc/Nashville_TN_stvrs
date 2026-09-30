@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1390273507807233504
+Latitude: 36.19666289273737
+Longitude: -86.7809179571581
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into luxury with this stunning 3-bedroom home, nestled in the desirable Cumberland Heights neighborhood, just 5 minutes from the iconic Broadway, The Modern Luxury House embodies sophisticated living at its finest. This chic retreat comfortably sleeps 10 guests and offers convenient parking for two vehicles and lots of free street parking
+
+The space
+The Modern Luxury Home offers four stories of exceptional living space, including four spacious bedrooms, each with its own ensuite bathroom for added privacy. The open-concept kitchen and living area provide the perfect setting for gathering and relaxing, but the real showstopper is the rooftop enjoying the view. Every room is a blend of comfort and style. Whether you're planning a bachelorette trip, birthday celebration, or a large group getaway, The Modern Luxury Home is the ultimate destination for memorable moments.
+
+Guest access
+Things You'll Love:
+◆ Quick drive away from iconic Broadway and other Nashville spots
+◆ Rooftop with skyline views and hot tub.
+◆ Gourmet kitchen featuring high-end appliances.
+◆ Open-concept living area features a spacious oversized sectional and a wall-mounted smart television
+◆ Garage and driveway parking, and free street parking for additional cars.
+
+Sleeping Arrangements:
+
+Second Floor
+◆ Bedroom 1 - Queen Bed with ensuite full bathroom
+
+Third Floor
+◆ Bedroom 2 - Queen Bed with ensuite full bathroom
+◆ Bedroom 3 - Queen Bed, Bunk Bed with Full and single bed combo, 2 queen air mattresses with ensuite full bathroom
+
+Other things to note
+NO PARTIES ARE ALLOWED at all times and violators will be fined 500 dollars and asked to leave!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aj
+Host User ID: 71879937
+Host Profile URL: https://www.airbnb.com/users/show/71879937
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 95%
+Responds within an hour
+10 years hosting
+237 reviews
+4.21 out of 5 average rating
+10 years of hosting

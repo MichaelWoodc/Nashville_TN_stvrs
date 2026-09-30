@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1456791254698681144
+Latitude: 36.2311
+Longitude: -86.7247
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Stylish Southern Comfort at The Haysboro!
+
+Live like a local in the vibrant and walkable East Nashville neighborhood of Inglewood. This tastefully designed 1-bedroom, 1-bathroom mid-term rental is nestled in The Haysboro, a boutique condo community known for its retro-modern charm, high-end finishes, and unique character.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shilough
+Host User ID: 591708426
+Host Profile URL: https://www.airbnb.com/users/show/591708426
+Host Profile URL Source: public user permalink from passport userId
+Real estate professional who travels a lot for work and pleasure!
+Born in the 70s
+Where I went to school: Alaska
+Response rate: 100%
+Responds within an hour
+2 years hosting
+17 reviews
+4.71 out of 5 average rating
+2 years of hosting

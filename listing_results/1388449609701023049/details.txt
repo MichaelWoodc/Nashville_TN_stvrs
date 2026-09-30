@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1388449609701023049
+Latitude: 36.19260093014913
+Longitude: -86.76176906958753
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ten minutes from downtown, nestled in the heart of the quiet and quaint Cleveland Park neighborhood, this retreat is close to many of the best restaurants in Nashville and mere moments from several coffee shops. 
+
+The guesthouse features two bedrooms with queen beds, two full bathrooms, full and functional kitchen, dining table for four, pull out queen size sofa sleeper, and porch with bistro table. 
+
+Kitchen features Nespresso machine, French press, toaster oven. Throw blankets in every room.
+
+The space
+Bedroom 1: Ensuite bathroom with bathtub shower, queen bed, closet, suitcase valet. Three speed ceiling fan.  Beautiful afternoon sun.
+
+Bedroom 2:  Queen bed, bathroom with bathtub shower and second door passthrough to living space.  Closet and suitcase valet. Three speed ceiling fan.  Wake up with the morning sun.
+
+Living Room: Sofa pulls out into a queen sleeper for your fifth and sixth guests.  Sleeper sofa can be set up for sleeping upon your arrival upon request.  Three speed ceiling fan.  Smart TV allows you to sign in to your streaming accounts or plug in and connect your phone.
+
+Kitchen is fully stocked for all your cooking needs.  Brita water filter and light condiments available.  Full set of pots, pans, dishes, glasses, wine tumblers, and mugs available.
+
+Guest access
+This is an above-garage guest house with a private entryway and designated parking space.  Guests reserve the entire two bedrooms, two full bathrooms and living space.  Additional free street parking is available at the end of the alley, which is three doors down.
+
+Other things to note
+Please note, no pets and no smoking.  
+
+Children are welcome, but please note that the space is not childproofed.  For example there may be sharp corners, and sockets are not equipped with safety covers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary Katherine
+Host User ID: 214520309
+Host Profile URL: https://www.airbnb.com/users/show/214520309
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Pets: Cat momma
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+17 reviews
+5.0 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/30658935
+Latitude: 36.1327
+Longitude: -86.7656
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Indulge in this stunning 3-bedroom haven, each with a king bed and private bathroom. Ideally located just 2.5 miles from vibrant Broadway and adjacent to Geodis Park, this home is a perfect sanctuary between adventures. Rich colors and textures blend with bold featured walls and cultural accents, capturing the essence of Nashville. The living room features a full/queen sleeper sofa and two cozy pull-out chairs, ideal for children. Experience the best of Music City in style and comfort.
+
+The space
+This stylish 3-bedroom, 2.5-bath home is a feast for the eyes — rich colors, layered textures, and intentional design touches make every room feel alive and inviting. Spread across three levels, the layout offers both togetherness and privacy, making it ideal for families, friend groups, or multi-generational travel.
+
+Level 1 — Arrive & Unwind
+Step directly in from the garage (zero steps — great for luggage and accessibility!) into your first private retreat. This level features:
+Bedroom 1: a serene king suite complete with a walk-in closet and a beautifully appointed ensuite with a sleek shower.
+
+Level 2 — Gather & Connect
+The heart of the home. An open-concept living room and fully equipped kitchen make this the perfect space to share meals, swap stories, and plan the next adventure. 
+Fully Stocked Kitchen
+Sleeper Sofa
+Half Bathroom
+
+Level 3 — Rest & Recharge
+Two additional king suites offer elevated comfort and privacy for your whole group.
+Bedroom 2:King bed, closet, and ensuite with a relaxing tub/shower combo
+Bedroom 3:King bed, closet, and ensuite with shower
+(2) Hotel-style rollaway beds are available here for extra guests,
+
+**Total sleeping capacity:** 3 king beds + Sleeper Sofa + 2 hotel-style rollaway beds
+
+Guest access
+Guests have access to the entire home and garage, with the exception to any locked closets.
+
+Other things to note
+** While staying with us, PLEASE make sure ALL doors are shut and locked when not in use! PLEASE do not leave any valuables in your vehicle if parked on the street. Nashville is a BIG city so please make sure to be vigilant with our property and yours!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cal And Steph
+Host User ID: 167417432
+Host Profile URL: https://www.airbnb.com/users/show/167417432
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Cal! Welcome to my loft! We greatly appreciate you staying with us. You're staying at my house, which gives your stay a less corporate, more personal feel. Thank you for taking care of my home while you are here. I hope you relax, unwind, and enjoy!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1102 reviews
+4.96 out of 5 average rating
+9 years of hosting

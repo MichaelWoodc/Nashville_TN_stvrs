@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1040532788849369585
+Latitude: 36.1514
+Longitude: -86.7998
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step inside Graduate Nashville and find yourself immersed in local history, legends and Southern charm. At our hotel, creative interiors and skyline views from the rooftop bar, White Limozeen, come together for a stay that’s undeniably Nashville. Set in Midtown, just a short stroll from Broadway and Vanderbilt University, Graduate is your perfect home base for exploring Music City.
+
+The space
+Graduate Nashville is a colorful, boutique hotel with a retro style inspired by Nashville’s music and college life. Guests enjoy stylish rooms, modern amenities, a rooftop bar called White Limozeen with city views, a karaoke bar, a 24-hour gym, and pet-friendly rooms.
+
+Popular Attractions Nearby:
+
+📍 Vanderbilt University – 0.3 miles
+📍 Centennial Park & The Parthenon – 0.6 miles
+📍 Music Row – 0.5 miles
+📍 Broadway (Downtown’s main entertainment street) – 1.2 miles
+📍 Frist Art Museum – 1.3 miles
+📍 Ryman Auditorium – 1.6 miles
+📍 Bridgestone Arena – 1.6 miles
+📍 Country Music Hall of Fame and Museum – 1.9 miles
+📍 Nissan Stadium – 2.5 miles
+📍 Nashville International Airport (BNA) – 9.2 miles (about a 15–20 minute drive)
+
+Other things to note
+▶ Check-in 4pm. Check-out 11am.
+▶ Photo ID and credit card required at check-in.
+▶ 100% non-smoking rooms.
+▶ Service fee of 25 per night/room collected by the hotel.
+▶ 21+ to book.
+▶ Valley parking 55 per night.
+▶ Complimentary Wifi.
+▶ Your room may differ from the photos but the amenity, size and style will be similar.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Graduate By Hilton Nashville
+Host User ID: 549760444
+Host Profile URL: https://www.airbnb.com/users/show/549760444
+Host Profile URL Source: public user permalink from passport userId
+Step inside Graduate Nashville and find yourself immersed in local history, legends and Southern charm. At our hotel, creative interiors and skyline views from the rooftop bar, White Limozeen, come together for a stay that’s undeniably Nashville. Set in Midtown, just a short stroll from Broadway and Vanderbilt University, Graduate is your perfect home base for exploring Music City.
+Response rate: 100%
+Responds within an hour
+3 years hosting
+17 reviews
+4.65 out of 5 average rating
+3 years of hosting

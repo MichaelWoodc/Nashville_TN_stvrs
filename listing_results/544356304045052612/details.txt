@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/544356304045052612
+Latitude: 36.13297
+Longitude: -86.78022
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new spacious build is both luxurious and cozy. With beautiful finishes, endless natural light, and thoughtful touches, you will absolutely feel the love that went into the design & décor. Offering 3 bedrooms and 4 bathrooms, this property is the perfect spot for groups looking to spread out while enjoying this centrally located spot, which is right in between not one but TWO of Nashville’s hippest neighborhoods (8th South/Melrose and 12South).
+
+The space
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+Beautiful 3 bedroom/4 bathroom home. 
+
+FIRST FLOOR: 
+✔ Queen Bed & Private Bathroom
+
+2ND FLOOR: 
+✔ Featuring a gorgeous living space, kitchen, covered patio, laundry room, and full bathroom. On this level, there is a queen size sofa bed.
+
+3RD FLOOR: 
+✔ The second and third bedrooms and en suite bathrooms are on the third floor.
+
+Guest access
+1-car garage and street parking.
+
+Other things to note
+Melrose is home to many of Nashville’s favorite attractions and destinations, including The Basement (acclaimed live music venue), Hattie B’s (Hot) Chicken, and a curated shopping district (8th Avenue Antique Mall).  A top-shelf new Publix is a short walk from the property, as is Zanies Comedy Club, where on any given night, performers such as Chris Rock, Aziz Ansari, Chelsea Handler, and Theo Von, to name just a few, take the stage.  
+
+Many of the city’s best bars and restaurants - including Sinema, BarTaco, Santa’s Pub, The Sutler Saloon/Melrose Billiard Parlor, M.L. Rose, Smiling Elephant, Cilantro, Urban Grub, and Locust - are also just minutes away, and there is no shortage of places to hang out with friends/family, including 8th and Roast (coffee shop), and Craft Brewed (brew pub).  For luxury shoppers, the Green Hills Mall is only 4 miles away, and scenic Sevier Park in 12South, which is a favorite for kids of all ages, is 1 mile away.  Downtown Nashville, with all it has to offer (including, of course, world famous Honky Tonks like Tootsie’s and Robert’s Western World), is also less than 3 miles away.  The neighborhood is a truly unbeatable blend of old and new, reflecting much of Nashville’s “secret sauce,” and it will continue to be at the epicenter of Nashville’s eclectic evolution long into the future.  Add it all up, and this is a truly special place to make some memories!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angie
+Host User ID: 34013549
+Host Profile URL: https://www.airbnb.com/users/show/34013549
+Host Profile URL Source: public user permalink from passport userId
+Always looking for a new adventure, lucky in love and family. My favorite thing to do is something I've never done before!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+Superhost
+11 years hosting
+487 reviews
+4.88 out of 5 average rating
+11 years of hosting

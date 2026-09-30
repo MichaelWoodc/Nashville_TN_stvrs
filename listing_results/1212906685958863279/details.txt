@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1212906685958863279
+Latitude: 36.243
+Longitude: -86.55176
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 12
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 4BR/3.5BA home on 3.5 acres—sleeps 20+ with 14 beds! Enjoy 3 living room areas, 2 porches, and a large backyard. Just 5 mins to Old Hickory Lake, 10 mins to Mt. Juliet, and 30 mins to Nashville & Hendersonville. Fully stocked with kitchen essentials, toiletries, and linens. Perfect for family vacations, reunions, or celebrations (wedding/baby showers, bachelor/ette weekends, and small weddings). Pet-friendly! Parking available for 10 vehicles. Please share event details when booking.
+
+The space
+Welcome to your perfect retreat! Situated on 3.5 acres of private green space, this spacious 4BR/3.5BA home offers comfort, convenience, and plenty of room for families or groups to relax and enjoy time together—indoors and out.
+
+Sleeping Arrangements – 14 Beds Total
+
+Bedroom 1: 1 King Bed (sleeps 2)
+
+Bedroom 2: 1 King Bed (sleeps 2)
+
+Bedroom 3: 2 Queen Beds (sleeps 4)
+
+Bedroom 4: 2 Twin-over-Full Bunk Beds (sleeps 6)
+
+Upstairs Living Room: Twin Daybed + Twin Trundle (sleeps 2)
+
+Office: Full Sofa Pull-Out (sleeps 2)
+
+Downstairs Living Room: Queen Daybed + Twin Trundle (sleeps 3) & Queen Air Mattress (sleeps 2)
+
+Spacious Common Areas
+Three separate living rooms, each with a large sectional and Roku TV—perfect for movie nights or game days. The open-concept design makes it easy to gather, cook, and dine together.
+
+Fully Equipped Kitchen
+Includes two refrigerators, a gas stove, dishwasher, cookware, utensils, and pantry basics. We’ve also stocked the home with toiletries, towels, board games, and activities for all ages.
+
+Outdoor Features
+Relax on the wrap-around porches with Adirondack chairs and scenic views, or gather around the fire pit (firewood provided) for cozy evenings under the stars.
+
+Bathrooms
+3.5 bathrooms across both levels make it easy for large groups to stay comfortable—ideal for all ages, from newborns to grandparents.
+
+Amenities
+There are a variety of family-owned, as well as chain, restaurants within 10 minutes. There are several grocery stores nearby (Publix, Walmart, Kroger) for your needs. Old Hickory Lake (with public dock) is available for fishing and boating. The driveway can accommodate most boats.
+
+Whether you're planning a family vacation, reunion, group getaway, or special celebration, this home is designed to meet your needs. We’re family- and pet-friendly—just let us know the details of your stay when booking. We’d love to host you!
+
+Guest access
+The entire property is yours. You will check in using a door access code.
+
+Other things to note
+Great place for family and friends to come together.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kayleigh
+Host User ID: 14208697
+Host Profile URL: https://www.airbnb.com/users/show/14208697
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Northwestern University
+2 years hosting
+2 reviews
+5.0 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/11083894
+Latitude: 35.96179
+Longitude: -86.95891
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Historic Franklin, TN.   Close to historic tourist sites:  Carnton Plantation, 
+downtown Franklin,  Franklin Civil War Battlefield.  Nashville just 30 minutes. Private room/bath in private home set in wooded subdivision 5 miles from Franklin.  Note:  30 min to Nashville. *No food in bedroom.  May eat in sunroom.  Leave shoes inside front door.  * Uber unreliable here.  Adults only 2.  Min. in 2 day bookings.
+
+The space
+We live in the home.  The Airbnb rental is for a private room with en-suite bath upstairs.  Large bedroom with work station and chair.  Coffeemaker.  Dining available in sunroom downstairs.
+
+Guest access
+Access to  wifi, coffee maker.  *May eat in sunroom, not bedroom.
+
+During your stay
+Upon arrival, as needed, and in common areas such as back deck or shared sunroom downstairs.
+
+Other things to note
+Historic sites include Battlefield of Franklin, Civil War era.  Carter House and Carnton Plantation.  Lots of shops and historic theatre downtown.  Shopping downtown and Cool Springs Mall.  Lots of varied restaurants. 
+*Leave shoes inside front door, please.  No food in bedroom.  May eat in our sunroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lise
+Host User ID: 35300462
+Host Profile URL: https://www.airbnb.com/users/show/35300462
+Host Profile URL Source: public user permalink from passport userId
+I am an artist and arts educator.  I enjoy nature, the arts, music, books, have traveled to Italy, Greece, Switzerland, England, Scotland, Mexico, France, Germany, Netherlands, Croatia, Jamaica, and Turkey.  .  We have been married for 56 years.  We enjoy hosting, gardening, and traveling.  We love movies and good food.  We have three grown children and four grandchildren.  
+
+*We have both been vaccinated for Covid 19.
+Where I went to school: Univ of Wisconsin; Univ of Illinois
+My work: Retired Educator
+Fun fact: Love art and travel
+Speaks English
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within a day
+11 years hosting
+102 reviews
+4.87 out of 5 average rating
+11 years of hosting

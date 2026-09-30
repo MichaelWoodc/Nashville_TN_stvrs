@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1460118980418009004
+Latitude: 36.1752
+Longitude: -86.7819
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly constructed River View Condo with a Pool.  
+
+1 mile from Broadway and Nissan Stadium 
+
+2 blocks from all of the new Germantown restaurants, Breweries, and hot spots!
+
+Pool, Covered Parking, and Fitness Center on site.
+
+Restaurants 2 blocks from the condo:
+
+Retrograde Coffee
+Social Cantina
+Kayuramen
+Tailgate Brewery
+Third and Home
+Jonathan's Grille
+Von Elrod's
+Neighbors
+Desano Pizzeria
+
+This condo is located on the top floor (3rd) with no units above.
+
+The space
+Newly Renovated Condo overlooking the Pool and the Cumberland River. 
+
+Located in Germantown one of Nashville's most desired  neighborhoods.
+
+Guest access
+You have access to the entire space including all amenities on site.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zeke
+Host User ID: 150116323
+Host Profile URL: https://www.airbnb.com/users/show/150116323
+Host Profile URL Source: public user permalink from passport userId
+Nashville Local.  Looking to share my experience with guests all over the world.
+Where I went to school: Middle Tennessee State University
+My work: Transportation Sales
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1207 reviews
+4.85 out of 5 average rating
+9 years of hosting

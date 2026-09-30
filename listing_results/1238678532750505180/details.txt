@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1238678532750505180
+Latitude: 36.2614
+Longitude: -86.7422
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind at this luxe 1-BR sanctuary. Tucked in a peaceful neighborhood, this upscale haven blends modern style with cozy charm. Enjoy quiet privacy and easy parking while staying just a 13-minute ride from Broadway's honky-tonks, East Nashville's eateries, and The Gulch's premier shops. Perfect for romantic weekends, solo adventurers, or foodies, it serves as your boutique launchpad to experience the best of downtown Nashville. ** This is a studio in my home's basement but is completely private.
+
+The space
+Please NO SMOKING OR VAPING of any kind indoors or on the patio! If you would like to smoke during your stay, we ask that you walk up to the mailbox by the street. 
+
+Pets are welcome to stay for an extra fee of $45.
+
+The studio has a full kitchen, queen bed with hotel rated sheets, a smart TV, washer/dryer, and outdoor patio with fire pit. 
+
+Please note that since this is the downstairs of my home, we also share a driveway. I will respect your privacy, but I will be around, so you may see me during your stay. 
+
+We also share AC and heat, and the thermostat is upstairs. The vents are adjustable and I provide a fan and a space heater, but if you need me to adjust the temperature please let me know and I will be happy to do so.
+
+Guest access
+Entire apartment is for guest use, as well as the firepit and chairs outside in front of the apartment. You are also welcome to use the back lawn. The fireflies in the backyard are beautiful in early summer!
+
+Please do not use the front porch or back deck attached to the upstairs of the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kim
+Host User ID: 102873058
+Host Profile URL: https://www.airbnb.com/users/show/102873058
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 months hosting
+19 reviews
+5.0 out of 5 average rating
+3 months of hosting

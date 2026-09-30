@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1237804639556924861
+Latitude: 36.195693066499736
+Longitude: -86.68571379676115
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Are you in for a conference at Gaylord Hotel-Opryland, are you  taking in a show at the Opry? Or want a Nashville vacation without the hassle and high prices of downtown? Stay with us! This home is a cozy retreat located in Nashville's Music Valley. The 2BD/2BA home features ample space to gather and relax, including a 6 person hot tub.
+
+The space
+The master bedroom includes queen bed and twin over full bunkbed. It also has a bathroom with a shower/tub combo.
+
+The second bedroom includes a queen bedroom.
+
+Guest access
+Guest has full access to home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura
+Host User ID: 90083530
+Host Profile URL: https://www.airbnb.com/users/show/90083530
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mount Juliet, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+58 reviews
+4.88 out of 5 average rating
+2 years of hosting

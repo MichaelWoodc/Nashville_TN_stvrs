@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1328325915636358856
+Latitude: 36.1498
+Longitude: -86.777
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: The Gulch, Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the ultimate Nashville experience in this modern, fully furnished studio in the heart of downtown. Perfect for business travelers and tourists, the space features high-speed Wi-Fi, a dedicated workspace, and kitchen amenities. The building offers premium amenities, including a gym, outdoor pool, BBQ area, and pool table. Steps from Broadway and The Gulch, enjoy easy access to top dining, entertainment, and live music. Secure access and free parking available. Reserve now!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rafael
+Host User ID: 666180282
+Host Profile URL: https://www.airbnb.com/users/show/666180282
+Host Profile URL Source: public user permalink from passport userId
+Passionate host who genuinely loves creating great experiences for guests. I pay attention to every detail so every stay feels seamless and worth coming back to.
+My work: Property Manager
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+169 reviews
+4.87 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1495713896560359931
+Latitude: 36.1336
+Longitude: -86.5231
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ About the Home
+Welcome to your home-away-from-home in Mount Juliet, TN! I’m offering one fully furnished private bedroom in a quiet, safe neighborhood just minutes from Providence Marketplace and under 25 minutes to major Nashville hospitals. Perfect for travel nurses, corporate professionals, and relocations, each room includes all utilities, high-speed Wi-Fi, and access to shared home amenities — simply bring your suitcase and settle in.
+
+Guest access
+You can access and use the kitchen, laundry room, and backyard furniture as well as the living rooms, all we ask is to be organized and clean afterwards.
+
+During your stay
+You can call me or text me if you need something.
+
+Other things to note
+🐾 Meet Our Furry Friend
+
+We share our home with a sweet and friendly cat who loves people — but she also totally understands personal space!
+If you’re a cat lover, she’ll happily accept some gentle pets and might even keep you company during your stay. 🐱✨
+If you prefer to keep your distance, no worries at all — she’ll quietly mind her own business and give you your space.
+
+We also have a small puppy 🐶 our friendly Shihtzu
+
+Either way, she adds a cozy, homey touch that many of our guests enjoy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carlos
+Host User ID: 106525247
+Host Profile URL: https://www.airbnb.com/users/show/106525247
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mt. Juliet, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+7 reviews
+5.0 out of 5 average rating
+2 years of hosting

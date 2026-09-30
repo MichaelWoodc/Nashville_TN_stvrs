@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1360533676215403994
+Latitude: 36.168025377733954
+Longitude: -86.7835053591323
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the glamour of this stylish, upscale studio in the heart of Margaritaville Nashville! This chic retreat features a plush king-sized bed and a double sleeper sofa, perfect for small groups or families. Relax in modern comfort with a sleek kitchenette and stylish decor. Steps away from vibrant dining, live music, and entertainment, this studio is your gateway to the ultimate Nashville experience. Your adventure starts here!"
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Haven Vacations
+Host User ID: 375678301
+Host Profile URL: https://www.airbnb.com/users/show/375678301
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m the host behind Maxx Vacay. I specialize in booking premium resort stays through owner inventory, giving guests access to high-end properties at better value. I’ve hosted many trips and pride myself on clear communication, fast responses, and making sure everything runs smoothly from booking to check-in. My goal is simple—give you a stress-free, memorable stay.
+My work: Maxx Vacay bookings
+Fun fact: I book trips in places I haven’t been to
+Response rate: 58%
+Responds within a day
+6 years hosting
+197 reviews
+4.64 out of 5 average rating
+6 years of hosting

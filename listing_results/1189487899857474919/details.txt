@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1189487899857474919
+Latitude: 36.1965
+Longitude: -87.0025
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our cozy log cabin nestled in the tranquil woods, just 25 minutes from the vibrant heart of Broadway, Nashville. This charming retreat offers the perfect blend of rustic charm and modern amenities, making it the ideal getaway for families, couples, and friends.
+
+The space
+**Property Highlights:**
+
+**Location:**
+Just a short drive to Nashville’s famous Broadway, yet far enough to enjoy peace and serenity.
+**Bedrooms & Loft:** 
+3 spacious bedrooms plus a loft room, comfortably sleeping up to 14 guests.
+**Bathrooms:** 
+3 full bathrooms, equipped with all essentials.
+**Living Area:** 
+Warm and inviting living room, perfect for gathering and relaxation.
+**Kitchen:** 
+Fully equipped kitchen with modern appliances, ready for you to cook your favorite meals.
+**Game Room:** 
+Enjoy hours of entertainment in our dedicated game room, featuring a pool table.
+**Outdoor Space:** 
+A huge deck, ideal for outdoor entertaining, with a BBQ grill, plenty of seating, and stunning woodland views.
+**Convenience:** 
+Teter’s convenience store is just at the end of the road for any essentials you might need, and a Walmart is only 15 minutes away for larger grocery runs.
+
+Guest access
+Guests will have access to the entire home
+
+Other things to note
+**Dining & Entertainment Nearby:**
+
+**Riverview Restaurant & Marina:**
+Just a 12-minute drive, offering delicious dining with scenic waterfront views.
+**Brewhouse West & Tailgate Brewery:** 
+Both are just 15 minutes away, perfect for enjoying local craft beers and casual bites.
+**Jim ‘N Nick’s Bar-BQ & Wayback Burgers:**
+Both are also 15 minutes away, offering tasty BBQ and classic burgers.
+**Ray Stevens CabaRay Showroom:**
+Enjoy a live show at this iconic venue, just 15 minutes away.
+**Blue Moon Waterfront Grill & Marina:**
+A 25-minute drive will take you to this lovely spot for dining by the water.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 172390939
+Host Profile URL: https://www.airbnb.com/users/show/172390939
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm James. I moved to Nashville from London, UK in 2013. I started hosting on Airbnb in 2015 after staying in homes while travelling across Europe.
+One thing I love most about Nashville is the food scene. It is always evolving to feel free to reach out for recommendations.
+Born in the 80s
+Where I went to school: London, UK
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+415 reviews
+4.89 out of 5 average rating
+9 years of hosting

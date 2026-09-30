@@ -1,0 +1,105 @@
+URL: https://www.airbnb.com/rooms/1405089431065411641
+Latitude: 36.2093
+Longitude: -86.9883
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our riverfront retreat, just 30 minutes from Nashville! This spacious home offers river access, a private dock, and two levels of comfort. The lower level, once a Nashville musician’s recording studio and writer’s retreat, has been thoughtfully converted into a cozy bedroom and living space, retaining unique studio touches. Enjoy a game room, two living areas, modern kitchen, fire pit, and more—perfect for relaxing or entertaining by the water.
+
+The space
+ACCESS TYPE:
+▻ Guests will have an access to the entire home
+
+FIRST FLOOR:
+▻ Bedroom 1 - featuring one full-sized bed and a twin bunk bed, a smart tv, and ceiling fan
+▻ Living room 1 - Spacious living area with a smart TV and 1 full-size pull out couch
+▻ Game Room - ping pong table with equipment, ceiling fan, a small TV
+▻ Backyard - Private dock access, outdoor seating, fire pit, charcoal grill, cornhole
+
+SECOND FLOOR:
+▻ Kitchen and Dining Area - dining table for 6, complete silverware, and modern and new kitchen appliances (including microwave, refrigerator, Keurig coffee maker, dishwasher, toaster, blender, etc)
+▻ Living room 2 - Spacious living area with a smart TV and ceiling fan
+▻ Bedroom 2 - featuring one queen-sized bed, ceiling fan, closet
+▻ Bedroom 3 - featuring one queen-sized, closet, ceiling fan, a smart TV, and access to the a patio with river view
+▻ Full Bathroom 1 - with shower and basic toiletries 
+▻ Full Bathroom 2 - with bath tub, shower and basic toiletries (inside Bedroom 3)
+▻ Laundry Room - with washer and dryer
+
+HIGHLIGHTS:
+▻ River access (Cumberland River)
+▻ Private dock access
+▻ Modern and new kitchen appliances
+▻ Self check-in process
+
+ACCESSIBILITY:
+▻ This home has 2 floors
+
+Guest access
+PARKING:
+▻Driveway parking available. 
+
+ENTERING THE HOME:
+▻ The Home is Accessed Via Self Check-In Using a Smart Lock with a Unique Code Per Guest
+
+Other things to note
+HOUSE RULES:
+
+(Designed for a clean, comfortable, and respectful stay)
+
+We take pride in offering a clean, comfortable, and welcoming space for your stay. The home is professionally cleaned and well-maintained. As this is a well-loved home rather than a hotel-style property, minor signs of age may be present. If anything needs attention during your stay, please let us know and we’ll address it promptly to ensure a stress-free visit.
+
+Respect the Home
+- Please treat the home as you would your own.
+- The home is equipped with essential electronics that support operations. Please do not unplug any connected devices.
+- Guests are responsible for any damages or loss and should report them immediately so we can resolve matters quickly.
+
+Respect the Neighbors
+- No parties or events.
+- Quiet hours are observed between 10:00 PM and 8:00 AM.
+- Please keep noise and activity neighbor-friendly at all times.
+- Visitors and unauthorized guests are generally NOT allowed.
+
+Health & Cleanliness
+- No smoking inside the home or on the property.
+- This unit is dog-friendly, however not cat-friendly. A $140 non-refundable pet fee applies. An additional $50 fee applies for each extra pet. These fees go toward additional deep cleaning. Guests are responsible for cleaning up after their pets.
+
+Check-In & Check-Out
+- Early check-in: We’ll do our best to accommodate when possible. Same-day requests depend on our cleaning schedule. To guarantee early check-in, booking the prior night (if available) is recommended.
+- Late check-out: Requests must be made by the day before departure.. To guarantee a late check-out, booking the following night is recommended. Unapproved late check-outs may incur additional charges, and departures at 12:00 PM or later may be considered an extra night’s stay.
+
+POLICIES:
+- Luggage drop may be available with prior host approval.
+- Third-party bookings are not permitted. Guests must book for themselves.
+- Forgot something? We can mail items back upon request for a handling and shipping fee.
+- Cancellation: To receive a full refund, cancellations must be made within 24 hours before check-in. Cancellations after this window will be charged according to the number of nights stayed.
+
+Safety & Security
+- There is an EXTERIOR security camera installed above the front door.
+
+By booking this property, you agree to follow the house rules and policies outlined above. Significant violations, unreported damages, or failure to comply with house rules may result in additional charges in accordance with Airbnb’s policies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 661112899
+Host Profile URL: https://www.airbnb.com/users/show/661112899
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+1656 reviews
+4.88 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1213179530585241959
+Latitude: 36.249778535003045
+Longitude: -86.76633017523535
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2 bedrooms in a fully furnished, designer decorated home.
+
+The space
+Welcome to your fully furnished, designer decorated home. It's cozy, beautiful and centrally-located. There’s a hospital, grocery store and shopping areas down the street. The house is a 10 minute drive to the hot spots in East Nashville & Germantown & 15 minutes to downtown Nashville. Relax in the quiet tree filled backyard which sits on top a hill and gaze at the stars or listen to the birds singing during the day. Two rooms are available for rent and you’ll have access to 1.5 bathrooms
+
+Guest access
+Use the keypad for easy entry and exit. Always lock the door when you leave using the keypad lock button
+
+During your stay
+You can text me if you have any questions or need help.
+
+Other things to note
+Sometimes I’m also at the home with my mini poodle in a separate room. This is a non-smoking home, no drugs and no parties home. Please ensure any used dishes are rinsed off and placed into the dishwasher before leaving and that all trash in thrown into the trash can. Also note to press the lock button on the front door keypad anytime you leave the home. If you have a car you may park anywhere on the street. If you have any questions please text me.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keyia
+Host User ID: 343578073
+Host Profile URL: https://www.airbnb.com/users/show/343578073
+Host Profile URL Source: public user permalink from passport userId
+Hey! I’m Key :) I’m a singer/songwriter, realtor & entrepreneur. I’m dog mom to Jolie and I love traveling and everything wellness related. Looking forward to meeting you!
+Where I went to school: Texas
+My work: Music
+Fun fact: I’ve been to over 20 countries
+Pets: Mini poodle named Jolie
+I’m happy to spend time with my guests or give them space
+Response rate: 94%
+Responds within an hour
+2 years hosting
+1 reviews
+5.0 out of 5 average rating
+2 years of hosting

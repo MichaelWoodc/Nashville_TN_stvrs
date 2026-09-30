@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1108141000777237095
+Latitude: 36.16905
+Longitude: -86.81354
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious and stunning upscale townhouse, just under 3 miles from the vibrant center of Music City and easily accessible to all local destinations via a quick Uber ride. This unit boasts 7 beds, ideal for accommodating large groups comfortably. The main level showcases a fantastic kitchen with generous seating, top-of-the-line appliances, a sleek bar-style counter, and contemporary furnishings. Additionally, one garage space is available for your convenience.
+
+The space
+The house is multiple levels with superb finishes and tons of space for large groups and families. It has multiple beds ranging from a comfy king all the way to the cozy double bunks. The home also features 3.5 bathrooms, a laundry area with washer/dryer, comfortable sitting areas, and more. Each bedroom features ultra-comfy beds and storage for personal items.
+
+The kitchen area has a fantastic bar seating area for entertaining, all updated appliances, and is fully stocked with cooking supplies, dishes, glassware, a coffee maker, and more. The living room is decorated with a contemporary mindset accompanied by a floating flat screen and cozy gray sofa. The living area was designed to maximize the feel of comfort and space, delivering a perfectly relaxing atmosphere.
+
+★ Modern Kitchen with Great Appliances
+★ Hottest Area in Nashville
+★ High-Speed Wifi
+★ Big Groups Welcome
+
+★ Bedroom 1 - King Bed
+
+★ Bedroom 2 - 2 Twins over Twin Bunk Beds
+
+★ Bedroom 3 - 2 Queen Beds
+
+Guest access
+You have access to the entirety of the home!
+
+Other things to note
+minute drive to Broadway/Bridgestone : 9 min ( 2.4 miles)
+minute drive to Music Row 10 min ( 2.2 miles)
+minute drive to 12 South 11 min ( 5.7 miles)
+minute drive to Sylvan Park 8 min ( 3.6 miles)
+minute drive to the Airport 14 min ( 11.3 miles)
+minute drive to Grand Ole Opry 21 min ( 15.2 miles)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

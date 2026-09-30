@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1340613465255392934
+Latitude: 35.9899
+Longitude: -86.5562
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything in this centrally located home just minutes from the highway, shopping, restaurants, movies, and grocery stores. located between Nashville and Murfreesboro, making it easy to explore both areas.
+Enjoy our charming 3-bedroom, 2-bathroom home with queen beds, smart TVs, a fully equipped kitchen, and a spacious fenced backyard with a fire pit and outdoor seating. Located in a quiet neighborhood, it’s the perfect place for a comfortable and relaxing stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tamonh
+Host User ID: 674616597
+Host Profile URL: https://www.airbnb.com/users/show/674616597
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+I spend too much time: Wood Working
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+80 reviews
+4.93 out of 5 average rating
+2 years of hosting

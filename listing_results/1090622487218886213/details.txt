@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1090622487218886213
+Latitude: 35.9752
+Longitude: -86.8918
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly Remodeled home in a great neighborhood, short drive to Downtown Franklin, TN! Centrally located and only 25 mins from Downtown Nashville, a great spot to stay if you want to explore Franklin, Nashville, etc! The modern design and decor will make you feel right at home while also offering an upscale feel. *PLEASE NOTE: The home has a totally separate, attached studio apartment that is rented separately to guests as well. The Studio apt can be reserved with the main house if available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Phillip
+Host User ID: 259083382
+Host Profile URL: https://www.airbnb.com/users/show/259083382
+Host Profile URL Source: public user permalink from passport userId
+I’m Phillip and I love to travel, history, and meeting new people!
+Born in the 90s
+Where I went to school: Centennial High School; Lee University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+232 reviews
+4.93 out of 5 average rating
+3 years of hosting

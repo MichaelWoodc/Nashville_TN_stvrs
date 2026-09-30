@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1516702117720437539
+Latitude: 36.23959
+Longitude: -86.71079
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind on the river! Our 3-bedroom retreat sits right on the water, just 5 minutes to the Grand Ole Opry &  15 minutes to Downtown.
+
+Private waterfront deck
+Full kitchen & coffee maker
+Washer/Dryer & fast Wi-Fi
+Free on-site parking
+Reserve your Nashville stay today and wake up to peaceful river views!
+
+The space
+Dog friendly. Good size living room area with comfortable seating. 2 bedrooms with queen beds and a good amount of storage. 1 bedroom with a desk and twin size day bed and trundle bed underneath. Washer and Dryer. Smart TV in living room and all bedrooms. WiFi. Screened in patio overlooking the Cumberland River. Fenced in backyard with direct access from inside.
+
+Other things to note
+Dog Friendly.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derek
+Host User ID: 720489189
+Host Profile URL: https://www.airbnb.com/users/show/720489189
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Derek — a Nashville native, family man, and entrepreneur with a lifelong love for music. When I’m not working on my businesses, you’ll find me writing songs, spending time with my wife and family, or enjoying the outdoors. Hosting allows me to share a piece of my hometown and the family home I grew up in with guests from all over the world.
+Born in the 80s
+My work: Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+30 reviews
+5.0 out of 5 average rating
+11 months of hosting

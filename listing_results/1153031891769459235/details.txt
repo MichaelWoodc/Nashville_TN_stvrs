@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1153031891769459235
+Latitude: 36.23134
+Longitude: -86.72881
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A charming East Nashville home located just minutes away from some of Nashville's top attractions, this home is the perfect home base for your Music City adventure. Explore the eclectic shops and restaurants of East Nashville, catch a live show downtown, or immerse yourself in the rich history of the area.
+
+Enjoy your morning coffee on the screened-in patio, and whip up delicious meals in the beautiful open-air kitchen.
+
+Book your stay today and experience the best that Music City has to offer!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bryan
+Host User ID: 576719379
+Host Profile URL: https://www.airbnb.com/users/show/576719379
+Host Profile URL Source: public user permalink from passport userId
+We are an outgoing family that loves to travel and explore!
+Born in the 80s
+Most useless skill: Ping pong
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+90 reviews
+4.92 out of 5 average rating
+2 years of hosting

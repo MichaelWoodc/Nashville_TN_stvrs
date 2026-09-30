@@ -1,0 +1,112 @@
+URL: https://www.airbnb.com/rooms/1157154475062353004
+Latitude: 36.1212
+Longitude: -86.7877
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our Sky Parlor Suite is an urban oasis and the ultimate base for your Nashville vacation! 
+
+Nestled in the charming 12 South neighborhood, our peaceful and inviting second-story retreat offers comfort and historic character. 
+
+Dozens of restaurants, boutiques, and murals are a short 5-minute walk away! Downtown Nashville is a 10-minute drive or Uber ride away.
+
+The space
+Perfect for short and extended stays, retreats and staycations, for couples, friendcations, and small families, our Sky Parlor Suite has been designed with your comfort in mind. 
+
+The Neighborhood 
+All Around a 5 Minute Walk!
+
+☆Some of the restaurants/eateries within walking distance:
+
+-Postino's
+-La La Land Kind Cafe
+-The Henry
+-Butter Milk Ranch
+-Frothy Monkey
+-BurgerUp
+-Edley's
+
+☆Some of the boutiques within walking distance:
+
+-Madewell
+-Marine Layer
+-Draper James
+-imogene+willie
+-Stony Clover Lane
+
+☆The beautiful historic Sevier Park (5 minute walk)
+-playground
+-community center with workout room
+-tennis and basketball courts
+
+The Space
+☆ Spans the entire second story of our historic home
+☆ Many skylights and windows create a bright, airy, peaceful atmosphere -- watch the birds or the sunset!
+
+☆One king bed
+☆One queen bed
+☆One twin bed
+All sleeping areas are open to each other within a single, connected space, making it less suitable for two couples seeking privacy.
+
+☆ European-style kitchennette 
+-compact refrigerator/freezer
+-microwave
+-multifunction convection oven/air fryer
+-coffee maker
+-induction burner
+
+☆Cozy tv room 
+☆ Workspace with desk
+
+☆Bathroom with shower (no tub)
+
+☆ Fully air conditioned and heated
+
+☆ Deck with chairs
+☆ Keyless entry with personal code
+
+☆ Fully permitted
+
+Guest access
+☆Private, separate entrance on the back deck of our home
+
+☆ Entire private second story suite; we (the hosts) live on the lower level of the home
+
+☆Keyless, 24 hour self-checkin and entry with custom code 
+
+The Sky Parlor is NOT handicap-accessible. There are many stairs that lead to the Sky Parlor. 
+
+☆Free, on-street parking
+
+Other things to note
+☆ Quiet hours begin at 10:00 p.m.
+☆ We love pets, but, sadly, we cannot permit them in our suite.
+☆ Our hypoallergenic Goldendoodle - Magnolia - lives on premises, but does not have access to the Sky Parlor.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rosie
+Host User ID: 298662653
+Host Profile URL: https://www.airbnb.com/users/show/298662653
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Miami University (Ohio)
+My work: Newly retired
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+229 reviews
+4.99 out of 5 average rating
+2 years of hosting

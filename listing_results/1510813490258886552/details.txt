@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1510813490258886552
+Latitude: 36.3811
+Longitude: -86.4947
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bright and Modern 3BR Retreat in Gallatin - Easy Drive to Nashville
+
+Welcome to our stylish, centrally located home in Gallatin, TN — just 30 minutes from the vibrant heart of downtown Nashville. Perfectly blending comfort and convenience, this spacious 3-bedroom, 2.5-bath retreat offers a relaxing escape with modern touches and thoughtful amenities. Whether you're here for a quick getaway or an extended stay, you'll love the proximity to Nashville, local attractions, and outdoor adventures.
+
+The space
+Property Highlights:
+
+❣️Just 30 minutes from downtown Nashville
+❣️Less than 10 minutes to the Gallatin square
+❣️Convenient and central location 
+
+The Home: 
+
+☀️ 3BD/2.5BA - comfortably sleeps 6
+☀️ Fully stocked kitchen 
+☀️ 2 tastefully designed queen bedrooms
+☀️ Kids' bunk room with books/games
+☀️ Garage access/overflow parking available
+☀️ Friendly, walkable neighborhood 
+☀️ Complementary coffee, tea and snacks
+☀️ In-unit washer/dryer available 
+☀️ Upper balcony with seating for 2
+
+Things to do:
+
+💫  Discover Nashville’s vibrant food scene and iconic music venues 
+💫  Enjoy local shopping and dining in Downtown Gallatin and The Streets at Indian Lake 
+💫 Explore Old Hickory Lake with options for water activities, hiking, biking, and scenic greenway trails 
+💫 Visit Tennessee’s stunning state parks and waterfalls
+💫 Have fun with the provided corn hole set and BBQ grill for some outdoor entertainment
+💫 Bring your golf clubs and enjoy the local golf course, less than a mile away
+
+Perfect for families, friends, or small groups, this home offers everything you need for a relaxing stay with easy access to the best of Gallatin and Nashville.
+
+Guest access
+Entire home is available for guest use, with the exception of the owner’s closets and garage refrigerator
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lori
+Host User ID: 222551857
+Host Profile URL: https://www.airbnb.com/users/show/222551857
+Host Profile URL Source: public user permalink from passport userId
+I am a small business owner, mom of 4, and travel enthusiast who loves creating comfortable, unique stays for my guests to enjoy!
+My work: Entrepreneur
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+31 reviews
+5.0 out of 5 average rating
+1 year of hosting

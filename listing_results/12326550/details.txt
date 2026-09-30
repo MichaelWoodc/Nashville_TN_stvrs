@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/12326550
+Latitude: 36.23301
+Longitude: -86.72965
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern, clean, basement apartment with your very own private/ external entrance (you have sole occupancy of the 375 sq/ft apartment, and our family is upstairs, with no access to your room... meaning our guests only interact with us if that is their vibe...) on a beautiful acre of land, with secure parking  in East Nashville. An easy 10 minute Uber to downtown, Ryman Auditorium, Broadway, Nissan Stadium and even less to hipster 5-points or the Grand Ole Opry.
+
+The space
+This is a relaxing space! We renovated the basement in isolation from the rest of our house so that our parents can stay for LONG periods of time when they visit from Australia.
+
+Everything is new! We love the gas log fireplace and and modern bathroom. The kitchen will serve your basic needs, though you are in a foodie neighborhood, so you probably don't want to spend all of your time heating frozen meals :)
+
+Our backyard is massive, and we hope you'll get a chance to enjoy it.
+
+The TV is connected to Netflix, Hulu and Amazon.
+
+Guest access
+Fire pit
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 66515338
+Host Profile URL: https://www.airbnb.com/users/show/66515338
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+775 reviews
+4.93 out of 5 average rating
+10 years of hosting

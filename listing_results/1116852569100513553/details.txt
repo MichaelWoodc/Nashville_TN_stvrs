@@ -1,0 +1,88 @@
+URL: https://www.airbnb.com/rooms/1116852569100513553
+Latitude: 36.18635
+Longitude: -86.74377
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a cozy, yet modern, centrally-located private guesthouse!  Within a short walk to many bars, shopping, restaurants, grocery stores, and coffee shops! And only a 8 minute Uber to downtown Nashville!
+
+This new guesthouse boasts modern amenities, comfy beds, and offers plenty of space to relax.  It sits atop a garage on our property and is located on a quiet street in a bustling neighborhood!
+
+Downtown/Bridgestone/Stadium - ~3 miles
+Restaurants/Shops - Many options within 2 blocks to 1 Mile
+
+The space
+This is a spacious 950 sq ft modern apartment, with a private king bedroom.   The bedroom has an upgraded mattress and bedding, blackout blinds, and flatscreen TV.  You will have access to a clothing iron, ironing board, and oscillating fan.  For those with small children, we also offer a pack-n-play, sheets and a high chair!
+
+Off street parking is available on the gravel pad for 1 vehicle. Street parking is available in front of the main house and the street is very wide and quiet.
+
+The bathroom is accessible from both the bedroom and the hallway, and is furnished with a makeup mirror and hair dryer.  We provide starter shampoo, starter conditioner, face wipes, hand soap and a makeup towel.
+
+Ultra modern kitchen equipped with a wine fridge, top of the line appliances and marble countertops.  We offer a combo Keurig pod/drip coffee pot option and provide Keurig pods, creamer, sweetener and drip coffee filters. Starter dish soap, dishwasher pods, laundry soap pods and fabric softener are provided as well.
+
+Walkable to many places, but a few of our favorites are listed below!
+
+Kroger, Publix, Aldi and Walgreens: 2-3 blocks
+Srarbucks: 2-3 Blocks
+Dunkin: 3 blocks
+
+Local Coffee/Bakeries:
+Slow Hand Coffee and Bakejoise: 2-3 blocks
+Barista Parlor: 5 blocks
+Five Daughters Donuts: 4 blocks
+Mama Bread: 1/2 mile
+
+Local Restaurants:
+Hearts: 3 blocks
+Rosepepper: 4 blocks
+Hattie B’s Hot Chicken: 4 blocks
+Two Ten Jack: 4 blocks
+Koré: 4 blocks
+Once Upon a Time in France: 4 blocks
+Pelican and Pig: 4 blocks
+The Wash (6 restaurant/bar stalls): 5 Blocks
+Noko: 5 blocks
+Lockeland Table: 7 blocks
+Dream Burger (food truck): 8 blocks
+Cafe Roze: 8 blocks
+
+Local Bars/Breweries:
+Groceries Etc. - 7 blocks
+Vinyl Tap: 8 blocks
+Schulman’s: 8 blocks
+Butterlamp Bread & Beverage: 4 blocks
+Tailgate Brewery: 3 blocks
+Urban Cowboy: 7 blocks
+Strega: 6 blocks
+Skinny Dennis: 6 blocks
+Martha My Dear: 5 blocks
+The Authentique: 3 blocks
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pam
+Host User ID: 83418662
+Host Profile URL: https://www.airbnb.com/users/show/83418662
+Host Profile URL Source: public user permalink from passport userId
+Just need to see it all!
+Born in the 80s
+I spend too much time: Traveling
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+287 reviews
+4.99 out of 5 average rating
+2 years of hosting

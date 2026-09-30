@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1503634795205539007
+Latitude: 36.1739
+Longitude: -86.7808
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our renovated 2-bedroom condo is perfect for your escape to Nashville! With 2 king beds and 2 bathrooms, this ground floor property offers a cozy living room with a sofa bed for extra space.
+
+Located on 1st Ave on the water, enjoy relaxing views of the river! Just step out the front door to the greenway walking trail to access all that Nashville has to offer, including world-famous Broadway, honky-tonk bars and nightlife!
+
+Enjoy FREE on-site parking, community laundry, gym, and an amazing pool!
+
+The space
+*20 minute walk or a cheap Uber/Lyft/taxi to Broadway, Rymean Theater, etc! On a recent Friday night, a standard Uber to Broadway was $7.99, while an XL for 6 people was $17. 
+
+*Two blocks to Germantown and the baseball stadium; walk to Jonthan's Grille (sports bar), Social Cantina, Toastique, Third and Home sports bar, Tailgate Brewery, Far Better Distillery, and more!
+
+*FREE ONSITE PARKING! Parking is safe and covered.
+*Pool access available for all guests via a key fob
+*Laundry onsite in condo complex (not in unit)
+*Fitness room on site
+
+*Short term rental permit CASR2025071470
+
+Other things to note
+Parking is free on-site. Grill, pool, laundry, and fitness center are community spaces.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimberly
+Host User ID: 10015942
+Host Profile URL: https://www.airbnb.com/users/show/10015942
+Host Profile URL Source: public user permalink from passport userId
+My work: Local Government
+Speaks English
+Response rate: 100%
+Responds within an hour
+5 years hosting
+13 reviews
+4.54 out of 5 average rating
+5 years of hosting

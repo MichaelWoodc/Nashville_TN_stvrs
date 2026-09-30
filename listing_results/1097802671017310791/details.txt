@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1097802671017310791
+Latitude: 36.17159
+Longitude: -86.74423
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Guest suite in a cozy craftsman-style bungalow with modern amenities and  tree-top views! Separated with a private entrance and deck. Located in historic and hip  East Nashville: less than a 10 minute walk to 5 points, the Shoppes at Fatherland, Shelby Park, and more.  A quick uber ride to downtown. Enjoy the large deck, soak in the oversized clawfoot tub or just relax in the garden. Close to all of the restaurants, bars, shops, music, galleries that make East Nashville so unique.
+
+The space
+You'll have access to a large private deck with tree top views, a well equipped kitchenette, a large bathroom with a clawfoot tub and a large bedroom with sitting area.  There's a large backyard with a fire pit that's available as well.
+
+Guest access
+This suite is on the second floor of a 2 story house.  You'll need to follow a path around the side of the house and go up two flights of stairs into the trees to the private deck entrance. One of the flights is a spiral staircase
+
+Registration Details
+T2024016696
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 6726311
+Host Profile URL: https://www.airbnb.com/users/show/6726311
+Host Profile URL Source: public user permalink from passport userId
+I'm a technologist living in Nashville with way too many hobbies.  Spend my off time trail running, hiking, kayaking, backpacking and doing pretty much anything else outdoors.  Passionate about all things fermented: food, beer, cheese, cured meats. Cooking and eating are some of my favorite things too.
+Born in the 70s
+My work: Technology Leader
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+179 reviews
+4.97 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1335548688970422414
+Latitude: 36.1285
+Longitude: -86.7529
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 8
+beds: 28
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✦ Your ultimate Nashville getaway awaits! ✦
+
+Experience Music City in style at these TWO side-by side downtown homes thoughtfully curated for an unforgettable stay! 
+
+✦ Key Highlights ✦
+
+• Two side-by-side homes - 10 rooms!
+• Centrally located - minutes to Broadway & other hotspots
+• Perfect for a bach bash, family getaways, or friends' trips
+• Private rooftop decks - ideal for group photos & memories!
+• Attached 2-car garages + flex spots +  street parking 
+
+Book Your Stay now! 🎸
+
+The space
+✦ Stay in luxury and comfort at these beautifully designed downtown homes nestled in Wedgewood Houston, one of Nashville’s most desirable neighborhoods. Whether you’re gathering your gang for a bachelor/bachelorette bash, planning a fabulous friends' trip, or bringing the family together for a music-filled escape, this is your ideal destination! 
+
+✦ Prime Location - Centrally located and just a quick ride to Broadway, The Gulch, Ryman Auditorium, Bridgestone Arena, Nissan Stadium & all the other hotspots
+
+✦ Community Perks - Guests enjoy access to a gas fire pit and BBQ grills, perfect for gathering after a day of enjoying the city
+
+✦ Private Rooftop Decks - Take in panoramic city views, relax on the lounge seating, or toast to a perfect night while enjoying the Nashville skyline
+
+✦ Amenities You’ll Love
+• Private rooftop decks with downtown views, fireplace, and lounge seating
+• Fully stocked chef’s kitchens with stainless steel appliances and a coffee station
+• Hotel-quality linens and room-darkening curtains for a restful sleep
+• High-speed internet and streaming Smart TVs throughout the homes
+• Top-of-the-line washer & dryer and hypoallergenic detergent
+• Keyless entry for easy access and check-in / check-out
+• Hair dryers in every bathroom, iron, and ironing board
+• Attached 2-car garage + plenty of free street parking
+• Spacious walk-in closets with luggage racks
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 43800255
+Host Profile URL: https://www.airbnb.com/users/show/43800255
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+2623 reviews
+4.85 out of 5 average rating
+9 years of hosting

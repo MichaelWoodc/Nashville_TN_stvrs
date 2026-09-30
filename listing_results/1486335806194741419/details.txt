@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1486335806194741419
+Latitude: 36.1957
+Longitude: -86.7776
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville charm in this 2BR country music–themed home, just 8 mins from Broadway! Enjoy a king bed in the primary bedroom, a bunk bed in the second, and a pool table for endless fun. Décor celebrates Music City’s rich heritage, and you’ll be close to the Country Music Hall of Fame, honky-tonks, and top dining spots. Perfect for families, friends, or couples ready for an unforgettable stay! Book today! 
+
+-King Bed
+-City Views
+-Pool Table
+-8 min. from Broadway
+-Work space
+-In unit W/D
+
+The space
+Welcome to your Nashville getaway! This stylish 2-bedroom townhouse offers the perfect blend of comfort, entertainment, and convenience. Enjoy stunning downtown views from your private space while being just 10 minutes from the excitement of Broadway Street. Inside, you’ll find a spacious layout with modern furnishings, a fully equipped kitchen, and a pool table for endless fun. Whether you’re here to explore Music City, catch live shows, or simply relax, this home is the perfect base for your stay.
+
+Guest access
+Guests will have the entire townhouse to themselves.
+
+Other things to note
+This is the perfect location for your Nashville get away.
+
+Registration Details
+2019031757
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Southern Stay Co LLC
+Host User ID: 706551739
+Host Profile URL: https://www.airbnb.com/users/show/706551739
+Host Profile URL Source: public user permalink from passport userId
+My work: Retired Athlete
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+46 reviews
+4.85 out of 5 average rating
+1 year of hosting

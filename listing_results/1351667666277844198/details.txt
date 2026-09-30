@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1351667666277844198
+Latitude: 36.1650434950372
+Longitude: -86.75572778838549
+rental_type: Private room in rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+One bedroom one bath on suite private, in a shared two bedroom, two bath loft style apartment 
+
+This stylish place to short term stay is perfect for student interns contract nurses remote work. 
+
+Great views over downtown and across the Cumberland river 
+feel as if you’re in a tree. Great east Nashville location not far from clubs and historical Edgefield five points 
+mature Roommate quiet .
+
+The space
+This is a one bedroom one bath en suite share furnished in a two bedroom two bath “tree house”.
+
+For long-term share perfect for students interns contract, nurses music lovers
+
+Located near five points and music clubs great views, five minutes from downtown
+
+Guest access
+Loft, style, living room, and kitchen balcony, accessible for guests
+
+During your stay
+I’m in the entertainment business and have been in Nashville for five years I’m around if you need any advice for where to go what to do what to see
+
+Other things to note
+Welcome to Nashville
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cynthia
+Host User ID: 253095
+Host Profile URL: https://www.airbnb.com/users/show/253095
+Host Profile URL Source: public user permalink from passport userId
+Easy going host.
+Speaks English and French
+Lives in Los Angeles, California
+I’m happy to spend time with my guests or give them space
+Response rate: 89%
+Responds within an hour
+12 years hosting
+94 reviews
+4.8 out of 5 average rating
+12 years of hosting

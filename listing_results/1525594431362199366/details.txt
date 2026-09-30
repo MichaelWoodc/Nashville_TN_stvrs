@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1525594431362199366
+Latitude: 36.19348
+Longitude: -86.77771
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 24
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Two full townhomes side-by-side — ideal for big groups, corporate stays, family gatherings, or bachelor/bachelorette weekends.
+8 spacious bedrooms + 8 full bathrooms, each beautifully designed with comfort and privacy in mind.
+Rooftop decks with sweeping downtown Nashville views.
+Open-concept living areas with modern décor and plenty of seating for everyone. WiFi, and keyless entry for a seamless stay.
+Sleeps up to 24 guests comfortably Located just minutes from Broadway, The Gulch, and 12South
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pamela Lash
+Host User ID: 593315532
+Host Profile URL: https://www.airbnb.com/users/show/593315532
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Real estate broker
+Response rate: 99%
+Responds within an hour
+Superhost
+2 years hosting
+328 reviews
+4.82 out of 5 average rating
+2 years of hosting

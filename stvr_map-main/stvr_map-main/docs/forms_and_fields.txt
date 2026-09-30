@@ -1,0 +1,9 @@
+New Airbnb and STVR Listing Map Submission
+1. edit url: https://docs.google.com/forms/d/1mhSPh_ZSNzYS5O8gV6yOvF2S9AiLBLWoOzlwW1YmI60/edit
+2. submission URL (with fields)
+https://docs.google.com/forms/d/e/1FAIpQLScaqUry-XEwx7kwZZbV34AxRJzbwJRWg3iM8OxpyzQ-U2lK0Q/viewform?usp=pp_url&entry.1078575168=Address+from+map+(if+found+from+parcel+data)&entry.1115932317=longitude&entry.498343151=latitude
+Google sheet with data: https://docs.google.com/spreadsheets/d/1tBYzEJbB6PFulCqaa2wHQoGKqUPQxu0LxjglIgimAU0/edit?usp=sharing
+csv format:
+Timestamp	Property URLs / listings	Full Street Address	Unit Number (if applicable)	Longitude (Use map to autofill)	Latitude (Use map to autofill)	Address Proof URLs (one per line)	Address Proof Images, Screenshots, etc. 	Do you know if this property may be licensed or unlicensed?	License (if known)	Number of Bedrooms	Advertised Occupancy
+
+

@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1316741348734923068
+Latitude: 36.169
+Longitude: -86.7449
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A modern, stylish luxury experience at this two-year-old custom house just 2 miles from downtown!  Enjoy the large hot tub, 3 decks, gaming area and 6 TVs.  Perfect for a long weekend with 6-8 guests, in a peaceful safe neighborhood blocks from Shelby Park's miles of greenway, golf courses, recreation...and so many popular local restaurants!  Just a 5minute Uber to downtown/Broadway honky tonks.
+
+This is a newer listing with experienced Host over a decades at other properties.  Enjoy Music City!
+
+The space
+There are 2 full bathrooms & 2 half bathrooms. 
+Two spacious bedrooms with newer queen beds.
+One office/room with brand new foldout wide twin.
+Another brand new foldout twin in movie room.
+Two new large couches in movie room & living room.
+The yellow chair folds into a twin bed (good for a kid)
+There's one brand new queen air mattress + two twin air mattresses.
+
+Owner's master bedroom and garage area is locked / off limits. There is a totally separate guest apartment with isolated private entrance, who won't have access to your rental areas.
+
+Guest access
+Entire house, hot tub, gaming area - minus garage & totally separate guest apartment.
+
+Other things to note
+No pets whatsoever ;)
+
+Registration Details
+2024110438
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: B.Allen
+Host User ID: 30345969
+Host Profile URL: https://www.airbnb.com/users/show/30345969
+Host Profile URL Source: public user permalink from passport userId
+Short-term rental host for 10+years & two decades overall. A entrepreneur in franchise consulting.  I love the Music City, fitness, snow skiing and my nephews.  Oh and bourbon. Cheers!
+Born in the 70s
+Where I went to school: Colorado State & Wichita State Univ.
+Response rate: 100%
+Responds within an hour
+11 years hosting
+50 reviews
+4.7 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1509379875905200648
+Latitude: 36.2632
+Longitude: -86.5912
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape the city hustle in this cozy private room and bath nestled within a serene home on a wooded peninsula. Wake up to birdsong with deer and other wildlife frequently wandering through the quiet neighborhood.
+Private entrance to finished lower level. Down the hall from your private room, you’ll find a private bath and a dedicated nook with a coffee maker, microwave, and compact refrigerator—perfect for preparing light meals, storing snacks, or enjoying your morning brew in peace.
+
+The space
+Cozy Private Suite in Two-Story Home – Corner Lot
+
+Welcome to your comfortable retreat in a two-story home on a quiet corner lot. This private downstairs suite offers everything you need for a relaxing short-term stay, including:
+
+•  🛏️ A spacious bedroom with cozy furnishings
+•  🚿 A full private bathroom 
+•  🍳 A convenient kitchenette with essentials for light cooking (microwave, coffee maker, mini-fridge)
+•  🧺 Shared laundry room access
+
+Enjoy your own private entrance and driveway parking, making coming and going a breeze. The suite shares a hallway and laundry area with the friendly family living upstairs—along with their two well-behaved dogs who stay upstairs.
+
+Whether you’re visiting for work, travel, or a weekend getaway, this space offers privacy, comfort, and a welcoming atmosphere.
+
+Guest access
+Guests will enjoy their own private entrance which opens directly to the downstairs suite, ensuring privacy and convenience throughout their stay. A designated parking space is available in the driveway, making arrival and departure easy.
+
+During your stay
+Guests can expect minimal interaction with the host, as the family resides upstairs and respects your privacy. We’re happy to assist if needed, but you’ll have your own private entrance and dedicated space downstairs. The only shared areas are the laundry room and hallway, which are used occasionally. Feel free to reach out with any questions—we’re nearby but out of the way.
+
+Other things to note
+Please be aware that two friendly dogs live upstairs with the host family. While they primarily stay on the upper level, they have occasionally been downstairs, so guests with pet allergies should take this into consideration. The dogs are minimal barkers and generally quiet, contributing to a peaceful environment throughout your stay.
+
+Please note that there is an office and TV room also located on the floor with the private bedroom and bath. Family members may be in those rooms or sharing the laundry space on occasion, but no one stays in those rooms overnight. We limit our time downstairs when guests are staying.
+
+You will need to pass the laundry room and a closed office before reaching the bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brenda
+Host User ID: 10240801
+Host Profile URL: https://www.airbnb.com/users/show/10240801
+Host Profile URL Source: public user permalink from passport userId
+My work: College professor
+Lives in Hendersonville, Tennessee
+Pets: 2 dogs - Ginger and Scooby
+Response rate: 89%
+Responds within an hour
+Superhost
+1 year hosting
+19 reviews
+4.84 out of 5 average rating
+1 year of hosting

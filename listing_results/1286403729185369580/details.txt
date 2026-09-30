@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1286403729185369580
+Latitude: 36.023577137068564
+Longitude: -86.57531550146982
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil getaway.
+
+The space
+Enjoy a cozy home just minutes from shopping (Tanger Outlet), downtown Nashville, MTSU, Percy Priest Lake, and airport (BNA).
+
+Guest access
+Guest has access to the entire home except garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katrina
+Host User ID: 652040353
+Host Profile URL: https://www.airbnb.com/users/show/652040353
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+26 reviews
+4.81 out of 5 average rating
+2 years of hosting

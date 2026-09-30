@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1518953831857610909
+Latitude: 36.12779
+Longitude: -86.63866
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your private and peaceful retreat just minutes from Nashville International Airport. Perfect for late arrivals, early flights, or quick business trips, this cozy bedroom features a spacious walk-in closet, and shared bathroom. Unwind on the comfortable front porch or enjoy the large backyard. Located in a quiet residential area with fast access to downtown, this stay offers comfort, privacy,and convenience for airport travelers. 1 other spare room is used for Airbnb travelers as well.
+
+The space
+The house is smaller and single level, split in two directions. My room to the right and the 2 guest bedrooms used to Airbnb to the left where guests will share a bathroom if both rooms are booked.  The back yard or front porch offers a great seating area to relax. For the most part, the house stays pretty quiet .
+
+Guest access
+When entering guests area is down the hallway to the left. This is where the guests shared bathroom will be found. Guests are welcome to use the dining table, living room couches/T.V. but need to respect quiet hours of 11-7. Guest room #1 will be on the right with the queen size bed when going down the hall way.
+
+During your stay
+Guests are welcome to communicate with me directly while i'm there, or through the Airbnb App. I will do my very best to resolve any issues so please just inform me!
+
+Other things to note
+✈️ Airport Noise
+The house is very close to the airport, so you’ll hear planes throughout the day. They usually aren’t very loud, but they can be frequent. I’ve provided fans in the bedrooms that do a great job of helping block out the extra noise.
+
+🏡 Shared Spaces
+The living room, dining area, front porch, back deck, and guest bathroom are all shared spaces, so please feel free to enjoy them! Kitchen access is limited, but you’re always welcome to grab filtered water or store food and drinks in the refrigerator.
+
+☕ Coffee
+Help yourself to the Nespresso! Turn the tab on top to the right to open it, insert a pod, close the lid, turn the tab back to the left, and press the button on top. Feel free to use some of my creamer from the fridge too.
+
+🎲 Relax & Have Fun
+There are board games in the hall closet that you’re welcome to use. And if you have some downtime, I definitely recommend relaxing on the front porch—it’s one of my favorite spots at the house.
+
+🚿 Bathroom Essentials
+You’ll find large bottles of Pro Formula shampoo & conditioner and Ocean Breeze body wash in the bathroom. Please use whatever you need! I also keep a few extra hygiene items around, so if you forgot something, just ask—I may have it.
+
+🚶 Neighborhood Walk
+The neighborhood is quiet and peaceful. There are three cul-de-sacs on the hill where the house is located, and walking all three makes a nice ~0.9-mile loop.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kody
+Host User ID: 225892900
+Host Profile URL: https://www.airbnb.com/users/show/225892900
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: New Mexico Highlands Univeristy
+I spend too much time: Playing phone games!
+Lives in Nashville, Tennessee
+For guests, I always: Check and make sure they’re all set!
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+57 reviews
+4.96 out of 5 average rating
+7 years of hosting

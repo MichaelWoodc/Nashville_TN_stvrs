@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1485083920017727589
+Latitude: 36.1754
+Longitude: -86.7816
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Downtown Riverside Retreat: This 1 BR, 1 BA riverside hideaway boasts two queen bunk beds and two single bunks—fun and functional for families or groups. Spacious balcony overlooks the Cumberland River. Centrally located within walking distance of Germantown, First Horizon Park, Music City Center; plus shared pool, fire‑pit, patio, dining, and on‑site laundry. Minutes away: Bridgestone Arena (1.8 mi), Nissan Stadium (1.4 mi), Lower Broadway (2 mi).
+
+The space
+Modern Downtown Nashville Condo with River Views & Walkable Attractions
+
+Welcome to your perfect Nashville getaway! This cozy yet modern 1-bedroom, 1-bathroom condo is located right in the heart of downtown Nashville, offering unbeatable access to the city's top entertainment, dining, and cultural experiences.
+
+Located on the third floor (stairs required; no elevator), this stylish unit features:
+Sleeping for up to 6 guests with:
+Two queen-sized bunk beds
+Two twin-sized bunk beds
+
+A full bathroom with a walk-in shower
+A well-equipped kitchen with a range, dishwasher, and Keurig coffee maker
+
+Enjoy Roku TV in the living room and stunning views of the Nashville skyline and Nissan Stadium, home of the Tennessee Titans. The condo also offers one assigned parking space and additional unassigned parking for extra vehicles.
+
+Community amenities include:
+A fitness center and laundry facility just a 6-minute walk away at the front of the property.
+A pool and fire pit for relaxing after a day of exploring
+
+You're just minutes away from:
+ 
+Lower Broadway
+Nissan Stadium, Bridgestone Arena, and First Horizon Park
+Ryman Auditorium & Tennessee Performing Arts Center
+The trendy Germantown district, filled with restaurants, pubs, and the Nashville Farmers Market
+
+Bonus: Enjoy front-row river views of the Cumberland River, making this the ideal spot to watch Nashville’s legendary Fourth of July and New Year’s Eve fireworks displays!
+
+Book your stay today and experience Music City like a local!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 692880900
+Host Profile URL: https://www.airbnb.com/users/show/692880900
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+32 reviews
+4.94 out of 5 average rating
+1 year of hosting

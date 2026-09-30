@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1526206027217385339
+Latitude: 36.39509958910322
+Longitude: -86.85818185932594
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Greenbrier, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to Pleasant Acres, a newly renovated 3-bed, 2-bath home on 4 private acres, just 25 mins from Nashville. Enjoy serene nature, a spacious deck with comfortable seating overlooking the forest, a fire pit, and modern comforts. Perfect for couples, families, or groups, sleeping 6 comfortably. Experience a quiet, peaceful retreat away from the city, with easy access to city attractions. Features a king master suite, fully stocked kitchen, and dedicated workspace.
+
+The space
+Welcome to Pleasant Acres, your newly renovated 3-bedroom, 2-bathroom home designed for comfort and relaxation on a beautiful 4-acre property. This space comfortably fits 6 guests.
+
+   Living Area: Enjoy an open-concept living space that seamlessly connects the living room, kitchen, and dining area. The bright living room features large, comfy sofas, cozy reading spots, and a TV for entertainment.
+   Kitchen & Dining: The modern kitchen, complete with a large island, includes all the pots and pans you need for easy meal prep. We have a microwave in the cabinet for quick meals. We also offer a crock pot, toaster, hand mixer, and a NutriBullet for smoothies. A pantry closet holds provided snacks and games. The adjacent dining area provides ample space for eight to enjoy meals together. For all the coffee lovers, we provide a Drip coffee maker, a French press, and a Keurig with assorted coffees. 
+   Master Suite: Retreat to the spacious Master Suite featuring:
+       King-size bed
+       Walk-in closet
+       Rocking chair
+       Dohm Sound machine for restful sleep
+       Dedicated desk/work space
+       TV
+       Direct access to the back porch deck seating area with tranquil views of the surrounding woods.
+   Master Bathroom: The luxurious master bathroom boasts a soaking tub, a large walk-in shower, and double sinks.
+   Second Bedroom: Furnished with a comfortable queen-size bed.
+   Third Bedroom: Offers two single beds and a desk.
+   Second Bathroom: Shared by the second and third bedrooms, includes a large walk-in shower.
+   Outdoor Space: Step outside to discover:
+       Expansive wooden deck with ample seating.
+       8-person outdoor dining table, perfect for enjoying meals overlooking the forest.
+       Fire pit area with 6 comfy Adirondack chairs and ambient lights for quality time under the stars.
+       Front porch with a charming porch swing, ideal for relaxing.
+   Unique Feature: Don't be surprised if you spot deer gracefully passing through the property during your stay.
+
+Guest access
+As our guest, you will have exclusive access to the entire house, the spacious back deck overlooking the forest, and the inviting outdoor fire pit area. We provide three convenient parking spaces located in front of the fire pit area for your use.
+
+Please note that a single tenant resides upstairs in the barn beside the house. To ensure their access, kindly keep the garage door closest to the road unblocked.
+
+Other things to note
+This property sits on a private road, offers access to the whole house, and spans 4 acres in a secluded natural setting. Neighbors live up and down Plumnelly Lane, and we all look out for one another; it is a safe space, with nature all around. Feel free to take a morning walk on Plumnelly Lane and take in all the beauty around. The back deck backs up to the Private woods and is such a peaceful getaway! You might even spot deer during your stay!
+
+Important Reminder:
+A tenant resides upstairs in the barn apartment beside the house. Please keep the garage door closest to the road clear to allow them access to the barn garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Regina
+Host User ID: 303364746
+Host Profile URL: https://www.airbnb.com/users/show/303364746
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: University of Tn, Knoxville
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+18 reviews
+5.0 out of 5 average rating
+11 months of hosting

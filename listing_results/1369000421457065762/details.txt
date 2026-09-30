@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1369000421457065762
+Latitude: 36.1721
+Longitude: -86.7969
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the heart of country music with our unique Tim McGraw -themed apartment! Nestled in the vibrant Music City, this charming getaway is perfect for fans of the legend himself.
+
+The space
+Welcome to our meticulously designed two bedroom and one bathroom apartment, providing a restful sanctuary after exploring a day in the music city. The living room provides ample space to relax and stream your favorite shows on our mounted flat screen Smart TV. The sofa bed also pulls out into a queen sized bed, allowing for 6 guests to stay in this apartment. 
+The kitchen contains all of the cooking essentials that you will need if you are looking to dine-inside this apartment as well as a brand new Keurig Coffee Machine. The first bedroom is equipped with a queen sized bed and trendy design touches throughout, to make you feel right at home during your stay. The second bedroom contains two twin beds, allowing a comfortable stay for every reservation. 
+
+*This is a 14 unit building*
+
+*Please keep in mind that you will need to log into your own streaming services as these are not provided, and do not forget to log out prior to departure*
+
+*There is no designated parking spot for this unit, however there is ample street parking behind the building, and this is a unit on the SECOND level and there is no elevator*
+
+HIGHLIGHTS: 
+
+ **Rustic Decor**: Enjoy a cozy ambiance with country-inspired furnishings, vintage memorabilia, and photos celebrating Tim's iconic career.
+
+**Prime Location**: Just minutes from downtown Nashville, you’ll be close to live music venues, delicious Southern cuisine, and the Country Music Hall of Fame.
+
+**Music & Comfort**: Unwind with a curated playlist of Tim McGraw hits, while you relax on the porch with a view of the stunning Tennessee landscape.
+ 
+**Local Touches**: Discover local eateries that inspired Tim's songs and enjoy easy access to Nashville’s vibrant nightlife.
+
+Whether you’re here for a weekend getaway or an extended stay, our country music star themed retreat is the perfect home base for your Nashville adventure. Book your stay today and create unforgettable memories in the city that celebrates country music!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Riley
+Host User ID: 175574066
+Host Profile URL: https://www.airbnb.com/users/show/175574066
+Host Profile URL Source: public user permalink from passport userId
+General Manager for The Mitten Group Property Management in Traverse City and also GamePlan Property Management in Nashville. I strive to provide excellent stays for my guests and go above and beyond to make sure you enjoy every aspect of your stay. Please reach out with any questions and I look forward to your visit!
+My work: The Mitten Group
+Lives in Traverse City, Michigan
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+9851 reviews
+4.82 out of 5 average rating
+7 years of hosting

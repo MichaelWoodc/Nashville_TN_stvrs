@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/12417412
+Latitude: 36.13302
+Longitude: -86.88465
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private 1 BR, 1 BA guest cottage on 1 acre lot in west Nashville. Ten minutes to downtown.  Quiet streets and park-like back yard.  Walk to Nashville West shopping, restaurants. Pet-free space with king size bed (or two twin beds). Enjoy living room, kitchen, bedroom, bath, covered parking, WiFi, and corner desk with a view.  Cable TV plus DVD/BluRay player. Ecofriendly household products and hypoallergenic bedding. No cleaning fees.  No pets except pre-approved service animals only.
+
+The space
+Lovely light in living room with large south facing picture window overlooking park-like setting in back yard. Hardwood floors. One block to bus stop and West Nashville shopping area. Wide range of shops and restaurants nearby on Charlotte Pike.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gwen
+Host User ID: 32084893
+Host Profile URL: https://www.airbnb.com/users/show/32084893
+Host Profile URL Source: public user permalink from passport userId
+As a long time resident of Nashville, I love living here and enjoy helping others enjoy their visit.  Let me know what you really love to do and I'll help gather intel for your time here.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+156 reviews
+4.96 out of 5 average rating
+9 years of hosting

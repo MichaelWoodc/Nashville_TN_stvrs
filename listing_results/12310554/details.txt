@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/12310554
+Latitude: 36.13424
+Longitude: -86.80279
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in beautiful, walkable tree-lined Hillsboro Village of mid-town Nashville. Walk to Vanderbilt Medical & the University. Hillsboro Village has restaurants, local coffee, movie theater & shopping. 3 blocks to Kroger. Belmont University & 12South shopping & dining are 1 mile away. Uber, Lyft & rental bikes & scooters are available nearby. In the flat -> washer/dryer, full kitchen, TV & internet. We love our neighborhood & you will too!  Please NO smoking or pets.
+
+The space
+Our apartment was recently overhauled, a new mattress just added & it is filled with all of our favorite pieces! The original Jack Daniels barrel top (bar height) table, the church pew & the antique bed that found its way back to us & they all have a story to tell. It is cozy & comfortable & we hope you can relax here!
+
+Guest access
+The apartment is central, but quiet, a nice respite in the middle of Nashville. It is a half flight of stairs from the front parking lot (on Fairfax Ave) & a full flight of stairs if you park to the side or in the back. Parking is free in the lot or on the street.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Megan
+Host User ID: 66390001
+Host Profile URL: https://www.airbnb.com/users/show/66390001
+Host Profile URL Source: public user permalink from passport userId
+My family and I enjoy camping, hiking, chickens, reading and each other.  We are currently addicted to pinball, beekeeping and rescuing our split log cabin. We have never met a stranger, and are always up for a good story, so transplanting to the South was a natural fit.  We have been in Nashville for 15 years loving every minute of it and this city has loved us back in so many ways.  We love to share our town with our friends and family!  And I am a freelance artist/medical illustrator. I wouldn't have mentioned it, but my husband/promoter is staring over my shoulder :).
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+594 reviews
+4.94 out of 5 average rating
+10 years of hosting

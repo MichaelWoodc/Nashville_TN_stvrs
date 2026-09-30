@@ -1,0 +1,126 @@
+URL: https://www.airbnb.com/rooms/1456490843228590527
+Latitude: 36.16325
+Longitude: -86.78224
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Live your Music City moment in the heart of downtown at this Central Nashville Hotel. Just a 5-minute walk to Broadway and steps from Bridgestone Arena, TPAC, and Music City Center, this newly renovated property puts you in the center of it all. After exploring, head up to the 28th-floor rooftop for skyline views and cocktails, or book a karaoke room with friends. With bike rentals, a 24/7 gym, and local eats on-site, your Nashville stay just hit a high note.
+
+The space
+✨Top Reasons to Stay ✨
+
+  ✔ Walk to Broadway in 5 minutes — live music, honky-tonks & all the Nashville energy right at your feet
+
+  ✔ Sip sky-high at Skye Lounge — 28th-floor rooftop vibes, craft cocktails & city views
+
+  ✔ Karaoke nights? Covered. Book your own private studio and sing your heart out
+
+  ✔ Explore like a local with on-site bike rentals — hit the historic streets in style
+
+  ✔ Bring your pup along! We’re pet-friendly with zero extra fees
+
+
+✨ About the Space
+
+Traveling with your crew? This double-bed room is made for group stays and fam trips, just a quick 5-minute walk to Broadway’s buzzing honky-tonks and must-see spots. Stream your go-to shows, sip your free bottled water, and catch a vibe before your next Nashville adventure.
+
+✨Room Highlights
+
+✔️ Two Double Beds
+✔️ Sleeps up to 4 guests
+✔️ Marble bathroom with walk-in shower
+✔️ Robe, hair dryer, and lighted vanity mirror
+✔️ Desk + in-room safe
+✔️ Complimentary bottled water + instant hot water
+✔️ Smart TV with cable, ESPN, HBO, and streaming
+✔️ Air-conditioned, non-smoking
+✔️ Ironing facilities and hairdryer provided
+✔️ Wireless internet (fee applies)
+✔️ Connecting rooms are available upon request
+✔️ Rollaway bed or crib available upon request
+
+✨ Notable Property Amenities
+
+✔️ Skye Lounge: 28th-floor rooftop restaurant & bar with panoramic downtown views
+✔️ The Library Bar: On-site restaurant serving breakfast, lunch, and dinner
+✔️ Private Karaoke Studios: Bookable spaces to sing and celebrate
+✔️ Fitness Center: 24-hour gym featuring Peloton bikes
+✔️ Bike Rentals: Easy, fun transportation to nearby sights
+✔️ Lobby Gift Shop: 24/7 grab-and-go snacks and local merchandise
+✔️ Pet-friendly—no fees required
+✔️ Meeting spaces
+
+✨ Local Experiences & Nearby Attractions
+
+ • Walk to iconic honky tonks on Broadway
+ • Catch concerts at Bridgestone Arena and Ryman Auditorium
+ • Explore history at the Country Music Hall of Fame
+ • Visit Centennial Park and the Parthenon
+ • Enjoy vibrant nightlife, dining, and shopping in downtown Nashville
+
+✨ Arrival Information
+
+✔️ Check-in: From 3:00 PM
+✔️ Check-out: By 11:00 AM
+✔️ Must show a valid photo ID and credit card upon check-in. Please note that all special requests cannot be guaranteed and are subject to availability upon check-in. Additional charges may apply. Guests are required to show a photo ID and credit card upon check-in
+✔️ Must be 21+ to rent this room. Only the person's name on the booking will be allowed to check in
+❗ IMPORTANT NOTE: Guests who do not check in as scheduled will be considered a no‑show.
+
+Guest access
+24/7 coverage service prepared to welcome you
+
+Other things to note
+✨ Good to Know During Your Stay
+
+▶️ Mandatory Fees
+— A $100 incidental deposit per stay is required at check-in, collected by credit card. Deposits are reimbursed within 7 days of check-out, subject to a property inspection.
+— Resort fee: $25 per night, includes:
+ •  Daily $12.50 Food & Beverage credit
+ •  Daily museum passes for two guests (Frist Art Museum, National African American Music Museum, or Nashville Zoo)
+ •  Daily all-day bike rentals for two guests
+ •  Daily enhanced high-speed internet access
+
+▶️ Parking
+✔️ On-site self-parking:  Price is dynamic, but the nightly rate will not exceed $70.00 (taxes and fees not included)
+✔️ Valet Parking: Price is dynamic, but the nightly rate will not exceed $75.00 (taxes and fees not included)
+
+▶️ Pet Policies
+✔️ Pets allowed (no additional fees apply; contact front desk for details)
+✔️ Pet-friendly amenities and packages available upon request
+
+▶️ Food & Drink
+✔️ Library Bar: Breakfast, lunch, dinner, cocktails, and extensive bourbon selection
+✔️ Skye Lounge (rooftop): Cocktails, small plates, panoramic downtown views
+✔️ Lobby Gift Shop: Open 24/7, grab-and-go snacks, meals, local merchandise
+✔️ Room service available
+
+▶️ Smoking Policy
+✔️ 100% smoke-free property; smoking prohibited in rooms and public areas (additional fees may apply for violations)
+
+▶️ Damage & Cleaning Policy
+✔️ Guests are responsible for any damages or excessive cleaning costs identified after check-out.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Room In Central Nashville Hotel
+Host User ID: 703536558
+Host Profile URL: https://www.airbnb.com/users/show/703536558
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+368 reviews
+4.74 out of 5 average rating
+1 year of hosting

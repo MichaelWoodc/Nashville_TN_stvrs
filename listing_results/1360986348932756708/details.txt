@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1360986348932756708
+Latitude: 36.1706221451413
+Longitude: -86.72591667221987
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A perfect home-away-from-home in East Nashville!  Sleeps 8, bring your pets!  This recently painted and newly furnished 3 bed / 3 full bath + den offers a stylish and comfortable retreat designed for your ultimate comfort and  relaxation.  Whether you’re here to explore all the fabulous and funky shops, restaurants and bars of East Nashville’s neighborhoods, visit The Grand Ol’ Opry, or enjoy the vibrant city of Nashville itself, our home provides the ideal setting for your Nashville getaway.
+
+The space
+Brand new luxury hotel brand king size bed in the master, high-quality queen size beds (one with an adjustable frame) in the other two bedrooms,  and a twin bed, a crib and a couch that folds flat for sleeping in the den.
+
+Master bathroom suite has a large soaking tub and a separate large shower.  Our home has fabulous water pressure for showering in all three full bathrooms!  The master bathroom suite also has a brand new bidet style toilet with heated seat, LED lighting and all of the features of modern bidets!
+
+The backyard is completely fenced for your pets.
+
+Our home is located at the Riverside Trailhead entrance to Shelby Bottoms Park. Enjoy direct access to scenic greenways, walking and biking trails, and nature right from your doorstep!
+
+Other things to note
+The eighth sleeping place is a deep couch on the lower level of the home where the bedroom and another twin bed in the crib are.  It’s not a proper bed, but it’s very comfortable even for an adult.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sharri
+Host User ID: 488650886
+Host Profile URL: https://www.airbnb.com/users/show/488650886
+Host Profile URL Source: public user permalink from passport userId
+My home is my 3rd AirBnB hosting experience in the Nashville area and I’ve loved each!
+Born in the 60s
+Where I went to school: University of Alaska & Lesley University
+Response rate: 100%
+Responds within a few hours
+Superhost
+4 years hosting
+71 reviews
+4.99 out of 5 average rating
+4 years of hosting

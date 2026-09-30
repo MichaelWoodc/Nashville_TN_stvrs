@@ -1,0 +1,29 @@
+URL: https://www.airbnb.com/rooms/1276278225075886342
+Latitude: 35.96758
+Longitude: -86.8448
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+amazing panoramic view of the twinkling city night lights, as well as gorgeous sunset, sunrise views, without sacrificing convenience. You're literally five minutes to Cool Springs. This home also has amazing natural light with a modern open floor plan that centers on a vaulted great room with a wall of windows that frames the view. Three fireplaces warm the home — one in the great room, one in the primary suite.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cheng
+Host User ID: 658615597
+Host Profile URL: https://www.airbnb.com/users/show/658615597
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 10%
+Responds within a few days or more
+1 month hosting

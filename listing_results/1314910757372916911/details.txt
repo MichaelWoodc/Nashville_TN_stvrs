@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1314910757372916911
+Latitude: 36.24999616378861
+Longitude: -86.63942602143013
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville - Music Capital of the World! Our home is the perfect combination of modern amenities, Nashville charm, and adventure. 
+
+Each room is equipped with a private bath, closet, premium linen,  and all essentials to feel at home. Enjoy beautiful sunrises - or sunsets - on the rooftop balcony with a fire pit. 
+
+The location is one block from Turtle Bay Marina and the lake, 10 min. from BNA International Airport, and within 20-25 min. of most major Nashville attractions.
+
+The space
+The home is conveniently located within 10 minutes of BNA International Airport and within 20-25 minutes to most major Nashville attractions.
+
+Enjoy a beautiful sunset from our rooftop deck, while staying warm with the gas firepit. 
+
+A dedicated parking space is available for guests.
+
+Extra speedy wifi included!
+
+Guest access
+1st Floor: Garage and downstairs bedroom. 
+
+2nd Floor: Kitchen, Dining Room, Living Room.
+
+3rd Floor: Primary Bedroom and second bedroom. 
+
+Rooftop deck: Enjoy a beautiful sunrise or sunset, while staying warm next to the gas firepit. A gas grill is also located on the rooftop for cooking.
+
+Guests have one dedicated parking space, along with ample street parking.
+
+Other things to note
+We’re here to host you and your group! We’re excited to share our home with you, and we ask that all guests respectfully follow a couple simple rules:
+
+1) Home is 100% smoke free. Evidence of smoking results in a $500 fee.
+
+2) The city has a strict noise ordnance after 10pm. We want you to enjoy the space and have fun, while also respecting the community. Any noise complaints to the city will result in a $500 fine. (This is the fine we have to pay to the city as hosts.)
+
+3) Guests are responsible for any damage that occurs during the trip. 
+
+This is all pretty basic stuff. We hope you enjoy your stay and make many lasting memories in our hometown. 🎸🎵
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amy
+Host User ID: 12150738
+Host Profile URL: https://www.airbnb.com/users/show/12150738
+Host Profile URL Source: public user permalink from passport userId
+Lives in Henderson, Nevada
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+72 reviews
+4.82 out of 5 average rating
+2 years of hosting

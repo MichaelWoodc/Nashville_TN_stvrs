@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1278218168287548617
+Latitude: 36.17290396018408
+Longitude: -86.79612188839678
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Back on Airbnb after a few year break. New listing, new decor (updated photos coming soon), same hospitality! We've hosted 1000's on guests and maintained super-host status for 5 years and running! 
+
+This centrally-located home sits in a small community in downtown Nashville. There is a playground park on the street, great restaurant options, and it's walkable to the Farmers Market, Bicentennial, Germantown, etc. Close to downtown, the Gulch, Nissan Stadium, Bridgestone, and so much more!
+
+The space
+This cute two-bedroom home in the heart of downtown is comfortable, convenient, and perfect for small groups and families.
+
+The downstairs has a wonderful open floor plan connecting the living room, kitchen, and dining space. The home has two full baths, one on each floor. Both bedrooms are spacious. 
+
+The enormous master bedroom features a luxurious king bed with a dreamlike memory foam mattress, a very large walk-in closet, a great bathroom with a massive shower, and a bunk bed with a full size bed on the bottom and a twin on top (also with memory foam mattresses). The room has a flatscreen TV with full cable. 
+
+The downstairs bedroom features a beautiful modern canopy bed with a memory foam mattress and a closet.
+
+There are two sofas that can be slept on in the main room and a queen-sized air mattress is available upon request.
+
+Guest access
+The entire space, from the front porch, back deck, back yard and driveway are yours to enjoy!
+
+Other things to note
+Nest thermostat, Keurig coffee maker, towels, wifi, washer/dryer, two large flat-screen TVs, and our Kitchen is stocked for cooking in.
+
+Permit: 2/0/1/8/0/4/2/4/2/3
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Byron
+Host User ID: 7204232
+Host Profile URL: https://www.airbnb.com/users/show/7204232
+Host Profile URL Source: public user permalink from passport userId
+We love life in Nashville with our 3 kiddos and dog Ollie (and gecko Godzilla). We hike, cycle, camp, climb, and do just about anything we can outside!
+Born in the 80s
+My work: One Eleven
+Response rate: 100%
+Responds within an hour
+11 years hosting
+384 reviews
+4.85 out of 5 average rating
+11 years of hosting

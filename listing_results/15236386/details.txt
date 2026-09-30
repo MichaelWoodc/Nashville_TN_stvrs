@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/15236386
+Latitude: 36.18985
+Longitude: -86.74203
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My place is with in walking distance to many restaurants, Cafe Roze, 5 Daughters Bakery, Ugly Mugs, Two Ten Jack (Ramen & Sushi). Jeni's Ice Cream.   Nice quiet walking neighborhood, comfy beds, and  cozy. My place is good for couples, solo adventurers, business travelers, families (with kids), and furry friends (pets) under 15 lbs.  Easy access from parking area, via back deck, 3 steps up with hand rail - front door is also accessible, but does not have self entry.
+
+The space
+We are located in Eastwood Neighbors Neighborhood, family friendly, within walking distance to many restaurants and coffee shops.
+
+Guest access
+You will have access to the entire house and fenced in back yard.  Plenty of parking space
+Check in 3pm 
+Check out is 11 am
+
+Other things to note
+We are 15 minutes from the Grand Ole Opry - 20 minutes from downtown - Ryman, Nissan Stadium, Bridgestone arena, Country Music Hall of Fame, the Music City Center, Riverpark, the Symphony, you name it we are close - Farmer's Market, Bicentennial Mall, German Town, Franklin is about a 40 minute drive from the Cottage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cherylann
+Host User ID: 59902584
+Host Profile URL: https://www.airbnb.com/users/show/59902584
+Host Profile URL Source: public user permalink from passport userId
+My work: AMAX Talent Agency, Nashville, TN
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+530 reviews
+4.95 out of 5 average rating
+10 years of hosting

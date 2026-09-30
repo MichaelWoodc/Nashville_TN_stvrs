@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1137729051249815608
+Latitude: 36.19471
+Longitude: -86.78142
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back and relax in this calm, stylish space. Take in the stunning view of Nashville's skyline from your exclusive vantage point on the private rooftop deck of this townhome. Complete with a relaxing hot tub and a variety of cozy seating options, including a lounge area, this rooftop oasis is the perfect place to unwind and enjoy the cityscape.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay, following the protocols set forth by the CDC.
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ Luxury Hot Tub
+✔ Rooftop Fire Place
+✔ High-Speed Wi-Fi
+✔ Roof Top
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking in 2 Car Garage
+
+Just a short drive away, you can immerse yourself in Nashville's rich cultural scene. Explore the historic Ryman Auditorium, where legendary country music performances have left their mark. Nearby, the Country Music Hall of Fame and Museum offers a captivating journey through the genre's history, while the Johnny Cash Museum pays homage to the iconic Man in Black.
+
+For art enthusiasts, the Frist Art Museum awaits with its diverse collection of contemporary and classical works, providing a feast for the eyes and the soul.
+
+Inside the four-story new-build, luxury abounds with the latest finishes and high-end fixtures throughout. The open-concept living area seamlessly flows into the kitchen, equipped with stainless steel appliances and a generous breakfast bar dining area. 
+
+The bedrooms, strategically spread across the levels, offer privacy and comfort, each boasting an attached  bathroom. 
+
+First floor: queen bed w/ en suite bathroom 
+
+Second floor: king bed w/ en suite bathroom w/ access from hallway as well
+
+Third floor: king bed w/ en suite bathroom (primary); two queen bunk beds w/ en suite bathroom (shower/tub combo) 
+
+Additional amenities include central air-conditioning, a private washer/dryer.
+
+Guest access
+Guests will have access to the entire house!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lawrence
+Host User ID: 573006083
+Host Profile URL: https://www.airbnb.com/users/show/573006083
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+73 reviews
+4.93 out of 5 average rating
+2 years of hosting

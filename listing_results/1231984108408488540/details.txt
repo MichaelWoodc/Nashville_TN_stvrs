@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1231984108408488540
+Latitude: 36.20872
+Longitude: -86.76742
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish and Modern Townhome is the heart of Nashville! Spacious and fully equipped with everything you need for a comfortable stay in Music City!
+Enjoy a stylish experience at this centrally-located place. This home is in one of the hottest, fastest growing neighborhoods in Nashville. You are no more than 10 min away from every hot restaurant, bar and attraction Nashville has to offer.
+
+The space
+Amazing 2 bedroom Townhome centrally located in Music City!!
+
+1st floor- Queen sleeper sofa
+2nd floor- Master bedroom with king bed
+3rd floor- Guest bedroom with 2 full beds
+With fold out queen memory foam mattress
+3rd floor- balcony!
+
+Full equipped kitchen with sleek modern appliances including pots pans, dishware, bakeware, toaster and a coffee maker! Unit is equipped with smart TVs in the living room and including the upstairs guest rooms!
+
+Other things to note
+Central to it ALL!
+
+Nissan Stadium-> 8 min
+Bridgestone-> 12 min
+Broadway -> 14 min
+Midtown-> 16 min
+Five Points -> 8 min
+Opryland -> 20 min
+BNA -> 14 min
+Soccer Complex -> 14 min
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City Stays
+Host User ID: 598410005
+Host Profile URL: https://www.airbnb.com/users/show/598410005
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Vacation Rentals
+Response rate: 98%
+Responds within an hour
+2 years hosting
+324 reviews
+4.61 out of 5 average rating
+2 years of hosting

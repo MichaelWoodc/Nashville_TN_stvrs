@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/13973174
+Latitude: 36.173
+Longitude: -86.7803
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Live like a local in this downtown Nashville waterfront condo! Perfect for up to 4 guests, this 1-bed, 1-bath oasis offers stunning Cumberland River views from a private balcony. Enjoy the convenience of being steps from Music City's best attractions while having a cozy, fully-equipped space to relax. Includes free parking and pool access.
+
+The space
+Step inside and feel right at home in this thoughtfully furnished downtown retreat. The living space features a comfortable queen sleeper sofa and a Smart TV, perfect for unwinding. From the living room, step out onto your private balcony to take in the spectacular views of the Cumberland River.
+
+The fully equipped kitchen has everything you need to prepare a meal before a night out. When it's time to rest, the master bedroom offers a plush king-sized bed for ultimate comfort and a second Smart TV. The attached full bathroom features a relaxing tub.
+
+Your downtown retreat includes:
+ King bed in the master bedroom
+ Queen sleeper sofa in the living room
+ Two Smart TVs
+ Fully equipped kitchen and living space
+Private balcony with beautiful river views
+
+Guest access
+Guests will have private access to the entire 1-bedroom, 1-bathroom condo, including the private balcony. Enjoy the convenience of self check-in upon arrival. As our guest, you are also welcome to use the shared community amenities, including the refreshing swimming pool and free on-site parking during your stay.
+
+Other things to note
+This is a self check-in property. You will receive detailed check-in instructions, including the access code, 24 hours prior to your arrival date. Please ensure you have access to the booking platform messenger for these details.*Smoking is permitted only in designated areas that include the balcony, and outdoor common areas that have signs posted that Permit smoking.*Pets are allowed. A $100 pet fee is required, for additional cleaning and maintenance of pet areas on the complex
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 83323910
+Host Profile URL: https://www.airbnb.com/users/show/83323910
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native! I am more than happy to help with suggestions about places to see, restaurants to visit and much more! Just let me know and I will let you know my personal favorites in Nashville!
+Born in the 60s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+205 reviews
+4.87 out of 5 average rating
+10 years of hosting

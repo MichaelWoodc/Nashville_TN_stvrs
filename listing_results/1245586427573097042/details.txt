@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1245586427573097042
+Latitude: 36.18098
+Longitude: -86.79176
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a stylish retreat with high ceilings, a modern kitchen, and updated bathrooms. Relax by the wood-burning fireplace or enjoy the private backyard with a hot tub, propane fire pit, and landscaped garden—perfect for relaxing under the stars.
+
+Located within walking distance to downtown restaurants, attractions, and ballparks.
+
+Note: A separate studio behind the home has its own entrance and is leased. The tenant does not have access to the garden or hot tub.
+Owner/Broker LIC.336220 TN
+
+The space
+The property has 3 full bedrooms with an Additional Room upstairs before the Master Bedroom that can sleep one guest in a twin bed.
+
+There is a separate studio in the back of the house with a full time tenant that has its own entrance and does not use the garden or hot tub.
+
+Guest access
+The house is available for 8 guests
+
+Other things to note
+Hot tub available to guests.
+
+There are cameras on the outside for security, located:
+Front porch, parking, back door kitchen
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catherine Aubale
+Host User ID: 651992819
+Host Profile URL: https://www.airbnb.com/users/show/651992819
+Host Profile URL Source: public user permalink from passport userId
+Hello,
+I have been doing bookings for years but just renewed with Airbnb. Real estate broker who takes great care of her properties.
+I want to make sure my guests are comfortable and happy.
+Born in the 40s
+My work: Real estate broker
+Response rate: 100%
+Responds within a few hours
+2 years hosting
+24 reviews
+4.71 out of 5 average rating
+2 years of hosting

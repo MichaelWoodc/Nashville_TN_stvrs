@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1034636072701938785
+Latitude: 36.16021
+Longitude: -86.70846
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This quiet neighborhood will give you the peace of being in the country, while only 10 minutes from broadway. It is perfect for a family or groups of 4 looking to come explore our wonderful city! The unit is located on the lower level of our primary home, with a private entrance for your convenience! The WiFi and remote access passwords are delivered upon arrival! This cozy space, with Nashville theme, will give you a real feel for Tennessee and our city!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joshua
+Host User ID: 15616810
+Host Profile URL: https://www.airbnb.com/users/show/15616810
+Host Profile URL Source: public user permalink from passport userId
+Gym owner with a passion for real estate! I love hosting people from all over the world and providing a clean , great experience at an amazing value.
+My work: Real Estate
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+409 reviews
+4.72 out of 5 average rating
+8 years of hosting

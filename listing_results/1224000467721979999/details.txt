@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1224000467721979999
+Latitude: 36.19606
+Longitude: -86.8268
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Don’t miss out on all that Nashville has to offer all year long! At our spacious home, your group will love watching the big game or lounging with the jets in the indoor heated pool. Spend the day on the massive rooftop deck grilling and eating at the outdoor dining table, playing life-sized games, relaxing by the fire pit, and watching the sunset with 360 degree views of the Nashville skyline. Start the night mixing drinks in your own speakeasy bar before heading only 3 miles to Broadway.
+
+The space
+The beautiful open kitchen, spacious living room, comfortable bedrooms, and luxury bathrooms span 4 full floors. You'll enter into the stunning ground floor where you'll find one of the primary bedrooms complete with a king size bed and private bathroom with a tub, as well as the star of the property: the indoor pool, lounge seating, TV, and exercise equipment. The heated pool will keep you warm on cool fall nights and provide a refreshing cool dip during the hot summer. You can also turn on the jets to get a workout swimming laps from your own airbnb, or use the spin bike or treadmill while watching shows on the smart TV. 
+
+The second floor is completely open, with a large, modern, and fully-furnished kitchen and expansive peninsula with stools for casual seating. You'll find brand new oversized comfy couches in the living room, as well a smart TV and a shared bathroom. An additional well-decorated bedroom sleeps 5 with two queen beds and a pullout sofa bed. 
+
+When you walk up to the third floor, you will find yourself transported to your own glamorous, jewel-toned speakeasy, complete with a full bar area and countertop seating, a large widescreen tv, and an antique popcorn machine. On the third floor, you'll also find a washer/dryer and two additional bedrooms, one with queen bed bunks and another full primary suite with a four-post king bed, a walk-in closet, and a massive bathroom with double sinks. 
+
+From there you can head up to your huge private roof deck, where you can choose to catch some sun on the lounge furniture or put up the massive umbrella for shade. Your guests can warm up by the fire pit while you grill up your favorite meal and enjoy an outdoor meal in the dining area with the whole family. You'll also enjoy playing your own private mini-golf course in the daytime sun or under the string lights at night.
+
+Guest access
+Guests can access the entire townhouse, including the private pool and huge roof deck. Guests will receive a private code to use to enter the house and garage.
+
+Other things to note
+Pets are welcome!
+Maximum of two pets per stay. There is a pet fee of $50 per pet to cover the cost of an extra deep clean after your departure. This ensures the home is completely allergen free, as some people can be allergic to pets.
+
+Parking:
+We converted the garage to the indoor pool spa, but there is plenty of parking outside in the community where your cars will be safe. You can take any spot in the private luxury community :).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alon
+Host User ID: 596392450
+Host Profile URL: https://www.airbnb.com/users/show/596392450
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+79 reviews
+4.91 out of 5 average rating
+2 years of hosting

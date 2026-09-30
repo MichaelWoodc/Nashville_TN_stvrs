@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1391354698549046890
+Latitude: 36.26512291610341
+Longitude: -86.76493424893182
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax, Family and pet friendly home
+Plenty of Off Street Parking
+Large Yard
+Cookout Option 
+15 Mins from Downtown Nashville and Opryland
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harley
+Host User ID: 316796541
+Host Profile URL: https://www.airbnb.com/users/show/316796541
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Fisk University
+My work: Real Estate &Courier
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+151 reviews
+4.97 out of 5 average rating
+2 years of hosting

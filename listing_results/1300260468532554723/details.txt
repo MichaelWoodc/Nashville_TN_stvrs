@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1300260468532554723
+Latitude: 36.13784743694776
+Longitude: -87.01887039037548
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pegram, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This cozy cabin in the woods is the perfect peaceful getaway for a couple, family or small group of friends. It is only 30 minutes from  downtown Nashville so it is close enough to enjoy the city but far enough away to soak in some much needed peace and quiet.
+
+The space
+The cabin sits on a beautifully wooded 5 acre lot on a quiet street in the little town of Pegram, TN. The area is very quiet and peaceful, perfect for a relaxing getaway to rest and reset.
+
+Guest access
+You have the cabin and surrounding five acres all to yourself. It is a private and peaceful area located on a dead end street so it is very quiet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Star And Taylor
+Host User ID: 44884222
+Host Profile URL: https://www.airbnb.com/users/show/44884222
+Host Profile URL Source: public user permalink from passport userId
+We are a family of five who love hockey, the outdoors, exploring, and spending time on our land with our dog, cats, chickens, rabbit and lizards.
+Hosting on Airbnb has been a part of our lives for over eleven years now. We love creating spaces for our guests to relax and recharge. 
+In addition to being Airbnb hosts, Taylor is a firefighter and Star is a doula. Our sons play hockey and our daughter plays soccer. It’s a busy and fun life :)
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+717 reviews
+4.97 out of 5 average rating
+11 years of hosting

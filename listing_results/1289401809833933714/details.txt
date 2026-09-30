@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1289401809833933714
+Latitude: 36.06281235063058
+Longitude: -86.73448702575307
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a cozy escape just 15 minutes from downtown Nashville. This charming retreat features a private entrance, contactless entry, & a beautiful yard with a pool, hot tub, & firepit. Relax on the large patio with an outdoor TV, or cook in the fully stocked kitchen. Whether you're here to explore Nashville or unwind in comfort, this peaceful space is perfect for couples, solo travelers, or small families. PLEASE NOTE: This is a basement studio apartment. Read the full listing for more info.
+
+The space
+PLEASE BE AWARE this is a private basement unit. We do live upstairs, however, your space, the porch and backyard are completely private to you.
+
+The pool is open as of May 7, 2026 and will be closed on October 17, 2026. 
+
+No parties or events are permitted on the property. 
+
+Unauthorized guests are not allowed on the property without our prior approval. ALL guests, including those that booked the Airbnb, will be asked to leave immediately if this rule is broken.
+
+Guest access
+PLEASE BE AWARE this is a private basement unit. We do live upstairs, however, your space, the porch, pool and backyard are completely private to you.
+
+Other things to note
+Both the regular bed and pullout bed are queens.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cassandra
+Host User ID: 73463681
+Host Profile URL: https://www.airbnb.com/users/show/73463681
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+117 reviews
+4.97 out of 5 average rating
+2 years of hosting

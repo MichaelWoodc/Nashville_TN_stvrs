@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1181095796850199916
+Latitude: 36.13217
+Longitude: -86.78214
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our delightful guesthouse in the heart of Nashville! Nestled right around the corner from the renowned comedy club Zanies, this private retreat offers everything you need for a memorable stay. Whether you're in town for a weekend of entertainment or a relaxing escape, our location can't be beaten. Our tree lined street has sidewalks and is walkable to some of the best coffee shops, restaurants, and boutiques in town!
+
+The space
+This hidden gem is perfect for solo travelers, couples, or small families looking to experience the best of Nashville from a convenient and comfortable home base. Book your stay today and immerse yourself in the vibrant culture and southern hospitality that Nashville is famous for!
+  
+Entire Guesthouse: Enjoy your private space, featuring a full kitchen and washer/dryer. *There are no stairs to access the living area and bathroom. The main sleeping area is in a loft up a spiral staircase. If you require main-level sleeping arrangements, let us know and we can accommodate that. 
+
+Private Entrance: While we live on the property, your guesthouse has a separate, private entrance ensuring your complete privacy.
+
+Parking Included: A dedicated parking pad for one car is available for your use. 
+
+Location: 
+12 South is one of the most walkable neighborhoods in Nashville, a shopping destination jam-packed with boutiques, coffee shops, and restaurants! Enjoy being steps away from Zanies Comedy Club, and a short walk to Hattie B's famous hot chicken, a full size Publix Grocery Store and various shops including Gruhn Guitars, 8th and Roast, Love Peace & Pho, Urban Juicer, Smiling Elephant, an organic market and butcher shop and more. We are a short walk to Ladybird Tacos, Wanna Spoon, 5 Daughters Donuts, Buttermilk Ranch, along with countless other local dining options on 12th Avenue South (also known for the boutique shopping!).
+
+Just a 6 min drive/Uber from the Gulch and downtown! You’re close to iconic venues like the Ryman Auditorium, Bridgestone Arena, Nissan Stadium, and Geodis Park. You are also close to Belmont University and Vanderbilt.
+
+Guest access
+Keyless entry and your own unique door code. 
+
+Parking Included: A dedicated parking pad for one car is right outside the guesthouse entrance.
+
+Other things to note
+The guesthouse shares a wall with a professional music studio. Many guests enjoy the unique experience of being close to Nashville's musical heartbeat. However, if you have any concerns about the music, please don't hesitate to let us know. We also observe quiet hours from 10 PM to 8 AM to ensure a restful stay for our guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 17464573
+Host Profile URL: https://www.airbnb.com/users/show/17464573
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+62 reviews
+4.98 out of 5 average rating
+2 years of hosting

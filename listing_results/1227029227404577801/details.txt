@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1227029227404577801
+Latitude: 36.181699952855965
+Longitude: -86.80619854776036
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stunning 3BR/2BA modern home in Nashville! Within walking distance of Buena Vista shops , bars, restaurants.
+Blocks away from historic Germantown.
+5min from Nashville General Hospital, 8min from downtown. 15min from airport  ,8min from Bridgestone Arena , 8min from Nissan stadium , Open-concept living, modern kitchen, spacious bedrooms, fenced-in backyard with massive deck, grill & outdoor fireplace.washer / dryer included . Free parking ! Driveway fits two cars with additional street parking.
+
+The space
+There is three bedrooms with brand new queen beds! As well as two full size bathrooms both bathtubs are Jacuzzis! Washer and dryer on site! There is a large screen TV in every room!
+
+Guest access
+As a guest for this listing you have access to the entire house, meaning all three bedrooms, two full baths with Jacuzzi jetted bathtubs, Washer dryer living room Fenced in backyard and outdoor huge deck.
+
+Other things to note
+Seven minute car ride to Nashville General Hospital, 15 minute car ride to Nashville international airport, 10 minute car ride to downtown  Nashville /broadway , 8 minute car ride to Bridgestone Arena, 10 minute walk to Buena Vista shops , less than five minutes, walking distance to many  eateries / bars /stores.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kyle And Megan
+Host User ID: 587117926
+Host Profile URL: https://www.airbnb.com/users/show/587117926
+Host Profile URL Source: public user permalink from passport userId
+We are a family of 4 and we love Jesus and country line dancing .
+Born in the 90s
+Where I went to school: Kyle - Greene,NY  Megan-Horseheads,NY
+Response rate: 38%
+Responds within a few days or more
+2 years hosting
+109 reviews
+4.46 out of 5 average rating
+2 years of hosting

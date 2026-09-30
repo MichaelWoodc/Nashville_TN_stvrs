@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1502390035560800421
+Latitude: 36.1369
+Longitude: -86.7649
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come stay with us! Welcome to your home away from home, and escape to Nashville's ultimate retreat. This stylish home sleeps 12 and is a 2-min walk to Geodis Park. Enjoy a moody movie theater, a massive covered patio with a 7-person hot tub, and a huge kitchen. The interior boasts old-style brick and walk-in steam showers. Just a 10-minute drive to Broadway, this family-friendly home has it all! We're always close by if you need us, but it's a quiet neighborhood so - keep it classy and quiet
+
+The space
+We are a side-by-side housing unit! Which means we share the front with our twin, and parking in the back has two split garages. Please be sure to only park on the right side gravel if you're facing the house from the street, and please be sure to only park around or in the garage on the left if you're facing the house from the alley! Please be aware that there is parking enough for 6 compact vehicles, or two trucks and 4 compacts if someone is parking in the garage.
+
+Inside the front door we have the kitchen with one bedroom and bath immediately to the left, and stairs to three bedrooms and two master baths. Past the kitchen is the living room with a grand window view of the patio and hang-out area! To the right of the kitchen past the living room is the movie theater downstairs and one another additional living area equipped with a smart tv, queen bed and a twin bed with a black armoire!
+
+Guest access
+All of B-side is yours to use! Garage is never locked, and guests can park on the gravel strip on the side of the house. Please be sure to leave curbside parking for A-side!
+
+Other things to note
+BE CONCIOUS OF YOUR NEIGHBORS. Please and thank you! We know Nashville is fun, and we're all here for a good time but quiet hours are 10pm AT THE LATEST and we will happily ask guests to leave that bother our friends and neighbors without a refund. Enjoy the hot tub! Enjoy the movie theater! And please, let us know if we can accommodate :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessica
+Host User ID: 159532184
+Host Profile URL: https://www.airbnb.com/users/show/159532184
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Kennewick, Washington
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+147 reviews
+4.97 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1008688651557147708
+Latitude: 36.18068
+Longitude: -86.75813
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Immerse yourself in the luxury of our expansive home, boasting 2500 square feet of living space and a charming balcony! Nestled in a central location, you'll be surrounded by the heartbeat of live music, culinary delights, and lively entertainment. A 6-minute Uber ride conveniently connects you to downtown. It is just 1.5 miles from Titans stadium and 2 miles from the iconic Broadway. Permit #2019017225
+
+The space
+Indulge in the comfort of our multi-level residence, designed to accommodate large groups and families with abundant sleeping arrangements. The well-appointed rooftop terrace is a standout feature, providing an ideal spot for relaxation and quality time with friends or family. The kitchen has state-of-the-art appliances, essential cooking supplies, dishes, and a convenient coffee maker. The bright and inviting living room features a generously sized floating Smart TV. The open floor plan seamlessly connects to a lively common space, offering the perfect setting for your group to gather during your stay. Centrally located in a secure and vibrant neighborhood, you'll find it easy to walk to various attractions. Enjoy the benefits of a modern kitchen, a private rooftop, the trendy Nashville locale, professional design, proximity to great spots, YouTube TV for live streaming, and TVs in each bedroom and the living room.
+
+Guest access
+Access to the entire home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin
+Host User ID: 149105487
+Host Profile URL: https://www.airbnb.com/users/show/149105487
+Host Profile URL Source: public user permalink from passport userId
+My name is Justin Wilson and I attended Vanderbilt University. While at Vanderbilt, I was lucky enough to play baseball and get drafted by the New York Yankees. I hope everyone enjoys the condos! Also, if you stay at any of our places this slow season, you or family members get 10% off any future stay!
+My work: Pitcher for New York Yankees
+Lives in Murfreesboro, Tennessee
+8 years hosting
+1768 reviews
+4.84 out of 5 average rating
+8 years of hosting

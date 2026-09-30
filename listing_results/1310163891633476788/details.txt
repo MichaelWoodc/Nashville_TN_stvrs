@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1310163891633476788
+Latitude: 36.19223
+Longitude: -86.76325
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bright & Stylish 3BR/1BA home, perfect for midterm stays and traveling pros! Designed for comfort and productivity, it’s your ideal spot to live, work, and relax. We called this home for 3 years—hosting our Nashville family for our wedding on the screened in porch, working remotely, and fine-tuning every detail. Though this home is new to Airbnb, we’ve successfully hosted other listings in Nashville since 2017 and welcome your feedback. Enjoy a seamless stay in this thoughtfully curated retreat!
+
+The space
+Welcome to your cozy home-away-from-home in Nashville’s Cleveland Park—just three miles from Broadway! This single-story, three-bedroom, one-bath retreat is tucked away on a charming street near N 5th and Douglass Avenue, complete with friendly neighbors and a welcoming front porch.
+
+Step inside to find a fully stocked kitchen that’s seen plenty of family feasts—feel free to unleash your inner chef! When it’s time to relax, head to the screened-in porch, where an outdoor sofa, ceiling fan, and twinkling fairy lights create the perfect space for an afternoon nap or evening chats. Out back, the fenced yard invites you to fire up the BBQ and gather around the firepit under a star-filled sky.
+
+You’re just a short stroll from All People Coffee Cafe or a five-minute walk from Forever More Coffee. For memorable meals, Folk Restaurant, Red Headed Stranger, and Sean Brock’s Audrey on Meridian Street are all a quick trip away. Plus, you’re conveniently located just three miles from Broadway, two miles from Titan’s Stadium, and one mile from Mas Tacos.
+
+With so much to see, sip, and savor nearby, this Cleveland Park haven is the perfect launchpad for your Nashville adventures. We can’t wait to host you!
+
+Guest access
+Guests will enjoy the entire first floor completely to themselves—including the private, screened-in porch. A quiet and friendly renter lives on the second floor, with a separate entrance, so you’ll have plenty of privacy. The upstairs tenant does share access to the backyard and may occasionally pass through to reach the trash and recycling bins in the alley.
+
+Guests are welcome to use the shared basement, which comes equipped with a washer/dryer, squat rack, free weights, and exercise bike—perfect for a quick workout or catching up on laundry. With your own private space on the first floor and easy access to these extra amenities, you’ll have everything you need for a comfortable, relaxing stay. We can’t wait to host you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 38378209
+Host Profile URL: https://www.airbnb.com/users/show/38378209
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: REALTOR, Actor/Model
+Response rate: 100%
+Responds within a few hours
+Superhost
+3 years hosting
+122 reviews
+4.94 out of 5 average rating
+3 years of hosting

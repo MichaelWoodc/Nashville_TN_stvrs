@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/1319392757130819866
+Latitude: 36.1511
+Longitude: -86.7921
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay at the Honky Tonk Angels Suite: A Slice of Music History
+
+The space
+Welcome to the Honky Tonk Angels Suite, a unique studio retreat that celebrates the rich musical heritage of Nashville. Nestled in the iconic Spence Manor, this suite invites you to experience life where legends like Elvis Presley, Dolly Parton, and the Beatles once stayed. This historic location, steps away from Music Row, is the perfect base for soaking in the city’s vibrant rhythm.
+
+Located at 11 Music Square East, this studio puts you at the epicenter of Nashville’s legendary music scene. RCA Studio B, Columbia Studio A, and the Hideout Recording Studio are just a short walk away. Venture beyond music landmarks to discover local favorites like Hattie B’s Hot Chicken, The Patterson House, and Winners & Losers Bar.
+
+Inside the Honky Tonk Angels Suite, you'll find the perfect mix of modern comfort and vintage charm. Prepare your meals in a kitchen equipped with all the essentials, and enjoy the convenience of an in-unit washer and dryer.
+
+Whether you’re in town for a romantic escape, a solo journey, or a fun group getaway, this studio is your backstage pass to Nashville. Unwind in the guitar-shaped pool or let the history of Music Row inspire you. The Honky Tonk Angels Suite offers a one-of-a-kind stay in the heart of Music City.
+
+FEATURES AND AMENITIES
+
+• Air Conditioning
+• Smart TV
+• Kitchen
+• Refrigerator
+• Internet
+• Outdoor Pool
+• Grill/BBQ
+
+PARKING
+
+• Free Parking for 1 vehicle.
+
+
+THINGS TO KNOW
+
+• State Identification Card or Driver License copy will be requested upon booking.
+• Streaming services will require a guest account to access.
+• Pool Hours: 9am to 10pm
+
+
+LOCAL ATTRACTIONS
+
+• RCA Studio B – Step into the birthplace of the iconic 'Nashville Sound,' where legends like Elvis Presley and Dolly Parton recorded some of their biggest hits. Guided tours let you feel the magic of this historic studio.
+• Country Music Hall of Fame & Museum – Dive into the rich history of country music through interactive exhibits, rare memorabilia, and captivating stories of the genre’s biggest stars. A must-visit for music enthusiasts.
+• The Gulch – A trendy neighborhood blending Nashville’s historic charm with modern vibes. Enjoy boutique shopping, gourmet dining, and vibrant nightlife in this bustling urban hotspot.
+• Ryman Auditorium – Known as the 'Mother Church of Country Music,' this historic venue is a bucket-list stop for music lovers. Take a tour or catch a live performance to experience its unparalleled acoustics.
+• The Station Inn – A legendary spot for bluegrass and roots music. This intimate venue offers a cozy setting to enjoy live performances by talented musicians, both new and seasoned.
+• Hattie B’s Hot Chicken – Savor Nashville’s signature dish at this local favorite. With spice levels ranging from mild to 'Shut the Cluck Up,' there’s something for everyone.
+• Patterson House – Step back in time at this upscale speakeasy. Known for its craft cocktails and refined ambiance, it’s the perfect spot for a sophisticated night out.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville Vacation Rentals
+Host User ID: 569402095
+Host Profile URL: https://www.airbnb.com/users/show/569402095
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 years hosting
+10 reviews
+4.4 out of 5 average rating
+2 years of hosting

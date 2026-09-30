@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1331857623396920355
+Latitude: 36.3491
+Longitude: -86.4724
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your cozy Nashville-area escape in Gallatin! This modern, stylish home offers comfort and function, with local shopping, dining, and entertainment just minutes away. Behind the house, enjoy Gallatin Marina on Old Hickory Lake with water sport rentals and a lakeside restaurant. Close to Nashville, it’s the perfect balance of relaxation and convenience.
+
+The space
+Welcome to your cozy Nashville area escape! 
+
+3 bedrooms, 3 full bathrooms and bonus room tucked away in Gallatin, this beautifully styled home blends cozy comfort with modern, aesthetic design perfect for relaxing after a day of exploring. Thoughtfully curated with warm textures, clean lines, and inviting spaces to include an outdoor patio with a propane fire pit, it’s the kind of place you’ll actually want to stay in… but you won’t want to miss what’s nearby!
+
+Just a short drive from the heart of Nashville, you’ll have easy access to world-class dining, live music, shopping, and entertainment while still enjoying a peaceful retreat away from the hustle.
+
+Locals and travelers alike enjoy 3 nearby sporting fields!
+
+Right behind the home, you’ll find the hidden gem of Gallatin Marina on Old Hickory Lake. Spend your days soaking up the sun with boat, kayak, or paddleboard rentals, then wind down at the lakeside restaurant featuring live music and unbeatable good vibes.
+
+Whether you’re here for a weekend getaway, a lake trip, or a Nashville adventure, this location truly offers the best of both worlds; serenity and excitement, all in one stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ronnette
+Host User ID: 243503212
+Host Profile URL: https://www.airbnb.com/users/show/243503212
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+25 reviews
+4.92 out of 5 average rating
+6 years of hosting

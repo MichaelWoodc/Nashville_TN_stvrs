@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1424103226631490310
+Latitude: 36.13226103413253
+Longitude: -86.69748576097305
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect for large groups up to 16! This unique Nashville offering includes two private condos in the same complex, just minutes from the airport & downtown. With 4 bedrooms, 3.5 baths, two kitchens, and two living areas, your group can enjoy both togetherness and privacy. Ideal for families, friends, and corporate travelers seeking a comfortable and convenient home base to explore Music City.
+
+The space
+Welcome to your Nashville home base, a unique offering of two separate, private condos in the same complex, perfect for accommodating large groups of up to 16 guests. Please note that the units are not attached but are located near each other within the same complex.
+
+Across both condos, you will find a total of four beautifully appointed bedrooms, 3.5 bathrooms, two distinct living areas, and two fully equipped kitchens. These spaces are thoughtfully designed for your group to relax and connect after a day of exploring Nashville.
+
+Bedding Configuration:
+*Unit 1*
+- Bedroom 1: Queen Bed with closet space and an en-suite bathroom.
+- Bedroom 2: Queen Bed, a Twin-over-Twin Bunk Bed, and a Twin Trundle Bed with a walk-in closet and en-suite bathroom.
+
+*Unit 2*
+- Bedroom 1: Queen Bed with closet space and an en-suite Jack-and-Jill bathroom with a walk-in closet.
+- Bedroom 2: Queen Bed, a Twin-over-Full Bunk Bed, and an en-suite Jack-and-Jill bathroom with a walk-in closet.
+
+Guest access
+Guests will have private and exclusive access to both entire condo units. You are welcome to make yourselves at home in all spaces, including the comfortable living areas, fully equipped kitchens, and the back porch.
+
+Other things to note
+* Two Separate Units: Please be aware that this listing is for two separate, non-attached condo units.
+* Noise Potential: The condo is located near railroad tracks and the airport, so you may experience some related noise during your stay.
+* Shared Walls: This is a condo complex, and our unit shares one wall with an adjoining condo. You may occasionally hear creaks from the floor or water running through pipes.
+* Decorative Fireplace: The fireplace is for ambiance only. Please do not burn anything in it.
+* Starter Supplies: We provide a starter kit of supplies (toilet paper, paper towels, etc.) to begin your stay. Guests are responsible for any additional items needed.
+* Liability: All listed amenities are to be used at the guest’s own risk. The homeowner is not liable for any risk, danger, injury, or damages.
+
+* Unit 1 - Nashville Permit Issued in 2019 Followed By:2019031751
+* Unit 2 - Nashville Permit Issued In 2016 Followed By:2016032225
+
+Registration Details
+2019031751/2016032225
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 38710717
+Host Profile URL: https://www.airbnb.com/users/show/38710717
+Host Profile URL Source: public user permalink from passport userId
+Originally from Phoenix, AZ, we moved to Nashville in 2014.  We love real estate and hanging out as a family.
+Born in the 80s
+Where I went to school: Arizona State University
+Response rate: 100%
+Responds within an hour
+10 years hosting
+527 reviews
+4.79 out of 5 average rating
+10 years of hosting

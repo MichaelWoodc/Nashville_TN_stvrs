@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1024730982697522642
+Latitude: 36.19425
+Longitude: -86.75645
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Unit has more than you'll need: a fully stocked kitchen, Nectar Mattresses for your sleep comfort, white feather duvets, and Egyptian cotton linens. It's the perfect place to relax after a fun outing in Music City! Did I mention the gorgeous furnished rooftop?
+Kcups, cream, sugar, shampoo, conditioner & body wash.
+ Also, Corn hole boards to play and coolers for your  pre-gaming.
+
+We look forward to hosting you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Trent
+Host User ID: 485679998
+Host Profile URL: https://www.airbnb.com/users/show/485679998
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Vanderbilt/university of Miami
+Speaks Spanish, French, and Portuguese
+Response rate: 100%
+Responds within an hour
+4 years hosting
+121 reviews
+4.83 out of 5 average rating
+4 years of hosting

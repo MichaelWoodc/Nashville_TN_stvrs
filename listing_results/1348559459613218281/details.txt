@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1348559459613218281
+Latitude: 36.1723
+Longitude: -86.7377
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy One-Bedroom Cottage
+
+Experience comfort in this charming one-bedroom cottage, situated on the edge of beautiful Shelby Park. Located in the heart of East Nashville’s most desirable neighborhood, you’ll be short distance to top-rated bars, restaurants, shopping, golf courses, and miles of Greenbelt trails. Just two miles away from downtown.
+
+The space
+The cottage features an outdoor patio space, a fully equipped kitchen, stackable washer and dryer, a comfortable loft bedroom, and a living room with sofa sleeper all designed to provide a relaxing stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian & Stephanie
+Host User ID: 676775843
+Host Profile URL: https://www.airbnb.com/users/show/676775843
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+53 reviews
+5.0 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1344550734132649322
+Latitude: 36.12690345440516
+Longitude: -86.72712848515165
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your ultimate girls' retreat! This stylish and chic condo is thoughtfully designed to be a haven for your getaway. Located just a short drive from the vibrant heart of Nashville and the airport, it is perfect for bachelorette parties, weekend escapes, or a fun girls' trip. The kitchen is fully equipped to make a quick meal or morning mimosas. This is the perfect place to make unforgettable memories with your closest friends!
+
+Guest access
+You will  have access to free parking on the premises
+
+Other things to note
+Please no smoking inside at anytime.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Seth
+Host User ID: 475332725
+Host Profile URL: https://www.airbnb.com/users/show/475332725
+Host Profile URL Source: public user permalink from passport userId
+My work: SDB Management
+Most useless skill: having a vast knowledge of useless info
+Response rate: 100%
+Responds within an hour
+4 years hosting
+316 reviews
+4.78 out of 5 average rating
+4 years of hosting

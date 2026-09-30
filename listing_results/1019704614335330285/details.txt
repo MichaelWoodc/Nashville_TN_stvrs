@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1019704614335330285
+Latitude: 36.2671
+Longitude: -86.5185
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Casa Serenity offers an atmosphere of relaxation and tranquility to its guests.  Ideal for family gatherings.
+Located on a 5.2-acre property surrounded by abundant vegetation and wildlife (deer, coyotes, among others.) Its interior will make you experience serenity and connection with nature. 
+Casa Serenity is located north of Wilson County in the city of Mt. Juliet, 3.3 miles from Cedar Creek Campground and the Marina, 35 minutes from the Airport, and 45 minutes from Downtown Nashville.
+
+The space
+The house has 4 bedrooms. 6 beds
+Master bedroom: king size bed / Bedroom 2: queen size bed / Bedroom 3: queen size bed / Bedroom 4: queen size bed / Common area 2 queen size beds.
+
+Guest access
+Ample parking for up to 8 vehicles. Access to the entire house except for storage areas.
+
+Other things to note
+Outdoor living: roofed deck, charcoal grill, patio chairs, fire pit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Martin M
+Host User ID: 440918681
+Host Profile URL: https://www.airbnb.com/users/show/440918681
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+241 reviews
+4.9 out of 5 average rating
+5 years of hosting

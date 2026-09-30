@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1051536957682240424
+Latitude: 36.19466
+Longitude: -86.72236
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville townhome with rooftop patio and 20ft bar—perfect for small groups, weekend trips, and girls weekends. Features a glam vanity room, full kitchen, smart TVs, fast WiFi, and a spa-style rain shower. Flexible sleeping arrangements with queen, full, and twin beds for a comfortable group stay.  Minutes from downtown and the Grand Ole Opry!
+Permit Number: 101506
+
+The space
+Welcome to your stylish Nashville getaway—perfect for groups, weekend trips, and unforgettable celebrations. This thoughtfully designed townhome blends modern luxury with fun, social spaces that make it easy to relax, get ready, and enjoy your time together.
+
+One of the standout features is the third-floor rooftop patio, complete with a 20-foot bar top—ideal for pre-games, sunset drinks, or winding down after a night out in the city.
+
+Inside, the home is filled with upscale touches, from designer wallpaper and elegant chandeliers to a dedicated vanity room that makes getting ready with your group effortless (and way more fun).
+
+You’ll have everything you need for a comfortable stay:
+• High-speed fiber internet & Smart TVs
+• Fully equipped kitchen with granite countertops
+• Keurig coffee maker for easy mornings
+• Memory foam beds for restful sleep
+• Spa-like bathroom with a rainfall shower 
+
+Sleeping arrangements are flexible and perfect for small groups:
+• Third floor: Full bed
+• Second floor: Queen bed
+• First floor: Trundle sofa (converts into two twin beds)
+
+Whether you're visiting Nashville for live music, a celebration, or just a weekend escape, this space gives you the perfect mix of style, comfort, and a one-of-a-kind experience.
+
+Guest access
+1 dedicated parking spot behind the home, and additional free street parking in front.
+
+Other things to note
+As we share walls with neighbors, this is not the place to book to host parties.  While we encourage you to enjoy your time here to the fullest, and make use of the outdoor patio, please be respectful of our neighbors as they do live here.  We ask for quiet hours after 10pm.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dustin
+Host User ID: 111011697
+Host Profile URL: https://www.airbnb.com/users/show/111011697
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+91 reviews
+4.97 out of 5 average rating
+3 years of hosting

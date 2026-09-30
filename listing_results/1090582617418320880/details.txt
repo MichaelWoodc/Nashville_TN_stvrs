@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1090582617418320880
+Latitude: 36.22655
+Longitude: -86.7263
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Branch is a cozy, spacious, and thoughtfully-designed private condominium located in one of the best parts of the city for local shops, cafe's, bars, and eats, East Nashville! It's a 10-15 minute drive from nearly all major Nashville attractions, including downtown and BNA airport. There's FREE parking on the premises and the unit is located on the 2nd story, accesible by elevator or stairs. We'd love to host your stay in Nashville making sure it's as fun, easy, and relaxed as possible!
+
+The space
+There is a large spacious living room attached to the Kitchen. The Kitchen has basic cooking ware and and appliances. additionally there is a drip coffee maker and a hot water kettle for brewing tea. There are two large bedrooms and two small bedrooms. There are two full bathrooms each with a tub/shower. One of the bathrooms has one sink, and the other has two sinks.
+
+Guest access
+The entire home may be used.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: William
+Host User ID: 90822315
+Host Profile URL: https://www.airbnb.com/users/show/90822315
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Music Producer
+8 years hosting
+6 reviews
+4.83 out of 5 average rating
+8 years of hosting

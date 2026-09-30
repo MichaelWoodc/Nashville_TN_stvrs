@@ -1,0 +1,89 @@
+URL: https://www.airbnb.com/rooms/1110176714479647344
+Latitude: 36.1363
+Longitude: -86.7234
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a stylish and convenient spot with easy access to Nashville’s top hot spots. Just a short ride from downtown, perfect for exploring the city and relaxing after a busy day.
+
+✔ Convenient Nashville Location
+✔ Quick Access to Downtown
+✔ Close to Local Hot Spots
+✔ Comfortable & Relaxing Stay
+
+The space
+✔️ Multi-use table space for dining or laptops
+
+🏢 Common Areas & Amenities
+Make the most of your stay with access to premium shared spaces and entertainment areas throughout the building:
+✔️ Outdoor pool (seasonal use only)
+Open Memorial Day - Closed Labour Day
+✔️ On-site restaurant and bar
+✔️ Outdoor lounge seating & firepit area
+✔️ Outdoor BBQ
+✔️ Pool table and ping pong table
+✔️ Theater/media screening room
+✔️ Gym and fitness center
+✔️ On-site washer & dryer (available at extra cost)
+✔️ Minutes from the airport, Broadway & Grand Ole Opry
+
+⚠️ Please note: All common areas are managed by the building, not by us. Access hours, availability, and maintenance may vary without notice.
+
+Guest access
+The room is all yours for the duration of your stay, so relax, unwind, and feel at home.
+In addition to the already mentioned amenities, our home is also equipped with the following:
+✔ High-Speed Wi-Fi 
+✔ Self Check-In (Smart Lock) 
+✔ Air Conditioning 
+✔ Heating 
+✔ Iron/Board
+
+Step into the communal courtyard and enjoy an enchanting outdoor retreat!
+ ✔ Free Parking
+ ✔ Outdoor seating area
+✔ Outdoor pool
+✔ Shared community gym
+✔ OnSite Bar & Restaurant
+
+Other things to note
+★ NO SMOKING INSIDE ★
+Please refrain from smoking inside the home! Any smoking evidence will result in a $500 fee for odor removal and furniture cleaning.
+ 
+★ NO PARTIES/EVENTS ★
+We kindly ask you to treat our home as your own to preserve its pristine condition for future guests and your return visits.
+
+★WRIST BANDS FOR CHECK-IN★
+If you misplace or lose your key fob during your stay, please contact us immediately so we can assist you with a replacement.
+
+Please note: There is a non-refundable $300 replacement fee for lost or unreturned key fobs.
+We appreciate your understanding and cooperation!
+
+Pet Fee Policy 🐾
+We love hosting furry friends! A $25 per pet, per day fee applies. Please make sure to include your pet in the reservation details so we can prepare accordingly.
+
+Thank you very much. We look forward to hosting you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ralph
+Host User ID: 443377359
+Host Profile URL: https://www.airbnb.com/users/show/443377359
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+1926 reviews
+4.19 out of 5 average rating
+5 years of hosting

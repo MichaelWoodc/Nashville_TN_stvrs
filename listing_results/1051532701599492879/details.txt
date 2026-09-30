@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1051532701599492879
+Latitude: 36.114
+Longitude: -86.7675
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located immaculate cottage and it’s adorable neighborhood with two parks, and multiple restaurants, spas,
+Salons and distilleries within walking distance! The property features a full newly remodeled kitchen complete with everything you need!! Brand new appliances and outdoor grill! Enjoy your brand new walk in shower in both full baths! Downtown is 4
+Miles from property. The Gulch is 2.2 miles.
+
+The space
+Walking distance to distilleries, spas, restaurants and more.
+
+Guest access
+Self check in
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Captain Lolita
+Host User ID: 371453136
+Host Profile URL: https://www.airbnb.com/users/show/371453136
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+Where I went to school: David Lipscomb University
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+36 reviews
+5.0 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,40 @@
+/* MapLibre appends its close button after the body; keep it out of document flow. */
+.maplibregl-popup .maplibregl-popup-content {
+  position: relative;
+  overflow: visible;
+  padding: 52px 10px 10px;
+}
+.maplibregl-popup .maplibregl-popup-content .maplibregl-popup-close-button {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  bottom: auto;
+  left: auto;
+  margin: 0;
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  line-height: 38px;
+  background: white;
+}
+.listing-popup-frame {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  max-height: max(100px, calc(100dvh - 180px));
+  overflow: hidden;
+}
+.listing-popup-header, .listing-popup-actions { flex: 0 0 auto; }
+.listing-popup-actions { background: white; padding-top: 8px; }
+.listing-popup-actions:empty, .listing-popup-header:empty { display: none; }
+.listing-popup-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  overflow-wrap: anywhere;
+}
+
+.mobile-popup-overlay .mobile-popup-card { overflow: hidden; display: flex; flex-direction: column; }
+#mobilePopupContent { min-height: 0; overflow: hidden; }
+#mobilePopupContent .listing-popup-frame { max-height: calc(100dvh - 150px); }

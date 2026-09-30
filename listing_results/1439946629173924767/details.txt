@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1439946629173924767
+Latitude: 36.146
+Longitude: -86.8152
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Planning the ultimate girls' trip or bachelorette weekend? Look no further than The Doll House! This stylish condo, located in the heart of West End Nashville, is perfect for groups of up to 6. Walk to Centennial Park, snap a pic at the Parthenon, or hit the town and party Nashville-style.
+
+Feel like a real life doll in this Insta worthy space — from the bold floral wall to the glowing neon wings, it's made for unforgettable moments and photo ops during your pre game fun!
+
+The space
+The space
+✨Explore ~
+- Good Girls Go to Heaven, Bad Girls Go to Nashvile - picture worthy spots throughout the home will make your trip an unforgettable one!
+- Plenty of counter space for 100-layer donuts from "Five Daughters Bakery" - a breakfast must while in Nashville!
+- 4 vanities to get ready in style.
+
+The Doll House is begging you to turn up the Taylor Swift, grab a mimosa, and make some memories!
+
+💓More to Love ~
+- 10 minutes to Broadway
+- Easy commute to anywhere in Nashville - grab the bus for just $4 a day right outside the condo. This will take you to Broadway and runs from 6am - 1am daily.
+- Centrally located in West End
+- Sleeping for up to 6 (King Bed, Pullout couch, Roll away bed, and air mattress)
+- High speed internet
+- High Ceilings
+- Large TV in living room and bedroom
+- Perfect for girls trip
+- Close to Vanderbilt and Belmont
+- Parking garage
+- Walking distance to restaurants and entertainment
+
+Guest access
+Guest access:
+- Parking: You can park anywhere in the attached parking garage. The numbers on the parking spots are not assigned.
+
+- Minimum age to rent the home is 21.
+
+- Apologies, no furry friends are allowed at the home. We appreciate your understanding on this.
+
+Other things to note
+Other things to note:
+- Vacation disruptions can be a bummer. While it doesn’t happen often, you may experience issues with Wi-Fi. We are not responsible for any disruptions to the Wi-Fi service or any construction that may affect your experience. Please note that such occurrences are beyond our control, and we appreciate your understanding and patience in these matters.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katie
+Host User ID: 262326385
+Host Profile URL: https://www.airbnb.com/users/show/262326385
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+476 reviews
+4.86 out of 5 average rating
+2 years of hosting

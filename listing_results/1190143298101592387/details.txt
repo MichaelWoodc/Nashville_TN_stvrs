@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1190143298101592387
+Latitude: 36.126
+Longitude: -86.7261
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy an easy Nashville stay in this modern industrial, ground-floor 1-bedroom condo. You’ll be about 5 miles from Broadway, 3 miles from the Gulch, and a quick drive from BNA. The bedroom has a queen bed, while the living room includes a queen-size sofa bed for up to 4 guests. Enjoy a full kitchen with granite counters and stainless appliances, in-unit washer and dryer, free parking, private entrance, and pet-friendly convenience—without the downtown parking hassle.
+
+The space
+Welcome to our modern industrial condo, a stylish retreat in the heart of Nashville! This one-bedroom gem features sleek stainless steel appliances, stunning granite countertops, and a cozy living area with a queen-size pull-out couch. The bedroom offers a plush queen bed for a restful night’s sleep. Refresh in the tiled walk-in shower.
+
+Guest access
+Enjoy the entire condo to yourselves and the ability to park anywhere in our parking garage lot.
+
+Registration Details
+4514663
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Casey
+Host User ID: 586532228
+Host Profile URL: https://www.airbnb.com/users/show/586532228
+Host Profile URL Source: public user permalink from passport userId
+My name is Casey. I’m in Real Estate. I’m also an Airbnb Super Host.
+Where I went to school: NEIT
+My work: REALTOR
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+90 reviews
+4.89 out of 5 average rating
+2 years of hosting

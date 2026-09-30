@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1239838932194519483
+Latitude: 36.3802
+Longitude: -86.58539
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax at this peaceful place to stay  on a 12-acre working blackberry farm, offering both relaxation and an authentic farm experience. The property includes a serene pond and a Jacuzzi for unwinding, an entertaining space perfect for gatherings. With a chef’s kitchen,  while the classic southern front porch adds a charming, peaceful touch for enjoying mornings or sunsets. It’s a tranquil escape with all the amenities for relaxation and socializing, set in a beautiful, quiet environment
+
+The space
+Spacious Country Retreat with Spa, Pond, and Blackberry Farm
+
+Set on 12 private acres in Hendersonville, TN, Karen’s Private Way is a peaceful short-term rental just minutes from downtown Nashville and Old Hickory Lake. Enjoy a quiet escape with easy access to local attractions.
+
+Unwind in the above-ground spa surrounded by nature, or savor morning coffee and sunsets on the front porch. Stroll through the blackberry farm, picking fresh berries in season, and relax by the private pond, ideal for peaceful moments or scenic walks.
+
+The home offers plenty of space and comfort:
+	•	The main level includes a primary bedroom suite, two living rooms, a fully equipped kitchen, and a large office.
+	•	The second floor features four bedrooms and two full bathrooms, ensuring privacy for all.
+
+Perfect for romantic retreats, family vacations, or group getaways, this property blends rustic charm with modern amenities. Book your stay today and experience the tranquility of this countryside retreat!
+
+Guest access
+Guest can use entire home. The detached barn is available as a additional booking
+
+Other things to note
+We do require a booking confirmation document to be signed before your stay
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Raychel
+Host User ID: 2432748
+Host Profile URL: https://www.airbnb.com/users/show/2432748
+Host Profile URL Source: public user permalink from passport userId
+My sister husband and I are traveling from Rome to Como. We’re very excited!
+Born in the 60s
+Where I went to school: Escoffier culinary School
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+555 reviews
+4.83 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1026858983475229148
+Latitude: 36.1922
+Longitude: -86.7627
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This will be a Nashville experience like none other! Boutique Chic is the glamorous home away from home that you’ve been searching for to plan the most amazing vacation to the fabulous Music City.
+
+The space
+Just 3 miles from downtown, you’re just a short drive or ride away from all the restaurants, shopping, bars, wineries, and nightlife that make this city come to life, with eclectic musical concerts, museums, and historic exhibits around virtually every corner. Snag tickets to the popular Grand Ole Opry and be a part of live music in the making or take a relaxing stroll through Centennial Park, pausing for a photo op at the impressive Parthenon. The family-friendly Adventure Science Center has hands-on exhibits that everyone can enjoy. The Country Music Hall of Fame and Johnny Cash Museum are must-see attractions, and if you’re in town at the right time, make sure you show your Tennessee spirit by catching a game at Nissan Stadium. Closer to the home, you’ll be within walking distance to a variety of cafés and restaurants offering even more delicious options for where to enjoy your next meal.
+
+Inside this beautifully updated home, you’ll be surrounded by stylish décor and comfortable furnishings, starting with the spacious and colorful living room. A plush sofa with chaise lounge and accent armchairs surrounds a sophisticated electric fireplace and a large smart TV, the perfect location for an immersive movie night or relaxing before a night on the town. The nearby sunroom is ideal for those early morning hours lounging with a good book while enjoying a fresh cup of coffee. Head into the modern kitchen where you’ll be met with sleek cabinetry, stone countertops, stainless steel appliances, and a large farmhouse sink, an inviting place for meal prep and dining alike. Enjoy a spread of afternoon hors d’oeuvres at the kitchen island with high-top stool seating for 4 or take more formal meals in the dining room at the chic table with seating for another 4 while you dine to music on the included record player. The backyard is a destination of its own with ample deck seating, a pool, and a projection screen for watching a movie under the stars.
+
+This home comfortably sleeps 10 guests between 3 private bedrooms.
+
+Bedroom #1 includes 2 full-over-full bunk beds with a twin day bed, along with a smart TV and ensuite bathroom with a dual vanity and a soaking tub encased within the glass walk-in shower.
+
+Bedroom #2 includes 2 full beds, a smart TV, and a Jack & Jill bathroom shared with bedroom #3 with a dual vanity and shower/tub combo.
+
+Bedroom #3 includes a king size bed, smart TV, and Jack & Jill bathroom shared with bedroom #2 with a dual vanity and shower/tub combo.
+
+The home also includes a half bathroom.
+
+THINGS TO NOTE:
+•	Washer and dryer in home.
+•	Street parking is available for up to 2 vehicles on a first come, first served basis.
+•	This home is pet friendly. A maximum of 2 dogs may be brought to this home. Please note that there is an additional Pet Fee of $75 per pet that is not included in your final booking cost. To pay your Pet Fee, please contact the Customer Care Team after booking.
+•	This home is equipped with a Ring doorbell system located on the front door.
+•	The stock tank pool in the back yard is available seasonally, from May 1st through Labor Day.
+
+This home is located just 3 miles from downtown where you’ll find endless shopping, dining, strolling, the exciting nightlife this eclectic city is known for. The capital of Tennessee, Nashville is otherwise known as "Music City". The birthplace of bluegrass, you’ll find plenty of music and attractions around virtually every corner including honky-tonks, the Johnny Cash Museum, and Music Row. It is also home to the Grand Ole Opry House, the Country Music Hall of Fame and Museum, and Ryman Auditorium.
+
+Registration Details
+Permit # 2022029441
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+4064 reviews
+4.63 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/1198496588701822919
+Latitude: 36.1461
+Longitude: -86.8152
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ Minutes from Centennial Park, Vanderbilt, and downtown Nashville
+✔️ Stylish city-view condo with modern comforts
+✔️ Walk to dining, shopping, and local attractions
+✔️ Sleeps 4 with 1 bedroom and sleeper sofa + 1 bathroom
+✔️ Relaxed home base for exploring Music City
+
+The space
+• Modern second-floor condo with bright, open living spaces
+• Comfortable living room with Smart TV and dedicated workspace
+• Fully equipped kitchen with stone countertops and counter seating
+• King bedroom with ensuite bath and Smart TV
+• Private washer & dryer and elevator access (when available)
+
+🌅 Indoor & Outdoor Living
+• Bright open-concept living area
+• City views
+• Smart TV in living room
+• Dedicated workspace with high-speed Wi-Fi
+• Elevator access to second-floor unit
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 4)
+• This home includes 1 bedroom and 1 bathroom.
+• Bedroom 1 — King bed; Smart TV; ensuite bathroom
+• Living Room — Full-size sleeper sofa (sleeps 2)
+• Bath — Tub/shower combo with single vanity
+
+🍳 Kitchen & Dining
+• Full kitchen with stainless steel appliances
+• Stone countertops
+• Counter seating for casual dining
+• Cookware, dinnerware & utensils provided
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• Private in-unit washer & dryer
+• High-speed Wi-Fi
+• Smart TVs in living room and bedroom
+• Bedding, towels & starter essentials provided
+
+📍 Location Highlights
+• West End neighborhood near Centennial Park
+• Minutes to Vanderbilt University
+• Short drive to The Gulch & Broadway
+• Close to restaurants, cafés & shopping
+
+🚗 Parking, Safety & Notes
+• Parking: One vehicle per unit is allowed under the building on a first-come, first-served basis. Additional vehicles may be parked on the street where available.
+• Floor/Elevator: This home is on the 2nd floor. There is an elevator in the building; it’s operated and maintained by the building management and may be unavailable due to maintenance or outages. Stairs are required if the elevator is unavailable.
+• Pet policy: This home is not pet friendly. An additional cleaning fee may apply if evidence of a pet is found.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+Permit # 2022048764
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+4065 reviews
+4.63 out of 5 average rating
+6 years of hosting

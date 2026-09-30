@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1099437570048409516
+Latitude: 36.06038
+Longitude: -86.60535
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your stay in this modern, spacious, and clean private room with private bath. 
+
+This comfortable unit has ample room for relaxing and includes a queen bed, a loveseat, mini fridge, and a workstation with adjustable height which is ideal for professionals, travelers, and students.
+
+Drive times:
+-10 min to restaurants, grocery stores, & gas stations 
+-20 min to airport (7.4 mi)
+-20 min to Percy Priest Lake (8 mi)
+-30 min to Downtown Nashville (16 mi)
+-30 min to Grand Ole Opry (17 mi)
+
+The space
+This is a three bedroom townhouse with three floors, and each floor has its own private bedroom and bath.
+
+This listing is for the third floor unit.
+
+Guest access
+Guests will have their own private room and bathroom and will share the kitchen and laundry room with one or two other guests (housemates) if and when the other rooms are booked.
+
+During your stay
+You can contact me directly.
+
+Other things to note
+There is a smart lock to get into the property with a unique code, and each bedroom has a separate unique physical lock and key
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Desmond
+Host User ID: 361576671
+Host Profile URL: https://www.airbnb.com/users/show/361576671
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within a few hours
+3 years hosting
+9 reviews
+5.0 out of 5 average rating
+3 years of hosting

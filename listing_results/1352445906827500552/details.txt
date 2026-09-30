@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1352445906827500552
+Latitude: 36.193883650057344
+Longitude: -86.77906467627872
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stunning Music City Penthouse located on the East Bank over looking the amazing Nashville skylights. 
+Modern elegance  from every room. The open concept living area with four bedroom and four bath that sleeps 8 comfortably. Drop your bags and enjoy this beautiful  city  and all it has to uncover by stating at the Music City Penthouse. At the end of your adventures enjoy the rooftop kitchen and 8 person hot tub to relax after taking in  this breath taking city.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Howard
+Host User ID: 516572970
+Host Profile URL: https://www.airbnb.com/users/show/516572970
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 years hosting
+39 reviews
+4.77 out of 5 average rating
+3 years of hosting

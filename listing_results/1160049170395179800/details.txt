@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1160049170395179800
+Latitude: 36.34945
+Longitude: -86.47355
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this lakeside retreat close to Nashville, next to Gallatin Marina and Old Hickory Lake! Our townhome features a bonus room upstairs & 3 spacious bedrooms, perfect for families or groups. Indulge in lakeside activities such as boat rentals or tiki cruises or explore local dining at Awedaddy's Bar & Grill (seasonal) and many other dining options at The Shops at Windsong. For more adventure, downtown Broadway is only 30 miles away. Experience the perfect mix of relaxation and excitement!
+
+The space
+This spacious home features 3 large bedrooms, each with a king bed. The master suite is conveniently located downstairs with an en-suite bathroom. Upstairs, you’ll find two more bedrooms and a full bathroom, plus a second living area with two couches and a pull-out couch, perfect for additional guests. Enjoy the inviting back patio, ideal for relaxing and just a 2 minute walk to Awedaddy's Restaurant.
+
+Other things to note
+Our home is conveniently located next to Awedaddy's Bar & Grill, featuring an outdoor patio, indoor seating, and live music on weekends. Just 3 miles away, explore The Shops at Windsong, home to Publix Grocery Store, Agaves Mexican Restaurant, Jonathan’s Bar & Grill, Tropical Smoothie, Wing Stop, a gas station, a nail salon, Moo Yah, Sense of Taste, and Dutch Bros. With so many nearby attractions, you'll have everything you need for a fantastic stay! For more adventure, downtown Broadway in Nashville is only 30 miles away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kaylee
+Host User ID: 578407829
+Host Profile URL: https://www.airbnb.com/users/show/578407829
+Host Profile URL Source: public user permalink from passport userId
+Hi there! I love creating memorable experiences for my guests. Visiting for a special occasion? I can add personal touches, decorate the house, or stock the fridge for convenience. We have a boat at the marina and connections with other boat owners for some fun on the water. Excited about local attractions? I'm happy to share my personal favorites to enhance your visit. Looking forward to making your stay unforgettable!
+Lives in Gallatin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+34 reviews
+5.0 out of 5 average rating
+2 years of hosting

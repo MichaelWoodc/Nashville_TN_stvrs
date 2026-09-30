@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1345660662765946802
+Latitude: 36.1624
+Longitude: -86.8725
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in this comfortable and centrally located home in Nashville’s booming Urbandale Nations neighborhood! This 3-bedroom, 2-bath retreat offers a bright, open living space, full kitchen, and a fenced yard—perfect for pets. Relax by the fire pit or enjoy outdoor dining. With plenty of off-street parking and top-rated restaurants and breweries just around the corner, you’ll have everything you need for a perfect stay!
+
+The space
+Welcome to your home away from home! This charming single-story, private home offers a comfortable and spacious stay in the heart of Urbandale Nations. With three bedrooms and two bathrooms, this home is perfect for families, groups, or business travelers.
+
+Enjoy a bright and inviting living space with large windows for natural light, a comfortable sofa, and a well-equipped kitchen. The home provides plenty of sleeping options, including a king bed, queen bed, and a single bed with a trundle.
+
+Step outside to a large, fenced-in backyard, perfect for relaxing or letting kids play or your fur baby to get some energy out, and take advantage of ample driveway parking. With just a few steps for entry, this home is easily accessible for all guests.
+
+Conveniently located just minutes from local restaurants and shopping, and with easy access to downtown Nashville, you’ll be close to it all:
+📍 5.6 miles to Vanderbilt Medical Center
+📍 4.2 miles to St. Thomas Medical Center
+📍 9 miles to Lower Broadway
+
+Whether you're here for work, play, or a little of both, this comfortable and well-located home is the perfect spot for your stay in Nashville!
+
+Guest access
+Guests have full access to the home, driveway, and backyard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5524 reviews
+4.92 out of 5 average rating
+13 years of hosting

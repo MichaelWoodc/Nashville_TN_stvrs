@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/14692765
+Latitude: 36.1955
+Longitude: -86.7776
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 6
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+3 miles to Infamous Broadway! This is a great space for a couple of families, 3 couples or 8 friends to travel and stay together with fantastic downtown views while you're there. 2 Story Condo -2nd floor spacious Kitchen and living room for gathering have a queen sleeper sofa, 2 futon sleepers and 1/2 bath. 2 private bedrooms on first floor-one king, one has a full bed with twin on top. Large full bathroom with double vanity and shower/tub combo. Pet welcome $35 night
+
+The space
+3 miles to Infamous Broadway! New Property.This is a great space for a couple of families, 3 couples or 8 friends to travel and stay together with fantastic downtown views while you’re there. 2 Story Condo -2nd floor spacious Kitchen and living room for gathering have a queen sleeper sofa, 2 futon sleepers and 1/2 bath. 2 private bedrooms on first floor-one king, one has a full bed with twin on top. Large full bathroom with double vanity and shower/tub combo on 1st floor.
+
+Guest access
+The guests have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allison
+Host User ID: 36393087
+Host Profile URL: https://www.airbnb.com/users/show/36393087
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Manager
+I spend too much time: Learning new things
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+914 reviews
+4.81 out of 5 average rating
+10 years of hosting

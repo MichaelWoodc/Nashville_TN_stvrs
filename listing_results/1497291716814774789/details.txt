@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1497291716814774789
+Latitude: 36.17334
+Longitude: -86.59838
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Music City inspired home away from home! This beautifully decorated retreat blends southern charm with modern comfort—just minutes from the airport and within a 10 mile drive to Nashville’s top attractions. 
+
+This home is fully stocked with everything you need! There is also a queen size air mattress for additional guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Claire
+Host User ID: 167252034
+Host Profile URL: https://www.airbnb.com/users/show/167252034
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Clemson University
+My work: Architect/Designer
+Response rate: 100%
+Responds within an hour
+1 year hosting
+5 reviews
+5.0 out of 5 average rating
+1 year of hosting

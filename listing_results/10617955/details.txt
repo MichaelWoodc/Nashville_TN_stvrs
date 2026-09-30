@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/10617955
+Latitude: 36.13164
+Longitude: -86.78226
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Nashville’s 12 South/Waverly-Belmont neighborhood—one of the most walkable areas in the city. This cozy 2BR home is steps from coffee, dining, boutiques, Belmont, and Vanderbilt. Features a king room, queen room, sofa sleeper, full kitchen, fast WiFi, and a relaxed vibe. Quick Uber/Lyft to Broadway, The Gulch, Music Row, and downtown. Perfect for families, couples, and university visits.  Fully fenced back yard.
+
+The space
+Welcome to your cozy home base in the heart of Nashville’s highly walkable 12 South / Waverly-Belmont neighborhood. This inviting 2-bedroom home blends historic charm with modern comfort and sleeps up to 6 guests with ease.
+
+What You’ll Enjoy:
+
+-Sleeps 6 comfortably: King bedroom, queen memory-foam bedroom, and a sofa sleeper
+
+-Fully equipped kitchen for easy meals or morning coffee
+
+-Fast WiFi + smart TV for streaming, work, or relaxing
+
+-Comfortable living area perfect for winding down after exploring
+
+-A blend of 100-year-old charm + modern updates
+
+Walk to All Your Favorites:
+
+-12 South restaurants, coffee shops, bars, and boutiques
+
+-Belmont University
+
+-Zanies Comedy Club
+
+-Hillsboro Village (shopping + local dining)
+
+-8th Ave South (breweries, coffee, vintage stores)
+
+-Geodis Park (Nashville SC)
+
+A Short Drive or Ride Away:
+
+-Vanderbilt University / VUMC
+
+-The Gulch
+
+-Music Row
+
+-Broadway, Bridgestone Arena, & Nissan Stadium
+
+Perfect for families, couples, university visits, weekend trips, and anyone wanting a centrally located home near some of Nashville’s most iconic neighborhoods.
+
+Guest access
+Guests have full access to the entire home, including both bedrooms, the living room, kitchen, dining area, and bathroom. You’ll also have access to the outdoor areas for relaxing or enjoying fresh air on the front porch—smoking is permitted outdoors only. The home includes convenient self check-in, free driveway and street parking, and everything you need for a seamless and comfortable stay.
+
+Other things to note
+Nashville is growing quickly, and with that growth comes construction throughout the city—especially in popular neighborhoods like 12 South. While we love the character of this historic home and its location, you may occasionally notice construction activity in the area during daytime hours.
+
+This home is nearly 100 years old and has the charm, quirks, and character that come with older Nashville properties. It is professionally cleaned before every stay, but its age may show in places compared to newer construction. If you appreciate historic homes with personality, you’ll feel right at home here.
+
+Many guests, including traveling musicians, have mentioned that the acoustics in the house—especially in the kitchen—are surprisingly great. We hope you enjoy the space as much as they have.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chip
+Host User ID: 48402361
+Host Profile URL: https://www.airbnb.com/users/show/48402361
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+521 reviews
+4.81 out of 5 average rating
+11 years of hosting

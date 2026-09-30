@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1458860471161280989
+Latitude: 36.09008
+Longitude: -86.71627
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our spacious 3-bedroom home has room for everyone, a cozy modern vibe, and all the essentials you need for a memorable stay. Perfect for families and groups, you’ll enjoy comfortable bedrooms, a fully equipped kitchen, and inviting living spaces to relax after exploring Music City.
+
+🌿 What makes this home special:
+
+Very large backyard with an 8’ privacy fence — ideal for gatherings, games, or simply relaxing outdoors. (Potential for party rental in the future!)
+
+The space
+Bring the whole crew! This comfy 3-bedroom home has plenty of space for families or groups.
+
+🛏 Sleeping Arrangements:
+
+1 King Bed
+1 Queen Bed
+2 Twin Beds
+2 Bunk Beds
+
+🍳 Fully equipped kitchen
+🛋 Cozy living + dining areas
+🌳 Bright windows & natural light
+
+Close to dining, shopping, and all the Music City fun. Whether you’re here for a getaway, family trip, or just to explore, this is the perfect spot to relax after a day out.
+
+Book your stay and make memories in Nashville! 🎶
+
+Guest access
+Guests have access to the entire home.
+
+Other things to note
+THINGS TO KNOW
+
+- Streaming is available using your own accounts.
+- Guest entry instructions: This rental utilizes a smart lock that requires a unique code to enter. This code is reset after each guest's stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

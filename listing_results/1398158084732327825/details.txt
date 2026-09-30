@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1398158084732327825
+Latitude: 36.207
+Longitude: -86.7664
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your ideal East Nashville hideaway, this townhome boasts an all-suite layout, an immaculate kitchen, and a private top-floor balcony. Find a spacious and well-furnished suite on each floor, both of which are appointed with a smart TV and an en-suite bathroom. East Nashville offers a charming blend of historic homes, hip boutiques, and trending eateries-- many within walking distance! To discover a rich music and art scene, travel less than 10 minutes to downtown, the Gulch, or Music Row.
+
+The space
+On the first floor you have an open floor plan; living room, full kitchen, and a half bath.
+
+The second floor boasts a massive bedroom with 2 queen beds, a walk-in closet, and a full bathroom.
+
+The top floor is the master suite with full master bathroom and private roof-top patio.
+
+Fully furnished with all linens and towels included!
+
+Other things to note
+Townhome complex requires gated entry.
+
+The home uses smart locks and thermostats.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexis
+Host User ID: 228431544
+Host Profile URL: https://www.airbnb.com/users/show/228431544
+Host Profile URL Source: public user permalink from passport userId
+Lives in Kenny Lake, Alaska
+1 year hosting

@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/33448466
+Latitude: 36.13563
+Longitude: -86.77734
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stunning 3 story townhome just a few minutes from downtown Nashville’s Broadway bars, incredible restaurants, and shopping. Three private bed/bathrooms, like having 3 hotel rooms in one! As a 15 year local, the owner can happily recommend places to go and things to see. Enjoy a beautifully decorated home with lots of windows, natural light, and an outdoor balcony. A great space for small bachelor/bachelorette parties, family trips, couples trips, or just a fun getaway with friends! Ask away.
+
+The space
+Walk to local coffee shops, restaurants, and parks or take a quick Uber to downtown, midtown, the gulch, or 12 south.
+
+Guest access
+Laundry room located on the third floor of the townhome. There is an iron and an ironing board in the laundry room, as well. Please be sure to use the ironing board on hard surfaces only (such as a kitchen or bathroom counter).
+
+Other things to note
+Some simple rules: 
+1. No parties or excessive noise, especially late at night. Please be conscious of neighbors as you share a wall.
+
+2. No pets allowed. Please leave your fur babies at home. 
+
+3. Occupancy is not to exceed 8 people unless approved by the host. Even with host approval, occupancy is never to exceed 12 people in the unit. 
+
+Failure to to follow these rules will result in a fine.
+
+Additional services: 
+
+Early check in prior to 3pm and late check out after 11am can be added for an additional fee of $100, assuming the home is available for an extension. 
+
+Concierge services such as groceries, reservations, private chef, birthday/celebratory decor/cake and more all available for an additional charge. Please message me for rates and questions!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shelby
+Host User ID: 194179225
+Host Profile URL: https://www.airbnb.com/users/show/194179225
+Host Profile URL Source: public user permalink from passport userId
+I am a former singer/songwriter turned business owner. I own a Luxury Lifestyle Management and Concierge Services business in Nashville and I absolutely love what I do. I call myself a type A creative - organized and planned meets spontaneous and fun! I also love to travel myself. Follow me on all things - music, socials, and recently a travel itinerary app called Boop! - @shelbyneubauer
+Born in the 90s
+Where I went to school: Belmont University in Nashville
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+65 reviews
+4.98 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1461103149789802169
+Latitude: 36.1365
+Longitude: -86.7786
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"Play" at 8th & Argyle, a premium Nashville vacation rental collection! This fresh, fun, & elegant retreat sits on legendary 8th Ave South, Nashville's hidden gem! Just 2.3 miles to Broadway, even closer to The Gulch & 12th South, walk to Hattie B's hot chicken, live music at The Basement & Eighth Room, Zanies comedy, 8th & Roast coffee. Professionally designed with class & modern amenities. 2-car garage + hotel-grade linen cleaning. Publix nearby. A perfect Nashville experience!
+
+The space
+Perfectly Designed for Groups - 4 Levels of Comfort & Privacy:
+This thoughtfully designed 4-level home sleeps up to 12 guests with an ideal layout that balances togetherness and personal space, featuring bedrooms on levels 1, 3, and 4 each with private ensuite bathrooms, while the expansive 2nd level serves as the heart of the home with an open-concept kitchen, dining, and living area flowing onto a balcony off the kitchen—plus a convenient half bath so no one needs to trek to their room. The massive 4th-level bedroom doubles as a second living area with ample seating and its own private patio accessible through a sleek modern garage door.  With 2 full living areas, 3 outdoor spaces (including the 3rd bedroom balcony), and every bedroom having its own bathroom, this layout eliminates typical group rental challenges—whether your crew wants to gather in the main living space or spread out across the secondary 4th floor living room, 2 patios, and private bedrooms, everyone has their perfect spot with no cramped quarters or bathroom lines, just pure comfort and flexibility. Layout described in the next section:
+
+2 Car Garage
+
+★ LEVEL 1★
+ENTRANCE LEVEL
+Bedroom 1: 2 Queen Beds w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★
+Kitchen/Living Room/Dining Area
+Gourmet Fully Stocked Kitchen
+Spacious Living and Dining Area
+Half Bathroom
+
+★ LEVEL 3★
+Bedroom 2: Bunkbed (twin over full) w/ensuite full bathroom + Smart TV
+Bedroom 3:King Bed + twin hotel-style rollaway bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 4★
+Bedroom 4: Full bed + twin hotel-style rollaway bed w/ensuite full bathroom + Smart TV
+Balcony
+
+Guest access
+Guests have access to the entire home except the locked storage closets.
+
+Other things to note
+Guests must fill out check in form (which comes with confirmation message) within 48 hours of booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨8th And Argyle⁩
+Host User ID: 667473372
+Host Profile URL: https://www.airbnb.com/users/show/667473372
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+231 reviews
+4.96 out of 5 average rating
+1 year of hosting

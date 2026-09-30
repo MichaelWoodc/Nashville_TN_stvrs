@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1462515112496419298
+Latitude: 36.14226888022335
+Longitude: -86.76038154109062
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your charming Nashville retreat! Newly renovated cozy house blends boho style with comfort, offering the perfect home base for  Nashville.
+
+Sleeps up to 6 guests 
+0.7 miles to The Truth (music venue opening Oct. 1)
+1.1 miles Geodis Park 
+1.5 miles to Bridgestone Arena
+10 minutes from BNA
+1.3 miles to Nashville's famous Broadway's Honky Tonks 
+1.9 miles to Nissan Stadium
+Large outdoor space & front porch
+Onsite parking
+Weekend getaway, extended stay or business trip 
+Pet-friendly ($$)
+
+The space
+Room #1 - 2 Full Beds
+Room #2 - 1 Queen Bed
+1 Full Bathroom
+Washer/Dryer
+2 vanity setups
+
+Guest access
+Guest has access to all areas other than owner has a locked room at all times.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mackenzie
+Host User ID: 109163367
+Host Profile URL: https://www.airbnb.com/users/show/109163367
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Marian University
+Response rate: 100%
+Responds within an hour
+1 year hosting
+3 reviews
+5.0 out of 5 average rating
+1 year of hosting

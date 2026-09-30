@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1100116572684564552
+Latitude: 36.28057
+Longitude: -86.97995
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Cheatham County, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come get lazy on Lisa Lane! The perfect get away for anyone who wants to feel secluded from the world and still be just an Uber ride away from downtown Nashville! Elegant new construction home nestled just outside of Nashville. The large front deck overlooking a beautiful pond is the perfect place to enjoy that first morning cup of coffee and relax, forgetting the outside world exist for a few moments. Whether you want a quiet weekend, or the Nashville night life this place is perfect!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 564148234
+Host Profile URL: https://www.airbnb.com/users/show/564148234
+Host Profile URL Source: public user permalink from passport userId
+Lives in Pleasant View, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+68 reviews
+4.94 out of 5 average rating
+3 years of hosting

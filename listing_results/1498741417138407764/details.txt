@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1498741417138407764
+Latitude: 36.36678
+Longitude: -87.04299
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pleasant View, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to a colorful, cozy retreat surrounded by 2 acres of Tennessee nature—just 20 minutes from Nashville/Clarksville! Enjoy the party and/or enjoy the peace! 
+
+Perfect for girls getaway/bro hang.  Only 5 minutes to I-24.  Comfortable for couples, families, or small groups.  Great for rest and relaxation, a creative retreat, or even work. Gather around the firepit, enjoy al fresco dining, or chill on the screened-in back porch with your beverage and stunning views of the forest!
+
+The space
+Three bedroom areas: Bedroom 1 - king bed.  Bedroom 2 - queen bed and twin bed.  Bedroom 3 - sofa couch in the living area with a queen pull out couch.  
+
+Enjoy the screened in sun porch with wall-to-wall windows that bring the outdoors in—without the bugs! Enjoy views of a beautiful wooded area, perfect for morning coffee, evening stargazing, or even work.
+
+As an owner-operated property, you can expect thoughtful touches, attention to detail, and a clean environment. While we typically give guests full privacy during their stay, we are always available if you need anything.
+
+We take cleanliness seriously: all bedding, including quilts, is freshly laundered between guests, and high-touch surfaces are sanitized in line with health guidelines.
+
+The property is welcoming for families; however, it is not child-proofed. If you’re traveling with little ones, you’re welcome to move plants or fragile décor items out of reach.
+
+Because we’re always making small updates, some décor or furnishings may differ slightly from the photos.
+
+Guest Access
+This is a attached guest apartment with separate entrance. Guests will enjoy full and private use of the entire space and the surrounding outdoor space (about an acre). Please note that the wooded/forested section is off-limits for safety reasons. Some areas such as utility and storage closets remain locked.
+
+Other Things to Note
+
+For added safety and convenience, exterior cameras with motion-sensitive lighting are located at entry points. There are no cameras inside the home.
+
+The property is in a Southern climate, where wildlife—including insects, reptiles, and small animals—may occasionally be present.
+
+Refunds cannot be issued for situations outside of our control such as:
+• Temporary WiFi or power outages
+• Occasional insects or other nature-related inconveniences
+
+Guest access
+Self check in with key lockbox
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christina
+Host User ID: 34841235
+Host Profile URL: https://www.airbnb.com/users/show/34841235
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+My work: nonprofit consultant
+Response rate: 100%
+Responds within a few hours
+Superhost
+1 year hosting
+26 reviews
+4.96 out of 5 average rating
+1 year of hosting

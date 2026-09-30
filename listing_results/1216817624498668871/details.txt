@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1216817624498668871
+Latitude: 36.1704
+Longitude: -86.557
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private apartment with dedicated covered parking, in-suite laundry, 6.8 miles to Nashville airport, 12 miles to downtown.
+
+Whether your day is filled with visiting Nashville, remote work, outdoor adventures, visiting with family, or just passing through, then kick back and make yourself at home.
+
+The space
+Private covered parking leads directly to your front door.  
+
+With a living room, kitchen, bathroom, laundry, and a bedroom with a comfy quality king mattress, you will find everything needed for relaxation and ease of living.
+
+The open kitchen to living room concept is simple and cozy.  The full size kitchen includes a dishwasher and full size refrigerator and is stocked with pots and pans , etc to make a long stay more enjoyable, with the option of staying in to prepare and eat meals.  There is coffee to kickstart your morning.  
+
+Fiber Optic WiFi ensures fast support for videos streaming and meetings with a laptop friendly workspace.
+
+The Roku large screen television also has a DVD player and comes with a DVD library.
+
+Guest access
+The covered parking and the guest apartment are yours to enjoy.
+
+Other things to note
+To get to your private apartment you will notice the driveway forks, please stay to the right and park under the carport.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tripp
+Host User ID: 594410566
+Host Profile URL: https://www.airbnb.com/users/show/594410566
+Host Profile URL Source: public user permalink from passport userId
+Coming down for a short break, your place looks nice
+Born in the 60s
+Where I went to school: Clemson
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+60 reviews
+4.97 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1456578584244767680
+Latitude: 36.1529
+Longitude: -86.8052
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨Modern Nashville retreat near downtown enjoy stylish comfort, quick access to music venues, restaurants, and local attractions.
+
+💰 Limited-Time Offer:
+
+✅ Message us for a MILITARY Discount!*
+
+✅ Message us for FIRST RESPONDERS Discount*
+
+✅ Message us for seasonal/last-minute discounts*
+
+🏠 What You’ll Love:
+
+- Free Parking 🚘
+
+- No Cleaning Fee!
+
+- Early Check-in/Checkout Options
+
+🚭 House Rules:
+
+*NO SMOKING 🚭
+
+*NO PETS 🚫🐶
+
+*NO PARTIES 🙅‍♂️
+
+Quiet hours are from 10:00 PM to 8:00 AM.
+
+The space
+Stay in the heart of Nashville at this beautifully appointed home on 22nd Ave North. Just steps from Vanderbilt University and Centennial Park — home to the stunning Parthenon — and minutes to Midtown’s lively bars, Music Row’s iconic studios, and Downtown’s legendary honky-tonks. This spacious retreat features modern amenities, comfy beds, a fully equipped kitchen, fast WiFi, and free parking. Whether you’re here for a concert, foodie adventures, or a weekend getaway, this is the perfect launchpad for your Nashville experience.
+
+Guest access
+Guests have full access to all complex amenities like: Resort Style Pool with Sun Deck, State of the Art 24-Hour Fitness Center, Outdoor, Fireplace Lounge, Billiard Lounge, Community Clubhouse, Parking Garage Available, Community Mail Center, Community Social Events.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jack And Michael
+Host User ID: 566904940
+Host Profile URL: https://www.airbnb.com/users/show/566904940
+Host Profile URL Source: public user permalink from passport userId
+Hello there! Welcome aboard! We're Jack & Michael, two young adults pursuing our dreams. Thrilled to have you join us here!
+Where I went to school: University of Tennessee, Knoxville
+My work: Airbnb
+Response rate: 100%
+Responds within an hour
+3 years hosting
+431 reviews
+4.75 out of 5 average rating
+3 years of hosting

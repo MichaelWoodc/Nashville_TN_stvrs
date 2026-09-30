@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1437643596148903247
+Latitude: 36.1736
+Longitude: -86.78153
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Music City! This charming 1-bedroom, 1-bathroom condo is just a short walk to Broadway, where you’ll find legendary honky-tonks, live music, rooftop bars, and unforgettable nightlife. Also within walking distance are the Nashville Farmers Market, Sounds Stadium, Nissan Stadium, Bicentennial Park, and some of the city’s best local eats—no car needed!
+
+Fast Wifi, Free Parking, Fully Stocked Kitchen and a Beautiful River view for a relaxing stay in Nashville.
+
+Other things to note
+The condo is stocked with many things, however we only provide coffee grounds for the drip coffee maker.  There is a Keurig-type machine, but you will need to supply your own pods. We also provide salt and pepper, cooking spray, and cooking oil.  If you would like to use more spices etc, you will need to provide your own.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kara
+Host User ID: 42738533
+Host Profile URL: https://www.airbnb.com/users/show/42738533
+Host Profile URL Source: public user permalink from passport userId
+I am an avid photographer (underwater and on land) and I love to travel and meet new people from different backgrounds around the world. I like to laugh and create just about anything.
+My work: Photographer and Videographer
+Speaks English and Spanish
+8 years hosting
+16 reviews
+4.94 out of 5 average rating
+8 years of hosting

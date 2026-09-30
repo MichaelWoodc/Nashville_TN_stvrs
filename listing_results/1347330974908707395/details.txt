@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1347330974908707395
+Latitude: 36.1959799403034
+Longitude: -86.77719339854296
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come celebrate your girls trip HERE . This stunning home boasts lovely décor for your girls trip, birthday party and especially your bachelorette get away. No decorations needed. Beautiful furnishings that accentuate this space perfectly. Great for relaxing and enjoying a true weekend with friends in your pajamas or a great place to get ready for a night in Music City. Nashville has never looked this good. Fully Stocked kitchen, towels and linens included.
+
+The space
+This home boasts 3 bedrooms for your next get away. Second floor has the master suite with king bed and ensuite. Walk-in shower and double vanity for plenty of space to get ready. Second bedroom has 2 full over full bunk beds (4 beds total), spacious and lots of natural light. Hall bathroom with shower/tub and nice size vanity. Third bedroom is on the third floor main living floor, two queen beds and a 1/2 bathroom. 
+
+The living area is made for entertaining. Kitchen, dining and living room so everyone is part of the fun! 
+
+Garage for parking and an additional sitting area in the garage extra space.
+
+Guest access
+Smart lock for easy access, parking is available in garage with additional parking in the community.
+
+Other things to note
+Our home is decorated beautifully and we ask that you please not hang anything on the walls or furniture. Tape and the command strips ruin the walls and can hurt the finish on the furniture. 
+
+Please no smoking of any kind (cigarettes, vaping or other) inside the property or on the balcony. 
+
+We hope you enjoy your stay in our home. Welcome to Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maria
+Host User ID: 230939573
+Host Profile URL: https://www.airbnb.com/users/show/230939573
+Host Profile URL Source: public user permalink from passport userId
+After I listed my first Airbnb in St. Augustine, Florida, I became obsessed with hosting! I now host at my own properties, as well as help other owners manage their rentals as well – with the help of my rockstar team of property managers. We're passionate about providing the best possible experience to our guests. Whether you're coming in for business, pleasure, or just passing through, we look forward to hosting you!
+Lives in Gainesville, Florida
+Response rate: 100%
+Responds within an hour
+7 years hosting
+8093 reviews
+4.74 out of 5 average rating
+7 years of hosting

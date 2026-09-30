@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1526488587279211296
+Latitude: 36.1946
+Longitude: -86.7562
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Harmony House #6! Designed specifically for large groups, families, and getaway weekends, this modern 4-bedroom, 4-bathroom townhome offers plenty of space and privacy—featuring 3 bedrooms with private en-suite bathrooms, plus a 4th bedroom with a full dedicated bath nearby.
+
+Other things to note
+Relax on the private rooftop deck with city skyline views, gather in the open-concept chef’s kitchen, or head out to explore East Nashville’s top food and nightlife scene.
+
+HIGHLIGHTS & AMENITIES
+
+•	4 Bedrooms / 4 Full Baths: Includes 3 private en-suite bathrooms for extra privacy.
+•	Rooftop Deck: Expansive city skyline views—ideal for morning coffee or evening nightcaps.
+•	Chef's Kitchen: Premium appliances, fully equipped cookware, and an oversized island built for hosting.
+•	Free Garage Parking: Attached 2-car garage + access to shared/street parking.
+•	Prime Location: Minutes to Lower Broadway, Nissan Stadium, and walking distance to East Nashville local spots.
+
+SLEEPING ARRANGEMENTS (Sleeps 12)
+•	Suite 1: [King Bed] + Private En-Suite Bath
+•	Suite 2: [Queen Bunk Bed] + Private En-Suite Bath
+•	Suite 3: [Queen Bunk Bed] + Private En-Suite Bath
+•	Bedroom 4: [King Bed] + Full Bath Nearby
+
+LOCATION & DISTANCES
+
+•	East Nashville Hotspots: Short walk/drive to Southern Grist Brewery, local coffee shops, cocktail bars, and dining.
+•	Nissan Stadium: ~2 miles
+•	Lower Broadway & Honky Tonks: ~3 miles
+•	Bridgestone Arena: ~3 miles
+•	Nashville International Airport (BNA): ~11 miles
+
+GUEST INFORMATION & HOUSE RULES
+
+•	Age Requirement: Primary renter must be 25+ and present for the stay.
+•	Check-In: Convenient keyless smart lock entry with custom access codes. High-speed Wi-Fi provided throughout.
+•	House Rules: Strict No Pets (pending discussion), No Smoking/Vaping, and No Parties policy. Quiet hours observed 10:00 PM – 7:00 AM.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 146884195
+Host Profile URL: https://www.airbnb.com/users/show/146884195
+Host Profile URL Source: public user permalink from passport userId
+Looking to plan a dreamy beach get-away? 30a Seascapes has hundreds of properties, from the salt filled waters of the Gulf, Music City (Nashville), and more. As a #1 rated Superhost, 30a Seascapes provides the best guest experience by way of stunning beachfront properties, topnotch resorts offering fantastic amenities, and excellent customer service. We pride ourselves when it comes to reliable, timely, and clear communication with our clientele.
+Born in the 60s
+Speaks English and Serbian
+Response rate: 100%
+Responds within an hour
+9 years hosting
+35138 reviews
+4.77 out of 5 average rating
+9 years of hosting

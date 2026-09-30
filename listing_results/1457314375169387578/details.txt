@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1457314375169387578
+Latitude: 36.08128
+Longitude: -86.7154
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville like a local in this charming 3-bedroom townhome. 3 bedroom each with its own bathroom attached for added privacy. A great place to call homebase while you're away.
+
+11 minutes from Nashville airport 
+12 minutes from Downtown Nashville 
+10 minutes from Tanger Outlets
+
+We hope you enjoy your stay.
+
+The space
+Modern townhouse centrally located in Nashville Tennesee. Beautiful home away from home whether you are vacationing or need a quick get away. This beautiful home has 3 spacious bedrooms each with is own attached full bathroom. I hope you enjoy your stay!
+
+Guest access
+Full access to entire home.
+
+Other things to note
+Please park in designated parking spots or in visitor parking. Parking is free.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimberly
+Host User ID: 105990101
+Host Profile URL: https://www.airbnb.com/users/show/105990101
+Host Profile URL Source: public user permalink from passport userId
+Love to travel and meet new and exciting people
+My work: Entrepreneur
+Lives in Huntsville, Alabama
+Response rate: 100%
+Responds within an hour
+1 year hosting
+32 reviews
+4.59 out of 5 average rating
+1 year of hosting

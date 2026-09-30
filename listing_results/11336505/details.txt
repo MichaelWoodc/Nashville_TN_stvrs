@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/11336505
+Latitude: 36.11969
+Longitude: -86.74779
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a beautifully remodeled 1930s bungalow less than 10 minutes from Broadway. The home blends original charm; pocket doors, fireplaces(not operational), and beadboard ceilings with modern comfort. Enjoy a stocked kitchen, fast WiFi, washer/dryer, free off-street parking, romantic dining room, dedicated work desk, front porch with porch swing, back deck with outdoor dining, and a cozy backyard with fire pit. Located in Woodbine, a diverse neighborhood known for its international food scene.
+
+The space
+Step into a tastefully restored 1930s bungalow located just 10 minutes from Broadway and downtown Nashville. Every corner has been thoughtfully redesigned by interior designer Abby Gordon, marrying original architectural features; from pocket doors and fireplaces to bead-board ceilings; with luxurious, modern finishes.
+
+The living space offers a welcoming breakfast bar for casual meals, a comfortable lounge area, and a fully-equipped kitchen including full-size appliances, cookware, a 12-cup drip coffee maker and complimentary coffee! Whether you’re relaxing or preparing a meal, you’ll enjoy premium amenities throughout.
+
+For remote work or planning your Nashville adventures, a dedicated workspace with high-speed WiFi ensures you stay connected. The home also features a washer/dryer(access upon request), plush queen-sized beds, and a full bathroom — perfect for couples, families, or business travelers.
+
+Step outside into your private backyard retreat where you’ll find comfortable outdoor seating and a cozy fire pit, ideal for a quiet evening under the stars. We also have a gas grill in the backyard! Our free, off street parking in the driveway behind the house makes arriving a breeze. The house sits in the Woodbine neighborhood; a vibrant and diverse area celebrated for its international cuisine, local shops and creative energy. You’ll be tucked into city life while still enjoying the comfort, style and privacy of your own home-away-from-home.
+
+HOW FAR ARE WE FROM:
+
+Broadway..............................................5 miles 10 min drive
+Music City Center...............................3.3 miles 10 min drive
+Ryman Auditorium.............................3.5 miles 12 min drive
+Nissan Stadium....................................5.8 miles 9 min drive
+Nashville International Airport.........6.1 miles 10 min drive
+Grand Ole Opry....................................10 miles 15 min drive
+
+Guest access
+Guest have full access to the house!
+
+Other things to note
+*This home sits in a very eclectic part of Nashville in the midst of a gentrifying neighborhood.  Woodbine, as it's known, is the core of Nashville's ethnic food scene, where you'll find Latin American, Ethiopian and Saudi Arabian people and cuisine all intermingling together!  I love this neighborhood and all of its diversity, but there are all kinds of homes on this street and we don't want you to be shocked by that.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neal
+Host User ID: 15586733
+Host Profile URL: https://www.airbnb.com/users/show/15586733
+Host Profile URL Source: public user permalink from passport userId
+I've been a Superhost on Airbnb for 10 years and love sharing my favorite city with people from all over the world!
+Born in the 80s
+My work: Hospitality, Music
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5620 reviews
+4.93 out of 5 average rating
+12 years of hosting

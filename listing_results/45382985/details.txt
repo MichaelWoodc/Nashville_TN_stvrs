@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/45382985
+Latitude: 36.12953
+Longitude: -86.78035
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Twelve South Social — Upscale 4BR home in the heart of 12 South. Sleeps 12 with a chef’s kitchen, fireplace, and open living spaces. Walk to top restaurants, shops, and coffee, or head minutes to Broadway. Designed for groups who want comfort, style, and location!
+
+The space
+Welcome to your 12 South Nashville retreat — where upscale comfort meets one of the city’s most sought-after locations. 🌿✨
+
+This beautifully finished 4 bedroom home was designed for groups and families who want space, style, and walkable access to the best of Nashville — all in one place.
+
+Inside, the home blends modern finishes with warm, inviting design:
+
+• Open-concept living space with electric fireplace — perfect for gathering
+• Fully stocked chef's kitchen + wine refrigerator for elevated hosting
+• Dining + lounge areas designed for group meals and connection
+• Smart TVs throughout for easy entertainment
+• In-unit washer/dryer for longer, seamless stays
+Step outside and enjoy both front and back outdoor living — from morning coffee on the rocking chair porch to dinner and drinks on the private patio.
+⸻
+Sleeping Arrangements
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: 2 Queen Beds
+Bedroom 4: 2 Queen Beds, 4 Twin beds
+Flex Space: Queen + Twin
+Comfortable sleeping for up to 12 guests, with hotel-quality linens and space for everyone to spread out and recharge.
+⸻
+What Guests Love Most
+• Prime 12 South location (walk to restaurants, coffee, shops)
+• High-end finishes + spacious open layout
+• Wine fridge + fully stocked kitchen
+• Front porch rocking chairs + private back patio
+• 3.5 bathrooms (ideal for groups)
+• Perfect balance of location + comfort
+
+Located just steps from 12 South favorites like Hattie B’s, Zanies Comedy Club, and The Urban Juicer, you’re perfectly positioned to experience the city while still having a refined space to come home to.
+
+Walk to brunch, come home to unwind, and enjoy Nashville at your own pace — this is 12 South living at its best. ☕✨"
+
+Guest access
+Guests will have access to the entire home, including both front and back outdoor living spaces. Enjoy morning coffee on the rocking chair porch or gather for dinner and drinks on the private patio within the fully fenced backyard. Convenient free on-premises and street parking are also available for guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lynda
+Host User ID: 13168890
+Host Profile URL: https://www.airbnb.com/users/show/13168890
+Host Profile URL Source: public user permalink from passport userId
+I truly love being a host and creating places where guests can feel comfortable and at home. I’m always looking for ways to improve my properties and make each guest’s stay and overall experience even better.
+My work: Property Manager
+Most useless skill: I care about my guests experience
+Response rate: 100%
+Responds within an hour
+13 years hosting
+204 reviews
+4.86 out of 5 average rating
+13 years of hosting

@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1353676883955396348
+Latitude: 36.3166
+Longitude: -86.812
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+One-story, 3-bedroom charmer! Enjoy a peaceful country retreat just 15 minutes from Nashville. Nestled among rolling hills and a serene creek, this cozy getaway offers the perfect blend of tranquility and convenience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joyce
+Host User ID: 660687044
+Host Profile URL: https://www.airbnb.com/users/show/660687044
+Host Profile URL Source: public user permalink from passport userId
+2 years hosting
+2 reviews
+5.0 out of 5 average rating
+2 years of hosting

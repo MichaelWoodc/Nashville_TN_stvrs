@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1177518545013904687
+Latitude: 36.18851747991866
+Longitude: -86.76883695605405
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a piece of Nashville History! Located just 2 miles from Downtown/Broadway, Nissan Stadium, and Bridgestone Arena yet tucked away in a quiet and walkable neighborhood, this 100 year old craftsman cottage has been lovingly renovated to showcase the best of East Nashville's "Old Meets New" aesthetic. We invite you to be a part of its history!
+
+The space
+Old-world vintage charm meets modern amenities including a plush king-sized bed and a dedicated workspace for remote work.  Your own fully-equipped kitchenette includes a Nespresso coffee maker and a washer/dryer for added convenience.
+
+Guest access
+You'll enjoy complete privacy with your own separate entrance from the backyard, and entirely private bedroom, bathroom, and kitchenette. However, PLEASE NOTE: We do live in the front part of the home! Though the two spaces are completely separated by solid core dead-bolted doors, you may hear us in the front part of the house, using the stairs, etc.! The only shared spaces are the backyard which we may need to pass through to take out the trash, toss the ball for our dog, or do yard work, but please note we will be on site and living our lives in the front part of the house!
+
+Other things to note
+We have a super friendly back lab (Tundra) and two cats (Professor and Moonshine) who you may see around the yard! Feel free to say hi! They're NOT allowed in the Airbnb, but the house does share a single central air system, so folks with very strong allergies might want to be aware. We have an air purifier available upon request if needed!
+
+Registration Details
+TN Permit #: 2024097141
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristin
+Host User ID: 8727042
+Host Profile URL: https://www.airbnb.com/users/show/8727042
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: East Tennessee State University
+My work: Nashville Pie Co.
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+324 reviews
+4.98 out of 5 average rating
+2 years of hosting

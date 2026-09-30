@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1453372522969031796
+Latitude: 36.13546186142916
+Longitude: -86.75760184469183
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 5
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🌟 Ground level, stylish, fully equipped, 655 SF apt is ideal for individuals, couples, or small groups. Minutes from Downtown, Broadway, Music Row, Farmers’ Market,  Speedway,  Geodis Park, Country Music Hall of Fame, Sounds Baseball, Titans' Stadium, & Bridgestone Arena. Chocolate & Coffee shops near.  Security Safe.
+Free Parking
+NO PARTIES
+Distance to:
+Vanderbilt: 3.5 mi
+Belmont: 2 mi
+Trevecca: 1.4 mi
+Fisk: 8.7 mi
+Meharry: 8.9 mi
+Lipscomb: 4.4 mi
+Tenn. St: 7.4
+
+The space
+🛏️Comfy bed, fresh linens, and a peaceful vibe to help you recharge.
+🛁 Bathroom – Sparkling clean with all the essentials—towels, toiletries, and a full shower.
+🍽️ Fully stocked kitchen with cookware, dishes, and appliances.
+🧺 In-unit washer and dryer with detergent.
+
+Guest access
+Non-shared use of entire 655 SF unit.
+Queen bed, queen sofa sleeper, twin rollaway, single air mattress, Infant bed. 
+On-site Chocolate Shop
+On-site Coffee Shop. Mini dog park.
+
+Other things to note
+Absolutey no parties nor loud activities.  This is a quiet complex with families living on-site. This unit is designed for no more than 4 adults and 2 children or, 5 adults and 1 child.
+
+Pets allowed but not on couch and bed.  Mini dog park on site.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dennis
+Host User ID: 703988849
+Host Profile URL: https://www.airbnb.com/users/show/703988849
+Host Profile URL Source: public user permalink from passport userId
+I like the outdoors and almost every sport. Music gets me going when I need a pick-me-up.
+Where I went to school: Stratford - Nashville
+My work: TeacherCoachRealtor
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+52 reviews
+4.83 out of 5 average rating
+1 year of hosting

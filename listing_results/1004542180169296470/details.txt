@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1004542180169296470
+Latitude: 36.22508
+Longitude: -86.72683
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience East Nashville’s fun vibe from this bright, artistic 2-bedroom, 2-bath condo for up to 4 guests. Enjoy mural-filled interiors, a fully equipped kitchen, dedicated workspace, in-unit laundry, free parking, and self check-in. Minutes from Broadway and the Grand Ole Opry, it’s a stylish Music City home base with pet-friendly accommodations.
+
+The space
+Settle into a tranquil second-floor condo in a quiet, secure building. Bright natural light, a massive colorful mural, bold artistic details, and a playful neon sign give this open-concept home a memorable Music City character.
+
+The living area offers comfortable seating, a smart TV, board games, books and a vinyl record player. The fully equipped kitchen includes an oversized island with seating for four, stainless steel appliances, a dishwasher, microwave, blender, toaster, and a coffee bar with drip and Keurig single-serve coffee makers.
+
+Sleeping arrangements:
+Primary bedroom: king bed, smart TV, and private en-suite bathroom with a large double sink.
+Second bedroom: queen bed, smart TV, and an attached oversized closet that doubles as a dedicated office with a desk.
+
+A second full bathroom is accessible from the second bedroom’s closet/office area as well as the main living area. For added convenience, the condo also includes free in-unit washer and dryer, central air conditioning and heating, room-darkening shades, and a Pack ’n Play/travel crib.
+
+Guest access
+Guests have private, exclusive access to the entire 2-bedroom, 2-bath condo throughout their stay, including all rooms and the private entrance. Self check-in is available via smart lock.
+
+Ample open parking spaces are available on the premises. The condo is on the second floor, and the building has an elevator for easy access.
+
+Other things to note
+Pet Policy: We are pet-friendly! However, our building's Homeowners Association (HOA) has certain limitations. To ensure a comfortable stay for everyone, you MUST contact us to discuss your pet PRIOR to booking.
+
+Accessibility: The condo is conveniently located on the second floor of the building, which is fully equipped with an elevator for easy access.
+
+The building has exterior security cameras on the property. Long-term stays are allowed.
+
+Nashville is a popular destination, so booking early is recommended, particularly for holidays and major city events.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heather
+Host User ID: 125701601
+Host Profile URL: https://www.airbnb.com/users/show/125701601
+Host Profile URL Source: public user permalink from passport userId
+Love family, travel, adventuring, quiet time, my dog, yummy food and wine! We lived in Italy for 6 years and enjoyed staying in short term rentals. It's easier to feel at home in a new area when you are staying in a residence like a local.
+Born in the 60s
+Where I went to school: After HS, I went to Beauty School.
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+169 reviews
+5.0 out of 5 average rating
+3 years of hosting

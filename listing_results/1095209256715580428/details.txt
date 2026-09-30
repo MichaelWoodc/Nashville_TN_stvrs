@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1095209256715580428
+Latitude: 36.1861
+Longitude: -86.815
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your fall stay in Nashville. This spacious modern home offers peaceful surroundings with easy access to downtown dining, live music, and attractions. Located in a gated community, enjoy bright interiors, contemporary décor, 3.5 bathrooms, and private garage parking—a comfortable retreat after a day exploring Music City.
+
+The space
+Experience Nashville this fall from a spacious modern home that pairs peaceful surroundings with convenient access to Music City. Located inside a gated community, the property features bright interiors, contemporary décor, 3.5 bathrooms, and private garage parking for added convenience. Spend crisp fall days exploring downtown Nashville, local restaurants, live music, seasonal events, and nearby attractions before returning to a comfortable space designed for relaxing. Whether you’re visiting for business, a weekend getaway, or a group trip, this inviting retreat offers an ideal place to recharge and enjoy Nashville this season.
+
+Guest access
+Guests can access the home through the side door through the garage. We have a keypad with 24 hour access.
+
+Other things to note
+Enjoy a spacious open-concept living area perfect for relaxing or entertaining. Located just minutes from downtown, this home offers convenient access to the city while providing the comfort of a private garage and ample parking. Stay connected with high-speed Wi-Fi and unwind with smart TVs throughout the home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 23572246
+Host Profile URL: https://www.airbnb.com/users/show/23572246
+Host Profile URL Source: public user permalink from passport userId
+I'm an avid traveler, always looking to see and learn new things. My personal travel usually revolves around nature, animals or exploring the wonders this natural world has to offer. My team tries to bring that same experience to the properties we host. A luxury experience combined with the connectedness only untouched nature can provide.
+My work: Investment Advisor
+Lives in Nashville, Tennessee
+Response rate: 98%
+Responds within an hour
+Superhost
+5 years hosting
+807 reviews
+4.9 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1439981122758103786
+Latitude: 36.1367
+Longitude: -86.7961
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in a Dark Academia theme! Our gorgeous speakeasy offers a stay, overflowing with vintage flair. You'll appreciate our convenient, walkable location, perfectly snuggled between Vanderbilt and Belmont University, and within easy reach of Music Row. It's truly the perfect base for exploring Nashville! See a few of our favorites Below: 
+- Pancake Pantry - 2 min Walk 
+- Hillsboro Village Shopping - 2 min Walk
+- The Parthenon - 10 Minute Drive
+
+The space
+Experience the best of Nashville in this highly desirable ground-floor 1-bedroom, 1-bathroom unit, located in the dynamic Hillsboro Village. Enjoy the ultimate convenience of no stairs, free dedicated parking, and a host of amenities designed for effortless living.
+
+Inside, you'll find a comfortable and inviting space, highlighted by a charming electric fireplace that adds both warmth and a touch of classic ambiance. The unit boasts a full kitchen and an in-unit washer and dryer for your convenience. We've gone the extra mile by providing key essentials: coffee, dish soap, dishwasher detergent, laundry soap, dryer sheets, toilet paper, paper towels, shampoo, conditioner, and body wash, ensuring a smooth and comfortable stay from day one.
+
+Guest access
+You will have the entire space to enjoy
+
+Other things to note
+As our Airbnb is ideally located in downtown Nashville, you may experience some city noise. For our lighter sleepers, we have provided sound machines and ear plugs to ensure a comfortable stay.
+
+Please note, we relaunched our Airbnb in July 2025 - you can read our past guest reviews through our photo tour.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gabriella
+Host User ID: 699393806
+Host Profile URL: https://www.airbnb.com/users/show/699393806
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in New York, New York
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+68 reviews
+4.88 out of 5 average rating
+1 year of hosting

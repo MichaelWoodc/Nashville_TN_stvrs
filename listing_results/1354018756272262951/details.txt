@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1354018756272262951
+Latitude: 36.2311
+Longitude: -86.7247
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The East Oasis! NEW E+ROSE COFFEE SHOP ON SITE (1st Floor) 12MIN DR TO BROADWAY & BNA AIRPORT. New condo far enough for calm stay & close enough to the action. Location: East Nashville (Inglewood)
+
+1bed1bath. Up to 4 guests Spacious living room with pullout sofa. Cozy bedroom.
+
+Close by: Opry Mills Mall, EastNashville Bars, restaurants.
+
+Free parking on site, Secure building, Wifi SmartTV, laundry, storage, household appliances, elevator, complimentary coffee.
+
+Rules: no pets/parties
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shaquell
+Host User ID: 678188656
+Host Profile URL: https://www.airbnb.com/users/show/678188656
+Host Profile URL Source: public user permalink from passport userId
+My work: Athletics, mentoring
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+41 reviews
+4.98 out of 5 average rating
+2 years of hosting

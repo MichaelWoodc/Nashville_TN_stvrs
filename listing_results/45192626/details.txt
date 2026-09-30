@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/45192626
+Latitude: 36.13611
+Longitude: -86.79142
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This upscale 4BR/4BA home located in Nashville across the street from Belmont University is a short distance from Music Row, Hillsboro Village, 12 South and the Gulch. This home has a large living area with a 65" TV, sofa, love seat, chairs, and coffee table.  The fully stocked gourmet kitchen has stainless steel appliances and gourmet cookware.   Dine inside or on the roof top.  Each Bedroom has a King Bed, super comfortable mattress, private bath and 55 inch TV. Just back on Airbnb.
+
+The space
+2 Car Garage with additional parking on the street
+Washer and dryer on the 3rd Floor
+Additional Washer and Dryer in the Garage
+Webber gas Grill
+
+Guest access
+Entire House
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David & Valeria
+Host User ID: 182504296
+Host Profile URL: https://www.airbnb.com/users/show/182504296
+Host Profile URL Source: public user permalink from passport userId
+Married with Twins girls
+Speaks English and Spanish
+Lives in Brentwood, Tennessee
+8 years hosting
+3 reviews
+5.0 out of 5 average rating
+8 years of hosting
