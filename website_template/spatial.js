@@ -31,7 +31,7 @@ const Spatial = (() => {
       permitIds.add(parcelId);cell(p.cell_id).permits++;
     }
     const populated = new Map([...counts].filter(([,value])=>value.listings||value.permits));
-    const reach = Math.max(0, Number(radius)||0) + 250;
+    const reach = Math.max(0, Number(radius)||0);
     return cellFeatures.map(f => {
       const [cellX,cellY]=f.properties.cell_id.split('_').map(Number);
       const range=Math.ceil(reach/500), local={listings:0,permits:0};

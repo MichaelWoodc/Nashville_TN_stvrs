@@ -322,6 +322,12 @@ function showNearbyPermitListings(permit, container) {
   container.replaceChildren(section);
 }
 function showListing(l, nearbyPermit=null) {
+  if(matchMedia('(max-width: 700px)').matches){
+    const filters=$('filters'),hosts=document.querySelector('.hosts'),toggle=$('toggleFilters');
+    filters.classList.add('collapsed');hosts.querySelector('details').open=false;
+    $('mobilePanels').classList.remove('panel-expanded');
+    toggle.textContent='Show';toggle.setAttribute('aria-expanded','false');
+  }
   popup?.remove();
   selectedListing=l;updatePrivacy();
   const privacy=l.privacy_radius_meters===null?'Unknown':`${l.privacy_radius_meters} m`;
