@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1621173290320120524
+Latitude: 36.20509
+Longitude: -86.76195
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect East Nashville getaway! Nestled in one of the city’s most vibrant, creative, and rapidly growing neighborhoods, right around the block from a top brewery, this beautifully updated 2-bedroom, 1.5-bathroom single-family cottage blends modern style with cozy, neighborhood charm. Whether you’re here to explore Nashville's world-class music scene, dive into the local culinary landscape, or just unwind in a stylish home away from home, this property serves as an ideal basecamp.
+
+The space
+There is 2 bedrooms, both have queens beds with high quality mattresses (one is Casper, one is zinus with a Tempurpedic topper). The living space holds a couch that is a pull out queen mattress. There is one full bathroom and one half bathroom.  
+
+While it can technically sleep 6, please note there is only 1 full bathroom (and one half) and plan accordingly.
+
+Other things to note
+Stays longer than 7 days will be charged a $50 cleaning fee every 7 days, and will need to allow the cleaner access to the property to be cleaned every 7 days.
+
+Registration Details
+t2026051650
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lizzie
+Host User ID: 34245996
+Host Profile URL: https://www.airbnb.com/users/show/34245996
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Tulane and Vanderbilt
+My work: Kindergarten Teacher
+Response rate: 100%
+Responds within an hour
+3 months hosting
+20 reviews
+5.0 out of 5 average rating
+3 months of hosting

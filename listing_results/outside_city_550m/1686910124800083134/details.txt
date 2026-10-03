@@ -1,0 +1,82 @@
+URL: https://www.airbnb.com/rooms/1686910124800083134
+Latitude: 36.301
+Longitude: -86.4913
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1 Mi to Picnic Pavilions & Boat Launch | Dedicated Workspace | Day Trip to Nashville
+
+Step away from the everyday and settle into relaxed lake-town living at this Mt. Juliet vacation rental! Designed for families and small groups, the modern house delivers the space and comfort needed for a laid-back escape near the water. Launch a boat on Old Hickory Lake or picnic at Lone Branch Access Area before heading home to unwind on the deck and watch the sunset. It’s the reset you deserve — book now!
+
+The space
+OUTDOOR LIVING
+- Private back deck w/ dining set 
+- Lake views (winter months only)
+
+INDOOR LIVING
+- Flat-screen TV
+- Dining table
+- Dedicated workspace w/ printer (bedroom 3)
+- Walk-in shower, shower/tub combo
+- Washer & dryer 
+
+KITCHEN
+- Stove/oven, refrigerator, dishwasher
+- Cooking basics, dishware/flatware 
+- Pod coffee maker (Keurig, coffee provided)
+- Microwave, toaster, ice maker, spices 
+
+ACCESSIBILITY
+- Single-story home, 2 steps to enter
+
+PARKING
+- Driveway (2 vehicles)
+
+Guest access
+Guests will have access to the entire property
+
+Other things to note
+- No smoking 
+- No pets allowed 
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in 
+
+ADDITIONAL INFORMATION
+- This single-story home requires 2 steps to enter
+- The lake is only visible during the winter months
+
+SECURITY CAMERA INFORMATION
+- 2 exterior devices
+- Location: front of house 
+- Coverage: entry, driveway
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

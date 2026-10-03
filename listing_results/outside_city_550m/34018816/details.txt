@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/34018816
+Latitude: 36.33458
+Longitude: -86.67297
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private guest house, 800 Sq Ft. You'll love your stay in this cozy spot. Sits on 5 acres in an upscale neighborhood. Private parking. Full size kitchen with all the amenities. Master bath with his and her vanities and luxurious shower. King size bed! Den has large screen TV with electric recliners. Stackable washer and dryer. Minutes from downtown Nashville and within minutes of great food and shopping as well. The space is designed for to adults only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 16642164
+Host Profile URL: https://www.airbnb.com/users/show/16642164
+Host Profile URL Source: public user permalink from passport userId
+Lives in Goodlettsville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+51 reviews
+4.94 out of 5 average rating
+7 years of hosting

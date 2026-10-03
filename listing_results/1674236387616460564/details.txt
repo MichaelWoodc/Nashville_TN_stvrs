@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1674236387616460564
+Latitude: 36.21582
+Longitude: -86.69262
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Steeped in Southern hospitality, your four‑bedroom Presidential is an upscale home base for large groups exploring Nashville. Located about a mile from the Grand Ole Opry and close to the Country Music Hall of Fame, Nashville Zoo, and Green Hills, it’s easy to enjoy the city’s music, history, dining, and nightlife—or take a scenic drive to Jack Daniel’s Distillery.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Serenity Vacations
+Host User ID: 721554638
+Host Profile URL: https://www.airbnb.com/users/show/721554638
+Host Profile URL Source: public user permalink from passport userId
+My work: Serenity Vacations
+Response rate: 99%
+Responds within a few hours
+Superhost
+1 year hosting
+52 reviews
+4.94 out of 5 average rating
+1 year of hosting

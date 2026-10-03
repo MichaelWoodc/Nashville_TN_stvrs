@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1761676048194381579
+Latitude: 36.05508735596398
+Longitude: -86.58414926073151
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Rabbit Hole, a private bedroom inside The Lakeside Abode—an owner-occupied retreat in Antioch. Guests enjoy shared access to the bathroom, kitchen, living room and laundry room, plus Wi-Fi, self-check-in and on-property parking. Conveniently located near Nashville dining, shopping and entertainment, The Rabbit Hole is a comfortable choice for business trips, weekend visits or a peaceful place to recharge.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Timme
+Host User ID: 671597024
+Host Profile URL: https://www.airbnb.com/users/show/671597024
+Host Profile URL Source: public user permalink from passport userId
+It’s Timme live life to the fullest
+Born in the 70s
+My work: Pro Recording Artist
+Speaks English
+Lives in Nashville, Tennessee
+What's for breakfast: Beef Bacon
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+138 reviews
+4.78 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/46051168
+Latitude: 36.19478
+Longitude: -86.77756
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into the spotlight of Nashville's Rhythm with our Frank Sinatra-inspired getaway!
+Imagine crooning "My Way" from our private rooftop patio under a full awning, gazing at the Breathtaking Nashville skyline that lights up the night. Sink into the luxurious beds after a day exploring Broadway's Honky Tonks, just minutes away. Fully renovated, Sinatra-era chic kitchen, perfect for crafting your own cocktails. This isn't just a Stay-it's your ticket to an Unforgettable Nashville Adventure!
+
+The space
+Townhome
+3rd Floor - Private Rooftop with Nashville Skyline view, Retracting Awning,  Outdoor Furniture with FirePit, Great Spot for Guests Entertainment.
+Full Equipped Kitchen, Living Area with PullOut Sofa, Half Bath
+Snack and Beverages are available for guests
+
+2nd Floor - Master Bedroom with King size bed, Full Bath, 2 sink vanity
+ Bedroom with Queen size bed, Powder Room with sliding door into Full Bath with Tub
+Full size washer and dryer located on this floor as well
+
+1st Floor - Bedroom with Queen size bed, Full Bathroom
+Garage that will hold one vehicle, keyless entry located on Front Door
+
+Blow Up Queen Mattress 
+
+Please Note, any stains on bedding or furniture will have to pay an extra fee for clean or replacement
+
+Other Notes
+  For Groups Larger..........
+Please reach out for potential accommodations. We have another space located a street away that can hold 12 guests, so we can accommodate 22 guests Total!
+
+Guest access
+Entire home and private patios to enjoy the view of the Nashville skyline.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LeGenna
+Host User ID: 347580296
+Host Profile URL: https://www.airbnb.com/users/show/347580296
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+157 reviews
+4.94 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/20916469
+Latitude: 36.18273
+Longitude: -86.71828
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Quiet residential neighborhood close to East Nashville restaurants/retail. My grandparents bought this home new in 1954 and it’s been my home since 2010. 
+Many original features remain, others have been updated (stainless appliances including dishwasher, for example). Large living/dining room, full kitchen, 2 bedrooms and 1 bathroom. Driveway for up to 4 cars. Guests have private access to full main floor of home (I travel often and will not be on site during your stay). Valid STR Permit.
+
+The space
+Guests enter through front door (up 4 steps to sidewalk and up 7 steps to porch)
+Bedroom 1 - King bed with dressing table/mirror
+Bedroom 2 - King bed with closet, dressing table/mirror, and desk
+(Charging station in each bedroom)
+Living Room - TV with Roku (Netflix included - no cable/antenna channels) / Couch and 3 Chairs
+Dining Room - Table and 4 Chairs
+Full Kitchen - Fridge / Oven / Dishwasher / Microwave / Coffeemaker / Toaster/ Dishes,  Cookware and Utensils
+Bathroom - Towels / Shampoo, Conditioner and Body Soap / Hair Dryer /Clothes Steamer / Iron
+
+Guest access
+Guests have private access to full main floor of home and driveway. The basement (my office) is locked and not accessible by guests.
+
+Other things to note
+Additional dates may be available - Please reach out by message if a date you're interested in is blocked on the availability calendar.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 7218128
+Host Profile URL: https://www.airbnb.com/users/show/7218128
+Host Profile URL Source: public user permalink from passport userId
+I spend a good amount of time traveling for fun/work and lean on that experience as an AirBnb host - I understand the joy of spending time in a clean, comfortable home away from home.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+525 reviews
+4.97 out of 5 average rating
+9 years of hosting

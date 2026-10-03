@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/639131845527083577
+Latitude: 36.14561
+Longitude: -86.82122
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Whiskey Business — a West End home built for crews that take their weekends seriously. 20 beds, 3.5 baths, and a private rooftop with skyline views make it a solid pick for bachelor parties, birthdays, and family trips. Pour one at the wet bar, rack 'em up in the game room, and hit Broadway 2 miles away. Safe, walkable neighborhood near Vanderbilt University with easy access to every Nashville hotspot.
+
+The space
+This West End home is built for groups that need space to stretch out and a comfortable base camp for the weekend. Inside, you'll find modern decor, accent walls, and plenty of room for the whole crew to settle in.
+
+The open main floor has a comfortable living area and a full kitchen, with a layout that makes it easy to move between hangout spots.
+
+The game room is the heart of the home — pool table and space to hang out, pregame, or wind down after a night on Broadway.
+
+Upstairs, the private rooftop has lounge seating and skyline views — a quiet spot to catch the sunset or round up the crew before heading out.
+
+Sleeping: 20 Beds / 3.5 Bathrooms 
+
+Bedroom 1- 2 queen, 3 full
+
+Bedroom 2- 1 king
+
+Bedroom 3- 6 single
+
+Bedroom 4- 4 full
+
+Bonus Room - 4 single
+
+Guest access
+Guests have full private access to the entire home, all floors, the game room and the private rooftop deck. 
+
+Free street parking is included. 
+
+Self check-in via smart lock means you arrive on your schedule — no meet-and-greet required. Luggage drop and Early Check In is welcome for early arrivals and late departures (just message us to coordinate)
+
+Other things to note
+Neighborhood
+
+You're staying in the luxurious West End — one of Nashville's most walkable, upscale, and in-demand neighborhoods. It's the sweet spot: close enough to feel the energy of Music City, far enough that you can actually sleep.
+
+Vanderbilt University is right around the corner, giving the area a lively but safe, well-maintained feel with tree-lined streets and beautiful homes. 
+
+Nearby hotspots include:
+
+- Lower Broadway and the Honky-Tonk Highway — 2 miles
+- The Gulch (rooftop bars, shopping, dining) — 1.5 miles
+- Music Row — about 1.5 miles
+- Centennial Park and the Parthenon — walking distance
+- Vanderbilt University — walking distance
+- West End’s best restaurants and bars — walking distance
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: WildCrown Properties
+Host User ID: 353109186
+Host Profile URL: https://www.airbnb.com/users/show/353109186
+Host Profile URL Source: public user permalink from passport userId
+Hi I’m Daniel, I love to travel and stay in the most amazing spaces! With God’s blessings, and hard work, I have been able to purchase some of the most amazing places, and honored to share them with you! It is my life’s dream that I’m able to share my amazing homes for everyone to enjoy. I hope and pray that you find we take a personal and  true “love” for our properties.
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+1253 reviews
+4.78 out of 5 average rating
+6 years of hosting

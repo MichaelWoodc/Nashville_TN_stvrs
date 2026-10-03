@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/22014744
+Latitude: 36.29612
+Longitude: -86.64733
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Simple and airy private loft apartment overlooking 96 mile Old Hickory Lake from a quiet, wooded  cul-de-sac. Very secluded and quiet neighborhood. Wake up to find deer, otter and a multitude of birds. Public boat ramp at Rockland Recreation area less than a mile away. Bring your boat or fish from the private dock or take the canoe for a spin. Walking distance to Anchor High Marina and The Rudder Bar and Grill. 20 minutes to Broadway and Downtown Nashville.
+
+The space
+Gorgeous 2 acre property with mature trees and a killer sunset view! Beautiful newly renovated private loft apartment located on a secluded peninsula cul-de-sac in Hendersonville, 20 minutes to Nashville, on 96 mile Old Hickory Lake. Private dock! Boats welcome!
+
+Guest access
+Boats are welcome! Dock access to 96 mile Old Hickory Lake. Please let us know ahead of time if you plan to bring or dock a boat. Shared deck plus huge shared back yard and boat dock with paddle boards, kayaks, and a canoe. Chairs and, weather permitting, fire pit and gas grill. We also have some outdoor Lawn games like cornhole and a hook and loop game.
+
+Other things to note
+20 minutes to downtown Nashville TN. 
+4 1/2 minutes to the boat ramp.
+Walking distance to Anchor High Marina & The Rudder bar and grill. 
+8 minutes to The Red Rooster Cafe for a great local breakfast!
+Main Street Pub for lunch or beer and homemade pizza and bar foods
+45 minutes to Bowling Green KY
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cyndy
+Host User ID: 160756652
+Host Profile URL: https://www.airbnb.com/users/show/160756652
+Host Profile URL Source: public user permalink from passport userId
+We are an entrepreneurially spirited family, and we have been in the Nashville area, operating several local businesses, for almost 15 years. During the summer months, you can usually find me in the garden, or find us out back jet skiing or down south of Nashville enjoying Tennessee Walking Horse shows. On the rare date night we enjoy the cuisine and live music downtown. we also love to travel both domestic and internationally and we love diving.
+Born in the 80s
+I spend too much time: Gardening
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+157 reviews
+4.91 out of 5 average rating
+3 years of hosting

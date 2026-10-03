@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1660149944736012405
+Latitude: 36.17173
+Longitude: -86.75651
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Award winning luxury heritage home in Historic East Nashville.  This 1800’s home has been completely restored, located in Nashville’s most stories neighborhood. 
+This 2BR/2BA blends historic charm with modern design. Moroccan rugs, artisan tile, UK cast sinks, and custom cabinetry. Enjoy the plunge pool, patio, and sunbathing area. (hot tub in the winter season)
+Front porch overlooks a historic street with skyline views. Walk to the new stadium, dining, and music. 5–7 min uber to Broadway.
+
+The space
+2 bed, 2 bath heritage home in Historic Edgefield, plunge pool, front and side patio.
+
+Other things to note
+The property has 2 separate private apartments. 
+Both with their own private access and parking.
+Nothing is shared on the property between the 2 apartments. 
+The pool and pool area is for *this listing only. 
+There is a privacy fence between both areas making both properties private and hidden from one another.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dan
+Host User ID: 16990783
+Host Profile URL: https://www.airbnb.com/users/show/16990783
+Host Profile URL Source: public user permalink from passport userId
+We love to live life to the full. Travel is high on the list. Love to see new places and meet new people. Canada is our first home but music has brought us to Nashville, TN where we enjoy our new life!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+903 reviews
+4.97 out of 5 average rating
+12 years of hosting

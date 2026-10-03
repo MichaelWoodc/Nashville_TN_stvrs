@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/46122671
+Latitude: 36.15314
+Longitude: -86.82662
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This townhome is very close to Downtown Nashville. Whether you are ready for a night out at the Downtown Broadway Honky Tonks or exploring the Gulch, it’s just a short Uber ride to most of the top attractions in town.
+Utilizing three luxurious floors and a spacious rooftop, you will have plenty of space to celebrate the weekend. We are certain your group will love this brand new modern home, and it will be one of the highlights of your Nashville vacation.
+
+The space
+This townhome is just a few blocks away from the beautiful Centennial Park and the Parthenon. There are many new restaurants within a walkable distance. Walk to Farm Burger, Calypso Cafe, Chaatable, Double Dogs, Sump Coffee and Pastaria.
+
+Guest access
+You’ll have access to the entire home. Before your stay, we’ll send you the access code along with the entry instructions. The host is always available to answer any questions or inquiries you may have. Thanks!
+
+Other things to note
+There’s a large dumpster located near the alley entrance. You’ll need to walk a few steps behind the building to reach it.
+
+Registration Details
+2019070783
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: May & Eric
+Host User ID: 43286203
+Host Profile URL: https://www.airbnb.com/users/show/43286203
+Host Profile URL Source: public user permalink from passport userId
+We are a married couple living in Nashville, and have a passions in real estate and vacation rental. We love music, travel, and food.
+My work: Restaurant Owner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1026 reviews
+4.95 out of 5 average rating
+10 years of hosting

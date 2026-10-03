@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1614082225326023046
+Latitude: 36.20035
+Longitude: -86.75358
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Epic modern townhome with a sleek + stylish interior and plenty of space for your group and privacy for all! Two car garage parking is always a plus! Check out our complex's mural, perfect for photo ops!
+
+Guest access
+This is an entire condo. All spaces, including the garage, are available to our guests!
+
+Other things to note
+Please Note:
+It is self check in. If you are going to check in late, please let us know so I can give you contingency check in plans!
+
+We do not host any locals, no parties, and no gatherings of any sort. 
+
+We do require a rental agreement to be signed outside of Airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Letty James
+Host User ID: 484414789
+Host Profile URL: https://www.airbnb.com/users/show/484414789
+Host Profile URL Source: public user permalink from passport userId
+Letty James Properties | Premium Rentals |
+
+Homes sprinkled throughout Nash + Dallas for all your home away from home desires. Full spaces, 3 to 6 bedroom homes with outdoor areas + something unique to share in every one. Perfect for families traveling together, corporate groups, couples that want their own space + a feel like home.
+
+We do not host locals at this time + it is greatly monitored.
+
+Find us online + book today!
+Where I went to school: LeMoyne College
+My work: Vacation Rentals
+Response rate: 99%
+Responds within an hour
+Superhost
+4 years hosting
+1484 reviews
+4.81 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1666206744190542091
+Latitude: 35.9252
+Longitude: -86.5806
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+Escape to a one-of-a-kind outdoor adventure where privacy, comfort, and a true countryside glamping experience come together. Nestled on a spacious multi-acre property in Smyrna, Tennessee, and just eight minutes away from historic Nolensville, Tennessee. This unforgettable treehouse retreat offers a perfect blend of relaxation, nature, and unique amenities designed to create lasting memories. Whether you're planning a romantic getaway, celebrating a special occasion, or simply seeking a peaceful retreat, you'll find plenty of ways to unwind and reconnect with nature.
+
+ Property Notes:
+
+-You may encounter wildlife and friendly animals during your stay.
+-To respect your privacy, Jamie will coordinate any necessary visits to feed the chickens and will do so at a time that minimizes any interruption to your stay.
+-Come experience a truly unique Tennessee getaway where nature, comfort, and unforgettable memories await.
+-Play a competitive game of Boccee ball, take a dip in the hot tub, make a meal in the outdoor kitchen and bar, roast marshmallows around our firepit. Soak up the sun just above the trees in the Nashville mountain skies. 
+
+Our Treehouse will be a priceless memory you will cherish forever!
+
+-Guests must be comfortable climbing stairs and ladders.
+-There are 18 steps to access the loft and main living areas.
+-The rooftop shower requires climbing a 9-step ladder.
+-Open loft sleeping area includes an air mattress.
+-Bathroom is shared with the loft space.
+-This is a rustic treehouse glamping experience with outdoor elements.
+*Not recommended for guests with cedar allergies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fairly
+Host User ID: 664937812
+Host Profile URL: https://www.airbnb.com/users/show/664937812
+Host Profile URL Source: public user permalink from passport userId
+Fairly helps homeowners oversee their vacation rental properties all on one centralized platform. Every Fairly home is directly managed by the homeowner and a local caretaker, so you'll chat directly with the homeowner and/or caretaker.
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+330 reviews
+4.77 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/892704495926793372
+Latitude: 36.11389
+Longitude: -86.72336
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful 2 BR/1BA house in popular Woodbine area with a .89 acre fully fenced backyard perfect for entertaining! This is a perfect place to return to after an action packed day of exploring Nashville. The home Is well-equipped with everything you need for a hassle free retreat including a full kitchen, washer/dryer, comfy furnishings and free WIFI. This peaceful and cozy home has comfort, style and ambiance for a relaxing stay!
+
+The space
+This a 860sq ft, fully furnished, 2Bed/1Bath home equipped with it's own washer/dryer, full kitchen, beautiful butcherblock counter, 65" TV and fridge.
+
+Guest access
+This is one side of a duplex.
+
+Other things to note
+Your entrance is in front of the house and your entrance to the yard is to the right of the home through the wired gate. Each side has their own private yard with the option for sharing.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nadina Chavez
+Host User ID: 72180287
+Host Profile URL: https://www.airbnb.com/users/show/72180287
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: SUNY at Albany
+My work: Entrepreneur/Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+48 reviews
+4.83 out of 5 average rating
+4 years of hosting

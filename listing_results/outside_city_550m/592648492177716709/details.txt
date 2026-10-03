@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/592648492177716709
+Latitude: 36.37193
+Longitude: -86.45382
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your new favorite getaway! 
+
+Have fun with the whole family at this newly renovated, 4 bedroom home in the heart of Gallatin, TN. Located on an acre of land with a creek running through the backyard, it's the perfect place to relax and unwind while still being just a short drive away from the music city action! 
+
+This airbnb offers a close proximity to:
+
+Historic Downtown Gallatin: 3 minutes
+Downtown Nashville/Broadway: 35 minutes
+Old Hickory Lake: 5 minutes
+
+The space
+Comfort meets luxury in this chic home decorated with your vacation in mind. Newly renovated home in the middle of everything Gallatin has to offer! 
+
+Inside the kitchen, you'll find all the silverware, pots, pans and plates plus your basic seasonings. Because sometimes we just want a home-cooked meal, right? You'll also find coffee for the next morning so you can get your vacation started on the right foot.  
+
+The bedrooms are furnished with memory foam mattresses and plenty of pillows. There is nothing worse than traveling and getting a terrible nights sleep so we made sure to get the best of the best for each bed! 
+
+The master bedroom has a king bed, private bathroom, fireplace, and smart tv.
+
+The living room is furnished with a smart flat-screen tv where you'll be able to binge all your favorite shows on our comfy couch. 
+
+In terms of amenities, we've got you covered too! You'll have access to small, yet important, things like: An iron, blow dryer, towels, soap, and more.
+
+The backyard is what Tennessee dreams are made of. An acre of land with beautiful trees, a fire pit, and backs up to a creek of running water - it's so peaceful you'll understand what those country songs are about.
+
+Large driveway for free parking. 
+
+Board games are provided for the family as well as a pack n play if requested!
+
+Guest access
+You'll have access to the entire house and backyard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julianne
+Host User ID: 278384764
+Host Profile URL: https://www.airbnb.com/users/show/278384764
+Host Profile URL Source: public user permalink from passport userId
+Southern California native, with a passion for Gallatin, TN
+
+Momma to two beautiful girls
+Married to my best friend
+Design Enthusiast!
+Lives in Gallatin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+180 reviews
+4.82 out of 5 average rating
+5 years of hosting

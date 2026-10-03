@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/45866192
+Latitude: 36.2012
+Longitude: -86.7522
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to East Nashville! We're 13 minutes from Broadway, and 10 minutes to the Nissan Stadium so why not come stay in a house with plenty of parking, a fully stocked kitchen, and comfortable layout for the whole group! Enjoy comfortable beds, immaculate shower spaces, and a entertainment area with a big enough group for everyone. We'd love to have y'all come stay with us.
+
+Permit #2021076678
+
+The space
+A cozy, comfortable space with an open floor downstairs so you can enjoy the living room with friends from the kitchen, but private bedrooms upstairs and no crammed bedding! Enjoy soft water showers, and a truly dedicated workspace with it's own monitor!
+
+Guest access
+Guests will have full access to my townhome. The parking in the back is first come first serve, but please note that we only recommend two vehicles.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 57076524
+Host Profile URL: https://www.airbnb.com/users/show/57076524
+Host Profile URL Source: public user permalink from passport userId
+I'm obsessed with: Music
+Lives in Walnut Creek, California
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+65 reviews
+4.95 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,279 @@
+URL: https://www.airbnb.com/rooms/23324285
+Latitude: 36.30238
+Longitude: -86.6804
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to your own private Nashville resort w/ an indoor heated pool, outdoor pool, 2 hot tubs, massive arcade, putting green, sand volleyball court, playground & gathering spaces. Just minutes from downtown!
+
+⭐ “We never left the house except to get groceries. Will be coming back!” - Jennifer
+
+🌄 HIGHLIGHTS
+
+✓ Indoor heated pool & outdoor pool
+✓ 2 large hot tubs
+✓ Massive free-play arcade
+✓ Putting green & sand volleyball court
+✓ Mins from Downtown Nashville
+
+The space
+Indoor heated pool, outdoor pool, 2 hot tubs, massive arcade, putting green, sand volleyball court, movie nights, and all-ages entertainment without leaving the property.
+
+🏷 Main Floor
+
+Kitchen & Dining Room
+∙ FULLY equipped kitchen w/plenty of counterspace for at-home baking and cooking
+∙ Elegant KEUREG, Cuisinart coffee maker,, blender and toaster
+∙ Abundance of dishware, glassware and silverware, including children’s
+∙ Full-sized fridge and freezer
+∙ Glass cooktop and two ovens
+∙ Microwave
+∙ Dishwasher
+∙ Slow cooker
+∙ Dining room table 1, seating for 7
+∙ Dining room table 2, seating for 7
+∙ Large countertop space for food preparation
+∙ Breakfast nook,seating for 4
+∙ 2 full size Murphy beds located at the end of the breakfast nook (they appear as 2 love seats)
+
+Living Room #1
+∙ 70” Smart TV
+∙ Direct TV Stream w/ HBO and more
+∙ Comfortable leather sofa
+∙ Board games
+∙ Ceiling fan
+∙ Queen Murphy Bed
+
+Bathroom #1 
+∙ Shower w/ large dual heads
+∙ Dual vanities with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+Game Room
+∙ Pool table
+∙ Arcade game machines
+∙ Dance Revo
+∙ Guitar Hero
+∙ Air hockey
+∙ Popcorn machine
+∙ 2 Multicade arcade machines
+∙ Basketball arcade machine
+∙ Racing car arcade machine
+∙ 2 Skee ball arcade machines
+∙ Shooting arcade machines
+
+🏷 2nd Floor
+
+Bedroom #1 (Primary)
+∙ King size bed
+∙ Premium mattress and comforter
+∙ Full size mattress under the bed - pulls out
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+
+Bathroom #2 (Ensuite to Primary)
+∙ Large Dual Head Shower
+∙ Claw foot Bathtub
+∙ Dual vanities with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+Bedroom #2 
+∙ King size bed
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+
+Bedroom #3
+∙ King size bed
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+
+Bedroom #4
+∙ King size bed
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+
+Bathroom #3 (Hall bath)
+∙ Large shower
+∙ Dual vanities with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+🏷 Basement
+
+∙ 2nd full size Kitchen
+∙ FULLY equpped kitchen w/plenty of counterspace for at-home baking and cooking
+∙ Elegant KEUREG, coffee maker, tea kettle, blender and toaster
+∙ Abundance of dishware, glassware and silverware, including children’s
+∙ Full-sized fridge and freezer
+∙ Gas stove and double ovens
+∙ Microwave
+∙ Dishwasher
+
+Living Room #2
+∙ 70” Smart TV
+∙ Direct TV Stream w/ HBO and more
+∙ 2 queen sleeper sofas
+∙ Excercise equipment
+∙ Treadmill
+∙ Ceiling fan
+
+Bedroom #5 
+∙ King size bed
+∙ Premium mattress and comforter
+  Additional twin mattress pull out
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large cedar closet w/ hangers
+∙ Ceiling fan
+
+Bedroom #6 
+∙ King size bed
+∙ Premium mattress and comforter
+  Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+Ceiling fan
+
+Bathroom #4 
+∙ Large Shower with bench
+∙ Single vanity with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+Laundry 
+∙ 2 sets of Samsung high-efficiency washer/dryers 
+
+🏷 Outdoor Space(s)
+
+Backyard
+∙ Private, inground pool
+∙ Barbeque gas grill - with extra propane tanks
+∙ 15 cushioned chaise loungers
+∙ 5 adult swings
+∙ Commercial putting greens
+∙ Sand volleyball court
+∙ Outdoor seating and tables
+∙ 15 Polywood Adirondak Chairs
+∙ 2 Firepits
+∙ Children’s playset with swings
+∙ Little Tikes Commercial Playset
+∙ Basketball court
+∙ Bicycles
+∙ Cornholes
+∙ Beer pong
+∙ Giant Jenga
+∙ 3 Hammocks under a Pergola
+∙ Giant Checkers
+∙ Bucket Golf
+∙ Croquet
+∙ Tetherball
+∙ Horseshoes 
+
+Covered Patio
+∙ 2 Seven person hot tubs (chlorine and salt water)
+∙ Barbeque grill
+∙ 2 outdoor, covered dining tables, seating for 12
+∙ Outdoor sectional sofa
+  8 Polywood Rockers
+∙ 2 Ceiling fans
+
+Front Porch
+∙ Comfy outdoor seating
+∙ 4 Rocking chairs
+
+🏷 Parking
+
+∙ Free parking on premises for 12 vehicles
+
+🚘 Nearby
+
+∙ 7 Brew Coffee (6 min driving): Popular drive-thru coffee stop for specialty drinks before heading into Nashville.
+∙ Twin Peaks (7 min driving): Sports bar and restaurant known for game-day crowds, burgers, and wings.
+∙ Mi Bella Honduras (7 min driving): Local Honduran spot serving baleadas, grilled meats, and traditional dishes.
+∙ Madtown Coffee (8 min driving): Local coffee shop with pastries, breakfast wraps, and a laid-back atmosphere.
+∙ Madison Park (8 min driving): Community park with open green space and recreation areas.
+∙ Shopping center (9 min driving): National retailers, dining options, and everyday essentials.
+∙ Chef's Market Cafe & Takeaway (11 min driving): Local favorite for Southern-inspired comfort food and take-home meals.
+∙ Bloom & Brew Coffee (12 min driving): Cozy coffee shop known for handcrafted drinks and desserts.
+∙ Peeler Park Greenway Trailhead (13 min driving): Scenic Cumberland River greenway popular for walking, biking, and wildlife viewing.
+∙ Historic Mansker's Station (14 min driving): Historic frontier site featuring reconstructed cabins and local history exhibits.
+∙ Cedar Hill Park (15 min driving): Large park with walking trails, sports fields, and open recreation space.
+∙ Grand Ole Opry (18 min driving): Nashville’s iconic live country music venue and one of the city’s most searched attractions.
+∙ Gaylord Opryland Resort (19 min driving): Massive resort featuring indoor gardens, restaurants, shopping, and seasonal events.
+∙ Opry Mills (20 min driving): Nashville’s largest outlet and entertainment shopping destination.
+∙ Aquarium Restaurant (21 min driving): Underwater-themed dining experience located inside Opry Mills.
+∙ Andrew Jackson’s Hermitage (22 min driving): Historic estate and museum dedicated to the seventh U.S. president.
+∙ Nissan Stadium (23 min driving): Home of the Tennessee Titans and major concert venue.
+∙ Broadway Nashville (24 min driving): Honky-tonks, live music venues, rooftop bars, and Nashville nightlife.
+∙ Ryman Auditorium (25 min driving): Legendary music venue known as the “Mother Church of Country Music.”
+∙ Country Music Hall of Fame and Museum (26 min driving): One of Nashville’s premier museums showcasing country music history.
+
+Guest access
+The entire property via self check-in will be at your disposal!
+
+Other things to note
+⭐ “From the exterior, you’d have no idea how cool it is inside… they were all amazed, excited, and had so much fun using all the amenities.” - Sarah
+
+😎 What’s Nashville/Madison, TN all about?
+Madison offers a more laid-back side of the Nashville area while still keeping you close to the city’s music, dining, and entertainment scene. Nestled along the Cumberland River, it blends longtime local character with easy access to iconic attractions like the Grand Ole Opry, Opry Mills, and The Hermitage. You'll find a mix of local coffee shops, international restaurants, parks, and greenways alongside classic Tennessee charm. Many visitors enjoy using Madison as a home base—spending part of the day exploring Nashville and part of the day unwinding away from the downtown crowds.
+
+👋 Meet your hosts
+We're devoted to ensuring your stay is as comfortable and memorable as it can be! We live close by and care deeply about this home so rest assured this property is well maintained and cared for. We’re honored to host your group and hope you enjoy this property as much as we do!
+
+✓ Family owned and operated
+✓ Fast response times
+✓ Professionally cleaned
+✓ Local management team
+✓ Seamless check-in and check-outs
+✓ Timely resolutions of issues or concerns
+✓ Neighborhood recommendations offered
+
+Should you have any questions or needs, we're a message away. We look forward to welcoming you to our home!
+
+💛 Kathy and Mike
+
+💡 Other things to note
+
+✓ The owner lives in a separate building on the ~2 acre property but your home and amenities are exclusively yours to enjoy throughout your stay.
+✓ With so many amenities and games, occasional maintenance or temporary downtime may occur, though hosts work quickly to keep everything running smoothly.
+✓ This is a well-loved entertainment-focused property rather than a luxury-modern estate, with the emphasis on creating memorable experiences and gathering spaces for groups.
+✓ Please notify homeowner if interested in purchasing  the firewood
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kathy And Mike
+Host User ID: 171673582
+Host Profile URL: https://www.airbnb.com/users/show/171673582
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+9 years hosting
+61 reviews
+4.92 out of 5 average rating
+9 years of hosting

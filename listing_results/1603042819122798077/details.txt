@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1603042819122798077
+Latitude: 36.2254
+Longitude: -86.7679
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this cozy Nashville retreat filled with comfort, color, and thoughtful touches. Enjoy stylish rooms, inviting living spaces, and photo‑friendly corners throughout the home. Perfect for unwinding after exploring Music City, this space blends charm, warmth, and convenience in a peaceful neighborhood close to top attractions. NO PARTIES!
+
+Other things to note
+Absolutely no parties are allowed at this property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tina
+Host User ID: 741474249
+Host Profile URL: https://www.airbnb.com/users/show/741474249
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+Speaks English
+Response rate: 100%
+Responds within an hour
+6 months hosting
+17 reviews
+4.94 out of 5 average rating
+6 months of hosting

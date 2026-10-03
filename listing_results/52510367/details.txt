@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/52510367
+Latitude: 36.1862
+Longitude: -86.77187
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish place to stay is perfect for group trips. You will be staying 7 min away from Downtown Nashville, where you will discover all the best attractions of Music City!
+
+The space
+Welcome to your beautiful modern luxury stay close to main attractions in Nashville.
+- This is a brand new house built in 2020. 
+- Sleeps up to twelve people. 
+- Four bedrooms with four queen beds, one bulk bed that includes one full and one twin bed, 3 air beds, and one couch that turns to bed. Super comfortable new memory foam mattresses. 
+- Three full baths and two half baths.
+- One main kitchen with everything you need and another fully stocked kitchenette on 3d floor than has microwave and cooktop. 
+
+Tall ceilings and lots of light for a tranquil relaxing atmosphere. 
+
+Rooftop deck with fireplace for relaxing.  ( Sorry, but we don’t provide gas. It can be provided by request only for additional $20) 
+
+Located in Cleveland Park neighborhood, a hip up-and-coming area of East Nashville, only 8 min walk to Folk (best Italian style pizza in town), and a 4 min drive to some of the best food in town including Pharmacy burgers, Mas Tacos, Lyra, Red Headed Stranger and more. 
+A short 7 minutes uber/drive to Five Points East Nashville and 8 minutes to downtown broadway. 
+Also very close to attractions like Nissan Stadium and Top Golf. There’s also lots of explore in East Nashville, famous for bars, great dining, and creative artists.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kate
+Host User ID: 425015026
+Host Profile URL: https://www.airbnb.com/users/show/425015026
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+5 years hosting
+13 reviews
+4.38 out of 5 average rating
+5 years of hosting

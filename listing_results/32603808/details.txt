@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/32603808
+Latitude: 36.1632
+Longitude: -86.7758
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the energy of the city in this luxury Cityside unit, featuring views of historic downtown 2nd Ave., Nashville. Be inspired by the energy of being just one block off Broadway and walkable to the convention center and all the historical honky tonks located within a block from the Historic Pilcher Building. In the living and entertainment area of the unit you can hear and feel the music of Nashville.
+
+The space
+Luxury 2nd floor unit that is perfect for large groups, with views of downtown 2nd Avenue and a one block walk to all the Honky Tonks on lower Broadway. All the bedrooms are strategically located towards the back of the unit so you can get a quite night of sleep after a night on lower Broadway.
+
+Other things to note
+The Cityside Unit is one block from the Historic 2nd & Broadway Music Scene, which is the location for the July 4th fireworks display and multiple concert stages for the CMA Music Festival. Enjoy everything the city has to offer for these great events, while your group stays in a private suite just steps away from all the food, drinks and live music.
+
+Registration Details
+2019050215
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pilcher Lofts
+Host User ID: 243348880
+Host Profile URL: https://www.airbnb.com/users/show/243348880
+Host Profile URL Source: public user permalink from passport userId
+The Pilcher Lofts were developed by Creed Investment Company and are managed by Snipes Properties, a professional property management company located inside the Pilcher Building. To help protect our guests from the spread of Covid-19 and any other viruses, each unit is thoroughly cleaned after each check out by a third party professional commercial cleaning company, including a nightly cleaning of all lobby door handles, elevator surfaces and security keypads within the common areas. We have placed signs limiting 2 people (not within the same group) on the elevator and placed a hand sanitizer station by the elevator in the lobby for your convenience. Our guests are and will always be our top priority here at the Pilcher Lofts.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+808 reviews
+4.98 out of 5 average rating
+7 years of hosting

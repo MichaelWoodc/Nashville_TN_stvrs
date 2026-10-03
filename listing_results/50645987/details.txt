@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/50645987
+Latitude: 36.19469
+Longitude: -86.77774
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The modern 4-bedroom home is conveniently located close to restaurants, sport sites, grocery stores, and other fun entertainment areas in town. This location is only 3 min drive to TopGolf, 7 min drive to Nissan, 8 min drive to Germantown, and 9 min drive to Broadway. It has brand-new appliances with a washer & dryer in the unit. Spacious open areas for dining and living with hardwood flooring throughout. It has attached 2 car-garage. It can host up to 12 guests.
+
+Other things to note
+We do have the security system outside of the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 409203244
+Host Profile URL: https://www.airbnb.com/users/show/409203244
+Host Profile URL Source: public user permalink from passport userId
+J&Y General Partnership
+My work: Partnership run this property
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+599 reviews
+4.91 out of 5 average rating
+5 years of hosting

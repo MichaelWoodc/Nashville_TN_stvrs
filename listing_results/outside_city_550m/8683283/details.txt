@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/8683283
+Latitude: 36.21081
+Longitude: -87.04399
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A private cabin for people that need quiet, nature, and beauty for inspiration or just rest. Named after Dorothy Day in honor of the social activist, it is intended to provide comfort for body, mind, and spirit. Pet Policy: Unless a registered service animal, we regret we cannot extend hospitality to pets. Please note, pricing is per person.
+
+The space
+The Dorothy Day cabin is set apart from other structures and a perfect opportunity to unplug. Incredibly peaceful and intimate, it is perfect for those who want to get away but have modern amenities nearby. Beautiful gardens surround the cabin and you have a lovely side porch with deck chairs to enjoy the ridge-top views.
+
+Guest access
+As a guest in the Dorothy Day cabin, you can have access to the Main Retreat House if there is not a group that has privacy needs. Located about 150 yards via a gravel road from the Cabin, it has a shower and a full kitchen you may use, if not being used by other guests. Should you desire to spend more time in the Main Retreat House, please check with other guests about using space before settling in. You also have access to The Well, a unique straw-bale structure used as sacred space for private and group meditation, prayer, yoga, music, and gatherings. You may also enjoy walking the 11-circuit labyrinth, another great tool for prayer and meditation. There is a beautiful lake and two trails, a lower trail around the lake and a ridge-top trail that goes around the entire property.
+
+The Retreat Center and Cabin are located on 135 beautiful wooded acres in rural Cheatham County. Here, you can experience the best of both worlds: close proximity to exciting and entertaining Nashville and overnight accommodations in the Cabin, which is a quiet, slower-paced, and peaceful setting.
+
+Other things to note
+The Dorothy Day cabin is considered rustic, in that it has electricity, but not running water, is equipped with radiant baseboard heat and an A/C window unit for temperature control. It is also equipped with a portable toilet and a 5-gallon crock for drinking water. Showers are available in the Main Retreat House. 
+
+The property is gated and has plenty of parking for cars, trucks, and RVs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura
+Host User ID: 45597879
+Host Profile URL: https://www.airbnb.com/users/show/45597879
+Host Profile URL Source: public user permalink from passport userId
+My work: Penuel Ridge Retreat Center
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+386 reviews
+4.91 out of 5 average rating
+11 years of hosting

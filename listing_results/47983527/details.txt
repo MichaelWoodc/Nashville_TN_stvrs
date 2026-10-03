@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/47983527
+Latitude: 36.07298
+Longitude: -86.70517
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax and recharge at the Smith house.  Our goal is to provide our guests with a comfy space that is convertible to their needs whether it be a quiet nook to spend the weekend in, or a launch pad for your Nashville adventure!  Quiet neighborhood 15-20 minutes to BNA, downtown Nashville and The Grand Ole Opry.  Recently renovated, 1 bedroom/studio feel with  kitchenette.  Full Bathroom (shower only), lofted sitting area (not currently heated or cooled).  1 queen size bed for 2 adults.
+
+The space
+Cozy & retreat like.  Lofted area upstairs has a cottage feel but is not currently cooled or heated.
+
+Other things to note
+Non-Smoking unit.
+
+Brand new mattress as of April 2026.
+
+Recently installed Ubiquiti WiFi 6 Pro Dual-Band Access Point has dramatically improved previously weak WiFi connectivity.   Internet speeds averaging just under 600 Mbps download and just under 180 Mbps upload speeds when tested on an iPhone 16. May 2026.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 386828179
+Host Profile URL: https://www.airbnb.com/users/show/386828179
+Host Profile URL Source: public user permalink from passport userId
+DIY dad who likes all kinds of stuff.  Living the dream one gig at a time.
+My work: Self Employed/Musician
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+134 reviews
+4.97 out of 5 average rating
+5 years of hosting

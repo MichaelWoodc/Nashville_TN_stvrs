@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/51188144
+Latitude: 36.17251
+Longitude: -86.72284
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Couple's Retreat is nestled in a tranquil corner of East Nashville just 10 mins from Downtown. This chic 700sqft suite includes everything you'll need to recharge and relax after long days enjoying Nashville's many sights and sounds. You'll enjoy the memory foam bed, fully equipped gourmet kitchen, COFFEE + WAFFLE STATIONS, private parking, rainhead shower and Fire TV. We're steps away from 900 acres of nature preserve but minutes from major attractions - truly the best of both worlds!
+
+The space
+The spacious suite occupies the lower floor of our house. The house is a duplex so it's fully private and includes your own entrance, patio, driveway and parking area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pete
+Host User ID: 25573046
+Host Profile URL: https://www.airbnb.com/users/show/25573046
+Host Profile URL Source: public user permalink from passport userId
+Originally from England, me and my wife Helen now live in Nashville, TN. We love exploring our vast, beautiful and diverse new country and often find Airbnb's to be a more authentic travel experience than staying in hotels. We’re also proud to be hosts of our own Airbnb and share our love for Music City.
+Born in the 80s
+Fun fact: Visited 43 states, plan to see them all
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+134 reviews
+4.91 out of 5 average rating
+5 years of hosting

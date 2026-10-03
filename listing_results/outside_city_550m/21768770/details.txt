@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/21768770
+Latitude: 36.03177
+Longitude: -86.93748
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming 4 bd 2 bath Victorian Guest cottage on Country estate directly between Nashville (20 min) and Historic Franklin (15 min). Downstairs has 1 King, 1 Queen. Upstairs also has 1 King and 1 queen. Downstairs there is living room with fireplace, kitchen, 2 baths,  and a laundry room. Please note both bathrooms are downstairs. Relax and enjoy a wrap around porch w/rockers overlooking the perennial garden. Guest have use of heated saltwater pool. 8 adults (max). Sorry, no bachelorette parties.
+
+The space
+Guests are welcome to use the pool all they want. There is a zipline in the back yard children may use if parents are present. Pool towels are provided but must be washed before leaving.
+The kitchen has cooking essentials, a coffee pot and a Keurig with pods.
+
+Guest access
+Guests are welcome to wander the beautiful 4 acres including the vegetable garden and stone chapel. If children would like to hold or feed a chicken ( or collect some eggs) just let us know!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 42666919
+Host Profile URL: https://www.airbnb.com/users/show/42666919
+Host Profile URL Source: public user permalink from passport userId
+We love traveling and meeting people from all over the country and world. We feel the best part of hosting or staying at an airbnb is all the wonderful people you get to meet! We have been married for 40 years this year and have two grown children and 3 wonderful grandkids.
+Born in the 50s
+Speaks Greek, English, and Georgian
+Response rate: 100%
+Responds within an hour
+9 years hosting
+45 reviews
+4.93 out of 5 average rating
+9 years of hosting

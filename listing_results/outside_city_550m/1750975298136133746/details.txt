@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/1750975298136133746
+Latitude: 35.9335
+Longitude: -86.8209
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: None
+bedrooms: None
+beds: None
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms, beds, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Drury Plaza Hotel Nashville Franklin
+Host User ID: 1744501074133284443
+Host Profile URL: https://www.airbnb.com/users/show/1744501074133284443
+Host Profile URL Source: public user permalink from passport userId
+New Host

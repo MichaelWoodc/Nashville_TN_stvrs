@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/29884627
+Latitude: 36.19213
+Longitude: -86.74855
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious newly remodeled private apartment with no-contact check-in & keypad entry! Minutes from tons of hip restaurants, bars, & shops, along with a brand new Publix just 4 blocks away. Only a mile to Five Points, 3 miles to Lower Broadway, & easy access to all highways. No full kitchen, but there’s a mini-fridge & microwave if you need to heat your Nashville Hot Chicken leftovers. If you’re looking for a simple, safe, clean, & convenient spot this is your place. Can't wait for your visit!
+
+The space
+The airbnb has one queen bed, two futons, and an air mattress. There is no full kitchen, but there is a microwave and mini-refrigerator. It's a simple space, but it's very spacious!
+
+The neighborhood is a quiet and safe residential area, with plenty of available street parking.
+
+The Airbnb is at the front of our house and we live in the back portion. It's completely private with its own entrance and no shared spaces, but be aware that we live on the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lucas
+Host User ID: 36209073
+Host Profile URL: https://www.airbnb.com/users/show/36209073
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1125 reviews
+4.9 out of 5 average rating
+8 years of hosting

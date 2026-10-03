@@ -1,0 +1,28 @@
+URL: https://www.airbnb.com/rooms/926672143415808089
+Latitude: 36.13609
+Longitude: -86.80522
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take a break and unwind at this peaceful oasis.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zeyu
+Host User ID: 153652694
+Host Profile URL: https://www.airbnb.com/users/show/153652694
+Host Profile URL Source: public user permalink from passport userId
+Responds within a few days or more
+2 months hosting

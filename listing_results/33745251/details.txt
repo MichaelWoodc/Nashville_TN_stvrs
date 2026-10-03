@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/33745251
+Latitude: 36.16534
+Longitude: -86.77703
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 6
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The unit spans the entire floor looking out on to 2nd Ave with a beautiful view of The Titans stadium and the Cumberland River. The master bedroom offers a king bed with full on suite bath. 3 additional bedrooms offer queen size beds. 2 more queen beds one in the office, on in the din. The living room includes a queen size sleeper sofa and a 55' flat screen TV. The kitchen is fully equipped with a stove, oven, microwave, refrigerator, dishwasher & Keurig coffee maker.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: 203
+Host User ID: 250296629
+Host Profile URL: https://www.airbnb.com/users/show/250296629
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+Superhost
+8 years hosting
+155 reviews
+4.88 out of 5 average rating
+8 years of hosting

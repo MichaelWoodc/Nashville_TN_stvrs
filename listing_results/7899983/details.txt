@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/7899983
+Latitude: 36.1739
+Longitude: -86.7809
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1-bedroom, 1-bath condo perfectly located within walking distance of Broadway’s famous Honky Tonks, Germantown, Nissan Stadium, Bridgestone Arena, the Nashville Sounds ballpark, and scenic walking/biking paths.
+
+Enjoy a full kitchen stocked with essentials, complimentary covered parking right next to the unit, and a fantastic river view. The Riverside Pool is open April through October for a refreshing dip.
+
+The space
+Bedroom:
+-1 King Size Bed 
+- 40 inch Roku TV
+
+Living Room:
+-Couch 
+- 50 inch TV
+- Folding bed with memory foam mattress (75x31 cot size)
+
+Kitchen:
+- fully equipped
+- coffee
+
+Bathroom:
+- towels 
+- toilet paper
+- shampoo
+- hair conditioner
+- hair dryer
+- body wash
+
+Guest access
+Situated just north of downtown in a location that is very easily accessible without dealing with the traffic of Broadway. You can easily walk along the river (10-15 min) or take an Uber or taxi to Broadway within minutes ($7-15).
+
+We have complimentary covered parking right next to the condo. Staying at this condo gives you access to a pool, workout facility and washer/dryer. The riverside pool is open from May to October .
+
+Please note that the condo is located on the third floor and there's no elevator. Must climb two flights of stairs to get to the unit!
+
+Other things to note
+About the area: The condo is located right on the Cumberland River between Germantown and Downtown Nashville in an industrialized block and currently there’s construction work in the areas nearby.
+
+Smoking of any kind is not allowed inside the property. If you smoke inside, you will be charged $150.
+
+One dog, not exceeding 40 pounds, is allowed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Yana
+Host User ID: 41653950
+Host Profile URL: https://www.airbnb.com/users/show/41653950
+Host Profile URL Source: public user permalink from passport userId
+I’m Yana — a Nashville-area real estate agent who loves helping people find homes they truly love. Originally from Russia and now proudly calling Tennessee home, I enjoy design, travel, the outdoors, and spending time with my family and our dog Maggie.
+My work: Realtor
+Speaks English
+Response rate: 100%
+Responds within an hour
+11 years hosting
+435 reviews
+4.86 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/948853023712269015
+Latitude: 36.1703
+Longitude: -86.7924
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sitting near the top of Locklayer Street in Downtown Nashville, this house is within walking distance to Farmer's Market, Sounds Stadium, and Bicentennial Park.  Plenty of sidewalks for walking and running with close Greenway access.
+
+The space
+Hardwood floors and vinyl flooring throughout, with some slate tiles at the patio entrance.  From the front of the house you have two (2) steps to the front porch and one (1) step to get inside the house.  The front porch and entrance sidewalk is concrete aggregate.  Entrance from the rear, you will have four (4) wooden deck steps to navigate and one (1) step to enter the rear patio doors.  Parking pad in the rear can accommodate one (1) vehicle.  Inside is an open floor plan downstairs with seating for eight (8 ) in living room.  Downstairs has open living room, kitchen, dinning room area, laundry, and a half bath.  Upstairs has primary bedroom with King sized bed and two additional bedrooms with Queen sized beds.  The Primary bedroom has its own full bathroom and another full bathroom is located in the upstairs hallway.  All three (3) bedrooms and the two (2) full bathrooms are located on the second floor which requires you to navigate two (2) sets of wooden stairs (see pictures).  The half bath is located on the first floor by the patio door.
+
+Guest access
+Guests can enjoy access to the entire house except for two storage closets that are locked.
+
+Other things to note
+Entry doors operate electronically by code.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Charles
+Host User ID: 529351437
+Host Profile URL: https://www.airbnb.com/users/show/529351437
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+264 reviews
+4.97 out of 5 average rating
+3 years of hosting

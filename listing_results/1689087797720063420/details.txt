@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1689087797720063420
+Latitude: 36.0674
+Longitude: -86.70162
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You'll love this unique and romantic escape.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cristian
+Host User ID: 165376607
+Host Profile URL: https://www.airbnb.com/users/show/165376607
+Host Profile URL Source: public user permalink from passport userId
+I like to play sports such as baseball, basketball, voleyball but most definitely soccer, that is the one i do enjoy the most also enjoy going out and explore around national parks and outdoors activities: hiking, skydiving, rafting and so on.
+
+Hard worker it's the phrase that could describe me better essentialy, social, easy talking, friendly, respecful there are a few words wich could fit very easily on me also.
+My work: self employed
+I spend too much time: Working
+Response rate: 100%
+Responds within an hour
+4 years hosting
+98 reviews
+4.8 out of 5 average rating
+4 years of hosting

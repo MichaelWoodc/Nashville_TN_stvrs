@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/51282974
+Latitude: 36.19523
+Longitude: -86.75504
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our brand new, 4bd/4ba East Nashville townhome with a rooftop deck and private 2-car garage.  Perfect home base for your Music City adventures!
+
+This exciting area is less than a 5-minute walk to Southern Grist + Lauter (Brewery + Restaurant),  Highland Yards (Shed Fitness, Holiday Salon & Bathhouse, Flora & Fauna Cafe ) and Golden Pony cocktail bar
+
+10-15 minute drive to all things Nashville!
+• Downtown
+• 5 Points
+• Nations
+• West End
+• 12th South
+• Opry
+
+Guest access
+Full access to the entire home
+
+Other things to note
+Our kitchen is fully stocked with pots/pans/silverware/toaster/blender/etc.  
+Outdoor patio with gas grill.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin & Carinne
+Host User ID: 7656854
+Host Profile URL: https://www.airbnb.com/users/show/7656854
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+208 reviews
+4.93 out of 5 average rating
+6 years of hosting

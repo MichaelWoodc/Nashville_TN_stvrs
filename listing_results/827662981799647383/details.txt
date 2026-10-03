@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/827662981799647383
+Title: Sunny Southern Stay
+Latitude: 36.1099
+Longitude: -86.705
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 2
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our home,  accommodating 10 or more guests.  Just 5 miles from Nashville International Airport and a short 7-mile drive to the vibrant Downtown Nashville.
+Near Opryland and various restaurants, for endless entertainment and dining options and to Indulge in the local flavors or explore the vibrant nightlife scene.
+ Fully equipped kitchen for the culinary enthusiast. 
+2 and a half baths.
+2 king size and 3 queen size beds, for a restful sleep after your exciting explorations of the city.
+
+Registration Details
+CASR 2023012230
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maria
+Host User ID: 370796306
+Host Profile URL: https://www.airbnb.com/users/show/370796306
+Host Profile URL Source: public user permalink from passport userId
+I'm obsessed with: Gardening
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+29 reviews
+4.86 out of 5 average rating
+3 years of hosting

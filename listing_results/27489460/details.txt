@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/27489460
+Latitude: 36.15812
+Longitude: -86.79387
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+LOCATION At this centrally located gem, attractions like the Johnny Cash Museum, the Country Music Hall of Fame, and the Ryman Auditorium are all just about a mile away, and in-between is your pick of cafes, craft breweries, local bars and music venues.  Enjoy the views from the expansive private rooftop.  There is a parking pad for up to two vehicles and free street parking surrounding the house.
+
+The space
+The first level of the home has two bedrooms with queen over queen bunk beds and a full bath.  The second level consists of the main living areas with an open floor plan from dining to kitchen, and living area with half bath.  The third level consists of two suites with King Beds and attached baths. There is an additional half bath on this level.  Up the third set of stairs you will arrive to the expansive rooftop with fire table and grill!
+
+Guest access
+Guests have access to the entire house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura & The Music City Collection
+Host User ID: 69852847
+Host Profile URL: https://www.airbnb.com/users/show/69852847
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3263 reviews
+4.88 out of 5 average rating
+10 years of hosting

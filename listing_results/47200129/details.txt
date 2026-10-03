@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/47200129
+Latitude: 36.1257
+Longitude: -86.7772
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our 1 BEDROOM / 1 BATH condo in the heart of Melrose! Sleeps up to 3 and comes with a free parking spot + Washer/Dryer in the unit. Retail (including two restaurants) on bottom floor, with many restaurants and bars, a liquor store, and a  Publix all within walking distance! And only one mile to 12 South. 
+
+Great wifi, easy interstate access, get downtown quickly, luxury, all new furnishings...come check it out!
+
+The space
+Beautifully decorated space with all new furniture! Really comfy king-sized bed. Full Size sleeper sofa as well. Large round sturdy dining table, perfect for work as well. 65" smart tv. 
+
+Incredible location--easy to get anywhere you'll want to go in Nashville! Surrounded by tons of restaurants, bars, a liquor store, Publix...this is a booming area of Nashville, and this condo is right in the heart of it. There's even retail on the ground floor of this building...Maple Street Biscuit Company, sushi/poke, a nail bar, Holistic Connection, and a pet store. 
+
+You can be to 12 South in a couple minutes, the Gulch in about 5 minutes, Green Hills in 5 minutes, Downtown in less than 10, and multiple interstates nearby. Perfect for setting up shop on a work trip!
+
+There is only one other Airbnb in this building, so you can relax knowing that you will be surrounded by a mature group of residents. This is a great spot, whether you're coming for work or for a fun getaway!
+
+Guest access
+You will have access to the entire unit.
+
+Other things to note
+This is a perfect spot for locals who need to get out of their home for a little while for renovation. 
+Or for a student or professional coming to Nashville. 
+Or for a fun Nashville getaway!
+
+Note: If you are local, we require context/reasons for the booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jimmy
+Host User ID: 48814864
+Host Profile URL: https://www.airbnb.com/users/show/48814864
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville. Father of 4. Commercial real estate. 
+‘Dores, Titans, Preds.
+My work: Real estate
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+505 reviews
+4.94 out of 5 average rating
+8 years of hosting

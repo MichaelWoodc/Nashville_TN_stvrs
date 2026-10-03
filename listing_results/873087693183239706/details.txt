@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/873087693183239706
+Latitude: 36.1965
+Longitude: -86.7803
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style at The Urban Fern! This home offers breathtaking skyline views located near downtown and Broadway, a perfect spot for a city getaway! Enjoy a fully equipped kitchen, comfortable beds, high-speed WiFi, welcoming living area, and a balcony perfect for watching the sunset. Explore the nearby attractions or simply unwind in the charming neighborhood. Whether you're here for business or leisure, our place offers everything you need for your Nashville experience!
+
+The space
+The beautifully decorated living area with plenty of comfortable seating for movie nights, a 65" Smart TV, and an abundance of natural light. The fully equipped modern kitchen features stainless-steel appliances including a refrigerator with filtered water and ice, an over-the-range microwave, a kitchen island, and plenty of dining and cooking supplies. Sleep like royalty in the master bedroom, which features a memory foam queen bed with plush bedding, black-out shades, a 32" Smart TV, and a cozy sitting area. The second bedroom boasts two memory foam beds - a queen and a twin - both with triple-layered plush bedding, a large closet, black-out shades, and a 32" Smart TV. Other amenities include a washer/dryer, free parking in the driveway up to 2 cars, and a great selection of card and board games for a fun game night! The Urban Fern is waiting for you - Welcome and enjoy your stay!
+
+Guest access
+Self check-in. You will receive the check-in instructions and personal access code on the day of your arrival.
+
+Other things to note
+Any pet is not allowed.
+No Parties or Events (excessive noise, or activities that disturb neighboring residents are not allowed)
+Quiet hours are strictly enforced after 10:00 PM and before 7:00 AM.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: PMI Franklin
+Host User ID: 458808696
+Host Profile URL: https://www.airbnb.com/users/show/458808696
+Host Profile URL Source: public user permalink from passport userId
+Immerse yourself in the heartbeat of Music City with PMI Franklin. We strive to offer a distinctive experience, by offering unique listings, that ensuring every stay is perfect. With a commitment to exceptional hospitality, our team welcomes you with Southern charm, personalized recommendations, and a dedication to exceeding expectations. We prioritize safety and convenience, ensuring a worry-free stay.
+My work: Property Management
+Speaks English
+Response rate: 100%
+Responds within an hour
+4 years hosting
+272 reviews
+4.76 out of 5 average rating
+4 years of hosting

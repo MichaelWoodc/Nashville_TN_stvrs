@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1541515529388984630
+Latitude: 36.20511
+Longitude: -86.81237
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music City Mashup — your ultimate Nashville getaway!
+This luxurious 4-bedroom, 4-bath home offers a garage-turned-game room, an iconic vinyl record wall with Spotify scan-to-play codes, and a rooftop terrace boasting breathtaking downtown views — all just minutes from the heart of the city.
+Whether you’re here to unwind, rock out, or explore, this stay strikes all the right chords.
+Perfect for music lovers, memory makers, and seekers of good vibes!
+
+The space
+Two parking spots are provided in front of the garage door labeled 970 D. Please do not park in front of someone else's garage. Some guests arriving in larger vehicles such as SUVs or pickup trucks report difficulty maneuvering and parking their vehicles in tighter spots they are not accustomed to. Please be mindful of your comfortability with parking in tighter areas. The complex becomes busy on the weekends with many cars parking in front of their driveways.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike
+Host User ID: 329107793
+Host Profile URL: https://www.airbnb.com/users/show/329107793
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+243 reviews
+4.75 out of 5 average rating
+2 years of hosting

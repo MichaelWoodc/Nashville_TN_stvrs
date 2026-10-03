@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/769727367095376357
+Latitude: 36.1826
+Longitude: -86.7455
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful, light-filled retreat in the heart of Nashville’s most sought-after and charming neighborhood, Lockeland Springs. Walk to all the best restaurants, bars, coffee shops, and boutiques that East Nashville and the 5-Points area have to offer. This peaceful and stylish refuge will give you the city at your fingertips.
+
+The space
+This brand new, beautifully decorated back house is tucked into a quiet corner of Nashville’s most beloved neighborhood, Lockeland Springs. Clean, stylish, and completely equipped for a restful escape, you’ll have your own private world all to yourself, right in the center of the action. Enjoy the soaring vaulted ceilings, full kitchen with new stainless steel appliances fully stocked with cooking essentials, and a beautifully renovated bathroom. We can accommodate up to four guests, with a queen bed in the bedroom and a queen sized futon in the living room. The apartment is one block from renowned coffee shop, Barista Parlor, hip tiki bar Chopper, and steps away from all the best hotspots in East Nashville! Too many walkable activities to list - stroll 5-10 minutes in any direction, and you’ll find yourself with plenty of shopping, eating, and coffee sipping to indulge in. 5 minute Uber/Lyft to downtown Broadway bars and Titan Stadium. 
+
+With the guests in mind, we have thoughtfully equipped the home with a premium mattress & crisp clean linens with plenty of amenities to make your stay as comfortable & enjoyable as possible.
+
+Guest access
+There is a dedicated entrance with keyless entry and parking spot reserved for guests.
+
+Other things to note
+Fully permitted #2022076771
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hillary
+Host User ID: 11652462
+Host Profile URL: https://www.airbnb.com/users/show/11652462
+Host Profile URL Source: public user permalink from passport userId
+Nashville based, New York and California raised. Professional musician and recording artist. I have 3 cats, a wonderful husband, and I love to travel.
+My work: Songwriter
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+283 reviews
+4.96 out of 5 average rating
+13 years of hosting

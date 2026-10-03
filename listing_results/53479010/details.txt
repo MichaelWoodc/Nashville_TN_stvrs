@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/53479010
+Latitude: 36.2262
+Longitude: -86.7254
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Prepare for an unforgettable trip when you book a stay at this inviting Nashville vacation rental! This 2-bedroom, 2-bath condo offers a contemporary interior, a fully equipped kitchen, and a premier location only 7 miles from downtown. Spend the day exploring the Country Music Hall of Fame and the Grand Ole Opry, then treat yourself to some local fare and live music on Broadway. Whether you're in town for local attractions or downtown delights, this condo is the best spot to see it all!
+
+The space
+Music-Themed Interior | Free WiFi (High Speed) | Keyless Entry
+
+Experience the best Nashville has to offer from this cozy and convenient getaway, perfect for families, couples, and music lovers alike.
+
+Bedroom 1: King Bed | Bedroom 2: Queen Bed | Living Room: Sleeper Sofa
+
+INDOOR LIVING: Smart TV, board games
+KITCHEN: Fully equipped w/ stainless steel appliances, Keurig coffee maker, dishware & flatware, breakfast bar
+GENERAL: Central A/C & heating, towels & linens, complimentary toiletries
+FAQ: 2nd-floor condo (elevator access)
+PARKING: Community parking lot (4 vehicles), street parking (first-come, first-served)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

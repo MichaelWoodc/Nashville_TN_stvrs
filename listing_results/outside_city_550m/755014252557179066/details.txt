@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/755014252557179066
+Latitude: 36.00581
+Longitude: -86.85866
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bird watchers delight! You will find this rural farm experience true to the word "rustic". Bell's House, built before 1840, is rich with history. Tastefully appointed with artwork, some of which is older than the structure itself. Rows of books line the walls, begging to be enjoyed. Bowed hardwood floors, short door frames, and water supplied from the well, are some of the quirky delights that await you. Summer is in full swing. Make the most of the pool!
+
+The space
+Nestled on 90 acres of green pasture and rolling woodlands, this home was built before 1840.
+This history is reflected in the character of the structure with it's low doorways and uneven floors. This house is old with many antique pieces of furniture and hundreds of old books. It even smells like a library. If you or anyone in your party are sensitive to these factors, please consider booking elsewhere. 
+
+The vast and peaceful outdoor spaces offer a sense of solitude unlikely to be found anywhere so centrally located. Only 15 minutes from many destinations of interest including Green Hills, Brentwood, Cool springs, and downtown Franklin, and only 25 minutes from Nashville, with their countless shops, restaurants, and historic sites, this property provides easy access for those wanting to explore all that middle Tennessee has to offer.
+
+For those that are looking to escape the bustle of the modern world and discover nature with country charm, we offer that "middle of nowhere" vibe without the drive. White tail deer and wild turkey parading across the fields are common sites. While not available for riding, there are also several horses that may come to say hello. The salt water pool is open year round, however it is not heated and is most enjoyable between Memorial Day and Labor Day. It was installed in the 50's and while the water is always clear and clean, the surfaces have some discoloration due to age. During the fall, the leaves fall faster than we can pick them up, and the pool may not be 100% swept at all times.  Please note that there is no fence between the house and the pool, but there is a pool alarm available and the depth around the entire perimeter is 30".
+
+Guest access
+Our guests enjoy full access to the entire house, with exception to the locked areas. The other buildings on the property are private, and we ask that guests do not enter them. 
+The pool is a shared space but can be requested to be private by our guests.
+Please note that bedroom 1 is only accessible through bedroom 3, and the bathroom for bedroom 3 is only accessible through bedroom 1. For this reason these two bedrooms are listed as semi-private. Also the upstairs bathroom is shared by the 3 bedrooms.
+You are welcome to explore the property, but please observe the gate rule. Open gates stay open and closed gates stay closed. 
+Thanks!
+
+Other things to note
+This property is always a work in progress, and we welcome all suggestions and ideas you may have for making improvements.
+
+Currently we are working on improving outdoor lighting.
+
+This is an OLD house. It is clean, but old. Most of the furniture and books are old too. The majority of our guests LOVE staying here because of this. If you are expecting a "hotel" like environment, you WILL be disappointed. If you, your children or anyone in your party has environmental sensitivity, this property may prove to be challenging. Some complaints have been- "the doorways are too low," "the floors are uneven," "it smells like old books," "this house is creepy," "I think this house is haunted," "there are leaves/bugs/algae in the pool." If any of these statements sound like something you might say, please save us both the trouble and stay somewhere else. 
+
+It has been observed that the 100 year old English boxwoods (bushes) surrounding the house and property have an unpleasant smell when in bloom. This is completely natural, and beyond our control. Also note: do not eat the daisies or stare directly into the sun.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Doug
+Host User ID: 39180830
+Host Profile URL: https://www.airbnb.com/users/show/39180830
+Host Profile URL Source: public user permalink from passport userId
+Lives in United States
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+99 reviews
+4.77 out of 5 average rating
+4 years of hosting

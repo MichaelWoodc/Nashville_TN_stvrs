@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/44494555
+Latitude: 36.0823
+Longitude: -86.6404
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your own private Nashville retreat with a separate entrance and convenient free parking. Perfect for couples, solo travelers, or business visitors, this comfortable guest suite gives you a quiet place to relax after exploring Music City. 
+
+Rated in the top 1% of all homes on AirBnB, past guests highlight the comfort of the bed and the easy access to the private entrance.
+
+The huge bathroom features a spacious walk-in shower, double vanity, and plenty of room to get ready.
+
+The space
+Your space is completely separate, with your own entrance and no shared indoor spaces.
+
+Start the day with coffee or tea, with both a Keurig and drip coffee maker available. The kitchenette also includes a refrigerator/freezer, microwave, filtered hot and cold water, dishes, glassware, and the basics you need for simple meals and snacks.
+
+Sleep comfortably in a cozy queen bed with fresh linens and plenty of pillows.
+
+Guest access
+The entire suite is yours alone. It's attached to the house but is completely private and sealed off from the main house. It has its own private entrance. There's a backyard and grill you are welcome to.
+
+Park right outside your private door and come and go independently using keypad entry.
+
+Other things to note
+Travel times depend heavily on Nashville traffic times.
+
+3 miles to BNA Nashville Airport
+
+9 miles to Broadway / Bridgestone Arena / Grand Ol Opry
+
+9 miles to Opryland Mall
+
+10 miles to Vanderbilt
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg
+Host User ID: 14522084
+Host Profile URL: https://www.airbnb.com/users/show/14522084
+Host Profile URL Source: public user permalink from passport userId
+I've been hosting short and long term rentals for over 10 years now and absolutely love it.
+My work: Self employed
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+128 reviews
+4.98 out of 5 average rating
+12 years of hosting

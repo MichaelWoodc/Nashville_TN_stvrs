@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/28443477
+Latitude: 35.973
+Longitude: -87.0131
+rental_type: Private room in farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 2
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2nd floor bedroom in farmhouse. One bedroom with 2 queen beds (plus optional bedroom with single bed). Bathroom is in hallway and may be shared with other guests. Rural paradise with abundant wildlife in historic Big East Fork Valley.
+Shared space include front and back porches with rockers, kitchen, living room,  dining room, and views of amazing forest, meadow, creek. Next to barn. Horseriding by appointment. Walk around Lake Gratitude and nearby hiking trails. Serves as office of The Fork Inn
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+My work: Hospitality, Trails
+Lives in Franklin, Tennessee
+What makes my home unique: Trails, creeks, wildlife in the Agrihood
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

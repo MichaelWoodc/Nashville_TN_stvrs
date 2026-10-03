@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1632030388690495006
+Latitude: 36.12639
+Longitude: -86.72653
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Whether you're an international traveler, a traveling nurse or visiting for fun, this is perfect! 7-10 minutes to downtown Nashville and hip Broadway, 3-4 mins. to the airport, we are so convenient everything, both for work and play.
+The queen bed has a memory foam mattress for the best sleep ever.  Also a comfy memory foam queen sofa bed. The kitchen is fully stocked with cooking essentials, and the laundry room ready to use. 
+Huge bathroom has a roomy shower.
+ There is a $125 one-time pet fee.
+
+Other things to note
+The picnic courtyard is nice, several tables and an outdoor grill.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fran
+Host User ID: 34366380
+Host Profile URL: https://www.airbnb.com/users/show/34366380
+Host Profile URL Source: public user permalink from passport userId
+With a career that includes journalism and broadcasting, I am now a full-time Real Estate Broker and Certified International Property Specialist. We love dogs in East Nashville, and my boy Harry is a sweet Lab rescue. I have lived and traveled around the world and love learning about the people, food, and history in each locale. I'm also a writer and love books, as well as history, art and science - although I don't completely understand science, it still fascinates me! I care about the environment and our place in the world. As a host, I will give you total privacy or be happy to share what I know about Nashville, whichever you prefer.  TN Permit # (Phone number hidden by Airbnb)
+Where I went to school: CA and Mangla  International School
+My work: Broker/Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+481 reviews
+4.82 out of 5 average rating
+11 years of hosting

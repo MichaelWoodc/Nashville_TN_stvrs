@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/52517383
+Latitude: 36.13271
+Longitude: -86.79685
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+It is easy to relax in this peaceful, pet-friendly and centrally-located garden house in the beautiful Belmont-Hillsboro neighborhood of Nashville. Your true home away from home, perfect for 2 guests who seek an oasis in the city. A short walk to Belmont University, Hillsboro Village, Vanderbilt University and 12 South, this garden house is the perfect escape!
+
+The space
+The space is a standalone garden house with a private porch and large open space (studio style) that is comprised of a kitchen (with full sized fridge, stove, and sink), eating area with two chairs, sleeping area, closet/laundry room with a washer and dryer, and separate bathroom with standing shower. Not shown by the photos is a lovely little sitting area with 2 comfortable lounge chairs and a lamp for enjoying morning coffee or a book. As shown by the photos, we do not offer a television. But! The WiFi is fast and the garden is full of lovely plants/flowers and visiting birds :)
+
+Guest access
+Street parking is always available on our cozy and safe street. If you have any other questions about parking don’t hesitate to ask.
+
+Other things to note
+We welcome your pets, especially well-behaved pups!
+
+Please note that “early check in” or “late check out” requests will gladly be considered but cannot be guaranteed. If you would like to check in earlier than our established time of 3pm,  please ask more than 24 hours prior to check in so we can try our best to accommodate.
+
+Finally, we highly recommend opting into travel insurance for your stay. Our cancellation policy is firm because a last minute cancellation for any reason puts too much pressure on our small business, which is unlikely to get a last minute booking. Please consider protecting your stay in the case of sickness, travel interruption or any other personal reason!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: William
+Host User ID: 3787587
+Host Profile URL: https://www.airbnb.com/users/show/3787587
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+290 reviews
+4.97 out of 5 average rating
+10 years of hosting

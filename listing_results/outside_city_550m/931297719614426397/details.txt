@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/931297719614426397
+Latitude: 36.28874
+Longitude: -86.62075
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private bedroom with shared access to full bathroom and half bath downstairs. Access to all areas of house including full kitchen, laundry room, dining room, living room and beautiful backyard patio besides other bedrooms. Bedroom has full size bed. Only minutes away from Creekwood Marina and Old Hickory lake and less than 25 minutes to downtown Nashville and Opryland. Centrally located to several restaurants and parks. Great outdoor space to grill or have a fire as well as relax in the hot tub.
+
+Other things to note
+Grab a coffee or tea before you head out for the day. We also have an assortment of breakfast items including oatmeal, granola bars, etc for breakfast.  In the evening grab a bag of chips.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 52471685
+Host Profile URL: https://www.airbnb.com/users/show/52471685
+Host Profile URL Source: public user permalink from passport userId
+My work: Retired
+I spend too much time: Traveling!
+Speaks English
+Lives in Hendersonville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+10 years hosting
+110 reviews
+4.78 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/576271894062433654
+Latitude: 36.11232
+Longitude: -86.69522
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy comfort and convenience in our cozy basement apartment, just 6 minutes from the airport and 14 minutes from downtown. Located in a peaceful neighborhood on an acre of land, this suite offers new flooring, a fully stocked kitchen, and a 55" Smart TV. With a private entrance and plenty of parking, it's perfect for relaxation. Quick access to major freeways makes exploring easy. Ideal for business or leisure travelers seeking a quiet yet central location!
+
+The space
+Enjoy a fully private stay in our cozy basement apartment, complete with a separate entrance and contactless check-in via a personalized smart lock code. The space features a living area with a couch and dining table, a bedroom with a queen memory foam mattress and dimmable bedside lamps, a second sleeping area with two twin beds, a kitchenette, and a full bathroom
+
+Please note, some areas have lower ceilings (as low as 5'9"), particularly between the living area and bedroom, and the first portion of the twin bed area.
+
+The upstairs unit is occupied by our family, and you may hear occasional footsteps or playful sounds. To ensure your comfort, a white noise machines are provided in both of the bedrooms.
+
+The apartment has heating and air conditioning. If you need the temperature adjusted, simply send us a message, and we’ll happily update it remotely. For entertainment, enjoy our Smart TV with Netflix provided (no cable).
+
+This inviting space is ideal for travelers seeking comfort, privacy, and thoughtful amenities.
+
+Outdoor enthusiasts will love being within walking distance of Seven Oaks Park, home to Tennessee’s best disc golf course, as well as brand-new pickleball and basketball courts. Whether you're looking to explore Nashville or relax in a welcoming environment, our home offers the best of both worlds!
+
+Guest access
+Our home features a spacious backyard with a small playset and a charming treehouse, perfect for outdoor fun. Feel free to share the space with our family, including our friendly dog who loves playing with the kids. Parking is easy, with a large driveway offering plenty of free space.
+
+Located in a quiet neighborhood, our home offers quick access to major freeways. We’re just 6 minutes from the airport, 14 minutes from downtown Nashville, 10 minutes from the Grand Ole Opry and Opry Mills Mall, and 12 minutes from the Nashville Zoo.
+
+Other things to note
+Please note, if you're not bringing your own vehicle, please be prepared to use a car, Uber, or Lyft for getting around, especially when exploring further parts of Nashville.
+
+To ensure a peaceful environment for everyone, quiet hours are from 10 PM to 7 AM.
+
+Our property is smoke-free. A $50 fine will apply if smoking is found on the property, and a $500 fine will be imposed for smoking indoors.
+
+The apartment has been newly renovated with all the amenities you’ll need to make your stay as comfortable and convenient as possible.
+
+We’re excited to welcome you to Nashville and hope you enjoy your time in our space!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendy
+Host User ID: 76253587
+Host Profile URL: https://www.airbnb.com/users/show/76253587
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+259 reviews
+4.87 out of 5 average rating
+4 years of hosting

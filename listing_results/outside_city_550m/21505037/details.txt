@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/21505037
+Latitude: 36.34173
+Longitude: -86.61374
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 2
+occupancy: 3
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is adult only! We have a 3 bdrm 2 bath unused upstairs. You will be renting only this room/ bath. This room is a master suite/w a twin  bed, queen bed, an over sized comfy recliner.  The bedroom has a lrg smart TV with Amazon prime movies and HULU . Has ensuite bath W  tub/ shower. Linens, towels. We have a beautiful deck/grill that you can enjoy. We  15 minute from Downtn Nashville. Coffee/tea/soda. Large kitchen which you can cook in. No curfew, come/ go as you please. NO SMOKING/Vaping.
+
+The space
+You’re welcome to use the kitchen, we have an extra refrigerator for guest use in the garage, if you need to store food. We have board games, just ask. We also have a large deck with a propane fire pit, fun lightning, a grill and seating.
+
+Guest access
+1 parking spot. We have a beautiful deck with a fire pit that you’re welcome to use. It has outdoor lighting, a gazebo with a table and chairs
+
+During your stay
+We don’t intrude on anyone’s stay. When guests are here, we try to stay as invisible as possible. The majority of the time we’re working, six days a week. However, if you need us, we’re just text message away.
+
+Other things to note
+We provide linens, pillows, soap and shampoo, Kleenex, toilet paper, hair dryer and a coffee bar.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karla
+Host User ID: 155968645
+Host Profile URL: https://www.airbnb.com/users/show/155968645
+Host Profile URL Source: public user permalink from passport userId
+My name is Karla Link, my husband and I are fun loving and love people. We like to have to have a good time but work hard. I pride myself on my beautiful gardens and waterfall I built. We have many different interest.
+Born in the 60s
+Where I went to school: Hendersonville
+My work: I run a hot dog cart
+For guests, I always: Share recommendations
+Pets: EllaGrace, Zoe
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+308 reviews
+4.98 out of 5 average rating
+9 years of hosting

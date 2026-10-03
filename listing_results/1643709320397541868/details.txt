@@ -1,0 +1,101 @@
+URL: https://www.airbnb.com/rooms/1643709320397541868
+Latitude: 36.12687
+Longitude: -86.72526
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your modern Nashville retreat! This stylish 1BR/1BA apartment offers the perfect blend of comfort and convenience just 5 minutes from Nashville International Airport (BNA) and 10 minutes from Downtown Nashville. Ideal for couples, solo travelers, business guests, or small groups, the apartment features a queen bedroom, sofa sleeper, fully equipped kitchen, fast WiFi, and self check-in.
+
+The space
+Welcome to your comfortable Nashville home base—perfectly located for exploring the city while enjoying a relaxing stay.
+
+🛏️ Sleeping Arrangements
+
+Bedroom: Queen bed with comfortable linens
+Living Room: Pull-out sofa bed for additional guests
+Sleeps up to 4 guests comfortably
+
+🛋️ Living Area
+Relax in the inviting living room featuring stylish furnishings, comfortable seating, Smart TV, and high-speed WiFi. Whether you're catching up on work or unwinding after a day exploring Nashville, this space is designed for comfort.
+
+🍳 Kitchen & Dining
+The fully equipped kitchen includes:
+
+Modern appliances
+Cookware and utensils
+Coffee maker
+Ample counter space
+Dining area for meals or remote work
+
+🛁 Bathroom
+
+Full bathroom
+Fresh towels provided
+Complimentary starter toiletries
+Clean, modern finishes
+
+📍 Nearby Attractions
+✈️ Nashville International Airport (BNA) – 5 mins
+
+🎶 Downtown Nashville – 10 mins
+
+🎸 Broadway Entertainment District – 10 mins
+
+🏟️ Bridgestone Arena – 10 mins
+
+🛍️ Opry Mills Mall – 12 mins
+
+🎤 Grand Ole Opry – 15 mins
+
+Whether you're visiting for business, concerts, sporting events, or a weekend getaway, this apartment offers the perfect location and amenities for your Nashville stay.
+
+Guest access
+Guests will have private access to the entire apartment during their stay.
+
+✔ Self check-in available
+
+✔ Full access to all interior living spaces
+
+✔ High-speed WiFi
+
+✔ Fully equipped kitchen
+
+✔ In-unit amenities
+
+Detailed access instructions will be provided prior to arrival.
+
+Other things to note
+Self check-in is available for a smooth arrival experience.
+The apartment includes high-speed WiFi and a fully equipped kitchen.
+Please respect quiet hours and neighboring residents.
+No parties or events are permitted.
+Guests are responsible for following all house rules provided prior to arrival.
+Permit #2026018492
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg
+Host User ID: 79298514
+Host Profile URL: https://www.airbnb.com/users/show/79298514
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Healthcare
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+286 reviews
+4.81 out of 5 average rating
+2 years of hosting

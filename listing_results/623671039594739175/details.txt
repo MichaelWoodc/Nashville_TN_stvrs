@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/623671039594739175
+Latitude: 36.26341
+Longitude: -86.64811
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at our peaceful 3 bedroom home. During your stay enjoy the convenience of Old Hickory Lake (just a walk away) or a 20 min drive to Downtown Nashville or airport. Everything you need plus convenience. (One dog under 25lbs aloud per stay)
+
+The space
+Relax with the whole family at our peaceful 3 bedroom home. During your stay enjoy the convenience of Old Hickory Lake  (just a walk away) or a 20 min drive to Downtown Nashville!!!
+
+The space…
+Make yourself at home by using the entire living space. We have everything you need to feel right at home. Feel free to cook yourself a meal in the kitchen stocked with all the basics & then some (uber eats if not) or get some R&R in our plush beds! (One dog under 25lbs aloud per stay)
+
+Guest access
+Guest access…
+We have top of the line laundry machine on the second floor that you can use at your convenience for all your needs!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamison
+Host User ID: 435882942
+Host Profile URL: https://www.airbnb.com/users/show/435882942
+Host Profile URL Source: public user permalink from passport userId
+My main passion is Real estate/traveling. I’m always looking for new ways to add value to the industry and create a great experience for our guests.
+Born in the 80s
+My work: Real Estate Investor
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+209 reviews
+4.92 out of 5 average rating
+4 years of hosting

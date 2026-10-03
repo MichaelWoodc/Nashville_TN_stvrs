@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/40091046
+Latitude: 36.19051
+Longitude: -86.73343
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Groovy, private guest house lovingly remodeled in the Eastwood neighborhood of East Nashville. Stroll the quiet residential sidewalks to eat, shop, and drink. Short drive to all the rest that our beloved music city has to offer.
+
+The space
+Our space is a one room, private detached garage that we have lovingly remodeled using eclectic vintage decor with modern perks. Enjoy the studio- style living area with a queen size bed, tv with bluetooth speakers, and a private patio with a picnic table. The pullout couch allows for an additional single sized bed. 
+
+Easily park in a reserved space directly in front of the cottage, and no contact checkin with keypad entry.  
+
+Coffee/tea/cream+sugar provided. 
+Included wifi, Netflix, etc.
+
+The Green Garriage is located in the Eastwood neighborhood,  convenient to all of East Nashville's best restaurants, bars, venues, shopping, and fun. 
+Enjoy a short walk (.7 miles) to Jeni's Ice Cream, Rosepepper Mexican Grill, Two Ten Jack, Eastland Cafe, Five Daughters Bakery, and Ugly Mugs.  Plus, an even shorter walk around the block to our favorite local spot Cafe Roze, along with Vinyl Tap, Soft Service Station, and Tabla Rasa Toy shop. 
+The Green Garriage is only a 5-10 minute car ride away from the heart of downtown Nashville's famous honkeytonks, concerts, and sporting events.
+
+NOTE: Like much of East Nashville we are located very close to the train tracks. Trains do come by at various times during the day, as well as at night. The train will blow its whistle, and it's relatively loud. We provide complimentary earplugs as well as a sound machine.
+
+We are pet friendly with a $40 pet fee per stay. Please indicate you are bringing your pet when you book. Thank you!
+
+Other things to note
+Please note that we do charge a $40 pet fee. Please know that while we love to host your furry friends, it takes a toll on the space over time, and requires deeper cleaning to prepare for the next pet arrival. We want our space to be clean and welcoming to each and every two and four legged guest!! Thanks for understanding.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lily And Jordan
+Host User ID: 14063165
+Host Profile URL: https://www.airbnb.com/users/show/14063165
+Host Profile URL Source: public user permalink from passport userId
+Lily and Jordan live and love in East Nashville with their two daughters and one dog, Suzy. Jordan is an artist/filmmaker and Lily is a prop/food stylist.  We love our city and all the fun and community it has to offer.
+Born in the 80s
+Where I went to school: Univ of Georgia / Appalachian State
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+938 reviews
+4.98 out of 5 average rating
+6 years of hosting

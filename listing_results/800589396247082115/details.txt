@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/800589396247082115
+Latitude: 36.1886
+Longitude: -86.763
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Oasis Getaway on Fifth — one of Nashville's most spacious retreats! This stunning East Nashville gem features a huge open kitchen & living room with seating for everyone, 3 King beds, 6 Queen beds & 4.5 bathrooms. Plenty of room for the whole crew to spread out in style. Just 2 miles from downtown & Germantown, you're steps from Nashville's best food, drink & culture. Prime corner lot location with every convenience at your fingertips. Your perfect Music City base camp!
+
+The space
+From soaring ceilings and wide-open hallways to floor-to-ceiling windows and an oversized floor plan, this home impresses from the moment you walk in. Every room is meticulously designed with guests in mind — and the details don't disappoint.
+
+🛋 LIVING SPACES
+The open-concept living area is built for entertaining, featuring an oversized sectional sofa and a massive 85" Smart TV. The chef's kitchen is equally impressive — two ovens, an over-the-range microwave, and a huge island with ample seating make it a dream for groups who love to cook (or just gather).
+
+⭐ FIRST LEVEL
+🛏 2 King bedrooms, each with private ensuite bath & Smart TV
+🛏 1 King bedroom with Jack & Jill ensuite bath & Smart TV
+🛏 1 bedroom with 2 Queen beds, Jack & Jill ensuite bath & Smart TV
+🍳 Fully stocked kitchen & dining room
+🛋 Living room with 85" Smart TV
+🚻 Half bathroom
+
+⭐ SECOND LEVEL
+📺 Den with 75" TV, reading area, mini fridge & full-size washer/dryer
+ 🛏 2 private flex rooms with 2 Queen beds each (4 Queens total) — each is a fully enclosed room with its own door
+🛁 Full bathroom
+🛋 Loft area with Smart TV
+
+Every bedroom is dressed in plush bedding with blackout shades and a Smart TV or Roku — because rest is part of the vacation too.
+
+Guest access
+You will have full access to the home and yard. There are no shared spaces.
+
+Other things to note
+We highly suggest Travel Insurance, as we adhere to our cancellation policies!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nancy And Roger
+Host User ID: 494311680
+Host Profile URL: https://www.airbnb.com/users/show/494311680
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+124 reviews
+4.99 out of 5 average rating
+4 years of hosting

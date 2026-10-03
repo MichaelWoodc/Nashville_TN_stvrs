@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/8825862
+Latitude: 36.18159
+Longitude: -86.75306
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This clean and spacious 1930s craftsman is the perfect location to explore Nashville's most progressive neighborhood on foot.  Situated right around the corner from bustling 5 Points and only 2 miles to downtown, experience Music City like an Eastside local.
+
+The space
+-Fully stocked kitchen with everything you need to prepare a meal at home.
+-A drip coffee and Keurig station to supply your coffee needs within seconds.
+-2600 spacious square feet; including 5 beds and 2 couches.
+-2 bathrooms with full showers, as well as a single bathroom with a claw foot tub for a restful soak.
+-A true Southern covered front porch for a relaxed hang.
+
+Guest access
+There is a keypad on the front door that allows self check in. The access code will be provided the night before check in via Air BnB message.
+
+Other things to note
+Due to the coronavirus, I'm taking extra care to disinfect frequently touched surfaces between reservations, cleaning and disinfecting and following Air BnB's enhanced cleaning protocol.
+I also have hand sanitizer in every room and at the front door as well.
+Thank you for considering my Air Bnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wojtek
+Host User ID: 46229313
+Host Profile URL: https://www.airbnb.com/users/show/46229313
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Indiana University
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+703 reviews
+4.94 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/663155049464521263
+Latitude: 36.07591
+Longitude: -86.93163
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This remodeled apartment is the lower half of our  home.  We're located about 17 miles  from Broadway/Downtown in a wooded subdivision.  We're 1/2 mile from a large shopping area with restaurants, grocery stores, ice rink, large theatre, and hotel.  
+You will enter through our front door and go down 4 stairs into your unit with a well-insulated locked door.  It's soundproof; you may only hear my footsteps during the day when I am working from home.  
+Welcome to our beloved oasis!
+
+The space
+There are 2 bedrooms, one with a king bed and one with a queen.  The room with a queen bed has a reading nook, too!  The living area and kitchenette are in one big room with a dining table for 4.  We love pop art and have a few pieces in the unit.  The bathroom was just remodeled in 2022 and features a large stand up shower and white tile.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendy
+Host User ID: 214721166
+Host Profile URL: https://www.airbnb.com/users/show/214721166
+Host Profile URL Source: public user permalink from passport userId
+I'm a 4th generation Chicagoan and  professional woman who found herself in  Nashville TN.   Ive been a licensed RN  for 30+ years and work now as a healthcare executive. I love listening to live music and practicing yoga and will often do both I'm traveling!  
+ My husband is my co-host (and our property florist) and we travel using Airbnb too.   I hope traveling makes me better host and vice versa.  Everyone is my neighbor
+Where I went to school: Valparaiso and U of Denver
+My work: health care executive
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+382 reviews
+4.97 out of 5 average rating
+8 years of hosting

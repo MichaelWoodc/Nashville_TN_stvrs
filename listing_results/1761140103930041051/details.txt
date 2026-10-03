@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1761140103930041051
+Latitude: 36.2454
+Longitude: -86.7997
+rental_type: Private room in barn
+property_type: BARN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Book a private stay with your horses at the 4444 Ranch. Take a break from the road and relax with us, along with the ease of being right next to Downtown Nashville and Broadway only 10 mins away. Experience whats truly the future in traveling and trailering horses, while getting rest and peace. Our barn looks just like a classic old red barn, but our cinder block base was built to last. We own horses here, so we take pride in making sure your horse has a good stay with us, just as much as you!!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paul
+Host User ID: 340708706
+Host Profile URL: https://www.airbnb.com/users/show/340708706
+Host Profile URL Source: public user permalink from passport userId
+My work: Touring Musician
+Lives in Nashville, Tennessee
+What makes my home unique: Horses + nature 10 min from downtown!
+Pets: Horses, Dogs, Cats, Reptiles
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+4.33 out of 5 average rating
+1 month of hosting

@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/847191840102253318
+Latitude: 36.1803
+Longitude: -86.8082
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This condo is 10-15 minutes to downtown. The condo is over 550 square feet, providing ample space to unwind and relax.  We also have free onsite parking.
+
+The main living area has a bed, dining area, and kitchen in a studio style layout. Also has a separate bedroom.
+
+We designed our condo to have everything you should need for your stay.  A well-stocked kitchen, high-speed internet, iron, fan, hair dryer, spacious closet and a dedicated workspace so you can get work done when needed.
+
+The space
+When you first walk in there is a desk for a private work space.  The main living area has the kitchen, dining area, sitting chair, and one of the beds. The separate bedroom has the other bed. Their are two doors do the bathroom so you can access from the bathroom or the hallway. There is also a washing machine and dryer in the hallway closet.
+
+Guest access
+Guests will have access to the entire space during their stay.
+
+Other things to note
+Free parking on site behind the building.  Also street parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rob
+Host User ID: 510325186
+Host Profile URL: https://www.airbnb.com/users/show/510325186
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Indiana University
+Lives in Nashville, Tennessee
+3 years hosting
+25 reviews
+4.88 out of 5 average rating
+3 years of hosting

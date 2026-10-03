@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/32137822
+Latitude: 36.29913
+Longitude: -86.64195
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Historic CHARTER HOUSE is a Large 3 Bedroom / 2 Bath Home with a 130 year old Log Cabin attached to it..  This Very Private 2 acre lot is completely fenced in with a beautiful Civil War Style Stone Wall running the entire entrance of the property.  It is located in the Middle of Hendersonville TN, right off of Old Hickory Lake just 15 mins north west of Downtown Nashville.  There is a very large parking area in front of the Home! This is Truly a Tennessee Vacation Experience!
+
+The space
+The CHARTER HOUSE is located very close to: Shopping Mall; Lots of Dinning; Several Golf Courses; Parks; Family Fun Center; Several Fitness Centers; and walking distance to the Anchor High Marina and Rudder Restaurant.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dwayne
+Host User ID: 241096945
+Host Profile URL: https://www.airbnb.com/users/show/241096945
+Host Profile URL Source: public user permalink from passport userId
+I am a 56 year old Male.  I am a Professional Touring Drummer, Booking Agent , Record Producer, and Entrepreneur.
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+113 reviews
+4.84 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/5933237
+Latitude: 36.18921
+Longitude: -86.74049
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming renovated bungalow located in hip East Nashville. The neighborhood is quiet, family friendly close to coffee shops, great restaurants, unique shops and art galleries. Close to all Music City has to offer.
+
+The space
+The space is open and comfortable with a gourmet kitchen that opens to a screened in porch. The porch is a great place to fall asleep on the comfy large sectional couch. There are two bedrooms with comfortable queen beds. One bedroom is an on suite with a full bathroom and a kitchenette. The on suite has a wrap around deck with a keyless lock that goes out to the deck.
+
+Guest access
+Guest will have access to the downstairs only. The entrance to the downstairs is totally separate from the upstairs. The apartment upstairs has its own outside private entrance on the driveway side. The guest upstairs and downstairs don’t share anything.
+
+Other things to note
+This is a quiet family friendly neighborhood so please be respectful of the neighbors and no loud noise after 10:PM.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Merrilyn
+Host User ID: 14083317
+Host Profile URL: https://www.airbnb.com/users/show/14083317
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1647 reviews
+4.94 out of 5 average rating
+12 years of hosting

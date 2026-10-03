@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/20920858
+Latitude: 36.16866
+Longitude: -86.75565
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Feel the love and good vibes when you step inside our home conveniently located in East Nashville, just down the street from Nissan Stadium and 2 miles to Broadway. We're native Nashvillians and our hope is that you'll feel like a local here and have a true Nashville experience. Our vibrant, versatile space is perfect for group trips, families or anyone wanting the comforts of home while in Nashville.
+
+*Guests must be at least 25 years old or accompanied by a parent.
+
+The space
+Our place is a 2 story townhome with 3 bedrooms and 2.5 bathrooms. We can accommodate 10 people comfortably. There is a king size bed in the master, along with a twin size daybed and a twin size pull-out trundle bed. There are queen size beds in the other two bedrooms. Each full bathroom has two separate sinks/vanities and one bedroom has a custom dimmable Hollywood-style light up makeup mirror and vanity. 
+
+Blackout curtains throughout the entire house so you can sleep as late as you'd like. 
+
+There are two living rooms, each with a queen size pull out sofa bed. 
+
+We have a tankless water heater = unlimited hot water. This is a HUGE advantage for large groups!
+
+Our guests are encouraged to use all of the appliances, musical instruments, cookware, electronics and anything else that makes them feel comfortable.
+
+The deck, surrounded by optional privacy curtains, has a full size gas grill that is available to any foodies inspired by the local fare. 
+
+We have a gated area in the back for parking and there is always ample parking in front of the house on both sides of the street.
+
+Guest access
+The entire home, other than two owners closets.
+
+Other things to note
+Short Term Rental Permit No. 2017_Followedby_058986.
+
+Please note:
+We have outdoor security cameras. We respect everyone's privacy to the highest degree. They are for security purposes only.
+
+Registration Details
+2017058986
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Taylor
+Host User ID: 125813700
+Host Profile URL: https://www.airbnb.com/users/show/125813700
+Host Profile URL Source: public user permalink from passport userId
+Mom of 2, Nashville native, Realtor who loves design
+Born in the 80s
+My work: REALTOR®️ & designer
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+228 reviews
+4.97 out of 5 average rating
+9 years of hosting

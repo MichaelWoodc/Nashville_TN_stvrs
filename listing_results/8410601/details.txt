@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/8410601
+Title: Stay Where The Stars Stay:All Our Guests Are STARS
+Latitude: 36.19772
+Longitude: -86.68264
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This lovely four-bedroom updated ranch is located in Donelson, just minutes from the Nashville Intl Airport, Gaylord Opryland Hotel, the Grand Ole Opry and vibrant downtown Nashville. It's also very convenient to other areas of Middle Tennessee.
+
+In this space you'll find three queen beds, one full bed, and two folding twin beds. All linens are furnished for you, as well as kitchen stocked with the implements needed to cook a fantastic meal or just brew some coffee to make your mornings great!
+
+The space
+This beautiful "renovated ranch" is located in the heart of Hip Donelson, a treasured area of Nashville that is convenient to the airport and a mere 10 to 15 minutes to the hopping downtown area. The kitchen features Corian countertops and stainless steel appliances including a gas stove, and opens to the light-filled dining area and living room. Nestle in front of the remote-controlled gas fireplace on a chilly evening or spend a relaxing time in the hot tub on the back patio. Enjoy the expansive back yard where you'll most likely spot deer in the distance nibbling the grass.
+
+Make yourself at home in the comfortable beds and take time to savor a nice, hot bath in the clawfoot tub in the upstairs bath or wash off the remains of the day in the updated shower in the downstairs bath.
+
+The hot tub off the back patio can offer a relaxing time as well.
+
+Guest access
+Enjoy all of the comforts of this amazing home including the downstairs full-size washer and dryer and the hot tub.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sonda
+Host User ID: 39459587
+Host Profile URL: https://www.airbnb.com/users/show/39459587
+Host Profile URL Source: public user permalink from passport userId
+I am so proud to be a resident of Nashville, Music City USA, a great and vibrant city that is filled with amazing culture. As a longtime resident of this city, I have come to love it deeply and take great pleasure in being able to offer comfortable, convenient accommodations to those choosing to visit. While I might not have thought of everything guests might need during their stays in Nashville, I have done my best to equip accommodations with as many comforts as I can think of to enjoy while away from home. 
+
+I hope all of you enjoy your time in “my city” and leave Nashville with a smile on your face and a song in your heart. I think Music City will leave a lasting impression on you of a marvelous place to visit and possibly one of the greatest places ever to call home.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+11 years hosting
+364 reviews
+4.68 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/49862954
+Latitude: 36.18712
+Longitude: -86.72658
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+At Ironwood Grove we have created  unprecedented tiny house hospitality experience nestled in the bustling, eclectic epicenter of East Nashville. Our tiny homes let you explore the curiosity of tiny living while indulging in our special selection of local amenities, our clever and efficient uses of small spaces, and stunning finishes. We hope Ironwood Grove feels like your cozy (tiny) home away from home as you explore the local music, art, and food of the great Music City.
+
+The space
+This suite features clever uses of space: a hideaway queen-sized memory foam bed that functions as a couch during the day. A kitchenette and dining counter complete the space, giving you access to all the amenities you need during your getaway. The kitchenette is complete with a mini fridge, microwave, and 2 burner range. Guests are welcome to enjoy our complimentary beverage bar with our exclusive locally roasted coffee and assortment of teas. Open the garage door to let in all of the fresh air and natural light and lounge on your private patio overlooking the courtyard. A fully tiled bathroom and lux shower are complete with the Good Fill's clean, zero waste soaps, and bath & body products. Maximum occupancy: 2
+
+Other things to note
+Please note that there is a train crossing nearby, so you may hear a train horn during your stay. We have provided earplugs and a sound machine to mitigate this!
+
+Also, please note we have fast WiFi access, but no TVs. You are welcome to bring streaming devices if you need this kind of entertainment!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erin
+Host User ID: 400448120
+Host Profile URL: https://www.airbnb.com/users/show/400448120
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: University of Virginia
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+662 reviews
+4.82 out of 5 average rating
+5 years of hosting

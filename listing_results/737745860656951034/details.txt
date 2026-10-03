@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/737745860656951034
+Latitude: 36.15428
+Longitude: -86.77549
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville at this penthouse suite. This 1 bedroom, 1 bathroom with a modern touch is in the heart of downtown Nashville. This suite is conveniently located only 2 minutes from the iconic Broadway and is surrounded by major attractions, including but not limited to Bridgestone Arena, Country Music Hall of Fame, Nissan Stadium, Music City Center, Museum and more. It's perfect for families, couples and business travelers with many restaurants, bar and shopping walking distance.
+
+The space
+This Penthouse Suite is designed to give you a high end & comfortable experience. The apartment has a queen bed in bedroom, a convertible sofa  in living room,  and a on air mattress to allow for comfortable sleeping arrangements. Looking to kick back and stay in a couple days, we got you covered. Take advantage of some streaming with our Roku Smart TV which includes access to  Netflix, Hulu, Disney+, youtube, wifi and more. The kitchen is stocked with cookware if you desire to dine in. In need of some fun? We have a swimming pool with beautiful outdoor sitting and grilling areas available. For those who need to get fit, visit our fitness center. Visit our sky lounge for some quiet study time, work or relaxation. There is a washer and dryer in the unit for your laundry needs. Lastly, the suite is thoroughly cleaned and sanitized immediately after check-out by our partnering company Meme Montheria Cleaning. We also include light cleaning supplies for your peace-of-mind.
+
+Guest access
+You’ll have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allataye
+Host User ID: 430800605
+Host Profile URL: https://www.airbnb.com/users/show/430800605
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+4 years hosting
+145 reviews
+4.73 out of 5 average rating
+4 years of hosting

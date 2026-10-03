@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/599204088049567324
+Latitude: 36.1926
+Longitude: -86.7457
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fall is calling in East Nashville, and this Douglas Ave retreat puts you close to it all. Explore local coffee shops, live music, neighborhood bars, and dining just minutes away. Inside, clean modern design and open living spaces offer a comfortable place to recharge after a day of concerts, great food, and Music City adventures.
+
+The space
+One of the most centrally located houses in East Nashville, this place is less than 3 blocks to Publix, Starbucks, Once Upon A Time In France, Pearl Diver, The Wash, Corner Deli, and much more! This home is super walkable and has a surprisingly private feel. 
+
+Fully furnished and designed with your experience in mind, our home is the perfect place to rest after a day of exploration or stay in with loved ones to enjoy vibrant comfort and an outdoor spacious backyard.
+
+Fenced in yard with great off-street parking
+
+**Please note**  
+
+Pets allowed with an additional $40 charge. Maximum of 2 pets.
+
+No parties allowed. We discourage Nashville locals from booking with this intent.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 23572246
+Host Profile URL: https://www.airbnb.com/users/show/23572246
+Host Profile URL Source: public user permalink from passport userId
+I'm an avid traveler, always looking to see and learn new things. My personal travel usually revolves around nature, animals or exploring the wonders this natural world has to offer. My team tries to bring that same experience to the properties we host. A luxury experience combined with the connectedness only untouched nature can provide.
+My work: Property Manager
+Lives in Nashville, Tennessee
+Response rate: 98%
+Responds within an hour
+Superhost
+5 years hosting
+809 reviews
+4.9 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/820920145264689193
+Latitude: 36.09874
+Longitude: -86.80926
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax on the open, covered porch, walk to your favorite shops, and come home to a modern, spacious living space to enjoy a gourmet meal with your friends and family.  We are pet friendly (some rules apply).    Glorious porch, huge yard, fire pit, plenty of parking and walkable to the best shopping! Minutes to downtown.
+
+The space
+Home is a Duplex.  Owner lives in attached separate apartment with dedicated entrance.  Guests stay in the main house which they have completely to themselves. There is one shared wall between the two living spaces. The entire grounds, deck and porch are designated for the guest use/enjoyment. The parking pad in front (2-3 cars) and two additional spots in the back will be for guests.  Guests will have main house access through front and back doors as shown in the photos
+
+Other things to note
+the owner lives adjacent to the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 152650461
+Host Profile URL: https://www.airbnb.com/users/show/152650461
+Host Profile URL Source: public user permalink from passport userId
+I’m originally from Louisiana but I have been in Nashville for about 25 years, so it’s home.  I have a huge family, 12 siblings!  I enjoy meeting new people, art, travel and food. I believe you can learn something from every person you meet. Proud to call Nashville home. I hope you enjoy all this great city has to offer.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+112 reviews
+4.99 out of 5 average rating
+4 years of hosting

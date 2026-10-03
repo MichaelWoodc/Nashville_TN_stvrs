@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/29828980
+Latitude: 36.17381
+Longitude: -86.7501
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pick vegetables and herbs from the garden to make fresh salads in the well-stocked kitchen of a home that blends barn comfort with modern touches. African safari photos, farmhouse glasses, and wood features add to the coziness of the interior.
+
+STRP Permit: 2/0/1/8/0/0/6/8/4/3
+
+Set just minutes from an urban downtown, you can feel like you've escaped to the countryside at this private garden cottage. Complete with an vegetable garden to make fresh salads and a fire pit to kick back at when the day is done, this space is inspired by and decorated to make you feel like you're enjoying Green Acres. Be it photos of African Safari, the farmhouse glasses, or modern wooden features, this guesthouse gives you the comfort of modern living with the feel of barn comfort.
+
+As our guest, feel free to pick fresh vegetables from the garden, enjoy a bonfire under the lights, and lounge in one of adirondack chairs on the deck. We also provide you with a private parking space in the back alleyway.
+
+East Nashville is a laid-back, artsy section of Music City. This historic district is a hub of arts, local music, award-winning dining, boutique shopping, and craft beer. Head across the river to experience all the nearby downtown attractions.
+
+Lyft, Uber, Bird and Lime are all cheap and easy modes or travel. East Nashville is also very walkable with a grocery store, post office, coffee shop, restaurants, and more within a block or two.
+
+The space
+Set just minutes from an urban downtown, you can feel like you've escaped to the countryside at this private garden cottage. Complete with an vegetable garden to make fresh salads and a fire pit to kick back at when the day is done, this space is inspired by and decorated to make you feel like you're enjoying Green Acres. Be it photos of African Safari, the farmhouse glasses, or modern wooden features, this guesthouse gives you the comfort of modern living with the feel of barn comfort.
+
+Guest access
+As our guest, feel free to pick fresh vegetables from the garden, enjoy a bonfire under the lights, and lounge in one of adirondack chairs on the deck. We also provide you with a private parking space in the back alleyway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sam
+Host User ID: 28766725
+Host Profile URL: https://www.airbnb.com/users/show/28766725
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+359 reviews
+4.97 out of 5 average rating
+9 years of hosting

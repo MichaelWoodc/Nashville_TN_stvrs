@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/25828359
+Latitude: 36.15131
+Longitude: -86.79669
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 35595674
+Host Profile URL: https://www.airbnb.com/users/show/35595674
+Host Profile URL Source: public user permalink from passport userId
+Nashville Native. Pilot. Degrees in Pre-Med Psychology/Chemistry and Aerospace Pro-Pilot. Chef. Beekeeper. Owner of Cantrell's Airbnb & oldest bar in TN: Springwater Supper Club & Lounge. VP of Bald Eagle Enterprises. Commercial Fixed Wing and Seaplane Pilot. Instrument and multi-engine rated. Certified Flight Instructor: CFI, CFII, MEI. PADI certified in scuba diving.
+Born in the 90s
+My work: Flight Instructor
+Response rate: 90%
+Responds within an hour
+10 years hosting
+627 reviews
+4.55 out of 5 average rating
+10 years of hosting

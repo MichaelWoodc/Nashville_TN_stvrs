@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/42901417
+Latitude: 36.13325
+Longitude: -86.63401
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to this cozy apartment, only minutes to downtown Nashville and BNA airport. Apartment is on the lower level of our single family home that offers a private entrance deck, and plenty of parking.  Gathering room with fireplace is open to the fully equipped kitchen, and eat at island. Fast wifi, 42” TV in Gathering room. Bath has panoramic mirror and custom ceramic shower. Apt. has it's own laundry .  A wooded retreat that is close by to Nashville for a getaway!
+
+The space
+Bedroom cove ( no door) has one 1 Queen bed
+Gathering room has fold out Futon sleeps two
+
+No part of the apartment is shared during your stay for your complete privacy. 
+
+Gathering room has a 42” tv with cable
+ 
+Kitchen is fully stocked with coffee maker, toaster, pots, pans, plates, cups, utensils etc everything you would need for cooking & eating
+
+Guest access
+Self check-in with lock code at entry
+
+Other things to note
+Steep  50' walk to private entrance
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Randy
+Host User ID: 341617008
+Host Profile URL: https://www.airbnb.com/users/show/341617008
+Host Profile URL Source: public user permalink from passport userId
+Andrea and Randy designed and  built their custom home 20 years ago to be comfortable and inviting.  We feel it's important to be able to relax and enjoy your travel.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+248 reviews
+4.92 out of 5 average rating
+7 years of hosting

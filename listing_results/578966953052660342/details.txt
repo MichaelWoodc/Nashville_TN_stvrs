@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/578966953052660342
+Latitude: 36.20174
+Longitude: -86.75378
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 13
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Swift House—a bold, stylish 4-bedroom, 4-bathroom offering ample sleeping space in the heart of East Nashville! You're just minutes from the city's best bars, restaurants, and live music. Designed for unforgettable getaways, it’s the perfect spot for bachelorette weekends, family trips, or group adventures. After a day in Music City, kick back, spread out, and enjoy your own private launchpad—complete with glam touches, cozy vibes, and plenty of room to make amazing memories!
+
+The space
+Bedroom 1 (main floor, bunk room):
+5 twin beds, 1 full bed
+
+Bedroom 2 (second floor):
+2 twin beds
+
+Bedroom 3 (third floor):
+1 queen bed, 1 twin bed
+
+Bedroom 4 (third floor):
+1 king bed, 1 twin bed
+
+AMENITIES INCLUDE:
+Drip coffee maker and k-pod machine
+Washer and dryer 
+Wireless internet
+Cable TV with Netflix
+Memory foam mattresses
+Fully-stocked kitchen
+Shampoo, body wash, conditioner
+Full linens
+Extra pillows and blankets
+Comfortable linens
+Cotton bath towels
+Hair dryers
+
+Guest access
+Guests will have full access to the entire space during their stay. Prior to arrival, you will receive a unique code that will serve as your keyless entry code to the house during your stay. Access is all keyless and you can come and go as you please!
+
+Other things to note
+The Neighborhood: 
+East Nashville is a large neighborhood encompassing many communities on a swath of land to the east and north of the Cumberland River. It is known as one of the coolest and trendiest neighborhoods in the city. From top-ranked restaurants to unique shops, there is a plethora of things to explore. This area is also known for smaller music venues that feature top local talent. Spend your days walking the Five Points area or head to Eastland Avenue to explore all this area has to offer!
+
+Registration Details
+2021054633
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ava
+Host User ID: 469329787
+Host Profile URL: https://www.airbnb.com/users/show/469329787
+Host Profile URL Source: public user permalink from passport userId
+Hi, y'all! My name is Ava. I am a Nashville native and am so excited for you to get to experience my hometown! We personally designed and decorated each of our apartments to provide you with a luxurious boutique stay. We have spent extra time and attention to detail to help make sure your stay is as accommodating and comfortable as possible. We want your visit to be as close to perfect as it can be so you can spend your time enjoying all that Nashville has to offer! If you have any questions, I am always just a call or text away!
+
+In my free time, you'll find me with my sweet fur baby, Crosby. He is the most beautiful, kind, and gentle (I may be biased lol) German Shepherd boy. 
+
+I cannot sing or keep rhythm to save my life, but I love this music city and know you will too!
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+1326 reviews
+4.95 out of 5 average rating
+4 years of hosting

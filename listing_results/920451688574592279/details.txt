@@ -1,0 +1,89 @@
+URL: https://www.airbnb.com/rooms/920451688574592279
+Latitude: 36.1835
+Longitude: -86.8077
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This refurbished home in historically diverse North Nashville can fit up to 12 guests with its 4 bedrooms and 4.5 bathrooms. With modern amenities, including a backyard space with a hot tub, this home is a retreat after a day exploring Nashville. The professionally designed spaces offer open-concept layouts and kitchen & dining spaces perfect for entertaining.
+
+The space
+FEATURES
+–1 indoor kitchen fully stocked with essential cookware
+–Private backyard with hot tub
+–1 off-street parking spot
+–High-quality memory foam mattresses and linen
+–High-speed internet
+–High-end essential toiletries
+–1 TV located in the living room
+
+ACCESSIBILITY & LAYOUT
+
+This home requires going up a few steps of stairs from the street level to the entrance. Once inside, there are stairs to access the upper floor.
+
+Floor 1:
+
+Bedroom Layout
+Bedroom 1: 1 King Bed, ensuite full bathroom
+
+Additional Rooms:
+Living Room, Kitchen, Dining Area, Half-Bathroom
+
+Floor 2:
+
+Bedroom Layout
+Bedroom 2: 1 King Bed, ensuite full bathroom
+Bedroom 3: 1 King Bed, ensuite full bathroom
+Bedroom 4: 2 Full Beds
+
+Additional Room:
+Bathroom
+
+Outdoor Space: This listing has a deck with outdoor dining area and backyard with hot tub and grill.
+
+HOST INFORMATION
+
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+
+We rent units in the building separately and together depending on how much space your group needs. If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+The unit has locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+*IMPORTANT DISCLAIMERS*
+-We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+-We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+-We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+-We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+-Pets are not allowed at this property. 
+-Mailing packages to the premises is not permitted.
+-We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heirloom Stays
+Host User ID: 312046089
+Host Profile URL: https://www.airbnb.com/users/show/312046089
+Host Profile URL Source: public user permalink from passport userId
+Huge Airbnb and Dallas Cowboys fan! Can't wait to host you.
+Speaks English
+Lives in Austin, Texas
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+1942 reviews
+4.8 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/47198342
+Latitude: 36.1804
+Longitude: -86.6787
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a very clean and cool apartment close to the airport, close to downtown, and close to the Opry. At the end of the day, retire to a quiet sanctuary within minutes of all locations. 
+Basement apartment that is cool in the summer & warm in the winter. Private entrance with plenty of parking.
+Cleanliness is assured as I clean it myself. Linens are bleached, and all surfaces are disinfected.
+
+AIRBNB IS CHANGING LISTINGS WITHOUT INFORMING HOSTS. THIS APARTMENT HAS 1  BED THAT IS QUEEN-SIZED.
+
+The space
+The basement apartment gets sunlight but the windows are high and don't offer a view. Guests are welcome to use the patio. There is 1 queen size bed and a sofa that could sleep a child. The kitchen is fully outfitted and the laundry room is full-sized.
+
+Guest access
+The entrance is private and downstairs next to the garage doors.
+
+Other things to note
+The breaker box, water heater, and storm shelter are accessed through the apartment. Hopefully, access won't be needed but guests should be aware it could happen.
+There are 2 cameras on the property. One is upstairs in the owner's place and one is in the garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michele
+Host User ID: 2558369
+Host Profile URL: https://www.airbnb.com/users/show/2558369
+Host Profile URL Source: public user permalink from passport userId
+I am a Human Resources Manager with a large retail chain. I love my career. I am an extrovert and love meeting new people. I am LGBTQ+ friendly and welcome open-minded and inclusive guests.
+Born in the 50s
+My work: Human Resources
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+77 reviews
+5.0 out of 5 average rating
+3 years of hosting

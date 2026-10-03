@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/32270961
+Latitude: 36.12368
+Longitude: -86.74
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+WELCOME TO MUSIC CITY!
+
+You are going to love your trip to Nashville!
+
+The tiny house is located on my property, but it is separated by a privacy fence. You would have the entire house to yourself. There is a small yard and deck out front for your use. There is a private entrance/parking for you as well. 
+
+Close to all the hot spots! Broadway, GEODIS Park, Vandy/West End and the Airport are just a few minutes drive away!  Quiet neighborhood. 
+
+There is a lock box for you to gain access.
+
+The space
+The tiny house is in an established neighborhood with friendly people. You will have everything you need; microwave, Keurig, dishwasher, counter top oven, refrigerator, bath tub and shower. Lofted bedroom with queen size bed. There is a Smart TV downstairs and upstairs. You have access to a private deck just outside the front door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kelley Susanne
+Host User ID: 143323884
+Host Profile URL: https://www.airbnb.com/users/show/143323884
+Host Profile URL Source: public user permalink from passport userId
+Hi, 
+
+My name is Kelley B and I'm from Nashville, TN.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+79 reviews
+5.0 out of 5 average rating
+8 years of hosting

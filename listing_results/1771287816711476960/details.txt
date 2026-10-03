@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1771287816711476960
+Latitude: 36.1431
+Longitude: -86.8255
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Good Ole Honky Tonk, a bright and stylish Nashville retreat with retro-inspired details and artwork celebrating Lower Broadway. Located in Sylvan Park, just 1 mile from Vanderbilt and 2 miles from Broadway, Bridgestone Arena, the Ryman, and Nissan Stadium. Walk or jog to Centennial Park via the Greenway. Enjoy a shared outdoor space with dining, café lights, and a charcoal grill—perfect for unwinding after exploring Music City.
+
+The space
+Welcome to Good Ole Honky Tonk—a bright, stylish Nashville retreat with a playful nod to Music City’s legendary nightlife. Featuring artwork of Lower Broadway and warm retro-inspired accents throughout, this inviting home captures a little Nashville spirit while offering plenty of modern comfort.
+
+The open living and dining area provides a comfortable place to relax, share a meal, or unwind after exploring the city. Large windows fill the space with natural light, while the cheerful décor gives the home its own distinctive personality.
+
+The fully equipped kitchen features stainless-steel appliances, a dishwasher, ample counter space, and the essentials needed to prepare anything from morning coffee to a home-cooked dinner.
+
+The home includes one bedroom furnished with two queen beds, making it a comfortable option for couples, friends, small families, or guests traveling together. There is one full bathroom, along with a full-size washer and dryer for added convenience.
+
+Guests will also enjoy ample off-street parking—an especially helpful amenity when visiting Nashville.
+
+Located on Acklen Park Drive, Good Ole Honky Tonk offers a welcoming home base for enjoying Music City, traveling for work, visiting family and friends, or settling in for a longer stay.
+
+Guest access
+Guests have full access to the private apartment and shared outdoor spaces.
+
+Other things to note
+Please be aware that a freight train runs behind the apartment complex, operating irregularly, including during the night. While some guests may not be bothered by the noise, others may find it disruptive. If you are sensitive to noise, we recommend not renting this property.
+
+The train travels from Memphis to Nashville, but it does not blow its horn near the building, so you will mostly hear it as background noise. It is mostly obscured from view by vegetation. To help minimize disturbances, sound and light-reducing curtains and a sound machine are provided.
+
+The apt. is located on the 2nd floor and requires stairs to access.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patrick
+Host User ID: 52170946
+Host Profile URL: https://www.airbnb.com/users/show/52170946
+Host Profile URL Source: public user permalink from passport userId
+We love Airbnb! We have been hosting guests on Airbnb since 2015 and have nine locations. We have stayed at a number of beautiful properties around the world and we look forward having you experience ours here in Nashville.  We also have a great Co-Host Brigitte that will be communicating with you as well and available to help with anything that is needed during your stay.
+Born in the 80s
+Where I went to school: Cornell University
+Response rate: 99%
+Responds within an hour
+Superhost
+11 years hosting
+3012 reviews
+4.86 out of 5 average rating
+11 years of hosting

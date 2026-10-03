@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/45638563
+Latitude: 35.9741
+Longitude: -86.8847
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our cozy home is nestled in Hillsboro Acres, only 3 miles from historic downtown Franklin and 20 minutes from Music Row.  It has brand new gourmet kitchen and enough room for your entire concert going clan to sleep comfortably.  Please note that this is our home. Our personal belongings are in the house.  If you’re looking for more of a Vrbo rental with empty closets and drawers, this is not the place for you.  Also note that we have a cottage in the back of our property that is also an Airbnb.
+
+The space
+We’re just a few minutes away from historic downtown Franklin and 20 minutes from Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Frank Ross
+Host User ID: 342871757
+Host Profile URL: https://www.airbnb.com/users/show/342871757
+Host Profile URL Source: public user permalink from passport userId
+Hiya, I’m Ross.  Husband, father, music lover,  tennis player, golfer, traveler.  My wife and I are also Airbnb hosts in Franklin, TN, USA.
+Born in the 70s
+Where I went to school: University of Louisiana
+Response rate: 100%
+Responds within a few hours
+Superhost
+5 years hosting
+115 reviews
+4.95 out of 5 average rating
+5 years of hosting

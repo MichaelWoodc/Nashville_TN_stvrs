@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/50776042
+Latitude: 36.20636
+Longitude: -86.76715
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your stay in East Nashville just a short Uber or Lyft away from Downtown in BAMBOO NIGHTS!  This tastefully decorated stay is likely to wow and delight.  With easy access to all of the food, drink and entertainment options of the laid-back hip side (East Nashville) of Nashville while being very close to downtown Nashville.  So Honky Tonk downtown and then come back home in East and go to 5 points, a local brewery, coffee, shop or even check out the dive motel, the local swimming hot spot.
+
+The space
+Bamboo nights is a 3 story town home with plenty of areas to hangout, relax, or cook.  TV with streaming options through Roku are available including fast Wifi.  Enjoy the sun on the balcony or sleep in with the blackout curtains in the bedroom.  There's something for everyone!  If you are coming with a group do know this is an open floor layout.  NEWLY ADDED:  We had a lot of requests for more privacy so we've installed a privacy curtain to give the main bedroom and the rest of the house more privacy!
+
+-=Details on bedding=-
+1st floor has a sleeper queen sofa in living room
+2nd floor queen bed in bedroom
+3rd floor twin size day bed 
+3rd foor twin size trundle bed under day bed.
+
+Guest access
+There is gated parking if you should need it but also a gated walk in gate.  You'll get the code for the gates once you book!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 2005724
+Host Profile URL: https://www.airbnb.com/users/show/2005724
+Host Profile URL Source: public user permalink from passport userId
+Local Nashvillian who likes music, beer, and a good time!
+My work: E-Commerce
+Lives in Nashville, Tennessee
+Response rate: 89%
+Responds within a few hours
+5 years hosting
+82 reviews
+4.74 out of 5 average rating
+5 years of hosting

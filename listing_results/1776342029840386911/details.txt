@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1776342029840386911
+Latitude: 36.1529
+Longitude: -86.8052
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style at this centrally located, unique 3-story loft featuring 2 bedrooms, 2.5 bathrooms, and room for the whole group! Sleeps up to 8 guests :) Enjoy a fully stocked kitchen, coffee bar, smart TVs throughout, and large windows that fill the space with natural light. Located minutes from Broadway, with access to community amenities: pool, gym, outdoor fireplace lounge, secure garage parking and more. This urban retreat blends comfort, convenience and Nashville character!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Haley
+Host User ID: 729559746
+Host Profile URL: https://www.airbnb.com/users/show/729559746
+Host Profile URL Source: public user permalink from passport userId
+Hi everyone!! I am thrilled to be hosting guests and love to provide   great, distraction-free experiences to my guests! I love live music, traveling, eating great food and meeting new people! And I also have a love for interior decorating and designing homes!
+My work: Operations Manager
+Fun fact: love School of Hard Knocks
+Response rate: 100%
+Responds within an hour
+New Host

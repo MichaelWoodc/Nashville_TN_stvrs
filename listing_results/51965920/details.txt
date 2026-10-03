@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/51965920
+Latitude: 36.19815
+Longitude: -86.72731
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in desirable east Nashville, relax in this modern, private, home away from home. This house is perfect for groups, families or if you’re looking for a couples getaway! Each bedroom has been thoughtfully designed and the house has a spacious backyard with a ping pong table, grill, and outdoor seating. If honky tonking on Broadway or visiting one of the many Nashville hot spots or sporting venues is on your ‘to do list’ then hop in an Uber, our house is only a few miles away from downtown!
+
+Guest access
+Our property has free parking as well as self check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scott
+Host User ID: 336887910
+Host Profile URL: https://www.airbnb.com/users/show/336887910
+Host Profile URL Source: public user permalink from passport userId
+Hello! My name is Scott and I manage this Airbnb with my lovely girlfriend Sophia. We are both musicians and have fallen in love with Nashville and all that this city has to offer. I hope you, like us, fall in love with the city and come back year after year. Cheers!
+Where I went to school: Belmont University
+My work: Music Producer
+Response rate: 90%
+Responds within an hour
+5 years hosting
+188 reviews
+4.87 out of 5 average rating
+5 years of hosting

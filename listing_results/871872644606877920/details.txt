@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/871872644606877920
+Latitude: 36.19531
+Longitude: -86.77696
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music City! Our vibrant and stylish Airbnb in Nashville is the perfect base for your exciting urban adventure. Come stay at our little corner of Nashville, a short 10 minute Uber to Broadway!
+
+Whether you're here to experience the music scene, indulge in delectable cuisine, or simply soak up the unique atmosphere, our Airbnb in Nashville is the ideal home base for your unforgettable stay. Book now and get ready to create lasting memories in the heart of Music City!
+
+The space
+Enjoy a great nights sleep in any one of our rooms. All beds come equipped with fresh, premium linens. The apartment sleeps eight comfortably, with a king-sized bed in the primary bedroom, a queen-sized bunk room in the second bedroom, and a full-sized pull-out couch in the living room. We also offer complimentary use of our on-site laundry, featuring commercial-quality washers and driers.
+
+Our home also has a fully stocked kitchen with everything you'd need whenever you're not out on the town! We have stainless steel appliances, including a refrigerator, microwave, oven and range, along with all-new cutlery and plates. Keurig coffee is provided free of charge with creamer and vanilla/English toffee sweetener.
+
+Work from one of our two balconies and soak in the views of our favorite city. Our fiber optic internet is super fast and reliable and is perfect for working during your stay.
+
+Take photos with custom murals created by famous mural artist @forbecks. (Known for The LEGOman, Love Is In The Air, and The Thinker depiction at The Loading Dock!)
+
+Guest access
+We offer keyless entry locking. You will receive an e-mail with the details of your stay. In that email, you will be given a four-digit code for entry!
+
+Other things to note
+The Music City Love Shack has everything you'll need for an excellent stay, including:
+
+Contact-free check-in
+Speedy, reliable WiFi
+Best views of the city
+Fresh towels and bathroom essentials
+Pre-cleaning before your arrival
+Record player with vinyls of every genre
+Fully equipped kitchen
+Free parking
+Sound bar and bluetooth speaker
+
+**NOTE: There is a $250 fine for smoking on the property. This is our home. Please respect it, please and thank you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

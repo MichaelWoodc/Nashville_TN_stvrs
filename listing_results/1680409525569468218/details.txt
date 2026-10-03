@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/1680409525569468218
+Latitude: 36.1465524
+Longitude: -86.6655965
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This executive king room offers extra space and a dedicated work area, making it ideal for both business and leisure travelers. Relax after a flight or a show at the Grand Ole Opry with in-room comforts and plush bedding. The location provides easy access to Nashville Airport and downtown venues.
+
+The space
+This listing is for a room within a hotel.
+
+✦ Your room  equipped with complimentary toiletries, high definition 55-inch TV, available with Premium cable.
+
+✦ Cleaning services included in the nightly price.
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 3:00PM to 12:00AM.
+
+✦ You may keep your luggage at the front desk if you arrive early.
+
+✦ Fitness center is available.
+
+✦ Outdoor shared pool available from May 28 to August 31.
+Additional features:
+    • Lap pool
+
+✦ Free parking lot.
+
+✦ Shuttle service is available upon reservation between 5:00AM and 11:00PM.
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Pets are welcome with an additional charge of $25.00 (per night). Dogs and Cats only | 2 Pets Max | 75 lbs max
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ The maximum number of days that you may book per reservation is only 28 days.
+
+✦ Free roundtrip airport shuttle at scheduled times.
+✦ Breakfast available daily 6AM to 9AM.
+✦ Extended parking available onsite for a fee
+✦ Pool is seasonal.
+✦ Early check-n & late check-out are subject to availability
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LaQuinta By Wyndham
+Host User ID: 699580001
+Host Profile URL: https://www.airbnb.com/users/show/699580001
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+3242 reviews
+4.36 out of 5 average rating
+1 year of hosting

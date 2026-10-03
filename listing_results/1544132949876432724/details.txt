@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1544132949876432724
+Latitude: 36.1421
+Longitude: -86.7643
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harthall Hotel
+Host User ID: 722837992
+Host Profile URL: https://www.airbnb.com/users/show/722837992
+Host Profile URL Source: public user permalink from passport userId
+11 months hosting
+91 reviews
+4.64 out of 5 average rating
+11 months of hosting

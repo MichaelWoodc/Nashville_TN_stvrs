@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1571255749972513498
+Latitude: 36.14765964281444
+Longitude: -86.81853803961802
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into an unforgettable luxury Nashville stay at this stunning 4BR retreat, sleeps 12, in a prime downtown location near Broadway. Designed for elevated comfort, enjoy a spacious layout, big screen entertainment, and a sleek modern kitchen. With keyless entry, high-end finishes, and walkable access to top dining, nightlife, and live music, this is the ultimate upscale getaway for groups seeking the best of Music City.
+
+The space
+Welcome to The West End Wonder, your Nashville retreat in the heart of one of the city’s most desirable neighborhoods! This modern 4-bedroom, 3-bath home offers comfort, style, and Southern charm just minutes from Vanderbilt, Centennial Park, and all the hotspots of West End and Midtown.
+
+Step inside to an open, sun-filled living area with cozy seating and Smart TVs for easy streaming. The fully stocked kitchen features stainless-steel appliances, plenty of counter space, and all the essentials to whip up a meal or enjoy a morning coffee before exploring the city.
+
+Each bedroom is beautifully designed with plush bedding, spacious closets, and thoughtful touches to make you feel at home. The primary suite includes an en-suite bath and walk-in shower, perfect for relaxing after a night on Broadway.
+
+Perfect for: families, groups, business travelers, and anyone looking to enjoy Nashville in comfort and style.
+
+Guest access
+Guests have full access to the entire home, including all four bedrooms, three bathrooms, the open-concept living area, and the fully equipped kitchen. You’ll also enjoy the private patio, in-home laundry, and free parking in the driveway or street.
+
+Self check-in is available with a smart lock, so you can arrive at your convenience—no need to coordinate schedules. The space is yours to enjoy from check-in to check-out!
+
+Other things to note
+Smoking Fee - $250
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

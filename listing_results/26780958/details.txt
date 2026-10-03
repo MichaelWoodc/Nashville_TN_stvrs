@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/26780958
+Latitude: 36.159
+Longitude: -86.848
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to 5004 Michigan Avenue, our cozy bungalow in the heart of Nashville's newest hotspot. Built in 1961, this single level brick home is chock full of homey comforts. Enjoy a cup of coffee on the front porch in the morning and a glass of wine by the fire pit out back in the evening. We have loved this retro, family-style house for the past thirteen years, and we're sure you will too.
+
+The space
+Each bedroom has a dedicated bathroom, two ensuite and one accessible from the hallway. The first and second bedrooms have doors which shut and lock; the third bedroom has curtains which can be pulled closed for privacy.
+The kitchen island is a perfect gathering area for cocktails and snacks before retiring to the backyard fire pit for music or conversation.  Like the few other remaining homes original to the neighborhood, this 50-plus-year-old house has its share of cosmetic quirks, which we feel add to its charm and authenticity.
+
+Guest access
+Guests have full access to front porch, backyard and all rooms in the house. Certain cabinets and closets will be labeled as unavailable, but plenty of storage will be free otherwise.
+
+Other things to note
+Our home is pet-friendly, and we offer one pet bed for furry guests, although we will accommodate up to two animals at a time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anitra
+Host User ID: 33239591
+Host Profile URL: https://www.airbnb.com/users/show/33239591
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+158 reviews
+4.98 out of 5 average rating
+8 years of hosting

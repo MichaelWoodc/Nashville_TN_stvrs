@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/632794084483763370
+Latitude: 36.20919
+Longitude: -86.77721
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Best Western Plus Executive Residency Nashville is conveniently located just four miles from Downtown Nashville with easy access to I-65 and I-24. Enjoy a stylish experience at this centrally-located place.
+
+Your family will be close to everything when you stay at this centrally-located place.
+
+The space
+2 Queen Beds
+390 sq feet
+
+Internet - Free WiFi
+
+Entertainment - 50-inch flat-screen TV with satellite channels
+
+Food & Drink - Refrigerator, microwave, coffee/tea maker, and freezer
+
+Sleep - Blackout drapes/curtains and bed sheets
+
+Bathroom - Private bathroom, shower/tub combination, free toiletries, and a hair dryer
+
+Practical - Iron/ironing board, laptop workspace, and phone
+
+Comfort - Air conditioning and daily housekeeping
+
+Other things to note
+The name on the reservation will need to be name of the individual checking in at the front desk.
+
+Refundable Deposit: $50  per stay. Major debit, credit card, or cash accepted at check in. Card must match name on reservation
+
+Seasonal Pool hours: May-August. Subject to change
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 630032
+Host Profile URL: https://www.airbnb.com/users/show/630032
+Host Profile URL Source: public user permalink from passport userId
+4 years hosting

@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/49566927
+Latitude: 36.17982
+Longitude: -86.71693
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This beautiful 3/2 home sits on a hilltop with East Nashville vistas and is a quick drive to food spots, shops and DT. Relax in a Japanese soaking tub, share cocktails under a historic 200 yr old oak tree shading the back patio or sit on the deck and watch deer & turkey stroll through the yard. Whether you are in town for work or play this home has it all for a comfort and accessibility.
+Owners prefer guests with at least one positive and no negative reviews. 
+We look forward to hosting you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elsbeth
+Host User ID: 38963692
+Host Profile URL: https://www.airbnb.com/users/show/38963692
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+6 years hosting
+28 reviews
+4.93 out of 5 average rating
+6 years of hosting

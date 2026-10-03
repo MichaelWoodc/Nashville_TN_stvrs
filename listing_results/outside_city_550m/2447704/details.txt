@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/2447704
+Latitude: 35.9509
+Longitude: -87.0201
+rental_type: Private room in nature lodge
+property_type: NATURE_ECO_LODGE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The East Wing of the LakeTrail House contains the Master bedroom the Sunroom and the full kitchen. Private outside hot tub ($100 fee in advance for cleaning & setup). A private  deck is yours to enjoy  with inspirational views of the surrounding forest. A ten minute walk through the forest takes you to a 6 acre lake and the Lake Gratitude Natural Area.
+The East Wing has a dinette and kitchenette. Full kitchen available for fee if the West wing is not rented.
+
+NO PARTIES
+
+The space
+A secluded location and a 360 degree wrap around porch make this a very special place.
+
+The West Wing shares a large kitchen with the East Wing. 
+
+If you do not wish to share kitchen, consider renting the entire LakeTrail House
+
+The Laketrail House is in the middle of the forest and mice might be living there, so you might see some mouse poop. Don’t panic; this is normal in the country  If you would like to borrow a cat or trap, let us know.
+
+Guest access
+The Lake Gratitude Natural Area is located close by at 5375 Big East Fork Road 
+
+Guests may access the common kitchen, living room, and dining room areas. Non-registered guests are  not permitted on premises.
+
+Guests may use hiking trails and lake at the Lake Gratitude Natural Area. See the Center for Sustainable Stewardship for access.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

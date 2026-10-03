@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/38388857
+Latitude: 36.1534
+Longitude: -86.8275
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to “Luxurious Modern Loft,” the ultimate Nashville experience! Immerse yourself in breathtaking views of Nashville from our rooftop deck. Our fully stocked gourmet kitchen, equipped with state-of-the-art appliances, ensures a culinary delight during your stay. Nestled just a short drive from downtown, this luxurious three-bedroom offers an epic Nashville adventure for all. Book your stay today and embark on an unforgettable journey!
+
+The space
+This jaw-dropping, swoon-worthy space could easily be featured in an architectural design magazine! Just a few blocks away from the beautiful Centennial Park and the iconic Parthenon, this place is a hidden gem. Within walking distance, you’ll find a variety of new restaurants to tantalize your taste buds. From Farm Burger to Calypso Cafe, Chaatable, Double Dogs, and Honest Coffee Roasters, there’s something for everyone.
+
+Guest access
+You’ll have access to the entire home. Before your stay, we’ll send you the access code along with the entry instructions. The host is always available to answer any questions or inquiries you may have. Thanks!
+
+Other things to note
+There’s a large dumpster located near the alley entrance. You’ll need to walk a few steps behind the building to reach it.
+
+Registration Details
+2019051443
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: May & Eric
+Host User ID: 43286203
+Host Profile URL: https://www.airbnb.com/users/show/43286203
+Host Profile URL Source: public user permalink from passport userId
+We are a married couple living in Nashville, and have a passions in real estate and vacation rental. We love music, travel, and food.
+My work: Restaurant Owner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1026 reviews
+4.95 out of 5 average rating
+10 years of hosting

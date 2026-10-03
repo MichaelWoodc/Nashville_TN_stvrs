@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/749869008093742573
+Latitude: 36.15508
+Longitude: -86.76429
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this beautifully decorated condo just a short walk from Broadway! Sleeping up to 8 guests, it features a spacious kitchen, comfortable living area, private balcony with downtown Nashville views, and plenty of room to unwind before or after a night out. Enjoy access to the fitness center, 5th-floor gathering space, and main-floor lounge. The perfect home base for your Music City getaway!
+
+Nashville Permit #2022073911
+
+The space
+Enjoy gathering in the spacious open-concept living area, featuring a fully equipped kitchen, dining space, and comfortable living room—the perfect place to relax and share stories before or after exploring Broadway.
+
+The kitchen includes a full-size refrigerator, oven, microwave, blender, and all the cookware, dishes, and essentials you'll need to prepare meals or reheat your favorite Nashville takeout.
+
+The condo comfortably sleeps up to 8 guests. The primary bedroom features a king bed and a private ensuite bathroom. The second bedroom offers two queen beds and its own ensuite bathroom. A self-inflating queen air mattress is also provided for additional sleeping space.
+
+As a corner unit, the private balcony offers beautiful views of the Nashville skyline—an ideal spot to enjoy your morning coffee or unwind after a night out.
+
+**Muse Building Amenities**
+
+* Rooftop lounge with outdoor seating and skyline views
+* Modern fitness center
+* Two elevators
+* Spacious lobby for gathering before heading out
+* The Drip Bar next door is an official Bounce luggage storage location, making early arrivals and late departures even more convenient.
+
+Guest access
+Guests have full access to the entire corner-unit condo and all building amenities. Enjoy a spacious, fully equipped kitchen with everything needed to prepare meals, a comfortable living area, and two ensuite bathrooms with double vanities, making it easy for everyone to get ready.
+
+In-Unit Amenities
+
+Private balcony with city views
+Fully equipped kitchen
+In-unit washer & dryer (laundry detergent provided)
+Shampoo, conditioner, body wash, and makeup remover in each bathroom
+Smart TVs in the living room and both bedrooms
+
+Building Amenities
+
+Fitness center (1st floor)
+Sky Lounge with indoor seating and a large outdoor patio (5th floor)
+Spacious lobby, perfect for gathering before heading out to explore Nashville
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 436681712
+Host Profile URL: https://www.airbnb.com/users/show/436681712
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: University of Kansas
+Response rate: 100%
+Responds within an hour
+5 years hosting
+238 reviews
+4.82 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1208936201254388171
+Latitude: 35.91183
+Longitude: -86.6325
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Peaceful Airstream retreat on a 12 acre property 30 minutes from Nashville. Escape and experience country life with beautiful views and stunning sunsets. Perfect for couples.
+
+The space
+There is a queen size bed in the front of the airstream with tons of storage.  There are 2 extra beds that can be convereted from the dining table and sofa seating. Enjoy a kitchen with a refrigerator, oven, stove, and microwave. There is also a full bathroom with a standup shower, toilet and sink.
+
+Other things to note
+We have a friendly goldendoodle that will most likely want to come and greet you during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hailey
+Host User ID: 85220972
+Host Profile URL: https://www.airbnb.com/users/show/85220972
+Host Profile URL Source: public user permalink from passport userId
+I’m Hailey. I’m a mom living in the Nashville area.
+Born in the 80s
+Where I went to school: Savannah College of Art and design
+2 years hosting
+3 reviews
+5.0 out of 5 average rating
+2 years of hosting

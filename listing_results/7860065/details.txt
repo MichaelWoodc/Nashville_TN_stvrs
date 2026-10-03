@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/7860065
+Latitude: 36.1655
+Longitude: -86.6828
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This newly remodeled XL Studio unit is totally private with a full kitchen, washer/dryer, and flat screen tv/netflix, and shower/ tub. 
+
+Our stylish vacation rental is 4.9 miles from downtown, Vanderbilt and 2 miles from Grand Old Opry. This studio has a king size bed with a twin bed perfect for a third guest. This VERY quiet neighborhood with park-like backyard is a perfect base for seeing beautiful music city. We are walking distance from 2 grocery stores and an easy $10-15 Uber ride downtown
+
+The space
+We have a king bed and twin for guest comfort. There is a full tub in an updated bathroom. We have a breakfast nook with seating. Also washer dryer for convenience, with a self-controlled air conditioner so you can set your own temperature for comfort. We have Netflix and other apps . The hosts live upstairs so you will hear our footsteps but we are extra quiet until 10 am to allow guests to sleep in.
+
+Guest access
+Enjoy our park-like backyard, sit in chairs and watch the sun come up with your coffee in hand.
+
+Other things to note
+free wifi, smart tv, dishwasher, off street, free parking. Quiet hours 10 pm- 8 am. Coffee provided. Please only use the app to communicate with us and turn on notifications.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caitlin
+Host User ID: 293488
+Host Profile URL: https://www.airbnb.com/users/show/293488
+Host Profile URL Source: public user permalink from passport userId
+I am health blogger and author. My husband is a Mediterranean chef. We love to travel, eat healthy and interesting food, enjoy nature and spend time with family. I am a Nashville native and my husband keeps up with all the hot spots so between us we can tell you anything you want to know about your visit to middle TN. We love to meet open minded people who want to experience and appreciate the world. 
+
+We are very relaxed and we will never bother you. Our goal is for you to have the utmost privacy but we are always available if any need arises.  We want you to be very comfortable and communicate as soon as possible how we can make you more comfortable.
+Where I went to school: University of Tennessee, Knoxville
+My work: Self Employed
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+1081 reviews
+4.81 out of 5 average rating
+15 years of hosting

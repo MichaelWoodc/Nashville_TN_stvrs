@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/16635019
+Latitude: 36.15429
+Longitude: -86.86596
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your stay at this cozy cottage located close to downtown Nashville (about a  10-15 minute drive) the Nashville West shopping center, and local venues. Close to Cheekwood Botanical Garden and Museum of Art, and Belle Meade mansion and Richland Creek walking and bike trail.
+
+Nashville offers a variety of sight seeing tours. I can recommend places for you as well.
+
+The space
+This space is unique because it is in a quiet and friendly neighborhood. Full access to the home.  You will have access to the washer and dryer, Iron and ironing board, full access to the kitchen, coffee and tea will be provided. Fresh linens will be provided and necessities in the bathroom.
+
+Guest access
+Travelers have access to the entire space. Guests are allowed to use the grill.
+
+Other things to note
+I do not have pets and I do not allow pets on the premises.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 109895093
+Host Profile URL: https://www.airbnb.com/users/show/109895093
+Host Profile URL Source: public user permalink from passport userId
+I have been a resident of Nashville for over twenty years. I am  caring, kind, and a hard worker. I love to help others and spread positive energy. I love my family and spending time with them and friends. I enjoy traveling, shopping, and just enjoying life to the fullest.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+210 reviews
+4.89 out of 5 average rating
+10 years of hosting

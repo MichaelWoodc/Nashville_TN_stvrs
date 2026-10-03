@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1607319950767057270
+Latitude: 36.2335
+Longitude: -86.7071
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The perfect mix of adventure, nature, comfort and fun! These two-bedroom cabins are wonderful and homey. Located at Nashville KOA Resort, you can enjoy all of the fantastic campground amenities including the heated outdoor pool, onsite cafe, live music, pickleball, dog parks and more. This location offers a perfect balance of easy access to downtown Nashville with a low-cost daily Downtown Shuttle, but far enough from the heart of the city to enjoy a quiet evening around the campfire.
+
+The space
+-	Cabin Sleeps 6: Ideal for couples traveling together, or families, these cabins offer two queen beds, located in separate bedroom areas. There is also a full Sleeper Sofa located in the living room area for an additional two guests.
+-	Space to Get Ready: These cabins have 1.5 baths. There is a full bathroom with shower off of the common area, plus a small half bathroom in one of the bedrooms. That way, everyone will have space to get ready for a night out in Nashville!
+-	Kitchen: Equipped with the essentials for your stay including a refrigerator, cooktop, microwave, toaster, basic cookware, dishware and utensils. There is also a Keurig Coffee Maker!
+-	Modern Amenities: Watch TV on the flat screen and stay connected with fast, modern Wi-Fi (installed 2024).  Enjoy the convenience of a full bathroom with hot water and fresh towels and linens provided.
+-	Outdoor Living: Step outside to your private patio with a propane grill and outdoor seating, perfect for enjoying meals or relaxing under the stars. There's also a fire pit nearby for s'mores and storytelling around the fire.
+-	Campground Recreation: There’s a LOT to do at Nashville KOA Resort! We have live music nearly every night, plus an awesome heated pool and hot tub along with pickleball, jump pillow, lawn bowling & more. You can easily explore the whole campground with golf cart and bicycle rentals. 
+-	Campground Services: Need anything? Our General Store has snacks, camping gear, souvenirs, basic groceries and more. Our friendly staff is available to assist you, and the onsite Greyline Concierge can help you plan visits to local attractions.
+-      Neighborhood: Nashville KOA Resort is conveniently located near several of Music City's most iconic attractions. The Grand Ole Opry is just 3 miles away where guests can enjoy legendary performances and take guided backstage tours to delve into the venue's rich history. Nightlife options are plenty including live music within 2 miles at local favorites including Scoreboard Bar & Grill, Music City Bar & Grill and Nashville Palace Honky Tonk. Opry Mills is also within 3 miles and offers an outlet mall with popular name brand shops, Regal Cinema, The Escape Game and numerous restaurants including Dave & Busters & Rainforest Café.  Outdoor enthusiasts enjoy nearby Two Rivers Park offering a wave action pool, historic mansion, disc golf, skate park, dog park and Stones River Greenway. 
+
+The neighborhood is just 6 miles, less than 15 minutes, to downtown Nashville and, a low-cost downtown shuttle is available daily. 
+ 
+-Grand Ole Opry – 2.8 Miles
+-Opry Mills Mall – 3.0 Miles
+-Country Music Hall of Fame – 11 Miles
+-Downtown Nashville (Broadway) - 12 Miles ($15 Daily Shuttle) 
+-Andrew Jackson’s Hermitage – 12 Miles
+-Nashville Farmers’ Market – 12 Miles
+-Two Rivers Park – 3 Miles
+-Nashville Palace Honky Tonk – 2 Miles
+-Scoreboard Bar & Grill – 2 Miles
+-Music City Bar & Grill – 2 Miles
+
+Guest access
+Enjoy everything the Nashville KOA Resort has to offer including the free activities, outdoor pool, hot tub, dog park, live music most nights, and loads of outdoor recreation from pickleball, bowling, lawn chess, bocce ball, jump pads and play areas.
+
+Your cabin is privately yours including patio, grill, dining table and fire pit.
+
+Other things to note
+- Our cabins are pet friendly with an additional fee of $25 per pet. No aggressive pets. If left unattended, they must be in a crate.
+
+- Plan to have visitors during your stay?  These cabins are limited to 6 people, including guests & visitors. If the number of overnight guests on your reservation allows for day visitors, those day visitors must check in at the registration building upon arrival. Your visitors are welcome for $10 per additional adult. Visiting guests are permitted until Quiet Hours and must adhere to campground rules.
+
+-Please note that there is a maximum of two vehicles allowed per cabin.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville KOA Resort
+Host User ID: 694439186
+Host Profile URL: https://www.airbnb.com/users/show/694439186
+Host Profile URL Source: public user permalink from passport userId
+Welcome to the Music City! I’m TJ, the General Manager of Nashville KOA Resort. I have worked with KOA for over 10 years, including four years here in Nashville! I previously managed the Louisville South KOA Holiday and was an Operations Manager at the St. Petersburg KOA Holiday in Florida.
+My work: General Manager
+Pets: Goldendoodle Brooks
+Response rate: 82%
+Responds within an hour
+Superhost
+8 months hosting
+43 reviews
+4.72 out of 5 average rating
+8 months of hosting

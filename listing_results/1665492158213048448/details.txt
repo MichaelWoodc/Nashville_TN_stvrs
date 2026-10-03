@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1665492158213048448
+Latitude: 36.1586
+Longitude: -86.8066
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+Step into a stay with character—this historic building is known for its 1865 Club speakeasy in the building, blending Nashville’s past with a modern, elevated living experience in the heart of Marathon Village.
+
+This thoughtfully designed 1-bedroom condo flat features one of the most desirable layouts in the building, offering a comfortable and functional space for both short and extended stays. 
+
+The open-concept living area provides a relaxed environment to unwind, complete with a smart TV, natural light, and seamless flow into a fully equipped kitchen. Whether you're starting your morning with coffee or winding down after a night out, the space is designed to feel effortless.
+
+The bedroom includes a queensize bed with quality linens, while additional sleeping arrangements allow for extra guests while maintaining a clean, uncluttered feel. 
+
+Guests also enjoy access to premium building amenities, including a seasonal dipping pool and a fully equipped fitness center. The building itself is one of Nashville’s most recognizable historic properties, offering secure access, elevator entry, and a unique atmosphere that stands out from typical rentals. We are exclusive to the 1865 club and have cherished many musically talented memories here.  Classy one of a kind entertainment at your fingertips! Take the elevator down to the basement where you can have a nightcap and fall in love with sounds of upcoming or experienced writers and singers . A real lifestyle that most people only dream of!
+
+Located in Marathon Village, you’re just minutes from Broadway, The Gulch, and Midtown—close enough to enjoy everything Nashville has to offer, while staying in a setting that feels more relaxed and distinctive.
+
+Quick Highlights:
+- Historic tobacco warehouse with industrial-chic design
+- 1 bedroom + sleeper sofa (sleeps up to 4)
+- Exposed brick, graffiti accents, and modern décor
+- Fully equipped kitchen with stainless steel appliances
+- Smart TV, high-speed WiFi, and central A/C
+- In-unit washer and dryer
+- Seasonal outdoor dipping pool
+- Fitness center and rooftop observation deck
+- Outdoor kitchen with grills and TVs
+- Exclusive on-site speakeasy with live events
+- Free gated parking (first-come, first-served)
+- Keyless entry for easy check-in
+-EV Charging on site
+
+Good to Know:
+- The building is located near a railway, so occasional train noise may be heard—part of the area’s historic charm.
+- The pool is seasonal, typically open from Memorial Day through Labor Day.
+- Parking is complimentary but available on a first-come, first-served basis.
+
+Whether you're visiting for live music, great food, or a weekend escape, this one-of-a-kind condo puts you right in the center of it all—offering a stay that’s as memorable as Nashville itself.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fairly
+Host User ID: 664937812
+Host Profile URL: https://www.airbnb.com/users/show/664937812
+Host Profile URL Source: public user permalink from passport userId
+Fairly helps homeowners oversee their vacation rental properties all on one centralized platform. Every Fairly home is directly managed by the homeowner and a local caretaker, so you'll chat directly with the homeowner and/or caretaker.
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+330 reviews
+4.77 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1658086912635330929
+Latitude: 36.32722394503118
+Longitude: -86.65397502599917
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+💙 Welcome to Garrett’s Blue Room, a cozy upstairs retreat once my son’s room. Your private room has Wi-Fi and a lock. The bathroom may be shared with the Pink Room guest. Enjoy the kitchen, living area, and back deck. 🏡 Our neighborhood offers trails, seasonal pools, pickleball, and basketball. We’re 10 minutes from Old Hickory Lake and 15 minutes from downtown Nashville. Need another room? Book the Pink Room:
+https://www.airbnb.com/h/paytonspinkroom
+
+The space
+🏡 This spacious Hendersonville home features a cozy shared living area with an 82-inch TV and gas fireplace, a welcoming kitchen, and a back deck overlooking the woods.
+
+🌳 The quiet neighborhood offers sidewalks, walking trails, two seasonal pools, pickleball courts, and basketball courts. Deer, rabbits, and other wildlife frequently visit the backyard. Old Hickory Lake is approximately 10 minutes away, and downtown Nashville is about 15 minutes away.
+
+Guest access
+🔑 You’ll have your own private bedroom upstairs, and I hope you’ll feel completely at home during your stay. Please feel welcome to use the kitchen, relax in the living room, or enjoy the back deck overlooking the woods.
+
+The upstairs bathroom is shared only if the Pink Room is also occupied. ❤️
+
+During your stay
+🔑 Guest interactions are entirely up to you. I’m happy to chat and offer local recommendations, but I’ll also respect your privacy and give you as much space as you’d like during your stay.
+
+You’ll have your own private bedroom upstairs, and I hope you’ll feel completely at home. Please feel welcome to use the kitchen, relax in the living room, or enjoy the back deck overlooking the woods.
+
+The upstairs bathroom is shared only if the Pink Room is also occupied. ❤️
+
+Other things to note
+Other details to note:
+
+🔑 Guest interactions are entirely up to you. I’m happy to chat and offer local recommendations, but I’ll also respect your privacy and give you as much space as you’d like during your stay.
+
+You’ll have your own private bedroom upstairs, and I hope you’ll feel completely at home. Please feel welcome to use the kitchen, relax in the living room, or enjoy the back deck overlooking the woods.
+
+The upstairs bathroom is shared only if the Pink Room is also occupied. ❤️
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Constance/Connie
+Host User ID: 164497919
+Host Profile URL: https://www.airbnb.com/users/show/164497919
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Connie! I’m a travel notary, proud mom, Cowboys and Longhorns fan, wildlife watcher, and full-time staff to Buttercup, my 14-year-old Yorkie. I love good conversation, big laughs, sharing local favorites, and making guests feel like friends. I’m happy to visit or give you space—your stay, your style! My goal is a clean, cozy home where you can relax, recharge, and feel genuinely welcome.
+Born in the 60s
+My work: Buttercups P.A.
+I spend too much time: On this phone
+Pets: A 14 yr old Yorkie named Buttercup
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+8 years hosting
+16 reviews
+5.0 out of 5 average rating
+8 years of hosting

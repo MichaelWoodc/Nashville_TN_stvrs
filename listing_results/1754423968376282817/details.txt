@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1754423968376282817
+Latitude: 36.1033
+Longitude: -86.8031
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hummingbirds and koi fish greet you for coffee on your private patio. 
+
+This camper has everything! Queen size bed on one side and twin camping mattress on the other. Bathroom with shower, full size refrigerator, dishwasher, microwave, stove and oven, washer/dryer, coffee maker, TV, wifi, hair dryer.  Parking in the driveway. 
+
+Perfect for a couple or single traveler, but room for one more.
+
+Quiet Green Hills neighborhood. About 15 minutes from the airport and 15 minutes from downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 1754423614258023032
+Host Profile URL: https://www.airbnb.com/users/show/1754423614258023032
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting
+6 reviews
+5.0 out of 5 average rating
+1 month of hosting

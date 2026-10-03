@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/22654775
+Latitude: 36.14294
+Longitude: -86.76358
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 15
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2 Units - Looking for the perfect spot to host a large group of co-workers or your next girls trip? Well you have found it! These 3 story town homes have an open layout with access to the rooftop to see Nashville’s skyline. This gated community offers easy interstate access to Bridgestone arena, Nissan stadium and the convention center are only minutes away!!
+
+Permits:
+2017041634
+2017073690
+
+The space
+The main entrance brings you directly to the spacious living rooms and fully furnished and labeled kitchen! 
+
+• The kitchen can seat up to 12 ppl! 
+• Sofa bedding is also included! No need to bring your own. 
+• The second floor has all your bedrooms and glass walled showers in the bathrooms. 
+• Balconies are accessible from the living room and mezzanine so you can get some fresh air if needed before you make it to the rooftop!
+• The rooftop is perfect to see Nashville’s skyline and view our nationally acclaimed firework show! 
+• A one car garage is available if necessary with street parking for an option as well.
+
+Guest access
+Entire home! The day before you arrive guest will receive door codes to gain access to the townhouse. The day of check in an email will be sent with access codes and information on the unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

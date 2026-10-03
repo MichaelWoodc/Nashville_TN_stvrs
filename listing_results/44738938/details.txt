@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/44738938
+Latitude: 36.15212
+Longitude: -86.79229
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 4
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music Row’s Spence Manor, home of world-famous musicians including Elvis Presley, Paul McCartney and Johnny Cash.  Most artists would stay here when in town to record at nearby studios. This condo was designed to bring back the luxury that these musicians enjoyed. It is at the center of all Nashville entertainment. On Music Row this condo is walkable to Demonbruen, The Gulch, Midtown, Lower Broadway, and Vanderbilt.
+
+The space
+Located on Music Row, this space offers the closest proximity to the action of downtown Music City. Our amazing one-bedroom condo is perfect for any couple or small group looking to soak up this vibrant city!
+
+★ Guitar Shaped Pool- (Open between May and the beginning of October)
+★ Incredible History
+★ Hottest Area in Nashville
+★ Safe Neighborhood
+★ Professionally Designed
+★ Multiple Luxury Amenities
+
+Enjoy your time staying with us!
+
+Guest access
+You will receive access instructions at 11 a.m. day of your arrival via your Airbnb inbox.
+
+Other things to note
+For additional guests, there is a twin-size roll-away bed and the two chairs convert to a single bed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

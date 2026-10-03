@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/990462440899349815
+Latitude: 36.226076515972586
+Longitude: -86.72566916616387
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located 10 minutes from downtown, this quiet 2-bedroom and 2.5-bathroom townhouse is the perfect spot for a couple's or family trip! This home can accommodate up to 6 guests.
+
+HIGHLIGHTS
+- 3 Beds
+- Rooftop Deck w/ Grill, TV, Golf, & Games
+- Kitchen & Bathroom Essentials
+- Two-Car Garage
+- Washer & Dryer w/ Tide Pods
+- Free WiFi
+- Bag Drop Off, Early Check-In & Late Check-Out Options
+- Smart Lock w/ Unique Access Code
+
+The space
+LEVEL ONE
+The first floor features the front door and two-car garage.
+
+LEVEL TWO
+The second floor features the living room, sofa bed, kitchen, half bathroom, and washer/dryer.
+
+LEVEL THREE
+The third floor features both bedrooms with en-suite bathrooms.
+
+LEVEL FOUR
+The fourth level is the rooftop deck with seating, a TV, a grill, mini-golf, and other games.
+
+Guest access
+Guests will have access to the entire home except for a locked owner's closet. They'll receive a four-digit access code before arrival to enter the unit through our Schlage Encode smart lock. Additionally, there will be an onsite lockbox accessible in case of a smart lock failure. We provide 24/7 customer support to ensure you never get locked out.
+
+Other things to note
+We are the following minutes away from these destinations by car:
+- 10 minutes from Broadway, Ryman Auditorium, Nissan Stadium & Bridgestone Arena
+- 5 minutes from Grand Ole Opry & Opry Mills Mall
+- 10 minutes from the Nashville International Airport (BNA)
+- 14 minutes from Geodis Park (Home to Nashville SC)
+- 14 minutes from Belmont University
+- 14 minutes from Vanderbilt University
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jake
+Host User ID: 415535365
+Host Profile URL: https://www.airbnb.com/users/show/415535365
+Host Profile URL Source: public user permalink from passport userId
+After growing up in Central Illinois, I moved to Nashville in 2021 with my fiancee and our dog. I later started a Nashville, TN-based short-term rental company called Stay Music City. We look forward to earning your five-star review and we're always available to help any guest with any needs - just reach out! For more information about Stay Music City, visit our website or find us on social media.
+Born in the 90s
+Where I went to school: University of Illinois
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+998 reviews
+4.81 out of 5 average rating
+5 years of hosting

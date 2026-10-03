@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/28611832
+Latitude: 36.16288
+Longitude: -86.77663
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Duet Loft Suite is one of Studio 154 Luxury Hotel's best accommodations. You'll step into a modern,  875 sq ft two-story loft style suite that sleeps up to 6 guests with an en-suite full kitchen.  With windows overlooking 2nd Ave North, This suite allows you to feel fully immersed in the nightlife of the city.  All guests also have access to the SKYDECK - rooftop with waterfront panoramic views of the Cumberland River and the Nashville skyline.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Studio 154 Luxury
+Host User ID: 211231188
+Host Profile URL: https://www.airbnb.com/users/show/211231188
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+369 reviews
+4.87 out of 5 average rating
+8 years of hosting

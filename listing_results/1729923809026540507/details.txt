@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1729923809026540507
+Latitude: 36.0999
+Longitude: -86.7454
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in Berry Hill, Cowboy Casita puts you close to everything in Nashville!
+
+Just minutes from Broadway, 12 South, the Gulch, Green Hills, Nissan Stadium, the airport, and local universities, with Franklin and the Grand Ole Opry an easy drive away. 
+
+Enjoy live music, shopping, dining, games, and all the fun of Music City, then come home to a quiet neighborhood with plenty of space to relax. 
+
+Perfect for families, friends, events, or weekend getaways!
+
+The space
+The home features 3 bedrooms, 2 full bathrooms, a fully equipped kitchen, dining area, cozy living room, and additional sleeping space with a full-size futon and Twin XL floor mattress available when needed.
+
+Step outside to enjoy the private back patio with an outdoor TV, seating, and gas grill, perfect for relaxing after a day exploring Nashville. Guests also have access to a washer and dryer, private driveway parking, and the entire home and outdoor space during their stay.
+
+With plenty of room to spread out, gather together, and unwind, the home is a great fit for families, friend groups, wedding weekends, college visits, concerts, sporting events, and Nashville getaways.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leighton
+Host User ID: 457206384
+Host Profile URL: https://www.airbnb.com/users/show/457206384
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Leighton — a Texas girl who loves traveling, good food, great books, and exploring God’s creation with my husband!
+Where I went to school: LeTourneau University
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+1 month hosting
+2 reviews
+5.0 out of 5 average rating
+1 month of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/49775621
+Latitude: 36.04131
+Longitude: -86.82959
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Brentwood, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Expansive 1550 sq ft guest suite in our home. We live upstairs. 20 min to downtown and 20 min to Franklin. Includes a private entrance with no stairs, kitchen, living area, two bedrooms and one bathroom. Beautiful, peaceful back yard with open night sky and fireflies on warm summer nights. Keyless entry, Wi-Fi, and plenty of privacy. 
+
+More affordable and spacious than 2 hotel rooms. We encourage you to compare our reviews to local hotels. We recognize the experience is as important as the stay.
+
+The space
+Our space is newly renovated with no close neighbors. You will have plenty of privacy yet still be close to restaurants and retail. Please note that even though it looks as if the parking area is big, it cannot accommodate large trucks like Uhauls nor trailers.
+
+Guest access
+The entire guest suite is yours to enjoy. We live upstairs, but our space is completely separate from yours.
+
+Other things to note
+Once you book, you will receive information about access. A few days before arrival I will send the details of where to park and how to get to the entrance. Then, on the day you are set to arrive, I will send you your access code and directions for the lock. Looking forward to hosting you and your family & friends!
+
+We also have a property across the street from the beach in Indian Shores, Florida. It is centrally located between Clearwater, Tampa, and St Petersburg. 
+
+"Indian Shores Beach Townhouse [Green]"
+
+airbnb.com/h/indianshoresdreamtownhouse
+
+Registration Details
+2021032566
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carol
+Host User ID: 44260416
+Host Profile URL: https://www.airbnb.com/users/show/44260416
+Host Profile URL Source: public user permalink from passport userId
+My husband David and I live in Brentwood, Tennessee, which is 20 minutes from downtown Nashville, home of country music, but we don't like country music (except Johnny Cash). We both grew up here and love the area, though. We enjoy cruises, Mexican food, and renovation projects around the house.
+Where I went to school: MTSU - Middle Tennessee State University
+My work: Airbnb Super Host
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+800 reviews
+4.98 out of 5 average rating
+11 years of hosting

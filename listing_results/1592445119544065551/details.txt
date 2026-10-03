@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1592445119544065551
+Latitude: 36.19598
+Longitude: -86.77783
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Urban Cowboy, in Nashville’s Fern Avenue area is part of a contemporary residential community just minutes from downtown and its vibrant amenities—restaurants, nightlife, sports venues, and cultural attractions like Germantown, River North, Topgolf, and Nissan Stadium. The location offers convenient access to city life while the residential setting remains relatively peaceful and ideal as a home base for exploring Music City. Centrally located place with a short drive to the airport.
+
+The space
+About the Vacation Rental Unit:
+
+This townhome features 2 bedrooms, 1½ baths, and a spacious deck that will having guests gazing toward the skyline views. Step into a space crafted by professional designers, where style meets comfort for an unforgettable stay. From the well-appointed kitchen to the plush sleeping spaces, this townhome has everything you need for a stress-free stay, including washer-dryer for guest convenience.
+
+This 2-bedroom, 1½-bathroom vacation rental features:
+
+Bedroom 1: King Bed with private entry to deck
+Bedroom 2: Twin over twin bunk bed
+Queen Sofa bed in Living Area
+Maximum Guest Occupancy: 6 Guests (Please note that children under the age of two years still count toward the maximum guest occupancy.)
+
+Guest access
+Lock codes will be provided for entry into the unit 24 to 48 hours before check-in.
+
+Other things to note
+Free parking for vehicles is available to guests renting this townhome. 
+
+About the Community/Property:
+
+Welcome to Fern Avenue, an ideal family neighborhood in Nashville’s vibrant Sky at Fern subdivision. Located in a neighborhood that serves as a perfect homebase to explore Nashville’s attractions, dining, and entertainment. With easy access to local favorites, you’ll have the best of Music City at your doorstep. Just minutes from Nashville’s transformative River North project, this subdivision offers guests a lovely getaway. Whether you’re here for business or pleasure, you’ll enjoy proximity to Germantown, Downtown, Top Golf, Nissan Stadium, and the heart of East Nashville.
+
+Other things to note:
+
+Primary renter must be at least 21 years of age. Guests may be asked to present their IDs upon arrival or anytime during their stay. Do not rent this unit for another party. The primary renter must be staying
+in the unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Edward
+Host User ID: 695839589
+Host Profile URL: https://www.airbnb.com/users/show/695839589
+Host Profile URL Source: public user permalink from passport userId
+My work: Realtor
+I spend too much time: Eating, Fishing
+Response rate: 100%
+Responds within an hour
+8 months hosting
+14 reviews
+4.64 out of 5 average rating
+8 months of hosting

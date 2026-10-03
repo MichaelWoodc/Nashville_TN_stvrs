@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/5480793
+Latitude: 36.17145
+Longitude: -86.73934
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Your stay in this rustic yet modern studio garage loft apartment located in historic, Lockeland Springs, one block from Shelby Park, 2 miles from downtown and just a few blocks walk or ride to Nashville's hip and trendy "Five Points" area.
+
+The space
+This loft has a rustic feel, wood and metal tin walls, ceiling fans, airtight and well insulated!
+Full kitchen & refrigerator, Queen size bed, fold out futon someone can use as an additional bed, cable & wi-fi.
+
+Guest access
+Private entrance, no smoking inside, there’s an outside deck for smoker's, courtyard for lounging and grilling.
+
+Other things to note
+Located in the Heart of East Nashville! One block from "The Frothy Monkey” (coffee shop) and "The Chocolate Factory"  
+We're just a few blocks from all the bars & restaurants in 5 Points. Some of Our favorites are Drifter's BBQ, 5 Points Pizza, Burger Up, Mas Tacos and  The Rosepepper Cantina. Don't hesitate to reach out for more suggestions or recommendations !
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg
+Host User ID: 28422447
+Host Profile URL: https://www.airbnb.com/users/show/28422447
+Host Profile URL Source: public user permalink from passport userId
+I'm a songwriter who has lived in Nashville since 1990
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+642 reviews
+4.97 out of 5 average rating
+12 years of hosting

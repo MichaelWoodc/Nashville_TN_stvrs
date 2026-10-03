@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/838290130552263310
+Title: Charming East Nashville Hotel.
+Latitude: 36.17763
+Longitude: -86.77452
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This trendy spot offers lots of charming details.And is close to everything. Perfect location
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Issac
+Host User ID: 189824948
+Host Profile URL: https://www.airbnb.com/users/show/189824948
+Host Profile URL Source: public user permalink from passport userId
+Loving fun individual spiritual
+Lives in Nashville, Tennessee
+Responds within a few days or more
+8 years hosting
+2 reviews
+3.0 out of 5 average rating
+8 years of hosting

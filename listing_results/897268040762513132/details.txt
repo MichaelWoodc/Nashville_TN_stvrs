@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/897268040762513132
+Title: Summer in Nashville! Cozy Hey Good Lookin’ Suite!
+Latitude: 36.12759
+Longitude: -86.7256
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Hey Good Lookin’ Suite! 
+
+Explore the city after recharging in this newly converted 1 bedroom condo that is minutes from all the main attractions! 
+
+You’ll be just a short 11 min drive from everything Downtown Nashville has to offer:
+
+⭐️ Tootsie’s World Famous Orchid Lounge
+⭐️ Miranda Lambert’s Casa Rosa Cantina
+⭐️ Luke’s 32 Bridge Food/Drink
+⭐️ FGL (Florida Georgia Line) House
+⭐️ Dierks Bentley’s Whiskey Row
+⭐️ Ole Red (Blake Shelton’s Bar)
+⭐️ AJ’s (Alan Jackson’s) Good Time Bar + more!
+
+The space
+As you enter the suite, you’ll find modern and minimalist decor with a touch of an industrial feel. 
+
+Lounge on the convertible sofa while watching your favorite shows on the 50” 4k Smart TV. You’ll have access to all the popular streaming services such as Hulu and Disney+, with the ability to login to your own apps and accounts as well. 
+
+Want to catch a vibe before heading to the downtown Honky Tonks? Give our vintage-inspired Crosely record player a spin with our selection of vinyl records!
+
+You’ll also have a (more than) fully equipped kitchen with all the cookware, dinnerware (some for the kids too!), prep tools and more at your disposal for preparing a home cooked meal, or baking your favorite pizza after a long day (or night) on the town! We provide a variety of spices in addition to salt, pepper, flour, sugar and cooking oil/spray. Find those in the pantry/laundry room, with additional shelves for any food and snacks you might bring. 
+
+Once you’ve prepared your meal, enjoy it at the dining table with seating for 4! You can also use this area as another work space (table is high enough to stand while working for those who like to switch between sitting and standing). 
+
+The dedicated work area/desk is adjacent to the kitchen. We include a USB lamp and plenty of additional outlets for charging all of your devices. 
+
+When it’s time to wind down, enjoy the spacious tiled shower in the bathroom. We’ve included body wash, shampoo and conditioner, and added a teak shower stool for an added touch of luxury. 
+
+At last, melt away your day in the bedroom on the hybrid mattress and luxurious linens. There is plenty of storage space in the walk-in closet, but if you look close, there are additional drawers on either side of the bed for storing all of your clothing and other travel essentials. 
+
+Want to wash your laundry before heading home? No problem! You’ll have access to a full size GE front load washer/dryer for no additional cost. 
+
+We know you will love staying in Nashville in the Hey Good Lookin’ Suite!
+
+Guest access
+You and your guests will enjoy access to the entire private 1 bedroom, 1 bathroom suite including laundry room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 629420
+Host Profile URL: https://www.airbnb.com/users/show/629420
+Host Profile URL Source: public user permalink from passport userId
+Traveling the world one Airbnb at a time!
+Born in the 80s
+Where I went to school: Florida State & Nova Southeastern
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+492 reviews
+4.89 out of 5 average rating
+6 years of hosting

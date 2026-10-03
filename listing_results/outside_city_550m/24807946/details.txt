@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/24807946
+Latitude: 36.02188
+Longitude: -86.96801
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy The Smokeouse, our new addition to the Pasquo "Quottage," in West Nashville, only 20 minutes from city center and 20 minutes from downtown Franklin.  We renovated this room and added a bathroom off of a 200+year old smokehouse.  The Smokehouse deck connects to a walkway and porch for our AirBNB Plus rated "Quottage" which offers accommodations for two, a private bathroom, living space, and small kitchen.  If you're interested in booking both units, message us for availability!
+
+The space
+The Smokehouse is a recently renovated room, previously used as a sound recording room when the Quottage and Smokehouse were both used as a music studio.  The cozy room boasts a highly efficient air conditioner/heating system, a smart TV, wifi access, Keurig coffeemaker, mini fridge, microwave, walk-in shower, full bathroom, brand new wood floors, black out shades/curtains, and an outdoor seating & dining area.  Enjoy the views of the hillside off of the porch & sounds of the babbling stream and pond below.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heather
+Host User ID: 71647769
+Host Profile URL: https://www.airbnb.com/users/show/71647769
+Host Profile URL Source: public user permalink from passport userId
+Traveler, wife, nurse practitioner
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+577 reviews
+4.93 out of 5 average rating
+9 years of hosting

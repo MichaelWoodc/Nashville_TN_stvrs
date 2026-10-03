@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/789171201031433326
+Latitude: 36.1544
+Longitude: -86.8494
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Big apt in trendy The Nations neighborhood on the edge of downtown. Fast, EZ & cheap to the neon bars Broadway in Downtown Nashville by car. Walk to local food, drinks, coffee shops, bars, live music etc. Locals love this area and you will too. Also very easy to Bridgestone, Nissan Stadium, Ryman Auditorium, Acend and more.
+
+Free and easy parking just outside your door and BAG STORAGE checking in or out!
+
+Easy check-in and out make it the perfect place. Book now!
+
+Permit #2022069772
+
+The space
+This large 2 bedroom apartment is laid out to accommodate those who want to connect but also retreat to your own private space for sleep. The middle bedroom is perfect for the vampire who doesn't want to see the light of day until they are ready. The master bedroom is also conducive to the late sleeper who doesn't want to battle the light when going to the bathroom between Z's.
+
+Guest access
+You'll have the full run of the apartment. This is strictly used as a short term rental. You won't have to share any space with the owner or any other guests.
+
+Other things to note
+Locals know the key to enjoying Nashville is to be able to quickly retreat to a quiet place to recharge your batteries and grab a bite to eat. This apartment and the location will have you staying like a local and coming back over and over again.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 205597402
+Host Profile URL: https://www.airbnb.com/users/show/205597402
+Host Profile URL Source: public user permalink from passport userId
+I love peanut butter! It runs in my family. My grandmother lived to 104 by eating peanut butter daily. Nashville has been home since 1995 except for 5 Tennessee Vols football seasons in Knoxville.  If I couldn't live in Nashville, I'd be in Banff or Moab. My happy place is with my wife and daughters and no cell phone signal. I am a licensed real estate broker and manager with Tandem Realty.
+Born in the 70s
+My work: Tandem Realty
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+4032 reviews
+4.9 out of 5 average rating
+7 years of hosting

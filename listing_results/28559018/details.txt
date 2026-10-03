@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/28559018
+Latitude: 36.15833
+Longitude: -86.8261
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Cora’s Place 
+Located at 3409 Batavia St Nashville, Tn 37209 in the historic College Heights or College Hill Neighborhood. 
+We are conveniently near 3.8 miles, or 10 minutes from downtown Nashville, 14.5 miles or 32 minutes from Airport, close to many local event sites.
+
+The space
+Cora’s Place is named in honor of Mother, Educator, and Christian who built the home in 1962. With interior renovations made 2018. It is a two-bedroom basement apartment, furnish with one queen size in each bedroom, family room with a   sofa and love seat, one bathroom for apartment guest, with sperate code outside entrance, kitchen, laundry, walk out backyard deck. Main level is owner's space and will not intrude basement apartment when hosting unless invited by guest for sharing in greetings or questions. One off street parking available along with street parking in front of home.
+
+Guest access
+When you enter the Basement area you enter through work room in order to get into guest apartment. My home is a working house. Guest will have full use of Basement living space, TV's, Kitchen and Laundry.
+
+Other things to note
+Basic hotel type toiletries are provided but please feel free to bring your favorite personal toiletry and hygiene items.  Stores are not conveniently located unless you have transportation. Nearest store in walking distance is Family Dollar Store 3810 Clifton Ave, hours 9 a.m. - 8 p.m.
+
+Registration Details
+2018050056
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alvin
+Host User ID: 193915173
+Host Profile URL: https://www.airbnb.com/users/show/193915173
+Host Profile URL Source: public user permalink from passport userId
+I am a retired Ordained United Methodist Minister of over 40 years. Former College campus minister, Chaplain with St. Thomas Hospitals, & Louisville VA Hospital and church musician. Have three adult children and four grandchildren. Love action movies, Sci-fi, gardening, cooking and all types of music, the arts and model railroading.
+Born in the 50s
+My work: Church Musician
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+288 reviews
+4.84 out of 5 average rating
+8 years of hosting

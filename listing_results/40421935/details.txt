@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/40421935
+Latitude: 36.1701
+Longitude: -86.7828
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Condominium in the heart of Nashville. ONE MILE FROM DOWNTOWN BROADWAY! Situated between beautiful Germantown and Downtown Nashville, this lovely 2 Bedroom/ 2 Bath condo is an inexpensive ride-share from Nashville's best attractions. The condo is minutes from Nissan Stadium, Bridgestone Arena, Ascend Amphitheater, and The Ryman Auditorium. This is truly a prime location for the Nashville experience.
+
+The space
+- The 2 bedroom, 2 bath unit has 1 queen sized bed in each bedroom as well as a queen sized sleeper sofa in the living room. 
+- The kitchen is fully outfitted with stove and oven, microwave, regular coffee pot & toaster. We do provide some coffee, creamer, and sugar.
+- There is a washer and dryer in the condo for your convenience. 
+- Each unit includes one free parking space in our parking garage.
+
+Guest access
+*** Early Check in is not able to be guaranteed. You may send a message the night prior or morning of your arrival to see if early check in is a possibility. The time allotted in between stays allows the cleaners to perform their duties prior to your arrival. There are multiple luggage stow companies in Nashville that you may utilize while exploring the city. If early check in is a necessity for your group, we ask that you book the night prior to your arrival. This ensures that you may check in anytime on your arrival date. 
+
+***Guest found checking in early with out communicating with the host will be charged for the night prior to their original reservation date.***
+
+Luggage Services Near By:
+-Stow Station LLC
+-She's Got Baggage
+-Music City Luggage Lockers
+
+Other things to note
+There is an active train track very near to the property. The train should not blow its whistle, but the tracks do make noise. These are commercial trains and we do not have schedules.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 312585112
+Host Profile URL: https://www.airbnb.com/users/show/312585112
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN. Although my work keeps me quite busy, I enjoy traveling as much as possible, hanging with friends and spending time with my family. The way to my heart will forever be a home cooked meal with anything chocolate for desert.
+Born in the 90s
+My work: Property Management
+Response rate: 99%
+Responds within an hour
+Superhost
+7 years hosting
+3566 reviews
+4.82 out of 5 average rating
+7 years of hosting

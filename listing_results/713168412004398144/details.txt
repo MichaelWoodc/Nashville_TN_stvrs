@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/713168412004398144
+Latitude: 36.17341
+Longitude: -86.67706
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fresh, modern, and full of charm. The BNA Bungalow is your perfect Nashville escape, nestled in the heart of Hip Donelson. This newly renovated private suite blends stylish furnishings with a peaceful, intimate atmosphere. Step outside to meet our backyard chickens and pick fresh seasonal berries. Walk to local restaurants and coffee shops, with Downtown, Opryland, East Nashville, and the airport all just a short ride away. Your most memorable Music City stay starts here.
+
+The space
+Step inside and you're immediately welcomed by a charming kitchenette that flows seamlessly into a cozy living and dining area. Every detail has been thoughtfully considered, from the high-end finishes to the modern furnishings that keep the space feeling warm, comfortable, and intimate.
+
+When it's time to unwind, retreat to the serene bedroom featuring a plush king bed and a spacious closet. A private bathroom just across the hall comes stocked with fresh towels and essential toiletries, and for added convenience, your own full-size washer and dryer are right on hand.
+
+The suite has its own separate entrance and secure parking right out front, so you'll always feel at ease coming and going on your own schedule.
+
+Before you head out to explore, don't forget to swing by the backyard and say hello to our friendly resident chickens! During the warmer months, you're also welcome to help yourself to fresh seasonal berries straight from the garden. It's one of those little touches that makes a stay here truly special.
+
+Nashville's best restaurants, music venues, and attractions are just minutes away, but something tells us you might not want to leave. We can't wait to host you!
+
+Guest access
+A unique 4 digit code will be emailed to you that will allow you to access the apartment via the key pad lock on the front door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Philipp
+Host User ID: 33598409
+Host Profile URL: https://www.airbnb.com/users/show/33598409
+Host Profile URL Source: public user permalink from passport userId
+Speaks German and English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+118 reviews
+4.91 out of 5 average rating
+4 years of hosting

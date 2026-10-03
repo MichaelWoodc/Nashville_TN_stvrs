@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/17253423
+Latitude: 36.14986
+Longitude: -86.84661
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of the West Nashville neighborhood Sylvan Park. Cozy, clean & quiet 450 sq ft Studio-includes WiFi, AC, & heat. Perfect size for hanging out or catching up on work. Comfortable for a couple; Close to the lively Nashville nightlife! Walking distance to restaurants, bars, coffee shops, yoga studio, library, park with public tennis courts (farmers market every Saturday), public golf course, including paved running path. Short driving distance to most Music City attractions!
+
+The space
+Built in 2017 as detached guest house. Private entrance. Full kitchen, full bathroom, 2 closets,  WiFi, and premium cable.
+
+Washer and dryer in the unit.
+
+Kitchen features stainless steel appliances, including dish washer, Keurig coffee maker (coffee and tea options as well as milk and sugar provided). Kitchen complete with cookware and all utensils. 
+
+One queen size pillow-top bed.
+
+Guest access
+Entry by key safe. Code provided prior to check-in (typically last four digits of guest’s cel phone number will be used as the code)
+
+Other things to note
+Short Term Rental Permit from Department of Codes and Building Safety: Permit number #2023092045
+
+Smoke and Carbon Monoxide Detector in unit.
+
+Surveillance devices on property exterior areas for security
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael And Jessica
+Host User ID: 116281277
+Host Profile URL: https://www.airbnb.com/users/show/116281277
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+104 reviews
+4.99 out of 5 average rating
+9 years of hosting

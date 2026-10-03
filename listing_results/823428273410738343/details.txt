@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/823428273410738343
+Title: The Painted Muse I Murals + Hot Tub | 4mi to DWNT
+Latitude: 36.21667
+Longitude: -86.72934
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Painted Muse, a vibrant 3 bedroom, 3.5 bathroom retreat in East Nashville near Inglewood, the city's most exciting neighborhood for food, nightlife, and local art. 
+
+This creative, modern home features a private rooftop hot tub, spacious entertaining areas, and custom murals throughout from acclaimed local artist, Folek, that honor feminine power, beauty, and resilience. 
+
+Perfect for bachelorettes and group getaways, it offers comfort, inspiration, and style in the Music City.
+
+The space
+Step inside a home designed to spark connection and creativity. Two of the three bedrooms feature en suite full bathrooms, providing privacy and convenience for your group. The open layout includes a fully equipped kitchen, sunny dining area, and a cozy living room perfect for lounging or getting ready for a night out. Throughout the home, custom murals by Folek bring bold color and meaning, creating a space that feels both stylish and empowering.
+
+Guest access
+Guests have full access to the home, including the private rooftop deck and hot tub, all indoor spaces, and a shared community garden area. Free parking is available for two vehicles in the attached garage, with additional free street parking directly in front of the home. Entry is self check in via smart lock for ease and privacy.
+
+Other things to note
+The property spans multiple levels and requires stair access. 
+
+Parties are not allowed on the premises. We want you to enjoy yourself and have a great time, but we ask that you limit total occupancy to 15 people and respect our neighbors by keeping noise levels down, especially during quiet hours between 10 PM and 8 AM. Smoking and pets are also prohibited on the premises.
+
+The home is equipped with exterior security cameras for guest safety and Minut noise monitoring devices (no audio recording) to support a peaceful environment. 
+
+Come make memories, celebrate in style, and experience Nashville like a local with all the comfort, creativity, and charm of The Painted Muse.
+
+Registration Details
+201607060
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jai
+Host User ID: 72993968
+Host Profile URL: https://www.airbnb.com/users/show/72993968
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within an hour
+4 years hosting
+140 reviews
+4.51 out of 5 average rating
+4 years of hosting

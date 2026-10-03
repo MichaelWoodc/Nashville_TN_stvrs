@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/950872160419808480
+Latitude: 36.0648
+Longitude: -86.72064
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil getaway.  Located in a quiet neighborhood, where you can enjoy a morning run. Songwriter Room is equidistance between I-65 and I-24.  Ideal for business trips, or weekend getaways.
+15 to 20 minutes to:
+-downtown
+-the airport
+-Music Row
+-Brentwood/Franklin
+10 minutes to:
+-Nashville Zoo
+-Tanger Outlets - opening in the fall
+
+*Transportation /AND OR immersive Nashville songwriter entertainment experience available through host upon inquiry.
+
+Guest access
+The Songwriter Room is a private efficiency/apartment style accommodation. It is a completely separate space from the main house with a small kitchenette and private bathroom for guests. You’ll have access to one parking spot also!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Richard
+Host User ID: 529928027
+Host Profile URL: https://www.airbnb.com/users/show/529928027
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+314 reviews
+4.97 out of 5 average rating
+3 years of hosting

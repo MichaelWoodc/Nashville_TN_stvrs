@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/821634329666139205
+Title: The Belmont Garden Cottage
+Latitude: 36.1321
+Longitude: -86.7964
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located across the street from Belmont University! Walk to Hillsboro Village, 12th South or take a quick Uber (2 miles) to the Gulch/Downtown. Perfect for those visiting Belmont, Vandy, or downtown. Tuck into the backyard of a Nashville native and live like a local.
+
+Guest access
+This is a separate cottage on our property, located just behind our home.  The guest will have full use of the cottage and its patio.
+
+Other things to note
+The back office (listed as 2nd bedroom) contains a standard size single bed which spans the full length of the room - so it is not ideal for someone who is taller than a standard single. There is a separate space heater and fan that works pretty well to pul cool air from the bedroom. However, there is not a separate wall unit in this room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katherine
+Host User ID: 60242944
+Host Profile URL: https://www.airbnb.com/users/show/60242944
+Host Profile URL Source: public user permalink from passport userId
+Native Nashvillian. Attorney turned realtor. Air Bnb super host.  
+
+I love sharing my home and my sweet idyllic neighborhood with visitors from around the globe.
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+258 reviews
+4.95 out of 5 average rating
+5 years of hosting

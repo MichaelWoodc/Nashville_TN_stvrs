@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/37001354
+Latitude: 36.1872
+Longitude: -86.7627
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to "The Yeehaw House!" A 3 bed + 2.5 bath luxury country home in the heart of trendy East Nashville that is a blend of both modern + antique. This home is featured in billboards, ads, commercials, music videos, etc. for major country artists and brands!
+
+It's the perfect stay for the creative looking for inspiration + relaxation, featuring all things country music, Southern charm and photoshoot-worthy decor at every turn. 
+
+New add-ons: "The Sass Station" + "Party Decoration Services"
+
+The space
+Features include a full luxury kitchen with quartz countertops and high-end appliances, tall vaulted ceilings, vintage white piano and record player, large steel doors and windows with beautiful natural light, full laundry amenities, smart TVs, a large wrap-around porch with plenty of seating and a backyard with fire pit and string lights.
+
+Bedrooms are cozy and comfy, with high-end Stearns and Foster mattresses (seriously, they're amazing), spacious and amenity-stocked bathrooms with his and hers sinks, and even a standalone bathtub for prime relaxation.
+
+If you are someone looking for the perfect, relaxing Nashville getaway that allows you to tap into a more creative side, this place is for you!
+
+(Please note that there is a fenced-in and private backyard and fire pit available to guests of "The Yeehaw House.")
+
+NOW AVAILABLE: "THE SASS STATION" @ The Yeehaw House, a special room full of unique backdrops for creating memories with you and your group. Perfect for bachelorette parties, birthday parties, and other special occasions (message me about this addition if interested, additional rates apply).
+
+NOW AVAILABLE: "PARTY DECORATION SERVICES"
+
+Guest access
+There is plenty of street parking, so parking is easy breezy on our street!
+
+Other things to note
+Over the last few years, I've made some exciting updates and improvements to the property (if you see earlier reviews from many years ago, they aren't currently relevant to this property anymore). The Yeehaw House has been having music video shoots and photo shoots with some of your favorite recording artists here in Music City. I'm so excited for you to visit, as I love welcoming new creative souls into this artistic community and space!
+
+Please note that the fee for early check-in or late check-out is $50 each, and additional rates apply for photoshoots, video shoots and events.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stay Creative
+Host User ID: 17639858
+Host Profile URL: https://www.airbnb.com/users/show/17639858
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and French
+Response rate: 80%
+Responds within an hour
+12 years hosting
+210 reviews
+4.69 out of 5 average rating
+12 years of hosting

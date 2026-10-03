@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/23395469
+Latitude: 36.10196
+Longitude: -86.73428
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Metro STR Permit. 
+Located in the culturally diverse Flat Rock community of South Nashville, this apartment features a cheery environment with a full kitchen. Located a quick Uber or Lyft ride to Downtown, Opry Complex, Nashville International Airport, 12 South, and East Nashville.  These accommodations include free parking and a private entrance, with adjoining laundry room. Not equipped for children under 12.
+
+Weekly and monthly rates available.
+
+The space
+The apartment cottage is easily accessible with just a couple of steps at the main entrance. We've tried to anticipate anything you might need, but if you don't find what you're seeking, we probably have it and will be glad to make it available to you -- right down to an ice cream maker or baking supplies should inspiration strike.
+
+Guest access
+You will have the entire apartment to yourself as well as access to our patio and front porch, where you can relax after a day or night enjoying all that Nashville has to offer. We do ask, however, that you be mindful of our wonderful neighbors and keep the music volume and general noise to a respectful level after 11 p.m. You are welcome to use our laundry facilities (connected to the main house) and we'll provide the necessary supplies.
+
+Other things to note
+South Nashville is a culturally diverse community that is transforming itself into one of Nashville's most desirable neighborhoods. We're not yet a fully walkable neighborhood like East Nashville or 12 South, but you will be within five or ten minutes of a variety of ethnic restaurants and attractions including some of the best Mexican, Indian, South American, Middle Eastern, and Asian cuisine the city has to offer at affordable prices. Five blocks from Metro Bus line that goes to the heart of Lower Broadway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 154187612
+Host Profile URL: https://www.airbnb.com/users/show/154187612
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+310 reviews
+4.96 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/826746378510683950
+Title: Yellow Brick Cottage
+Latitude: 36.20947
+Longitude: -86.71241
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our sweet retreat in East Nashville is perfect for your Nashville stay! Located in the quiet neighborhood of Dalewood, it is a walking distance to great coffee and local lunch spots, and just a 5 minute drive to the heart of East Nashville's shopping and eats! We are a 12 minute drive to downtown and just 15 min from the airport! While Nashville offer's you all the fun it has, we hope to be your cozy and quiet retreat at the end of your days in town!
+
+The space
+This rental is for the B side of the property.
+
+You will have access to your own driveway. It’s the one after the mailboxes [when facing the house, it’s the driveway on the left].
+
+When you arrive to our space, you'll notice the nice open floor plan as soon as you walk in, perfect for bringing everyone together!
+
+Living Room: Complete with a comfy couch that makes into a queen bed for more guests, two accent chairs, and a TV, it's the perfect place for all your relaxation.
+
+Kitchen & Dining Room: Our fully equipped, adorable kitchen, is ready to use for all the meals you want to make. And on the nights that you'd rather grab take out(There are LOTS of amazing local spots to grab take out from:), you can just take a seat around the table to enjoy that too! 
+
+Bedroom: The bedroom is spacious! A comfy queen-sized bed, an armchair in the corner, a full-length mirror, and plenty of space to move around. 
+
+Bathroom:  Perfectly accessible from each room in the house. A roomy shower, a counter space at the sink!
+
+Outdoor Space: Please enjoy a relaxing evening hanging out in the backyard, or a nice stroll in the beautiful neighborhood.
+
+Guest access
+Guests will have access to the entire house and backyard. This is a duplex, but very private.
+
+Please, enjoy the front porch, for a cup of coffee in the morning or an evening beverage. 
+
+Guests will have access to their own driveway. It’s the one after the mailboxes.
+
+Other things to note
+This is a duplex. There is a long term resident in the neighboring house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tracy
+Host User ID: 412450267
+Host Profile URL: https://www.airbnb.com/users/show/412450267
+Host Profile URL Source: public user permalink from passport userId
+My work: Goo Goo Cluster
+I'm obsessed with: Dogs and wine.
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+138 reviews
+4.93 out of 5 average rating
+5 years of hosting

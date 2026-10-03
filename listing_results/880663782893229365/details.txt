@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/880663782893229365
+Latitude: 36.12656
+Longitude: -86.72711
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Nashville adventure starts here! This modern condo offers a prime location near the city's top attractions. With comfortable accommodations, including a king bed and sofa bed, this apartment is ideal for all. Enjoy the convenience of a full kitchen, free parking, and Wi-Fi. Explore downtown, Broadway, and more, all within easy reach, making it the perfect base for your Nashville experience.
+
+The space
+Who is this property GREAT for?
+
+*  Coffee and tea enthusiasts 
+*  Couples who enjoy a very comfortable king bed
+*  Concert and live event goers
+*  Traveling for work with dedicated workspace and high speed Wi-Fi 
+*  Traveling for a wedding 
+*  Looking to be a short drive from all Nashville attractions 
+*  Musicians
+*  Foodies
+
+Who is this property NOT for?
+
+*  Guests younger than 25
+*  Groups looking to throw a party 
+*  Inside smokers of any kind 
+*  Groups of more than 4
+
+Guest access
+You will receive an access code the day of check in.
+
+Other things to note
+This property is on the second floor. It offers stairs, as well as side entry with a loading ramp with no stairs at all.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adrienne
+Host User ID: 445602145
+Host Profile URL: https://www.airbnb.com/users/show/445602145
+Host Profile URL Source: public user permalink from passport userId
+I love to travel & explore new places with my family. One place we fell in love with is Calabash, so much so we have two places in the area for guests to enjoy. 
+
+New to our journey is Nashville. We immediately fell in love with Nashville during our first visit. We loved the energy, the variety of experiences, the food, and of course the music! 
+
+You won't go wrong allowing us to host! Enjoy any of our places for a special experience.
+Lives in Charlotte, North Carolina
+Response rate: 92%
+Responds within an hour
+Superhost
+4 years hosting
+283 reviews
+4.87 out of 5 average rating
+4 years of hosting

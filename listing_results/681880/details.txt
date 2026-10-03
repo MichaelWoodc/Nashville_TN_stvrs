@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/681880
+Latitude: 36.21536
+Longitude: -86.71024
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+This space is completely private and separate from the main residence. It has a king size bed, bathroom with shower, full kitchen, and living area with flat screen and cable. Vaulted ceilings with thick wooden beams give the apartment a spacious feel. The floor is done in a terra cotta Mexican tile; the decor is bright and funky. French doors open to a private courtyard area connected to covered parking. It's located in historic Inglewood/East Nashville. The quiet neighborhood is covered with mature trees and is just one block from the Cumberland River. It feels like you are far from the big city, but in reality, you are minutes from Opry Mills and downtown Nashville. Hip restaurants, coffee shop, pub, and public transit are just blocks away.
+
+**We are huge child and animal lovers, but our space is not safe for children. We have a no child under 12 policy, and a not pet policy. Sorry for any inconvenience this may cause.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tiffany
+Host User ID: 3471162
+Host Profile URL: https://www.airbnb.com/users/show/3471162
+Host Profile URL Source: public user permalink from passport userId
+Hi. My name is Tiffany Hewes. I try to spend as much time with my family and friends as I can. I love to travel, see live music and cook.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+14 years hosting
+955 reviews
+4.97 out of 5 average rating
+14 years of hosting

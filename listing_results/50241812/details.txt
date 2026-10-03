@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/50241812
+Latitude: 36.04956
+Longitude: -86.76865
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! This stunning European-style estate sits on 10 acres in Brentwood - 13 minutes from downtown & the airport. Sleeps 12-13.  5 bedrooms plus multiple sleeping rooms,  a gourmet kitchen,  huge living spaces, dedicated workspace, and a massive library! Incredible photo ops, huge pool (not heated), brand new hot tub (seats 6), outdoor gas grill & your own 2000 sq. ft poolside oasis.  Perfect for bachelorette parties & any size family gathering. Maximum 15 people at any event.
+
+The space
+Enjoy your NASHVILLE trip in this STUNNING MEGA HOUSE! This rambling estate is on 10 acres in Brentwood - still 13 minutes from downtown & the airport. Sleeps 12 - 8 beds & multiple sleeping rooms. Enjoy a fully stocked gourmet kitchen, huge living spaces, dedicated workspace with a standing desk, monitor, printer, and massive library.  Endless photo ops with a huge pool (not heated), brand-new hot tub (seats 6), outdoor grill & your own 2000 sq. ft. backyard poolside oasis. This home is perfect for bachelor and bachelorette parties, small weddings, or any size family gathering.
+   Get ready for an amazing trip to Nashville! Two of Nashville's most succesfull songwriters are now opening up their estate to you. This property is the best of both worlds - just minutes from all of Nashville's main attractions (Broadway, Downtown, Music Row, and more) and also, secretly tucked away, nestled in acres of green - far from the bustle of the city.  
+   Let us share some of our magic with you!
+
+- Aimee and Chris
+
+Guest access
+Entire House, front yard and pool area, side courtyard and basketball court
+
+Other things to note
+STRP  LICENSE  NUMBER       4285394
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aimee
+Host User ID: 405604654
+Host Profile URL: https://www.airbnb.com/users/show/405604654
+Host Profile URL Source: public user permalink from passport userId
+Hi! We are Aimee and Chris. We are songwriters and have lived in Nashville for over 20 years. We are listing our home on AirBNB while we are traveling this year. It's a magical place.
+My work: Songwriters
+Lives in Brentwood, Tennessee
+Response rate: 67%
+Responds within a day
+5 years hosting
+14 reviews
+4.86 out of 5 average rating
+5 years of hosting

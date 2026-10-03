@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/42121413
+Latitude: 36.26934
+Longitude: -86.77608
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Really Great House only 6 miles from Nissan Stadium and 6 miles from Opryland.  You are in the city limits and close to everything, but still on a 20 acre farm so you get all the peace and quiet.  There are 4 bedrooms with 3 living areas all around a centralized kitchen.  You'll be glad you chose us!
+
+The space
+This home is furnished with furniture that was featured on the hit Television Show, “NASHVILLE”.  You can sleep in Scarlett’s bedroom suite, or relax in Deacon’s actual living room set.  You’ll be located right in the city, yet in the country.  It is close to everything, but definitely able to relax.   The home is set on a 20 acre farm that is shared with two other homes by the same owner, but have an acre of privacy to yourself.
+
+This home is perfectly suited for multiple families or couples, as well as being great for bachelorette parties or just a getaway with friends. The main part of the house has a living room and den on one side, and another big living room on the other side, with a great kitchen dividing them. From there, one side of the house has 2 bedrooms and one bath, while the other side has two bedrooms and two baths (both of those bedrooms also have an exterior entrance from the outdoor enclosed living area). The outdoor enclosed living area just had a huge overhaul- as did our bathrooms! You will love hanging outside and watching TV or just watching the chickens walk by. Yes, I said chickens! There are free range chickens on the farm, and some that even live on a coop on your property. They have been a big hit with our guests!
+
+Guest access
+All of it!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 188342695
+Host Profile URL: https://www.airbnb.com/users/show/188342695
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+757 reviews
+4.93 out of 5 average rating
+8 years of hosting

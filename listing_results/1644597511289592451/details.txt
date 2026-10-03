@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1644597511289592451
+Latitude: 36.17314390764586
+Longitude: -86.73743748173385
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This newly built over-the-garage apartment offers a bright, comfortable one-bedroom, one-bath retreat with thoughtful design and beautiful modern finishes. The space is fully furnished and tastefully decorated, has a full kitchen, washer and dryer, desk area, and charming touches that create a warm, welcoming feel.
+
+Located in a quiet, residential neighborhood, walkable to nearby parks, coffee shops, and local restaurants -- a true home base!
+
+(Permit #T2026055568)
+
+The space
+A perfect getaway in the heart of Lockeland Springs - an iconic East Nashville neighborhood! 
+
+You'll park in the reserved parking spot right near the entrance, enter and find a cozy living room. There's a large TV, record player with some local tunes, games, books, and a comfortable couch that folds into a full bed.
+
+The full kitchen is equipped with all major appliances and everything needed for everyday living.
+
+The bedroom has the comfiest of queen beds, a desk for remote work, and large closet.
+
+The apartment includes in-unit washer and dryer, and high-speed Wi-Fi. Climate control ensures year-round comfort, and the large bathroom features a spacious walk-in shower.
+
+(Children welcome. Please let us know if we can provide any items that would make their stay comfortable.)
+
+Guest access
+You'll have access to the 2nd floor over-the-garage apartment and adjacent parking spot.
+
+Other things to note
+Green Gables is a completely private space with its own entrance and is located above our garage. You will occasionally hear some noise from the garage door and/or nearby construction.
+
+Please note that "early check in" or "late check out" requests will gladly be considered but cannot be guaranteed. If you would like to check in earlier than our established time of 3pm, please ask more than 24 hours prior to check in so we can try our best to accommodate.
+
+We are a completely non-smoking property. Any smoking (vape included), will forfeit the reservation with no refund. 
+
+At this point we do not allow pets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brooke
+Host User ID: 6893741
+Host Profile URL: https://www.airbnb.com/users/show/6893741
+Host Profile URL Source: public user permalink from passport userId
+East Nashville lover, education nonprofit director, mama to four, foodie, adventurer, connector.
+Where I went to school: Vanderbilt University
+My work: Nonprofit director
+Response rate: 100%
+Responds within an hour
+3 years hosting
+10 reviews
+5.0 out of 5 average rating
+3 years of hosting

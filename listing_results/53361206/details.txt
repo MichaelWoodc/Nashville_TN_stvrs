@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/53361206
+Latitude: 36.1293
+Longitude: -86.7951
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Historic 1920s 1BR / 1BA condo in Belmont / 12 South / Hillsboro Village — sleeps 4 (king bed + king sleeper sofa) with private patio, separate entrance, 1 Gig WiFi, Byron Statics record player, and HEPA air purifiers in every room. Steps to Belmont University, half a mile to 12 South, under a mile to Vanderbilt. VUMC 0.8 mi, St. Thomas Hospital 2.2 mi. Extended-stay rates for 30+ nights. Best for medical stays (Vanderbilt, VUMC), couples, Vanderbilt parents, work trips. Not pet friendly.
+
+The space
+Welcome to Bluebird, brought to you by Music City Magnolia. A Nashville vacation rental in Belmont / 12 South / Hillsboro Village — 1 bedroom, 1 bath, sleeps 4. Best for medical stays (Vanderbilt, VUMC), couples, Vanderbilt parents.
+
+WHAT MAKES IT SPECIAL
+• Historic 1920s condo, walkable to Belmont University
+• Walkable to 12 South and Vanderbilt
+• King bed + king sleeper sofa (sleeps 4)
+• Private patio and separate entrance — real apartment-style independence
+• 1 Gig WiFi, record player, HEPA air purifiers — extended stays welcome
+
+LAYOUT
+1 bedroom, 1 bath. King bed in the bedroom, king sleeper sofa in the living area. Ground-floor 1920s condo with separate entrance — no interior stairs required.
+
+PARKING & PETS
+Parking: Street parking. Not pet friendly.
+
+IMPORTANT TO NOTE
+Check-in: 3:00 PM via contactless door code. Door code and arrival instructions are sent at 11:00 AM on arrival day. Check-out: 10:00 AM. Rental Agreement must be e-signed before your door code activates. Properties are typically booked back-to-back; early check-in and late check-out cannot be accommodated. No luggage drop-off. Exterior security cameras are in place for your safety. Locked owner/supply closets are off-limits. Quiet hours 10 PM – 7 AM (Nashville ordinance).
+
+Guest access
+Guests have full access to all 1 bedrooms, the full kitchen and living space, private patio. Parking: Street parking. Not pet friendly. Locked owner/supply closets are off-limits. Exterior security cameras are in place for your safety.
+
+Other things to note
+Available for short term and extended stays
+1st floor unit with a private patio and separate entrance
+Keypad entry 
+1 bedroom with a king-size bed
+1 king-size sofabed
+1 bathroom
+Free on-site laundry room
+Free street parking
+Free 1G WiFi
+Smart TV with Xfinity, Samsung TV, and streaming apps
+Amazon Echo with Pandora, Apple Music, Spotify, News, Weather, and more
+Bluetooth soundbar
+Byron Statics record player with a modern and vintage vinyl selection
+HEPA air purifier in each room (living room & bedroom)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City Magnolia
+Host User ID: 67994775
+Host Profile URL: https://www.airbnb.com/users/show/67994775
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re, Music City Magnolia, Loni & Jenn: live music enthusiasts, foodies, nature lovers, and Your Local Guides to the Heart of Nashville. We’re more than just hosts; we’re your ticket to an authentic local experience. Our handpicked homes offer unexpected amenities, welcome gifts, and a dash of sweet magnolia style. Explore our city with insider tips and off-the-beaten-path recommendations, all delivered with true Rock-N-Rental hospitality!
+My work: Music City Magnolia LLC
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+2447 reviews
+4.92 out of 5 average rating
+10 years of hosting

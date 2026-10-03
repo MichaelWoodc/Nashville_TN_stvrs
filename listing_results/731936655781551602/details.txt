@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/731936655781551602
+Latitude: 36.17932
+Longitude: -86.74529
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the heart of East Nashville, this victorian, historic home is rich with history. Come enjoy the abundance of charm, while also being within walking distance to Five Points and The Shoppes on Fatherland. By staying here, you are only a short drive to the best parts of Nashville, including Downtown. And after a long day of sightseeing, come relax in cozy living room or screened in patio.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+When you arrive at the property, take the time to enjoy the history and charm as you walk towards the porch. 
+
+LIVING ROOM: 
+Providing a few different options to relax, the living room has two accent chairs, a very comfortable sofa that can turn into a bed for two, and two ottomans.
+
+BEDROOMS:
+
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed and a Sleeper Sofa
+Bedroom 3: Queen Bed
+Two, beautifully designed bathrooms in the home.
+
+KITCHEN & DINING: 
+Fully equipped kitchen, providing all of your cooking and dining needs. Take a night off from eating out (even as a local sometimes it’s hard to do that with all of the amazing choices we have) OR order take-out and eat around the table with your friends and family!
+
+BACKYARD: 
+Enjoy the space in the backyard or the seating in the screened-in porch, a great place to relax!
+
+All the rooms above are on one floor.
+
+Other things to note
+Located in 5 Points!
+.5 Miles - Kroger
+1.5 Miles – Nissan Stadium
+2 Miles - Downtown
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dave
+Host User ID: 482533457
+Host Profile URL: https://www.airbnb.com/users/show/482533457
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+199 reviews
+4.88 out of 5 average rating
+4 years of hosting

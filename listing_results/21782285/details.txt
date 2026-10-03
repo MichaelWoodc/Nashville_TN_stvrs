@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/21782285
+Latitude: 36.07471
+Longitude: -86.93011
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect townhouse for vacation & family in convenient West Nashville, away from the hustle of Broadway: in Bellevue, near West Meade & Belle Meade. 1 bedroom on the main floor & 2 upstairs bedrooms, each with an ensuite bath.  
+
+A 15 minutes from Vanderbilt and 25 minutes (depending on traffic) from downtown Nashville.  Off I40.  Located very convenient to One Bellevue Place for shopping, movies and dining; Ford Ice Ctr, Loveless Cafe; Warner Parks: Checkwood Estate & Gardens; Belle Meade Winery
+
+The space
+We provide a comfortable and clean home away from home, perfect for families and friends. Come experience Nashville with style and convenience! This 1,700 sq ft condo has everything you need- three huge bedrooms, a full kitchen, washer/dryer, patio with four chairs and a small round table, and high-speed wifi. 
+
+Each bedroom has a private bathroom: one downstairs and two upstairs, plus a futon perfect for a child or adult. The mattresses are all mediums (not firm or soft). The front upstairs bedroom may receive some street traffic noise. For this reason, there is a ceiling fan and a floor fan to be used as white noise.
+
+All TVs except in the primary bedroom are smart TVs.  The primary bedroom tv has a firestick for you to sign in to your apps. There is no free basic cable. Please remember to bring your sign in information for your subscriptions. We also appreciate if you would sign out from your personal subscriptions before leaving.
+
+Pets allowed on an exception basis. Additional provisions apply. If you instant book, pets still must be approved with a separate agreement.  A pet fee applies.
+
+Exterior camera at the front entrance post.
+
+Guest access
+Keyless entry, we send you the code before you check in!
+
+Other things to note
+We provide some snacks, coffees, teas and hot chocolate! Home also has a starter supply of toilet paper, paper towels, dishwasher detergent, and laundry detergent.  Most of the time you can find other essentials such as butter, olive oil, some seasonings, tin foil, etc.
+
+Exterior camera at the front entrance post.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diane
+Host User ID: 5250143
+Host Profile URL: https://www.airbnb.com/users/show/5250143
+Host Profile URL Source: public user permalink from passport userId
+Love travel with family and friends.
+Working with exciting health IT start-up!
+Born in the 60s
+My work: Entrepreneur, healthcare
+9 years hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/37968215
+Latitude: 36.12216
+Longitude: -86.45658
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The home is very central to many of the area's favorite destinations. Nearby is Providence shopping area, Old Hickory Lake, Percy Priest Lake & Nashville Super Speedway (the speedway is less than 10 minutes from home), downtown Nashville is 20 - 25 minutes away including Nissan Stadium, Bridgestone Arena, The Ryman and the Music City Center away. The Grand Ole Opry and Nashville International Airport are both 20 minutes away.
+
+The space
+Leave the city and all the noise behind in this 4 bedroom home perfectly set up to accommodate both large and small groups with an open floor plan, 2 full bathrooms, a kitchen, breakfast area, workout room and guest suite upstairs. 20 -25 minutes from just about anywhere including downtown, Nashville fairgrounds and the Opryland Area. Lebanon is 10 minutes away, Murfreesboro is 20 minutes away and Arrington Vineyards is 25 minutes. Nashville Super Speedway is within 10 minutes. You also have all the retail and restaurants needed at Providence shopping area which is located 10 minutes away, including Publix, Kroger, Target, Belk, Best Buy, Dick's, JC Penney and Staples to name a few, also a lot of both chain and local restaurants in this area as well. VERY QUIET AND SAFE AREA, THERE IS ZERO CRIME. If you have any questions please feel free to reach out.
+
+Guest access
+All access to entire home excluding 1 storage closet and the garage.
+
+Other things to note
+Very important...no pets on property. When booking please account for all members of your party, as there are no unregistered guests allowed....rates increase for groups over 6 for a reason and I try to keep rates as low as possible (for all sizes of groups). Please be respectful of home and neighbors; this is a private home and not a hotel. Lastly, we thoroughly clean and sanitize every surface, linen, and fixture after each guest and the home is inspected by the property owner before each new group arrives. The home will be clean, sanitized, and ready for your group to relax and enjoy your time in Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sammy
+Host User ID: 287855755
+Host Profile URL: https://www.airbnb.com/users/show/287855755
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+7 years hosting
+262 reviews
+4.76 out of 5 average rating
+7 years of hosting

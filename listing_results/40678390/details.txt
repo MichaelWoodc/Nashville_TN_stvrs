@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/40678390
+Latitude: 36.31539
+Longitude: -86.81648
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+It’s back! Freshly lived‑in, well‑kept, and ready for guests again. Enjoy a comfy country setting just minutes from Nashville. This spacious home features four bedrooms, two full baths, one half bath, and a wonderful screened‑in back porch perfect for sipping coffee on cool, quiet mornings.
+
+The house sits on several acres with a large backyard ideal for relaxing, playing, or catching some sun. Peaceful country living with room to breathe — all just 15–20 minutes from downtown Nashville.
+
+The space
+The primary suite offers a  Queen Bed, a spacious walk‑in closet, dual‑vanity bath, and a private door opening directly onto the screened‑in back porch — a quiet retreat for morning coffee or evening unwinding.
+
+Bedroom 2 features a comfortable Full size (double) bed, a generous closet, and views toward the front porch, giving it a warm, welcoming feel.
+
+Bedroom 3 is a charming, cozy room overlooking the front yard, furnished with a twin bed and a large desk — ideal for remote work or quiet reading.
+
+Bedroom 4 sits privately upstairs, offering a Queen bed, an optional twin bed, a roomy layout with sloped ceilings and its own attached half bath. It’s a peaceful hideaway perfect for guests who appreciate extra space and privacy.
+
+Guest access
+My home will be yours all to yourself while you are staying.
+
+Other things to note
+The gravel driveway is spacious and easy to navigate, with plenty of room for multiple vehicles. You’ll have comfortable parking for 4 cars, and can easily accommodate more if needed. RV parking is welcome as well.
+Please note that the garage is not available for guest use. My two farm cats access the garage, so the door is intentionally left open about 4 inches for them. They are very shy and skittish, and typically avoid guests entirely. You’ll also notice two goats and a horse in the adjacent pasture. They’re sweet animals, but please don’t feed them — the horse can be a little mouthy, so enjoying them from the fence is best.
+
+Occasional farm or country sounds
+
+Wildlife sightings
+
+Smart TV apps require your login
+
+Fire pit use depends on weather conditions
+
+Registration Details
+2020004782
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sandi
+Host User ID: 36080991
+Host Profile URL: https://www.airbnb.com/users/show/36080991
+Host Profile URL Source: public user permalink from passport userId
+I am a busy mother who owns my own business.  I design many of the houses that you may see popping up all over Nashville; these are exciting times in Music City! 
+I enjoy traveling to new destinations, learning about new cultures, and spending time at a beach.  But, mostly, I just work.
+My work: Studio S Architecture, Inc.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+177 reviews
+4.95 out of 5 average rating
+10 years of hosting

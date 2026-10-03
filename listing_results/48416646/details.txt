@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/48416646
+Latitude: 36.157
+Longitude: -86.835
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Uncover the ideal family getaway in this stylish open-concept townhome, featuring 3 bedrooms and 2.5 bathrooms! Enjoy the Generous Living Spaces, Ideal for Sheltering in Place or Family Gatherings. Just a Quick $10-$15 Uber/Lyft Ride to Downtown Hotspots like Broadway, Demonbreun, and Live Music Venues. Indulge in the Luxury of a Major Tub in the Primary Bath. Unwind in Style at this Spacious, Modern Townhome, Minutes Away from the Heart of Nashville!
+
+The space
+Your Nashville Oasis: Just 11 Miles from BNA and 4 Miles from Downtown Broadway!
+This stylish 3-bedroom, 2.5-bath townhome offers comfort and convenience. Sleep soundly in a king bed and two queen beds, with an additional queen sleeper sofa in the living room.
+The fully-equipped kitchen boasts a stove, oven, microwave, pots, pans, and both a regular drip coffee maker and Nespresso machine with complimentary pods. We've got you covered with ground coffee, sugar, and creamer.
+For added convenience, enjoy the in-house washer and dryer. We provide linens, towels, shampoo, conditioner, and soaps, along with essential supplies like toilet paper, paper towels, trash bags, and dish pods for your entire stay. Rest easy knowing everything you need is right at your fingertips—your perfect Nashville escape awaits!
+
+Guest access
+> Enjoy complete access to the 3-bedroom house, with keyless entry for your convenience. Parking is available both in the front on the street and in the driveway at the back. Relax in the private back patio and yard!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 312585112
+Host Profile URL: https://www.airbnb.com/users/show/312585112
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN. Although my work keeps me quite busy, I enjoy traveling as much as possible, hanging with friends and spending time with my family. The way to my heart will forever be a home cooked meal with anything chocolate for desert.
+Born in the 90s
+My work: Property Management
+Response rate: 99%
+Responds within an hour
+Superhost
+7 years hosting
+3566 reviews
+4.82 out of 5 average rating
+7 years of hosting

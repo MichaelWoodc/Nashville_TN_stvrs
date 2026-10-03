@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/46040471
+Latitude: 36.39936
+Longitude: -86.72686
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come stay in our secluded cabin retreat! Located just 30 minutes north of Nashville, this is the perfect place for a quick getaway. Fresh air, quiet neighborhood, and tons of wildlife. We regularly see deer, woodchucks, turkeys, raccoons, and many species of birds. We provide freshly ground coffee with a French Press, an assortment of teas, and hot chocolate.
+
+The space
+Our cabin over the garage has all the essentials with an updated vibe. Located on 6 wooded acres, you can relax in the main deck hot tub, have a picnic lunch in the woods, toast marshmallows by the campfire, or read a book in the hammock. The pool is open from May - September, and the hot tub is open year round.
+
+Guest access
+The hot tub and pool deck are attached to the main house about 240ft away. It is listed as shared space because it is not attached to the guest deck, however, we will not be making use of the hot tub during your stay. 
+
+We recommend bringing some pool shoes or slippers to keep your feet clean and warm on the way there and back!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 59946939
+Host Profile URL: https://www.airbnb.com/users/show/59946939
+Host Profile URL Source: public user permalink from passport userId
+My work: Black Lion Realty
+Speaks English
+Response rate: 90%
+Responds within an hour
+Superhost
+6 years hosting
+258 reviews
+5.0 out of 5 average rating
+6 years of hosting

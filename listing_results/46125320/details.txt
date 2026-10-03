@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/46125320
+Latitude: 36.21449
+Longitude: -86.58223
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Old Hickory Village, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Music City Medley is a pet friendly home, conveniently located in a quiet neighborhood just east of Nashville, between Old Hickory and Percy Priest Lakes. It is a quick drive to Nashville International Airport, Broadway, the Grand Ole Opry, boat docks, and plenty of shopping. This home has a beautiful, big fenced-in back yard and deck with plenty of privacy and ample off-street parking.
+
+The space
+Livingroom has a large comfy couch and a 50" smart TV. Large back deck is great for enjoying a nice meal outside! There is a kid friendly room with a bunkbed, that is stocked with board games and has a TV with children’s programming and a game system with classic Nintendo games.  Close to the historic Hermitage, home of Andrew Jackson. Easy drive to Opry Mills Mall, Grand Ole Opry, and Nashville Shores Waterpark. Located between Old Hickory Lake and Percy Priest Lake, the off street parking can accommodate most models of fishing and sport boats that are in tow. Can accommodate most moving vans.
+
+Guest access
+The main living quarters of the house are for guests.  There is a locked basement area owner uses for storage.
+
+Other things to note
+I have a huge back deck that is very private. It overlooks woods and the big fenced back yard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 339665578
+Host Profile URL: https://www.airbnb.com/users/show/339665578
+Host Profile URL Source: public user permalink from passport userId
+My work: Project Manager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+377 reviews
+4.92 out of 5 average rating
+6 years of hosting

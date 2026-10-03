@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/564536606698887571
+Latitude: 36.32502
+Longitude: -86.65078
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come visit 'Country Music Cottage' Located 20-25 mins from Nashville's downtown Honky Tonks!
+
+Be one of the first to enjoy this new addition to our collection.
+This cute 3 bedroom cottage features cozy bedrooms and living spaces that are inviting to welcome your family or small group. Adorned with a well equipped kitchen, ample dining space and an amazing outdoor area to share stories with friends or play a game of corn hole!
+
+The space
+Sit around the fire-pit at night or under the fairy lit covered back porch. Play a song or two on the guitars as you indulge in the essence of Nashville.
+
+Ubering in and out of Nashville is easy and you are just 20 minutes from the Nashville Airport too.
+
+This home is located on the North side of Nashville in a town called Hendersonville which is dubbed 'The City By The Lake'. You are 5-10 minutes from multiple marinas that feature boat rentals, restaurant dining and live music most days of the week in-season.
+
+Grocery stores, retail shopping, dining and bars are all within 5-10mins throughout Hendersonville too!
+
+We hope you enjoy staying with us at Country Music Cottage and be sure to come back and visit us again...
+
+Guest access
+Be sure to see the 1000+ reviews we have on other properties and be one of the first to enjoy this new addition to our collection.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

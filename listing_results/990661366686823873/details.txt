@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/990661366686823873
+Latitude: 36.20433
+Longitude: -86.74127
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Garth's Getaway! Our newest addition!
+
+Located in a quaint Nashville vacation rental community walkable to bars, restaurants, coffee shops & more. Located adjacent to the living Waters brewery & barista Parlor, and Grimey's Record Shop, it's the perfect place to start your day with a cup of coffee or end it with a locally brewed beer!
+
+Only a 5 minute Uber to ‘The 5 Points’ or 10 minutes to downtown Broadway & all sorts of other local attractions & amenities.
+
+The space
+On the ground level floor, there is one bedroom with a queen bed and an attached ensuite bathroom (sleeps up to 2 people on 1 bed).
+
+The main level features a large, open kitchen and dining space, perfect for cooking meals together. On this floor there is also a bedroom with a 2 queen beds in bunk formation and an additional queen air mattress if needed (sleeps up to 6 people on 3 beds).
+
+On the top floor, there are 2 bedrooms, both with king sized beds and one twin size roll away bed in each bedroom for additional sleeping accommodations. Each of these bedrooms also have their own attached bathrooms. (This floor can sleep up to 6 people on 4 beds)
+
+We are even pet friendly on a case by case basis. Max 2 dogs and breeds must be approved prior to booking. There is an additional pet fee due upon approval.
+
+Other things to note
+Please note that parking is limited to garage parking only. The garages fit 2 medium sized cars at max.
+We have added an electric vehicle charger for your use as well!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

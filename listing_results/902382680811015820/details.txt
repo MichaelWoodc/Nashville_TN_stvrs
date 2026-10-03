@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/902382680811015820
+Latitude: 36.2551
+Longitude: -86.85
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Book now for Bonaroo and CMA!  
+Book Piccolo Farms Retro Ranch is your country farm get-away from the fun and excitement of Nashville. Just 12 short minutes from downtown Nashville, you truly have the best of both worlds for an unforgettable stay.  It’s a vintage enthusiast and animal lovers dream stay!   You will stay on Piccolo Farms Animal Sanctuary’s Paradise Valley, waking up to our resident emus, goats, sheep, pigs, donkey’s and more for a fab farm experience you will never forget!
+
+The space
+Piccolo Farms Animal Sanctuary opened in 2018.  We have 2 locations and are a 501c3 non profit organization.  A percentage of every stay goes to the feeding and care of our animal residents.  Our mission is to save animals who have been neglected, abandoned, or sentenced to death.  This is a magical place that provides a forever home to animals who deserve a lifetime filled with love. 
+
+Bonnie has a design background and is a vintage enthusiast.  She has collected treasures from around the world and has decorated the home from top to bottom with timeless treasures from 1900 to today.  It is a museum of sorts that promises to leave you feeling cheerful and nostalgic.
+
+Guest access
+You get to have a farm animal experience with your stay!   Schedule a tour to be 1:1 with all of the sanctuary residents.  Learn the story behind their rescue, why they are here, and get tons of love back from them as they are the best kind of emotional support!
+
+Other things to note
+Being located on the Farm Animal Sanctuary, the grounds often have things going on from a farm event, to live music or volunteer opportunities.  One on One animal time is definite, so bring farm appropriate attire such as rain boots and clothing that can get dirty while loving on the animals.
+
+Registration Details
+2024106786
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bonnie
+Host User ID: 411561224
+Host Profile URL: https://www.airbnb.com/users/show/411561224
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+3 years hosting
+5 reviews
+5.0 out of 5 average rating
+3 years of hosting

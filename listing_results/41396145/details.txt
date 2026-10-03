@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/41396145
+Latitude: 36.17481
+Longitude: -86.75332
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Russell House is a CHIC and COZY retreat in the heart of East Nashville's hip 5 Points neighborhood (home to the famed Tomato Art Festival). This apartment is located at the top of our backyard carriage house,  just steps away from a bustling neighborhood center…more than 30 restaurants and 50 shops are within a 10-minute walking distance! We also have free, gated, off-street parking for one car up to the size of an F-150.
+
+10 MINS drive to Broadway, Nissan Stadium, Bridgestone!
+
+The space
+The Russell House is a passion project for me and my wife, Katherine. After managing properties for the last 5 years, we decided it was time to build one of our own! We tried to think of everything we love when staying in an Airbnb and deliver it to you, our guests. Katherine did all of the interior design. We have used only the highest quality materials and goods to offer a truly luxurious experience. The Russell House features hand-designed cabinetry/shelving by Bloomfield Originals; furnishings and decor from West Elm, CB2, Crate & Barrel, and the Citizenry; and artwork by Emily Leonard. We commissioned 1767 Designs to handcraft the one-of-a-kind barn door...it features rescued wood from the historic Russell Street Church of Christ, located just down the street. We also provide our guests with Barista Parlor coffee to enjoy!
+
+We are 2 miles (9-min drive) from Broadway.
+We are a 1.5 mile walk from Nissan Stadium.
+
+Guest access
+Guests will have full access of the Russell House. The garage below is for the owners only. We park a car there and store belongings, but do not live, work, or sleep there.
+
+Other things to note
+The Russell House is a completely private space with its own entrance on the top floor of our carriage house. We do park a car in the garage on the bottom floor, but the door is designed to be quiet.
+
+*We highly recommend purchasing travel insurance as there are no exceptions made to our cancellation policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neal
+Host User ID: 15586733
+Host Profile URL: https://www.airbnb.com/users/show/15586733
+Host Profile URL Source: public user permalink from passport userId
+I've been a Superhost on Airbnb for 10 years and love sharing my favorite city with people from all over the world!
+Born in the 80s
+My work: Hospitality, Music
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5622 reviews
+4.93 out of 5 average rating
+12 years of hosting

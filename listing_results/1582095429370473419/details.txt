@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1582095429370473419
+Latitude: 36.2047
+Longitude: -86.7842
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to “The Nashville Vibe” where modern comfort meets southern charm, just minutes from the heart of Nashville’s legendary entertainment district. This peaceful and spacious three-bedroom house is the perfect retreat for group of friends or families eager to explore all that Music City has to offer. Guests have access to the entire home, including a fenced-in backyard, perfect for enjoying quiet moments outdoors.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevonta
+Host User ID: 349528546
+Host Profile URL: https://www.airbnb.com/users/show/349528546
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+11 months hosting
+5 reviews
+4.6 out of 5 average rating
+11 months of hosting

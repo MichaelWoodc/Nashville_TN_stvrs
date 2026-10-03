@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1537171350417886422
+Latitude: 36.19726
+Longitude: -86.77
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious Nashville retreat just minutes from Broadway! Walk to local restaurants, coffee shops, and bars, then relax in a large, group-friendly home perfect for families or friends. Enjoy open living areas, a fully stocked kitchen, comfy beds (10), fast WiFi, parking, and room to spread out. Ideal for concerts, bachelorettes, reunions, or weekend getaways—your Music City escape awaits!
+
+The space
+Bedrooms & Beds:
+	•	4 bedrooms, 10 Beds
+	•	1 King bed, 5 Queen beds, 2    Trundle beds (4 single beds) 
+
+Bathrooms:
+	•	3 full bathrooms
+
+Spaces & Features:
+	•	Open living and dining areas perfect for groups
+	•	Fully stocked kitchen with modern appliances
+	•	Large dining table for family meals or game nights
+	•	Comfy couches and smart TVs for movie or game nights
+	•	Fast WiFi throughout
+	•	Washer & dryer included
+	•	Private backyard with fire pit & group seating
+	•	On & Off-street parking for 4+ cars
+
+Extras & Convenience:
+	•	Walk to restaurants, coffee shops, and bars
+	•	Minutes to Broadway & downtown attractions
+	•	Family and group-friendly layout
+	•	Perfect for concerts, reunions, bachelorette weekends, or weekend getaways
+
+Why Guests Love It:
+Spacious, stylish, and centrally located — your home base for an unforgettable Nashville experience. Skip the cramped hotel rooms and enjoy Music City together under one
+
+Other things to note
+•	No parties or events — family and group-friendly only
+	•	Check-in / Check-out: Self-check-in via smart lock; check-in 4 PM / check-out 11 AM
+	•	Parking: On & Off-street for 4+ cars; street parking limited
+	•	Noise & Neighborhood: Quiet residential area; please respect neighbors
+	•	Pets: Not allowed
+	•	Accessibility: Main floor living spaces; stairs to bedrooms upstairs
+	•	Safety: Smoke alarms, fire extinguisher, first aid kit provided
+	•	Extras: Newly renovated kitchen, modern furnishings, backyard gas fire pit & group seating, fast WiFi, smart TVs
+	•	Local Tips: Walk to restaurants, coffee shops, bars; minutes to Broadway; perfect for families or friends gathering
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jill
+Host User ID: 24243083
+Host Profile URL: https://www.airbnb.com/users/show/24243083
+Host Profile URL Source: public user permalink from passport userId
+Hello!  My husband & I have been Airbnb hosts since 2015 and have rented out multiple homes in TN, CO & most recently North Myrtle Beach, SC.  We have a growing family (3rd child on the way!) and know how important it is to get away. We love providing a great experience for our guests!
+My work: Healthcare Sales
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+466 reviews
+4.87 out of 5 average rating
+11 years of hosting

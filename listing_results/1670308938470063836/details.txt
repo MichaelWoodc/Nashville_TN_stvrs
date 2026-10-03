@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1670308938470063836
+Latitude: 36.17242
+Longitude: -86.78223
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Autumn in Stylish Top-Floor Downtown Nashville Apt w/Gated Garage & dedicated parking. Easy Walk to Broadway! This space offers comfort, style, & a perfect home base for exploring & staying in Music City. Thoughtfully decorated with modern finishes, it’s ideal for guests who want to be close to the action while relaxing in a clean, elevated space. Offering 1 bedroom/1 bath, fully stocked kitchen with all amenities. Walkable to restaurants, live music, & nightlife! Perfect for Temp Housing!
+
+The space
+Bliss Road Offers 5 Star Properties,
+Fully Furnished with all Amenities,
+High End Towels/Linens/ and Bedding.
+
+Every home has a starter kit stocked with paper products, including paper towels and toilet paper, as well as coffee supplies!
+
+Guest access
+The whole house is available for your relaxing pleasure whether inside or out. Enjoy various spaces through-out, for much needed peace and quiet. Keys will be provided for entry.
+
+Guests can enjoy whole house, and it is reserved for paid overnight guests only.
+
+Other things to note
+Only registered guests are allowed on property.
+
+OPEN FOR: Temp Housing Agencies & Insurance Companies. Offering special rates for Insurance & Temp Housing Needs w/ Short & Mid-Term Stays.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catlin Hale
+Host User ID: 333035767
+Host Profile URL: https://www.airbnb.com/users/show/333035767
+Host Profile URL Source: public user permalink from passport userId
+Welcome! My goal is to ensure you have a 5-Star Stay!  I offer short/mid/long term bookings—ask me about 30 day+ discounts. We have homes across the US & specialize in insurance claims & temp housing needs.
+
+ABOUT MY RENTALS
+My guests consistently give 5-Star reviews to my properties, which offer concierge & VIP services tailored for every guest experience.
+
+ABOUT ME
+I am a singer/songwriter/voice talent in Nashville, TN.
+
+I love treating you to a perfect stay in the perfect place!
+My work: Voice Talent/Singer
+I'm obsessed with: Kindness
+Response rate: 86%
+Responds within a few hours
+7 years hosting
+221 reviews
+4.86 out of 5 average rating
+7 years of hosting

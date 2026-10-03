@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/33091529
+Latitude: 36.1621
+Longitude: -86.7755
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of it all! This stylish historic loft is steps from Broadway’s Honky Tonks, 2nd Ave, Bridgestone Arena, and Nissan Stadium—you truly can’t beat the location. With 4 comfy beds, 2 baths, a full kitchen, in-unit laundry, modern furnishings, and parking included, it’s ideal for groups. Good to know: the building dates to the 1800s, so occasional dust or a rare bug may occur. Stairs are required, and you will hear downtown noise, especially at night.
+
+The space
+The property is on the corner of Broadway and 2nd Ave. Next to Hard Rock and Chief's. IDEAL LOCATION!
+
+Guest access
+24 Hour Automated Check-in/Out
+
+Other things to note
+Due to our unbeatable location in the heart of downtown, you’ll experience some ambient noise from nearby bars—perfect for those who want to be right in the action!
+
+Good to know: the building dates to the 1800s, so occasional dust or a rare bug may occur. 
+
+Parking for one car (in a garage one block away) will be validated during your stay.
+
+Please note: You must climb one flight of stairs to reach the apartment. We do not have an elevator on site.
+
+*Local Discounts, Baggage Services, Party & Bachelorette Planning, and Decor Services Available Upon Request*
+
+Registration Details
+2018054778
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dyer Management
+Host User ID: 153919195
+Host Profile URL: https://www.airbnb.com/users/show/153919195
+Host Profile URL Source: public user permalink from passport userId
+What's up ya'll? 
+
+Just a group of native Nashvillians who built a company to service the ever growing tourism population. We love our city, great food, Nashville sports, and all types of music. We are very laid back and will be as hands off with the guests as much as possible. Always a call a way and within 10 minutes of our properties.
+My work: Dyer Management LLC
+Lives in Nashville, Tennessee
+Response rate: 91%
+Responds within an hour
+9 years hosting
+2048 reviews
+4.51 out of 5 average rating
+9 years of hosting

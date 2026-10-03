@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/26659476
+Latitude: 36.18169
+Longitude: -86.79712
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Amazing new custom home with everything you need to treat yourself. Glamorous finishes including more chandeliers than you can count, gourmet kitchen, spectacular entertainment areas in the private courtyard/ pool area and rooftop deck. Lay back and relax in your lounge chairs on the grass and listen to the pool waterfalls sweep you into a state of relaxation. Take your party to the roof top deck for a night cap or yard games surrounded by Miami style furnishings that make any party posh!
+
+The space
+Soaring 10 foot ceilings, 3 floors with bedrooms on the 2nd and 3rd floor. Master suite with double sided fire place and soaking tub. Gourmet kitchen. Indoor grill area with 4 chandeliers turning the hallway into gourmet glamor. 4’ Double sliders that open over the tranquil pool and sunning area. The 3rd floor opens onto a artificial grassed rooftop yard on half of the space and deck with Miami style sofa and table and chair set. Watch a movies under the stars or play a game of giant yard Yahtzee! Do it undisturbed in your own private house just 2 miles from broadway. A 35 foot glass enclosed staircase will take your breath away as the multi floor chandelier glistens inviting you to explore multiple floors.
+
+Head out poolside and take an insta photo under our giant Nashville sign that finished off the pool/courtyard area. 
+
+Need a getaway from your guests? Grab a book and relax on the front porch in the custom Carolina hanging bed. 
+
+This is luxury that will have you begging to just stay home. STR Permit #:
+
+Guest access
+Entire house, rooftop deck, pool courtyard.
+
+Other things to note
+We do not accept guests from middle tn to reduce the risk of party's.
+
+No more than 12 guests allowed on property at any time. No exceptions city rules. Violation of policy will lead to immediate eviction and no refund. 
+
+The house is less than 2 miles from Broadway and walking distance from some of Nashville’s best bars, restaurants, Top Golf, the Farmers Market, the Sounds Baseball stadium, and much more!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sara
+Host User ID: 23314330
+Host Profile URL: https://www.airbnb.com/users/show/23314330
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+12 years hosting
+842 reviews
+4.78 out of 5 average rating
+12 years of hosting

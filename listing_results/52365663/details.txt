@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/52365663
+Latitude: 36.15375
+Longitude: -86.82464
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern unattached home in the Sylvan Heights neighborhood, featuring a rooftop deck with views of the Nashville area and plenty of room for entertaining. Perfect for Large groups of family and friends. This home is minutes to everything Music City has to offer!
+
+• Rooftop View
+• Upstairs Hangout Room. 
+• Well equipped Kitchen (Stainless Steel appliances)
+• Washer/Dryer
+• Ample Parking
+• Centrally located: close to Downtown, Vanderbilt, Centennial Park, Music Row, and Downtown Hospitals.
+
+Guest access
+This listing is for the entire home.
+
+Other things to note
+8 minute drive to Broadway.
+8 minute drive to the Gulch
+9 minute drive to Music Row
+6 minute drive to Midtown
+4 minute drive to Centennial Park
+
+5 minute drive to Vanderbilt University
+5 minute drive to Tennessee State University
+7 minute drive to Fisk University
+10 minute drive to Belmont University
+15 minute drive to Lipscomb University
+12 minute drive to Trevecca Nazarene University
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sam
+Host User ID: 148001780
+Host Profile URL: https://www.airbnb.com/users/show/148001780
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+126 reviews
+4.98 out of 5 average rating
+4 years of hosting

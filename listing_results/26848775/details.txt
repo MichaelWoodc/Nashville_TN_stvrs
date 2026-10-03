@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/26848775
+Latitude: 36.18682
+Longitude: -86.7436
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of trendy East Nashville! MINUTES from hip restaurants, bars and music venues. A quick, 5-minute Lyft or Uber ride will get you to the popular downtown honky-tonks, Bridgestone Arena and Nissan Stadium.
+
+The space
+This new-construction studio apartment was created with comfort in mind. The apartment is located above the detached garage, separate from the main house. With its own entrance and keypad lock, you will have privacy and convenience. There is also a designated parking spot just for your car. 
+
+The apartment is a bright, open space and perfect for relaxing and resting. A great space for one or two guests.. The studio features a kitchenette with stovetop, oven, Keurig, small fridge and microwave. The island serves as a great spot to sip coffee or work on your laptop. Relax on the loveseat. The flat screen TV can be viewed from the bed or the kitchenette.
+
+A comfortable queen size bed with a 14-inch gel memory foam mattress and high-quality linens will give you a great night's sleep. There are two reading lamps built into the headboard - perfect for late-night reading!
+
+The entire space has hardwood floors. There’s a dedicated space at the entrance for coats and shoes (please, no shoes upstairs in the studio). An added bonus is the washer/dryer combo
+
+Guest access
+The studio apartment is exclusively for your use, along with the dedicated parking space on the side of the garage.
+
+Other things to note
+ABSOLUTELY NO SMOKING INSIDE OR OUTSIDE THE APARTMENT.
+Guests must be able to climb one flight of stairs. 
+All guests must be 21+ to rent and stay.
+No parties. No loud music.
+No pets.
+Space is not appropriate for children under 3.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deb
+Host User ID: 201929123
+Host Profile URL: https://www.airbnb.com/users/show/201929123
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+173 reviews
+4.98 out of 5 average rating
+8 years of hosting

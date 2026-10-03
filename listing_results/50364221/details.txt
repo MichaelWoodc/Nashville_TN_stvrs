@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/50364221
+Latitude: 36.15622
+Longitude: -86.84127
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Explore Nashville from the comfort of this gorgeous modern farmhouse home! Less than 10 minutes to downtown, Broadway, Vanderbilt, 12 South, and more. All the perks of staying in the city, in a house!
+
+Entertaining is a breeze with this open concept kitchen, backyard deck, and 2nd-story balcony with sweeping views. Each bedroom features its own private bathroom. Walk to breweries, restaurants, coffee shops, and more!
+
+Book your Nashville stay today! I look forward to hosting you on your visit!
+
+The space
+Welcome to your home away from home! Enjoy all Nashville has to offer from the comfort of this charming house in the family-friendly Nations neighborhood. Featuring nearby coffee shops, breweries and restaurants, the Nations boasts an incredible 80/100 walkable score! 
+
+You'll be welcomed to this gorgeous 2-story home by the spacious front porch with towering wooden pillars, the perfect spot to enjoy your morning read and coffee. 
+
+Fall in love with this custom-designed interior! The fully stocked kitchen features a center island and opens up to the living room and dining area, making entertaining and connecting during meal times a breeze. 
+
+Live your summer night's dream in this spacious backyard! With a large deck and outdoor sofas, the patio is the perfect space to enjoy a glass of wine on a warm summer evening. Or, sit out on the second-story balcony for sweeping views of the stunning sunsets Tennessee is known for!
+
+Getting ready for the night has never been easier! Each bedroom features its own private bathroom, making it easy for your whole group to freshen up before a night out. The oversized master bathroom features a double vanity, walk-in closet, and separate oversized tub for a relaxing bath after a day of exploring the city. 
+
+We look forward to welcoming you to our Nashville home!! 
+
+Permit # 2022 (followed by) 001163
+
+Guest access
+You'll have access to the entire house, laundry room, and backyard! 
+
+The back house is a separate unit and is occupied part-time. The tenant helps us manage the property. They have shared access to the backyard, and will not bother you during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 251654009
+Host Profile URL: https://www.airbnb.com/users/show/251654009
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+119 reviews
+4.98 out of 5 average rating
+4 years of hosting

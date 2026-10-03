@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/22754239
+Latitude: 36.24677
+Longitude: -86.55486
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This private residence has it all! Separate entrance with private kitchen/living room, bedroom & full bathroom. Old Hickory Lake is less than a minute from this location which has a free public boat launch and park that is a perfect place for picnics and to enjoy water sports, wildlife and nature. Downtown Nashville is less than 25 minutes away so you can enjoy the scenic lakeside activities during the day & then head downtown and enjoy all the sights and sounds that music city has to offer!
+
+The space
+This in-law quarter w/ separate kitchen/living room is filled with a stainless steel refrigerator, microwave, pots and pans, coffee maker, and other amenities you would most likely see at your own home! What makes this stay unique is all the unique art and one of kind decor from various artisans. In addition to the interesting decor, the home is located in walking distance to old hickory lake. Nearby there is a boat ramp where you can launch your boat so feel free to bring your boat for water sports, fishing etc or you can even ask the host the availability of a guided day on the lake for an additional fee which includes life jackets and the various water toys like skis, wakeboard and tubes that host has. (Depending on scheduling and availability)
+
+Guest access
+Guest has private entrance to their Airbnb which includes living room/full kitchen, private bedroom and private full bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg
+Host User ID: 50075405
+Host Profile URL: https://www.airbnb.com/users/show/50075405
+Host Profile URL Source: public user permalink from passport userId
+We love to be hospitable and helpful to people coming to Nashville for business or vacation. Our goal is that we help answer any questions about the city and surrounding areas so that you can maximize the time spent here. We are a fun, adventurous, creative family that loves life and others. We live with a heart of gratitude for each day and look at life as a gift!
+My work: Artist manager
+Lives in Mount Juliet, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1045 reviews
+4.91 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/779720546724358634
+Latitude: 36.25682
+Longitude: -86.70804
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A renovated two bed, one bath house with a huge kitchen, porch swing, and arrangements for up to six. It's a world of vibrant colors and abundant natural light.
+
+In one of Nashville's most unique neighborhoods, you'll be close to local bars, venues, and restaurants & just 20 min from Broadway, 15 from the airport, and 10 from Opryland.
+
+This house is a duplex. I live in the other unit, so I'm nearby if you need anything. The two units are entirely private with separate entries. #202207849
+
+The space
+Welcome to your spacious 1100 sqft home. Complete with a front porch with a porch swing; a gigantic kitchen perfect for entertaining; cozy bedrooms that preserve the house's original 1940s charm, and sleeping for up to six. Nestled in a tranquil neighborhood, this colorfully decorated space ensures a relaxing stay.
+
+Gourmet Kitchen: Calling all culinary enthusiasts! The gigantic kitchen is equipped with endless counter space, pots and pans, and an island seating for three, making it a chef's paradise and perfect for entertaining. 
+
+Cozy Bedrooms: Each of the two bedrooms features a plush queen bed, modest closet, a 29-inch smart TV, and multiple lighting options. There is also a queen pull out in the living room.
+
+Relaxing Living Area: Unwind in the inviting living room, complete with a full-sized couch, love seat, and a 40-inch smart TV. There is a queen pullout or a high quality queen air mattress for additional sleeping accommodations. 
+
+Charming Dining Space: Share meals and create lasting memories in the charming dining room, offering seating for four.
+
+Modern Bathroom: Refresh and rejuvenate in our sleek bathroom, boasting a luxuriously tiled walk-in shower.
+
+Convenient Laundry Facilities: Take advantage of in-building laundry, which includes a washer, dryer, and detergent for your convenience.
+
+Parking: Enjoy the convenience of two parking spots in the driveway, gravel parking for one car in the front yard, and an additional street parking.
+
+Whether you're here for business or pleasure, this house offers the perfect blend of comfort, convenience, and style for an unforgettable stay.
+
+Guest access
+The home is a duplex with your own private entry and private front porch. Your unit is all yours and there is great sound insulation so you shouldn't hear the other unit or vice versa. The only shared interior space is the laundry room. The driveway is shared between the two units.
+
+Other things to note
+If you smoke anything (weed, too) there will be a $250 charge. Feel free to smoke on the beautiful front porch!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Owen
+Host User ID: 231102652
+Host Profile URL: https://www.airbnb.com/users/show/231102652
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+280 reviews
+4.8 out of 5 average rating
+5 years of hosting

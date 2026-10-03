@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/45451337
+Latitude: 36.1757
+Longitude: -86.7351
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Dog-friendly 3BR / 2BA East Nashville home steps from Shelby Golf Course and Shelby Park — sleeps 8 across three queen bedrooms. 360-degree park views, covered veranda with live-edge farm table, two driveways, game room with pool table and foosball. Walk to Five Points dining (~1 mi); 3 mi to Downtown. Best for dog-friendly family stays, Titans games, foodies. Dog fee applies (1 dog).
+
+The space
+Welcome to Hydrangea, brought to you by Music City Magnolia. A Nashville vacation rental in East Nashville (Shelby Park) — 3 bedrooms, 2 baths, sleeps 8. Best for dog-friendly family stays, Titans games, foodies.
+
+WHAT MAKES IT SPECIAL
+• Dog-friendly East Nashville home steps from Shelby Golf Course (active public course)
+• 3 queen bedrooms, 2 baths, sleeps 8 — plus queen sleeper sofa in the downstairs game room
+• 360-degree park views and covered veranda with live-edge farm table and rocking chairs
+• Two driveways — one inside the fence when the manual gate is closed/latched
+• Fenced yard (note gate gap), fire pit, full kitchen
+
+LAYOUT
+3 bedrooms, 2 baths. Two-story home; bedrooms on upper level, stairs required.
+
+GOOD TO KNOW
+• Very small dogs should be monitored in the yard due to a small gap where the gate closes across the driveway.
+• Shelby Golf Course is an active public course — use caution near play areas. Check Shelby Golf for openings, season, and round rates.
+
+PARKING & PETS
+Parking: Two driveways on property — one inside the fence when the manual gate is closed/latched. Street parking available. Dog-friendly with dog fee (1 dog).
+
+IMPORTANT TO NOTE
+Check-in: 4:00 PM via contactless door code. Door code and arrival instructions are sent at 11:00 AM on arrival day. Check-out: 11:00 AM. Rental Agreement must be e-signed before your door code activates. Properties are typically booked back-to-back; early check-in and late check-out cannot be accommodated. No luggage drop-off. Exterior security cameras are in place for your safety. Locked owner/supply closets are off-limits. Quiet hours 10 PM – 7 AM (Nashville ordinance).
+
+Guest access
+Guests have full access to all 3 bedrooms, the full kitchen and living space, fenced outdoor space, fire pit. Parking: Two driveways on property — one inside the fence when the manual gate is closed/latched. Street parking available. Dog-friendly with dog fee (1 dog). Very small dogs should be monitored in the yard due to a small gap where the gate closes across the driveway. Locked owner/supply closets are off-limits. Exterior security cameras are in place for your safety.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City Magnolia
+Host User ID: 67994775
+Host Profile URL: https://www.airbnb.com/users/show/67994775
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re, Music City Magnolia, Loni & Jenn: live music enthusiasts, foodies, nature lovers, and Your Local Guides to the Heart of Nashville. We’re more than just hosts; we’re your ticket to an authentic local experience. Our handpicked homes offer unexpected amenities, welcome gifts, and a dash of sweet magnolia style. Explore our city with insider tips and off-the-beaten-path recommendations, all delivered with true Rock-N-Rental hospitality!
+My work: Music City Magnolia LLC
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+2447 reviews
+4.92 out of 5 average rating
+10 years of hosting

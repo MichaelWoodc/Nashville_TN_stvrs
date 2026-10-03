@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1659517849559950994
+Latitude: 36.15378
+Longitude: -86.76434
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Be just 0.8 miles from Broadway in this vibrant Nashville studio in SorBro, perfectly blending city energy with a place to unwind.
+- Smart bed layout with 1 queen bed opening to the patio + 1 twin bunk bed
+- Private patio spanning the length of the condo with city views and lounging sofa
+- Access to community rooftop, gym, and clubhouse
+- Walkable location near Downtown, Broadway, and Nissan Stadium
+- Work-ready with high-speed WiFi
+- 24/7 hospitality support
+
+The space
+Just a stone’s throw from the bright lights and live music of Broadway, this vibrant studio condo places you in the heart of Nashville while giving you a stylish haven to recharge. Designed with intention to maximize comfort and space, the layout includes a plush queen bed and twin bunk beds, making it an ideal retreat for couples, small groups, or a friends’ getaway. What makes this studio truly unforgettable is the seamless indoor-outdoor living. Rolling garage-style doors open the entire space to a stunning private patio that spans the full length of the condo, offering city views and fresh air that instantly elevate your stay. Enjoy slow mornings with coffee or gather for al fresco dining before heading out for the night. It’s rare to find this kind of private outdoor space in downtown Nashville, and guests love how it becomes the heart of their stay.
+
+Sleeping Arrangements:
+1 Queen Bed
+1 Twin over Twin Bunk Bed
+
+Community Amenities:
+Rooftop Patio with skyline views
+A well-equipped gym,
+Clubhouse for relaxing or as a quiet space to work
+
+Community Paid Amenities:
+Washer and Dryer facilities
+On-site, covered garage parking with preferred guest rates
+
+Guest access
+The entire condo and private patio are yours. Community amenities like the rooftop patio, clubhouse, and gym are also available for your enjoyment.
+
+Other things to note
+- Check-In: We provide a unique, custom door code for each stay for secure and easy keyless entry.
+- 24/7 Support: Our team is available around the clock to help with any questions or personalized requests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

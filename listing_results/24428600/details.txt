@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/24428600
+Latitude: 36.19123
+Longitude: -86.76165
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience a warm but vibrant energy from entry to exit. Located in Cleveland Park in East Nashville. There are playgrounds, basketball courts & baseball fields two blocks over. Coffee, food & a Brewery are walking Distance. Shelby Golf Course, park & Five points bars & restaurants are 5 min Uber as is downtown. This home is in a quiet neighborhood that gives you all the luxuries of being close to the action without having to hear it!  We just added a beautiful turf patio and seating w/ hot tub!
+
+The space
+New Turfed outdoor area! Hot tub is in place! We are adding an outdoor TV as well! Will update photos when available! Tastefully decorated one bedroom with a pull out queen couch in the Living Room. We welcome you to join our Vibe and Nashville's! The space has been beautifully decorated with a diverse and eclectic art and colors. It is a spacious one bedroom with a beautiful Kitchen and a large dining table/Nook that is not only great for meals and dining but also for playing games and having conversation. The home emphasizes its East Nashville location through its artwork as well as has a focus on Nashville reputation for music. As the nickname for the apartment is Beauty Queen it is influenced by our interest in the neighboring Bar and restaurant Rosemary and Beauty Queen and is meant to emulate its Fabulous Vibes and personality. 
+
+We just added a beautiful patio with a sectional sofa that can seat 6 and a Gas Grill. We intend to add outdoor dining in the coming weeks. 
+
+Literally everything is new and modern.
+
+Guest access
+You will enter through a private gate.
+
+Other things to note
+Please note we do our best to accommodate requests for early check in, but it is entirely dependent on other bookings. We cannot give you a an answer on early check-ins until the week of your stay. Please keep that in consideration when booking. If the day before you is booked an early check-in will not be available as it will have to be cleaned between the stays. 
+
+Also we do our best to accommodate "Special Requests" within reason. We ask that you make these request 1-2 weeks before in order to give us ample time to consider and access if they are possible. 
+
+We look forward to hosting you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 51934419
+Host Profile URL: https://www.airbnb.com/users/show/51934419
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 93%
+Responds within an hour
+8 years hosting
+439 reviews
+4.82 out of 5 average rating
+8 years of hosting

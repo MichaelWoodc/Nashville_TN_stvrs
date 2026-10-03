@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/53259569
+Latitude: 36.28276
+Longitude: -86.78651
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wake up refreshed in this established, quiet neighborhood, ready to enjoy everything Nashville has to offer. Brew a cup of coffee using the fully equipped kitchen and relax on the back patio as you plan your day. This peaceful home, a short drive from downtown Nashville, features vaulted ceilings, artistic décor, and polished hardwood floors. A comfortable workspace complete with a desk, comfortable chair, and charging station is available for our savvy business guests.
+
+The space
+This spacious home is only 10 miles from the sprawling landscape of Downtown Nashville  and 7 miles from the original Grand Ole Opry where your favorite country stars got their frame.  Shop and enjoy many of the restaurants at Opry Mills.
+
+Guest access
+The whole entire house is for you and your family to enjoy.  Plenty of space in the backyard for outdoor fun.
+
+Other things to note
+Yes, we do allow dog(s).  There's a $99 pet fee per dog.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 431174204
+Host Profile URL: https://www.airbnb.com/users/show/431174204
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+45 reviews
+4.71 out of 5 average rating
+5 years of hosting

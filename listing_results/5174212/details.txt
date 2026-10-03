@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/5174212
+Latitude: 36.20225
+Longitude: -86.74634
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this stylish, private, sun-filled cottage just a hop, skip and jump from everywhere you want to be. Bring your pet (please inform us beforehand as we accept pets on a case by case basis and yes there might be a pet fee) and enjoy the backyard over a morning coffee at this chill getaway in desirable East Nashville.
+
+The space
+Our cottage, which was renovated last year, is spacious (384 sq ft) with plenty of privacy. Included is a big patio and large backyard. Inside the cottage you'll find a queen size bed, couch, dining table with chairs, shower/bathtub, and washer & dryer. Soap, shampoo, detergent, hair dryer, noise machine.
+
+Guest access
+Guests can comes and go as they'd like access the studio anytime by entering our privacy gate on the side of our house. The patio and backyard are really pleasant, surrounded by herb and flower gardens when the season is right. The patio has a table and chairs under string lights for a very private and relaxing experience.
+
+Other things to note
+As happy as we are with our neighborhood, we do want to let you know we live close to a railroad crossing. I like to warn guests the train horn is noisy, and comes at random. So far most people have told us that it doesn't bother them but we provide ear plugs for those who are sensitive.
+
+A visible note is provided to remind guests not to dispose of any trash, hygienic or cosmetic products, condoms or tampons in the commode. Failure to follow these guidelines will result in a maintenance fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julian
+Host User ID: 14318200
+Host Profile URL: https://www.airbnb.com/users/show/14318200
+Host Profile URL Source: public user permalink from passport userId
+Originally from Georgia, my wife and I live in East Nashville. We're both artists (she's a photographer and I'm a musician) and have grown to love Nashville as it evolves and grows everyday. We travel a lot for work so we know what it's like to be away from home and want a nice place to stay. We provide a very clean and friendly cottage and want to help make your stay as comfortable as possible. We respect your privacy but are here for you have you any needs.
+My work: Musician
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+12 years hosting
+1422 reviews
+4.78 out of 5 average rating
+12 years of hosting

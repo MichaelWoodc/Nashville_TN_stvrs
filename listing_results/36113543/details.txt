@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/36113543
+Latitude: 36.20341
+Longitude: -86.74323
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Grab coffee, head to brunch, explore nightlife and enjoy live music - all without needing a car.
+
+This brand new, modern townhouse with free parking is the perfect home for entertaining. Groups keen on traveling together will appreciate both the bright, open floor plan on the main level, as well as the personal space provided in each suite.
+
+The space
+The entire top floor consists of two spacious suites. One suite features a king bed, walk-in shower, double vanity, television, and walk-in closet. The second suite includes a shower/tub combination and a bunk bed with a queen, full XL, and twin trundle bed. The ground floor offers a private queen bedroom with an en-suite bathroom.
+
+Walkable to Grimey's Record Store with the new Taylor Swift mural, Living Waters Brewery & Coffee, Tiger Bar, The Fox Bar and Cocktail Club, The Bowery Vault, Elegy Coffee, Nicoletto's Pasta & Mickey's Tavern.
+
+The fully equipped kitchen with breakfast bar opens to a large dining set happily accommodating 8 seated guests. 
+
+Living room has queen sleeper sofa and plenty of seating for hangout space.
+
+Free parking for two cars in the attached carport.
+
+Other things to note
+This is a three story home with one suite on the ground floor, living space on the middle floor and the other two suites on the top floor.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 172390939
+Host Profile URL: https://www.airbnb.com/users/show/172390939
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm James. I moved to Nashville from London, UK in 2013. I started hosting on Airbnb in 2015 after staying in homes while travelling across Europe.
+One thing I love most about Nashville is the food scene. It is always evolving to feel free to reach out for recommendations.
+Born in the 80s
+Where I went to school: London, UK
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+416 reviews
+4.89 out of 5 average rating
+9 years of hosting

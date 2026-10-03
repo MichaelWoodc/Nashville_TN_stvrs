@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/44589943
+Latitude: 36.14108
+Longitude: -86.79314
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy all Nashville has to offer at this charming, Southern Bungalow! This home sleeps up to 6 guests. The home is meticulously maintained with both a beautiful and inviting exterior and interior space. The house is located in the beautiful Edgehill neighborhood  just minutes to Broadway, Music Row, DT, 12th South, 21st South, Vandy, Belmont and some of the best restaurants! Although conveniently located just minutes from the city, the house and neighborhood feel secluded and quiet.
+
+Guest access
+Guests will have access to the entire house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Monica
+Host User ID: 216770834
+Host Profile URL: https://www.airbnb.com/users/show/216770834
+Host Profile URL Source: public user permalink from passport userId
+Fun and outgoing. Love to travel and spend time with my family!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+60 reviews
+4.98 out of 5 average rating
+6 years of hosting

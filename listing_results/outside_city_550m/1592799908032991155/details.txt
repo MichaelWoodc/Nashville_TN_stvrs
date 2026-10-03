@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1592799908032991155
+Latitude: 36.37175
+Longitude: -86.63346
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+City Lights or Country Nights? Have both. 
+Escape to this updated brick basement rancher with 2,300+ sq ft of comfort. Enjoy two dens, two outdoor entertaining areas, and a screened-in back porch for morning coffee or evening wind-downs. Sleeps 12 people. Ample parking and easy access—just 20 minutes to Nashville with shopping, dining, music, and nightlife nearby—while still enjoying peaceful country privacy. Perfect for weekend getaways or longer stays.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Garrison
+Host User ID: 398126029
+Host Profile URL: https://www.airbnb.com/users/show/398126029
+Host Profile URL Source: public user permalink from passport userId
+Hello! I'm Garrison, originally from Knoxville, TN, and now happily settled in Nashville, TN with my amazing wife Abi. As avid travelers ourselves, we truly appreciate what makes a stay special. With extensive experience in real estate and property management, we’re dedicated to providing exceptional Airbnb experiences—thoughtful details, spotless accommodations, and genuine hospitality! We look forward to welcoming you and making your visit truly memorable!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 months hosting
+25 reviews
+4.8 out of 5 average rating
+8 months of hosting

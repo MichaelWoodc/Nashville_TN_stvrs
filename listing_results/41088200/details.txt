@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/41088200
+Latitude: 36.17897
+Longitude: -86.67049
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy and stylish Airbnb nestled within minutes of the airport. Offering comfort and convenience, making it the home base for your adventures here.
+
+Ideally located, placing you within easy reach of many vibrant attractions. Whether you're in the lively music scene, exploring the rich history, or indulging in the city's culinary delights, you'll find that our we are a convenient and comfortable retreat.
+
+Book your stay and make lasting memories. Looking forward to hosting you soon.
+
+The space
+As you step inside, you'll immediately feel at ease in the inviting ambiance of the space. Which features a comfortable queen bed, adorned with plush linens and soft pillows, ensuring a restful night's sleep after a long day of exploring the city. Additionally, a sleeper sofa is available, providing extra sleeping arrangements for up to four guests.
+
+Thoughtfully designed, providing a relaxing atmosphere for you to unwind. Entertainment is taken care of with a large 55-inch TV. Whether you're relaxing on the sofa, bean bag, or in the bed enjoying a movie night, the impressive screen size and crystal-clear display will enhance your viewing experience.
+
+The bar area is equipped with essential amenities, allowing you to prepare light meals and snacks during your stay. It features a compact refrigerator, a microwave, and a coffee maker, making it convenient to enjoy a cup of coffee or store your favorite beverages and leftovers.
+
+For those who need to stay connected or get some work done, a desk and computer are provided for your use. The desk offers a dedicated space where you can comfortably tackle tasks, catch up on emails, or plan your itinerary with ease.
+
+To ensure the safety of your vehicle and provide an added layer of security, our driveway is gated. You can have peace of mind knowing that your car is protected during your stay.
+
+Another unique aspect of our Airbnb is the captivating artwork displayed throughout the space. Most of the art pieces are puzzles, carefully assembled to create stunning visuals that add a touch of intrigue and creativity to the ambiance.
+
+Book your stay at our inviting Airbnb and experience the perfect blend of comfort, convenience, and style. We're excited to welcome you to Music City and ensure you have a memorable stay in our delightful accommodation.
+
+Guest access
+The space has a private entrance, which access is conveniently provided through a door keypad system. Upon arrival, you'll find a modern and secure door with a keypad. Instead of traditional keys, this keypad offers a hassle-free way to enter the property.
+
+To access simply enter the unique access code that I provided to you. One notable feature of this door system is its automatic locking mechanism. After successfully entering the access code and gaining entry, the door will automatically lock itself after approximately 10 seconds, allowing you ample time to enter.
+
+Other things to note
+We have a gated driveway; we provide two options for opening the gate: a gate opener left under the TV and a phone app that can be used. This setup allows guests to choose their preferred method for accessing the property.
+
+Using the gate opener is straightforward, it is located under the TV. Just use it to open and close the gate manually. Alternatively, if you prefer a digital solution, you can use a phone app. I will provide you with a digital key to activate the app. Video how-to instructions is access in the check-in instructions. Either way is completely fine.
+
+If you have any questions or encounter difficulties with the gate opener or the app, it's best to reach out for my assistance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Larry
+Host User ID: 292309640
+Host Profile URL: https://www.airbnb.com/users/show/292309640
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Lexington High School (TN)
+My work: Day trader from home
+Response rate: 100%
+Responds within an hour
+7 years hosting
+219 reviews
+4.94 out of 5 average rating
+7 years of hosting

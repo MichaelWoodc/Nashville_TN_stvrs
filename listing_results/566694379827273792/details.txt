@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/566694379827273792
+Latitude: 36.19534
+Longitude: -86.77638
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the heart of Music City from The Guitar Shack, a comfortable 3-bedroom, 2.5-bathroom home in Nashville, Tennessee, boasting great city views and an unbeatable location just 7 minutes from Broadway!
+
+A private 1-car garage offers a fun bonus space with a movie theater, pool table / ping pong table combo, and a chalkboard wall. The true draw is the stunning view of the city. Get around easily to the live music, restaurants, and iconic honky-tonks of Broadway in just minutes
+
+The space
+This is a 3 story, 3 bedroom townhouse (approx. 1500 square feet) we have 1 king bed, 2 queen beds, 2 full beds with twins on top. The maximum occupancy is 10 guests, and there are 2 bedrooms located on the second floor, and one on the top floor next to the kitchen. There are also 2 full bathrooms and a half bath. We’ve got a movie theater, arcade machines, and a pool table / ping pong table in the garage!
+
+Single car garage is available also for your stay.
+
+Guest access
+The entire house. We have 2 locked closets we keep stocked with supplies for our cleaners and managers.
+
+Other things to note
+There are 2 hairdryers, located in the second floor bathrooms.
+
+Bathrooms are supplied with body wash, shampoo, and conditioner.
+
+Coffee, tea, creamer, sugar and sugar substitute are above the coffee maker.
+
+**if you need early check in or late check out please just ask, we will do our best to accommodate you.
+
+And please be aware, there is a bar / club on the across the intersection corner that does play loud music sometimes. We provide guests with earplugs and sound machines with every stay, but please let us know if you have any questions or concerns 😊
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debra
+Host User ID: 20484835
+Host Profile URL: https://www.airbnb.com/users/show/20484835
+Host Profile URL Source: public user permalink from passport userId
+Hi! Thank you for considering staying at our Airbnb in Nashville! I live in California 
+with my husband and almost grown kids.  We fell in love with Nashville a few years
+ago when we went for a birthday getaway and after going back a few times decided to buy a place and open it up for others to stay! We hope you enjoy your stay and fall in love with the city like we did!
+My work: dental hygienist
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+92 reviews
+4.9 out of 5 average rating
+5 years of hosting

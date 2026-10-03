@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/17315352
+Latitude: 36.19602
+Longitude: -86.75782
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New 3-story Townhouse in hip East Nashville, less than 3 miles from Broadway. Convenient 2 car enclosed garage on the first floor, featuring 2250 sq ft of living space, a huge open floor living/kitchen/dining area, 3 large bedrooms each with their own ensuite. Out the front door is a peaceful serene courtyard, while behind is a paved entry leading to a private 2 car garage. Perfect for multiple couples or families visiting Nash! House is cleaned only with natural & organic cleaning supplies.
+
+The space
+A three story town house with a minimal Scandinavian style in the heart of East Nashville equipped with a private garage. A spacious bathroom and shower attached to each bedroom makes this house the perfect vacation rental for couples traveling together. An open floor plan in the kitchen and living/dining area with bountiful natural light is a stunning spot to enjoy your morning coffee, watch movies, cook meals, or play games.  
+Walking distance from a gorgeous spa. A bounty of Nashville’s best food and coffee within a mile.
+
+Guest access
+You'll have complete private access to the entire 3 master bedroom townhouse and garage. We will provide code access for the garage as well as the front door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Josh
+Host User ID: 91390810
+Host Profile URL: https://www.airbnb.com/users/show/91390810
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+284 reviews
+4.9 out of 5 average rating
+10 years of hosting

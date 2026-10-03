@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/47111989
+Latitude: 36.20323
+Longitude: -86.80544
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a beautiful 3BR/2.5BA home stocked with only the best: accommodations, toiletries, bedding, furniture, and decor. Bring only your clothes! Super nice, clean, fully furnished. Dark wood floors throughout, carpet in bedrooms, granite counter tops, stainless steel appliances, walk-in closets and more. This home is 5 miles or 12 minutes from car or uber to downtown Nashville.
+
+The space
+This 2600+ Sq ft. two-story home, 2-car garage with a shared driveway. On the main floor, we have the kitchen & island with wine rack, living room, half bath, and an over-sized deck with ample seating and a gorgeous view of the Cumberland River. The Tennessee Titans practice facility is within eyes view. The upper level consists of a master suite (with private bath) and 2 more bedrooms, 1 shared bathroom, media/game room with sofa bed, and a laundry room. The master suite features a king bed and attaches to a luxury bathroom with a spacious walk-in closet and even has its own personal deck. 
+Home includes Keurig coffee maker, key-less entry, full size washer & dryer and high-speed Wi-Fi internet and Streaming (Roku) TV. 
+PLEASE NO PARTIES OR SPECIAL EVENTS
+
+Guest access
+You will have full access to home, common areas, back yard, and parking to the right of the center line splitting the driveway.
+
+Other things to note
+This is a STR that holds a maximum of 10 guests. ABSOLUTELY no parties or special events of any kind are allowed at this property. We are in close proximity of our neighbors and be respectful by keeping noise volumes moderate to low. Quiet hours are 11PM-7AM, especially on decks.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angela
+Host User ID: 113522135
+Host Profile URL: https://www.airbnb.com/users/show/113522135
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Nursing Informatics
+9 years hosting
+39 reviews
+4.97 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1688363566276773513
+Latitude: 36.214
+Longitude: -86.8461
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Old School Cool,  a stylish, comfortable 3‑bedroom home designed for travelers who want the perfect blend of nostalgia and modern convenience. Located in a quiet Nashville neighborhood just minutes from the action, this home is ideal for families, small groups, work trips, or anyone wanting a relaxed, easy stay.
+
+The space
+What Makes This Home Special
+3 comfortable bedrooms with cozy beds and clean, modern touches
+
+2 full bathrooms, no waiting in line
+
+Bright, open living area perfect for relaxing or catching up
+
+Fully stocked kitchen
+
+Quiet neighborhood with easy access to Nashville hotspots
+
+Convenient location near major roads, restaurants, and attractions
+
+Self‑check‑in with a secure lockbox for smooth arrivals
+
+Guest access
+Guests have full access to the entire home, including all three bedrooms, two bathrooms, living room, kitchen, and laundry area. Parking is available on‑site.
+
+You’ll receive detailed check‑in instructions before your stay, and you can check in anytime after your scheduled arrival time.
+
+Other things to note
+Check-In / Check-Out
+Flexible check-in and check-out times may be available if requested in advance. Please be aware that a small fee might apply if adjustments are needed to accommodate the cleaning schedule.
+
+Any requests to change the check-in or check-out times must be made at least 48 hours prior to your arrival or departure.
+• Early Check-In: A $35 flat fee applies for check-in from 2 PM, or $20 per hour if approved in advance.
+• Late Check-Out: A $35 flat fee is charged for check-out until 12 PM, or $20 per hour if approved in advance.
+• All requests for changes are subject to availability and the cleaning schedule.
+
+Quiet Hours
+Quiet hours begin at 10:00 PM each night. We ask that you are considerate of neighbors and the surrounding community during these hours.
+
+Respect the Space
+This home is our personal space, and we ask that you treat it with care. Please do not move or rearrange the furniture, and leave the space tidy for the next guest.
+
+Guests & Gatherings
+Only registered guests are permitted on the property unless prior approval has been granted. Parties and events are not allowed without written authorization. Unauthorized gatherings, excessive noise, or any disruption may result in immediate removal from the property and a minimum fee of $400.
+
+Booking Requirements
+Guests must be at least 25 years old to book, and at least one adult aged 25 or older must be present throughout the stay. Drug use and underage drinking are strictly prohibited on the premises.
+
+Pet Policy
+This property is pet-friendly. A pet fee applies, and all house rules must be followed. If you plan to bring a pet, please notify us in advance.
+
+Liability & Responsibility
+By booking and staying at this property, all guests agree to adhere to these house rules and to use the home and its amenities safely and responsibly. Any damages, policy violations, or misuse of the property may result in additional charges. The host is not responsible for accidents, injuries, or loss of personal belongings during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sam
+Host User ID: 60681181
+Host Profile URL: https://www.airbnb.com/users/show/60681181
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Response rate: 100%
+Responds within an hour
+4 months hosting
+8 reviews
+4.25 out of 5 average rating
+4 months of hosting

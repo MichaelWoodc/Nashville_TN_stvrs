@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/31189831
+Latitude: 36.21248
+Longitude: -86.72244
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in East Nashville - Inglewood on a 10 MPH street, this 1930s-era cottage includes 3 true bedrooms and 2 bathrooms. Our area was hailed “a new food star” by the NYtimes. You can bike or walk to Riverside Village, for coffee at Dose, enjoy a sandwich at Mitchell’s Deli, or have drinks at the Village Pub. The cottage has a front yard and porch, with off-street parking for two vehicles, maximum.
+
+The space
+This cottage built in the 1930s has three true bedrooms and two bathrooms. It sleeps up to 6. The kitchen and gathering room are open plan. One bathroom is en suite and the 2nd bathroom is shared with the open plan space and two bedrooms.
+Quirks to note: The cottage shares its longest wall with a private suite where up to two other guests may be staying. Expect noise. 
+Parking is shared on a grassy, gravel drive. If it’s raining you may encounter wet grass.
+It’s furnished in a bohemian style, with vintage and antique pieces, and low to the floor beds. 
+Each bedroom has a low metal queen bed frame, firm memory foam mattress, vintage chair, closet with hangers and a luggage rack.
+In the gathering room, you’ll find an original, non-functional fireplace with a 40-inch TV mounted on the vintage mantle. This is the only TV in the cottage.
+
+Guest access
+Guests can enjoy the front yard and front porch, which includes a bench, two chairs, and a bistro table. 
+One bedroom includes an en suite bathroom with a shower, while the other two bedrooms share a second bathroom with a shower/tub combo. Both bathrooms come stocked with bath products for your convenience. 
+A Nespresso machine and coffee pods are available to help you start your day. 
+Parking for up to two standard vehicles is available on the grassy gravel driveway, shared with suite guests. There is no street parking.
+
+Other things to note
+Parking is available on a grassy, gravel driveway on the property. Cottage guests are limited to a maximum of two standard-sized vehicles, while suite guests may have one vehicle. Please note there is no street parking available.
+The kitchen is equipped with essentials, including pots, pans, baking sheets, a small slow cooker, and more. The range and oven are electric.
+We provide towels for outdoor use. Additionally, there are melamine plates, a picnic basket, and two picnic blankets available for outdoor activities. 
+A Baby Bjorn portable crib and crib sheets are also available upon request.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimberly
+Host User ID: 1863505
+Host Profile URL: https://www.airbnb.com/users/show/1863505
+Host Profile URL Source: public user permalink from passport userId
+We are originally from Kentucky.  We like to travel, immersing ourselves in the culture of the places we visit, to experience destinations like locals.  We visited France for our honeymoon and found a great place to stay for one month, thanks to airbnb.com.  Since then twin daughters have joined our little family. We are introducing the world of living like a local to them, other family members and hopefully to those we host.
+Lives in United States
+Pets: no pets
+Response rate: 100%
+Responds within an hour
+14 years hosting
+239 reviews
+4.73 out of 5 average rating
+14 years of hosting

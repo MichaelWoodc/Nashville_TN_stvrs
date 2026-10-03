@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/16770288
+Latitude: 36.17137
+Longitude: -86.74644
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Brand New Modern & Luxurious home is 2600 sqft open floor plan, 4 bd, 3.5bth, located in trendy Lockeland Springs of East Nashville / one of the city’s most-desired areas to live and play. Walk-able distance to East End & Five Points where all the excitements await you. Make yourself at home and enjoy the house!
+
+Guest access
+Guests will have access to all areas of the home.
+2 private parking spots are available behind the house and plenty of street parking spots should be available.
+
+We have the fastest fiber gigabit internet connection which can accommodate all the guests.
+
+Other things to note
+Smoking inside the house is absolutely forbidden. Any evidence found of smoking inside will result in a $500 security deposit fine. Please restrict all smoking to outside and please dispose of all trash properly.
+
+You will be provided with a front door code prior to check-in. The code is changed with each reservation. While we have never had a theft issue, please ensure that all doors are locked prior to leaving the house at all times.
+
+Our house should be treated like your own home. While we try to provide a hotel-like experience, this is not a hotel that can be trashed. If furniture, upholstery, floors, paint, anything is damaged or missing, you will be charged out of your security deposit.
+
+PLEASE be respectful of this home and of the neighbors. This is a quiet community and as such: loud music, parties at night, and hosting very large groups is ABSOLUTELY prohibited. Our neighbors are very sensitive to noise and parties, and will call us at a moment's notice - we will contact you on the 1st complaint, and on the 2nd complaint we will have authorities to evict you and your rent moneys will be forfeited.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andy
+Host User ID: 47210437
+Host Profile URL: https://www.airbnb.com/users/show/47210437
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Korean
+Lives in New York, New York
+Response rate: 100%
+Responds within an hour
+10 years hosting
+233 reviews
+4.86 out of 5 average rating
+10 years of hosting

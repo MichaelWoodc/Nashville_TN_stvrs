@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/1326213243782763536
+Latitude: 36.1658
+Longitude: -86.7978
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A unique blend of Nashville's industrial history and modern creativity welcomes guests at Mint House Marathon Village. Choose from a selection of fully furnished apartments with kitchens and in-unit laundry, along with access to a fitness center, outdoor pool, rooftop, and meeting space. Experience this vibrant neighborhood in comfort and style. Our tech-enabled apartments offer self check-in at 4pm, 24/7 guest support by text and Virtual Front Desk accessed via mobile device.
+
+The space
+The Space
+
+SLEEPING ARRANGEMENT:
+- Living area: 1 queen sofa bed (sleeps 2)
+- Bedroom 1: 1 king-sized bed (sleeps 2)
+- Bedroom 2: 1 queen-sized bed (sleeps 2)
+
+PARKING:
+- Enjoy complimentary parking in the building’s garage, available on a first-come, first-served basis. For your convenience, additional street parking is also available nearby.
+
+LIVING SPACE:
+- Full kitchen with microwave, stove, dishwasher, refrigerator, cookware, dishware and silverware 
+- Coffee and tea facilities
+- Washer and dryer
+- Bath products
+- Iron and ironing board
+- Hairdryer
+
+We offer a selection of room types, each with its own unique features. Decor and layout may vary slightly from what you see in photos.
+
+Guest access
+In addition to your private space, you can enjoy the following:
+
+ADDITIONAL AMENITIES
+- Fitness center
+- Meeting space
+- Pool with clubhouse
+- Rooftop terrace
+- Self-service luggage storage
+
+We manage each aspect of your stay, so you can count on reliable service from booking to checkout, all while enjoying a self-directed experience. Every Kasa offers:
+
+- 24/7 support (text us any time!)
+- A desirable locale close to points of interest and attractions
+- Professional cleaning
+- Thoughtful design for your comfort and convenience 
+- Security protocols, including ID verification
+- Care-focused technology for detecting noise and smoke
+
+Other things to note
+PLEASE NOTE:
+- Guests are required to complete a Pre-Arrival Checklist, which includes a virtual ID check, and the option to request early check-in (subject to availability). We operate through a Virtual Front Desk, and self check-in is entirely contactless. We'll send you instructions on accessing our property and your Kasa before you arrive. Questions? Contact us 24/7.
+- Enjoy complimentary parking in the building’s garage, available on a first-come, first-served basis. For your convenience, additional street parking is also available nearby.
+- One approved dog is allowed per unit at a nightly fee of $8-30/night based on length of stay. 
+- Self-service luggage storage is available.
+- Housekeeping services are only provided upon request at an additional cost per cleaning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kasa
+Host User ID: 662350416
+Host Profile URL: https://www.airbnb.com/users/show/662350416
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+405 reviews
+4.71 out of 5 average rating
+1 year of hosting

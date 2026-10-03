@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1696686641264621977
+Latitude: 36.15039914486707
+Longitude: -86.79105640762324
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come to Nashville for the music, stay where it was made. This bright, record-spinning condo sits in the heart of Music Row, blocks from where your favorite songs were recorded, with a pool shaped like a giant guitar that's yours to use. Vinyl on the turntable, blue-cabinet kitchen, open living space. Two queen beds sleep four, plus a sofa bed for two more, six total. Minutes to Broadway, studios at your doorstep, the whole city a quick ride away. The address that puts you inside the story.
+
+The space
+Welcome to Unit 405 at Spence Manor, a fully renovated, music-inspired condo in the heart of Nashville's legendary Music Row.
+Bedroom & Living
+Spacious bedroom with two plush queen beds, premium linens, smart TV, dedicated workspace, and custom artwork. The bright open-concept living area features hardwood floors, a large sectional sofa, and curated Nashville-inspired décor.
+Kitchen
+Fully equipped with navy blue cabinetry, quartz countertops, induction cooktop, GE dishwasher, Hamilton Beach refrigerator, Ninja air fryer, Ninja blender, Keurig coffee maker, 2-slice toaster, microwave, martini shaker set, and all cookware, dishes, and silverware you need.
+Bathroom & Laundry
+Full bathroom with bathtub, shower, and premium towels. In-unit GE washer/dryer combo for added convenience.
+Technology
+High-speed Xfinity WiFi, smart keypad entry, Xfinity cable TV, and Insignia smart TV.
+Building Amenities
+Take a dip in Nashville's iconic guitar-shaped Webb Pierce pool, relax on the sun deck, and enjoy stunning downtown skyline views — all within your own building.
+Self Check-In
+Seamless keypad entry. Lobby code and unit code provided upon booking.
+
+Guest access
+Guests have full access to the entire unit, including the bedroom, living area, fully equipped kitchen, and bathroom.
+Building amenities available to all guests include the iconic guitar-shaped swimming pool, sun deck with lounge chairs, and on-premises parking.
+Self check-in via smart keypad, lobby access code, and unit door code provided upon confirmed booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

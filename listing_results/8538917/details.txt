@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/8538917
+Latitude: 36.1262
+Longitude: -86.7256
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Jubilee! A modern studio located only 7-10 mins to Downton Nashville, BNA, and many of the city's top attractions including Broadway, Opry Mills and the Country Music Hall of Fame! Equipped with a dedicated work space, fully stocked kitchen, a king bed, a queen sofa bed and 55 and 65-inch TVs! I can't wait to host your getaway to Music City. Please enjoy a stylish experience at this centrally-located condo!
+
+Guest access
+You will have the entire studio to yourself. There is a shared courtyard in the center of the complex, as well as a dog relief area along the back parking lot.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marisa
+Host User ID: 43965374
+Host Profile URL: https://www.airbnb.com/users/show/43965374
+Host Profile URL Source: public user permalink from passport userId
+I'm a Healthcare Professional living in Nashville who loves to travel!
+My work: Physical Therapist
+Most useless skill: I can fall asleep anywhere
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+60 reviews
+4.9 out of 5 average rating
+2 years of hosting

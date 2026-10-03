@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/52032159
+Latitude: 36.11867
+Longitude: -86.76931
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 5 year old spacious build is both luxurious and cozy. With breathtaking vaulted ceilings, beautiful finishes, endless natural light, and thoughtful touches, you will feel the love that went into the design & decor. Offering 4 bedrooms and 3.5 bathrooms this property is the perfect spot for groups looking to spread out while enjoying this centrally located spot - 1.5 miles to 12 South, 3 miles to The Gulch, 3.5 Miles to Broadway. Catering Available.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay.
+
+This spot was both thoughtfully and functionally designed.
+
+Bedrooms: There are 4 bedrooms, a king bed in the Master, and three others each equipped with queen beds and TVs. 2 of the 4 bedrooms also include very comfortable single beds for larger groups.
+
+Kitchen: The house includes a fully equipped kitchen for travelers looking to stay in and cook up a feast!
+
+Living Room: With a large sofa and several accent chairs, we welcome our guests to sit back, relax and enjoy some streaming. The couch in the living room does convert to a sofa bed, need be.
+
+Bathrooms: There are 3.5 bathrooms, providing just the right amount of privacy for every traveler.
+
+Bonus Room: Hang out and enjoy a cup of coffee while overlooking the french doors to the balcony. The couch in this room is AWESOME for relaxing and watching your favorite shows! This couch also converts to a sofa bed.
+
+Deck: Enjoy dinner under the sky or just hang out on the spacious deck!
+
+Parking: garage fits two small or mid size vehicles. Trucks and large SUV’s not recommended. Additional parking behind the house but the lot is very small and shared with other Airbnb’s
+
+Parking is limited for Large Vehicles.
+
+On-site Catering Available please message me for details.
+
+Guest access
+Parking is semi-limited so please message me before booking.
+
+Other things to note
+The property is within a mile of local grocery stores, bars, and even a nearby fitness center 
+
+On-Site Catering is Available from our private Chef. Please message me for details.
+
+Boat Rental Available-Message me for details
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tina
+Host User ID: 112289220
+Host Profile URL: https://www.airbnb.com/users/show/112289220
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and French
+Lives in Chicago, Illinois
+Response rate: 100%
+Responds within a few hours
+Superhost
+1 year hosting
+40 reviews
+4.98 out of 5 average rating
+1 year of hosting

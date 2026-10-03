@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/742013564990356731
+Latitude: 36.23031
+Longitude: -87.0362
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+• Rural waterside getaway just a 25 minute scenic drive to the heart of Music City. 
+
+• Perfectly positioned to explore both Nashville and Ashland City. 
+ 
+•Beautiful view of Sam's Creek from the back deck. 
+
+• 2 acres of yard space for all kinds of outdoor activities. 
+
+•Fish from the back yard! 🎣
+
+•Dollar General and Lakeview Market under 2 miles from the house!
+
+• Cumberland River Bicentennial Trail (6 miles away.
+
+❌ NO SMOKING inside the house❌
+**No longer allowing pets**
+
+The space
+• 3 cozy bedrooms. 2 queen size beds and 1 full size. 
+• Kitchen includes a complete set of dishes and cookware, as well as a dishwasher and a double oven.
+• Coffee Bar is fully stocked with your choice of single serve pods, or a pot of coffee.
+• FREE High Speed Internet. 
+• 50 inch smart TV for streaming. 
+•Host available to fix issues and accommodate requests if possible.
+•Smoke Free home.
+•Guests have access to the entire upstairs. basement is used by host. 
+•No longer allowing pets
+
+Guest access
+Guests have access to entire upstairs living area. 
+Guests have access to both front and back decks, the creekside fire pit, as well as all 2 acres of yard space. 
+garage and basement are owner occupied.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Garland
+Host User ID: 484355945
+Host Profile URL: https://www.airbnb.com/users/show/484355945
+Host Profile URL Source: public user permalink from passport userId
+I am an avid outdoorsman with a passion for fishing. As a host, I strive to provide the best individual experience for all of my guests.
+My work: Program coordinator - Nashville Sheriff's Office
+Lives in Ashland City, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+104 reviews
+4.91 out of 5 average rating
+4 years of hosting

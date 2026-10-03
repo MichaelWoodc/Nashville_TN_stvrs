@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/571879253550716877
+Latitude: 36.24496
+Longitude: -86.63673
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🏡Welcome to Your Nashville Getaway!
+
+Looking for a relaxing escape outside the city buzz? You’ve found it. Our brand-new brick townhome offers the perfect mix of peaceful retreat and prime location—just minutes from Old Hickory Lake and a short drive into the heart of Nashville.
+
+Whether you're here for a lakeside adventure, a family trip, or a weekend of music and fun, we’ve got you covered. Flexible dates or a bigger group? Ask us about our nearby homes!
+
+SPECIAL PRICING FOR 60-DAY PLUS STAY!
+
+The space
+✨ What Makes This Space Special
+
+🌊 Close to the Lake
+Only 3 minutes by car (or 15-minute walk) to Old Hickory Lake. Boat rentals, water sports, and peaceful views await!
+
+🛏 Dreamy Sleep
+Guests love our hotel-quality mattresses. Whether you're resting after a concert or lake day, you’ll sleep well here.
+
+🍳 Fully Stocked Kitchen
+Cook a full meal or a quick bite—our kitchen has everything you need.
+
+🍽 Cozy Dining Area
+Gather with friends or family for meals and conversation in a warm, welcoming space.
+
+📺 Spacious Living Room
+Kick back with a comfy sectional and 50” Smart TV—perfect for a night in.
+
+🚿 2.5 Bathrooms
+Plenty of space for everyone to freshen up—includes a tub and walk-in shower.
+
+🚗 Easy Parking
+Attached garage + two driveway spots. No street parking stress!
+
+📍 Location Highlights
+12 minutes from Nashville International Airport
+
+Quick drive to Downtown, Broadway, Opry, and Opry Mills
+
+Quiet area—perfect for relaxing after exploring
+
+Guest access
+🛎 Full Guest Access
+You’ll have the entire home, including:
+
+Private garage
+
+Two additional parking spots
+
+Full access to all rooms and amenities
+
+We can’t wait to host you. Questions or need local tips? Just let us know!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LiVV
+Host User ID: 307052796
+Host Profile URL: https://www.airbnb.com/users/show/307052796
+Host Profile URL Source: public user permalink from passport userId
+Live it up! LiVV homes are designed carefully to meet out guests’ needs. Our high-quality mattresses are why our customers keep coming back! Browse through our properties and book your next stay in Nashville!
+My work: LiVV
+Speaks Arabic and English
+Response rate: 96%
+Responds within an hour
+7 years hosting
+1398 reviews
+4.72 out of 5 average rating
+7 years of hosting

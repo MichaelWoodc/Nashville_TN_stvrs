@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/21296745
+Latitude: 36.11072
+Longitude: -86.80374
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville’s restaurant and music scene, quietly located mid-town, tree lined family neighborhood with free private parking. This sunny guest house is tucked away in Nashville’s GREEN HILLS;  Walking distance to upscale shops, the Green Hills Mall, restaurants, Lipscomb Univ and  12 South.  Downtown, Vanderbilt, Belmont University, and Hillsboro Village only a few miles. The Guest House has a private entrance with space for one car next to your entrance.
+
+The space
+Guests have space for one car in rear driveway.
+
+Guest access
+Guests have access to a private parking space in driveway adjacent to AIRbnb Guest House.  Your entrance door is located between garage doors.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura
+Host User ID: 111846665
+Host Profile URL: https://www.airbnb.com/users/show/111846665
+Host Profile URL Source: public user permalink from passport userId
+My husband and I moved to Nashville from the Northeast over 20 years ago. We truly enjoy all that Nashville has to offer; an abundance of all types of music venues, outdoor activities, a gorgeous botanical garden and of course southern hospitality.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+133 reviews
+4.98 out of 5 average rating
+9 years of hosting

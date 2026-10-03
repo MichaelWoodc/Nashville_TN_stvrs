@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/1648114811478323557
+Latitude: 36.0979
+Longitude: -86.7461
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay near Berry Hill in this stylish boutique Nashville retreat! Perfect for groups, this 3-bedroom home sleeps up to 8 with 4 beds and 2.5 baths. Enjoy a full kitchen, spacious living area, and free parking. Ideal for game days, concerts, or exploring Music City—comfort, convenience, and great vibes included.
+
+The space
+All of our Homes are fully equipped with!
+-Marble counter tops
+-Full baths and showers
+-Spacious open layoutEnjoy our fully equipped kitchens with marble countertops and amazing Bathrooms!
+
+First Floor:
+-> half bath
+-> laundry
+
+Second Floor:
+->Master Suite w/ King bed, Roku TV, ensuite bath
+->Living area with sleeper sofa, Roku TV
+->Full kitchen with Basics!
+
+Third Floor:
+->Queen bedroom w/ Roku TV
+->Queen Room w/ Roku TV
+->Full bath (shower/tub combo)
+
+-Wifi
+-Parking for Two Vehicles
+-Extra Street Parking
+
+Guest access
+Please Note our check-in hours are 3pm-8pm, this is when we are available for you but you're welcome to check in anytime, it is self-check in via a keypad!
+
+Other things to note
+**ABSOLUTELY NO LOUD GATHERINGS OR PARTIES, FINES/EVICTION/POLICE WILL BE INVOLVED IF NOT ABIDED BY**
+**WE DO NOT HOST LOCALS**
+
+DISCLAIMER:
+-Additional guests outside of your confirmed guest count are not allowed on our property + go against your rental agreement.
+-We have a zero tolerance policy on our property being used for ANY kind of loud gathering or party. We have cameras + security. Per your rental agreement this is grounds for eviction without question or refund + possible legal action.
+-Upon confirming your booking, you are subject to our House Rules, Rental Agreement which you sign and/or enter it upon checking in, which includes this disclaimer + much more.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Key Change Stays
+Host User ID: 76759762
+Host Profile URL: https://www.airbnb.com/users/show/76759762
+Host Profile URL Source: public user permalink from passport userId
+We are Key Change Stays!
+
+We have been in Nashville for decades and are proud to provide lodging and concierge to any who are coming through Music City! 
+
+Our themed units are perfect for your stay in Nashville!
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 93%
+Responds within an hour
+9 years hosting
+1761 reviews
+4.7 out of 5 average rating
+9 years of hosting

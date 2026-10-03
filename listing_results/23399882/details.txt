@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/23399882
+Latitude: 36.18474
+Longitude: -86.74159
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Scale a flight of stairs to a spacious garage-top apartment Oasis. Enjoy views of a private garden and flowering trees from big windows, throughout Spring and Fall. Vaulted ceilings give a sense of airiness. Create fantastic meals in a full size kitchen in the open-plan living area.
+
+Please Note: No children under the age of 12 years old allowed. Due to open staircase, indoor balcony, and not a child proof Loft.
+
+Short Term Rental Permit Number: 2/0/1/8/0/1/2/3/8/8
+
+Its perfect for couples, with or without kids, professionals on business trips or conventions. There is a stair from the entrance to the upstairs apartment. But, it's part of the experience. Everything is new including the washer and dryer. The windows are operable. Other than very cold or hot weather, enjoy great cross breezes by opening the windows. It's amazingly quiet and yet so close to all that gives East Nashville its vibe.
+
+It's a private apartment. You are completely free to use everything inside it. The door has a smart lock. Prior to your visit, you'll receive instructions. There's no need for a key.
+
+We are available as needed by phone, text or email. While we live in the house on the same property, guests have total privacy by design.
+
+Oasis is a cozy getaway in the heart of the unique neighborhood of East Nashville. The loft is walking distance to quirky retailers, local restaurants, coffee shops, and music venues. Hop on a bicycle to reach Shelby Park, Greenway, and the city.
+
+Much of what East Nashville offers is within walking or biking distance. Downtown is a short drive on local streets. If you don't bring a car, Uber is a great alternative.
+
+This Loft is accessed off an Alley.
+
+The space
+Its perfect for couples, with or without kids, professionals on business trips or conventions. There is a stair from the entrance to the upstairs apartment. But, it's part of the experience. Everything is new including the washer and dryer. The windows are operable. Other than very cold or hot weather, enjoy great cross breezes by opening the windows. It's amazingly quiet and yet so close to all that gives East Nashville its vibe.
+
+Guest access
+It's a private apartment. You are completely free to use everything inside it. The door has a smart lock. Prior to your visit, you'll receive instructions. There's no need for a key.
+
+Other things to note
+This Loft is accessed off an Alley.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Camelia
+Host User ID: 174468496
+Host Profile URL: https://www.airbnb.com/users/show/174468496
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Architect
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+578 reviews
+5.0 out of 5 average rating
+9 years of hosting

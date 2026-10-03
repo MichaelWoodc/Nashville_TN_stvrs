@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/53991756
+Latitude: 36.39055
+Longitude: -86.44589
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located and newly renovated building a block from historic Gallatin TN square. Located walking distance to shops, restaurants and so much more. Only 25 miles to Nashville. This 1 Bedroom apartment is brand new and complete with a cozy bed, fully stocked kitchen, a pull out queen sized couch, washer/dryer and new appliances. Hosts provide coffee and tea service in the kitchen, toiletries in the bathroom and a fully furnished rooftop patio!
+
+The space
+The Claiborne building is home to 3 residential apartments located on the 2nd floor and two commercial spaces at ground level.  Dogs are welcome through a reservation for a pet fee, but no cats please.  Dogs must be kept on a leash and are not to be left unattended. 
+
+Guest will provide a starter supply only and guests should purchase additional items as needed.
+
+Guest access
+Guests will access the building through the secure 2nd floor entrance and will find their private apartment entry in the vestibule. Guests will also have access to a uniquely furnished rooftop terrace, perfect for sipping morning coffee or enjoying an evening beverage while catching a sunset.
+
+Other things to note
+Parking for Airbnb guests is front of building designated and reserved with the orange cones. (Driveway parking is for long term tenants only).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 61275457
+Host Profile URL: https://www.airbnb.com/users/show/61275457
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+92 reviews
+4.97 out of 5 average rating
+4 years of hosting

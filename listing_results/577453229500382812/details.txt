@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/577453229500382812
+Latitude: 36.1595
+Longitude: -86.7741
+rental_type: Room in aparthotel
+property_type: APARTHOTEL
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Placemakr Premier SoBro, an upscale apartment-hotel delivering a one-of-a-kind experience in the heart of Nashville. Nestled in the vibrant SoBro neighborhood, our modern accommodations offer a blend of luxury and comfort. 
+
+Enjoy being just steps away from South Broadway and minutes from Bridgestone Arena, making it easy to explore the city’s best attractions. Indulge at our on-site restaurant, Cafe Intermezzo, where you can savor gourmet dishes and specialty drinks.
+
+The space
+Our two bedroom sky suites are equipped with everything you need to feel at home:
+• 2 bedrooms with plush queen beds 
+• Stunning floor-to-ceiling windows that flood the suite with natural light
+• Two full bathrooms for convenience and privacy
+• Fully equipped kitchen with all the essentials for preparing your favorite meals
+• In-unit laundry for added convenience during longer stays
+• Private balcony
+• On high floor for premium views 
+
+Photos shown are representative; floorplans may vary.
+
+Guest access
+You’ll have full use of the building's:
+•	rooftop pool 
+•	community clubhouse 
+•	modern fitness center
+•	sauna
+•	on-site support staff
+
+Other things to note
+All guests will be required to verify their identity and provide a valid credit or debit card for incidentals through our company's pre-check verification prior to check in. Prepaid cards are not accepted at this time. Guests must be at least 21 years of age to book and to check-in.
+
+•	We will pre-authorize the guest's card for  $150
+•	Government ID/National ID necessary for check-in
+•	$100 pet fee applies (max of 2 pets). This fee may be collected in parts if the entire fee is not collected when booking is initially processed through Airbnb.
+•	Payments for optional services not related to the cost of the room (like parking) will be collected via major credit or debit card by the company providing the service.
+•	Parking is available in the same building as Placemakr Premier SoBro, but operates independently of the hotel. The SoBro Tower Garage is located at 208 3rd Ave South. Parking rates below:
+
+0-1 hour: $10
+1-3 hours: $30
+3-24 hours: $50
+ 
+You do not need to purchase parking in advance. When you pull into the garage, collect a parking ticket. Scan the QR code on the ticket and follow the instructions to pay. When exiting the garage, the gate will open by reading your license place.
+
+Registration Details
+2022028284
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Placemakr Premier SoBro
+Host User ID: 446524603
+Host Profile URL: https://www.airbnb.com/users/show/446524603
+Host Profile URL Source: public user permalink from passport userId
+Looking for a hotel in Nashville? Perched above the action of downtown, Placemakr Premier SoBro delivers a one-of-a-kind experience with our modern studio, 1-, 2-, and 3-bedroom apartments. It’s more than just a space to spend the night—it’s a place to call home for as long as you’re here.
+Speaks English
+Lives in Washington, District of Columbia
+Response rate: 96%
+Responds within an hour
+5 years hosting
+3595 reviews
+4.75 out of 5 average rating
+5 years of hosting

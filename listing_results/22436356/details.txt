@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/22436356
+Latitude: 36.1718
+Longitude: -86.6876
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+PRIVATE ENTRY- Newly remodeled 1 BDRM/1 Bath Suite with full kitchen. 5 miles from the airport, Opryland Hotel and the famous lower Broadway area. 1 Bedroom with Queen bed and another queen bed in the large spacious living room. Back patio with recliners and nature setting. Private back yard for relaxing. Lrg Bathroom w/heated floors. Driveway parking.
+
+The space
+You basically have the whole downstairs to yourself. Park in the driveway and walk around to your private entrance. Full living room with large bathroom, laundry room and 1 bedroom/kitchenette combo. 2 beds, 2 couches and a lazy boy chair for relaxing.Local restaurants, gas and groceries less then a mile from the house. You can walk if necessary.
+
+Guest access
+Driveway and private entrance
+
+Other things to note
+This is a 2 level house. I live upstairs. The downstairs suite is totally private. The back porch is covered and has a great view of a wooded backyard that regularly has varied wildlife. Deer, groundhogs, hawks, the occasional fox, etc. Great place to relax with a cup of coffee in the morning or in the evenings before the nightlife begins.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rick
+Host User ID: 160590417
+Host Profile URL: https://www.airbnb.com/users/show/160590417
+Host Profile URL Source: public user permalink from passport userId
+I am a native of Nashville, Tn. Over 30 years in the Music Industry. Love to host new people in the Airbnb.
+Where I went to school: McGavock High and Belmont University
+My work: Retired/Music Biz
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+473 reviews
+4.94 out of 5 average rating
+9 years of hosting

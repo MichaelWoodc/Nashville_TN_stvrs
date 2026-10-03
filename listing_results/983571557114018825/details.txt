@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/983571557114018825
+Latitude: 36.11136
+Longitude: -86.71299
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish Desert Rose Music City 2-bedroom house with free parking and pet friendly. 10-15 minutes from the airport, and 10-15 minutes from downtown Nashville, this is a perfect crash pad for business travelers, couples and small families.  Also, features huge 1/2 acre fully fenced in yard for your furry critters to explore.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+You will have the entire home during your stay.  
+
+BACKYARD: 
+-fully fenced-in and includes chairs, a picnic table, string lights, and a fire pit.  
+
+PARKING: 
+Two car carport can accommodate one vehicle(owner's vehicle will be parked under the carport).  You may park one additional car behind your vehicle in the driveway during your stay. 2 cars max.
+
+ROOMS: 
+Each room is equipped with a charging station and sound machines with night lights as well as blackout curtains.
+
+Environmental and Eco-friendly house with natural products.
+
+KID-FRIENDLY: 
+
+✔ Pac N Play
+✔ High Chair
+✔ Baby bathtub
+✔ booster seat
+✔ step stool plus books and games for the kids
+✔ outdoor play set/swing
+
+*Please note: During the winter all live cacti are inside the house(not baby safe).  Access to the backyard is through the driveway gate(our backdoor is not accessible to guests)
+
+Guest access
+We leave one room off the kitchen locked to store personal items and supplies. Access to the backyard is thru the driveway gate.(back door not accessible to guests)
+
+Other things to note
+Owner suburban will be parked under the carport during your stay(owner will not be present).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alysse
+Host User ID: 218583483
+Host Profile URL: https://www.airbnb.com/users/show/218583483
+Host Profile URL Source: public user permalink from passport userId
+Lives in San Antonio, Texas
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+60 reviews
+4.9 out of 5 average rating
+3 years of hosting

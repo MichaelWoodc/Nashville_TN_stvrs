@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1627724397979087847
+Latitude: 36.34525
+Longitude: -86.44451
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax on a peaceful acre with a fire pit, hammock, and glowing string lights—plus the occasional sheep next door 🐑. This cozy cottage is the perfect place to unwind after a day at the lake, with the nearest marina just 4 minutes away.
+
+Enjoy the best of both worlds—quiet, open space and country vibes, all just 5 minutes from grocery stores, restaurants, coffee, and more.
+
+** Need additional space? A private 3rd bedroom may be available upon request for an added nightly fee
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alberto
+Host User ID: 747897869
+Host Profile URL: https://www.airbnb.com/users/show/747897869
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 71%
+Responds within a few hours
+5 months hosting
+6 reviews
+4.5 out of 5 average rating
+5 months of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/2666769
+Latitude: 36.1471
+Longitude: -86.8185
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy this private, renovated and beautifully decorated, bungalow cottage apartment, right in the heart of Nashville, TN.  This is a private apartment inside a large historic home. Walk to coffee shops, trendy shopping, restaurants and Centennial Park.  Within minutes of Vandy, Belmont, Hillsboro Village,  and downtown.
+
+The space
+This is a gorgeous, completely renovated, private apartment inside a large, historic cottage!  Complete with original hardwoods, built-ins and a cozy porch swing, you can walk to Centennial Park, Starbucks, drug stores, restaurants and shops.  Convenient, short bike ride to Vandy and Belmont.  Cozy, trendy furnishings and a full kitchen!  Easy parking and super convenient!
+
+Guest access
+Free parking is available right in front of the cottage. We are located in a safe and beautiful community. Uber/Lyft are great options for getting around town. Guests have a beautiful front porch swing overlooking a lush front yard and city park.  Guests can also use any of the washer/dryer units in the common basement area.
+
+Other things to note
+This is a large, one bedroom apartment located in a historic home.  You have a washer dryer area that is in a shared, common area in the basement of the home.  A queen, sleeper sofa is also in the living area if needed. A twin roll away is also available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

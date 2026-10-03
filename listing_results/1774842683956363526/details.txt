@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1774842683956363526
+Latitude: 36.1588
+Longitude: -86.8175
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this beautifully designed Nashville condo with a spacious private terrace, a rare find in Nashville. Enjoy a fully equipped kitchen, comfortable bedroom, and fast AT&T Fiber wifi, perfect for remote work or unwinding after a day out. Nestled in a quiet, well-connected pocket of the city with easy access to shops, restaurants, and major roads. Self check-in via smart lock. Ideal for solo travelers, couples, or extended stays.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Taylor
+Host User ID: 284024932
+Host Profile URL: https://www.airbnb.com/users/show/284024932
+Host Profile URL Source: public user permalink from passport userId
+My work: Musician
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+New Host
+5 reviews
+5.0 out of 5 average rating

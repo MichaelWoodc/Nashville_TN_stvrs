@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/53048340
+Latitude: 36.1956
+Longitude: -86.7743
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Jersey Shore Family Vacation House of 2024! Stay where the stars really did in Nashville's premier vacation home. 4 stories of modern luxury, Nashville's SkyHaus boasts 4 beds / 5 full baths with enough beds for 12+ guests. Large rooftop includes fire pit, grill, pool table, 85" TV, and retro viewfinder. Cook up a storm in any of our 3 kitchens, Netflix & chill in our spacious living or from any of our 5 TVs. Uber to downtown —only 3 mi to Broadway.  Includes 2 car garage + private parking pad.
+
+The space
+4 story home features 9 beds, 5 full baths, and 4 private bedrooms with 3 common spaces which include more sleeping options. Epic rooftop views with patio furniture, rooftop grill, chefs kitchen, 2 kitchenettes on floor 1 and 4 and elevator.
+
+See pictures for the above view layout of each floor.
+
+Guest access
+Guest has access to entire house except for locked closet in garage.
+
+Other things to note
+No unauthorized parties at our property. This will result in immediate eviction and $1,000 minimum fine.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexa
+Host User ID: 9730317
+Host Profile URL: https://www.airbnb.com/users/show/9730317
+Host Profile URL Source: public user permalink from passport userId
+I’ve been a Superhost since 2014 and love welcoming guests. I’ve hosted more than 5,000 Airbnb reservations and over 40,000 Airbnb guests.
+
+In the last year, nearly every stay has earned a five-star review, and I maintain a 100% response rate.
+
+I work with trusted local business and genuinely care that every stay feels community-driven, smooth, comfortable, and well thought out :)
+
+If I haven't already, I hope to host you soon!
+Born in the 90s
+My work: Chief Smile Officer
+Response rate: 100%
+Responds within an hour
+12 years hosting
+3482 reviews
+4.78 out of 5 average rating
+12 years of hosting

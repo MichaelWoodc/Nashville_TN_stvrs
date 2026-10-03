@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1705201689333818956
+Latitude: 36.2335
+Longitude: -86.7071
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The perfect mix of adventure, nature, comfort and fun! Enjoy this upgraded cabin, located at Nashville KOA Resort, where you can enjoy all of the fantastic campground amenities including the heated outdoor pools, onsite cafe, live music, pickleball, yard games, mini-golf, dog parks and more. This location offers a perfect balance of easy access to downtown Nashville with a low-cost daily Downtown Shuttle, but far enough from the heart of the city to enjoy a quiet evening around the campfire.
+
+The space
+Property Description:
+- Sleeps 7: Our pet-friendly cabin with private paw pen offers a queen bedroom, a queen size sleeper sofa, and triple bunk bed. Linens are provided.
+
+- Full Kitchen: Complete with stove, refrigerator, microwave, toaster, sink, dishware/cookware/utensils, and Keurig Coffee Maker.
+
+- Bathroom: Enjoy the convenience of a private, full bathroom (shower) with hairdryer, shampoo & conditioner, body wash, and towels.
+
+- Modern Amenities: Watch TV and stay connected with free high-speed Wi-Fi. All Cabins are also equipped with air conditioning and heating units..
+
+- Outdoor Living Space: Step outside to your private covered patio with outdoor seating. Enjoy cooking dinner on your gas grill, or time spent around your fire pit. Your pets will love spending time in their own Paw Pen!
+
+- You are reserving an accommodation type: The amenities and sleeping arrangements will be as described but the actual unit and location within the campground will vary..
+
+Guest access
+Guests will have dedicated access to the cabin and the private outdoor patio, fire pit and BBQ grill. The campground offers many amenities like pools, a fitness center, yard games, general store and laundry which are shared facilities. As a registered guest you will have shared access to all the campground amenities. Upon check-in you will receive information on the location and access to your cabin.
+
+Other things to note
+Our cabins are pet friendly with an additional fee of $25 per pet. No aggressive pets. If left unattended, they must be in a crate. Max of two pets per unit. 
+
+- Plan to have visitors during your stay?  These cabins are limited to 7 people, including guests & visitors. If the number of overnight guests on your reservation allows for day visitors, those day visitors must check in at the registration building upon arrival. Your visitors are welcome for $10 per additional adult. Visiting guests are permitted until Quiet Hours and must adhere to campground rules.
+
+-Please note that there is a maximum of two vehicles allowed per cabin.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville KOA Resort
+Host User ID: 694439186
+Host Profile URL: https://www.airbnb.com/users/show/694439186
+Host Profile URL Source: public user permalink from passport userId
+Welcome to the Music City! I’m TJ, the General Manager of Nashville KOA Resort. I have worked with KOA for over 10 years, including four years here in Nashville! I previously managed the Louisville South KOA Holiday and was an Operations Manager at the St. Petersburg KOA Holiday in Florida.
+My work: General Manager
+Pets: Goldendoodle Brooks
+Response rate: 82%
+Responds within an hour
+Superhost
+8 months hosting
+43 reviews
+4.72 out of 5 average rating
+8 months of hosting

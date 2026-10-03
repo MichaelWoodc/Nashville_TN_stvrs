@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1709052238224830315
+Latitude: 36.193819306022235
+Longitude: -86.7221853325532
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Two hangouts, one house. String lights and sunset on the rooftop deck, then head down to the garage lounge with leather sofas, neon and room for the whole crew. A king and a queen in two bedrooms, plus a sofa bed in the living room, sleep six comfortably. Two full baths keep mornings moving. East Nashville's restaurants and coffee shops are minutes away, downtown about ten, with easy parking on a quiet residential street. Birthday trips, work crews and friend weekends land here and stay put.
+
+The space
+The unit is a two-level townhome with two bedrooms, two full bathrooms, and a private rooftop deck. There's room for a group without anyone feeling on top of each other.
+Bedroom 1 has a king bed, Bedroom 2 has a queen, and the living room has a sofa bed — so it comfortably sleeps up to six. With two full bathrooms, you're not waiting in line in the morning.
+The living area is open to a full kitchen with everything you'd need to actually cook, and there's a comfortable spot to relax or work. Head up to the rooftop deck for morning coffee or to wind down at the end of the day.
+You're in the heart of East Nashville — minutes from Riverside Village, Porter East, and Five Points for food, coffee, and bars, close to Shelby Park and the greenway for walking and biking, and a short drive to downtown and Broadway.
+Free parking in the garage and on the street, fast wifi, a private entrance, and self check-in. Good for couples, friends, or families who want more space than a hotel with easy access to the whole city.
+
+Guest access
+You'll have the entire townhome to yourself — nothing is shared with the other units, including the rooftop deck, which is private to your stay.
+Park in the lot behind the unit. The trash dumpster is back there too, so you can drop garbage off easily during your stay.
+The whole place is yours start to finish, with nothing off-limits. I'm reachable by message if anything comes up, but otherwise the space is entirely your own.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

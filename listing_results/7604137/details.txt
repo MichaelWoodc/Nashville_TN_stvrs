@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/7604137
+Latitude: 36.18642
+Longitude: -86.72942
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Budget Travel Magazine calls East Nashville “Nashville’s version of New York’s East Village.”  Located in the hippest area of Nashville, great live music and the best restaurants in the city.  Less than 4 miles from Broadway; the best of both worlds.  A short Uber ride away from downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angie
+Host User ID: 34013549
+Host Profile URL: https://www.airbnb.com/users/show/34013549
+Host Profile URL Source: public user permalink from passport userId
+Always looking for a new adventure, lucky in love and family. My favorite thing to do is something I've never done before!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+Superhost
+11 years hosting
+487 reviews
+4.88 out of 5 average rating
+11 years of hosting

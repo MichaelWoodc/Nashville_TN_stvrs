@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/947141888436263956
+Latitude: 36.2014
+Longitude: -86.60177
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful place to stay. A quiet neighborhood, just minutes from the airport and downtown Nashville. 3 bedrooms, 1.5 bathroom with new beds and a full kitchen. Beautifully redone cottage that is the perfect getaway for the entire family.
+
+The space
+The house has 3 bedrooms with 2 queen beds and 1 bunk bed setup. It comfortably sleeps 4-6 people. There is one full bathroom and 1 half bath in the master bedroom. The living room has 2 couches and the kitchen has a small table as well as an island. The TV is a smart TV with access to Netflix, HBO Max, Prime, etc. The kitchen has a stove, oven, microwave, fridge, ninja blender, toaster, and keurig. There is a washer and dryer, as well as an ironing board. There is parking for 2 cars in the driveway as well as free parking in front on the street.
+
+Guest access
+There is a front and a back door, both with keyless door pads. The front entrance is preferred for ease of use.
+
+Other things to note
+This house is approved by the city of Nashville for short term rental and has passed all the codes and inspections. 
+
+Permit:  
+Residential Short Term Rental - T2023039753
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dango
+Host User ID: 133474854
+Host Profile URL: https://www.airbnb.com/users/show/133474854
+Host Profile URL Source: public user permalink from passport userId
+I am a husband, father of 4 amazing kids, a professional drummer, and I travel the world playing music.
+Born in the 80s
+Where I went to school: Belmont University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+191 reviews
+4.97 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1615236222853196714
+Latitude: 36.15895
+Longitude: -86.80544
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Elevated Midtown Retreat 
+
+Design-forward, Midtown condo in historic building that blends architectural character with modern comfort offering a stay that feels more like a boutique hotel than a typical short-term rental. With soaring ceilings, curated interiors, and access to standout shared amenities, including a hidden speakeasy cocktail lounge, plunge pool, gym, this is the ideal home base for professionals and couples seeking an elevated Nashville experience without the chaos of Broadway.
+
+The space
+Step into a thoughtfully designed Midtown residence where historic character meets modern comfort. With soaring ceilings, exposed beams, and warm layered lighting throughout, the home offers an inviting, upscale atmosphere that feels more like a private boutique suite than a typical rental.
+
+The spacious living room provides plenty of space to unwind, featuring comfortable seating, a pull-out sofa for additional sleeping space, a Smart TV, and high-speed Wi-Fi—perfect for relaxing evenings, streaming your favorite shows, or catching up on work.
+
+The primary bedroom offers a calm, restful retreat with a king-size bed, quality linens, and a dedicated workspace, making it ideal for both relaxation and productivity. Whether you’re visiting Nashville for business, medical travel, or a weekend getaway, the bedroom is designed to provide both comfort and quiet.
+
+The modern kitchen is fully equipped with updated appliances, generous counter space, and everything needed to prepare anything from morning coffee to full meals. Whether you’re in town for a quick stay or a longer visit, the kitchen is designed to make dining in easy and convenient.  For safety and peace of mind, parking is free and is in a gated parking lot.
+
+For added comfort and practicality, the unit includes full laundry facilities with a washer and dryer, allowing you to pack light and keep things fresh throughout your stay.
+
+As part of the charm of staying in a vibrant, centrally located Nashville area, you may occasionally hear a nearby train. Most guests find it blends into the background, but light sleepers may want to plan accordingly. We’ve provided a sound machine to help ensure a restful stay.
+
+Overall, the space blends architectural charm with modern functionality—creating a refined Midtown home base that’s comfortable, stylish, and easy to settle into from the moment you arrive.
+
+Guest access
+Guest can use the entire space as their own during their stay. Additionally, guests may use the amenities on property including the gym, seasonal plunge pool and outdoor bar and grills. 
+
+The 1865 Club is a speakeasy located on the bottom floor of the adjacent building that guests may also enjoy.
+
+Registration Details
+Permit #: 2026008971
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Luke
+Host User ID: 744702011
+Host Profile URL: https://www.airbnb.com/users/show/744702011
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: Royal Melbourne Institute of Technology
+Response rate: 100%
+Responds within an hour
+Superhost
+7 months hosting
+25 reviews
+5.0 out of 5 average rating
+7 months of hosting

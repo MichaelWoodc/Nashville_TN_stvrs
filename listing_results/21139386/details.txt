@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/21139386
+Latitude: 36.13979
+Longitude: -86.7937
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Music Row, minutes from downtown! Our historic Edgehill Village home has a completely private 2nd floor for you: 2 bedrooms, luxurious memory foam beds, Claritin pillows, private bath, mini kitchen (full fridge, ice on demand, 2 burner stove, microwave/mini oven, hot pot, coffee pot, toaster) living room & balcony for morning coffee! 2 blocks from coffee shops, many affordable, hip restaurants, blocks from Belmont & Vanderbilt! Our home is rich with character and history!
+
+The space
+Beautifully vaulted ceilings throughout this renovated space, reclaimed  french doors open to a lovely living area with a loveseat, recliner, hardwood floors and a new full sized fridge with ice on demand. We offer a nice mini kitchen with a 2 burner stove, coffee nook, and fancy mini oven/microwave to cook or bake just about anything! Our beds have memory foam mattresses with fluffy comforters for a good night's sleep, with new energy efficient and noise-canceling windows offer a peaceful environment in the heart of the city! (Note: your entrance is at the top of one flight of outside stairs, shown in the photos.)
+
+Guest access
+The entire upstairs of the house is yours with a private with a locked entry. Also a locked gate to enter the back courtyard for additional security. (You need to be able to climb one flight of stairs, shown in photos.)
+
+Other things to note
+Willie Nelson wrote the song "Crazy" two blocks from our home! If you are a Garth Brooks fan, he is the co owner of Allentown Studios, which is two blocks away! You might even get to see him! :) Our street has been the home of many famous musicians and artists, including Brothers Osborne and guitarist John Jorgenson!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David Joseph
+Host User ID: 96454758
+Host Profile URL: https://www.airbnb.com/users/show/96454758
+Host Profile URL Source: public user permalink from passport userId
+Mary Sue and her husband David are both touring musicians. Mary Sue is a songwriter with 5 self penned albums and she is also an author of her first book. David is a lead guitar player and both of them perform downtown so come and catch a show!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+419 reviews
+5.0 out of 5 average rating
+9 years of hosting

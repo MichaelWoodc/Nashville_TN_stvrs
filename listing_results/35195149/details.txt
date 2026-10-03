@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/35195149
+Latitude: 36.19554
+Longitude: -86.77181
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Very trendy bachelor/bachelorette or family retreat! BEAUTIFUL LUXURIOUS  UNIT! Only 3 minutes to Nissan Stadium and 6 minutes to Broadway!
+3 bedrooms and 3.5 bathrooms with ROOFTOP! This home has an open floor plan with a fully equipped kitchen. The rooftop has a BREATHTAKING view of the NASHVILLE SKYLINE and it's equipped with a grill, fun games and a bar cart to entertain.
+It is time to make unforgettable memories in beautiful Nashville, MUSIC CITY! We look forward to hosting you!
+
+The space
+Trendy, clean, minutes from downtown Nashville!
+
+Guest access
+Living spaces, garage and rooftop.
+
+Other things to note
+There are 3 bedrooms and two pull out couches for a total of 7 beds.
+
+Bedroom 1: Two Twin beds 
+Bedroom 2: Two Queen beds
+Bedroom 3: One King bed
+Couches: Two Twin pull out beds
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eva Angelina
+Host User ID: 71199932
+Host Profile URL: https://www.airbnb.com/users/show/71199932
+Host Profile URL Source: public user permalink from passport userId
+Entrepreneur/Real Estate/Inspirationalist/Travel/Fitness/Fashion
+Where I went to school: California State University Northridge
+My work: Entrepreneur/CEO
+Response rate: 90%
+Responds within an hour
+Superhost
+7 years hosting
+159 reviews
+4.87 out of 5 average rating
+7 years of hosting

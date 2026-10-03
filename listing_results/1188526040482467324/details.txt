@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1188526040482467324
+Latitude: 36.16813
+Longitude: -86.80066
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 10
+beds: 13
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in 2 modern homes. 10 bedrooms (10 King beds), 6 baths, 2 half baths, 13 beds, and 2 Rooftops. You'll be just 5 minutes away from Broadway and Nashville's Downtown core, where you'll discover all the best attractions in Music City! These homes have it all and are beautifully decorated with designer finishes. You'll enjoy a beautiful large open floor plan living and dining space, and complete kitchen. The rooftops include a FIREPLACE and grill!
+STRP#202101174 & #202101174
+
+The space
+Bed Layouts in each home: Downstairs Two Bedrooms with King Beds, Primary Bedroom upstairs with  King Bed and ensuite bath, Two additional Upstairs Bedrooms with King Beds,  Sleeper Sectional Futon in one bonus room and  Queen Sleeper Sofa in Downstairs Living Rooms. The first floor is an open floor plan kitchen, living, dining areas with a long hallway off the areas leading to the first floor bedrooms and stairs to the upper level.  There is an attached two car garage at the rear of each home as well as large driveway parking.
+
+Guest access
+Guests have access to the two entire private homes and attached two car garages.  There is a smart lock with unique code for each stay, as well as security system and entry cameras.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura & The Music City Collection
+Host User ID: 69852847
+Host Profile URL: https://www.airbnb.com/users/show/69852847
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3263 reviews
+4.88 out of 5 average rating
+10 years of hosting

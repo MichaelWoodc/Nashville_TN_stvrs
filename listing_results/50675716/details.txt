@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/50675716
+Latitude: 36.16739
+Longitude: -86.86437
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A home away from home. Memory foam mattresses deck out each bedroom and the couch is the perfect place to spread out. Our neighborhood is homy, but only 4 miles from downtown. The ease of access to the highway means you can get to the airport and any other part of Nashville without hassle.  The neighborhood itself is stacked with craft beer, neighborhood restaurants, and food for every time of day. The house is a crash pad for adventuring around the city, or a place that makes you feel local.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniella
+Host User ID: 397230859
+Host Profile URL: https://www.airbnb.com/users/show/397230859
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+93 reviews
+4.92 out of 5 average rating
+5 years of hosting

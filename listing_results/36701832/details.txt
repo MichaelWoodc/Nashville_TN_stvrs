@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/36701832
+Latitude: 36.17732
+Longitude: -86.78838
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Get away to Germantown! Nashville foodie destination in an historic walking neighborhood. Close to all downtown attractions, easy access to all Nashville has to offer.   Come stay in a newly remodeled 1800's era home with modern amenities, and use it as a base to explore all that Nashville has to offer including, the Sounds or Titans Stadium, local retailers, the Farmer's Market, and more.  Parking in Nashville can be a challenge, but our 2 car garage will make it a breeze.  Welcome!
+
+The space
+Our home has been here since the late 1800s, and was at one time a recording studio that had Motown & country greats visiting to record here.  Renovated and expanded in 2013, it has the charm of the past, with the conveniences and comforts of the present.  Relax and enjoy!
+
+Guest access
+One of the most charming things about the Germantown district is how the neighborhood is set up to be a consistent mix of commercial and residential spaces.  Like it's neighbors, this property has commercial space in the front and residential space in the back and upstairs.  Residents will come and go through the garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Byron
+Host User ID: 36665355
+Host Profile URL: https://www.airbnb.com/users/show/36665355
+Host Profile URL Source: public user permalink from passport userId
+Dad, husband, actor, IT guy, musician, traveler.
+Speaks Italian
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+128 reviews
+4.95 out of 5 average rating
+7 years of hosting

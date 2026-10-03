@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/7823039
+Latitude: 36.13771
+Longitude: -86.79408
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music Row Cottage, a charming Nashville retreat located in the heart of the legendary Music Row. This prime location puts you steps from iconic recording studios, Vanderbilt University, and Midtown dining, while still offering a quiet, residential feel once you’re home.
+
+The space
+Music Row Cottage is a charming, single-level home that blends classic cottage character with modern comfort. The thoughtfully designed layout includes two bedrooms and two full bathrooms, offering both privacy and flexibility for couples, friends, or small families.
+
+The living area is centered around a cozy fireplace that makes the space especially welcoming. Comfortable seating and a relaxed layout make it easy to unwind after a day out or enjoy a quiet night in.
+
+The fully equipped kitchen includes everything needed for cooking at home, from everyday cookware to essentials for coffee and meals. Each bedroom is designed for comfort with quality bedding and storage, while the two bathrooms provide added convenience.
+
+A large private backyard, offers plenty of space to relax, unwind, or enjoy time outdoors.
+
+Country Music Hall of Fame and Museum: 2.5 miles
+Ryman Auditorium:  2.5 miles
+Broadway & Broadway Honky Tonks: 2 miles
+
+Guest access
+Entire house accessible!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 40995602
+Host Profile URL: https://www.airbnb.com/users/show/40995602
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+358 reviews
+4.85 out of 5 average rating
+11 years of hosting

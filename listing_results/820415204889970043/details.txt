@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/820415204889970043
+Title: New - Nashville Nations!  Min to Broadway!
+Latitude: 36.1649
+Longitude: -86.8537
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 0
+occupancy: 5
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Have fun with the whole family at this stylish place.  Fantastic property that sleeps up to 6!  Located in the highly desirable Nations of Nashville!  Walkable to fantastic hangouts and restaurants located nearby!  If Honky tonks are your thing, this property is minutes to all that Broadway has to offer!  Close to Nashville's best eateries, cafes, and shopping. Nearby: Frothy Monkey, Deli 51, Ugly Mugs, Nicky's Coal Fired Pizza and Pasta, Jeni's Ice Cream, Daddy's Dogs, Hattie B's and More!
+
+The space
+One bedroom in the heart of the Nations!  This is a fastest growing area for young professionals within minutes of downtown!  **Need more space or are the dates you need booked already?  Ask about our other property located in the building next door!
+
+Guest access
+Entire condo.
+
+Other things to note
+Secured entrance, Elevator
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Donna
+Host User ID: 296362514
+Host Profile URL: https://www.airbnb.com/users/show/296362514
+Host Profile URL Source: public user permalink from passport userId
+Lives in Murfreesboro, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+231 reviews
+4.95 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/32660278
+Latitude: 36.13842
+Longitude: -86.76515
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Light, airy, relaxing loft above a hat making studio. Perfect for couples getaways or solo travelers looking for a central location to unwind after a day exploring the city. Located in Wedgewood-Houston. Walking distance from some of the city's best bars, cafes, art galleries, distilleries and restaurants.
+
+The space
+On the second story, accessible by stairs. Scandinavian inspired design, with white wooden floors.  King size bed with plush mattress and allergy-free pillows. There are outlets on both sides of the island, so you can plug in your laptop and have a nice place to work. TV with Netflix and Hulu. You can park up to two cars in the driveway, or use street parking. Absolutely no smoking on property. The apartment is above a hat making studio, there may be occasional sewing machine noise before 6pm during the week.
+
+Other things to note
+Please note: there is absolutely no smoking on property. Unit contains a microwave but no oven/stove. Please read through amenities and rules before booking. Have a great time in Nashville!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anna
+Host User ID: 1763672
+Host Profile URL: https://www.airbnb.com/users/show/1763672
+Host Profile URL Source: public user permalink from passport userId
+I love movies, road trips, and vegan eats.
+My work: Designer/Curator
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+197 reviews
+4.96 out of 5 average rating
+8 years of hosting

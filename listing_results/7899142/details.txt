@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/7899142
+Latitude: 36.17529
+Longitude: -86.74597
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our private, modern loft is located just steps from East Nashville's "5 Points" district, which is host to the cities best food, drinks, and shopping. The loft is completely private, with its own queen sized bed, bathroom, and kitchenette.
+
+There are 2 children and a dog (golden retriever) that live in the main house and may be playing in the backyard on occasion.
+
+The space
+The loft is outfitted with a Queen sized bed, living room area, kitchenette, and a full bathroom. Please bring an air mattress if you are traveling with a group of 3 or 4 as the sofa is not large enough to sleep on.  There are also motion lights surrounding the loft for ease of access and safety.
+
+There are 2 children that live in the main house and may be playing in the backyard on occasion.
+
+Guest access
+The loft is completely private and separate to the main house, so you will have the space to yourself once you arrive. Feel free to use our back deck and backyard if you would like to.
+
+Other things to note
+We love to eat and drink in Nashville, ask us about our favorite spots!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Drew
+Host User ID: 584791
+Host Profile URL: https://www.airbnb.com/users/show/584791
+Host Profile URL Source: public user permalink from passport userId
+Travelers and Eaters of Good Things. Fans of Baseball, Architecture, Art, Design, and History. Favorite European travel destinations include: Copenhagen, Budapest, Amsterdam. Favorite U.S. cities include: Detroit, NYC, Charleston, SC, San Francisco, Seattle.
+
+We're on a quest to visit all 50 states and 7 continents. So far we've been to 47 states and 2 continents. The quest continues!
+My work: Architectural Historian
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+12 years hosting
+586 reviews
+4.82 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/46607590
+Latitude: 36.36226
+Longitude: -86.72498
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music City Getaway!
+
+Beautiful and cozy single level home with 3 Beds and 2 Baths.  Located in a quiet neighborhood less than two miles from the interstate making access to Nashville and surrounding attractions easy to get to. Perfect space to gather and create lasting memories! Complete with a fenced in backyard, ping pong table, washer/dryer & fully stocked kitchen! 
+
+We aim to provide the highest level of hospitality and cleanliness. Please, make yourself at home, relax and enjoy!
+
+The space
+Be sure to ❤️ our listing to your Airbnb Wish List so you can find us easily next time! 
+
+⭐️ 20 mins to downtown Nashville
+
+BEDROOMS
+⭐️Bedroom #1 King Size Bed, en-suite bathroom, 50” Roku HD TV
+⭐️Bedroom #2 Queen Size Bed
+⭐️Bedroom #3 King Size Bed
+
+Guest access
+Entire Property is included in this listing. 
+
+Check-in via electronic keypad lock located on the front door. Access code will be sent one hour prior to arrival.
+
+Other things to note
+Please treat our house with respect. If any problems arise, we will do our best to take action ASAP. We hope you have a great stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bret
+Host User ID: 230819613
+Host Profile URL: https://www.airbnb.com/users/show/230819613
+Host Profile URL Source: public user permalink from passport userId
+Hey Everyone, 
+
+My name is Bret. I am a local Nashville Realtor that loves Music City.  I moved here 20 years ago and have watched Nashville explode in popularity.  I hope you enjoy your stay and Nashville!
+Where I went to school: Marshall
+My work: Realtor
+Response rate: 100%
+Responds within an hour
+6 years hosting
+162 reviews
+4.94 out of 5 average rating
+6 years of hosting

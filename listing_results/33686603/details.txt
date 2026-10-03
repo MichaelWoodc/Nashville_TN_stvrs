@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/33686603
+Latitude: 36.08278
+Longitude: -86.63228
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+details to note: The main house is generally occupied by a travel nurse who rents that space.  ***There are dogs in the space of the main house UNTIL DEC 12, 2024.***
+Welcome to your own Nashville Nest. Garden level private suite attached to the house with keypad entrance. NO SHARED AREAS. Plan your day in the sunroom before exploring all that Nashville has to offer. The living room provides a cozy fireplace and a massage chair. 1 Queen bed, 1 roll-away bed. Kitchenette with amenities
+
+The space
+Peace and Tranquility
+Karen, guest review, "We desperately needed an ambiance where total relaxation was achieved. The bed was very comfortable, Beauty Rest pillows, hot showers, cozy gas Fireplace, and a massage chair for my aching muscles! In addition, we enjoyed further peaceful relaxation on a huge, light & bright, glass enclosed porch which was nestled in privacy."
+
+Guest access
+Private keypad entrance.
+
+Other things to note
+The upstairs main house is rented to travel nurse with pets allowed, but there are no shared spaces. You will not need to interact with renter in the main house.  During your stay you may hear a dog.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tom And Sue
+Host User ID: 15053561
+Host Profile URL: https://www.airbnb.com/users/show/15053561
+Host Profile URL Source: public user permalink from passport userId
+Tom is a registered nurse and Sue is an artist and art teacher.  Son, Tommy (your personal host)  is a musician and bar tender.  On weekends you could find Tom and Sue playing music together at a local farmer's market.  You'll really appreciate Sue's artwork when staying at the Nest!
+Lives in Buffalo, Minnesota
+7 years hosting
+68 reviews
+4.97 out of 5 average rating
+7 years of hosting

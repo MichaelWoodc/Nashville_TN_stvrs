@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1670464021956673698
+Latitude: 36.05299
+Longitude: -86.57358
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 1
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Got a bigger crew? No problem. Our two-bedroom Aqualodge with sleeper sofa fits up to six, so no one has to sit this trip out. Two bedrooms plus a pullout sofa means everyone gets a good night's sleep — and everyone wakes up to the same stunning view of Priest Lake right from the porch. Fire up the full kitchen for a group breakfast, claim your spot on the deck, and settle in for the kind of laid-back lake trip that's hard to top. The more, the merrier — and the more lake, the better.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Four Corners RV Resort
+Host User ID: 1670459448578044280
+Host Profile URL: https://www.airbnb.com/users/show/1670459448578044280
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+4 months hosting
+9 reviews
+4.11 out of 5 average rating
+4 months of hosting

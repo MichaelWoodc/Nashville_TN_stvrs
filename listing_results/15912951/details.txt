@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/15912951
+Latitude: 36.17128
+Longitude: -86.79296
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Less than 2 miles from Nasvhille's renowned entertainment district, Lower Broadway and Bridgestone Arena! Guests will sleep comfortably in one of the 2 King Bedrooms or Queen Bedroom. There are 2 full bathrooms upstairs and a half-bath on the main floor. The couch can sleep two, not side by side, or there are several air mattress also available. The stunning downtown views from the back decks will take your breath away! Only a short walk to Farmers Market, Centennial Park and Nashvill
+
+The space
+SAVE BIG compared to staying at a hotel. Why spend $500+ or more a night on hotel rooms when you could stay in a spacious house where you can enjoy all the comforts of home, including wifi and stress free parking!? Big enough for a large family, cozy enough for a small one!
+
+Guest access
+Guests have access to entire house.  Ample street parking and dedicated off street if needed.
+
+Other things to note
+You are 2 miles or LESS to the heart of Nashville!
+2 MI to Nissan Stadium (Go Titans!)
+1.7 MI  to the Country Music Hall of Fame
+1.6 MI to the Historic Ryman Auditorium
+1.5 MI to Bridgestone Arena (AKA SMASHVILLE when the Preds play!)
+1 BLOCK to Centennial Park and the Farmers Market (Open everyday!)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 941615
+Host Profile URL: https://www.airbnb.com/users/show/941615
+Host Profile URL Source: public user permalink from passport userId
+New to Nashville from the sunny beaches of Destin Florida. Loving the change of pace and all the city that has the offer. Come visit and go Preds!!!
+My work: Pharmacist
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+247 reviews
+4.98 out of 5 average rating
+15 years of hosting

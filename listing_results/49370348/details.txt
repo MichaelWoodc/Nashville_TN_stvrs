@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/49370348
+Latitude: 36.16364
+Longitude: -86.85276
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to “The Nations’ Condo” ! We are located steps away from local Coffee Shops, Restaurants, and approximately 10 minutes to downtown! Inside you will find modern living, minimalist design, and an open-concept kitchen and living area.The Bedroom has a queen size bed and the living room has pull-out sofa (full size ) to accommodate up to 4 guests. Free parking at the building.
+
+The space
+We provide everyday essentials such as; body wash, lotion, iron, full ironing board,blankets, towels, dishes, and other kitchen essentials. There is also a wash and dryer in unit and free WiFi
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tara
+Host User ID: 275111633
+Host Profile URL: https://www.airbnb.com/users/show/275111633
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+43 reviews
+4.91 out of 5 average rating
+5 years of hosting

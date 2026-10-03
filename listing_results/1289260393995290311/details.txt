@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1289260393995290311
+Latitude: 36.164037161502804
+Longitude: -86.8018636239392
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our spacious 4-bedroom, 2-bathroom home, perfect for families or groups. This budget-friendly gem offers comfortable living with all the essentials for a great stay. Located in a transitional neighborhood, you'll experience a mix of local charm and ongoing revitalization. Enjoy easy access to popular attractions, dining, and entertainment. Our home provides a cozy retreat with ample space, modern amenities, and free parking for one car. Ideal for those seeking value and convenience.
+
+The space
+Welcome to your perfect Nashville getaway! Our spacious 4-bedroom apartment is designed with a charming and chic girly aesthetic, adorned with beautiful blue and gold accents that create a cozy yet playful atmosphere. Nestled in the heart of Nashville, this centrally located gem is just a stone's throw away from the vibrant Marathon Village.
+
+Our location provides the unique advantage of being close to downtown while remaining budget-friendly for our guests. Situated in an up-and-coming area just minutes from vibrant Broadway, our property offers both convenience and affordability.
+
+Nashville, like many larger cities, boasts a diverse population within its downtown, and our neighborhood reflects this diversity. It's a dynamic experience, somewhat similar to the lively atmosphere one might encounter while visiting a larger city. 
+
+Our goal is to ensure that everyone has a safe, positive and enjoyable time while staying with us in Music City. Our team is available throughout your stay should you have any questions or feedback.
+
+Guest access
+Entire home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hughes
+Host User ID: 650637910
+Host Profile URL: https://www.airbnb.com/users/show/650637910
+Host Profile URL Source: public user permalink from passport userId
+My name’s Hughes and traveling is one of my favorite things to do. Looking forward to hosting my fellow travelers!
+Born in the 80s
+Where I went to school: Middle Tennessee State University
+Response rate: 100%
+Responds within an hour
+2 years hosting
+803 reviews
+4.74 out of 5 average rating
+2 years of hosting

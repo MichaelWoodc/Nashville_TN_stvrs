@@ -1,0 +1,106 @@
+URL: https://www.airbnb.com/rooms/1558817198329565796
+Latitude: 36.14853
+Longitude: -86.77702
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 0
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Nashville at this stylish 1BR apartment, just a short walk to The Gulch, Broadway, Music City Center, and Bridgestone Arena. Featuring a queen bed, pullout sofa, air mattress, and space for up to 6 guests, this modern retreat offers a fully equipped kitchen, high-speed WiFi, and access to a stunning infinity pool with skyline views. Perfect for couples, friends, business travelers, and weekend getaways.
+
+The space
+Stylish Nashville Retreat Near The Gulch
+
+Experience Music City from this modern and thoughtfully designed 1-bedroom apartment featuring bold décor, upscale amenities, and an unbeatable walkable location.
+
+Sleeping Arrangements
+
+🛏️ Bedroom
+
+Queen bed with comfortable linens
+
+🛋️ Living Area
+
+Queen pullout sofa
+Queen air mattress
+
+👥 Accommodates up to 6 guests
+
+Living & Kitchen Space
+
+🖤 Stylish black-and-white design with vibrant yellow accents
+
+🍳 Fully equipped kitchen with stainless steel appliances
+
+🛋️ Comfortable living room with natural light and modern finishes
+
+📶 High-speed WiFi for work and entertainment
+
+Building Amenities
+
+🏊 Infinity pool with Nashville skyline views
+
+💪 24/7 fitness center
+
+🚗 Secure parking available for $35 per night
+
+Walkable Nashville Location
+
+🚶 5 minutes to The Gulch
+
+🎶 10 minutes to Broadway
+
+🏢 12 minutes to Music City Center
+
+🏒 15 minutes to Bridgestone Arena
+
+🏈 20 minutes to Nissan Stadium
+
+Permit #2025045063
+
+Guest access
+Guests will have private access to the entire apartment along with shared access to the building's amenities, including the infinity pool, fitness center, lobby, and common areas.
+
+For security and building policy reasons, one key fob will be provided for your stay. The key fob can be used to access the building and applicable common areas.
+
+Please note that only one key fob is provided per reservation, so we recommend coordinating access with your group in advance.
+
+Other things to note
+Please note that building amenities such as the pool, fitness center, elevators, and laundry facilities are managed by the building and may occasionally be unavailable due to maintenance or unforeseen circumstances. Refunds cannot be provided for temporary amenity closures.
+
+Additional Information:
+
+🏢 Building amenities and common areas are shared with other residents and guests.
+
+📹 Security cameras are located in common areas including the courtyard, parking areas, lobby, sky lounge, and pool area.
+
+🔑 One key fob is provided per reservation. Additional key fobs are not available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amos
+Host User ID: 729251609
+Host Profile URL: https://www.airbnb.com/users/show/729251609
+Host Profile URL Source: public user permalink from passport userId
+Hey, I’m Amos 
+I started in nursing, where I learned the importance of care, comfort, and paying attention to every detail. That path led me into entrepreneurship, and hosting became the perfect blend of both. I love creating spaces that feel calm, clean, and intentional ✨
+My goal is to make your stay smooth, warm, and memorable. Welcome in!
+Born in the 00s
+My work: Self Employed
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+20 reviews
+4.75 out of 5 average rating
+10 months of hosting

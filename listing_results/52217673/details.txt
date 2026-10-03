@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/52217673
+Latitude: 36.15915
+Longitude: -86.80741
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 1
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Look to the Vest Room Bro Oh for the best rates on this property along with 5 star reviews.  Search for The Jezebel at The 1865 (**1-9-2-2-4-9-4%%%) 
+
+The Jezebel at the 1865 welcomes you to Nashville.  A historic tobacco barn dating back to 1865 less than 5 min to Broadway with FREE parking, pool, party bar, Sky Deck, fitness room & own W/D.  Relax with a King in master & premium king pullout.
+
+The space
+Urban loft vibe with midcentury modern undertones give this property a unique and comfortable feeling.  Enjoy the ideal Nashville location with luxury amenities and only:
+* 2.0 miles to Broadway
+* 2.1 miles to Bridgestone Arena
+* 2.2 miles to Music City Center
+* 2.7 miles to Ascend Amphitheater 
+* 2.8 miles to LP Field
+* 0.8 miles to Marathon Music Works
+* 2.4 miles to Germantown
+* 0.7 miles to Vanderbilt University
+* 2.0 miles to Belmont University
+*2.3 miles to Nashville Symphony at the Schermerhorhn
+
+During your stay, you will enjoy:
+
+* party pool
+* FREE gated parking
+* party bar
+* 4th floor Sky Deck
+* BBQ grills
+* Washer and dryer in unit
+* King bed with luxury linens in master
+* premium King sized sleeper sofa
+* hair dryer
+* luxury bath essentials
+* Free internet
+* 50 inch TV with u-tube TV
+* Full sized kitchen with dishwasher, microwave, induction stove, refrigerator with ice maker and filtered water
+* pool towels provided
+* extra linens and bath towels
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 57897798
+Host Profile URL: https://www.airbnb.com/users/show/57897798
+Host Profile URL Source: public user permalink from passport userId
+Lives in Brentwood, Tennessee
+7 years hosting
+6 reviews
+4.83 out of 5 average rating
+7 years of hosting

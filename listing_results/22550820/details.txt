@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/22550820
+Latitude: 36.14269
+Longitude: -86.76374
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 10
+beds: 31
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+* PRICE INCLUDES ALL 4 UNITS! *
+
+Superhost for 5 years brings you these Beautiful luxurious NEW townhouses with an AMAZING Nashville Skyline view ROOFTOPS
+
+- 1 Mile to Downtown Nashville
+- Gated Community
+- Large space for 34 guests comfortably 
+- Fully equipped kitchens
+- High-speed internet
+- 2 car garages + 4 Reserved parking
+- Huge Rooftops with TV, comfortable patio furniture, chaise lounges. Breathtaking Skyline view
+- $7-10 Uber/Lyft ride to Broadway and all the hot locations
+
+The space
+The Layout of each townhome is similar, each with its own unique set of benefits and features.  
+
+• Each space has a fully equipped kitchen complete with dinnerware, pots and pans, and a Keurig coffee maker. Coffee included!  
+• The living rooms have pull-out sleeper sofas with bedding provided so that’s one less thing you have to worry about packing! 
+• The second floor of each unit has all the bedrooms and full baths. The bathrooms come with towels for your convenience. 
+• Washer/Dryer in all units if you find yourself needing those accommodations. Detergent is included.  
+• Select units have balconies overlooking the courtyard. Inquire for specific listings. 
+• Our favorite part of these units is the 2 rooftops that give you a view of Nashville’s skyline. Flat-screen TVs line the walls. Plenty of seating for all! 
+• This location offers a great view of Nashville’s Nationally acclaimed fireworks show. 
+• Garage available for you if you decide to get a rental. Some parking is available inside the gated community and ample street parking.
+
+Guest access
+You'll have full access to the entire units
+
+Other things to note
+You will receive a welcome message with all the necessary information including the access codes 48 hours before your arrival.
+
+* GREAT FOR LARGE GROUPS *
+We own many units in the complex. Large beautiful NEW townhomes with the capability of holding 50+ guests. We have accommodations that can fit any group size, so please inquire and we will find the best option for you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

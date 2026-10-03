@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/7399827
+Latitude: 36.13843
+Longitude: -86.78669
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1 mile to downtown. Walk, bike or scooter to 12 South, the Gulch, Vanderbilt, Belmont, and Hillsboro Village. Sunny deck, comfy seating amenities, and convenient location.
+
+The space
+Corner unit of a brick triplex with a deck and a gated courtyard.
+Fully equipped with microwave, toaster, coffee maker, small dining table, and washer dryer.
+Private has chairs and a table, a nice hangout for your morning coffee or evening cocktail.
+
+Guest access
+The courtyard is available for frisbee and sunbathing.
+For those with mobility issues, the front entrance has a handrail and 10 steps, or you can enter from the alley where there is free parking and the gate entrance is level. The front door entrance has 3 stairs up the deck.
+
+Other things to note
+** I am in compliance with the law of Metropolitan Government of Nashville and Davidson County regarding short term rentals, Permit No(URL HIDDEN)**
+
+Occupancy is limited to guests listed in the reservation, and extra people, parties, or loud music will result in immediate cancellation of booking. We use Noise Aware monitoring.
+
+Registration Details
+201620742
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deidre
+Host User ID: 21895643
+Host Profile URL: https://www.airbnb.com/users/show/21895643
+Host Profile URL Source: public user permalink from passport userId
+I'm a traveler, I'm curious about people, and I enjoy a good conversation where I get to learn something new!
+Where I went to school: Vandy
+My work: Filmmaking
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+1707 reviews
+4.82 out of 5 average rating
+11 years of hosting

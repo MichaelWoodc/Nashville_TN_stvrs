@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/20156393
+Latitude: 36.1475
+Longitude: -86.7617
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private bedroom and shared full bath available in a brand new two-story house with a large open kitchen, located 5 minutes away from downtown Nashville's entertainment district.
+
+The space
+Thank you for considering my home for your Nashville visit!
+
+The House: Brand new spacious and luxurious home, outfitted with oak floors, large bedrooms, and an open kitchen with granite countertops. There is a wrap round fence with a quaint front porch. Everything is brand new and I want you to enjoy the space as if you were visiting your favorite gal pal! 
+
+Your Room: 12'x10' second floor bedroom with beautiful hardwood floors, 2 large windows for natural light, and comfortable full size bed. A clothing rack with hangers is available as there is no closer access.
+
+*Your Bathroom: Gorgeous tub/shower combo with gray tiles, granite countertop, towels, and basic toiletries (shampoo, conditioner, and body wash). 
+
+*The Bathroom could be shared with other guests.
+
+Guest access
+I will provide you a code to the keypad so that you can come and go as you please. Complimentary WiFi, use of kitchen that includes dishes, cutlery and fridge, living room, and brand-new washer/dryer. The TV has a HDMI hookup but there is no cable. 
+
+If you plan to cook while visiting, please let me know in advance so I can clear out space in my fridge for you!
+
+Shared spaces include living, kitchen, dining, bathrooms, and laundry room.
+
+During your stay
+I live in the house and will be around during your stay.  I am deeply involved in the community so I am always on the go. Feel free to come and go as you please. I'm happy to provide recommendations for restaurants, sights, or any question you have on your mind. Everyone who visits calls me for suggestions!
+
+Other things to note
+My rates include city taxes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Terry
+Host User ID: 5394620
+Host Profile URL: https://www.airbnb.com/users/show/5394620
+Host Profile URL Source: public user permalink from passport userId
+I’m Terry and I live in Nashville, TN. I have a passion for travel, food, photography, & music. I host a book club. We’re currently reading The Emperor of Gladness by Ocean Vuong. I have lived in Japan & Australia & traveled to 47 countries. I'm one continent short of my goal of visiting all 7. If you've been to Antarctica, please share any tips! Can’t wait to host you & provide a warm smile & home to you!
+Where I went to school: Uni of Arkansas & Uni of Queensland
+My work: Nonprofit Leader
+I spend too much time: writing out my to do lists
+For guests, I always: Share local recommendations
+Pets: I’m allergic to cats and dogs!
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+648 reviews
+4.9 out of 5 average rating
+9 years of hosting

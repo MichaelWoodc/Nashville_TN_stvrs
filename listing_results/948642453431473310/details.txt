@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/948642453431473310
+Latitude: 36.1709
+Longitude: -86.7969
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 13
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the ultimate Nashville getaway with not one, but TWO stunning homes side by side, exclusively for your group. With a total of 8 bedrooms and 8 bathrooms, our luxurious accommodations are perfect for family gatherings, corporate retreats, reunions, or a getaway with friends. Located right on 11th Avenue near downtown Nashville, our homes offer the perfect blend of convenience and comfort.
+
+The space
+Each home boasts 4 spacious bedrooms and 4 modern bathrooms, ensuring ample space and privacy for everyone in your group. Our prime location puts you just minutes away from Broadway's famous honky-tonks and the vibrant energy of downtown. Explore nearby hotspots like The Gulch, Midtown, and East Nashville, all within close proximity.
+
+Enjoy the convenience of carport and street parking, making it easy for everyone to come and go as they please. Each home is equipped with a washer and dryer, ensuring you have all the amenities you need for a comfortable stay. Prepare delicious meals in the full kitchens of both homes, creating a true home-away-from-home experience.
+
+Guest access
+Nice to meet y'all! We're Kalos Dwellings - we're two husband and wife duos, but best friends above all. We're Nashville locals and here to serve. We're happy to host you and invite you into our little corner of Nashville. 
+
+Kick back, relax, and get comfortable in the spacious and inviting surroundings of your home away from home. Whether you're traveling with family, friends, or enjoying a solo retreat, our goal is to provide you with a seamless experience where you can create lasting memories.
+
+Other things to note
+- Parking: There is a parking pad located behind the home with space for 2 vehicles. 
+- Minimum age to rent the home is 25.
+- Apologies, no furry friends are allowed at the home. We appreciate your understanding on this.
+- Vacation disruptions can be a bummer. While it doesn’t happen often, you may experience issues with Wi-Fi. We are not responsible for any disruptions to the Wi-Fi service or any construction that may affect your experience. Please note that such occurrences are beyond our control, and we appreciate your understanding and patience in these matters.
+
+
+This home is proudly managed by Kalos Dwellings, we're excited to welcome you into our lil slice of Nashville. Please don't hesitate to reach our if you have any questions at all.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalos Dwellings
+Host User ID: 351901804
+Host Profile URL: https://www.airbnb.com/users/show/351901804
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Sarah and I am one of the co-founders of Kalos Dwellings along with my husband, Dustin, and our best friends, Aaron and Tara.  
+Our entire team of hosts are here for anything you need during your stay!
+My work: Kalos Dwellings
+Fun fact: We are family owned and operated.
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4961 reviews
+4.92 out of 5 average rating
+5 years of hosting

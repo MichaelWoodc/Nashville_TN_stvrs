@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1599519215109581848
+Latitude: 36.1261
+Longitude: -86.7262
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into your Nashville getaway, where industrial charm meets Southern hospitality!
+
+This one-bedroom, one-bathroom retreat combines sleek, modern design with a touch of Music City flair. Exposed piping and beams give the space an edgy, urban feel, while local Nashville signage and decors add a dash of hometown spirit. The spacious kitchen is a standout, featuring updated appliances, plenty of room to cook, and an island with bar seating—perfect for casual meals or gathering with friends.
+
+The space
+Bed counts: 
+1 Queen bed 
+1 pull out sofa bed 
+We also have a chair, that pulls out a single bed
+
+Guest access
+Guests have access to the entire unit
+
+Registration Details
+2023008323
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jake/Joshua
+Host User ID: 597083648
+Host Profile URL: https://www.airbnb.com/users/show/597083648
+Host Profile URL Source: public user permalink from passport userId
+Meet Your Hosts: Jake & Joshua
+
+Welcome to Gomes Homes Nashville! We’re Jake and Joshua, and we’re passionate about creating comfortable, memorable stays for guests visiting Music City!
+
+Whether you’re here for Broadway, a weekend getaway, a concert, a bachelor/bachelorette trip, or simply to explore Nashville, our goal is to make your stay as easy and enjoyable as possible. 
+
+Welcome to Nashville, we’re glad to have you!
+— Jake & Joshua | Gomes Homes Nashville
+My work: Property Manager
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+2 years hosting
+201 reviews
+4.75 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/28158642
+Latitude: 36.1245
+Longitude: -86.75762
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy neighborhood nook! We hope you feel right at home. You’ll be in a great location central to just about everywhere you’d want to go with privacy and your own parking spot. The inside  features a large living room with a 60” smart TV, small dining area, full kitchen, large private bedroom, and a full bathroom. Please reach out to us at anytime during your stay for advice on anything Nashville. We are both born and raised here so happy to share our local favorites. :)
+
+The space
+This house is essentially a duplex. We live on one side with our driveway coming off our street. And your side faces the back with separate drive. Our walls our built to prevent noise so we don’t hear each other. The space is private. We rarely see our guests unless they want to meet us :). We respect your privacy. 
+Location is central to many aspects of Nashville. Click on images to see exactly where it is. Read our  reviews. We do not ask any of our guests to leave reviews however 90% do and they ALL seem to be very happy with the setup we have here. Unless you want to be smack in the middle of downtown this area is hard to beat for total access of what Nashville has to offer.
+
+Guest access
+You will pull in the driveway and have your own parking space as shown on our images. Enjoy your own private little backyard while having a drink on your patio.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shannon
+Host User ID: 212690684
+Host Profile URL: https://www.airbnb.com/users/show/212690684
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Nashville! My fiancé, Max, and I would love to share our home with you!  We are excited to start this journey and meet lots of new people from all over.  Come enjoy a cozy getaway in a great location to all the sights and sounds that Nashville has to offer.  We are located minutes from downtown, as well as other areas with plenty to offer such as Melrose, 12 South, The Gulch, The Nations, and Sylvan Park. We would love to have you!
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+351 reviews
+4.95 out of 5 average rating
+8 years of hosting

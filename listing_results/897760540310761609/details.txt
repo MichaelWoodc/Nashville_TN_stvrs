@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/897760540310761609
+Title: Trendy Town Home D
+Latitude: 36.16496
+Longitude: -86.80659
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our newly renovated trendy town-home. We're 2 miles from the Gulch area, from the streets of Downtown Broadway and Mid-Town. Our space is very inviting, tastefully furnished with contemporary furnishings, and new appliances. Street and private parking is available. The town-home is equipped with key-less entry and privacy fence. Welcome to our home and to Nashville.
+
+The space
+Our town-home has a privacy fence for your comfort. There is s a small deck on the back for sitting, as well as a separate fenced area for gathering located on the property. Two bedrooms are furnished with televisions and one television in the living room area. Each bed comes with sheets, a blanket and comforter as well as four pillows. There are two full bathrooms; both full bathrooms are furnished with four sets of towels, size shampoo, conditioner, bath soap and toilet paper. There is an additional half bathroom. The kitchen is furnished with dishes, glasses, coffee cups, pots/pans, cutlery, and a Keurig.
+
+Guest have the entire townhome for use.
+
+Please feel free to text or call during your stay with any questions or concerns.
+
+Fisk University, Meharry Medical College
+
+7-10 Minute car ride to downtown Nashville. Lift/Uber
+
+YOU MUST NOTIFY US IF YOU ARE A LOCAL GUEST. YOU MUST HAVE ADDITIONAL APPROVAL BY HOST.
+
+Permit #: 2/0/2/1/0/1/6/4/3/1
+
+Guest access
+Self-access
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: DeRon
+Host User ID: 206929251
+Host Profile URL: https://www.airbnb.com/users/show/206929251
+Host Profile URL Source: public user permalink from passport userId
+As a former member of the Tennessee Titans and Tennessee Volunteer, I've lived in Nashville for 20 years. I have an amazing team capable of assisting you for all of your real estate needs. These elevated estates in Nashville are completely modernized from top to bottom and are located within a short distance of many restaurants, bars, shops, etc..  Nashville offers a "one of a kind" experience and is currently trending as one of hottest cities in country.
+My work: DY Construction  Inc and DY Properties II LLC
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1602 reviews
+4.84 out of 5 average rating
+8 years of hosting

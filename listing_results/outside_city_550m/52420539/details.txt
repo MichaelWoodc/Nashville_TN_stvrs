@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/52420539
+Latitude: 36.33292
+Longitude: -86.9429
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Cheatham County, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville and country living! Located right off of I-24 in Joelton, this quaint, country home has two bedrooms and one bathroom with ample space and amenities for groups and families with kids including a large, in-ground pool & hot tub. The home comfortably sleeps 4, and can accommodate up to 6 with the use of an air mattress. It can be set up in the bedroom or living room floor. The kitchen is stocked with basic cooking supplies, dishes, and a Keurig - there is no dishwasher.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nathan
+Host User ID: 424295975
+Host Profile URL: https://www.airbnb.com/users/show/424295975
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+55 reviews
+4.62 out of 5 average rating
+5 years of hosting

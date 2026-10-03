@@ -1,0 +1,87 @@
+URL: https://www.airbnb.com/rooms/29684363
+Latitude: 36.20321
+Longitude: -86.61819
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unplug at the House of Synchronicity, a curated 1964 mid-century haven near Andrew Jackson’s Hermitage. Ideal for solo travelers & academics. 10m to BNA Airport, 20m to Downtown. Quiet adults-only, distraction-free home (No TV/microwave/kids/pets).
+Private upper room: platform twin bed, 100% cotton linens (hypoallergenic washed), work desk, wing chair, mirror. Shared: living, dining rooms, full bath. Kitchen use upon request. Host lives downstairs (off-limits). Free street parking & WiFi.
+
+The space
+🏡 The Space
+Step back into an authentic 1964 Mid-Century Modern architectural experience. This character-rich, 2-level home features gleaming original hardwood floors and an intentional, distraction-free environment. The upper level offers three private guest bedrooms and a full bathroom. The master bedroom (suite 2) offers convenient half-bath.
+Guests enjoy shared access to the curated main floor. This level features our original 1964 knotty pine dining room and a perfectly preserved vintage blue bathroom—complete with its original 1960s blue sink, tub, and classic custom tilework. For absolute peace of mind, each individual guest bedroom features its own secure door lock and personal key.
+🌳 The Neighborhood & Grounds
+Nestled at a quiet T-intersection, our peaceful neighborhood sits on the historic, scenic outskirts of Andrew Jackson’s plantation (The Hermitage). This strategic location offers a serene country feel just 10 minutes from Nashville Airport (BNA) and 20 minutes to Downtown Nashville.
+The estate grounds feature extensive greenery. Guests are warmly welcome to relax and enjoy the fresh Tennessee air within the defined boundaries of our front and side yard spaces. To preserve host privacy, please note that the fenced backyard area remains strictly private.
+
+Guest access
+🚗 Parking & Arrival
+Free Street Parking: Guests are welcome to park directly on the street curb. Please ensure vehicles do not block access to the shared driveway.
+Property Entry: Walk up the concrete path located along the side of the house to reach the front door.
+Keyless Self Check-In: You will receive a personalized front door smart lock code on your check-in date for a smooth, flexible arrival.
+🛋️ Shared Spaces (Main Floor)
+The main floor is a curated mid-century haven designed for peaceful relaxation and presence. Guests enjoy shared access to:
+The Living Room: A cozy common space featuring a comfortable sofa, a leather recliner, and a unique vintage school desk.
+The Reading Nook: Complete with a designated reading spotlight, cozy couch, and warm throw blankets.
+Indoor Houseplant Garden: A lush collection of beautiful greenery that brings the space to life.
+Art & Library Collection: Browse our extensive private library of world classics, art albums, wellness books, and original artwork created by your hosts and celebrated local Nashville artists.
+The Dining Room & Bath: Access to the handmade 6-seat dining table and the immaculate, original 1964 vintage blue bathroom.
+🛑 Off-Limits Private Areas
+To protect the privacy of everyone in the home, please note:
+Lower Level: The entire downstairs level of the house is the host's private residence and is strictly off-limits.
+Fenced Backyard: The fenced backyard area is private. Guests are instead warmly welcome to enjoy the beautiful front and side yard grounds.
+
+During your stay
+We deeply appreciate all of our guests. While we completely respect your privacy, we also love to socialize whenever schedules align. We are always happy to share local Nashville recommendations, insider transit tips, or enjoy a friendly conversation in the main-floor common spaces.
+🗺️ Leave Your Mark: Interactive Traditions
+We invite you to connect with our home and share a piece of your global journey through our unique dining room installations:
+The Pin Tradition: We love tracking where our worldwide community originates. To protect your exact privacy, we invite you to place a pin marking your general birthplace using the pin box resting on the United States wall map.
+Our Numismatic Collection: View a unique, global display of international paper bills and coins arranged across our World map. These are special currency souvenirs left behind by our previous international travelers.
+🕊️ A Gift for You: The Origami Crane Project
+As a special token of our appreciation, we will happily fold a custom origami crane for you upon request. This crane symbolizes your participation in a decade-long public art project run entirely by your host. Over the last ten years, your host has lovingly crafted and gifted more than 5,000 origami cranes to travelers all over the world!
+
+Other things to note
+We look forward to welcoming you into our home! To ensure a seamless stay for everyone, please review our house guidelines before booking:
+
+* Booking Requirements: To protect our community, third-party bookings are strictly prohibited. The person making the reservation must use their own verified Airbnb account with a completed ID check.
+* Media & Tech: Our home is a deliberate, television-free space designed for relaxation and presence. However, we do provide high-speed Wi-Fi access.
+* Kitchen & Dining: Our kitchen is not equipped with a microwave. If you need to use the stove or refrigerator, please coordinate with us first. To keep the suites pristine, we ask that all meals and snacks be enjoyed at the dining room table rather than in the bedrooms.
+* Shared Entry Security: Please do not use the security chain on the main entry door. Because this is a shared home, other guests may still be out enjoying Nashville and need access to the house. Each private bedroom is equipped with its own lock and key for your peace of mind.
+* Quiet Hours (10:00 PM – 9:00 AM): Please respect your fellow travelers and hosts by keeping conversations, music, and videos at a low volume during these hours. If you are checking in late at night, please be mindfully quiet as you settle in.
+* Climate Control: To preserve the system of our historic home, the thermostat is kept at a fixed setting and cannot be adjusted by guests.
+* House Upkeep: We maintain a strict shoe-free household to keep the floors clean. Please use the convenient shoe rack located right inside the front door.
+* Smoke & Pet-Free: Our home is 100% pet-free and smoke-free/vape-free indoors. Smoking is permitted outside only; please use the designated outdoor receptacles to properly dispose of cigarette butts. In addition - No use of perfume inside the house. We are very sensitive to smells.
+* Mail & Deliveries: We are unable to accept personal mail, packages, or online shopping shipments to this address during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cleo
+Host User ID: 223402751
+Host Profile URL: https://www.airbnb.com/users/show/223402751
+Host Profile URL Source: public user permalink from passport userId
+I love meeting people from our neighbors 2 towns over to our many international guests!
+My work: Scientist
+Most useless skill: origami
+Speaks English and Russian
+What makes my home unique: It is a TV-free local artist home.
+What's for breakfast: Coffee and butterbrots
+Response rate: 92%
+Responds within an hour
+Superhost
+8 years hosting
+400 reviews
+4.91 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/20978183
+Latitude: 36.16178
+Longitude: -86.78345
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A few notes:
+
+ 1.  Free parking is not provided with this listing. You may find metered street parking in front of the building. There is also a paid parking lot directly across the street. 
+
+2. As with most historic spaces, there are some fun quirks. The elevator is original to the building. It is small, not handicapped accessible, and sometimes unreliable.
+
+3. The 750 square foot condo comes with one full bed and a sleeper sofa. It can sleep 2 or 3 people comfortably and 4 folks who don't mind sharing a small space. 
+
+4. I'm new to Airbnb hosting and learning, if there is anything that I can do differently to make your stay better, please let me know!
+
+Guests can access the condo unit. There are also laundry facilities in the basement of the building.
+
+The location is the best part of this listing. The Watauga Condominiums are located in Downtown Nashville. The most historic condo building in the city, it dates back to 1905. It's walking distance to everything in the downtown core (Yes, that means the iconic honky tonks on Broadway!), and a short uber ride to nearly everything else Nashville offers.
+
+Ride share apps or walking are the best ways to get around. You'll rarely need a car!
+
+The space
+A few notes:
+
+ 1.  Free parking is not provided with this listing. You may find metered street parking in front of the building. There is also a paid parking lot directly across the street. 
+
+2. As with most historic spaces, there are some fun quirks. The elevator is original to the building. It is small, not handicapped accessible, and sometimes unreliable.
+
+3. The 750 square foot condo comes with one King size bed as well as a sleeper sofa. It can sleep 2 or 3 people comfortably and 4 folks who don't mind sharing a small space. 
+
+4. I'm new to Airbnb hosting and learning, if there is anything that I can do differently to make your stay better, please let me know!
+
+Guest access
+Guests can access the condo unit. There are also laundry facilities in the basement of the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennie
+Host User ID: 90600007
+Host Profile URL: https://www.airbnb.com/users/show/90600007
+Host Profile URL Source: public user permalink from passport userId
+Yuppie from Nashville with a penchant for travel, live music, fancy dinners, and LSU football. I'm a life long Tennessean whose happy that you've chosen to visit the city that I've called home for the last 7 years.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+693 reviews
+4.8 out of 5 average rating
+9 years of hosting

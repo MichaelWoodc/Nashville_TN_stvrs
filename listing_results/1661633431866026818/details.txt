@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1661633431866026818
+Latitude: 36.3231
+Longitude: -86.7249
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home, a spacious and inviting retreat designed for comfort and relaxation.
+
+This family-friendly home features an open living space perfect for gathering, a fully equipped kitchen, and cozy bedrooms to unwind after a long day.
+
+Centrally located 15min from downtown, 10 minutes from Gaylord Opryland!
+
+The space
+4 bedrooms 2 full baths, 2 story home.
+
+Guest access
+All space except basement is available for guest access.
+
+Other things to note
+Very nice newly updated home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chase
+Host User ID: 100112070
+Host Profile URL: https://www.airbnb.com/users/show/100112070
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+8 years hosting
+3 reviews
+5.0 out of 5 average rating
+8 years of hosting

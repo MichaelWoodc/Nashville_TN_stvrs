@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/32769354
+Latitude: 36.17061
+Longitude: -86.76201
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Oversized bungalow in charming neighborhood with first floor en suite bath/bedroom.  Accommodating hosts who are knowledgeable of Nashville’s offerings and hidden treasures.
+
+The space
+This room is a large bedroom with ensuite bathroom and a laundry nook.
+
+Guest access
+Guests will have access to the downstairs where the bedroom is located and the garden out back.
+
+During your stay
+We do enjoy visiting with our guests, but play it be ear to how much they want to engage.  Since it is our private home we do meet guests upon arrival to help the get settled in.
+
+Other things to note
+Please be advised that we have a small dog.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dana
+Host User ID: 212031275
+Host Profile URL: https://www.airbnb.com/users/show/212031275
+Host Profile URL Source: public user permalink from passport userId
+Nice, humorous, retired.
+My work: Retired
+Lives in Nashville, Tennessee
+I like to spend time with my guests
+Response rate: 100%
+Responds within a few hours
+8 years hosting
+173 reviews
+4.96 out of 5 average rating
+8 years of hosting

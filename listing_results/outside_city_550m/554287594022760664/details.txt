@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/554287594022760664
+Latitude: 36.24138
+Longitude: -86.54019
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Single-story three-bedroom home on a private one-acre lot, about 30 minutes from downtown Nashville. Sleeps eight with a king bed, two queen beds, and a queen sofa bed. Enjoy a full kitchen, gas fireplace, furnished deck, Wi-Fi, in-building laundry, and driveway parking for two vehicles. Pets are welcome; smoking and parties are not allowed.
+
+The space
+Mount Juliet Charmer is a quiet, single-story three-bedroom, two-bath home set on a private one-acre lot. It sleeps up to eight guests with one king bedroom, two queen bedrooms, and a queen sofa bed in the living room.
+
+The home includes a comfortable living area with a gas fireplace and TV, a full kitchen, dining space, Wi-Fi, central air and heat, and in-building washer and dryer access. Outside, the furnished deck overlooks the wooded back of the property. Driveway parking is available for two vehicles.
+
+The home is convenient to Mount Juliet dining and shopping, nearby parks and lakes, and is about 30 minutes from downtown Nashville.
+
+Pets are welcome. Smoking and parties are not allowed. Check-in is 4:00 PM and checkout is 10:00 AM.
+
+Guest access
+As our guest, you'll have full access to the entire property, except for a few areas reserved for house supplies.
+
+Other things to note
+We give our guests space - but we are available when you need us. We are available Monday - Saturday 9 AM - 9 PM via Messenger. Your privacy and comfort is our highest priority!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨Casago Middle Tennessee 3⁩
+Host User ID: 443141200
+Host Profile URL: https://www.airbnb.com/users/show/443141200
+Host Profile URL Source: public user permalink from passport userId
+Casago Middle Tennessee
+
+A franchise partner of Casago- Our Team are local owners who manage properties like they are our own- with pride, care and efficiency.
+Speaks Dutch, English, French, German, Italian, Portuguese, and Spanish
+Response rate: 100%
+Responds within an hour
+5 years hosting
+2120 reviews
+4.51 out of 5 average rating
+5 years of hosting

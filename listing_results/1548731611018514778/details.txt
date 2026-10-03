@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1548731611018514778
+Latitude: 36.1475
+Longitude: -86.82613
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your dream getaway in the heart of Sylvan Park, Nashville! This stunning four-bedroom, three-bath retreat offers the perfect blend of luxury and convenience. Unwind on the spacious multi-level deck overlooking a lush, expansive backyard, perfect for morning coffees or evening cocktails. Inside, you'll find high-grade amenities designed for comfort and style, ensuring a stay that's both relaxing and memorable . 3 pad parking for guest convince at the front door .
+
+The space
+Our Home ; 
+First level has 2 bedrooms 2 bathrooms Laundry in the master closet . Living room Kitchen and the porch goes out to the upper level deck . THe downstairs is two more bedrooms with a separate  kitchen area dining and bathroom with a walk out to the lower deck and the yard .
+
+Guest access
+You Have the house all to your self during your stay , We have a secure lock entry thats updated with every guest
+
+Other things to note
+We are in a residential neighborhood and we like our neighbors so please be respectful and keep your voices to a nice level when you are outside enjoying yourself .
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scarlett
+Host User ID: 45101594
+Host Profile URL: https://www.airbnb.com/users/show/45101594
+Host Profile URL Source: public user permalink from passport userId
+Hi Guests , 
+I am a Nashville native I love to host parties with friends and family. I love helping guests at Getaways Nashville. 
+*I love people, encouraging and helping others
+*I love to laugh and enjoy life 
+*I love to travel 
+*I am a caring idealist
+*I am a mother to a wonderful daughter and she blessed me with two grand babies 
+*The Beach is my happy place !
+My work: Getaways Nashville
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+7542 reviews
+4.91 out of 5 average rating
+9 years of hosting

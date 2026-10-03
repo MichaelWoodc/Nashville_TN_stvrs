@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/704485193611563872
+Latitude: 36.1628
+Longitude: -86.8096
+rental_type: Entire vacation home
+property_type: VACATION_HOME
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+★ NASHVILLE GEM ★
+
+Enjoy the Tennessee air on our patio, whip up meals in a fully-equipped kitchen, and relax on cozy sofas. High-speed Wi-Fi and free parking included. 
+
+The avg Airbnb rating in Nashville is 4.8 stars, so you can trust you'll have a smooth stay so you can focus on enjoying your time here in Nashville!
+
+Up to 2 pets for $75. Please notify host :)
+
+The space
+This stunning Nashville, Tennessee modern rustic home features a spacious living space with an open concept layout. The natural sunlight throughout the house helps you unwind, relax & feel at ease.
+
+It offers a perfect mix of modern and rustic-themed furnishings to give you those “Music City” vibes. 
+
+The lovely space with Johnny Cash themed decor will surely have you feeling like you are living the “Nashvegas” lifestyle. 
+
+Enjoy the breakfast bar seating, open kitchen with stainless steel appliances, comfortable sofas & magnificent bedrooms. Once you sink into these fatigue shedding mattresses, you will never want to get up!
+
+Free parking for up to 2 cars, often times only steps from the front door. The most commonly used parking is directly in front of the unit but, if two spots are not available there, you can park along the curb. You may also use the parking lot in the rear of the complex :)
+
+Guest access
+ACCESS: a smart lock is used for convenient access by your group. The door may auto lock after a few minutes, so please keep this in mind.
+
+PARKING: Free street parking for up to 2 cars, only steps from the front door. You may also use the parking lot in the rear of the complex.
+
+Other things to note
+There is a set of train tracks close to this complex. One guest felt this was an issue out of 30+ groups including the neighboring property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 18330359
+Host Profile URL: https://www.airbnb.com/users/show/18330359
+Host Profile URL Source: public user permalink from passport userId
+I’m an adventurous soul with an appetite for experiencing new things, new learnings, and new friends. My focus on top notch service and experiences has led to hundreds of reviews at an avg ~4.96 star rating vs the Airbnb avg of 4.8 stars. I believe this is due to prioritizing very genuine interaction with guests while creating a comfortable and unique stay that is hard to find when traveling.
+Born in the 80s
+My work: Superhost / Nashville Local
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1346 reviews
+4.97 out of 5 average rating
+9 years of hosting

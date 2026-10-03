@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/5261347
+Latitude: 36.1187
+Longitude: -86.7833
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Peaceful, private guesthouse a few blocks from the vibrant 12 South neighborhood.
+
+The space
+Our unique, private guesthouse is in one of the most vibrant and walkable neighborhoods, 1 block from Sevier Park.  Minutes from downtown,  spacious 700 sq. ft, sleeps 2-3, new full kitchen, private outdoor patio. Short walk to restaurants & shops.
+
+Our unique, private guesthouse is in one of the most vibrant and walkable neighborhoods. We are one block from Sevier Park and located between the 12 South District and 8th Ave South/Melrose, and only 10 minutes from downtown.  The converted, detached loft -- formerly offices for an indie record label -- has been transformed into a sophisticated, well-appointed guesthouse with a full kitchen and every comfort you'll need for a weekend getaway or a month's residency. 
+
+12 South Loft is well situated at the back of our half-acre lot surrounded by tall trees.  Off-street parking is at the end of the driveway, only a few steps from the entrance through French doors.  The Loft has about 500 square feet of living space on the main floor and a 200 square foot upstairs bedroom.
+
+The kitchen includes gas range, dishwasher, full-sized fridge with ice maker, microwave, Keurig coffee-maker, blender, toaster, and is fully equipped with everything you need to prepare snacks or full meals.  Seating for 4. 
+
+The open living area has exposed bricks, 13' ceilings, comfortable sleeper sofa, leather recliner, 50" flat screen, gas log fireplace, and plenty of seating for 4 people.  
+
+Bathroom has shower (but no tub), open shelves, fluffy white towels, extra toiletries and hair dryer. 
+
+Upstairs bedroom is 10' x 20', partially open to living area below, and has a new King bed, sitting area, 48" TV, and plenty of room to spread out.   
+
+Amenities:  free cable wi-fi, two flat screen TV's with full channel lineup including HBO and free on-demand,  books, magazines, bluetooth stereo system, private outdoor space.
+
+Private brick patio for your use only.
+
+The owners Lori & John are available for questions or advice.  We've lived in the 12 South neighborhood for over 25 years, both working in the music business and real estate.  We are experienced travelers and landlords and want your stay to be excellent in every way!
+
+Regarding our "no pets" policy, please note that we don't allow animals due to allergies in our family. Thanks in advance for your understanding!
+
+Guest access
+The detached guest house has a keyless touchpad entrance and a private patio.  Off-street parking is at the end of the driveway, just a few steps from the French doors entrance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lori
+Host User ID: 26604311
+Host Profile URL: https://www.airbnb.com/users/show/26604311
+Host Profile URL Source: public user permalink from passport userId
+We've lived in the 12 South Neighborhood of Nashville for over 20 years, working in both the music business and real estate.  Nashville is a great place  and getting better all the time!  We love to travel - some of our favorite places in the world are New Zealand, Bali, Provence, USVI, Colorado, Montana, Bald Mountain campground near the NC border, Max Patch on the AT, Radnor Lake, Station Inn.....
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+288 reviews
+5.0 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/997151714054575983
+Latitude: 36.1765
+Longitude: -86.7886
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Prime walkability to some of Nashville's highest rated nightlife and hotspots. 5 min to Broadway! Charming Germantown home located on a tree-lined street is a relaxing oasis that features porch, screened balcony and private backyard w/ covered deck and fire pit.
+
+Walk to more than 30(!) restaurants, bars, breweries, shops and attractions — some of the finest in the city — West Village NYC or West Loop Chicago meets Nashville!
+
+The space
+NO LOCAL BOOKINGS - we reserve the right to cancel anyone related to Nashville or within 40 miles.
+
+This beautiful property is in prime Germantown. A very short walk will take you to some of the most esteemed restaurants, bars, breweries, shops & venues in town. The home is well-equipped to accommodate our guests. Along with the comfortable mattresses, we have plenty of bedding to give even large groups a comfortable night's rest. Brand new covered and lighted deck in the backyard is ready for use!
+
+TL;DR
+
+-Comfy home in prime Nashville neighborhood convenient to major attractions and venues
+-Walk to abundant nightlife
+-Private backyard with covered deck and fire pit
+-Safe neighborhood
+
+Guest access
+You will have access to the entire home. We will send you the access code by website messenger with the entry instructions. The host is available 24x7 if you have any questions. Thanks!
+
+Other things to note
+Germantown is home to 5 of the top 10 restaurants in Nashville and numerous cool bars. Bearded Iris Brewing, arguably the best micro-brewery in the city, plus Brooklyn Bowl, First Horizon Park (Nashville Sounds), Bicentennial Capitol Mall State Park and the Tennessee State Museum are also short walking distance.
+
+Close to every other Nashville hotspot and attraction: Lower Broadway / Bridgestone Arena (NHL) / Ryman Auditorium / downtown; Nissan Stadium (NFL) / East Nashville; Vanderbilt / Midtown; the Gulch; etc.
+
+-5 min drive to Broadway (1.5 miles)
+-16 min drive to BNA (8.5 miles)
+
+Nashville STRP#2018023111
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨J.S.⁩
+Host User ID: 487194222
+Host Profile URL: https://www.airbnb.com/users/show/487194222
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+135 reviews
+4.95 out of 5 average rating
+3 years of hosting

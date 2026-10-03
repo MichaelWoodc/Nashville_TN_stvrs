@@ -1,0 +1,89 @@
+URL: https://www.airbnb.com/rooms/1697162004138551301
+Latitude: 36.147
+Longitude: -86.8166
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to "The Guitar Room" in West End Nashville!
+
+This top-floor corner condo overlooks the pool and is just steps from Centennial Park & the Parthenon. Min to Broadway, Music Row, Vanderbilt, Belmont, TSU, Nissan Stadium & Bridgestone Arena, and only 15 min from BNA.
+
+The 2BR/2BA condo features a full kitchen, in-unit laundry, sleeper sofa, and optional air mattress. 
+
+Enjoy access to the gym, pool, grill, secure entry, and on-site restaurant. Perfect for concerts, games, and city getaways.
+
+The space
+The Guitar Room is a modern and comfortable 2-bedroom, 2-bath condo designed with convenience and relaxation in mind.
+
+Sleeping Arrangements:
+• 2 private bedrooms
+• 2 full bathrooms
+• Queen-size sleeper sofa
+• Optional air mattress for additional guests
+
+Inside the Condo:
+• Fully equipped kitchen
+• In-unit washer and dryer
+• High-speed Wi-Fi
+• Smart TVs in all rooms
+
+Community Amenities:
+• Swimming pool
+• Fitness center
+• Outdoor grill
+• Secure building access
+• Elevator access
+• On-site restaurant located on the first floor
+
+Nearby Attractions:
+• Centennial Park & The Parthenon – 2 min
+• Vanderbilt University – 3 min
+• Vanderbilt University Medical Center – 4 min
+• Belmont University – 6 min
+• Music Row – 6 min
+• The Gulch – 7 min
+• Broadway Entertainment District – 8 min
+• Bridgestone Arena – 8 min
+• Country Music Hall of Fame – 9 min
+• Ryman Auditorium – 9 min
+• Nissan Stadium – 10 min
+• Tennessee State University – 10 min
+• GEODIS Park – 12 min
+• Nashville International Airport (BNA) – 15 min
+• Opry Mills – 18 min
+• Grand Ole Opry – 20 min
+
+Enjoy the perfect combination of location, comfort, and convenience while experiencing everything Nashville has to offer.
+
+Registration Details
+T2026037273
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sandra
+Host User ID: 207166190
+Host Profile URL: https://www.airbnb.com/users/show/207166190
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Sandra! I’m a Realtor with a love for real estate, travel, and creating beautiful, welcoming spaces. I really enjoy hosting and being able to create a place where guests can feel at home, relax, and make great memories.
+
+I’m big on the little details and always want my guests to feel comfortable and taken care of. I hope my home can be a small part of an amazing trip!
+Speaks Arabic, English, French, and Italian
+Lives in Carlsbad, California
+Response rate: 94%
+Responds within an hour
+8 years hosting
+1169 reviews
+4.77 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/554953291635199403
+Latitude: 36.15335
+Longitude: -86.76357
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashvilleurbanretreats presents this spacious 2 bed 2 bath, which was designed by Nashville's best designer.  Sliding doors lead to the largest outdoor deck with grill in this elevator building.  The deck has a curated space for outdoor dining and entertainment with a few fun outdoor games to loosen up before heading out to downtown Nashville, which is a 15-20 min walk.  Have some fun posing in front of a mural done by one of our favorite Nashville muralists as well as the cool neon angel wings.
+
+The space
+The apartment has everything you need with full kitchen and living areas, an outdoor patio/balcony, and two bedrooms each with private bathrooms and closets. There is a nook in the living room with a bunk bed. There are stainless steel appliances, basic cookware if you plan to cook, and a Keurig for that morning coffee. The apartment also has a tv in the living room and in each of the bedrooms, free wifi, and white noise machines for a sound night of sleep.
+
+Guest access
+Guests have access to the entire apartment, gym, rooftop lounge.
+
+Other things to note
+IMPORTANT: You will receive a message up to 24 hours before your stay with unique entry codes. It will give you access from 3:00 pm check-in time until 10:00 am check-out time. The designated code will work on the unit door and all common doors in the building.
+
+The apartment is located IN THE CITY, and with that there are some city noises like traffic. We offer a sound machine for a relaxing night!
+
+Laundry room available in the building.
+
+Luggage Storage Bounce next door (inside Dripbar) for your convenience. Please, verify hours of operation and rates on their website, usebouncecom
+
+Paid parking garage plus plenty of street parking available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bruna
+Host User ID: 692234
+Host Profile URL: https://www.airbnb.com/users/show/692234
+Host Profile URL Source: public user permalink from passport userId
+My husband and I love to travel and we fell in love with Nashville, where we met 20 years ago. We are very excited to host you in our "Nashville Urban Retreats" homes!
+Born in the 80s
+Speaks French, Italian, Portuguese, and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+165 reviews
+4.96 out of 5 average rating
+4 years of hosting

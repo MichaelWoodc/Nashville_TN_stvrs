@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/826191524076525173
+Title: New condo minutes from downtown & Free Parking
+Latitude: 36.1262
+Longitude: -86.7264
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish place to stay is perfect for a trip to Nashville! Located Minutes from everything Nashville has to offer. If you plan on arriving in your own vehicle there is free parking onsite to accomodate you and your guests. This is a Modern Industrial styled space you will enjoy during your time in Tennessee!
+
+Permit # 2/0/2/3/0/0/8/5/5/5
+
+The space
+Industrial styled condo that feels like home!
+•Smart TVs with Roku and YouTube TV
+•High speed WiFi
+•Full size washer and dryer inside condo
+•Keurig and K-Cups
+•Designated work area
+•FREE parking onsite
+
+Guest access
+Guest will have access to entire place with keypad entry!
+
+Other things to note
+Very conveniently located to all Nashville has to offer.
+
+•Broadway-4.6 miles
+•Nissan Stadium-4.7 miles
+• BNA airport-5.6miles
+•Opry mills mall- 7.8 miles
+•Grand Ole opry-7.8miles 
+•Nashville Zoo- 5.6 miles
+•First Tennessee Park-6.0miles
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dalton
+Host User ID: 138751629
+Host Profile URL: https://www.airbnb.com/users/show/138751629
+Host Profile URL Source: public user permalink from passport userId
+Hello! My name is Dalton and I’m a Clarksville fire fighter and investor. I have lived in Tennessee my entire life and would love to assist you with local restaurants and places to visit during your stay. I'm available by the app, phone or text at anytime!
+Born in the 90s
+Where I went to school: Rossview high school
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+393 reviews
+4.93 out of 5 average rating
+9 years of hosting

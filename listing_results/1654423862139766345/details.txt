@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1654423862139766345
+Latitude: 36.20893
+Longitude: -86.7944
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 16
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your ultimate Nashville getaway — 2 luxury homes combined into one unforgettable stay.
+You’ll have 2 entire 3-story homes connected by proximity so everyone stays close while enjoying privacy and comfort.
+8 BR | 8 BA — sleeps up to 24 comfortably
+2 fully stocked kitchens + open-concept living spaces
+2 rooftop decks with city views
+2 hot tubs
+Free parking + easy Uber access
+10–12 minutes to Broadway
+This setup is ideal for large groups who want to be together without feeling crowded.
+
+The space
+Don't need double the space? Check out each individual listing here:
+airbnb.com/h/bestnashvillebnb & airbnb.com/h/nashvillesbestbnb
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauryl
+Host User ID: 711614670
+Host Profile URL: https://www.airbnb.com/users/show/711614670
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+48 reviews
+4.98 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1607326440836726914
+Latitude: 36.13859
+Longitude: -86.77473
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience elevated living in this modern Nashville stay, featuring sleek finishes, smart home tech, and open-concept design. Located in vibrant WeHo—one of the city’s most sought-after neighborhoods—you’re close to art galleries, breweries, and downtown attractions just minutes away. Enjoy premium amenities including fitness centers, lounge spaces, and outdoor terraces.
+
+The space
+Enjoy a stylish Nashville stay in this fully furnished retreat—perfect for extended visits. Relax in modern, thoughtfully designed spaces with a full kitchen, high-speed Wi-Fi, and cozy living areas. Conveniently located near downtown, top dining, live music, and local hotspots, you’ll have easy access to everything Music City has to offer.
+
+Disclaimers:
+
+- To avoid any confusion, we kindly ask that all guests read the information below carefully before confirming your booking. (We promise this will help you prepare for your stay and answer most of your questions!) Thank you!
+
+- After completing your booking, you’ll be required to submit valid ID and provide some basic information for verification on our guest portal. 
+
+- All photos, floor plans, and descriptions are provided for illustrative and indicative purposes only.
+
+- The actual allocated unit may vary slightly depending on its position within the building.
+
+Registration Details
+2026044265, 2026044345, 2026044356
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ava And Team
+Host User ID: 519945528
+Host Profile URL: https://www.airbnb.com/users/show/519945528
+Host Profile URL Source: public user permalink from passport userId
+Hi there!
+
+I'm Ava, your vibrant and professional Airbnb host. My team and I strive to create a  welcoming atmosphere that reflects the charm and spirit of our properties. We value every guest that stays at our properties, and we always make an effort to ensure that they have a memorable and enriching experience. Our 24/7 guest experience team can assist no matter the time of day or night.
+
+We are looking forward to hosting you soon.
+Ava and team
+Born in the 90s
+My work: Professional Hosting
+3 years hosting

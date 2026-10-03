@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/3912357
+Latitude: 36.17319
+Longitude: -86.79354
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 2
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Eclectic private room and bath with its own entry.   Everything you need to enjoy your stay in Nashville!  The best part... Only 5mins /$8 Uber to Broadway downtown. 
+
+The  cozy room has 1 full daybed w/ a twin trundle bed underneath. 
+Blocks away from restaurants, shopping, grocery and drug store, farmers market and entertainment.
+
+The space
+Room is private, cozy and comfortable with private bath.  Located downstairs and have direct access to an outside door. 
+
+Parking available in private driveway.
+
+Guest have access  bedroom and bath. 
+
+There's a small refrigerator, microwave and coffee maker in room. Hair blow dryer is also available in bath.
+
+Guest access
+Guest have direct access to room from outside entry. If I'm not able to meet guest upon their arrival, keys are left in the key lock box.
+
+During your stay
+Varies with my schedule of the week which changes frequently.  I try my best to ALWAYS meet and greet guest.
+
+Other things to note
+There's a small refrigerator, microwave and coffee pot in room.  Paper plates, plastic utensils, paper towels and cups area available.  Hair blow dryer along with liquid soap is also available in bath.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caprisha
+Host User ID: 20264071
+Host Profile URL: https://www.airbnb.com/users/show/20264071
+Host Profile URL Source: public user permalink from passport userId
+Hello there, I'm Caprisha and I'm a realtor in the Greater Nashville area. I have lived in Nashville over 20 years and I have witness the growth of this amazing city.  I enjoy traveling, meeting new people, and experiencing new things.  I live on the property with my sweet dog Lola and  we look forward to hosting you during your stay in the "It" city.  
+
+Welcome to the city y'all!
+My work: Real Estate Agent
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+496 reviews
+4.81 out of 5 average rating
+12 years of hosting

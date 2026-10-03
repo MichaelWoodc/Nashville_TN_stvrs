@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1763301716809589636
+Latitude: 36.14136
+Longitude: -86.74916
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Why Stay Here?
+🎶 5 minutes from Downtown Nashville
+🏡 Cozy and comfortable accommodations
+📍 Convenient location for exploring Music City
+🍽️ Close to restaurants, nightlife, and entertainment
+✨ Great home base for couples, friends, and weekend getaways
+Whether you’re here to experience Broadway, catch a concert, explore Nashville’s food scene, or simply enjoy the Music City atmosphere, this cozy apartment gives you a convenient place to stay while you make unforgettable memories.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shatoria
+Host User ID: 393954141
+Host Profile URL: https://www.airbnb.com/users/show/393954141
+Host Profile URL Source: public user permalink from passport userId
+Lives in Memphis, Tennessee
+Response rate: 100%
+Responds within an hour
+1 month hosting
+1 reviews
+4.0 out of 5 average rating
+1 month of hosting

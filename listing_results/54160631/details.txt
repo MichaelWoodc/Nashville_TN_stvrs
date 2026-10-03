@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/54160631
+Latitude: 36.09694
+Longitude: -86.74591
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your home away from home!Modern three story home (stairs, no elevator) nestled just outside the city. Equipped with everything you need for a large group. Ideal with families, girls trips + couple's alike! Enjoy the luxuries of home here at Veritas in the Berry Hill/Wedgewood houston area! 
+Only 12 Minutes to lower broadway and perfectly located in Nashville for anyone wanting to explore all attractions of our City!
+*3.2 miles to GEODIS Park!
+
+*Find us online to book! Stay Wandering Nash Edition
+
+The space
+All of our Homes are fully equipped with!
+-Marble counter tops
+-Full baths and showers
+-Spacious open layoutEnjoy our fully equipped kitchens with marble countertops and amazing Bathrooms!
+
+First Floor:
+-> half bath
+-> laundry
+
+Second Floor:
+->Master Suite w/ King bed, Roku TV, ensuite bath
+->Living area with sleeper sofa, Roku TV
+->Full kitchen with Basics!
+
+Third Floor:
+->Queen bedroom w/ Roku TV
+-> Twin Bunk Room w/ Roku TV (4 twin beds)
+->Full bath (shower/tub combo)
+
+-Wifi
+-Parking for Two Vehicles
+-Extra Street Parking
+
+Guest access
+Please Note our check in hours are 3pm-8pm, this is when we are avaliable for you but you're welcome to check in anytime, it is self check in via a keypad!
+
+Other things to note
+**ABSOLUTELY NO LOUD GATHERINGS OR PARTIES, FINES/EVICTION/POLICE WILL BE INVOLVED IF NOT ABIDED BY**
+**WE DO NOT HOST LOCALS**
+
+DISCLAIMER:
+-Additional guests outside of your confirmed guest count are not allowed on our property + go against your rental agreement.
+-We have a zero tolerance policy on our property being used for ANY kind of loud gathering or party. We have cameras + security. Per your rental agreement this is grounds for eviction without question or refund + possible legal action.
+-Upon confirming your booking, you are subject to our House Rules, Rental Agreement which you sign and/or enter it upon checking in, which includes this disclaimer + much more.
+*NO LOCALS ALLOWED TO BOOK ANY OF OUR PROPERTIES, YOU WILL BE CANCELLED*
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stay Wandering
+Host User ID: 420371928
+Host Profile URL: https://www.airbnb.com/users/show/420371928
+Host Profile URL Source: public user permalink from passport userId
+For the Wander's in the World..
+
+We love bringing these boutique, chic, central, spacious listings to you! We're known for our 3-4 bedroom townhomes nestled on the city lines. Perfect for families, friends trips, bachlorette parties + your home away from home experience!
+
+Enjoy Music City and come home to our townhomes to rest, gather + make memories!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+5 years hosting
+2873 reviews
+4.71 out of 5 average rating
+5 years of hosting

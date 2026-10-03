@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1537312398456424583
+Latitude: 36.19426
+Longitude: -86.7219
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Porter House | Stay Together in Nashville
+
+East Nashville home base just minutes from Nissan Stadium, Broadway, Bridgestone Arena, and the city's best live music. Thoughtfully designed for concert weekends, girls trips, wedding celebrations, and family getaways. While officially a one-bedroom townhome, The Porter House comfortably sleeps up to 6 with three distinct sleeping spaces, a rooftop hangout, dedicated parking, a two-seat getting-ready vanity, full kitchen, and in-unit laundry.
+
+The space
+In addition to the queen size bed in the primary bedroom, there is a murphy bed on the 3rd floor and a fold out Koala sofa bed in the living room on the ground level. All are thick, comfortable memory foam beds. 
+
+The 2nd Floor features a "get-ready" space in the walk-in closet as well as a dedicated desk space for working from home. 
+
+The 3rd Floor features a balcony with views of South Inglewood.
+
+Guest access
+You will have access to the entire unit including all three floors, the balcony, and the dedicated parking space around back.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Samantha
+Host User ID: 532611812
+Host Profile URL: https://www.airbnb.com/users/show/532611812
+Host Profile URL Source: public user permalink from passport userId
+My work: Interior Designer
+What makes my home unique: The murphy bed creates another bedroom!
+Response rate: 100%
+Responds within an hour
+9 months hosting
+10 reviews
+4.7 out of 5 average rating
+9 months of hosting

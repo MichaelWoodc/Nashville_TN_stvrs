@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1748975514618203051
+Latitude: 35.93126
+Longitude: -86.54573
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Quiet Tranquil Neighborhood. Potential For entertaining with, Patio, and Large Yard. Brand New HVAC keeps house a comfortable Temperature at all times. Nice Living Room, Oriental Rug, Large 5 seat L Sofa. Close to Shopping, Publix, Home Depot, Costco, Outlet Mall, Century Farms. Under 25 minutes to Airport and Downtown Nashville. Easy to take Lyft or Uber for Night Out in Music City.
+New Dishwasher and Laundry. All appliances work great! Large Flat yard with Shaded Fenced in Area. Dog Friendly.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brendan Ashley
+Host User ID: 154265356
+Host Profile URL: https://www.airbnb.com/users/show/154265356
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 69%
+Responds within a day
+1 month hosting
+4 reviews
+4.75 out of 5 average rating
+1 month of hosting

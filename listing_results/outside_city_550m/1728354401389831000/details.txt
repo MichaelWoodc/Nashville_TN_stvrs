@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1728354401389831000
+Latitude: 36.2976
+Longitude: -86.4945
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hello my name is Scott
+Relax at this peaceful place to stay. One minute from my home, you’ll find Lone Branch boat ramp. You can launch kayaks boats or enjoy lunch right on the lake. Picnic tables, fishing or just hang out. 20 Minutes to BNA Airport, and 30 minutes to downtown broadway. 10 minutes to our local train station, that can also take you downtown, super fun 🎉😎😊, I’m happy to host you or your guests 💯 This is shared living two rooms for rent NOT the whole house 👍🏻
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scott
+Host User ID: 155140627
+Host Profile URL: https://www.airbnb.com/users/show/155140627
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Lives in Mt. Juliet, Tennessee
+Pets: No pets
+Response rate: 100%
+Responds within an hour
+Superhost
+3 months hosting
+25 reviews
+5.0 out of 5 average rating
+3 months of hosting

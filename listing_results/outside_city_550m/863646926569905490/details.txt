@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/863646926569905490
+Latitude: 36.32385
+Longitude: -86.534
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 6
+beds: 8
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+6 Bedroom/3 Bathroom dog friendly Lake house that sleeps up to 16! Amenities include: Pool (with Inflatables), Hot Tub, Fire Pit (wood included), Kayaks, Canoe, Fishing gear, Corn Hole Game… and so much more!
+
+Our Lake house is tucked into a quiet cove in the esteemed Cages Bend area of Hendersonville. TN. Wake up to the natural beauty of life on Old Hickory Lake each morning and spend your time enjoying all this property has to offer.
+
+The space
+We are very interested in renting to Families on Vacation, Groups of mature couples and friends who are respectful and responsible and/or anyone else who will be respectful of our house rules. 
+
+This is not a Party House! We do not allow bachelor or bachelorette parties. No loud music, excessive noise or unruly behavior. This is not the rental for those activities. 
+
+We wish to cater to mature, respectful and responsible groups of guests. Please inquire and tell us about your yourself, the other people in your group and your purpose for renting our Lake House.
+
+If you wish to bring a pet, please disclose those intentions in a message to us… dog(s) will almost certainly be approved, but we do need to communicate some rules for owners to follow.
+
+Guest access
+There is a free public boat ramp about 1/4 mile from the home for you to launch your watercraft.
+
+Other things to note
+Swimming pool is covered and closed seasonally from mid October through mid April.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Janet
+Host User ID: 507626007
+Host Profile URL: https://www.airbnb.com/users/show/507626007
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+66 reviews
+4.88 out of 5 average rating
+3 years of hosting

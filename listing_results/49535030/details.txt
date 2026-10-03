@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/49535030
+Latitude: 36.16544
+Longitude: -86.73804
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Large Private Heated Pool! We are in a quiet neighborhood very close to downtown but have an amazing pool to beat the heat! The state of the art vaulted ceilings, coupled with the breathtaking natural light, makes this space feel both fresh and relaxing. This East Nashville house is nestled in a quiet, safe, residential neighborhood, yet only a short ride to Downtown. Lover of nature? Pack a picnic, and enjoy peaceful walk to Shelby Park!
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+This is a brand-new, one-bedroom home! This house was built entirely by the owners and doubles as a recording studio during the off-season. Needless to say, this build was (and still is) such a sweet labor of love! We are so excited to share this space! 
+
+800 Ft - Shelby Bottoms Greenway 
+1.5 Miles – Jeni’s Ice cream
+2.2 Miles - Kroger 
+2.5 Miles - 5 Points
+2.5 Miles - Broadway
+
+DOWNSTAIRS: 1 Bedroom - Queen Bed
+Living Room: 1 Queen Sofa Bed and 2 Twin XL Roll Away Bed w/ Memory Foam Mattress
+
+Guest access
+This is a brand home. Guests will have a parking spot right in front of the house.
+
+Other things to note
+Pool is completely private to this house. It’s very spacious!
+
+This rental is for the DOWNSTAIRS part of the house. You will notice a spiral staircase in the pictures, however, the loft is for storage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Davey
+Host User ID: 395770191
+Host Profile URL: https://www.airbnb.com/users/show/395770191
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+5 years hosting
+61 reviews
+4.93 out of 5 average rating
+5 years of hosting

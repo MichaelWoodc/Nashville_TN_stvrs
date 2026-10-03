@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/28384893
+Latitude: 36.19435
+Longitude: -86.7607
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ultimate luxury and comfort in the heart of East Nashville. Spacious, clean, comfortable, and plenty of natural light. In a quiet neighborhood.  5 mins local restaurants and bars.  10 mins from the boom/bust of famous NashVegas Broadway strip where you can enjoy as much free live music your heart desires (<$10 Uber ride), Bridgestone Arena, Nissan Stadium, Ryman, Music City Center, and restaurants of famous Country Music Stars. Must read house rule!
+
+The space
+A newly built 2 stories, 2100 sqft, home with large open floor plan with 3 bd/2.5 baths, 3 beds, 2 sofa sleepers, 1 queen size air mattress, a fully equipped kitchen, a big loft for entertainment upstairs, plenty of sitting areas boasting with natural light through the panoramic windows, a spacious deck in the back.  Bedrooms are setup for your comfort with memory foam mattress and down comforters. Washer & Dryer in unit.  The home equipped with high speed wifi, smart TV, Roku, Chrome cast, google mini, DVD players, speakers and receiver. 
+**I live here when I don't travel and I hope you enjoy it as much as I do!
+
+Sleeping arrangement:
+Bedroom 1:  1 queen bed
+Bedroom 2: 1 queen bed
+Bedroom 3: 1 queen bed
+Bonus area: 2 full size sofa convertible bed
+Living area:  1 queen size airbed
+
+Parking: drive way, and plenty of street parking.
+
+Guest access
+While away traveling, I’m sharing my place with you and your family. You have access to the entire home, bedrooms, bathrooms, laundry, kitchen supplies, appliances, everything you need for your home away from home (except for a few closets I use as storage and garage).
+
+Other things to note
+No loud parties!  Keep noise to a minimum!  Please observe outdoor quiet hour between 11PM - 6AM.  Please leave the house as close to how you found it as possible.  Be very careful not to damage wood floor or scratch walls.  Respect my place as it is yours.  Let me know of any issues, damages, etc...
+
+Short Term Rental Permit # 071160B00CO
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ann
+Host User ID: 105920090
+Host Profile URL: https://www.airbnb.com/users/show/105920090
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+8 years hosting
+43 reviews
+4.93 out of 5 average rating
+8 years of hosting

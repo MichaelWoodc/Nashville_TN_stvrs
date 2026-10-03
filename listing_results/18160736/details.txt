@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/18160736
+Latitude: 36.11509
+Longitude: -86.83948
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay where you would dream of living!  Our charming home is in the heart of both Green Hills and Belle Meade, two of the most sought after and affluent areas of Nashville.  The Beverly Hills of Nashville!
+
+Enjoy an open plan floorpan, perfect for entertaining or relaxing while having bedrooms located on each end of the home for privacy.  Plenty of outdoor space in both the front yard and private back yard that includes two separate patios and plenty of secured parking! Your vacation awaits you!
+
+The space
+With 2800 sq ft of living space all on one level this is the perfect place for groups who want plenty of room to relax and entertain while also having plenty of privacy both within the home and in back yard.  
+
+Enjoy waking up to the aroma of coffee and enjoy a cup or tea on the covered front porch each morning and later enjoy a beer/cocktail while grilling out and enjoying time with friends. The spacious, private back yard area is complete with 2 patios and plenty of seating as well as ample parking.
+
+Guest access
+In our home you have access to all parts of the house.  The only places that are unavailable to guests are a pantry in the house and the detached garage.  There is still ample, secure and private parking available.
+
+Registration Details
+STR-12371L
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Josh
+Host User ID: 125250577
+Host Profile URL: https://www.airbnb.com/users/show/125250577
+Host Profile URL Source: public user permalink from passport userId
+Lives in United States
+Response rate: 100%
+Responds within an hour
+9 years hosting
+54 reviews
+4.8 out of 5 average rating
+9 years of hosting

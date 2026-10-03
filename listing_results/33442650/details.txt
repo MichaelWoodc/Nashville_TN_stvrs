@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/33442650
+Latitude: 36.21413
+Longitude: -86.75676
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ultra Modern one level home in East Nashville 5 miles to downtown Nashville. Luxury pillow top and goose down duvets. Gas stove, stainless appliances, quartz countertops. Wooden flooring throughout. Glass shower and another full bath.
+3 bedrooms. 1 king bed and 2 queens. One sleeper couch. 
+Large deck and outside yard. Parking for 3 cars. Internett ultra high speed glass fiber from ATT. HULU and Netflix on Roku TVs.
+
+The space
+The home is completely updated with open plan living and kitchen area. The floors are wooden sanded and finished and both bathrooms have ceramic tile. The master bathroom has a modern frameless glass shower with rainhead and wall shower heads.
+Washer and dryer are in a closet in the living area.
+Keurig and coffee are provided. Laundry has laundry soap. Dishwasher with pods. Shampoo, soap, dish soap, towels, linens and extra linens and duvets are provided.
+TVs in master bedrooma nd living room.
+There is a large deck from the living area. Chsrcoal grill is available. Place is perfect for 
+outdoor barbecue.
+
+Guest access
+The home is a single family and guests have access to the home and parking on property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robyn
+Host User ID: 188906198
+Host Profile URL: https://www.airbnb.com/users/show/188906198
+Host Profile URL Source: public user permalink from passport userId
+I am a Visual Artist/ Painter /Film Maker and Mom.
+Also I am a Top Realtor at Weichert Realty and have a great time with Nashville.
+I moved here from Johannesburg and studied art at University of Cape Town.
+I love living in Nashville this is such a exciting town! I am excited to start hosting with Airbnb.
+Where I went to school: South Africa
+My work: Realtor and Artist
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+923 reviews
+4.83 out of 5 average rating
+8 years of hosting

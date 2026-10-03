@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/46914016
+Latitude: 36.37905
+Longitude: -86.44979
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gallatin clean and cozy house with 2 bedrooms with 1 bath in quiet neighborhood 3 miles to downtown square in Gallatin and 30 minutes from Nashville.  Fully stocked kitchen including spices.
+
+The space
+Our family has been renting short term rentals for many years and have tried to equip the house with the items we like to find in a Airbnb.  
+Fast WIFI  - 1 gig +
+Desk and love seat in office room.    
+Gas grill 
+2 picnic tables, one covered.
+Plenty of parking
+Keurig combo coffee pot with drip and pods. 
+Smart TV with NetFlix, Prime, Roku, Parmount + and Hulu already logged in.
+
+Guest access
+Guest have access to entire house.   Garage is not accessable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rand
+Host User ID: 378967372
+Host Profile URL: https://www.airbnb.com/users/show/378967372
+Host Profile URL Source: public user permalink from passport userId
+Retired and enjoys hosting guests.   Loves to travel, garden and stay at Airbnb properties.
+My work: Host and Rentals
+I spend too much time: Gardening,  handyman to my Airbnbs
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+442 reviews
+4.99 out of 5 average rating
+6 years of hosting

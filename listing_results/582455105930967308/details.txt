@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/582455105930967308
+Latitude: 36.18042
+Longitude: -86.76919
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come enjoy Nashville in this conveniently located stylish new carriage house in East Nashville.  This house offers 3 PRIVATE SLEEPING ROOMS, 2 KING and 2 QUEEN beds and 300 sq ft porch with outdoor TV, bright kitchen with granite countertops, 2 lovely bathrooms and 2 off street parking spots. 5 minute drive from Nissan Stadium and downtown, 9 minute drive from BNA airport, WALKING distance to Audrey, Folk, Redheaded Stranger, McFerrin Park. You will love the convenience and amenities
+
+The space
+The space includes 3 bedrooms and 2 bathrooms. A spacious deck with full size outdoor dining table and outdoor TV and ceiling fans for summer comfort, perfect for watching the game or your favorite show.  The kitchen provides all you need to cook a home meal, including a large refrigerator, dishwasher, coffee and espresso machine.  Dining area has a floating eating counter.  For those of us that identify as vampires, all bedrooms have blackout curtains.  2 King beds along with a Queen bed in the bonus room, as well a memory foam queen pullout couch and twin air mattress that can be accommodated in the living area.  1 bathroom features a shower while the other bathroom has a soaking tub and heated floor.  Also available is the full size laundry closet with stacked high efficiency washer and dryer and utility sink.
+
+Private off street parking is available for 2 cars on a driveway next to the carriage house.
+
+LEVEL 2 48A EV Tesla or J1772 CHARGER also available on site (additional costs apply for charging)
+
+Guest access
+There is a small grassy lot to the side of the carriage house to dispose trash and recyclables, while the other side has a long driveway that can accommodate 2 vehicles.  Other vehicles that don't fit in the driveway can be parked on the main street in front of the main house.
+
+Other things to note
+As pictured, you must be able to climb stairs to access the majority of the rooms and amenities.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 45237292
+Host Profile URL: https://www.airbnb.com/users/show/45237292
+Host Profile URL Source: public user permalink from passport userId
+My work: Contractor
+Lives in Chicago, Illinois
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+636 reviews
+4.97 out of 5 average rating
+10 years of hosting

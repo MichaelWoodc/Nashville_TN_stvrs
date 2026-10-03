@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/735491915238276657
+Latitude: 36.22808
+Longitude: -86.5725
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Green Hill, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+POOL IS OPEN until mid Oct!!!
+A great place to stay for a trip with friends or to bring the family! Comes with a 4ft x 4ft play pen and mat. Grill out during the day and play some lawn games then at night cozy up to a fire and roast some marshmallows!
+We are located 25 mins from downtown Nashville, 20 mins from the Grand Ole Opry, 20 mins from the airport, 5 mins from multiple grocery stores, 10 mins from walking/biking trails and much more! 
+All are welcome
+
+Guest access
+You have access to the fenced in pool (open May through September), grill, fireplace and outdoor dining area in the backyard. It is only shared with the upstairs apartment.
+
+Other things to note
+Please note this is a no smoking and no animals home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lorraine
+Host User ID: 76127139
+Host Profile URL: https://www.airbnb.com/users/show/76127139
+Host Profile URL Source: public user permalink from passport userId
+My work: Health Ins Agent
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+26 reviews
+4.96 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/33248413
+Latitude: 36.20681
+Longitude: -86.76625
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Daisy Duke Den is a an homage to all things Nashville, music and instagram.  With it's patterned walls, cozy fireplace and close proximity to downtown, your time here will not only be memorable, but WILDLY instagramable.  Getchya self some of them likes. Holla back.
+
+Guest access
+You will have access to the whole house bar one bedroom, the basement and a few storage closets. The house is your oyster!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Danielle
+Host User ID: 59748650
+Host Profile URL: https://www.airbnb.com/users/show/59748650
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+295 reviews
+4.89 out of 5 average rating
+7 years of hosting

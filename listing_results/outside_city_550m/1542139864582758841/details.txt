@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1542139864582758841
+Latitude: 36.2141
+Longitude: -86.50193
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 4
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your retreat! Relax in this private king suite with a separate entrance, plush new king bed, and oversized ensuite bath.  Savor quiet mornings on the screened-in porch and take in the charm of our acre property. 
+We’re a young family who truly enjoys hosting and creating a space that feels cozy, welcoming, and easy to unwind in after a day out.
+
+The space
+Inside, you’ll find a large king bedroom with private patio access and a private en-suite bathroom. To help you feel right at home, the room is furnished with a large leather lounge chair—perfect for relaxing and catching up on your favorite shows—a desk for getting things done, and a closet so you can fully unpack and settle in.
+
+We also provide a variety of complimentary snacks, both sweet and salty, so there’s something to satisfy every craving! And don’t forget to enjoy a cup of coffee on your private screened-in patio—an ideal spot to relax with good book or unwind and enjoy the breeze after a long day.
+
+Guest access
+Guests have access to our driveway, backyard, and the private guest suite, which is used exclusively for Airbnb guests. The suite opens to a private screened-in porch, perfect for relaxing. The pool is open seasonally from Memorial Day through Labor Day.
+
+To keep things comfortable for everyone:
+	•	Only the 1–5 registered guests may be on the property (brief pick-up and drop-off are fine).
+	•	No events or outside visitors, please.
+	•	Parking is available for up to two guest vehicles.
+
+Safety Note
+We’ve taken care to make our property as safe as possible with proper lighting and well-maintained walkways. By booking, you accept responsibility for any accidents or injuries that may occur during your stay. 
+
+During pool season, there are no lifeguards on duty. By using the shared pool, guests acknowledge and assume all risks associated with its use.
+
+Thank you for your understanding—we look forward to hosting you!
+
+During your stay
+For the best and fastest communication, we kindly ask that all messages be sent through the Airbnb app. We’re happy to help with any questions, concerns, or local suggestions! We keep a close eye on messages there sent.
+
+Other things to note
+Your comfort is our priority—we’ve double-insulated the connecting door to create a quiet, restful retreat. As the suite is part of our home, you may occasionally hear subtle everyday household sounds. We are a family of three and are always mindful to provide a thoughtful, peaceful stay.
+
+Please note there is one central thermostat for the main floor, located outside the Airbnb suite. If you’d prefer the room warmer or cooler, just send us a message through the Airbnb app and we’re happy to adjust it for you. A fan or space heater is also available upon request!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cecilie
+Host User ID: 412728817
+Host Profile URL: https://www.airbnb.com/users/show/412728817
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Cecilie. I’m a new Airbnb host, but after staying in many Airbnbs myself, I’ve learned the little details that turn a good stay into a great one — and that’s exactly what I hope to provide for you.
+My husband and I moved to Nashville three years ago and quickly fell in love with the city. It truly feels like home now, and we’re excited to share that comfort with our guests. We hope you’ll feel just as welcomed and relaxed here as we do.
+Born in the 90s
+Where I went to school: University of Minnesota - Duluth
+Favorite song in high school: My Own Worst Enemy
+Speaks English
+I'm obsessed with: Seeing all 7 wonders
+Superhost
+10 months hosting
+16 reviews
+5.0 out of 5 average rating
+10 months of hosting

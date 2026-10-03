@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/53795865
+Latitude: 36.1746
+Longitude: -86.78133
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our renovated, waterfront Nashville condo on the Cumberland River! This ground-floor retreat perfectly balances city fun and quiet relaxation. Just minutes from Germantown & Downtown's Broadway honky-tonks, it's your ideal Music City base. Enjoy a full kitchen, community pool, and free parking. Comfortably sleeps 4.
+
+The space
+Welcome to your cozy and convenient home base in Nashville! This bright and airy single-level condo is designed for comfort, accommodating up to four adults. The stylish, contemporary decor features touches of local character, like a Johnny Cash print and a Nashville map, to get you in the Music City spirit.
+
+After a day of exploring you can unwind in a space that has everything you need for a relaxing stay:
+
+• Kitchen: Fully stocked with plates, silverware, glasses, and basic pots and pans. Includes a Keurig 1-cup coffee maker for your morning brew and a toaster for easy breakfasts.
+• Bathroom: We provide shampoo, conditioner, body wash, body lotion, and a hair dryer.
+• Comforts of Home: Fresh linens, sheets, towels, an iron, and an ironing board are all available for your use.
+• Entertainment: Enjoy free Wi-Fi and Smart TVs with access to your favorite streaming services.
+
+Guest access
+You will have private access to the entire one-bedroom condo. You are also welcome to enjoy the shared community amenities, including:
+
+• Outdoor Pool (open seasonally typically April –September)
+• Workout facility with exercise equipment
+• On-site laundry facility
+• Free on-site parking
+
+Other things to note
+• Local Guide: To help you explore like a local, all guests will receive an electronic guidebook with our favorite area recommendations.
+• Smart TVs: The TVs are available for you to log into your personal streaming accounts (Netflix, Hulu, etc.). Cable television is not provided.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stefanie
+Host User ID: 250556418
+Host Profile URL: https://www.airbnb.com/users/show/250556418
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Chicago, Illinois
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+156 reviews
+4.93 out of 5 average rating
+5 years of hosting

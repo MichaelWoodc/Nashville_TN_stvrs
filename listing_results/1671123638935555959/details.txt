@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1671123638935555959
+Latitude: 36.1813
+Longitude: -86.7477
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step right into Nashville vibes—where boots meet guitars. This custom-built 2BR, 1.5BA retreat features 2 queen beds, an open layout, and a screened porch with TV, fire table, and dining space. Enjoy a fenced yard with fire pit, grill & cornhole. Inside: Dolly & Taylor-inspired rooms, curated guitar décor, and a karaoke setup. Walkable Lockeland Springs, <2 miles to downtown, parking for 2.
+
+The space
+Enjoy a fully equipped kitchen with stocked cookware, seamlessly flowing into an open-concept living area designed for comfort and connection. Upstairs, you’ll find two inviting bedrooms with a shared tub/shower bathroom, while the downstairs half bath features stunning custom floral wallpaper for a stylish touch.
+
+Step out to the screened porch—your own cozy retreat with a sofa, chairs, large TV, fire table, and dining space perfect for relaxing or entertaining. The fenced yard welcomes your fur baby and offers a grill, fire pit, and cornhole for outdoor fun.
+
+Inside, creativity shines with artistic guitars, cowboy boot accents, and a blend of country charm and modern comfort. Turn up the fun with your own karaoke setup—perfect for a Bluebird Café-style night in. Whether it’s a girls’ getaway, creative retreat, or work/play escape, this space feels like home with a little Nashville magic.
+
+Guest access
+Guests have access to the full home as well as fenced yard and driveway.
+
+Other things to note
+* Off-street parking available for up to 2 vehicles.
+* The yard is fully fenced and private for guest use.
+* There are no stairs required to enter the home; however, stairs are required to access the bedrooms.
+* The sofa converts into a comfortable sleeper bed.
+* Firewood is not provided for the outdoor Solo Stove.
+* The home includes both a standard coffee maker and an espresso machine. Ground coffee is provided, along with a small starter supply of espresso pods.
+* The home is located behind the main house but has its own private entrance and yard. It is an entirely separate home.
+*Smart TVs are provided for streaming with your personal accounts.
+* Quiet hours begin at 9 PM out of respect for neighbors.
+* Starter supplies are provided, but guests may need to purchase additional items for longer stays.
+* The property is family-friendly, but bedrooms are located upstairs.
+* Important Note: The home is 650 square feet and includes a screened-in porch. Maximum occupancy: 6 guests.Please be aware that there is only one shower in the property.  We encourage you to review the photos carefully before booking. Please ensure you are comfortable with accommodating 6 guests in a 650-square-foot space.  Thank you for your understanding!
+
+We want guests to feel comfortable and fully prepared for their stay, so please feel free to reach out with any questions before booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

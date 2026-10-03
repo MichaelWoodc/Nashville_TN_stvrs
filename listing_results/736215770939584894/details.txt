@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/736215770939584894
+Latitude: 36.20216
+Longitude: -86.7553
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish 3BR townhouse is located in East Nashville, a vibrant neighborhood within walking distance of a great selection of restaurants and entertainment. Beautiful newly constructed 3 storey townhouse that's just a few minutes away from Broadway!
+
+The space
+Enjoy your time in The Music City with your group of friends or family by spreading out in our spacious new-construction home.  Just moments from downtown, this home is the perfect place to get ready for your night out on Broadway, or to relax as a group while using our ample open-space social area and fully equipped kitchen. Wind down your day in our generous sleeping arrangements or cozy up on the couch to watch your favorite show. Our home is close to restaurants, nightlife, shopping, parks and much more.
+
+Other features:
+Washer and dryer 
+Excellent wireless internet
+Cable TV with Netflix
+Memory foam mattresses
+Extra pillows and blankets
+Comfortable linens
+Cotton bath towels
+Hair dryers
+Shampoo and body wash
+
+Guest access
+Guest access will be provided via a timed keypad lock that will begin at 4 PM the day off check-in and be cut off at 11 AM the day of check-out
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

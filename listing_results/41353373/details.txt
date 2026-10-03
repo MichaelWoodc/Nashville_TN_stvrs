@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/41353373
+Latitude: 36.11187
+Longitude: -86.73006
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 11
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Contemporary farmhouse in a quaint neighborhood, located 5 miles from downtown Nashville. We are centrally located between downtown & BNA airport. 
+
+Relax and feel at home with plenty of space to unwind and entertain.  This cute, updated farmhouse has a kitchen ready for a home cooked meal.  Beds are comfortable.  Bathrooms are stocked.  We have taken care of all the details, so now all you need to do is enjoy what Nashville has to offer.
+
+The space
+Single Family home in a suburb of Nashville, south of downtown. Near I-24 for easy access to the freeway. Nestled on a quiet street, with great neighbors.
+Built in 1951. The house was recently renovated. 
+There are three floors. There are two sets of steep stairs within the property. I would not recommend the top floor (it has two Queen beds, kid area & foosball table) to those with mobility restrictions. The bottom floor has a basement walkout. 
+The main floor has the kitchen, dining area, breakfast nook, living room, two bedrooms (king bed & full size bunk bed) & full bathroom. 
+The basement has a bedroom (king bed), full bathroom, gym and utility room. 
+Theres a walkout basement, patio on the back the home with a bbq & chairs. The covered front porch with swing, makes for a great spot to have your morning coffee.
+
+Guest access
+Front Door - Key Code Access given day of rental
+
+Check-in Time: 3pm
+If you’re needing to arrive earlier, please contact the host for availability and fee.
+
+Registration Details
+2020000495
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elisha
+Host User ID: 98995022
+Host Profile URL: https://www.airbnb.com/users/show/98995022
+Host Profile URL Source: public user permalink from passport userId
+Traveling the world and experiencing new cultures is my greatest passion in life!  After traveling for years, I've decided to become a host and share what I enjoy.  I look forward to meeting my fellow travelers.
+Speaks English and Sign Language
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+175 reviews
+4.94 out of 5 average rating
+7 years of hosting

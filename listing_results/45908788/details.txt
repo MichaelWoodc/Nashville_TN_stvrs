@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/45908788
+Latitude: 36.14284
+Longitude: -86.85731
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a fun, relaxing visit to Nashville in this comfortable, hassle-free guest suite. Located about 10 minutes from downtown, and much less for other great local spots!
+
+Since the suite is located on the side of a hill, you will have a great view looking to the east. If you enjoy a good sunrise, you are in luck!
+
+The space
+This guest suite is located on the first floor of my townhouse, in beautiful West Nashville. The space is a private studio with sleeping quarters, breakfast nook, kitchenette, and full bathroom. The only "shared" space is the front door and stairway, which leads to the guest suite, and hosts living quarters. Some amenities include:
+
+-Automated Locks for Easy Entry/Exit
+-Comfortable High-End Queen Size Mattress 
+-4k Smart TV
+-Fridge with Ice Maker
+-Electric Stove and Oven
+-Cooking Utensils, Plates, Silverware, etc. 
+-Coffee Maker and Coffee
+-Microwave
+-Thermostat
+-Iron and Ironing Board
+
+Guest access
+You will have access to the first floor guest suite, you do not have access to the hosts living quarters or garage.
+
+Registration Details
+2021036741
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike
+Host User ID: 347192281
+Host Profile URL: https://www.airbnb.com/users/show/347192281
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Mike! I like to travel and host as well. Low key, and fun!
+Born in the 80s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+49 reviews
+4.98 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/51987374
+Latitude: 35.95729
+Longitude: -86.84861
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A perfect place to relax, write, or enjoy family time by night after attractions and shopping historic Franklin, TN by day!
+
+The space
+Our Home is a cozy and updated little Farmhouse built in the year 1900.  Sorry no pets, please. 
+Your stay is the first floor, as the 2nd floor remains closed /unoccupied, so the entire place is private for you! 
+Our solid white walls and interior brick contrast our original rustic flooring.  We hope you’ll relax well in our living area, sleep well in our comfy beds, view the stone walls and wildlife from our our back windows, and the foot of the mountain from our side door/fire pit area.  We hope the weather allows for a nice front porch cup of coffee with the lovely view!
+
+Guest access
+Park in our large driveway and enter home from the side porch. Access code will be provided day of arrival. :)
+
+Other things to note
+Sometimes our antique farmhouse requires a little warmup during cold winters! Although we *do not* use the fireplace, you can feel free turn on  the wall heaters in living and king bedrooms (turn knobs to the far right) 
+to take the chill off the air, then please turn off before bedtime. :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Holly
+Host User ID: 14684333
+Host Profile URL: https://www.airbnb.com/users/show/14684333
+Host Profile URL Source: public user permalink from passport userId
+I am on my encore career as a boutique Talent Agent.  I specialize in Social Media wheeling and dealing.  My grown kids are in the entertainment /advertising realm, my husband is a retired Fire Chief. 
+I am still having fun with most of it.  I live in South FL half time but am still a TN girl at heart.   I want to be successful writer when I grow up. :)
+Where I went to school: University of Memphis
+My work: Encouragement &  fun
+Response rate: 90%
+Responds within a few hours
+5 years hosting
+59 reviews
+4.98 out of 5 average rating
+5 years of hosting

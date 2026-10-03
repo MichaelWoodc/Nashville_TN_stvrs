@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/929980466861431193
+Latitude: 36.15595
+Longitude: -86.77539
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You won’t have to head to the Caribbean to find your lost shaker of salt. In fact, it’s right upstairs at the resort’s rooftop bar. Lounge poolside until the sun hangs low, take it easy by the fire pit, and see panoramic views of downtown as live music loosens your mood. Hit the area honky-tonks, then relax back in your island-themed suite.
+
+Space includes a King bed and a Double sleeper sofa, along with a mini kitchen and bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brad And Sarah
+Host User ID: 21265745
+Host Profile URL: https://www.airbnb.com/users/show/21265745
+Host Profile URL Source: public user permalink from passport userId
+Husband and wife with two littles under the age of 12.  We love to travel, love the outdoors, and love to share other parts of the world and our country with our children.  
+
+We both believe vacation and traveling is so important, and that carries over into how we take care of the people who book vacations with us!
+Where I went to school: Duke University & Missouri State Univ.
+My work: I host on AirBNB!
+Response rate: 88%
+Responds within a day
+Superhost
+5 years hosting
+4652 reviews
+4.88 out of 5 average rating
+5 years of hosting

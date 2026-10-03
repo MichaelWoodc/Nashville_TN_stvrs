@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/3811909
+Latitude: 36.18391
+Longitude: -86.72637
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful renovated cottage in the heart of booming East Nashville! The cottage is 400 sq ft of your own private space. This property is my home but the only thing shared is the driveway.  You'll have full privacy in your own space with your own entrance, bedroom, open living area/ Ikea kitchen, with everything you need including microwave, stove, and refrigerator.
+There's a cozy electric fireplace, heated floors, and is a short walk (or drive) to local restaurants, shops and entertainment!
+
+The space
+The cottage is a wonderful space to comfortably accommodate 2 guests.  Everything is new! We consider this well established neighborhood to be the best!
+
+Guests will have access to the cottage, fish pond and back deck area, and for more outside space can stroll down front 'neath the beautiful maple tree
+for coopside ...'chicken tv'... Where Elliemay, Marygold, Fancy, Goldie & Ruby put on a show of their own! 
+
+I am happy to answer questions about the area and reachable by text or phone most of the time, if not in person.
+
+Experience all the great local flare of East Nashville shopping, restaurants, coffee shops, art, music and more. Ten minutes drive to lively downtown tourist attractions!
+
+Guest parking is available. Walk to many local restaurants, coffee shops, Jenni's ice cream, & boutique shops. 'Lyft' or 'Uber' are also good options. Also, we are one block away from a public transportation/metro bus stop.
+
+Guest access
+Guests will have access to The cottage, fish pond seating area, and for more outside space can stroll down front 'neath the beautiful maple tree
+for some coopside ...'chicken tv'.
+
+Other things to note
+Permit #: (PHONE NUMBER HIDDEN)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jess
+Host User ID: 11543228
+Host Profile URL: https://www.airbnb.com/users/show/11543228
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+475 reviews
+4.96 out of 5 average rating
+12 years of hosting

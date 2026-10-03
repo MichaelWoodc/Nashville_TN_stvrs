@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/857309159089098892
+Latitude: 35.968
+Longitude: -87.0142
+rental_type: Private room in rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nested in a protected watershed valley, this ranch house (4BR, 3bath) is surrounded by forested hiking trails, meadows and creeks to explore. Next to an old fashioned working well! Optional outside hot tub ($50 fee). No close neighbors. Drive to nearby lake for picnic. Canoes available. Organic farm next door. NO INSIDE PETS. Fenced area for outside pets.
+
+The base price is 4 PERSONS. $40/person/night charge for additional.
+
+The space
+Large living area, kitchen, dining area.
+Modest house in a very, very large setting. An outdoor spa need not be heated and serves as a pool. 150- and 300- gallon stock tanks may also be used to cool off and refresh during warmer weather. Big East Fork Creek is wonderful to explore and runs across the entrance to the property. Miles of trails begin just outside your door !  Unlimited blackberries during season (Late June to Early July).
+Walk to organic farm and the nearby. Bike to Lake Gratitude. Canaan Valley Farms is just across the driveway. Ask Ryan and Chané for a tour.
+
+Guest access
+Access to livingroom, dining room, front and back patios, hundreds of acres of meadow and forest. 
+
+Three magnificent trails pass by the Southern Hospitality Ranch. The Short Meadow Trail goes through a pasture then crosses a creek, goes through a hardwood forest and ends at The Fork Inn. The Log Meadow Trail winds through a meadow, crosses a small creek, goes through a young forest parallel to Big East Fork Rd to the four-pole barn. One half mile along the Farm Trail brings you to Center for Sustainable Stewardship's Farm Store. The Governor's Trail starts right behind the Ranch. Trails are maintained by CSS. Donations gladly accepted!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+My work: Hospitality, Trails
+Lives in Franklin, Tennessee
+What makes my home unique: Trails, creeks, wildlife in the Agrihood
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

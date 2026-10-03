@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1715573934096791838
+Latitude: 36.20354
+Longitude: -86.78424
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🛏️ Bedroom 1: Comfortable Queen Bed
+🛏️ Bedroom 2: Two Twin Beds
+🛁 1 Full Bathroom
+🌿 Spacious outdoor area perfect for relaxing, enjoying your morning coffee, or unwinding after a day of exploring.
+🍽️ Fully equipped kitchen for preparing meals.
+📺 Comfortable living room with Smart TV and Wi-Fi.
+🚗 Driveway parking available.
+
+Amenities
+
+Free Wi-Fi
+Smart TV
+Fully equipped kitchen
+Fresh towels & linens
+Air conditioning & heating
+Free parking
+Private outdoor seating area
+
+The space
+2 bedroom 3 beds and 1 bathroom
+
+Guest access
+Guest has excess to entire home and outdoor space for a private, comfortable stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Herschel
+Host User ID: 217556749
+Host Profile URL: https://www.airbnb.com/users/show/217556749
+Host Profile URL Source: public user permalink from passport userId
+Lives in Bowling Green, Kentucky
+Response rate: 100%
+Responds within an hour
+9 months hosting
+4 reviews
+3.25 out of 5 average rating
+9 months of hosting

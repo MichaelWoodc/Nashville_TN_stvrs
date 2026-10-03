@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/16081511
+Latitude: 36.1471
+Longitude: -86.8185
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in a prime location walking distance to Centennial Park and local restaurants, this updated cottage basement apartment offers the perfect retreat with quick access to Vanderbilt.
+
+Inside, you will find a bright, inviting interior featuring timber floors, unique artwork, and thoughtful design touches that make you feel right at home. There is a fully equipped, full-size kitchen.
+
+There are two bedrooms, one with a king bed, the second has a twin bed with a pull out, twin trundle.
+
+The space
+This is an adorable, renovated, downstairs, private apartment that is small, but comfortable.   One bedroom has a King sized bed and the second bedroom has a twin bed and a trundle twin bed. There is a full kitchen and small living space.  There is a common laundry space available for use.  Great outdoor living space for relaxing!
+
+Guest access
+You can check in anytime on your own.  There is a digital lock keypad on the  entry door.
+
+Other things to note
+Please note that the twin bed + twin trundle room doesn’t have a door and when the trundle is pulled out the beds are wall to wall.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

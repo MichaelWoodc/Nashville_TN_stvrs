@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1720822059726447666
+Latitude: 36.1683
+Longitude: -86.7829
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Broadway | Luxury Stay | FREE Parking 
+
+Welcome to AirVanta at 500 Fifth! Stay in the heart of Downtown Nashville with 6th-floor city views, parking self check-in, a rooftop pool, fitness & business centers, Smart TV with Netflix, fast Wi-Fi, and a full kitchen.
+
+Across from the Country Music Hall of Fame • 12-min walk to Broadway • 10-min walk to Bridgestone Arena • 6-min walk to Music City Center.
+
+Your perfect Music City getaway awaits!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sahar
+Host User ID: 226697215
+Host Profile URL: https://www.airbnb.com/users/show/226697215
+Host Profile URL Source: public user permalink from passport userId
+My work: Entrepreneur
+I'm obsessed with: Cars 
+Response rate: 100%
+Responds within an hour
+2 months hosting
+3 reviews
+5.0 out of 5 average rating
+2 months of hosting

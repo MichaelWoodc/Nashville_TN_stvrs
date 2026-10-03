@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/48922867
+Latitude: 36.15502
+Longitude: -86.82087
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place. BRAND NEW 4BEDROOM/4.5 BATH HOME NOW Available! This luxury end-unit townhome is in Nashville's great neighborhood, City Heights! Close to everything, Nashville! This Luxury home with hardwood & fabulous tile work throughout! Gourmet kitchen with professional appliances! Plenty of storage space with a Washer/Dryer! AMAZING Rooftop skyline views of Nashville. Walkable One City, City's culture, and commercial development. Permit2022014054
+
+The space
+Brand New End-Unit Townhouse in the designated area of Midtown. Rooftop with downtown skyline views. Close to all. Walk to eat and shop.
+
+Guest access
+Entire townhouse access. Free use of laundromat.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenny & Henry
+Host User ID: 101769523
+Host Profile URL: https://www.airbnb.com/users/show/101769523
+Host Profile URL Source: public user permalink from passport userId
+I’m AirBNB Super host.
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+386 reviews
+4.96 out of 5 average rating
+10 years of hosting

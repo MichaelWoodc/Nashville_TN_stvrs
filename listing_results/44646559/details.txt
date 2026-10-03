@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/44646559
+Latitude: 36.20826
+Longitude: -86.76552
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 11
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New modern decor with a Nashville feel. Fully stocked with toiletries,  complementary coffee/tea station,  condiments, cookware,  & laundry soap etc. A great place to stay when having a Nashville style get away  with friends or family, for a memorable time. Heater/Air conditioning settings for each floor, 3 flat screens all with complementary Netflix, Disney +, prime, and Apple TV.  Please note- no parties or events aloud. Absolutely no smoking of any kind.
+
+The space
+Super close to downtown, 4 min drive to Nissan stadium (1 mile), 2 min walk to grocery store, the best top eats, and famous restaurants in Nashville, available on Uber eats & Doordash from this location. Including: Hattie B’s hot chicken (Justin Timberlakes favorite), Rolf & Daughters, Emmy squared, Juicy seafood (crab), Five Daughter’s bakery, and more! Please note that parties  & events are not allowed. Absolutely no smoking of any kind aloud.
+
+Guest access
+Pull up bar & weights on 3rd floor. Patio great for sunrise & sunsets, with a cup of coffee, or glass of wine.
+
+Other things to note
+Please no food or drinks on couch, or shoes on the carpet in living room. No smoking of any kind aloud, smoke odor removal fees will be applied.
+
+Registration Details
+2020011554
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dana
+Host User ID: 72490926
+Host Profile URL: https://www.airbnb.com/users/show/72490926
+Host Profile URL Source: public user permalink from passport userId
+Lives in Millbrae, California
+Response rate: 100%
+Responds within an hour
+6 years hosting
+90 reviews
+4.91 out of 5 average rating
+6 years of hosting

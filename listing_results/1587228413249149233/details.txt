@@ -1,0 +1,94 @@
+URL: https://www.airbnb.com/rooms/1587228413249149233
+Latitude: 36.17494
+Longitude: -86.74518
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your own private retreat in the heart of East Nashville! Tucked behind our home, this newly built detached guest house (DADU) offers the perfect blend of privacy, comfort, and convenience. Whether you’re visiting for live music, incredible food, sporting events, or a weekend getaway, you’ll have a peaceful place to relax while staying just minutes from everything Nashville has to offer.
+
+The space
+Designed with comfort and thoughtful details throughout, our private guest house comfortably accommodates up to four guests and features:
+
+* Spacious bedroom with king-size bed
+* Queen sleeper sofa in the living room
+* Full bathroom
+* Fully equipped kitchen 
+* Open living area with Smart TV
+* Wi-Fi and designated work space 
+* In-unit washer and dryer
+* Self check-in with a personalized keypad
+* Free on-site parking
+
+Whether you’re traveling as a couple, with friends, for business, or with family, you’ll have everything you need to feel at home.
+
+The Neighborhood
+
+One of the best parts of staying here is the location. Our guest house is nestled in one of East Nashville’s most walkable neighborhoods, just a short stroll from Five Points and the heart of East Nashville.
+
+From your front door, you can easily walk to:
+
+* Five Points dining, shopping, and nightlife
+* Local coffee shops and cafés
+* Award-winning restaurants
+* Craft breweries and cocktail bars
+* Boutique shopping and local markets
+* Live music venues
+* Shelby Park and Shelby Bottoms Greenway for walking, running, and biking
+
+When you’re ready to explore beyond the neighborhood, you’ll be just:
+
+* 10 minutes to Broadway & Downtown Nashville
+* 10 minutes to Nissan Stadium
+* 12 minutes to The Gulch
+* 15 minutes to Vanderbilt University
+* 15 minutes to Nashville International Airport (BNA)
+
+Guest Access
+
+You’ll have exclusive access to the entire first floor of the house with your own private entrance, dedicated parking space, and convenient self check-in using a personalized keypad.
+
+During Your Stay
+
+We live in the main house on the property and are available if you need anything during your stay. While we’re happy to answer questions or share local recommendations, your guest house is completely separate, allowing you to enjoy as much privacy as you’d like.
+
+House Rules
+
+* Maximum occupancy: 4 guests
+* No parties or events
+* No smoking or vaping inside
+* Quiet hours: 10:00 PM–8:00 AM
+* Please treat our guest house as if it were your own
+
+Whether you’re here to experience Nashville’s legendary music scene, discover East Nashville’s incredible restaurants and local shops, catch a game, or simply relax, we’d love to host you and help make your stay unforgettable.
+
+Other things to note
+Residential Short Term Rental 
+Permit #:2025106081
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Peter
+Host User ID: 21378638
+Host Profile URL: https://www.airbnb.com/users/show/21378638
+Host Profile URL Source: public user permalink from passport userId
+Just married the love of my life in August, 2014. Looking forward to lots of long weekend trips!
+My work: Attorney
+Speaks English
+Response rate: 100%
+Responds within an hour
+9 months hosting
+3 reviews
+5.0 out of 5 average rating
+9 months of hosting

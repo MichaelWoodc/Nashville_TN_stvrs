@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1587182495602229289
+Latitude: 36.1589140908652
+Longitude: -86.8055498285465
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The 1865 — a luxury condo inside Nashville's iconic restored 1800s tobacco warehouse. Featuring hardwood floors, high-end finishes, and modern appliances. Enjoy exclusive access to a saltwater pool, outdoor bar, fire pits, fitness center, and sky deck with downtown views. Just 2 miles from Broadway and minutes from The Gulch and Music Row. Your perfect Nashville getaway
+
+The space
+Step into this beautifully designed luxury condo nestled inside The 1865 — Nashville's most iconic historic tobacco warehouse, completely reimagined into a modern boutique living experience.
+The space is bright, stylish, and thoughtfully laid out with gleaming hardwood floors, quartz countertops, high-end appliances, and large windows that let the Nashville sunshine pour in. Every corner has been carefully curated to make you feel right at home from the moment you walk in.
+The bedroom features a comfortable Queen bed for a restful night's sleep, and the living space doubles as additional sleeping quarters with a Queen sleeper sofa — perfect for the group. Need a little extra room? We've also got a Queen sleeper air mattress ready to go, making this space comfortably set up for up to 6 guests.
+The fully equipped kitchen means you can cook in when you want a break from Nashville's incredible dining scene — though with so many amazing restaurants just steps away, that might be a tough call!
+As a guest you'll also have exclusive access to all of The 1865's resort-style amenities — saltwater pool, outdoor bar, fire pits, fitness center, and the sky observation deck with stunning downtown Nashville views. It's truly a one-of-a-kind stay
+
+Guest access
+Here's "Guest Access" section:
+
+The entire condo is yours for the duration of your stay — no shared spaces, no interruptions, just your own private Nashville retreat.
+Check-in is completely self-guided with a smart lock — your unique door code will be sent to you prior to arrival so you can head straight in on your own schedule. No keys, no waiting around.
+Inside the condo:
+Full access to the bedroom, bathroom, living area, and fully equipped kitchen — everything you need is right there waiting for you.
+Building amenities — exclusively for guests:
+This is where The 1865 really sets itself apart. As a guest you'll have full access to:
+
+🏊 Saltwater pool — perfect for those warm Nashville afternoons
+💪 Fitness center — stay on your routine while you travel
+🍸 The Speakeasy — a one-of-a-kind bar experience right inside the building
+🎩 The 1865 Club — an exclusive lounge and entertainment space unique to this property
+
+Parking:
+Free parking is available on premises for your convenience.
+Access:
+The building is gated and secured — you'll receive everything you need to access the building and all amenities prior to your arrival.
+This isn't just a condo — it's a full experience. Welcome to The 1865!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

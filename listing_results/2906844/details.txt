@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/2906844
+Latitude: 36.17739
+Longitude: -86.74131
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 2
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a non smoking property. Enjoy privacy in our bright, airy loft in fun and funky East Nashville. Newly constructed beautiful space features full kitchen, bath w/tub-shower, stunning decor, private parking and entrance. Just 2 blocks from Five Points, 2 miles from downtown.
+
+The space
+The bright, spacious, light filled loft is located in Historic East Nashville.  On the second floor with windows on every side and nestled in the trees it almost feels like a luxury tree house.  We have private parking off the alley and a private entrance with a fenced courtyard.  Entering the loft  you will find a contemporary and serene space perfect for resting and relaxing while enjoying our great city.  It is beautifully decorated with modern and comfortable furniture.  
+The bedroom area has 3 big windows with southern exposure for tons of light. The queen size bed is very comfortable with two bedside tables with storage for your personal items, and two reading lamps on either side of the bed.   
+The living area has a sectional sofa perfect for lounging or napping.  Although the apartment is perfect for one or two guests it can accommodate 1 to 2 more when the sofa is pulled out into a sleeper.  There is a $10 dollar nightly charge per extra guest with a maximum of 4 guests total in the loft.  High speed wireless access is available.
+The eat in kitchen is small but well equipped for cooking with a stove, refrigerator, and a full complement of cooking equipment and dishes for food preparation.  Or you can reheat leftovers from one of the fabulous restaurants in the neighborhood.  There is a coffee maker and toaster although there are at least six coffee shops or bakeries within walking distance for breakfast.
+The bath has a full size tub-shower combo with subway tile surround and curved shower curtain rod for extra space.
+
+My family lives in the main house with our 2 dogs, Olive and Hazel.  The dogs are very friendly and well behaved and don't have access to the loft's courtyard.
+
+Guest access
+You will have access to a shady fenced courtyard.  It is private and calm but connected to our back yard where we sometimes garden and hang with the dogs.
+
+Other things to note
+Parking is available next to apartment. 
+No smoking on the property. 
+Additional Guests $10 per person per night.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sara
+Host User ID: 6117864
+Host Profile URL: https://www.airbnb.com/users/show/6117864
+Host Profile URL Source: public user permalink from passport userId
+I enjoy camping and hiking with my family of 3 (plus 2 dogs), dancing, gardening, and reading.  When I'm not sleeping under the stars I live and work in the greatest neighborhood. East Nashville is full of friendly and interesting people and I'm proud to call it home.
+My work: Stylist
+Speaks English
+Response rate: 100%
+Responds within a few hours
+Superhost
+12 years hosting
+823 reviews
+4.86 out of 5 average rating
+12 years of hosting

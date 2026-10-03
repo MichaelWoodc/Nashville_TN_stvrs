@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/915285238311704497
+Title: Reunion-Bar & Restaurant Open-1 Mile to Broadway!
+Latitude: 36.1775
+Longitude: -86.74879
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Reunion, a unique hotel experience in the highly sought after Five Points area of East Nashville. We have eight uniquely inspired rooms. While each room is different, they all come with the comforts needed for a fun trip to Nashville.
+
+Reunion, however, is not just a place to stay, it’s also a place to celebrate and embrace artistic achievements and the power of creative collaboration. These 8 unique rooms surround the cool and lively bar, Reunion.
+
+The space
+REUNION BAR: 
+
+Step into our authentically charming bar, evoking the spirit of literary greats like the Bloomsbury Group and late-night strolls along Paris's Left Bank. Inspired by nature and vintage publishers' marks, our style ignites creativity. 
+
+NOISE: 
+While we're at the heart of the action, we can't promise complete silence, but our well-insulated rooms offer thoughtful design. Need absolute quiet? We might not be your cup of tea. 
+
+As a guest at Reunion, enjoy East Nashville's culinary delights with to-go orders from our bar, or grab our exceptional beers to enjoy in your room. Though the bar is our heartbeat, it operates separately from the rooms. Don't worry—our management team ensures a seamless stay.
+
+Embark on a journey of creativity and community at Reunion, where our rooms attached to the bar in Five Points offer comfort, character, and convenience. Experience the magic of art and vibrant neighborhood life here.
+
+Bar Hours: 
+Sunday - Thursday: 2pm  - 2AM
+Friday & Saturday: 11AM - 2AM
+
+Guest access
+Guest will access their hotel room through the secured gate on the side of the building. This is protected by a unique code that changes per stay. Guests will NOT enter through the bar. During their stay, guests will have access to the courtyard, the rooftop bar, the back entrance to the bar & the coffee station located on the second floor. Please note, there is an elevator on-site that provides ADA access for the second-floor rooms only.
+
+Other things to note
+Reunion Rooms 101 & 102 have ADA access from the rear entrance.
+
+The elevator provides ADA access to 2nd floor rooms. If you need elevator access during your stay, please do not book any units on the third floor.
+
+The 3rd floor rooms do not have ADA access.
+
+While the bar is the beating heart of the establishment, it is important to note that the rooms and the bar operate separately. We want our guests to have the convenience of an onsite spot for drinks & food, but the bar staff does not manage nor assist with the guest experience. Rest assured, though, all those who choose to stay at Reunion will be cared for by the management team every step of the way.
+
+While we're nestled in the heart of the action, we understand that some guests may have concerns about noise. While we cannot guarantee 100% soundproofing, please know our rooms are thoughtfully designed and exceptionally well-insulated. If you need absolute silence to drift off into that deep sleep we all need, then as your friend, we encourage you to find somewhere else to stay. By all means come visit the bar, though!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Reunion
+Host User ID: 520373594
+Host Profile URL: https://www.airbnb.com/users/show/520373594
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 70%
+Responds within an hour
+3 years hosting
+172 reviews
+4.62 out of 5 average rating
+3 years of hosting

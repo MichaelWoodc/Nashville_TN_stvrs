@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/860246944536035638
+Latitude: 36.027
+Longitude: -86.58201
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Forget your worries in this spacious and serene space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elijah
+Host User ID: 365360071
+Host Profile URL: https://www.airbnb.com/users/show/365360071
+Host Profile URL Source: public user permalink from passport userId
+Lives in Clarksville, Tennessee
+Response rate: 40%
+Responds within a few days or more
+4 years hosting

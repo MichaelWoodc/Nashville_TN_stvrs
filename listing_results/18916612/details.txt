@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/18916612
+Latitude: 36.20378
+Longitude: -86.72166
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our clean, newly renovated East Nashville/Inglewood home is located on a quiet street, just one block (short walk) to a hip coffee shop, deli, pub, restaurant, and record shop. Less than 5 miles (10 min drive/cheap uber) to downtown Nashville, and 7 miles to The Grand Ole Opry.
+
+The space
+Live like a local in the desirable East Nashville neighborhood, close to downtown! Stocked with a Keurig coffee machine, shampoo/conditioner, towels, soft sheets, comfortable beds, and full kitchen. Or, if you prefer not to cook, there are great restaurants within walking distance.
+
+Guest access
+There are 2 entries to our home, guests will be given the key code upon arrival.
+
+Other things to note
+Short Term Rental Permit #SevenTwoZeroEightZeroZeroFiveTwoZeroZero
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lindsay
+Host User ID: 23539684
+Host Profile URL: https://www.airbnb.com/users/show/23539684
+Host Profile URL Source: public user permalink from passport userId
+We have always had trouble staying in one place for more than a year, until we found Nashville (which we have called home for almost 10+ years now). We really fell for the East Nashville/Inglewood community and all it has to offer- wonderful people, restaurants, record stores, shops etc. We are both former hockey players from Toronto and Northern New York, and love raising our 3 kiddos here in Nashville. Enjoy your stay in this amazing city!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+9 years hosting
+73 reviews
+4.96 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1691394379182704298
+Latitude: 36.394
+Longitude: -86.4709
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wallspring Cottage — Color, Character & Cottage Charm
+Colorful, eclectic, and full of grandma's best design instincts, this 1,024 sq ft English cottage-inspired retreat sleeps 6 with 3 beds & 2 baths. Antiques, bold patterns, and curated charm fill every corner of this historic Wallspring Estate gem — once part of a grand 200-acre property.
+Fully stocked kitchen and baths, plus a peaceful tree-lined backyard. Just 30 minutes to downtown Nashville and 5 minutes to Gallatin's historic town square.
+
+The space
+The Space
+The heart of the cottage is a large open-concept kitchen flowing seamlessly into the living room — plenty of space to cook, gather, and entertain. A shared full bathroom serves the common areas, and a washer and dryer are on site for added convenience.
+Bedrooms:
+
+Bedroom 1 — Full bed with a private en suite bathroom
+Bedroom 2 — Queen bed with a therapeutic adjustable mattress that raises and lowers for your perfect night's sleep
+Bedroom 3 — Two twin beds, ideal for kids or friends
+
+Plenty of parking on site, and out back you'll find a peaceful yard that opens up to 3.5 acres of the original historic Wallspring Estate — your own quiet slice of history right outside the door.
+
+Guest access
+You will have the entire home to yourself so can access it all other then the exterior storage shed outside.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Meagan
+Host User ID: 16922948
+Host Profile URL: https://www.airbnb.com/users/show/16922948
+Host Profile URL Source: public user permalink from passport userId
+Welcome! We’re so glad you’re here. I’m Meagan, an interior designer who specializes in bringing old-soul charm and modern comfort back into historic homes. My husband is a mobile chiropractor who offers house-call appointments, so if you’d like personalized wellness care during your stay, just let us know. We love creating meaningful spaces, connecting with guests, and helping people feel relaxed, restored, and at home in Nashville.
+Born in the 80s
+Where I went to school: Indiana
+Response rate: 100%
+Responds within an hour
+12 years hosting
+294 reviews
+4.61 out of 5 average rating
+12 years of hosting

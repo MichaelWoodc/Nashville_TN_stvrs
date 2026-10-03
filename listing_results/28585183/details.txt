@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/28585183
+Latitude: 36.1827
+Longitude: -86.69282
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You’ll be delighted to be living in the highly desirable neighborhood of Hip Donelson and perfect central location. Located just minutes from the airport, downtown Nashville and The Opry location doesn’t get much better. This three-bedroom, two bath ranch-style retreat offers you authentic touches of Nashville throughout. 
+
+Your hosts are Nashville based hospitality professionals who’ve thought of it all and afford you the ability to relish in the charm of true southern hospitality.
+
+The space
+When not enjoying your time on the oversized deck, the home offers you comfort throughout. As you walk into the retreat you enter an open concept kitchen and living space with wood beams lining the ceiling and an exposed brick feature wall.  Bedroom one features two twin beds. Bedroom two feature a queen bed. A recently renovated bathroom separate the two guestrooms. Just down the hall you’ll find the primary bedroom featuring a king bed and en-suite.
+
+We listen to our guest and added additional living space with a huge sectional with built in sleeper bed. The new room adds more lounging space to sit back and relax and enjoy the brand new 70 inch HDTV.
+
+Guest access
+While staying at the Retreat you will have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mac
+Host User ID: 117174684
+Host Profile URL: https://www.airbnb.com/users/show/117174684
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+95 reviews
+4.95 out of 5 average rating
+3 years of hosting

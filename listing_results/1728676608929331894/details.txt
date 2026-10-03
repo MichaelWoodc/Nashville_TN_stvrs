@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1728676608929331894
+Latitude: 36.18203
+Longitude: -86.75294
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The home has a cozy living area with a smart TV, and high-speed WiFi, creating a relaxing space to unwind. The kitchen features cookware, and a coffee maker. Step outside to a private patio area, perfect for morning coffee or evening relaxation. The best features of the home is its walkable location! Minutes away from grocery stores, local liquor stores. Bars and restaurants for dining and nightlife. Easy access to everyday essentials without needing a car. *This property does have outside steps
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacey
+Host User ID: 379388721
+Host Profile URL: https://www.airbnb.com/users/show/379388721
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 70%
+Responds within a day
+2 months hosting
+2 reviews
+4.5 out of 5 average rating
+2 months of hosting

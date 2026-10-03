@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1744894694271440966
+Latitude: 36.1532
+Longitude: -86.7929
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: None
+occupancy: 2
+fields_status: missing: bedrooms, beds, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sports Illustrated Resorts Nas
+Host User ID: 1724749074016202064
+Host Profile URL: https://www.airbnb.com/users/show/1724749074016202064
+Host Profile URL Source: public user permalink from passport userId
+2 months hosting
+1 reviews
+4.0 out of 5 average rating
+2 months of hosting

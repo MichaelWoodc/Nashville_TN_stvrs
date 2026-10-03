@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1290899232595662852
+Latitude: 36.16441313018649
+Longitude: -86.80210221100305
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy, Nashville-themed 5-bedroom, 7-bed apartment! Perfectly located in the heart of Nashville, this budget-friendly gem offers a comfortable stay with easy access to Marathon Village, Broadway, and other iconic attractions. Each room features unique touches inspired by Music City, providing a charming atmosphere for your stay. With spacious communal areas and modern amenities, our apartment is ideal for groups looking to explore and experience the best of Nashville. Book now!
+
+The space
+Welcome to our delightful Nashville-themed 5-bedroom, 7-bed apartment, your ideal home away from home in the heart of Music City! Perfectly situated in a central location, this apartment provides easy access to all of Nashville's top attractions, vibrant neighborhoods, and cultural landmarks.
+
+Our location provides the unique advantage of being close to downtown while remaining budget-friendly for our guests. Situated in an up-and-coming area just minutes from vibrant Broadway, our property offers both convenience and affordability.
+
+Nashville, like many larger cities, boasts a diverse population within its downtown, and our neighborhood reflects this diversity. It's a dynamic experience, somewhat similar to the lively atmosphere one might encounter while visiting a larger city. 
+
+Our goal is to ensure that everyone has a safe, positive and enjoyable time while staying with us in Music City. Our team is available throughout your stay should you have any questions or feedback.
+
+Guest access
+Entire home
+
+Other things to note
+Please note that this is a second-story unit
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hughes
+Host User ID: 650637910
+Host Profile URL: https://www.airbnb.com/users/show/650637910
+Host Profile URL Source: public user permalink from passport userId
+My name’s Hughes and traveling is one of my favorite things to do. Looking forward to hosting my fellow travelers!
+Born in the 80s
+Where I went to school: Middle Tennessee State University
+Response rate: 100%
+Responds within an hour
+2 years hosting
+803 reviews
+4.74 out of 5 average rating
+2 years of hosting

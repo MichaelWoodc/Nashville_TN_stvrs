@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/763897231334997833
+Latitude: 36.19436
+Longitude: -86.7601
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 15
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Book NOW for a limited-time 28% Off Promotion!
+Price includes both Units
+
+Indulge in over 4000 sqft of luxury just 7 minutes from Downtown and Broadway Street! 
+
+* 8 private bedrooms with 2 master suites, & 6 full baths.
+
+* Unrivaled Privacy: Our rooftops, unlike townhome rows, are very secluded—perfect for hanging out with a TV, wet bar, grill, and a fireplace, creating unforgettable moments in Music City!
+
+* Walk to East Nashville Beer Works, with other cool places just minutes away by car."
+
+The space
+★HOUSE LAYOUT★
+
+HOUSE #1
+Level One:
+- Bedroom 1 ............... 2 twin beds
+- Bathroom ................. Full
+- Living Room .............2 Sofas
+- Dinning Room ...........6 seats table, 4 Bar seatings
+
+Level Two:
+- Bedroom 2 ............... 1 Queen beds
+- Bathroom ................. Full
+- Bedroom 3 ............... 1 Queen beds, 1 full futon
+- Bedroom 4 ............... 1 Queen w/ensuite bath
+
+Level Three:
+- Rooftop ................ wet bar, tv, dinning table, grill, fire pit
+
+HOUSE #2
+Level One:
+- Bedroom 1 ............... 2 twin beds
+- Bathroom ................. Full
+- Living Room .............2 Sofas
+- Dinning Room ...........6 seats table, 2 Bar seatings
+
+Level Two:
+- Bedroom 2 ............... 1 Queen beds
+- Bathroom ................. Full
+- Bedroom 3 ............... 1 Queen beds, 1 full futon
+- Bedroom 4 ............... 1 Queen w/ensuite bath
+
+Level Three:
+- Rooftop 
+
+Other: multiple airbeds provided as needed
+
+Guest access
+Entire house
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenny
+Host User ID: 35208416
+Host Profile URL: https://www.airbnb.com/users/show/35208416
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Engineering
+My work: Higher Education
+Response rate: 100%
+Responds within an hour
+10 years hosting
+268 reviews
+4.42 out of 5 average rating
+10 years of hosting

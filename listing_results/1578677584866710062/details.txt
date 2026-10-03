@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1578677584866710062
+Latitude: 36.17608
+Longitude: -86.7982
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family and friends will be close to everything when you stay at this centrally-located home, short distance from downtown Nashville.
+Only 3 blocks from supermarket, a variety of restaurants, farmers market and vibrant popular Bicentennial Mall State Park.
+
+From this location you’re in the heart of it all — with green spaces, dining, shopping, and downtown attractions all within short distance — making it ideal for those who want to explore Nashville on foot or without traveling far.
+
+The space
+Rooms have 1 King Bed, 2 Queens
+
+Other things to note
+No Pets Allowed $200 charge per night if violated.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bettina
+Host User ID: 62701469
+Host Profile URL: https://www.airbnb.com/users/show/62701469
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+6 months hosting
+1 reviews
+5.0 out of 5 average rating
+6 months of hosting

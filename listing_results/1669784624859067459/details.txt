@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1669784624859067459
+Latitude: 36.14598
+Longitude: -86.81747
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Midtown Stay by AvantStay. This 2-bedroom, 2-bathroom Nashville retreat sleeps 6 and blends modern comfort with a prime Midtown location. Explore Vanderbilt, The Gulch, and nearby dining, then return to a stylish space designed for easy downtime.
+
+🏙️ Walk to Vanderbilt, Midtown dining + nightlife
+🏊 Seasonal pool, gym, BBQ area + fire pits
+🍳 Full kitchen + private balcony
+📍 Minutes to Broadway, Centennial Park + The Gulch
+
+The space
+Midtown Stay is a modern Nashville condo set in one of the city’s most energetic and walkable neighborhoods. With easy access to Vanderbilt, Centennial Park, Midtown, and The Gulch, it offers a stylish home base for campus visits, weekend getaways, live music trips, and extended stays.
+
+Inside, the space feels bright, polished, and easy to settle into, with contemporary décor, warm finishes, and an open layout made for relaxing between outings. The full kitchen has the essentials for coffee, snacks, or casual meals at home, while the private balcony adds a quiet spot to enjoy fresh air above the city.
+
+The sleeping setup is comfortable and flexible, with a king primary suite and ensuite bathroom, plus a second bedroom with a double bed and pull-out trundle. A second full bathroom and in-unit washer and dryer add extra convenience for groups and longer stays.
+
+Guests also enjoy access to Odyssey’s resort-style amenities, including a seasonal pool, BBQ area, fire pits, and a state-of-the-art gym. Tito’s Mexican Restaurant is located right in the building, making casual dining especially easy.
+
+From Vanderbilt and Centennial Park to Midtown dining, nightlife, and The Gulch, Midtown Stay keeps Nashville’s best experiences close while giving you a cozy, modern place to come home to.
+
+AvantStay provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more.
+
+There’s a reason Nashville, TN has become one of the country’s most loved southern cities. With its vibrant nightlife, country music scene, and incredible food, “Nashvegas” is a top destination for people simply looking to have a good time- which means lots of drinking and eating. Visitors flock to Broadway, a street lined with multi-level bars playing live music and serving bbq. You might get stuck in traffic behind party bikes called Pedal Taverns, but you’re more likely to cheer them on than get road rage because having fun is part of the culture in Nashville.
+
+Experience Nashville, AvantStay style!
+
+Other things to note
+Home Truths:
+- Unfortunately, pets are not allowed in this home. If undisclosed pets are brought into the home without AvantStay's approval there is a fine of $500 per pet.
+- This home is equipped with a Ring camera for security and surveillance. It does not monitor the interior of the home.
+
+Parking Details:
+- Two assigned covered garage parking spaces (No. 307) are provided.
+
+All bookings over 30 days require a security deposit to be charged after booking.
+
+STR Permit Number: 2023/101287
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: AvantStay Nashville
+Host User ID: 338667310
+Host Profile URL: https://www.airbnb.com/users/show/338667310
+Host Profile URL Source: public user permalink from passport userId
+AvantStay makes group travel easy. Our homes are designed for comfort, connection, and memorable moments, with consistent quality you can count on—every time, everywhere.
+Speaks Arabic, German, English, Spanish, French, Hindi, Japanese, Korean, Portuguese, and Chinese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+6912 reviews
+4.76 out of 5 average rating
+7 years of hosting

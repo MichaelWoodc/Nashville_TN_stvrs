@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/9004782
+Title: Inglewood / E Nashville Bungalow
+Latitude: 36.21048
+Longitude: -86.73137
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Funky East Nashville Bungalo, upstairs "brother-in-law" apt.  Separate entrance.  Parking for one vehicle.  1 block from bus route, 5 minutes from 5 points, 10 min from Downtown,  staggering distance from the Village Pub, Underdog and Kroger...perfect for visiting couples, songwriters, tourists, and travelling hipsters.
+
+The space
+This space was formerly a "Brother in law" apt.   It has been occupied by songwriters and some music biz people and by a travelling band or two.   Grammy winning songwriters/artists  have drank beer on these very premises.
+
+Guest access
+Access via the iron stairs along driveway.  Please park to the left along privacy fence or on street.
+
+Other things to note
+The steps can get slick if wet or (URL HIDDEN) CAREFUL in those conditions.
+
+****Absolutely no parties allowed on the premise! And quiet hours after 9 PM please be respectful of our space!!!****
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sean
+Host User ID: 47025351
+Host Profile URL: https://www.airbnb.com/users/show/47025351
+Host Profile URL Source: public user permalink from passport userId
+I'm a singer songwriter and travelling entertainer.    I've been in this house for almost twenty years and I love the neighborhood.  The bars, restaurants, and live-music venues in the near vicinity make this part of Nashville, fun, hip, and decidedly not-so-touristy.
+Where I went to school: SUNY Fredonia
+My work: Singer Songwriter
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+730 reviews
+4.88 out of 5 average rating
+11 years of hosting

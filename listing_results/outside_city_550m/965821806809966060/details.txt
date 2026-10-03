@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/965821806809966060
+Latitude: 36.37228
+Longitude: -86.70866
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+THIS CABIN DOES NOT HAVE A BATHROOM IN THE CABIN. However, you will have access to the men's & women's separate bathhouses on property. 
+
+Enjoy the perfect blend of comfort and rustic charm in our dry cabin, located just 20 minutes from downtown Nashville. Tucked inside our peaceful RV resort, this cozy retreat gives you the feel of camping with a few comforts of home, plus complimentary shuttle service to and from the city for our guests.
+
+The space
+🚿 Bathhouse Access
+Please note that this is a dry cabin and does not have a bathroom in the cabin. Guests have full access to our clean and convenient men’s and women’s bathhouses, located just a short walk away and available 24/7.
+
+Cabin Features
+	• 1 Queen Bed with soft cotton linens and comfortable pillows
+	• Twin Bunk Beds (sleeps up to 4 total)
+		○ Bunks are not made up by default,  just let us know if you plan to use them, and we’ll happily prepare them for you
+	• Heating & Air Conditioning for year‑round comfort
+	• TV with Roku Streaming
+	• Keurig Coffee Maker, Mini Fridge, and Microwave
+	• Check-in options available upon request
+🌿 Outdoor Amenities
+Enjoy your own private outdoor setup, perfect for relaxing after a day in Nashville:
+	• Private Porch
+	• Free Single Parking Spot
+	• Private BBQ Grill
+	• Fire Pit
+	• Picnic Table
+
+Guest access
+🌟 Access to All Resort Amenities
+As a guest in our dry cabin, you’ll enjoy full access to all the amenities at UnHitched Nashville North RV Resort. Whether you’re here to relax, explore, or enjoy a little of both, everything you need is right within the park:
+	• Seasonal Pool (open May–September)
+	• Men’s & Women’s Bathhouses
+	• Fully Equipped Gym
+	• Recreation Room with games and lounge space
+	• On‑Site Store located in the main office (snacks, drinks, RV essentials, and more)
+	• Laundry Room
+	• Playground & Game room for families and little adventurers
+These shared amenities give you the freedom to enjoy as much community or privacy as you like during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Unhitched Nashville North RV Park
+Host User ID: 533812938
+Host Profile URL: https://www.airbnb.com/users/show/533812938
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+96 reviews
+4.82 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/28847024
+Latitude: 36.1779
+Longitude: -86.7885
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Germantown Gem has Mid-century Boho vibes in a clean, airy, and cozy apartment. This space was designed with lots of intention placing high priority on comfort, flow, convenience, and relaxation. Unwind in the extra wide soaking tub, rest your bones on the comfy layers of extra-clean bedding, have an epic game night, or just Netflix and chill after a long day of exploring. 
+
+Short term rental permit: 2O18STRO59799
+
+This apartment is the front unit of a one-story triplex home. There are long-term renters in the middle unit and we live in the back unit with our two babies. We love it here and hope you enjoy it, too!
+
+Outdoor space, front & backyard, is shared.
+
+This little gem of a home is perfectly located in the dreamiest of Nashville neighborhoods. Germantown is historic, hipster, food-centric, mural-filled, fun, people-watching at its best, truly walkable with a downtown skyline view from all the tree-lined sidewalks. You'll find beautiful historic homes, boutiques, restaurants, bars, yoga studios, hair and nail salons, spas, a grocery store, and lots of personality in this jam-packed little neighborhood!
+
+There are plenty of bus stops nearby, but Nashville really doesn't have the best public transit. 
+We recommend using Uber/Lyft (about $7 to get to the honky tonks downtown). Bird/Lime Scooters are very inexpensive and are all over our neighborhood (~$3 to get broadway/riverfront). B cycle bike rentals are also inexpensive and available for rent nearby at the corner of 5th Ave N and Monroe St. 
+Lastly, this neighborhood is just 6 square blocks and makes for a lovely mid-afternoon stroll.
+
+Please keep in mind that although this apartment can sleep 6 easily, there is only one bathroom.
+
+The space
+This apartment is the front unit of a one-story triplex home. There are long-term renters in the middle unit and we live in the back unit with our two babies. We love it here and hope you enjoy it, too!
+
+Guest access
+Outdoor space, front & backyard, is shared.
+
+Other things to note
+Please keep in mind that although this apartment can sleep 6 easily, there is only one bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Randy + Diane
+Host User ID: 217521865
+Host Profile URL: https://www.airbnb.com/users/show/217521865
+Host Profile URL Source: public user permalink from passport userId
+We love Historic Germantown and can't wait for you to discover all the little gems around Nashville's first neighborhood.
+My work: Airbnb Hosts!
+Speaks English and Lao
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1988 reviews
+4.98 out of 5 average rating
+8 years of hosting

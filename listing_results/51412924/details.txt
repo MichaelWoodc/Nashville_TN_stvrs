@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/51412924
+Latitude: 36.19936
+Longitude: -86.76408
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautifully appointed carriage house  apartment with private entry in East Nashville. 6 mins. To downtown, super convenient/accessible location!
+
+The space
+Newly constructed two bedroom, one bath apartment with a full kitchen & living room. Bright and airy with high ceilings and eclectic decor, ready to host you and your people for a great time in Nashville.
+
+Guest access
+Parking for up to two vehicles is provided. Private entry with a covered staircase and dedicated laundry room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sam
+Host User ID: 54644776
+Host Profile URL: https://www.airbnb.com/users/show/54644776
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 75%
+Responds within a day
+5 years hosting
+61 reviews
+5.0 out of 5 average rating
+5 years of hosting

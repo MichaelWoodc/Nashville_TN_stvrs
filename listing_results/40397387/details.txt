@@ -1,0 +1,82 @@
+URL: https://www.airbnb.com/rooms/40397387
+Latitude: 36.21639
+Longitude: -86.74159
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 6
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a meticulously cleaned and sanitized space after every visit!
+
+This newly built East Nashville gem is the perfect launchpad for your Nashville adventure!
+
+Designed for comfort, it boasts a stunning rooftop patio, a wet bar, cable TV, individual TVs in each bedroom, six cozy beds, and a spacious two-car garage.
+
+In just 10 minutes, reach Downtown (Broadway), Opryland, The Ryman, 5 Points of East Nashville, and more!
+
+Ideal for families, youth groups, or unforgettable bachelor trips!
+
+The space
+This home features the following:
+
+*Professional cleaning and sanitization in between every stay!
+
+*Digital guidebook for home details and recommendations for your time in Nashville
+
+*Fully-equipped Kitchen
+
+*6 Queen Beds + queen air mattress, no having to share beds at this home!
+
+*Rooftop Patio with plenty of seating 
+
+*Wet Bar on the roof-top level
+
+*2 full-baths + a half-bath, room for everyone to get ready!
+
+*Keyless Entry
+
+*2 Car garage + space for 2 more cars 
+
+*High-Speed Internet and Cable television
+
+*Coffee provided for guests free of charge
+
+*Dinner table that seats 8, perfect for family dinner!
+
+*Full size washer/dryer
+
+*Only 10 minutes to all the Nashville favorites! (Lower Broadway, Nissan Stadium, Grand Ole Opry, Top Golf, and so much more!)
+
+Permit -2022005913-
+
+Guest access
+You have access to the entire space!
+
+Other things to note
+No local guests
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marco
+Host User ID: 69617432
+Host Profile URL: https://www.airbnb.com/users/show/69617432
+Host Profile URL Source: public user permalink from passport userId
+Speaks Arabic, English, French, and Italian
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+277 reviews
+4.89 out of 5 average rating
+7 years of hosting

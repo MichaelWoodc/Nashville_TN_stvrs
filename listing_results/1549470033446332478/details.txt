@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1549470033446332478
+Latitude: 36.155964133830096
+Longitude: -86.81887669290913
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Bluebell in Nashville!
+
+☆ The best Nashville skyline views from our rooftop deck 
+☆ Only 2 miles from Broadway!
+☆ 12 Beds!
+☆ Private Game Room & Bar-at-Home
+☆ Fully stocked kitchen & baths with all the amenities to match
+
+The Bluebell is sure to complete your Nashville experience!
+
+The space
+Welcome to The Bluebell in Nashville! 
+
+Our property features some of the best skyline views that Nashville has to offer, with views of Nashville's downtown, Vanderbilt University and Football Stadium, and The Parthenon at Centennial Park, you'll get a full tour of Nashville right from our rooftop deck! 
+
+We also feature your very own private bar/game room themed after Nashville's "Hi Tootsie" Bar on Broadway. 
+
+With plenty of sleeping arrangements, 5 bathrooms for gettin' ready for the town, amenities like a fire pit and BBQ grill, fun games like karaoke and cornhole, and a fully stocked kitchen, The Bluebell is designed to make your Nashville experience unforgettable!
+
+Guest access
+Entire home, rooftop deck, and garage.
+
+Other things to note
+Our 12 beds include: 
+-1 King Bed
+-3 Queen Beds
+-1 King+ Bed (Sleeper Couch)
+-7 Twin Beds
+
+Stairs: Please note that there is 1 set of stairs from the front door to Bedroom #2 & #4, 2 sets of stairs to Bedroom #1 & #3, and 3 sets of stairs to the rooftop deck.
+
+Parking: We have 1 guaranteed parking space available in the garage for a small to medium sized car/SUV max height 77” max width 117”, and there is shared street parking available immediately outside of the unit. There is 1 set of stairs from the garage to the living area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 86784511
+Host Profile URL: https://www.airbnb.com/users/show/86784511
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+134 reviews
+4.93 out of 5 average rating
+2 years of hosting

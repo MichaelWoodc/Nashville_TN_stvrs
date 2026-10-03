@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/21369707
+Latitude: 36.29433
+Longitude: -86.73612
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Minutes from downtown Nashville. Convenient shopping and dining 3 blocks away. Modernly spacious and comfy. Sits on a hill with an amazing night view. Flat screen TVs with Streaming Access. Coffee and tea maker in the kitchen with fully stocked cooking appliances. Quiet, safe friendly neighborhood that gives you the feel of country Nashville minutes away from city living. King bed in the master suite with Queen beds in the two additional bedrooms. Back patio grants access to a grill.
+
+The space
+Suburban life minutes away from downtown Nashville. Roomy modern and trendy atmosphere with great natural lighting, perfect for selfie and scenery pics.
+
+Guest access
+Space includes two full baths. Flat screens in every room. A Seventy-inch flat screen in movie room and a patio with access to a grill. Pool house available during summer months. Keurig coffee and tea maker with fully stocked kitchen appliances.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jackie
+Host User ID: 154745340
+Host Profile URL: https://www.airbnb.com/users/show/154745340
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+9 years hosting
+31 reviews
+4.9 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1603083444254507342
+Latitude: 36.1847141360997
+Longitude: -86.75363821113412
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ Walk to Five Points and stay just minutes from Broadway at Kay's Hideaway. This beautifully designed East Nashville apartment blends comfort, style, and an unbeatable location for the perfect Music City getaway. Enjoy cozy, thoughtfully designed spaces while exploring the neighborhood's popular restaurants, coffee shops, and live music venues, all with easy access to downtown Nashville. Ideal for couples, solo travelers, business trips, and weekend escapes. 🌆
+
+The space
+Kay's Hideaway is the ideal retreat for families, work trips, or couples looking for a memorable stay. Featuring two bedrooms and a welcoming living room, this home is fully equipped with everything you need to feel right at home. From a modern kitchen with a coffee bar to smart TVs in every room and cozy beds, you’ll have all the amenities necessary to relax and unwind. Plus, enjoy a selection of board games for a bit of fun indoors!
+
+Things You'll Love:
+◆ Prime location in the heart of East Nashville (2 miles to Broadway)
+◆ Beautifully designed interior by a local designer
+◆ Fully equipped kitchen perfect for cooking meals, making cocktails, and everything in between
+◆ Smart TVs throughout – easily connect to all your favorite streaming apps!
+◆ One off-street parking space
+◆ Reliable high-speed Wi-Fi for work or leisure
+◆ Private washer + dryer
+◆ Walking distance to Five Points with some of Nashville’s best restaurants
+◆ Just 1 block from the famous Pharmacy Burger
+
+Sleeping Arrangements:
+◆ Master Bedroom: King Bed + Smart TV
+◆ Guest Bedroom: Two Twin Beds + Full Private Bath + Smart TV
+◆ Full Bathroom with Walk-in Shower 
+◆ Living Room: Full-size Sleeper Sofa + Air Mattress + Smart TV
+
+About Hallson Hospitality
+
+At Hallson Hospitality, we take pride in being a locally owned company, offering a portfolio of thoughtfully designed properties that adhere to the highest standards of comfort and quality. Our team of hospitality professionals is dedicated to creating seamless and unforgettable experiences for each guest.
+
+From curated amenities to personalized service, we go the extra mile to ensure your stay is exceptional. If there’s anything we can do to enhance your visit, please don’t hesitate to reach out—we’re here to make your time with us truly unforgettable. To further elevate your stay, we offer a variety of Experience Add-ons, including early check-ins and late check-outs, private chefs, in-home massages, in-home yoga sessions, and more.
+
+Guest access
+Before your arrival, we’ll send you a detailed email with all the information you need to easily locate and access the home, ensuring a smooth check-in process. This email will include a unique digital door code, customized specifically for your stay, providing secure and convenient access. If you have any questions or need assistance at any time, don’t hesitate to reach out—we’re here to make your stay as effortless and enjoyable as possible.
+
+Other things to note
+Parking: The parking lot is shared among all apartments and includes five standard parking spaces, along with one designated handicap space. Spaces are not assigned. Each reservation may park one vehicle in the lot, as availability allows. Additional street parking is available along Hart Avenue, just one block away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hallson Hospitality
+Host User ID: 689293875
+Host Profile URL: https://www.airbnb.com/users/show/689293875
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+213 reviews
+4.92 out of 5 average rating
+1 year of hosting

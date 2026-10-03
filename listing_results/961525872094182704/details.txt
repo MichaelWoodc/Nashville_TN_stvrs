@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/961525872094182704
+Latitude: 36.1848
+Longitude: -86.7695
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a renovated historic East Nashville home! Enjoy privacy with a separate wing, private entrance, bath, and laundry room. Relax in the shared backyard or patio. Great location just 2 miles from downtown Broadway, and walking distance to great restaurants such as Folk, Xia Bao, Redheaded Stranger, Audrey and more. Experience comfort with a hint of history!
+
+TN permit #CASR2023045944
+
+Guest access
+You’ll enjoy complete privacy with your own entrance from the backyard, as well as a fully private bedroom, bathroom, and laundry room—perfect for relaxing after a day of exploring Music City. PLEASE NOTE: We do live in the front part of the home. Though the two spaces are completely separated by a locked pocket door, you may hear us in the front part of the house, the kitchen etc. For best sound proofing, you can close the bedroom door. 
+
+The only shared space is the backyard, which you are welcome to use.
+
+Other things to note
+You may spot our two super-friendly cats in the yard during your stay. They’re orange and white and look like twins, but you can tell them apart: Cowboy is the chubby 2-year-old, while Allstar is our big, lovable 16-year-old. Rest assured, they are NOT allowed inside the Airbnb. However, if you’re a cat lover, they’d be delighted to get some pets!
+
+Our house sits under large beautiful black walnut trees. You may hear large walnuts hit the roof.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jill
+Host User ID: 145659517
+Host Profile URL: https://www.airbnb.com/users/show/145659517
+Host Profile URL Source: public user permalink from passport userId
+My husband and I are in Italy for a wedding. I cannot wait to see Rome!
+Born in the 90s
+My work: Sales
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+358 reviews
+4.95 out of 5 average rating
+9 years of hosting

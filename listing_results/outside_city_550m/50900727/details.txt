@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/50900727
+Latitude: 36.22207
+Longitude: -86.55924
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 6
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our renovated farmhouse provides you close proximity to big city life yet has you feeling miles away setting on 8 acres of a bicentennial family farm. Decorated with modern farmhouse style and sitting beside a fully operational farm that can have your fridge stocked with farm fresh beef, pork, chicken, eggs, casseroles or a whole meal for your gathering. We can provide options closer to your stay due to season availability but please give us at least a weeks heads up for meals or casseroles.
+
+The space
+The farmhouse includes 4 bedrooms and 2 cubbies with built in beds for a total of 8 beds sleeping up to 12. Two bedrooms are located on the main floor. There are two full bathrooms one upstairs and one downstairs. The downstairs bathroom is handicap accessible. The kitchen is fully stocked with all the utensils and cookware needed to make delicious meals. If cooking isn’t your strong suit, we can provide a list of ready made options tailored to fit your needs closer to your stay. Those items can be waiting in the fridge or freezer and all you have to do is pop them in the oven.
+
+Guest access
+Guests have access to the whole house with the exception of the pantry and 2 closets that are locked for owners use. There is a front porch and partially covered and fenced back patio with seating provided. The front and back yard is also available. There is a 2 car garage that is Not for guest access but has a covered carport you are more than welcome to use. There may also be cows close to the house we just ask for your safety please don’t go past the fences where they are located.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katie
+Host User ID: 403750043
+Host Profile URL: https://www.airbnb.com/users/show/403750043
+Host Profile URL Source: public user permalink from passport userId
+Farm wife and mom that loves being outside, cooking and spending time with family.
+Born in the 80s
+My work: Owner of Southern Rhythm Cattle
+Response rate: 100%
+Responds within a few hours
+Superhost
+5 years hosting
+109 reviews
+4.8 out of 5 average rating
+5 years of hosting

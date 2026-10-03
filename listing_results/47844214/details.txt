@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/47844214
+Latitude: 36.1865
+Longitude: -86.8153
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 8
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville, enjoy staying in a clean, modern, stylish town home, near all of Nashville. New townhome built for a comfortable stay. Just a couple of  minutes ride from downtown, located on the North Side, near the Metro Center area. Plenty of room for up to 8 guests. Beds are clean and comfy and the house is cleaned and sanitized after each guest stay.  Perfect for bachelorettes/bachelor trips, close to Nissan, Bridgestone and Broadway.  Enjoy the game, a concert & all Nashville offers!
+
+The space
+Perfect for a family or friends trip, spacious with a touch of class. 
+Comfortable space for up to 8, and spread out across three thoughtfully laid-out floors: the entry level is step-free, with a queen bedroom, a loveseat, and a large bathroom with a luxury shower. One flight up, the main living level opens onto a smart TV and sofa seating, a full open-concept kitchen with a dining table, a half bath, and a laundry room with washer and dryer. The top floor has two more bedrooms — a queen bed and a twin trundle bed, and a room with 2 twin beds plus extra twin mattresses on hand — along with two full bathrooms.
+
+Getting around is easy: the nearest bus stop is an under 5 minute walk,  running directly downtown, so you can skip parking and surge pricing for a night on Broadway. When you'd rather stay local, Ted Rhodes Golf Course, Topgolf Nashville, and the Nashville Farmers' Market are all just a short drive, and a Save A Lot grocery store is close by for stocking the kitchen.
+
+The townhome community is gated for security — you'll get the code ahead of check-in — with parking available in the garage or on the street right in front. The home itself has exterior cameras, alarm monitoring, and smoke/CO detectors. Check-in is fully keyless, with a private entry code just for your group.
+
+Pet-friendly with a flat pet fee for each pet of $75+tax.
+
+Guest access
+We have a keyless entry at the front door and will give each guest their own unique key for use during their stay.
+
+Other things to note
+The house is very secure, it has alarms a key-less entry and a Ring doorbell to monitor the front of the house. There is also a garage in the house that guests can use for their car. The parking area and garages are accessed through a security gate that surrounds the townhouse community.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Melinda
+Host User ID: 61722287
+Host Profile URL: https://www.airbnb.com/users/show/61722287
+Host Profile URL Source: public user permalink from passport userId
+Hi, I am Melinda Johnson with Mountain Time Cabin Rentals and Music City Keys. My favorite things are travel and hosting others! I am a full time host at and love the opportunity to help guests make wonderful memories in our properties and take care of all the details for our property owners! Responsiveness and taking great care of our guests and properties are our specialties! Happy to help!
+Born in the 60s
+My work: Vacation Rental Manager
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1125 reviews
+4.8 out of 5 average rating
+10 years of hosting

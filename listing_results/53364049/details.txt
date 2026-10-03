@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/53364049
+Latitude: 36.17325
+Longitude: -86.78041
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This riverfront property is perfect for friends and family who are traveling to Nashville and want to be right in the heart of Nashville! You will be just a short 5 minute drive or 20 minute walk to the nightlife on Broadway, the Nashville Sounds Stadium, and the Farmers Market. Less than 10 minutes from other popular tourist attractions such as rooftop bars in the Gulch or Midtown, or even Top Golf and other fun/trendy restaurants in Germantown!
+
+The space
+★The Space 
+→This one-bedroom includes a large king size bed (that could easily fit more than 2 people) as well as 2 pullout couches in the living room! 1 queen pull out bed and 1 twin size pull out bed.
+
+→We will provide you with coffee in the morning to enjoy on the balcony looking over the Cumberland river!
+
+Guest access
+★Guest Access
+→All guests will have access to an onsite laundry facility, gym, and pool (open Memorial Day - Labor Day). We will also provide you with a list of fun activities for you to do in Nashville when you arrive! The pool fob is on the lanyard and the credit card fob is access to the work out center and laundry mat!
+
+Other things to note
+★Other things to note 
+→The unit is up one flight of stairs and does NOT have elevator access!
+→Free parking on site!
+→Free Wifi included!
+→Security guard on site at all times! 
+→Feel free to reach out to 
+us if you need anything at all- we are locals!
+Smoking is allowed on balcony only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shirley
+Host User ID: 422205718
+Host Profile URL: https://www.airbnb.com/users/show/422205718
+Host Profile URL Source: public user permalink from passport userId
+Lives in Smyrna, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+273 reviews
+4.81 out of 5 average rating
+5 years of hosting

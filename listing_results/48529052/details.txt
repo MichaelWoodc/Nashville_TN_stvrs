@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/48529052
+Latitude: 36.14321
+Longitude: -86.6734
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully furnished modern home that is minutes away from both the airport and downtown.
+
+The space
+Modern design and furniture in a bright rancher home surrounded by a large yard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Warren
+Host User ID: 237079095
+Host Profile URL: https://www.airbnb.com/users/show/237079095
+Host Profile URL Source: public user permalink from passport userId
+My work: Douglas Realty
+Speaks English and Spanish
+Response rate: 100%
+Responds within a day
+7 years hosting
+293 reviews
+4.87 out of 5 average rating
+7 years of hosting

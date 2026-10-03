@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/881492350574458894
+Latitude: 36.15999699698011
+Longitude: -86.80619167402969
+rental_type: Private room in rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Rent a beautiful spacious 2 bedroom 2 bath luxery apt.  Ideal place to stay in Nashville.  Bright, stylish  & comfy &  located just 5 minutes from all the best neighborhoods - Downtown, Westend, Music Row, Vanderbilt, the Gultch  (music everywhere.)  New stylish building in Midtown, close to restaurants, airport, freeways, Brentwood & more.   May share apt with me (owner) when I'm in town, but not here a lot, so may have it to yourself.
+
+The space
+It's a beautiful apt.
+
+Guest access
+Entire apt - kitchen, dining area, living room, washer drier, parking.
+
+During your stay
+I'm always reachable by text.
+
+Other things to note
+I got this as a second home in NShville, yet my primary home is LA  I will not be there often.  So a room rental could mean your ow  use of the entire place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ellen
+Host User ID: 10285792
+Host Profile URL: https://www.airbnb.com/users/show/10285792
+Host Profile URL Source: public user permalink from passport userId
+Greetings, thank you for considering my apartment.  I work in media and travel quite a bit.  I am from California, but lived in NYC the past 16 years.   I am newly back.   I love outdoor sports, long walks, working out, movies, music, great restaurants, meeting new people, great restaurants and music joints.
+My work: Media Consultant
+Speaks English
+Lives in Marina del Rey, California
+Response rate: 98%
+Responds within a few hours
+12 years hosting
+250 reviews
+4.57 out of 5 average rating
+12 years of hosting

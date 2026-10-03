@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/854450729690359754
+Latitude: 36.194
+Longitude: -86.7786
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 11
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spread out across three stories built for groups. Four bedrooms and 3.5 baths, one bedroom per level for real privacy, Smart TVs in every room, and a 70" screen in the living room for game nights. Morning coffee on one balcony, evening wind-down on the other. The chef's kitchen is stocked with essentials and a coffee station, in-unit laundry comes with pods provided, and arrivals are smooth with contactless entry and a private 2-car garage. Sleeps up to 10.
+
+The space
+The Layout
+
+Most Nashville rentals stop at three bedrooms. This one gives you four, spread across three levels so a full house of 10 still has quiet corners.
+
+Level 1, The Garden Suite. Two queen beds and a half bath on the entry level. No stairs required, which grandparents and early sleepers will appreciate.
+
+Level 2, The Social Hub. One sprawling open floor where everyone ends up: a chef's kitchen ready for a group dinner, a 70-inch cinematic Smart TV, a balcony made for dining outside, and a full bath with shower so nobody has to run upstairs.
+
+Level 3, The Sleeping Quarters. The primary suite pairs a queen bed with its own ensuite bath and a private balcony that catches the sunset. Bedrooms three and four each have a full bed and a Smart TV, and share a large hallway bath.
+
+Three floors, four bedrooms, and room for the whole crew to be together when you want and apart when you need.
+
+Guest access
+The entire space is yours - including the double garage. Please make yourself at home. We utilize a digital lock with your own unique code that is emailed to you prior to check-in. Note that the main door to the building and the garage security gate do have different codes to your property and will be included in the email sent to you two days before check-in.
+
+Other things to note
+🧼 We clean with green, organic products to reduce environmental impact.
+🚗 Extra parking is first-come, first-served in front of the building.
+📞 If issues arise, we’ll act quickly, but there’s no 24/7 on-site staff.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 478827477
+Host Profile URL: https://www.airbnb.com/users/show/478827477
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Mark— here to make your vacation truly unforgettable.
+
+Together with my brilliant and thoughtful team, we're here to make your vacation GREAT! Our Property Curators are 100% focused on your comfort. It is our job to ensure you feel taken care of every step of your trip! We know we are here because of YOU and we feel this differentiates us from so many other hosts in the market!
+
+Let us know how we can make your stay a 5-Star stay!
+Born in the 70s
+Where I went to school: South Africa
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+1594 reviews
+4.87 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/965831180093723820
+Latitude: 36.37241
+Longitude: -86.70989
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+THIS CABIN DOES NOT HAVE A BATHROOM IN THE CABIN. However, you will have access to the bathhouse on property. 
+
+Enjoy the perfect blend of comfort and rustic charm in our dry cabin, located just 20 minutes from downtown Nashville. Tucked inside our peaceful RV resort, this cozy retreat gives you the feel of camping with a few comforts of home, plus complimentary shuttle service to and from the city for our guests.
+
+The space
+🚿 Bathhouse Access
+Please note that this is a dry cabin and does not have a bathroom inside. Guests have full access to our clean and convenient men’s and women’s bathhouses, located just a short walk away and available 24/7.
+
+Cabin Features
+	• 1 Queen Bed with soft cotton linens and comfortable pillows
+	• Twin Bunk Beds (sleeps up to 4 total)
+		○ Bunks are not made up by default,  just let us know if you plan to use them, and we’ll happily prepare them for you
+	• Heating & Air Conditioning for year‑round comfort
+	• TV with Roku Streaming
+	• Keurig Coffee Maker, Mini Fridge, and Microwave
+	• Check-in options available upon request
+🌿 Outdoor Amenities
+Enjoy your own private outdoor setup, perfect for relaxing after a day in Nashville:
+	• Private Porch
+	• Free Single Parking Spot
+	• Private BBQ Grill
+	• Fire Pit
+	• Picnic Table
+
+Guest access
+Guests will have access to all that our campground has to offer. Feel free to stop by the camp store, sit by the pool. 
+
+Due to the lack of a toilet or shower in the cabin, guests will have full access to the campground's bathhouse.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Unhitched Nashville North RV Park
+Host User ID: 533812938
+Host Profile URL: https://www.airbnb.com/users/show/533812938
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+96 reviews
+4.82 out of 5 average rating
+3 years of hosting

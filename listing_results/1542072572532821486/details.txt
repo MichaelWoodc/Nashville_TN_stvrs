@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1542072572532821486
+Latitude: 36.1931
+Longitude: -86.8312
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 8
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay together while enjoying your own space with this dual listing at Harmony Heights! Featuring two modern homes side by side, you’ll have 5 bedrooms, 5 bathrooms, 8 beds, and 2 private rooftops. Perfect for large groups, reunions, or bachelor/ette trips just minutes from Downtown Nashville.
+
+The space
+Together, these homes comfortably host up to 20 guests across 6 bedrooms, 6 bathrooms, and 8 beds. Both feature bright open-concept living areas, chef’s kitchens, and private rooftop patios—ideal for sipping morning coffee or enjoying evenings under the Nashville sky.
+
+Unit 1 – Sleek Rooftop Retreat
+
+2 bedrooms | 2 baths
+
+Sleeping arrangements: 1 King, 2 Queens
+
+Stylish modern finishes and cozy lounge areas
+
+Unit 2 – Modern Rooftop Escape
+
+3 bedrooms | 3 baths
+
+Sleeping arrangements: 1 King, 4 Queens
+
+Spacious layout with extra seating and dining space
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harmony Heights
+Host User ID: 714985714
+Host Profile URL: https://www.airbnb.com/users/show/714985714
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+230 reviews
+4.66 out of 5 average rating
+1 year of hosting

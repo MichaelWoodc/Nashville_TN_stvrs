@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/20091100
+Latitude: 35.9732
+Longitude: -87.0187
+rental_type: Private room in farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Master bedroom is a large room with one queen bed and room for an additional single or queen bed). The 100-year old Farmhouse (built in 1920) is part of a  4 bedroom, 2 bathroom country house set on 95 acres. It shares a kitchen with the owners who live in an attached cabin. Look at the pictures!
+
+The space
+Quaint and very beautiful wood structure on 96 acres of country paradise. Part of the 2000 acre Big East Fork conservation easement
+
+Guest access
+Ask for the door punch code soon before you arrive onsite. All guests are MUST pay State (9.5%) and County (4%) taxes before check-in (Unfortunately, AirBNB does not collect state taxes for TN rentals). Big East Fork Retreat is located close by at 5375 Big East Fork Road and taxes may be paid there, but staff is not always available. To avoid delay checking in, PLEASE pay the taxes electronically before you arrive. PaayPal works great
+
+During your stay
+Sometimes I am there, but usually not. I live up the creek a mile or so
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+My work: Hospitality, Trails
+Lives in Franklin, Tennessee
+What makes my home unique: Trails, creeks, wildlife in the Agrihood
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

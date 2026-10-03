@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/18584280
+Latitude: 36.21176
+Longitude: -86.86376
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Music City Getaway- Metropolitan Government Short Term Rental Permit number -2018030039
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Charlene
+Host User ID: 97760390
+Host Profile URL: https://www.airbnb.com/users/show/97760390
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a day
+9 years hosting
+41 reviews
+4.66 out of 5 average rating
+9 years of hosting

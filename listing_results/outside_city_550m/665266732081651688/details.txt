@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/665266732081651688
+Latitude: 36.26236
+Longitude: -86.52276
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A quiet 2-bedroom ground-floor retreat in Mt. Juliet, Tennessee — 30 minutes from downtown Nashville. Full kitchen, private back deck, year-round stream, and cozy fireplace. Keyless entry, washer/dryer, organic mattresses. Perfect for couples, small families, extended stays, and remote workers who want nature close and Nashville closer.
+
+*Exterior motion camera in use. This is the lower unit of a vertical duplex — no shared interior spaces.
+
+The space
+✓Large, fully equipped kitchen with all cooking necessities for your convenience.
+✓Stainless dishwasher, microwave, oven, and refrigerator for easy meal preparation.
+✓Dining room, perfect for planning your exciting adventures.
+✓Comfortable living room with a reclining couch, Roku, and TV (BYOL - Bring Your Own Login).
+✓Master bedroom features a luxurious 12" king organic memory foam mattress for a restful sleep.
+✓Guest bedroom offers a cozy queen memory foam mattress for a great night's rest.
+✓Relax and unwind on the back deck, an ideal spot for breakfast, enjoying a good book, or conducting business.
+✓Convenient washer and dryer with detergent provided.
+✓Private driveway for your exclusive use.
+✓Enjoy the serene ambiance of a small year-round stream flowing through the backyard, complete with a swing.
+✓If you require parking for a boat or trailer, please let us know in advance to make arrangements.
+✓Take advantage of our kayaks for rent (subject to availability). Message us to express your interest. $60/kayak per day.
+✓Access is easy and secure with a touch-code keypad. Rest assured, codes are changed for every guest for heightened security.
+✓Book now to secure this beautiful slice of Music City and enjoy all it has to offer.
+
+Guest access
+Full downstairs (no shared interior spaces) this is a vertical duplex.
+Back yard half.
+Front yard half.
+Private Lower deck
+In unit Washer and dryer
+Private driveway
+
+Other things to note
+This unit is below another. There are NO spaces shared between them. It is possible to hear footsteps.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Calvin
+Host User ID: 188968046
+Host Profile URL: https://www.airbnb.com/users/show/188968046
+Host Profile URL Source: public user permalink from passport userId
+Greetings from the heart of the South! Born in Tennessee & raised between the rolling hills of Tennessee & Kentucky, I come from a long line of farmers. Passionate about people, real estate, travel, & aircraft, I'm now an Aircraft Tech & REALTORⓇ. Alongside my wonderful wife, Juliebeth, we've been welcoming guests since 2016. Immerse yourself in the southern charm of Music City; we extend a warm welcome as your hosts and open our doors to you!
+Where I went to school: SCC
+My work: Lead Aircraft Tech and REALTORⓇ
+Response rate: 100%
+Responds within an hour
+5 years hosting
+139 reviews
+4.96 out of 5 average rating
+5 years of hosting

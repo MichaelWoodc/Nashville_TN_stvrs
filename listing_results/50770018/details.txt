@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/50770018
+Latitude: 36.08752
+Longitude: -86.625
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the simplicity of this quiet and safe place to stay. It has private parking as well as a separate keyboard access. We are only 11 minutes away from Nashville International Airport and only 14 miles from downtown. We are neighbors of Percy Priest lake. We are here to provide safe accommodation, very clean so you just have to worry about getting to know Nashville, the city of music.
+
+The space
+The accommodation has private parking and separate access with keyboard. Also a full bathroom, smart TV with Netflix, WiFi, kitchenette with microwave, mini fridge, coffee maker and air conditioning. Also a small furnished patio. No shared areas or stairs.
+
+Guest access
+Access after 3pm with code lock. Private parking available. Check out at 11am. You can leave your luggage before or after if requested in advance if we are at home. There are no stands for access.
+
+Other things to note
+-No smoking inside the accommodation but if in the outdoor area (patio-parqueo) No pets. No minor children. No parties or unregistered people. We ask to maintain a controlled volume, moderated especially after 9 pm. Please follow the house rules for a comfortable stay. If there are 2 persons as guests; the reservation person required to register the second guest by name, as a matter of control and security.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: William & Nelly
+Host User ID: 410300244
+Host Profile URL: https://www.airbnb.com/users/show/410300244
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+311 reviews
+4.92 out of 5 average rating
+5 years of hosting

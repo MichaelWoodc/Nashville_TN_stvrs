@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/19100648
+Latitude: 36.17424
+Longitude: -86.78107
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gorgeous Riverfront Condo with a lovely view of the Cumberland River and minutes from downtown. This condo is walking distance or a short Uber/Lyft ride from the Bridgestone Arena, Convention Center, Germantown, Country Music Hall of Fame and much more. This unit is equipped with everything you need from a comfy bed to a full kitchen to make yourself feel right at home!  ***WASHER & DRYER IS LOCATED ON THE PREMISES BUT NOT IN THE UNIT. THE WASHER/DRYER IS CHARGED PER LOAD***
+
+The space
+***MINUTES FROM BROADWAY***
+
+Guest access
+All guests will have access to the condo, their own parking space, pool, workout and laundry facilities. You will be given one key that has access to the pool, laundry and workout facility. The condo has a keyless entry and you will be given a code to access the day before your arrival. If key is misplaced or not returned upon departure, you will be subjected to a $50 fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brittany
+Host User ID: 133434549
+Host Profile URL: https://www.airbnb.com/users/show/133434549
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+9 years hosting
+254 reviews
+4.93 out of 5 average rating
+9 years of hosting

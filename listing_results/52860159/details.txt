@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/52860159
+Latitude: 36.17173
+Longitude: -86.7557
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located house.  Brand new  guest house with private parking and private entrance located in East Nashville, one of Nashville's hottest neighborhoods.  Just over a mile from Nissan Stadium for concerts and football games or head downtown for those looking to honky-tonk. You can also walk or scooter to all the fun neighborhood shops, bars and restaurants.  With a full kitchen, outdoor patio space and washer/dryer, this property does not disappoint.
+
+Other things to note
+If you have a larger party, our neighbors also have an airbnb studio right next door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 101520395
+Host Profile URL: https://www.airbnb.com/users/show/101520395
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Nashville! We are a family of 5 who are native Nashvillians. We live in a charming historic district in East Nashville and recently built this  new stylish guest house in 2021. We are excited to share our city and our new property with you.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+271 reviews
+4.96 out of 5 average rating
+10 years of hosting

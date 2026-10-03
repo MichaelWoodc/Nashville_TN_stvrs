@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1729919309688062631
+Latitude: 36.1914
+Longitude: -86.7628
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fall in love with this ~90-year-old East Nashville bungalow, where original hardwood floors, French doors, and our guest-favorite green 'Nashville' wall meet a fresh kitchen and cozy beds. Sip coffee on the porch swing, grill in the fenced backyard, then reach Downtown in about 10 minutes. Sleeps 8 across 4 bedrooms (2 Kings, 1 Queen, 2 Singles) with 3 baths, full kitchen, Wi‑Fi/workspace, laundry, free parking, and easy self check‑in.
+
+The space
+The space
+
+Welcome to your East Nashville home base—a ~90-year-old historic bungalow with the charm you want (hardwood floors + French doors) and the updates you need (fresh kitchen, comfy beds, and a clean modern bath).
+
+*What guests love
+
+ - Historic character: original wood floors + classic French doors
+
+ - Outdoor living: front porch swing + large back deck for relaxing
+
+ - Bright, updated kitchen: plenty of counter space and cabinet storage
+
+ - Comfortable sleeping: spacious bedrooms with cozy linens
+
+ - Photo-friendly touches: the green “Nashville” wall is a guest favorite
+
+*Layout (quick and clear)
+
+ - Main level: entry/living + dining + kitchen + 2 bedrooms
+
+ - Second level: 2 bedrooms + 1 bathroom
+
+ - Outdoor: front porch + large back deck
+
+*Location
+
+You’re in Cleveland Park (East Nashville)—a favorite neighborhood for visitors who want quick access to Downtown while staying in a local, residential area. Downtown, restaurants, and coffee shops are about 10 minutes away by car, depending on traffic.
+
+Guest access
+Guests have access to the entire main house and the back deck.
+
+Other things to note
+There is a detached back house/ADU on the property with its own tenants. The enclosed gazebo and the detached unit are not part of the guest space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Peter
+Host User ID: 754717174
+Host Profile URL: https://www.airbnb.com/users/show/754717174
+Host Profile URL Source: public user permalink from passport userId
+I am hosting the Short Term rental.
+Speaks English and Korean
+Lives in Memphis, Tennessee
+Response rate: 100%
+Responds within an hour
+2 months hosting
+3 reviews
+5.0 out of 5 average rating
+2 months of hosting

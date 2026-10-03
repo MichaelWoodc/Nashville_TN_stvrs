@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/25871118
+Latitude: 36.10987
+Longitude: -86.74838
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Big 4BR 2BA Economically priced Duplex apt 8 minutes from downtown.  6 SEPARATE BEDS!  Sofa+Love Seat.  2 Full Baths also!  Has Washer & Dryer!  Offstreet parking in long driveway with Carport. This is a newly renovated older home in a quiet neighborhood in south Nashville half of a Large duplex.  2BR 1BA Garage apartment also avail for extra $ Only 4 miles to Broadway or Vandy!  Approx $10 Uber to downtown
+
+The space
+There are 4 Bedrooms and 2 Baths with a central kitchen.  A carport outside can keep you out of the rain when unloading!  NOTE:  Bedroom #4 is only accessible through Bedroom #3 BUT there is a door separating both for privacy.  Bedrooms 1, 2, and 3 all have private access to bathrooms.
+
+STRP#2017009070
+
+Guest access
+Has covered parking just outside kitchen door for easy loading and unloading. Laundry room located in Bedroom one.
+STRP#2017009070A
+
+Other things to note
+House Rules: 
+**NO SMOKING IN SIDE OR NEAR DOORS!! If we find any evidence of smoking in this home, either by smell or paraphernalia, you lose security deposit.
+No guests at anytime not included in the reservation guest count even if they dont stay the night.
+Outside quiet hours dark until 9:00 a.m.
+No loud voices, music, or celebrating outside at any time.
+Noise complaint/police called = forfeited deposit.
+No more than 2 unregistered guests in the house at any time.
+No parking in the grass. Keep all vehicles on concrete areas.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brent
+Host User ID: 9805687
+Host Profile URL: https://www.airbnb.com/users/show/9805687
+Host Profile URL Source: public user permalink from passport userId
+Meticulous homeowner and avid golfer 50-year-old male who is a film maker, in the music business and music video producer in "Music City" and photographer. 
+Enjoys golf, tennis, runner, singer and guitar player.
+Born in the 60s
+My work: Film maker, Author, and music video producer, photographer and owner of rental properties
+Response rate: 100%
+Responds within an hour
+13 years hosting
+1890 reviews
+4.59 out of 5 average rating
+13 years of hosting

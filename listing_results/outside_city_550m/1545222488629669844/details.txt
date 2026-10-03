@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1545222488629669844
+Latitude: 36.217208486955066
+Longitude: -87.01073700397808
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy sunsets on the dock! Stunning 1BR, 800 sq ft riverside suite, just 25 min from downtown Nashville by water or land. Boat dock access, amazing river views, and a screened-in porch. Includes kitchenette with fridge, air fryer, microwave, outdoor gas grill. Located just 2 miles outside Davidson County — the perfect peaceful getaway close to the city!  Ideal or Couples, solo travelers, or anyone looking to relax by the water, enjoy nature, and still stay close to the heart of Nashville.
+
+The space
+🌊 River Life
+	•	Private dock access for boating, kayaking, or fishing
+	•	Peaceful riverfront setting with water access all the way to downtown Nashville
+	•	Enjoy the sights and sounds of nature right from your porch
+        .      3 miles from Brush Creek Recreational Area with boat ramp to launch your boat.
+
+⚙️ A Few Notes
+
+	•	The other part of the home is owner-occupied by a quiet professional couple (first responders) with a completely separate entrance. They respect guests’ privacy but are nearby if you need anything. While having a great time is highly encouraged, if you are looking to host big parties, this is not the location for you. 
+
+	•	There is a small factory nearby that can occasionally make some noise building the incredible barges that navigate the waters.. Most guests find it minor, but we like to mention it so there are no surprises. If you are lucky you might catch them launching a barge.
+
+Guest access
+Enjoy your private screened in patio or riverfront yard and dock.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Henry & Kim
+Host User ID: 105860982
+Host Profile URL: https://www.airbnb.com/users/show/105860982
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+10 months hosting
+1 reviews
+5.0 out of 5 average rating
+10 months of hosting

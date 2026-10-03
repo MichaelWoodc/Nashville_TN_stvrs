@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/816893820221950214
+Title: Cozy Cottage @ Trevecca
+Latitude: 36.19533
+Longitude: -86.74298
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil getaway.The Cozy Cottage@Trevecca is 2 Bed 1 Bath home away from home retreat, located in the center of the historical East Nasville. This newly renovated cottage offers a home feel when traveling. Walking distance to retail stores, restaurants, bars,coffee shop, and much more. Located minutes from Downtown Nashville,  Opymills, and Nashville BNA airport. This Cottage and it's amenities are sure to meet your 5 star visit to Nashville.
+
+Guest access
+Guest has use of the entire home, front yard, driveway and  back deck. The back yard is restricted due to shared space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Corey
+Host User ID: 495226310
+Host Profile URL: https://www.airbnb.com/users/show/495226310
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+70 reviews
+4.89 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/24993316
+Latitude: 36.18208
+Longitude: -86.80637
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the music lover's retreat in North Nashville, a cozy haven! Upon arrival, you'll immediately sense the welcoming ambiance. Enjoy a complete kitchen, a washer & dryer, 3 bedrooms, 2 baths, office space, complimentary driveway parking, and a backyard. Nestled in North Nashville, a vibrant and burgeoning locale, with eateries, cafes, and bars within walking distance. A quick Uber/Lyft ride to downtown ensures convenient access. The central location is ideal for exploring Nashville.
+
+The space
+Indulge in the enchanting allure of Nashville at the Music Lover's House, where every corner resonates with the city's vibrant energy. Whether you're here for business or pleasure, this cozy haven promises the perfect retreat after a day of immersing yourself in Music City's charms.
+
+Step into the first bedroom, boasting a plush queen-size bed for a restful night's sleep. The conveniently accessible bathroom adds to your comfort and convenience.
+
+Unwind in the stylishly appointed living room, where artistic flair meets modern comfort. Lounge on the inviting sofa or couch, both easily transforming into additional sleeping spaces, while enjoying entertainment on the smart TV.
+
+Embrace your inner chef in the fully equipped kitchen, complete with modern appliances including an electric oven, full-sized refrigerator, dishwasher, microwave, and coffee amenities catering to both regular and Keurig preferences. Gather around the dining table or bar, offering ample seating for four or more guests.
+
+Discover two more cozy bedrooms and another well-appointed bathroom, ensuring ample space and privacy for all guests.
+
+Throughout your stay, enjoy the provided essentials such as body wash, hand soap, fresh towels, and clean linens, ensuring a hassle-free experience.
+
+As night falls, retreat to the magical ambiance of the backyard illuminated by charming string lights, perfect for unwinding under the stars.  The back fence was painted by neighborhood artists.
+
+Traveling with your furry companion? Pets may be accommodated at the owner's discretion, with guidelines provided to ensure their comfort and safety.
+
+Please respect that this is a our cherished home, and treat it with the same care as your own. Any damages should be reported promptly for timely resolution, with a nominal fee applicable for damaged linens.
+
+For added security and peace of mind, the property is equipped with Nest doorbell and cameras focused on both the front and back areas, ensuring your safety during your stay.
+
+5 min drive to Sounds Stadium
+10 min drive to Downtown/Broadway
+10 min drive to Nissan Stadium
+12 min drive to Vanderbilt
+12 min drive to Five Points/East Nashville
+
+Guest access
+No keys to lose or to return! The house provides secure, keyless entry with a smart lock. You can lock and unlock the door with a code, using a unique virtual key.
+
+The house has 3 bedrooms, 2 bathrooms, a kitchen, dining area,  living room, laundry area, and a great backyard area - all yours!
+
+Other things to note
+*The previous reviews are from a single room in the house. This listing is for the entire house. No one (or animals) will be in the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aaron
+Host User ID: 1393599
+Host Profile URL: https://www.airbnb.com/users/show/1393599
+Host Profile URL Source: public user permalink from passport userId
+I am a music lover, entrepreneur, and radio DJ in Nashville, Tennessee (Music City).
+Lives in Nashville, Tennessee
+Pets: Shocka & Cassandro
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+95 reviews
+4.89 out of 5 average rating
+8 years of hosting

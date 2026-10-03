@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/33684581
+Latitude: 36.17241
+Longitude: -86.78167
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Riverfront Condos is a unique complex with exclusive riverfront views!  Extremely friendly for short-term renters.  Perfect for out of town guests on vacation or locals for the "downtown" experience.  Excellent for folks in town for business.  Swimming pool, grill, firepit, gym, & laundry access for all guests! Firestick provided for TV (no traditional cable). Rates are non-negotiable.
+
+The space
+Short walk to Broadway but still secluded from tourists! A few blocks from Nashville Sounds Stadium, Brooklyn Bowl, and many other attractions.
+
+Guest access
+Swimming pool (April 1 - Oct 31), gym, laundry facilities, firepit, patio & deck with grill.
+
+Other things to note
+The couch is not a sleeper sofa but if comfy to sleep on! Fully furnished kitchen with Keurig single cup maker.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Todd
+Host User ID: 253888189
+Host Profile URL: https://www.airbnb.com/users/show/253888189
+Host Profile URL Source: public user permalink from passport userId
+Moved to Nashville in 2003 from Ocala, Florida and couldn't leave!  My wife's a rare Nashville native raised in Sylvan Park.  With family ties in Iowa and Florida we love to host guests in Music City all year round!
+My work: Farmers Insurance - Pembroke Agency
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+693 reviews
+4.84 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1669710108884902375
+Latitude: 36.162655041806914
+Longitude: -86.80877661005866
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just a 5 minute drive from downtown Nash, yet tucked away enough to truly relax. 
+
+This thoughtfully designed space blends comfort and style, offering a calm escape that’s close to everything.
+
+Step inside to an airy, open layout with abundant natural light, soft neutral tones, and curated touches that make the space feel both modern and cozy.
+
+Whether you’re visiting for a weekend getaway, a work trip, or a longer stay, this bungalow offers the perfect balance of tranquility and convenience.
+
+The space
+Open layout—living room, kitchen, and king-sized bed all in one room.
+
+Private garage with keypad entrance. Apartment is above garage. 
+
+Kitchen includes refrigerator, freezer, stovetop, microwave & dishwasher.  NO oven.
+
+Bathroom includes towels, washcloths, shampoo, conditioner, body wash, and hair dryer.
+
+Washer & dryer in unit (downstairs in garage below apartment). Clothing steamer also provided in closet.
+
+Guest access
+This is a completely separate building from the main house.  You have a private entrance and your own personal garage to park in.  The apartment is above the garage where you park.
+
+Other things to note
+Due to all of the light colored furniture and bedding, we do not allow pets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Randi
+Host User ID: 20117248
+Host Profile URL: https://www.airbnb.com/users/show/20117248
+Host Profile URL Source: public user permalink from passport userId
+I’ve been a Nashville local for 18 years!
+Lives in Nashville, Tennessee
+Pets: my ShihTzu BB
+9 years hosting
+113 reviews
+4.96 out of 5 average rating
+9 years of hosting

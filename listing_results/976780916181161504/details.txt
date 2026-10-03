@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/976780916181161504
+Title: Nashville Group Getaway: Rooftop & Game Room
+Latitude: 36.16688
+Longitude: -86.81339
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bright, music-inspired Nashville townhouse designed for group stays, with 5 queen beds, 2 twin beds, and a full-size pullout sofa. Enjoy a rooftop TV and fire pit, two additional balconies, a grill, garage game room, fast 598 Mbps Wi-Fi, free in-unit laundry, and even pet-friendly accommodations. Downtown/Broadway and major venues are less than 10 minutes away. More details below!
+
+The space
+Thoughtfully designed by a hospitality expert, this stylish three-level townhouse pairs abundant natural light with Nashville-inspired details, including a colorful Music City guitar mural and a record collection for your stay.
+
+- ROOFTOP with a TV, a fire pit and a golf game. 
+- 2 other balconies, one with a grill. 
+- GAME ROOM with a ping pong table, darts, NFL Blitz arcade game, ring toss and more. 
+- 5 queen beds, 2 twin beds, and a full size pullout sofa. 
+
+- 1st floor bedroom: Queen bed, walk-in closet, and private bath.
+- 2nd floor: open-concept living, dining, and fully appointed kitchen. Make craft cocktails with high-end bar tools, gather around the dining table, cook a meal, or settle in with a plush blanket and a show after a night out.
+- 3rd floor: The primary sleeping space. One bedroom offers queen bunk beds, twin bunk beds, the primary bath, a large walk-in closet, and a dedicated water closet. The 2nd bedroom offers 2 queen beds and a private bathroom.
+
+Guest access
+The entire townhouse is yours to enjoy, with a private entrance and self check-in via keypad. You will also have access to the garage game room, rooftop, two additional balconies, and the shared backyard.
+
+The shared backyard has room for cornhole, ladder ball, and cold drinks. It is not fully fenced.
+
+Other things to note
+*Downtown/Broadway, Nissan Stadium, Bridgestone Arena - Less than 10 mins
+*GEODIS Park - 12 mins
+*Airport – 16 mins
+*Publix, Kroger, or Walgreens - 5 mins
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicolas
+Host User ID: 86871758
+Host Profile URL: https://www.airbnb.com/users/show/86871758
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Hotel Management
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+238 reviews
+4.9 out of 5 average rating
+5 years of hosting

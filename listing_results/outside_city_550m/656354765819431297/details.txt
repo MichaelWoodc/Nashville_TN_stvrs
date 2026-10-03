@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/656354765819431297
+Latitude: 36.02752
+Longitude: -86.55396
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tranquil private room with its own private bathroom in a brand new townhome. Located 20 minutes from downtown Nashville. There are plenty of grocery stores around us and a Planet Fitness. Come stay at our place and enjoy a relaxing getaway. Washer and Dreyer are only for guests who stay 7 or more days. We have a small 19lb Male Shorkie, he is very friendly and loves people and other animals. Please park only in designated parking spots, if your tags are expired the car could get towed.
+
+Guest access
+kitchen and living roomas long as you clean after yourself
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ernesto
+Host User ID: 222028203
+Host Profile URL: https://www.airbnb.com/users/show/222028203
+Host Profile URL Source: public user permalink from passport userId
+Hey my name is Ernesto I'm from Cuba and Im pretty laid back and enjoy doing Airbnb and meeting new people.
+Born in the 90s
+My work: Nurse
+Response rate: 100%
+Responds within an hour
+7 years hosting
+376 reviews
+4.83 out of 5 average rating
+7 years of hosting

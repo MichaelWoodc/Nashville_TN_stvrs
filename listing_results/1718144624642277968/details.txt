@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1718144624642277968
+Latitude: 36.19459
+Longitude: -86.77682
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your luxury wellness townhome in Nashville. This fully furnished retreat features 4 private en-suite bedrooms, a sleek modern design, and a spacious open-concept living area designed for comfort and connection. Every detail has been thoughtfully curated to deliver an exceptional five-star stay.
+
+The space
+Welcome to our fully furnished luxury townhome, located just minutes from the heart of downtown Nashville. Designed with comfort and sophistication in mind, this stylish retreat offers four spacious bedrooms, each featuring its own private en-suite bathroom—perfect for families, groups, or friends traveling together.
+
+Enjoy contemporary finishes, a cozy fireplace, and a bright open-concept living space that's ideal for gathering, relaxing, or entertaining.
+
+Floor Layout:
+• 1st Floor: Bunk bedroom
+• 2nd Floor: Guest bedroom and main living area
+• 3rd Floor: Primary bedroom and an additional guest bedroom
+• 4th Floor: Private rooftop deck with a hot tub
+
+Parking is limited to two vehicles in the open carport. Street parking is not available, but paid parking is conveniently located nearby.
+
+From its upscale design to its rooftop city views, every detail has been thoughtfully selected to create a memorable stay. Whether you're in Nashville to experience Music City, celebrate a special occasion, or simply unwind, this townhome provides the perfect home base.
+
+Guest access
+You have access to the entirety of the home!
+
+Other things to note
+While the neighborhood is generally quiet and safe, it’s important to remember that this is an urban environment. We encourage you to stay mindful of your surroundings and practice common sense. For your safety, we recommend not leaving valuables in your car and ensuring that doors and windows are securely locked whenever you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

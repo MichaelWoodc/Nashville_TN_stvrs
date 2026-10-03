@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/52349678
+Latitude: 35.97881
+Longitude: -86.82978
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Brentwood, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Country aesthetic, nestled in the hillside of Historic Franklin, and just minutes from downtown Nashville. Spacious deck with beautiful hillside view. You will likely see colorful wild birds on my feeders, wild turkeys, chipmunks, deer, etc. Extras include Fire Pit, Corn Hole and Basketball Goal
+
+The space
+There are 4 bedrooms. The Master has a King sized bed with its own bathroom. The other 3 bedrooms, 2 Queens and 1 Full size bed, share the other 1 1/2 bathrooms. There is a large TV in the Living Room and a TV in every bedroom.
+
+Guest access
+Large driveway with plenty of parking. Spacious deck with patio table and propane heater. Fire pit in the back yard.
+
+Other things to note
+I live and work in the basement but no need to worry, it is locked off and completely separate from house with it's own private access. You will have the whole house to yourself and you won't likely see me unless you need something :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steve
+Host User ID: 349775594
+Host Profile URL: https://www.airbnb.com/users/show/349775594
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville music producer and recording engineer. I love being an Air BnB host and will do whatever it takes to make sure your stay is enjoyable and comfortable.
+My work: Music Producer/Recording Engineer
+Fun fact: I’m a music producer/ recording engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+203 reviews
+4.98 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/823879694871437688
+Title: Location Matters | Parking | Entertainment
+Latitude: 36.1703
+Longitude: -86.7967
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+One Free Off Street parking spot on the driveway, additional free street parking
+Less than a mile to downtown and minutes to Broadway
+High Speed Internet 
+ROKU TVs in all bedrooms + Living room
+Washer & Dryer 
+Fully Stocked Kitchen
+Excellent access for travel!
+
+The space
+We designed this apartment to optimize the airbnb experience for all travelers! The space has high speed internet, 55 inch ROKU  TVs, fully stocked kitchen for cooking, free on and off street parking, and best of all, fresh linens and towels provided each stay including four separate beds. 
+
+ We have provided the essentials like towels, linens, soaps, and more for your stay. This space is great for couples, adventurers, work, family and friends. Located in the North Gulch, it’s incredibly convenient to Broadway, Bridgestone Arena, Downtown, All Concert Venues, Museums, Food, Entertainment and more.
+
+Guest access
+Guests will have full access and use of the place 24 hours a day. You can come and go as you like and there’s an electronic lock, so there are no keys to keep up with! I live nearby and can help with anything you need.
+
+Other things to note
+NON SMOKING UNIT
+NO PARTY POLICY 
+Please respect the house rules listed above. 
+Guests are responsible for any damaged items during their stay
+
+This Apartment is a separate building and has a private entrance. We built the entrance to face the alley direction to maximize privacy. See the detailed picture in the message thread before arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 170262881
+Host Profile URL: https://www.airbnb.com/users/show/170262881
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Matt the CEO of GroupStay. I love my family, sports, traveling, and meeting new people.  I was born and raised in Pittsburgh and enjoy introducing visitors to everything my beloved hometown has to offer.   I am proud to host groups of guests staying in Pittsburgh’s historic North Shore next to downtown and the stadiums. Whether you are adventuring friends, family, or business travelers, I look forward to providing the perfect stay for your group! Cheers
+Where I went to school: University of Pittsburgh
+My work: GroupStay
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+9437 reviews
+4.78 out of 5 average rating
+8 years of hosting

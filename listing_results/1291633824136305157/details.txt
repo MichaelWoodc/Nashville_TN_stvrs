@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1291633824136305157
+Latitude: 36.16562337325513
+Longitude: -86.8024816061729
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our budget-friendly 2-bedroom apartment, ideally located near Marathon Village in the heart of Nashville. Featuring two cozy beds, this stylish space is perfect for a comfortable stay. Enjoy the convenience of being close to boutique shops, trendy cafes, and historic attractions. Whether you're in town for business or leisure, our centrally located apartment offers easy access to the best Nashville has to offer. Book now for a memorable stay!
+
+The space
+Welcome to our budget-friendly 2-bedroom apartment, perfectly situated near Marathon Village in the vibrant heart of Nashville. This cozy and practical space features two comfortable beds, making it an ideal choice for travelers seeking value and convenience. The apartment is thoughtfully designed to provide a comfortable stay without breaking the bank.
+
+Our apartment offers all the essentials for a pleasant stay, including a fully equipped kitchen, clean and tidy living spaces, and complimentary Wi-Fi. Whether you're in town for a weekend getaway, a business trip, or an extended stay, you'll find everything you need within reach.
+
+Our location provides the unique advantage of being close to downtown while remaining budget-friendly for our guests. Situated in an up-and-coming area just minutes from vibrant Broadway, our property offers both convenience and affordability.
+
+Nashville, like many larger cities, boasts a diverse population within its downtown, and our neighborhood reflects this diversity. It's a dynamic experience, somewhat similar to the lively atmosphere one might encounter while visiting a larger city. 
+
+Our goal is to ensure that everyone has a safe, positive and enjoyable time while staying with us in Music City. Our team is available throughout your stay should you have any questions or feedback.
+
+Guest access
+Entire home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hughes
+Host User ID: 650637910
+Host Profile URL: https://www.airbnb.com/users/show/650637910
+Host Profile URL Source: public user permalink from passport userId
+My name’s Hughes and traveling is one of my favorite things to do. Looking forward to hosting my fellow travelers!
+Born in the 80s
+Where I went to school: Middle Tennessee State University
+Response rate: 100%
+Responds within an hour
+2 years hosting
+803 reviews
+4.74 out of 5 average rating
+2 years of hosting

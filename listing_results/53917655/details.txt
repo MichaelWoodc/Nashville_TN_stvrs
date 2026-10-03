@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/53917655
+Latitude: 36.28036
+Longitude: -86.73583
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sleep inside country music history. This is Patsy Cline's actual Dream Home—the final home she owned, purchased in 1962 at the height of her career. Step back into 1963 in a lovingly preserved Nashville time capsule filled with period details, music and the story of one of country's most legendary voices. Four bedrooms, three full baths and room for up to 10 guests—just 10 miles from downtown Nashville.
+
+The space
+This is a classic ranch style home with four bedrooms and three full bathrooms. It has two dining areas, two kitchen areas, and multiple entertaining/hang out areas.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Natalie
+Host User ID: 23463655
+Host Profile URL: https://www.airbnb.com/users/show/23463655
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville native, and I love to travel.
+My work: Gibson Guitar
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+225 reviews
+4.84 out of 5 average rating
+11 years of hosting

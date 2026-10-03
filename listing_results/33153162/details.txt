@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/33153162
+Latitude: 36.20793
+Longitude: -86.72626
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This thoughtfully restored 1920s home features a chic interior elevated by exposed brick walls and vibrant colors. Play shuffleboard in the game room, fire up a BBQ on the spacious deck, relax in the newly installed hot tub and enjoy conversations around the fire pit in the backyard while your fur babies play around you. 
+
+Permit # 2/0/1/9/0/0/7/9/8/8
+
+The space
+This four bedroom, two bath craftsman was built in the 1920's and still radiates its original charm while offering you all the modern amenities you could want. 
+
+You'll love waking up to the birds chirping in our backyard, making yourself some fresh local coffee in our country comfort kitchen, and having breakfast in the Nashville morning sun. 
+
+You can spend your day strolling through the shops and restaurants of East Nashville, just a few minutes down the road, or head 15 minutes downtown to Broadway to see shows (music and people watching). 
+
+End your day soaking in our spa-like clawfoot tub or playing shuffleboard in our game room listening to your favorite country and rock records on our vintage record player. Curl up by the fire pit and bbq on our spacious deck and play corn hole in the backyard among fruit trees, berry bushes and veggies growing in our garden while your dogs play in the fenced in dog run. Southern living at its best!
+
+We have a driveway that can easily fit four standard sized cars next to the house, no street parking. Uber/Lyft is the easiest mode of transportation around-- we are 15 minutes from downtown and 17 minutes from the airport.
+
+Guest access
+The entire house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julia
+Host User ID: 27853322
+Host Profile URL: https://www.airbnb.com/users/show/27853322
+Host Profile URL Source: public user permalink from passport userId
+Entrepreneur + Interior Designer passionate about traveling, real estate, plant based cooking, sustainable/ethical businesses + design ,and animals. 
+
+I know that accommodations and helpful hosting/service can make or break a trip, so I take pride in creating a welcoming and helpful atmosphere for my guests. 
+
+I live by the quote: "Attitude is the difference between an ordeal and an adventure."
+Born in the 90s
+Where I went to school: Loyola Marymount University
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+298 reviews
+4.94 out of 5 average rating
+9 years of hosting

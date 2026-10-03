@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/50441807
+Latitude: 36.2094
+Longitude: -86.7346
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+BRAND NEW East Nash condo w/2 King beds! Walk to local bars/restaurants, grocery, liquor stores and only a 3 mile drive to Broadway! Building also has massive community rooftop deck to relax or enjoy a drink with a view. Into Karaoke? Sids Gold Room piano bar is right next door with nightly karaoke. Dive bars? One of the best in East Nashville, The Underdog, is right across the street. Welcome to Music City! Please note: No locals. locals that book without inquiring first may not be reimbursed.
+
+The space
+There is one large bedroom with a comfy King size bed! The sofa sleeper is a very easy-to-use pullout that will fold out into a king-size bed as well.  Bedroom has a large 45" TV and the living room has a big 65" TV for movies or game day. Single working desk outside of the bedroom. Large rooftop access with city views. Very close to local favorites dining, bars, shopping and entertainment. Five Points, Opryland, Downtown airport all within 5-15 min. Large furnished kitchen space, wi-fi, coffee, and large fridge with ice maker. This is an outside self-serve entrance motel-style private condo in East Nashville.
+
+*PETS: Up to 2 dogs are allowed with prior host approval. A $75 fee per pet applies, and breed restrictions may apply. Cats are not allowed. Pets must be kept off all furniture at all times and kenneled when left unattended. Please clean up after your pets. Additional fees may apply for excess pet hair, damage, or extra cleaning.
+
+All properties are contactless checkin. Please be sure to arrive to checkin between 4pm & 8pm. If you do arrive later, you will still be able to checkin but may not have assistance if needed. Checkin time is always 4pm unless approved in writing by management. If you book and edit your checkin time to be earlier than 4pm, you will not be able to checkin until 4pm.
+
+If making a reservation with a same day checkin, checkin time is subject to change depending on cleaning schedule for that day.
+
+Guest access
+Dedicated parking space - painted on the pavement. There are also a few guest spots available - first come, first serve.
+
+Other things to note
+This listing is managed by Chady Property Management.
+
+-You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+- Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+- Sorry, we do not host locals. Any local that books this property without contacting management first for approval will have the reservation canceled without refund.
+- For reservations that are made through platforms other than Airbnb and HVMB, and guest is entitled a refund, guest will be charged a 3% credit card processing fee that is deducted from their refund.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4198 reviews
+4.78 out of 5 average rating
+5 years of hosting

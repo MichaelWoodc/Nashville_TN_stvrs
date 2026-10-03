@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/27134499
+Latitude: 36.18087
+Longitude: -86.80868
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Before booking, please review the full listing: 
+
+Welcome to your cozy Nashville suite with private keypad entrance. Our home is within  half a mile of the original and famous Slim & Husky's Pizza, less than 5 minute ride to Germantown, about 10 min to Broadway and the Gulch, and 15 minutes from the airport. The Buchanan Suite is located in a transitioning, urban neighborhood and is not the most walking friendly yet, but is changing daily.
+
+The space
+A renovated guest suite with lots of little extras. Queen size bed, Keurig, mini fridge, microwave, refreshments, TV with netflix, all white linens, and extra blankets and towels. Perfect for couples, solo travelers, and those in town for business. Space includes a compact desk if visiting for a conference or work event.
+
+Guest access
+You will have access to a private entry, there is a fence gate, small patio area, then an exterior door to enter the suite. Our street has ample free parking. 
+
+Private entrance at the front of the house, separate from main entry to home, keypad lock, and motion activated lights to easily enter the home at night.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 15929189
+Host Profile URL: https://www.airbnb.com/users/show/15929189
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Talent Management
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+485 reviews
+4.93 out of 5 average rating
+8 years of hosting

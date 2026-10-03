@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/50008391
+Latitude: 36.19429
+Longitude: -86.72287
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Find Inspiration in this Peaceful, Cozy, Contemporary Townhome in vibrant East Nashville. Spend the day exploring the many popular restaurant hot spots, endless coffee shops & fabulous bars all within 5-10 minutes of us. Return to enjoy a refreshing cocktail on the roof top terrace or whip up a nice dinner with an amazing view. Just mins from all that downtown Nashville has to offer, our place will comfortably sleep 6. Come enjoy our home away from home.
+
+The space
+Is a 4 story townhouse. You enter into the main living area, that includes the kitchen, dining area and living room. The couch converts to a queen bed.  Head on up to the 2nd floor to find the Master Suite with a queen bed, walk in closet and full bath with shower. Third floor is the guest suite with a full bed, walk-in closet (w/washer and dryer), full bath w/tub, and a pull out single mattress for an extra guest. Head on up the last flight of stairs to your own private oasis on the roof overlooking East Nashville.
+
+**Doorbell and rooftop cameras for your safety
+
+Guest access
+Keypad door lock for contactless, keyless entry at your convenience. Parking lot and street parking available. Short walk to inside corridor unit with lots of privacy.
+
+Other things to note
+We have a 2-day minimum on weekends and only 1-day on weekdays. 3-day weekends have a 3-day minimum requirement and are subject to higher rates. Please inquire for holiday rates. All Fridays and Saturdays must be booked together.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justine
+Host User ID: 403320702
+Host Profile URL: https://www.airbnb.com/users/show/403320702
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+277 reviews
+4.87 out of 5 average rating
+5 years of hosting

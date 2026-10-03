@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/50420571
+Latitude: 36.15769
+Longitude: -86.85152
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of Nashville - less than 5 miles from Broadway - this beautiful, modern and spacious home provides the perfect atmosphere for a relaxing getaway in Music City.
+
+With both a large, open living room and private upstairs loft, you can enjoy spending time inside, head to the local restaurants and bars less than a mile away, or spend time in downtown Nashville! 
+
+This is a perfect location for all types of vacationers!
+
+The space
+You will be provided with essentials and even some comforts to make sure that you are happy with your stay.  Open concept downstairs with a beautiful and newly installed fireplace and 65 inch TV, fully functional kitchen, stainless steel appliances, two fully stocked mini refrigerators (1 downstairs and 1 in the upstairs loft), portable bluetooth speakers to enjoy music anywhere in the house and another mounted TV and couch on the second floor loft with a fully equipped wet bar.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 407344915
+Host Profile URL: https://www.airbnb.com/users/show/407344915
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Elon University
+Response rate: 88%
+Responds within an hour
+Superhost
+5 years hosting
+49 reviews
+4.94 out of 5 average rating
+5 years of hosting

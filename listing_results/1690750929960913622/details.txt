@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1690750929960913622
+Latitude: 36.0738
+Longitude: -86.7112
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax and unwind at the White Brick House — a peaceful Nashville retreat with timeless charm, cozy interiors, and plenty of space to feel at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Grant
+Host User ID: 47264091
+Host Profile URL: https://www.airbnb.com/users/show/47264091
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+51 reviews
+4.65 out of 5 average rating
+5 years of hosting

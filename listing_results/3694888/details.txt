@@ -1,0 +1,89 @@
+URL: https://www.airbnb.com/rooms/3694888
+Latitude: 36.14959
+Longitude: -86.78881
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our private quiet Unique studio apartment and yard in the Gulch.  Easy walks to the Gulch, Music Row and downtown. Open space with tons of light with huge windows on 3 of the 4 walls!  Has blinds and blackout curtains if you want to sleep in.  2 blocks from Music Row, 2 blocks from Demumbruen, and 2 blocks from The Gulch! .9 of a mile from Bridgestone Arena. You simply cannot have a better location!  
+
+1500w Red Light Therapy Panel to recharge
+
+E-Bike
+
+A fun spot to rest and regenerate
+
+The space
+Extremely private
+
+Queen bed
+
+2 twin beds
+
+1500w Red Light Therapy to recharge
+
+Acoustic Guitar
+
+Bubble Chair for photos
+
+Record Player
+
+E-bike
+
+Amazon Alexa for music
+
+Backyard Hangout Area w/fire pit
+
+1500w Red Light Therapy to recharge
+
+Guest access
+WIFI 
+No shared areas very private
+  
+Coded private entrance
+
+No gates or lengthy walks
+
+Backyard hangout area with Grill and fire pit
+
+Other things to note
+1500w Red light therapy panel to recharge
+
+Guitar
+
+Bluetooth NFC clock radio/speaker system.  
+
+Coffee maker with a programmable timer. 
+
+Guest access WIFI. No shared areas. 
+
+Outdoor Hangout area with fire pit 
+
+Two burner stove, microwave, and refrigerator.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sean
+Host User ID: 18816131
+Host Profile URL: https://www.airbnb.com/users/show/18816131
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1196 reviews
+4.76 out of 5 average rating
+12 years of hosting

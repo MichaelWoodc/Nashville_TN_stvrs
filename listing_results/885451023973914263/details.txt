@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/885451023973914263
+Latitude: 36.2016
+Longitude: -86.7517
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 4
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*This is a two-unit buyout*
+
+Welcome to Stapleton & McGraw at the Cherokees Nashville, an AvantStay home!
+
+The space
+Where sophistication and warm contemporary style come together to provide the ideal haven for Nashville family vacations and wayfarings to the exciting Broadway Street. The bright and open abode features high-end interior finishes, a chef's kitchen, and a spacious living room that welcomes festivities. After a day of exploring, unwind on the plush sofas while playing a tune on the record player. Get creative in the vast kitchen and share a meal and stories around the elegant dining table and toast to your Nashville getaway!
+
+__
+
+The room configuration is as follows:
+
+Unit 1:
+Primary Bedroom / King bed with En-suite 
+Bedroom 2 / Two full beds with En-suite 
+
+Unit 2:
+Primary Bedroom / King bed with En-suite 
+Bedroom 2 / Two full beds with En-suite 
+
+__
+
+Need more space? The home is one of 7 similar units at Cherokee.  Photos feature our layout and furnishings, specific designs may vary.
+
+AvantStay provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more. For anything you need, we’re at your fingertips!
+
+Other things to note
+Home Truths:
+- Stays of under 24 hours are not allowed 
+- No recreational vehicles, buses, or trailers shall be visible on the street or on the property
+- Please be aware that this home is located near a busy highway, which may be noisy at times
+- This home allows pets for a fee. If undisclosed pets are brought into the home without AvantStay's approval there is a fine of $500 per pet.
+- Please note our occupancy includes an additional two beyond bed count. Trifold floor mattresses and additional linens can be provided upon request.
+
+This home comes with a pack n' play travel crib available. A high chair can be provided upon request with at least 24hrs advanced notice. Just ask and we are happy to accommodate you and your little ones!
+
+[DISCLAIMERS]
+  - No smoking in or outside of this home. Subject to a $500 fine.
+  - Occupancy and noise limits are strongly enforced. Subject to fines that can reach up to $10,000 per violation.
+  - IDs and security deposits when applicable will be requested after booking
+  - We have the right to report and prosecute all Credit Card Fraud
+
+Registration Details
+null
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: AvantStay Nashville
+Host User ID: 338667310
+Host Profile URL: https://www.airbnb.com/users/show/338667310
+Host Profile URL Source: public user permalink from passport userId
+AvantStay makes group travel easy. Our homes are designed for comfort, connection, and memorable moments, with consistent quality you can count on—every time, everywhere.
+Speaks Arabic, German, English, Spanish, French, Hindi, Japanese, Korean, Portuguese, and Chinese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+6916 reviews
+4.76 out of 5 average rating
+7 years of hosting

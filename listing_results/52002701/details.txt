@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/52002701
+Latitude: 36.18799
+Longitude: -86.74521
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 22
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*** PRICE INCLUDES BOTH UNITS ***
+
+Two BRAND NEW, super trendy, luxurious townhomes!
+2 UNITS! 4 BALCONIES! 8 Bedrooms! 8 Bathrooms! The townhomes have a beautiful open fully equipped kitchen. Each unit has a 2 car garage and plenty of beds. These townhomes have everything you need to make unforgettable memories in Music City!
+
+***We have Starbucks, Publix, Chase Bank at the Location***
+
+The space
+The space
+
+Bed configuration -
+First-floor bedroom. (1) - 2 Queen + 1 extra foldable bed
+Second-floor bedroom (2) - 2 Full
+Third-floor bedroom (3) - 2 Queen + 1 extra foldable bed
+Third-floor bedroom. (4) - 1 King
+Living Room: 2 Queen pullout sofa beds
+
+(we have the same bed configuration for both units)
+
+Each bedroom has a private bathroom.
+
+This place has been planned thinking about you, the guest. Not one detail was overlooked. This house is straight out of a magazine!
+
+Guest access
+You'll have the entire unit for yourself. 
+We have a smart keypad lock. You'll receive the access code to the unit 24 hours prior to your arrival
+
+Other things to note
+*GREAT FOR LARGE GROUPS*
+The complex has 6 side by side large beautiful NEW townhomes. The complex has the capability of holding up to 72 guests. Each house has 4 bedrooms and 4 baths. We have accommodations that can fit any group size, so please inquire and we can find the best option for you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shac
+Host User ID: 12153920
+Host Profile URL: https://www.airbnb.com/users/show/12153920
+Host Profile URL Source: public user permalink from passport userId
+In the past 10 years, I've specialized in hosting large groups for friend gatherings, family reunions, corporate retreats, and weddings. We carefully select and design our properties with guest comfort in mind, featuring private open spaces, spacious bedrooms with comfortable beds, and easy access to Nashville’s vibrant scene. As locals, we’re available to answer any questions or make recommendations during your stay!
+Born in the 60s
+My work: Hospitality hosting!
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+615 reviews
+4.86 out of 5 average rating
+11 years of hosting

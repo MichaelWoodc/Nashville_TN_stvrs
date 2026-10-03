@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/52902738
+Latitude: 36.22058
+Longitude: -86.62786
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🎶 Welcome to La Casa de Nashville! 🎶
+
+Enjoy a spacious and comfortable stay just 10 minutes from Nashville International Airport and 20 minutes from Downtown Nashville. Conveniently located near top attractions including the Grand Ole Opry, Opryland Resort, SoundWaves Water Park, Andrew Jackson’s Hermitage, and Nashville Shores. Surrounded by great dining, shopping, and entertainment, our home is perfect for families, groups, business travelers, and Nashville adventures!
+
+The space
+🎶 Welcome to La Casa de Nashville 🎶
+
+Experience the perfect blend of comfort, convenience, and Southern hospitality at La Casa de Nashville! Nestled in a safe, quiet, and family-friendly neighborhood, our spacious home is the ideal retreat for families, groups, business travelers, and anyone looking to experience the best of Music City.
+
+📍 Prime Location:
+• 5 minutes from Andrew Jackson’s Hermitage
+• 10 minutes from Nashville International Airport (BNA)
+• 20 minutes from Downtown Nashville and Broadway
+• Easy access to shopping, restaurants, and major highways
+
+🎸 Nearby Nashville Attractions:
+
+• Grand Ole Opry
+• Gaylord Opryland Resort & Convention Center
+• SoundWaves Indoor Water Park
+• Country Music Hall of Fame
+• Ryman Auditorium
+• Johnny Cash Museum
+• Nissan Stadium (Tennessee Titans)
+• Bridgestone Arena (Nashville Predators & concerts)
+• Nashville Shores Water Park
+• The Parthenon at Centennial Park
+• Broadway Honky-Tonks & Live Music Venues
+
+🏡 Why Guests Love La Casa de Nashville:
+
+• Safe and peaceful neighborhood
+• Spacious accommodations for families and groups
+• Large private backyard perfect for relaxing, grilling, and outdoor gatherings
+• Kid-friendly with plenty of room to play and explore
+• Comfortable spaces for remote work and extended stays
+• Ideal for corporate travelers, contractors, and traveling professionals
+• Close to local favorites, shopping centers, grocery stores, and entertainment
+
+Whether you’re visiting for a family vacation, a weekend getaway, a concert, sporting event, business trip, or to explore Nashville’s world-famous music scene, La Casa de Nashville offers all the comforts of home while keeping you close to everything Music City has to offer.
+
+Book your stay today and discover why guests love calling 🎵La Casa de Nashville🎵 their home away from home!
+
+We look forward to hosting you!
+
+Other things to note
+* Please list the proper amount of people that will be staying in our home for your stay. If there are more people staying at the home than listed on your reservation, you will be liable for a $25 extra charge per person.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenny
+Host User ID: 136501281
+Host Profile URL: https://www.airbnb.com/users/show/136501281
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+74 reviews
+4.96 out of 5 average rating
+5 years of hosting

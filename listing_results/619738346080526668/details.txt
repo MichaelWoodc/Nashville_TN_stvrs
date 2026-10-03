@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/619738346080526668
+Latitude: 36.17615
+Longitude: -86.80305
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our brand new, beautifully designed home in the heart of Nashville is ready to welcome you! Named after legendary Jimmy Hendrix, the property is designed to entertain while bringing in some of Nashville's classic charm!
+
+The Hendrix features an assortment of amenities, from the open, airy layout perfect for large groups to a spacious backyard featuring a deck with high-end outdoor furnishings and glass rock fire pit. Not to mention the fully equipped, gourmet-ready kitchen… and much more (see the comprehensive list below!).
+
+Spend your evenings sipping cocktails by the fire pit, playing a ping pong or just relaxing on the large double chaise velvet sofa. 
+
+Highlights You’ll Love
+
+▶︎ Centrally located to downtown Nashville
+▶︎ Open concept living room and kitchen with 75 inch TV.
+▶︎ Top-of-the line kitchen, equipped to make family style meals, morning coffee and everything in between
+▶︎ Pets allowed 
+▶︎ Samsung Smart TV s throughout the house with access to several streaming services (Netflix, Hulu, HBO, Amazon Prime, etc.)
+▶︎ 3 Master suites w/ high quality mattresses and baths + a bunk room with 2 Full Size bunk beds.
+▶︎ Whole home Sonos. Download the Sonos app, connect to the WiFi and play your favorite Nashville hits throughout the house. 
+
+Nashville will light you up with its rich musical history and vibrant setting for unforgettable nights out with your favorite people. Catch a show, dig into some Nashville Hot Chicken, take a stroll down neon-lit Broadway after dark (popping into one of the many bars and restaurants for a round of drinks and a music set), then come home to bliss and decadence at The Hendrix. Your vacation awaits!
+
+Guest access
+You'll have access to the entire property. A unique door code will be sent to you prior to check in along with detailed directions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 145379393
+Host Profile URL: https://www.airbnb.com/users/show/145379393
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+279 reviews
+4.92 out of 5 average rating
+7 years of hosting

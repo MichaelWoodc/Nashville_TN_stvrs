@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/578267659125698570
+Latitude: 36.1579
+Longitude: -86.794
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 8
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Important: Please do not instant book. Before booking, ensure both units in the photos are available. If you instant book, you will only reserve one unit, and it may not be the one shown in the photos.
+
+Welcome to Nashville. Whether you’re here to explore live music, enjoy trendy restaurants, or experience the vibrant nightlife, this home offers a walkable location to Downtown, The Gulch and Music Row. After a day of adventures, unwind on the rooftop with stunning city views.
+
+The space
+If you’re looking for a comfortable place to relax and hang with friends in between your Nashville adventures, this is it. Less than a mile to Broadway, this 4 bed/4 bath home is in a topnotch location & offers stunning views of the Nashville Skyline, which you can admire from the rooftop’s hot tub. (Check for availability)
+
+Guest access
+There is a smartlock to get in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gerry
+Host User ID: 24758299
+Host Profile URL: https://www.airbnb.com/users/show/24758299
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+286 reviews
+4.9 out of 5 average rating
+7 years of hosting

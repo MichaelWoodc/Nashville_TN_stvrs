@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/40491391
+Latitude: 36.1456
+Longitude: -86.58118
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come enjoy the Nashville area and relax in our quiet, guest suite. It is close to the city and less than 5 minutes to the lake! Get the best of city-life, lake-life and relax around the camp fire in a beautiful country setting! This studio suite has Nashville charm! It is sectioned with brick and shiplap privacy walls along with curtains. Enjoy your morning coffee on a private covered patio while watching the wildlife and planning your adventures. We have deer and wild turkey visit regularly!
+
+The space
+We would love to have you to stay in the studio suite of our home.  It is an attached but very private space. You will see a white fence at the road and follow a long driveway to a large parking area. Your covered entrance has a key code lock so you can easily self check in anytime. There is a king bed and a bunk bed.  The bunk bed has a full size bed on the bottom with a pull out trundle bed in addition to the top single bed (4 beds, able to sleep 6).  There is also a Pack n' Play tucked under the king bed. If you need it, let us know and we will have it all set up for you! We have a kitchenette area with a full size fridge for any yummy leftovers after dining in the city. The kitchenette also includes a sink, microwave, toaster oven and a single cup coffee pot.  The bathroom has towels, washcloths, shampoo, soap and a hairdryer.  There is a covered patio area and fire pit available for your use.  Kick back and roast some s'mores! Family friendly! Very safe neighborhood! Come and make some memories!
+
+We are an active family of 6 with a dog that you may see wandering our yard. No need to worry, she is friendly and will not go beyond her underground fence.  We love to host and are happy to give you complete privacy or to chat about our favorite places to visit and dine! Our goal is for you to LOVE your time staying here, have FUN and RELAX!
+
+Guest access
+Enjoy the screened in patio and outdoor area around the fire pit (must purchase own firewood).
+
+Other things to note
+If your group has more than two cars, please street park additional vehicles at the road after unloading luggage. We have a very safe neighborhood for street parking. 
+
+Firewood for fire pit available for purchase on site or at local grocery/hardware store. 
+
+Extra charges will be incurred for any damages to beds, couches, TVs, etc.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 313456702
+Host Profile URL: https://www.airbnb.com/users/show/313456702
+Host Profile URL Source: public user permalink from passport userId
+Hi! My name is Sarah. I am married to an awesome guy and have four boys. I am an RN and enjoy homeschooling our kiddos. I have always enjoyed hosting people and love running our Airbnb. I will strive to make your stay the best it can be!
+Lives in Tennessee, United States
+Response rate: 90%
+Responds within an hour
+Superhost
+7 years hosting
+272 reviews
+4.97 out of 5 average rating
+7 years of hosting

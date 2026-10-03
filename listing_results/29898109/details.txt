@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/29898109
+Latitude: 36.17785
+Longitude: -86.74143
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy this delightful, modern and newly constructed "Granny Flat" guest studio in historic East Nashville neighborhood!  Located in Lockeland Springs, just 3 miles from downtown Nashville, this sunny, private, detached guest house is perfect for your stay.  Walk to Five Points, Shelby Park, local restaurants, bars, and shops.
+
+The space
+Inside the 310 sq ft modern studio space you will find vaulted ceilings, stained concrete floors and beautiful natural daylighting.  Provided are one queen size bed for sleeping and a cozy loveseat for lounging, bathroom with shower, and kitchenette with full size refrigerator/freezer, microwave, Keurig coffee maker and toaster.  
+
+Guests can access the space by entering a gated walkway from the alley behind our house.  The building sits at the back of our property and has space for a small car to park in the gravel driveway.  Larger vehicles will need to park at the end of the alley on the street (free).  In order to access the entry door to the guest house, guests will need to walk through a section of our backyard that is somewhat sloped.  The pathway is lined with concrete pavers, but please keep this in mind if mobility issues are of concern.  The guest house’s private covered entrance faces our backyard.
+
+Other things to note
+Please note the guest house is attached to our garage
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Breanna And Joe
+Host User ID: 31762288
+Host Profile URL: https://www.airbnb.com/users/show/31762288
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+8 years hosting
+53 reviews
+5.0 out of 5 average rating
+8 years of hosting

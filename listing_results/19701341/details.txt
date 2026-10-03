@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/19701341
+Latitude: 36.1433
+Longitude: -86.62138
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cleanliness is my most important part of this space..... Please read my reviews. 
+
+     Condo only 1 exit away from the airport and 2 miles from Nashville Shores water park. Located less then a mile from interstate 40. 10 minute drive to downtown ($15 Uber Ride) Hiking trails all around. Modern Decor, hardwood floors, private deck with gas grill. Lake access to Percy Priest Lake!
+
+The space
+Modern but cozy decor. Super clean! Please let me know if you see anything I can improve on..
+
+Guest access
+Guest are welcome to access any area of the house except the attic and bedroom closets.
+
+Other things to note
+I have 2 external camera's on each entrance used for safety reasons.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicholas
+Host User ID: 138807703
+Host Profile URL: https://www.airbnb.com/users/show/138807703
+Host Profile URL Source: public user permalink from passport userId
+Airbnb host and self world traveler.
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within a few hours
+9 years hosting
+68 reviews
+4.94 out of 5 average rating
+9 years of hosting

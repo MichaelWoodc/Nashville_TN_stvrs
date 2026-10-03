@@ -1,0 +1,97 @@
+URL: https://www.airbnb.com/rooms/1613894009520185551
+Latitude: 36.2627
+Longitude: -86.7029
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your stylish Nashville retreat—perfect for live music, sports, or a family getaway! 
+
+Our spacious home offers comfort, charm, and convenience just 15–20 minutes from Broadway’s legendary honky-tonks and Nissan Stadium. Located off Old Hickory Blvd in Madison near a main road, you’ll enjoy quick access to major highways, local shopping, and great dining right at your doorstep. If you’re comfortable with an urban setting, you’ll appreciate the home’s cozy and well-insulated feel.
+
+The space
+Parking Rules:
+- Maximum complimentary parking: TWO (2) standard-size vehicles. Complimentary parking is available ONLY in the designated area directly in front of the house.
+- Additional parking is not guaranteed and MUST be requested BEFORE booking. If approved, applicable parking fees must be paid before arrival.
+- Parking is NOT allowed on the street, shared driveway, grass, neighboring property, or any unauthorized area.
+- Vehicles parked without prior approval or outside the designated area will be towed at the vehicle owner’s expense, in accordance with local regulations.
+
+Spacious Comfort for Up to 8 Guests
+-Master Suite (1st Floor): King bed, step-free access
+-Bedroom 2 (2nd Floor): Queen bed
+-Bedroom 3 (2nd Floor): Full bed
+-Living Room (1st Floor): Queen sleeper sofa, step-free access
+
+Entertainment Ready: Smart TVs in every bedroom for your streaming convenience
+
+Guest access
+Guest Access
+-Enjoy the entire home! (Pantry closet near the kitchen is locked and off-limits)
+
+Other things to note
+NUMBER OF GUESTS WE HOST
+- Guest count: Property can only accommodate up to 8 human beings, including infants
+- We expect to accommodate only the number of individuals listed on your reservation( up to the limit of 8 headcount). For insurance and safety purposes, please ensure that your reservation accurately reflects the number of guests. Failure to comply may result in a fee of up to $300 per additional person per night, and you may be required to vacate the premises without refund.
+- If there are visitors during the stay, prior approval from the host is required; otherwise, you may be required to vacate the premises without refund.
+
+SOFTWARE-CONNECTED HOST AND BOOKING REQUIREMENTS
+
+>>>Please review these requirements before booking<<<
+
+We are a software-connected host. After booking, the primary guest will receive a secure link through Airbnb messaging to complete the following mandatory requirements outside Airbnb through our secure third-party guest portal:
+
+-Rental agreement : Electronically sign within 48 hours of booking. A complete copy is available for advance review upon request through Airbnb messaging.
+-Security deposit authorization : Complete a temporary credit-card authorization hold at least three (3) days before check-in. The hold is $300 for stays of 14 nights or fewer or $1,500 for longer stays. The requirement and applicable amount are disclosed before booking.
+-Identity verification : When required for a disclosed legal or compliance reason, submit a valid, unexpired government-issued ID after booking through our secure guest portal.
+
+Failure to complete an applicable requirement by its deadline will result in cancellation of the reservation. Any cancellation, refund, or payment determination will be handled through Airbnb according to the policies applicable to the reservation.
+
+RECORDING DEVICES
+
+-Motion-activated exterior cameras record audio and video and remain active during stays. Camera locations are disclosed in the listing’s Guest Safety section. No indoor recording devices are present.
+-Airbnb requires hosts to identify each exterior recording device, its location, and whether it is active in the Guest Safety section.
+
+CHECK-IN AND CHECKOUT
+
+-Contactless keypad check-in is after 4:00 p.m., and checkout is by 11:00 a.m., local time.
+-Guests may check in after 11:00 p.m.; however, live assistance may be unavailable between 11:00 p.m. and 7:00 a.m., local time.
+-Early check-in or late checkout may be requested but is not guaranteed. If approved, an additional fee may apply and will be disclosed in advance.
+-Check-in instructions will be sent through Airbnb messaging about two (2) days before arrival after all applicable pre-arrival requirements have been completed.
+
+COMMUNICATION
+
+Please enable Airbnb notifications so you do not miss important reservation, check-in, or stay-related messages. Reservation-related communication will remain within Airbnb messaging.
+
+TRAVEL INSURANCE
+
+We recommend purchasing travel insurance for eligible cancellations or travel disruptions. Coverage and reimbursement decisions are determined by the insurance provider.
+
+WE DO NOT HOST LOCALS
+WE DO NOT ALLOW PETS
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Channi
+Host User ID: 138896752
+Host Profile URL: https://www.airbnb.com/users/show/138896752
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Finance professional
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+64 reviews
+4.98 out of 5 average rating
+3 years of hosting

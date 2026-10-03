@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/769079006955183399
+Latitude: 36.19383
+Longitude: -86.63097
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Regardless if you are visiting Nashville for business or leisure, you will have a great stay! Minutes away from all the fun, and far enough so you can see stars at night.
+
+We are a couple from Europe that moved to the Nashville area, and decided to buy a house and give it a 2nd life.
+
+We've always been world travelers, and we love having people at our place. That's why we completely renovated our basement to offer you a cozy, peaceful, clean and safe place to stay.
+
+The space
+Welcome to our charming Airbnb retreat in Hermitage, TN! Our recently remodeled basement unit is designed to offer you a perfect blend of rustic charm and modern comfort.
+
+As you step into your home away from home, you'll be greeted by a cozy living room that exudes warmth, thanks to our rustic-inspired decor. The well-appointed bedroom promises restful nights, and the thoughtfully designed kitchen provides all the amenities you need for a delightful stay. Freshen up in the stylish bathroom that seamlessly combines vintage aesthetics with contemporary functionality.
+
+Embrace relaxation as you unwind in front of the big screen TV or connect effortlessly with high-speed Wi-Fi. For those cooler evenings, the vent-free natural gas insert ensures a cozy atmosphere, adding a touch of romance to your retreat.
+
+Convenience is at your doorstep, with a separate entrance allowing you the freedom to come and go as you please. Explore the neighborhood, boasting an array of restaurants and grocery stores just a stone's throw away. Need to catch a flight? You're only 12 minutes from the airport. Planning a night out in downtown Nashville? You're a mere 18 minutes away from the heart of the action.
+
+What sets us apart is our commitment to ensuring your stay is exceptional. Living upstairs, we're always available to assist and make your experience memorable. Whether you seek local tips, assistance with amenities, or just a friendly chat, we're here to make your stay truly special.
+
+Book now and discover the perfect blend of vintage charm and modern luxury at our Hermitage haven. Your unforgettable Nashville adventure awaits!
+
+Guest access
+Guests have access to a full Apartment, have their own entry, dedicated parking spot and laundry if needed.
+
+Other things to note
+Our apartment can host up to 4 guests. We have a queen size bed, and a sofa that unfolds in a queen size bed as well.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pavel
+Host User ID: 72259850
+Host Profile URL: https://www.airbnb.com/users/show/72259850
+Host Profile URL Source: public user permalink from passport userId
+One of the best thing to do in life is travel the world. Let's make traveling more accessible for each other.
+Born in the 80s
+My work: IT Sales Liaison
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+351 reviews
+4.89 out of 5 average rating
+8 years of hosting

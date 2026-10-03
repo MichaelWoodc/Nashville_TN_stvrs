@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/7799836
+Latitude: 36.1766
+Longitude: -86.743
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Treat yourself to this 4BR/2BA 1930s brick Tudor that exudes pure Southern charm.  Located in the heart of trendy East Nashville, walkable to the 5-Points retail district, Eastland Avenue and Shelby Bottoms Greenway and a short 10-minute drive to Downtown attractions.  Whether here for work or play, I want you to feel at home in the city and in the Charming Tudor.  Let me be the first to say, "Welcome to Nashville!"
+
+The space
+Are you looking for the perfect place to stay in Nashville?  The Charming Tudor will not disappoint you.  An arched entry and cozy front porch welcome you as you arrive. Open the door and you’ll find yourself in a newly decorated, elegant house with a playful mix of patterns and soft colors, hardwood floors, and original details. The living room, dining room, kitchen and breakfast nook flow seamlessly together making a great place to gather with friends and family. The spacious living room and adjacent dining room is sure to accommodate your friends and family. The kitchen is fully equipped for your stay. Enjoy coffee and making plans for a day of sightseeing in the breakfast nook with a view of the backyard. Down the hallway, you’ll discover two bedrooms and a renovated bathroom with a pedestal sink and shower/tub combination. The bedroom facing the front porch has a queen size bed while the second bedroom has twin beds and overlooks the backyard. Up the stairs, is a large light-filled bedroom with a luxurious king bed and sitting area. The couch converts to a twin bed providing additional sleeping for one. A smaller bedroom with bunk beds adjoins this space and has an attached renovated bathroom with a stand-up shower.  There are three additional roll-away beds with linens provided to use.
+
+The fully fenced backyard is a relaxing retreat.  Enjoy this setting for your perfect family getaway! Fire up the grill and enjoy this great space to dine al fresco and drink cocktails. When it’s time to work, there is a detached private studio with a desk and sitting area.
+
+Guest access
+The code to the keyless entry will be sent to you at 11 a.m. on the day of your arrival via your Airbnb messaging inbox. 
+
+The only space that is not accessible to guests is the garage.
+
+Other things to note
+This is a permitted short-term rental with the city of Nashville. Please see the photos for the permit number.
+
+The gas logs are not operational.
+
+Trash cans must be rolled down on Sunday to the sidewalk and rolled back up on Monday. 
+
+Pet-friendly with a max of 2 upon approval by host and with a $100 Pet Fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

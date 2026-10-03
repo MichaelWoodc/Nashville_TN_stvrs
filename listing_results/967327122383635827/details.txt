@@ -1,0 +1,91 @@
+URL: https://www.airbnb.com/rooms/967327122383635827
+Latitude: 36.1766
+Longitude: -86.75355
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 11
+occupancy: 13
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our stylish 4-bedroom home on Main Street. At just an 8 min drive from broadway you're away from the noise but near the fun!
+
+- 4 bedrooms, 2 bathrooms
+- Sleeps up to 13 guests
+- 2 king beds + 9 twin beds
+- Full kitchen with oven, stovetop, dishwasher, and fridge
+- Washer and dryer
+- Disney+, Hulu, and ESPN+
+- Board games and pong table
+- Record wall photo backdrop
+- Coffee and tea station
+- Free toiletries, iron, and hair dryers
+- Free parking
+- Keyless self check-in
+
+The space
+This is a second-floor apartment accessed via a 20-step staircase (no elevator). Once inside, everything is on a single level.
+
+SLEEPING ARRANGEMENTS
+
+- Bedroom 1: Plush Nectar king bed
+- Bedroom 2: Medium-firm Casper king bed
+- Bedroom 3: 6 twin beds in two custom-built triple bunks
+- Bedroom 4: 3 twin beds (one bunk bed + one standalone)
+
+WHAT'S INSIDE
+
+- Full kitchen with all the cooking gear, dishes, and utensils you need
+- Dining and lounge seating for 13
+- Board games and pong table for group entertainment
+- Record wall backdrop for photos
+- Coffee and tea station
+- Free toiletries, iron, and hair dryers
+- Streaming on every TV: Disney+, Hulu, and ESPN+
+
+Guest access
+PARKING
+- Free parking behind and in front of the building, shared with neighbors.
+
+GUEST ACCESS
+- You have full and private access to the entire apartment. Some dressers are locked for our cleaning team's use only and are clearly marked with signs.
+
+Other things to note
+GOOD TO KNOW
+
+- Second-floor unit with a 20-step staircase, no elevator
+- Located on Main Street, so expect some city sounds
+- Neighboring units are also short-term rentals
+- Exterior security cameras on property
+- Carbon monoxide alarms and smoke detectors installed
+- No smoking indoors
+- Small gatherings are fine, parties are not
+- Please don't rearrange furniture or add wall decorations
+- Local to Nashville? Please seek approval before booking
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elijah
+Host User ID: 438768178
+Host Profile URL: https://www.airbnb.com/users/show/438768178
+Host Profile URL Source: public user permalink from passport userId
+Hi there! My name is Elijah Dangerfield (@Elijah-Dangerfield). I am a full time programmer. I lived in Nashville for 13 years and have grown to love it. Naturally I also play guitar (as is required by Tennessee law) and generally love music. 
+
+I hope you decide to book with me and if you do I look forward to being your host :)
+Born in the 90s
+My work: Android Developer
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+333 reviews
+4.98 out of 5 average rating
+5 years of hosting

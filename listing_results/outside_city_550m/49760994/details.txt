@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/49760994
+Latitude: 36.0337
+Longitude: -86.55049
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 1
+occupancy: 1
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our home is a beautiful townhouse in La Vergne Tennesse equip with security system for your safety. Our home is located 15 minutes from downtown, 5 minutes to La Vergne memorial park and we are close to everything you could need; Shopping area, Gym, Parks etc. While also being far enough away to relax and unwind. Our home is perfect for couples and family wanting a get away or someone just needing a place to stay for the night or months.
+
+The space
+A town house the master bedroom is occupied and the other two rooms are available with a shared bathroom. kitchen and living room is shared.
+
+Guest access
+Guest can make use of the living room and kitchen.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emmanuel
+Host User ID: 304720398
+Host Profile URL: https://www.airbnb.com/users/show/304720398
+Host Profile URL Source: public user permalink from passport userId
+With God all things are possible
+Lives in Nashville, Tennessee
+5 years hosting
+6 reviews
+5.0 out of 5 average rating
+5 years of hosting

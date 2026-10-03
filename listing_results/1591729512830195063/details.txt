@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1591729512830195063
+Latitude: 36.061929112091526
+Longitude: -86.73001625376432
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy king bed, huge sectional, and 89” TV make this entire basement guest suite perfect for movie nights or relaxing. Enjoy a private entrance and a work-from-home office nook with a spacious desk. Centrally located for all the fun in Nashville! You’ll have the whole suite to yourselves; my husband, I, and our 2 dogs and cat live above, but your privacy is fully respected and we hope you'll do the same for us. We have a passion for hosting, and want you to feel like you're home away from home!
+
+The space
+- Comfortable king bed with extra pillows and cozy blankets
+- 89-inch theater-style TV with immersive sound system (Bluetooth compatible)
+- Large, cozy sectional sofa perfect for relaxing or movie nights
+- Dedicated work-from-home nook with a spacious desk
+- In-unit laundry for your convenience
+- Mini fridge, coffee maker, and microwave for quick meals and drinks
+- 55-inch TV in the bedroom for added comfort
+- Small outdoor sitting area with a table and charming string lights ✨
+
+We are a smoke free household- absolutely NO SMOKING allowed inside!
+
+Guest access
+Guests will have full access to the entire private basement suite, including the bedroom, living area, workspace, bathroom, laundry, and outdoor sitting area. The suite has its own private entrance, allowing you to come and go freely during your stay.
+
+There are no shared indoor spaces. The only shared area is the driveway/carport, where you may occasionally see us as we come and go from the main house.
+
+We do live above the guest suite and while you might hear us occasionally, we always do our best to keep things quiet—especially during early mornings and late evenings. We hope you enjoy your stay, and if anything ever feels noisy, please don’t hesitate to let us know. We want your visit to be comfortable and relaxing!
+
+We respect our guests’ privacy but are always available if you need anything during your stay.
+
+Registration Details
+2026002858
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Skylar
+Host User ID: 45222147
+Host Profile URL: https://www.airbnb.com/users/show/45222147
+Host Profile URL Source: public user permalink from passport userId
+I love to travel and explore new places! One of my favorite parts of going to a new place is meeting new people :) I enjoy spending time outside and hanging out with my family and two puppies! Hosting is a huge passion of mine and making sweet memories!
+My work: Nanny
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+88 reviews
+4.99 out of 5 average rating
+3 years of hosting

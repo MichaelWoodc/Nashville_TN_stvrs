@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/22526172
+Latitude: 36.17368
+Longitude: -86.68668
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated private studio apartment located in a quiet, family friendly neighborhood in the heart of Hip Donelson just minutes from the Nashville Airport and the Grand Ole Opry & less than 10 minutes from downtown Nashville. This relaxing space offers a Queen bed, private bathroom, dining nook, kitchenette w/mini fridge, small couch, and a blowup mattress upon request. Come stay with us! All are welcome. It's the Nashville way.
+
+The space
+My husband and I are proud of our big, little city and we're excited to share our home with those who are here to visit.  I am a Nashville native who is happy to call this thriving city home. The studio apartment is a semi-attached space from the main house that offers the following:
+-Private entry
+-Fully controllable AC/Heat
+-Free High Speed Internet
+-Free parking in driveway
+-Kitchenette w/microwave, toaster, mini-fridge, Coffee pot w/ground coffee provided, Cuisinart griddle, Air Fryer
+-dining nook
+-private bathroom w/shower & closet space
+-43" Smart TV 
+-love seat
+-private deck overlooking scenic backyard
+-covered breezeway w/table & chairs
+-hair dryer, ironing board & iron
+-clean linen & towels
+-walking distance to two grocery stores & local eateries.
+
+Guest access
+Guests have access to the 500 sq.ft. studio apartment & all outdoor space.  We have an acre lot that you are welcome to explore.  We do have 2 dogs that have the run of the yard.
+
+Other things to note
+Hip Donelson offers access to beautiful greenways & trails for those outdoor enthusiasts looking to include a nature respite during your visit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lindsey
+Host User ID: 165397037
+Host Profile URL: https://www.airbnb.com/users/show/165397037
+Host Profile URL Source: public user permalink from passport userId
+My husband and I are AirBNB owner/operators in Nashville, TN and we both work full time corporate gigs. We love to travel although we don’t get to do it often. We’re both food people so we’re always open to try new places. We’re also the proud parents of three amazing dogs.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+475 reviews
+4.94 out of 5 average rating
+9 years of hosting

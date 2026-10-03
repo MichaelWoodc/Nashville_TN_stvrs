@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/44633267
+Latitude: 36.18432
+Longitude: -86.72085
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in one of the best parts of East Nashville, this apartment is located 10 minutes from downtown Nashville and a stone's throw from some of the best restaurants in East Nashville!
+This is a private apartment above our garage within our house.  You will access the apartment through a private side door and walk through the garage, then up the stairs to the private apartment. There is no shared space aside from the gym in the garage (which you are welcome to use during your stay).
+
+The space
+This apartment has all of the amenities you will need while traveling and more! Login with your Netflix or Hulu account and sit back on the couch enjoying coffee in front of the fireplace. The kitchen is decked out with all of the essentials for a night in or warming up leftovers from a great meal out. The bathroom is spacious and better than hotel quality. The bedroom has a king (very comfortable) bed and available air mattress for your guests (if needed).  All you need to bring is your toothbrush (and clothes of course) and we have everything else covered for you.
+
+Guest access
+The Airbnb is accessed via smart lock. You will receive a code with instructions  to access between 12-2pm on the day of check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 129902341
+Host Profile URL: https://www.airbnb.com/users/show/129902341
+Host Profile URL Source: public user permalink from passport userId
+I met my beautiful wife on a flight from Colombo to Abu Dhabi. She is the love of my life and together we love to ski, hike, run, workout, go to concerts, travel the world and everything in between.  We have the cutest pup Duke, a miniature Australian Shepard who loves to play as much as we do. He’s a little young now, but we are sure he will love the outdoors life with us. We also have the coolest 2 year old you’ll ever meet.
+Born in the 80s
+My work: Consulting
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+435 reviews
+4.93 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/940651604575722683
+Latitude: 36.32457
+Longitude: -86.53168
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private Lakehouse with a BRAND NEW heated swim spa and a hot tub located 30 minutes from downtown Nashville. Rental is for the complete home. Right on the lake at the end of a cove in shallow water, suitable for swimming and fishing. This home is pet friendly and has a fantastic backyard on 1/2 acre of property. Rental comes with everything you’d need...just bring your groceries and relax! Hot tub, BBQ, outdoor furniture, fishing poles, Corn hole toss game, WiFi, TV, and Fire Pit.
+
+The space
+This property has been a successful short term rental for many years. We are a well established Airbnb that you are sure to enjoy! Come stay with us! 
+
+Hendersonville  is a city of about 62,000 people. It’s a lakeside community on Old Hickory Lake about 30 minutes from Music City (Nashville, Tennessee). Hendersonville is a safe, upper middle class community that has full services (grocery, retail, gas, banking, churches, spas, gyms and great restaurants).
+
+We are pet friendly. Dogs must be disclosed(by guest) and approved(by us) before your booking will be considered confirmed. We have a few additional dog rules which we will communicate directly.
+
+Guest access
+There’s a free public boat ramp about 1/4 mile from the home for you to launch your watercraft. Old Hickory Lake is a tournament fishing lake with excellent Bass fishing, as well as a host of other fun fishing…kids can catch Bluegill all day long from the shoreline!
+
+Other things to note
+Our Lakehouse is FULLY OUTFITTED! Bring your luggage and go grocery shopping and you are set to relax and enjoy yourselves. Natural Gas BBQ,  Charcoal Grill, Backyard Beverage Cooler, Inflatable flotation rafts (for the lake), indoor towels, lake towels, doggie towels, all linens plus backups, Corn hole Toss Game, Pedal Boat, Fishing Poles(3) and tackle, Cards, Board Games, Jenga, Movies on DVD, pots/pans/dishes, cups/mugs/glasses, toilet tissue, paper towels, facial tissue, hand and dish soap, sponge, laundry and dishwasher supplies.
+
+We have successfully operated our Lakehouse as a vacation rental for many years. Our rental rates reflect what you will get included with our Lakehouse…an exceptional vacation home that is maintained to a high standard and comes with lots and lots of amenities.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Janet
+Host User ID: 507626007
+Host Profile URL: https://www.airbnb.com/users/show/507626007
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+66 reviews
+4.88 out of 5 average rating
+3 years of hosting

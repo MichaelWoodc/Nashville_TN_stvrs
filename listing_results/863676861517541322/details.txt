@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/863676861517541322
+Latitude: 36.1278
+Longitude: -86.72418
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 4
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a fun and retro experience at this centrally-located getaway condo. Feel a need for a vacation to Nashville, but don't​ want the hassle and high-prices of downtown? Stay with us! This studio, one bathroom condo is a private getaway suitable for up to five guests. Perfect for a small girls trip. Property is located within miles of the area's top attractions: the downtown honky-tonks of Broadway, Ryman Auditorium, The Grand Ole Opry, Opryland Hotel, and all the eating  you've heard about.
+
+The space
+The Sleeping Space--
+Bedroom #1: 1 king
+Living Room: sleeper sofa (twin)
+Extra Beds: 1 twin roll away and 1 twin foam fold out
+
+Bathroom #1: walk-in shower
+
+About the home:
+-1 bedroom (studio)
+-1 bathroom
+-5 people accommodation max
+
+Local Attractions: 
+-4 miles to downtown Nashville
+-4 miles to Nashville International Airport
+-5.5 miles 5 Points
+-11 miles 51st Ave (Nations)
+-13 miles to Cheekwood
+-29 miles to Arrington Vineyards
+
+House Amenities:
+-WiFi
+-Smart TVs
+-Basic Amenities (paper products, soaps, trash bags, etc)
+-Linens Provided
+-Stocked Kitchen (cookware, utensils/knives, strainer)
+-Keurig & coffee selection
+-Extra mirrors to all get ready at the same time
+
+OTHER THINGS TO NOTE: 
+-- No parties, excessive noise, or illegal activity of any kind.
+-- Check-in is any time after 3 p.m. Check-out by 10 a.m.
+-- Parking is provided for ONE (1) vehicle.
+-- Primary renter must be over the age of 21.
+-- Maximum occupancy is never to exceed 5 people.
+-- ID and signed rental agreement will be required after booking.  
+
+Local Permit # - Issued Year 2023 followed by 009 then 640- this is required to legally rent in Nashville.
+
+Guest access
+Guests will receive a unique code to access the space that is valid from their check-in time to their check-out time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bradford
+Host User ID: 508827228
+Host Profile URL: https://www.airbnb.com/users/show/508827228
+Host Profile URL Source: public user permalink from passport userId
+3 years hosting
+39 reviews
+4.13 out of 5 average rating
+3 years of hosting

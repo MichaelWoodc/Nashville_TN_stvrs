@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/36724118
+Latitude: 36.08596
+Longitude: -86.63535
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in our stylish townhome in a stunning golf course community, minutes from the airport and downtown Nashville.
+Experience the excitement of Music City with a short drive to downtown Nashville (25 min), the Grand Ole Opry (20 min), and more. Shop for what you may need at nearby stores and restaurants (5 min).
+Book your stay today and create unforgettable memories in Nashville!
+Seasonal Pool: Guests only have access to the pool Memorial Day–August 31 (weather permitting).
+
+The space
+The home features:
+
+o	A fully stocked kitchen with everything you need to cook and eat, including complimentary coffee, tea and creamer. 
+o	TVs with Apple TV giving you the ability to log into Netflix, Amazon Prime, Hulu, etc. There is the shared TV in the living room as well as an additional TV in one of the bedrooms.
+o	Each bedroom has a mobile fan for those who like sleeping with a fan on.
+o	Walk in closets in both bedrooms.
+o	Private bathrooms in both bedrooms as well as a powder room on the first floor.
+o	A washer and dryer for your convenience. 
+o	A Beautiful back yard with pond and park view.
+o	Rocking chairs on the front porch to relax and unwind after a night on Broadway!
+
+Seasonal Pool: Guests only have access to the pool Memorial Day–August 31 (weather permitting).
+
+Guest access
+Our home only has 2 parking spaces available. There is no additional parking unless you park at a local parking lot.
+Please make sure to lock your vehicle at night. We are not responsible for any car accidents or theft on the property.
+Seasonal Pool: Guests only have access to the pool Memorial Day–August 31 (weather permitting).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 162027946
+Host Profile URL: https://www.airbnb.com/users/show/162027946
+Host Profile URL Source: public user permalink from passport userId
+Me and my wife have been running rentals for a few years now. We love having travelers stay at our home and enjoy everything the city has to offer while knowing they have a relaxing and beautiful home to come back to. We love traveling ourselves and enjoy meeting new people. Let us know if you ever need anything from us!
+Where I went to school: Chittenango High School
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+308 reviews
+4.93 out of 5 average rating
+7 years of hosting

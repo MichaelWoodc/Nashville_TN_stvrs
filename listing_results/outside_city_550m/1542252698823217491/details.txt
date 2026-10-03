@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1542252698823217491
+Latitude: 35.9738
+Longitude: -86.8444
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take a break and unwind at this peaceful oasis. Clean private room with dedicated bathroom, newly renovated throughout. Access to the refrigerator and kitchen.  washer and dryer. Parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joseph
+Host User ID: 397548288
+Host Profile URL: https://www.airbnb.com/users/show/397548288
+Host Profile URL Source: public user permalink from passport userId
+I travel mainly for work. But that is changing
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+11 months hosting
+18 reviews
+4.89 out of 5 average rating
+11 months of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1774908163331441402
+Latitude: 36.4096
+Longitude: -86.5222
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The country is calling your name. Book a stay here and enjoy the peace and quiet. You will feel at home as soon as you walk in the door.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Skip
+Host User ID: 294024637
+Host Profile URL: https://www.airbnb.com/users/show/294024637
+Host Profile URL Source: public user permalink from passport userId
+I enjoy volunteering at church, working out, cooking, baseball, meeting new people, traveling, and spending time with family and friends.  I love the slow pace of life in the country.  I look forward to meeting you when you stay with me.
+Born in the 70s
+Where I went to school: Liberty University
+My work: Registered Nurse
+I spend too much time: Reading and volunteering at church
+Pets: Nazilli, my Turkish Boz Shepherd
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+78 reviews
+4.82 out of 5 average rating
+4 years of hosting

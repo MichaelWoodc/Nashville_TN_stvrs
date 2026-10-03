@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/18343095
+Latitude: 36.22282
+Longitude: -86.87301
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 4BR Nashville retreat just 12–15 minutes from Downtown & Broadway. This 2,387 sq ft home comfortably sleeps up to 12 guests and features a private hot tub, large fully equipped kitchen, open living area, 70” Smart TV, and 2.5 bathrooms. Perfect for families and respectful groups looking to relax and explore Music City. Located in a quiet residential neighborhood with strict quiet hours to ensure a peaceful stay.
+
+The space
+Our home is a two-story home all of our bedrooms and bathrooms are upstairs. The master has a queen bed and additional bunk bed, and a large couch also has its own bathroom. The second and third bedrooms have 1 queen bed each. the fourth has two twin beds and a pool table. the movie room downstairs has an L shape sectional and a 65' smart Tv. We have a large patio that has a sectional set covered with a gazebo, hot tub, gas grill, Table, and chairs,  There is a shared full bathroom upstairs.
+
+Guest access
+Guests have access to the entire home including upstairs, downstairs, the carport,  backyard with a deck. garage is not available
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Youssef
+Host User ID: 126488266
+Host Profile URL: https://www.airbnb.com/users/show/126488266
+Host Profile URL Source: public user permalink from passport userId
+My name is Youssef. Originally from Raleigh North Carolina. I moved to Nashville 10 Years ago, came to visit a friend then I fell in love with the city. I like to travel especially overseas. I like live country music, fishing, camping.  I Have a great place for you to stay why you're visiting the town close to the interstate and only minutes from downtown. I'd be happy to give suggestions, directions during your stay.
+Speaks English and French
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+101 reviews
+4.51 out of 5 average rating
+9 years of hosting

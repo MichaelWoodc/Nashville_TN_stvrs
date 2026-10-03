@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/778993175114252157
+Latitude: 36.11811
+Longitude: -86.71151
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centrally located just 10–15 (driving) minutes from Downtown Nashville, Broadway, Bridgestone Arena, Nissan Stadium, and BNA Airport. Our neighborhood is safe, quiet, and comfortable, while still being close to everything the city has to offer. Driving is easy with dedicated parking included, and rideshare and bus routes are nearby.
+
+The space
+These two rooms are located upstairs on a private floor.  One room is a bedroom (queen bed) and the other is used for a living room area.  The couch is not a pullout. There is also a private bathroom in between the two rooms. This is an older home, the stairs and floors are squeaky at times :) You may also hear other guests or our family from time to time.
+
+Guest access
+You will have full use of the upper floor with the 2 rooms and bathroom.  There are no shared spaces on other floors of the house.  You will enter through the main front door of the house.  The space is immediately to your right and upstairs.  There is also 1 free parking spot dedicated to this rental.
+
+During your stay
+We are available through the app throughout your stay.  Please reach out if you need anything at all.
+
+Other things to note
+There are other people that live and rent other areas of the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris And Jenny
+Host User ID: 45242129
+Host Profile URL: https://www.airbnb.com/users/show/45242129
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+844 reviews
+4.88 out of 5 average rating
+4 years of hosting

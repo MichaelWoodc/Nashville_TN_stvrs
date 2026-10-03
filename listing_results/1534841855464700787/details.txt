@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1534841855464700787
+Latitude: 36.13203
+Longitude: -86.85893
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming ranch-style home offers a cozy country feel with the convenience of city living. Located just minutes from downtown Nashville and some of the area’s most popular restaurants, music venues, and attractions, The perfect home base for relaxation AND adventure featuring comfortable furnishings, rustic accents, and thoughtful touches. Enjoy your morning coffee on the peaceful porch, unwind in the cozy living area after a day exploring, or cook a Southern-style meal in the kitchen.
+
+The space
+This rental is a conjoining unit that has a totally separate entrance and exit-Duplex style. The second rental is a loft over the garage.
+
+You have access to our private backyard fire pit and seasonal garden.  (that is shared with us or a tenant.)
+
+Guest access
+You have access to the entire home. The entrance is around back the second doorway back, closest to the window.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie And Leith
+Host User ID: 87568124
+Host Profile URL: https://www.airbnb.com/users/show/87568124
+Host Profile URL Source: public user permalink from passport userId
+Hi, We are the Loftin’s. We are excited to have you stay at our place conveniently located near Downtown Nashville and many local restaurants.
+My work: Self employed
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+268 reviews
+4.81 out of 5 average rating
+8 years of hosting

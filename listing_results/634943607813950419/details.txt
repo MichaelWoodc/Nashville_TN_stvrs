@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/634943607813950419
+Latitude: 36.13323
+Longitude: -86.78702
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Grove House, our inviting 3BR/2.5BA home in Nashville’s 12 South near Belmont and Music Row. Walk to shops, cafés and local favorites, or enjoy the roof deck. Great for families, friends and small groups. Families can pack lighter—we provide baby and kid essentials.
+
+Main Bedroom: King + sofa-futon
+2nd Bedroom: Queen
+3rd Bedroom: 2 twin beds
+Living Room: Queen sleeper sofa
+
+Also included: dedicated workspace + crib, pack ’n play, stroller, high chair, baby bath, bed rail & toys
+
+The space
+Our home, The Grove House, in 12 South has a bright, open floor plan with a large comfy sectional where everyone can relax together. The kitchen features a professional gas range, full-size refrigerator, and plenty of cookware and appliances for meals at home.
+
+Each bedroom has a high-quality mattress and soft bedding for a restful night’s sleep.
+
+Enjoy several outdoor spaces, including a cozy front porch, small backyard, and spacious rooftop deck — perfect for morning coffee, evening cocktails, or simply unwinding outdoors.
+
+For remote work, there’s a dedicated desk and chair, Google Fiber internet, and a convenient power hub. The home also includes personal touches from our years in the music industry, giving it a creative, lived-in feel rather than a generic rental.
+
+Families with little ones will find a full set of baby/toddler gear, including a full-size crib, pack ’n play, stroller, high chair, baby bath, bed rail, and toys.
+
+We live nearby and are happy to help if anything comes up during your stay.
+
+Guest access
+You’ll have the entire 3-bed, 2.5-bath home to yourself, including a full kitchen, open living area, and  rooftop deck.
+
+Free street parking is available along the block and is generally easy to find nearby, though a space directly in front of the house can’t be guaranteed. Check-in is simple with a smart lock and private code.
+
+Registration Details
+201516994
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Candice
+Host User ID: 32292451
+Host Profile URL: https://www.airbnb.com/users/show/32292451
+Host Profile URL Source: public user permalink from passport userId
+Hosting our home in 12 South!
+My husband and I have lived and worked in Nashville for over 15 years.   Love this town!   I’m excited to provide our home to future guests.  We have lovingly decorated our house with personal touches throughout.   
+I’m available any time for our guests and live in town with my husband.  I’m happy to provide the inside scoop for our guests:). Please come and stay and explore Nashville like a native!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+546 reviews
+4.92 out of 5 average rating
+11 years of hosting

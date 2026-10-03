@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/917533688931668569
+Latitude: 36.17563
+Longitude: -86.8138
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 13
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+While only a 7 minute Uber to Broadway, this entire house sits on a large lot with a custom bar & plenty of selfie walls, including a 10' tall Miley Cyrus spray paint mural! 
+
+There are 4 bedrooms, 2 living rooms, 1 custom detached garage-bar, & 2.5 bathrooms
+
+There are 3 king beds, 1 full, 1 twin, 2 pullout couches, and 1 huge couch
+
+You can view this house in action ig @StayWithNashville
+
+The house is directly by a brand new public park that has a playground & basketball courts.
+Permit 4294751
+
+Guest access
+Entire house / Private
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hayden
+Host User ID: 122915892
+Host Profile URL: https://www.airbnb.com/users/show/122915892
+Host Profile URL Source: public user permalink from passport userId
+Hi, I was born and raised in the Kentucky/Tennessee area! You can reach me any time, day or night via text, call, or the airbnb app!
+Born in the 90s
+My work: Indus Construction
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+69 reviews
+4.94 out of 5 average rating
+5 years of hosting

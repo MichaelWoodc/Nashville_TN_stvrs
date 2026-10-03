@@ -1,0 +1,28 @@
+URL: https://www.airbnb.com/rooms/1644623580846937166
+Latitude: 36.1503
+Longitude: -86.7969
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This special place is close to everything, making it easy to plan your visit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 395525532
+Host Profile URL: https://www.airbnb.com/users/show/395525532
+Host Profile URL Source: public user permalink from passport userId
+Responds within a few days or more
+6 months hosting

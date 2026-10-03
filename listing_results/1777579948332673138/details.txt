@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1777579948332673138
+Latitude: 36.1685
+Longitude: -86.8129
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The whole group will enjoy easy access to everything from this centrally located place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 23572246
+Host Profile URL: https://www.airbnb.com/users/show/23572246
+Host Profile URL Source: public user permalink from passport userId
+I'm an avid traveler, always looking to see and learn new things. My personal travel usually revolves around nature, animals or exploring the wonders this natural world has to offer. My team tries to bring that same experience to the properties we host. A luxury experience combined with the connectedness only untouched nature can provide.
+My work: Property Manager
+Lives in Nashville, Tennessee
+Response rate: 98%
+Responds within an hour
+Superhost
+5 years hosting
+809 reviews
+4.9 out of 5 average rating
+5 years of hosting

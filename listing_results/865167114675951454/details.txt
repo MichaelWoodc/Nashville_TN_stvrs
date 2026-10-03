@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/865167114675951454
+Latitude: 36.21075
+Longitude: -86.71394
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🏡 Great location! This East Nashville bungalow is only 8 min. to Opryland, 15 min. from Downtown & BNA airport. Newly renovated, hardwood floors, granite countertops, 2 spacious bedrooms with memory foam queen mattresses and twin trundle. Sleeps up to 5. Experience the artistic neighborhood of east nashville. Coffee shops/cafes only 3 min away. Note: No smoking/parties allowed. Note: This is my personal home I Airbnb while I’m traveling (I’m a musician).
+
+The space
+🏠 Get an authentic east nashville artist’s home experience with this beautiful newly renovated house w/ hardwood floors, granite countertops, 2 spacious bedrooms. Enjoy delicious coffee shops and restaurants minutes away. Full Kitchen, two memory foam queen mattresses and memory foam twin trundle.
+
+Guest access
+Will message you access code day of check in.
+
+Other things to note
+No fire in fire pit use, no smoking, parties, or animals. This is my personal home. Quiet hours after 10pm.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 19230863
+Host Profile URL: https://www.airbnb.com/users/show/19230863
+Host Profile URL Source: public user permalink from passport userId
+I am a writer and a musician living out my dream in Nashvegas! It's been a long time goal of mine to buy a cute little house in east Nashville, so I am so happy to invite you to stay at my place.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+141 reviews
+4.86 out of 5 average rating
+9 years of hosting

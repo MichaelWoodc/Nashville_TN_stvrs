@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/51165340
+Latitude: 35.97008
+Longitude: -86.97308
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to the serene beauty of Franklin, TN, where our charming cottage on 5 acres awaits you. Nestled in the woods, this tranquil oasis offers you a perfect blend of nature’s embrace and modern comfort. The screened-in porch and lower deck will be your new favorite spots to relax and have fun. Whether you’re seeking a peaceful getaway or a base for exploring the historic town of Franklin, which is just 15 min away, our property promises a restful haven for your stay.
+
+The space
+The master bedroom with attached full bathroom are on the main floor. The other two bedrooms and full bath are upstairs.
+
+Guest access
+Guests will have access to the entire house and property. This includes the screened in upper porch and the lower porch and surrounding woods.
+
+Other things to note
+This is a non-smoking property. There is no grilling allowed on the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amber
+Host User ID: 86165666
+Host Profile URL: https://www.airbnb.com/users/show/86165666
+Host Profile URL Source: public user permalink from passport userId
+We moved to Franklin from Colorado four years ago. We love it here! Let us know what we can do to make your stay more enjoyable as you relax and explore the area.  We'd love to share recommendations that we have found as we've adventured around Franklin, Leiper's Fork, Nashville and beyond!
+Born in the 70s
+My work: High school teacher
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+49 reviews
+4.98 out of 5 average rating
+3 years of hosting

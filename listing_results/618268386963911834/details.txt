@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/618268386963911834
+Latitude: 36.13757
+Longitude: -86.89187
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay where the locals live! Casa Rover is located in a safe and quiet West Nashville neighborhood, just a mile from your familiar home staples such as Target, Costco, and Publix. Easy access to the highway gets you to all your favorite tourist spots such as the Broadway Honky Tonks and Music Row, where they make the music! Yes, we are a pet friendly home with a fully fenced-in and secure back yard. It's finally safe to bring EVERY member of the family!
+
+The space
+Single family one story home, with enough driveway parking for 3 cars. 
+
+Open concept living room, with modern fully stocked kitchen, and dining room for the entire family to eat at. Living room with smart tv so you don't miss any of your favorite shows and full-size sleeper sofa. Direct access to the private fully fenced-in back yard for Rover.
+
+1st Bedroom: The massive master bedroom holds 2 queen-sized beds, with room left over for a large desk workspace and an additional smart tv. Master bedroom also features a walk-in closet and a private en suite bathroom.
+
+2nd Bedroom: A comfortable queen-sized bed and a desk with plenty of space for the new work-from-home lifestyle. Access to a full bathroom directly across the hall with updated walk-in shower.
+
+Guest access
+Access to full property and yard except for locked garage and an owner's closet.
+Entry through front door with keyless entry lock.
+
+Other things to note
+There is a Nest video doorbell which overlooks the entrance. 
+
+A decibel monitor device is installed in the home to measure indoor volume levels, to make sure everyone gets a good night's rest. Quiet hours between 12 AM and 7 AM are enforced.
+
+Casa Rover backs up to the interstate. While this is great for getting around Nashville, you will be able to hear traffic in the backyard and faintly while in the house. White-noise machines are located in each of the bedrooms if you need them.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Daniel
+Host User ID: 457183783
+Host Profile URL: https://www.airbnb.com/users/show/457183783
+Host Profile URL Source: public user permalink from passport userId
+Hi! My name is Danny, and I have lived in Nashville since 2017. My wife and I have a passion for traveling and RVing across the country. While we are out of town, we make our house available and aim to provide an exceptional experience for every guest. We also have a condo in East Nashville that we just started renting out! See our black lab, Ellie, in my photo! We hope that you choose to stay with us :)
+Born in the 80s
+Where I went to school: University of Iowa
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+652 reviews
+4.95 out of 5 average rating
+4 years of hosting

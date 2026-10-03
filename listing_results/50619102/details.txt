@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/50619102
+Latitude: 36.17978
+Longitude: -86.7712
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our chic downtown apartment! This stylish 1BR retreat is the perfect urban oasis for your stay in the heart of the city. Immerse yourself in the vibrant energy and convenience of downtown living while enjoying the comfort and privacy of your own space and access to a fenced yard.
+
+We can't wait to welcome you!
+
+Very close to Nissan/Broadway/Ryman/Bridgestone
+
+The space
+Step inside and be greeted by a modern, thoughtfully designed interior that exudes contemporary charm. The living area is tastefully furnished, offering a cozy spot to relax and unwind after a day of exploring the city. With ample natural light flowing through the windows, the space feels bright and inviting. Simply gaze outside to take in the beautiful views of the Nashville city skyline.
+
+The bedroom is a tranquil haven, featuring a comfortable queen-sized bed and plush linens for a restful night's sleep. Wake up refreshed and ready to take on the day's adventures. The apartment also includes a clean and well-appointed bathroom with all the essentials you need.
+
+In the living room, there is a sofa bed with two separate twin-size beds (trundle bed) for additional guests. There is also a washer and dryer in the flat for any laundry needs that you may have.
+
+Prepare delicious meals in the fully equipped kitchen, complete with modern appliances and cookware. Enjoy your culinary creations at the dining area, or take your meals outside to the private balcony and savor the urban views. Guests will have all of the tools needed to make cocktails with a sleek shaker set and fully stocked bar cart.
+
+Location-wise, you couldn't ask for more. Our apartment is nestled right in the heart of downtown, putting you within easy reach of the city's best attractions, restaurants, and entertainment options. Whether you're here for business or leisure, everything you need is just a short stroll or ride away.
+
+The apartment itself sits on top of the owner's garage on its own separate plot of land. There is a balcony where you can relax, as well as a fenced-in outdoor patio and lounge space.
+
+We take pride in providing a comfortable and enjoyable stay for our guests. From high-speed Wi-Fi, to included streaming apps, we ensure you stay connected. And with thoughtful touches of Nashville throughout the apartment, we strive to make your experience memorable.
+
+Guest access
+Guests have a unique passcode to access the apartment door entrance using a digital keypad. 
+
+There is a private set of stairs that take you up to the above-garage apartment. 
+
+There is a dedicated parking pad on the side of the garage where two cars can park. Parking is included with your stay.
+
+There is also access to a fenced-in yard on the right side of the garage where guests can relax and relieve any pets if needed.
+
+Other things to note
+Property Secured through Vivint Home Security. 
+
+Pets are allowed for an additional $50 deep clean fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 408973662
+Host Profile URL: https://www.airbnb.com/users/show/408973662
+Host Profile URL Source: public user permalink from passport userId
+Being an Airbnb host in Nashville is an incredibly rewarding experience that allows me to share the vibrant spirit of Music City with travelers from around the world. 
+
+Being an Airbnb host in Nashville allows me to share my passion for this incredible city while creating memorable experiences for guests. The opportunity to connect with people from all over the world and showcase the unique charm of Nashville is something I truly cherish.
+Where I went to school: The University of Memphis
+My work: Real Estate Agent
+Response rate: 90%
+Responds within an hour
+Superhost
+5 years hosting
+208 reviews
+4.96 out of 5 average rating
+5 years of hosting

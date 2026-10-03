@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/20143595
+Latitude: 36.1315
+Longitude: -86.7759
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+We are following the recommended cleaning checklist provided by Airbnb. 
+
+Space is perfect for a Nashville getaway.  If you and a friend, family member or loved one are visiting Nashville look no further as this place is perfect. It is located upstairs above a garage, but the garage isn’t being used by anyone so you shouldn’t hear any noise from its doors. Included is free parking.
+
+The space
+This space is on a property as a guest house. You will have a private entrance to the space and there are indoor stairs that lead to the studio space. We have designed the studio to feel clean, modern, and upscale as we want it to be more than just a place for you to sleep. 
+
+We live about 2 miles away and am happy to help in any sort of way. You can access the home without any interaction or I am happy to meet you should that be your preference and I am available.
+
+Guest access
+Make yourself at home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karen
+Host User ID: 11361200
+Host Profile URL: https://www.airbnb.com/users/show/11361200
+Host Profile URL Source: public user permalink from passport userId
+I absolutely love to travel to learn more about the world around me. My top travel destinations are as follows: Iceland, Costa Rica, Prague, Switzerland, & Sanibel Island. If you are considering being one of my guests, I want you to know that providing my guests with a pleasant stay and satisfying their requests is very important to me. I will work my hardest to ensure that you have a fabulous time in Nashville. As a Nashville native and local, I'll be sure to provide you with all you need to know! :)
+Where I went to school: Mercer University, Vanderbilt University
+My work: Being your host!
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1491 reviews
+4.93 out of 5 average rating
+12 years of hosting

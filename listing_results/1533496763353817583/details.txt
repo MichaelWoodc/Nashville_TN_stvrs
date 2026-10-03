@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1533496763353817583
+Latitude: 36.1726
+Longitude: -86.7961
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Nashville's soul at this brand-new luxury stay featuring a stunning custom Ryman Auditorium mural. Unleash your inner star on the legit acoustic paneled karaoke and podcast stage, dine at a one-of-a-kind church pew table, then unwind on the rooftop deck with fire table. Elevated design meets Music City magic, minutes from downtown's best hot spots. Your Nashville story starts here.
+
+The space
+This home is in an exclusive, gated complex with controlled access drive aisle and pedestrian gates.  Access codes with be given with check-in instructions.”
+
+★ LEVEL 1★ 
+ENTRANCE LEVEL 
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★ 
+Kitchen/Living Room/Dining Area
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+**Fireplace is non-operable from March through September**
+Half Bathroom
+
+★ LEVEL 3★ 
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:Queen Bed  + 1 Single Hotel Style Rollaway Bed w/ensuite full bathroom + Smart TV
+ 
+★ LEVEL 4★ 
+Bedroom 4: Queen, Custom Built-in Bunkbeds  + 1 Single Hotel Style Rollaway Bed + Smart TV
+en suite Full Bathroom
+
+Ryman Vibes Room: Legit Karaoke/Podcast Stage with Acoustic Paneling, Wet Bar, Smart TV, Sleeper Sofa
+
+Balcony: TV + FireTable
+
+Guest access
+Private Entrance
+
+Other things to note
+**Fireplace is non-operable from March through September**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 724370295
+Host Profile URL: https://www.airbnb.com/users/show/724370295
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+70 reviews
+5.0 out of 5 average rating
+11 months of hosting

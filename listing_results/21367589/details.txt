@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/21367589
+Latitude: 36.17248
+Longitude: -86.73881
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Little Phoenix is accessed from a private parking area off of the Alley behind the main house with it's own entrance gate and private back yard.  Ideal for a couple or a group of 3 there is also a full size kitchen.
+
+I live full-time in time in the main house and work in the neighborhood (I am an architect and actually designed both the main house and the guest house you will be staying in).  There is additional on-street parking on Fatherland Street in front of the main house.  I love showing off the main house, so if you are interested in design - request a tour.
+
+The home is in bustling East Nashville, a short walk from a variety of cafes, restaurants, and shops. Head to Lockeland Table and the Public House for some of the best local food and neighborhood hangouts on the east side. STR Permit #2020049209
+
+I walk all the time to most outings and to the park and the bus runs in front of the house, so public transportation is an option.  Downtown is 18 blocks away - a 2-5 minute Lift ride.
+
+Nashville requires this listing to include the Short Term Rental Permit number, which is #.
+
+The Little Phoenix is a passion project that only came about with the tragedy of a devastating house fire at the main house.  It was a forced re-invention of sorts of the entire property and allowed me to create a private guest house to share.
+
+The space
+The Little Phoenix is accessed from a private parking area off of the Alley behind the main house with it's own entrance gate and private back yard.  Ideal for a couple or a group of 3 there is also a full size kitchen.
+
+Other things to note
+The Little Phoenix is a passion project that only came about with the tragedy of a devastating house fire at the main house.  It was a forced re-invention of sorts of the entire property and allowed me to create a private guest house to share.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tracey
+Host User ID: 52888365
+Host Profile URL: https://www.airbnb.com/users/show/52888365
+Host Profile URL Source: public user permalink from passport userId
+I'm an architect and a long-time east nashville resident.  My home is nicknamed the Phoenix on Fatherland due to a house fire that gutted the 1910 home which was rebuilt and expanded in 2016-2017, including the addition of the Alley Apartment behind the historic house which we call the Little Phoenix.
+My work: Principal at EOA Architects
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+420 reviews
+4.98 out of 5 average rating
+9 years of hosting

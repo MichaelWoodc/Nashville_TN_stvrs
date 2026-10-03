@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/53080637
+Latitude: 36.1921
+Longitude: -86.7613
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of East Nashville, close to the best restaurants and shops, and a quick ride to downtown, Broadway, or a Titans game. This brand-new and super clean guest house has private access from a reserved parking space off the alley and offers an open floor plan with full-size kitchen, dining, and living areas, and a large bedroom / bathroom suite with full-size laundry, perfect for a short or long term stay. Owner's live on site, available to answer any questions.
+
+The space
+Welcome to a cozy and spacious one bedroom guest house with an open living, dining and kitchen area. The space includes a full bedroom with queen bed, double closets, and TV. Also included in the unit is a large bathroom with full size washer and dryer and combo tub/shower unit. The private parking space is provided off the alley with direct access to the unit’s front door.
+
+Guest access
+The guesthouse over a garage, unit 1120 B, and is located off the alley between N. 6th Street and N. 5th Street, head south from Richardson Avenue and it is the second lot on the left. The exterior parking space on the left side of the garage is reserved for you and is right next to the front door of the unit.
+
+Other things to note
+East Nashville is a paradise for foodies and music lovers, offering some of the city’s best restaurants and venues. Feel free to reach out to your hosts or check out the guest manual for a long list of recommendations on where to eat and things to do in Music City!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joshua
+Host User ID: 183751977
+Host Profile URL: https://www.airbnb.com/users/show/183751977
+Host Profile URL Source: public user permalink from passport userId
+My wife Erin and I love art, architecture, music, and travel. We happily live, work, and host our Airbnb in Nashville, TN
+My work: Art and Architecture
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+156 reviews
+4.98 out of 5 average rating
+5 years of hosting

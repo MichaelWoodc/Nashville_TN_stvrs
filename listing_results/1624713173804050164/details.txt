@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1624713173804050164
+Latitude: 36.146
+Longitude: -86.8152
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+Chic Loft Near Downtown & Music Row | W/D + Fast WiFi
+
+Enjoy the best of Nashville from this stylish, modern loft just steps from Centennial Park. With its exposed brick wall, music-inspired décor, and sleek design, this space perfectly blends comfort and character for your Music City getaway.
+
+Walk to dozens of restaurants, bars, shops, and the Vanderbilt University campus right outside your door. Music Row is just 1.5 miles away, and downtown Nashville is only a quick ride beyond that — you’ll be close to everything while still having a relaxing space to come home to.
+
+After a day exploring, unwind in the cool comfort of central AC and stream your favorite shows from the leather sofa with fast, free WiFi. The fully equipped kitchen makes it easy to cook a meal at home, or you can head out and let one of Nashville’s incredible local restaurants do the work for you. When it’s time to rest, the cozy bedroom offers a peaceful retreat before another exciting day in the city.
+
+Things to Know:
+- Located on the 3rd floor
+- Free parking for 1 vehicle
+- Keyless entry with unique code provided before arrival
+- No pets allowed
+- Noise monitoring system in place to ensure quiet hours are respected (privacy-compliant; does not record conversations)
+- Guests must be 21+ to book
+
+We can’t wait to host you for an unforgettable Nashville stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fairly
+Host User ID: 664937812
+Host Profile URL: https://www.airbnb.com/users/show/664937812
+Host Profile URL Source: public user permalink from passport userId
+Fairly helps homeowners oversee their vacation rental properties all on one centralized platform. Every Fairly home is directly managed by the homeowner and a local caretaker, so you'll chat directly with the homeowner and/or caretaker.
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+330 reviews
+4.77 out of 5 average rating
+1 year of hosting

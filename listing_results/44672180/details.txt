@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/44672180
+Latitude: 36.17061
+Longitude: -86.79638
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to this luxury home hosted by superhost – a striking home with all the modern amenities in a prime location about 1 mile to Iconic Broadway. This thoughtfully designed home offers an amazing experience with family and friends in this mini oasis located in booming North Gultch area! Parks, restaurants, museum, farmers market, grocery stores, and YMCA are in working distance. Excellent downtown view from upper porch. Can park two cars at back alley. Total nine beds, sleeps up to 12 people.
+
+The space
+It is two story house. Three bedrooms upstairs and one bedroom downstairs. Two beautiful patios with downtown view.
+
+The entire house will be rented. Maximum for 12 people.
+
+Guest access
+Entire house
+
+Other things to note
+Towels and beddings will be accommodated by number of guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 202435770
+Host Profile URL: https://www.airbnb.com/users/show/202435770
+Host Profile URL Source: public user permalink from passport userId
+Professional engineer like traveling with family.  Live in Nashville since 1999.
+Born in the 60s
+Where I went to school: Rose-Hulman Institute of Technology
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+612 reviews
+4.91 out of 5 average rating
+7 years of hosting

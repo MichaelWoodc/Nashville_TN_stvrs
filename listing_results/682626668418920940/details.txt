@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/682626668418920940
+Latitude: 36.2332
+Longitude: -86.73056
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The unit is close to everything, making it easy to plan your visit. Only 4.2 miles from Gaylord Opryland Resort & Convention Center, 2800 Opryland Dr, Nashville, TN 37214   Leave the car here and Uber over (cheaper than parking) 6.2 miles to downtown!
+
+The space
+It's really an apartment.  One room has soft chairs, stereo, and grand piano for relaxing.  Apt size refrigerator, toaster oven & microware. The other room is the bedroom with queen size head lifting Posturepedic 12" mattress with 55" TV on the wall. Right now-antenna / internet. Also 2 1/2 X 4 ft desk for working or eating. The other room is a full 4X4 shower with separate water closet.
+
+Guest access
+The apartment does not have access to the house and the house does not have access to the apartment.  
+Separate entrance with private porch.  Great for morning coffee.
+
+Other things to note
+I have a Golden Retriever who may initially bark at you.  It's just an introduction to have you come to the gate and pet her. Please don't let her convince you to let her out of the fenced yard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Becky
+Host User ID: 167798480
+Host Profile URL: https://www.airbnb.com/users/show/167798480
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: David Lipscomb University/MTSU
+My work: Senior Tax Advisor
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+93 reviews
+4.91 out of 5 average rating
+4 years of hosting

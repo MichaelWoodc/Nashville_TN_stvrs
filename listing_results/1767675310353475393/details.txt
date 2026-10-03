@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1767675310353475393
+Latitude: 36.0471
+Longitude: -86.9548
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+Private Garden Studio | WiFi & Kitchenette | Bellevue, Nashville, TN | Sleeps 2
+
+Escape to your own peaceful hideaway in this charming private backyard studio in Nashville's Bellevue neighborhood, about 13 miles (20-25 min) from downtown Nashville. Tucked among lush greenery and bamboo, this cozy retreat offers a relaxing atmosphere that feels wonderfully removed from the everyday hustle and bustle.
+
+Prime location
+- Located in Bellevue, a quiet residential area on Nashville's west side
+- About 13 miles / 20-25 minutes to downtown Nashville and Broadway
+- Close to Bellevue's shops and restaurants along Highway 70S
+
+Top amenities
+- Studio with a comfortable bed, sleeps 2
+- Bright interior with large windows overlooking the garden
+- Private entrance
+- Kitchenette
+- Free WiFi
+- Free parking on premise
+- Private patio area for morning coffee, an afternoon read, or evening relaxing
+
+The space
+The bright, welcoming studio features a comfortable bed, large windows overlooking the surrounding greenery, and a warm, intimate interior that makes it easy to settle in and unwind. A kitchenette makes it easy to prepare a quick meal or morning coffee, and free WiFi keeps you connected throughout your stay. Step outside and enjoy your own inviting patio — a quiet spot to start or end the day.
+
+Good for
+- Couples
+- Solo travelers
+- Anyone wanting a quiet home base while exploring Nashville
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fairly
+Host User ID: 664937812
+Host Profile URL: https://www.airbnb.com/users/show/664937812
+Host Profile URL Source: public user permalink from passport userId
+Fairly helps homeowners oversee their vacation rental properties all on one centralized platform. Every Fairly home is directly managed by the homeowner and a local caretaker, so you'll chat directly with the homeowner and/or caretaker.
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+331 reviews
+4.76 out of 5 average rating
+1 year of hosting

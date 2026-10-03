@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/688318916729878855
+Latitude: 36.18553
+Longitude: -86.7383
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Adorable artists' cottage. Extremely cozy with everything you need for your stay. Past guests really love the bed and have commented how comfortable it is. No cleaning required at check out! Walk to Rosepepper, Jeni's Icecream, 2 Ten Jack and more of East Nashville's favorite spots. Lovely and walkable neighborhood.  Perfect location! Permit #2022056723
+
+The space
+This is a studio space and is all one room (except for the bathroom).
+
+Guest access
+This is a totally separate house, so you will have access to the entire house and outdoor area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Beth
+Host User ID: 96331082
+Host Profile URL: https://www.airbnb.com/users/show/96331082
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Belmont
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+157 reviews
+4.87 out of 5 average rating
+4 years of hosting

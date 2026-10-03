@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/50283509
+Latitude: 36.32068
+Longitude: -86.56128
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole family to this great place with lots of room for fun. We stay in another side of the house , everything is separate with your own privacy
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Claudia
+Host User ID: 322356692
+Host Profile URL: https://www.airbnb.com/users/show/322356692
+Host Profile URL Source: public user permalink from passport userId
+5 years hosting
+13 reviews
+4.38 out of 5 average rating
+5 years of hosting

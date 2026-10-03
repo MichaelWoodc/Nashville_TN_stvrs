@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/41421764
+Latitude: 36.1203
+Longitude: -86.7667
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Townhouse Near Downtown, Soccer Staidum, Melrose - 8th AVe* The Wells is located 4 miles from the Broadway strip and walking Distance to 8th Ave making this property's location convenient for the Nashville experience. 2 Full bathrooms, one en-suite in Primary Bedroom. 2 QUEEN BEDS. 1 QUEEN Sleeper sofa in Living Room or Blow up queen mattress. 2  parking spaces are provided.  Plenty of space to spread out and enjoy, relax, drink coffee.
+
+The space
+- The property is located less than 4 miles from Downtown Lower Broadway, and 7 miles from Nashville International Airport (BNA). 
+- The 2 bedroom, 2.5 bath unit has 1 queen sized bed in each bedroom as well as a queen sized sleeper sofa in the living room or queen air mattress. 
+- The kitchen is fully outfitted with stove and oven, microwave, regular coffee pot & toaster. We do not provide pantry items. Coffee is provided. 
+- There is a washer and dryer along with some detergent pods for your convenience. 
+- Each unit includes two free parking spaces.
+- Linens, towels, shampoo, conditioner, and soaps are provided. 
+- Toilet paper, paper towels, trash bags, and dish pods are provided for your stay. We do not replenish these items during longer stays.
+
+Guest access
+Guest will have full access to the entire townhouse. Please double check your unit number in your check in instructions with the unit number on the building. Private Parking lot shared with four other rentals. Small outdoor space, with some seating provided. All linens on beds, pillows, towels, washcloths, provided. Kitchen is fully stocked with plates, silverware, utensiles, pots, pans, small and large appliances. Washer Dryer is for guest use. Each guest will be provided with toilet paper, paper towels, and travel amenities. For longer stays, we suggest a grocery run. Walgreens, Kroger, Publix , Walmart are all within a mile or two of the property. Instacart and Doordash are very quick to deliver groceries.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 312585112
+Host Profile URL: https://www.airbnb.com/users/show/312585112
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN. Although my work keeps me quite busy, I enjoy traveling as much as possible, hanging with friends and spending time with my family. The way to my heart will forever be a home cooked meal with anything chocolate for desert.
+Born in the 90s
+My work: Property Management
+Response rate: 99%
+Responds within an hour
+Superhost
+7 years hosting
+3566 reviews
+4.82 out of 5 average rating
+7 years of hosting

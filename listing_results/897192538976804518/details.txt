@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/897192538976804518
+Title: Near Downtown | Rooftop | Games
+Latitude: 36.1934
+Longitude: -86.7782
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style at our meticulously curated urban oasis. This expansive 4BR/4BA retreat boasts a chic rooftop terrace for skyline views and a game room with ping pong for endless entertainment. Indulge in plush bedding, a gourmet kitchen, and thoughtful extras that elevate your stay. Just 2.6 miles from downtown’s vibrant scene, you’re moments from Music City’s heart without the highway hassle. Our designer haven promises an unforgettable Nashville adventure, blending comfort and c
+
+The space
+★☆Level ONE★☆
+Entrance Level 
+Rec Room Garage: TV, Ping Pong Table, Sitting Area
+Bedroom 1: King Bedroom w/full ensuite Bathroom + Smart TV
+
+★☆Level TWO★☆
+Bedroom 2: King with one twin trundle Bed w/Full ensuite Bathroom + Smart TV
+Kitchen: Fully stocked with cookware, Wet Bar, island stools and Dining Table
+Living Room: Sitting Area w/TV
+
+★☆Level THREE★☆
+Bedroom 3: 2 Trundle Beds (4 twins) w/full en suite bathroom + Smart TV
+Bedroom 4: King with one twin trundle w/full en suite bathroom + Smart TV
+
+★☆ROOFTOP★☆
+Rooftop Deck with plenty of seating options, awning, and games!
+
+Guest access
+Entire Home (except locked closets)
+
+Other things to note
+** While staying with us, PLEASE make sure garage door is shut whenever you are not actively using the garage.
+**Please note: Guests who stay 3 weeks or longer will incur an additional cleaning fee. This is NOT included in the pricing you see, but will be an additional add-on fee!
+
+A lot of time, care, and money has been put into this home that we LOVE. I only want to have the best guests who will respect my property AND my neighbors. Not looking for rowdy crowds to stay here!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jerry
+Host User ID: 516041798
+Host Profile URL: https://www.airbnb.com/users/show/516041798
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+90 reviews
+4.97 out of 5 average rating
+3 years of hosting

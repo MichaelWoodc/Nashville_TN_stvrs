@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/41931003
+Latitude: 36.1954
+Longitude: -86.74859
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make yourself at home in our 3BR/2BA house with huge fully-fenced backyard, private deck, and space to unwind. The home sits on a quiet street in East Nashville known for its many restaurants and bars. Downtown/Broadway, Opryland, and more are within a 15 min drive.
+
+Our home is a great fit for families, friend groups, longer stays, and guests with pets. There are 5 comfortable beds, a well-stocked kitchen, spacious living and dining areas, large TVs, and two full bathrooms with double vanities.
+
+The space
+The house has a large, open and bright living room with plenty of seating, a 65" flat screen TV, and a large dining table. Adjacent to the dining area is a beautiful, well-stocked kitchen.
+
+The master bedroom has a queen-size bed, 55" TV, and an ensuite bathroom with double vanity sink and a walk-in shower. The other two bedrooms each have a queen-size bed and a twin XL bed. A second full bathroom off the hallway also features a double vanity sink and a shower-tub combo.
+
+My favorite part of the house is the huge, private backyard! Right off the kitchen is a large elevated deck with outdoor dining table. Stairs lead down to additional patio seating and a very large grass lawn. The backyard is enclosed with a privacy fence.
+
+Registration Details
+2022059401
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandon
+Host User ID: 21103521
+Host Profile URL: https://www.airbnb.com/users/show/21103521
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+151 reviews
+4.95 out of 5 average rating
+4 years of hosting

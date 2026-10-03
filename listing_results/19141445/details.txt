@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/19141445
+Latitude: 36.16374
+Longitude: -86.67271
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A charming ranch-style home nestled on a lush acre lot in the historic Bluefield neighborhood. Enjoy the tranquility of the fully treed surroundings, while still having easy access to various restaurants and shopping options. Experience the best of both worlds…the city's attractions within reach and a cozy haven to retreat to at the end of each day.  Unwind in the expansive outdoor area, perfect for relaxation after a day of city exploration.
+
+The space
+This 3 bedroom 2 bath, 3000 square foot home on a fully treed 1-acre lot is the perfect place to relax when you aren't out on the town.  The dining room has a table that seats 10, great for game night in!  Fully equipped kitchen with everything a chef would want.  Great outdoor fireplace, lots of seating, and a table for enjoying what you cooked on the grill!
+
+Guest access
+3 Bedrooms, large living room, separate den, full kitchen with all amenities, 2 bathrooms, large dining room, beautiful outdoor patio, and fireplace with grill.
+
+Other things to note
+If smoke is detected in the house there will be a $500 fee charged.
+
+Only the guests that are registered for the stay are allowed on property unless prior approval by host.
+
+CHECK OUT OUR GUIDE BOOK FOR LOCAL SPOTS! (click "read more" under "Location" section)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 27151458
+Host Profile URL: https://www.airbnb.com/users/show/27151458
+Host Profile URL Source: public user permalink from passport userId
+I am a Mother of 5 of the best people I know!  I love hosting and helping my guests have the best experience they can have!  I love to travel and experience what other hosts are doing to attract guests.  I love the outdoors and live music.
+Born in the 60s
+My work: STRP Manager
+Response rate: 100%
+Responds within an hour
+9 years hosting
+491 reviews
+4.91 out of 5 average rating
+9 years of hosting

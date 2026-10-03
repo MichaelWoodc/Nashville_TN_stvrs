@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/20858747
+Latitude: 36.19176
+Longitude: -86.96427
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the spacious, private,  second floor of our home in scenic West Nashville, where you will have your own private entrance. You'll have plenty of room to spread out and relax after a day of sightseeing in Nashville, or the surrounding areas.
+
+The space
+Our place is in scenic West Nashville, where you'll enjoy rolling hills, but will only be a 25 minute drive from all the excitement in downtown, including CMA Fest, Country Music Hall of Fame, Ryman Auditorium, Nissan Stadium, Bridgestone Arena, just to name a few attractions.
+
+Guest access
+You will have  your own private entrance to the entire second floor of our home.
+
+Other things to note
+Please note, if you are bringing your pet(s), there is a $60 additional charge that will be added to your stay. 
+
+If you are interested in a long term stay, please message us, and we can discuss a mutually agreeable rate. 
+
+We have a precious 12 year old rescue dog, Bailey, who is a love bug.  She is very friendly, and has never met a human she didn't love.  You may possibly see her when arriving or leaving the property, but she's not a bother at all.  And she very rarely barks.
+
+Nashville and Davidson County STRP #2018002471
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Judy
+Host User ID: 23674366
+Host Profile URL: https://www.airbnb.com/users/show/23674366
+Host Profile URL Source: public user permalink from passport userId
+Love to see new places, but also love and enjoy my home in Nashville, where I enjoy working in my vegetable garden,  hiking in our woods, reading, volunteering.
+Born in the 50s
+Where I went to school: Bedford High School,  Bedford MA
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+246 reviews
+4.96 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/984303553619456408
+Latitude: 36.36985
+Longitude: -86.45535
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully Renovated Spacious Home!  Like New!  Perfect friends and families to gather with 3 Bedrooms and 2 Full Bathrooms.  Enjoy a short 25 minute drive to NASHVILLE.  This beautiful home is conveniently located minutes from Gallatin's Historic Downtown Square with all it's little shops, pubs and restaurants.  Plenty of room for the whole family to relax.  Large eating area with plenty of seating for everyone.  Private Yard, Easy Parking, Outdoor sitting area and fire pit too!
+
+The space
+2000 Square Feet of Open floor plan space for everyone to share, relax in, and entertain.  All New Huge Kitchen with stainless steel Appliances and Quartz counters.  Super Large eating area next to the Living Room with Smart Television and Great Internet Service. The Main Suite features a King Size Bed and Attached Private Bathroom, the remaining 2 bedrooms have Queen Size Beds... all with crisp plush linens.  Lovely mornings can be enjoyed in the private tree lined backyard with BBQ and Fire Pit for Relaxing and Chatting.
+
+Other things to note
+Our Housekeeping Team cleans and sanitizes all surfaces of our home, including but not limited to floors, countertops, railings, sink faucets, appliances, doorknobs and light switches.  Linens and towels are laundered before each booking.
+
+Please note, we have a zero=tolerance policy for smoking of any kind, inside our home.
+
+2 night minimum when booking a Friday or Saturday.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 536871991
+Host Profile URL: https://www.airbnb.com/users/show/536871991
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 years hosting
+48 reviews
+4.96 out of 5 average rating
+3 years of hosting

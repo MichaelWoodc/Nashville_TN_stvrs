@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/49737518
+Latitude: 35.91799
+Longitude: -86.55766
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+***NOW W/ WASHER/DRYER!!!***
+
+We are excited to offer you a stay in our Cozy Tiny Guesthouse, located in a quiet neighborhood near all the excitement in Middle Tennessee! Our Guesthouse is completely private with its own entrance. This unique space is a former garage converted into an efficiency apartment. Everything you need for short/intermediate stays with almost complete kitchen, living area, bedroom, and bathroom! 30-35 min to Nashville.
+
+READ THE HOUSE RULES BEFORE BOOKING YOUR STAY.
+
+The space
+The Cozy Tiny Guesthouse just got a face-lift! Fresh flooring, remodeled kitchenette, and newly added washer/dryer!! 😃
+
+Our space is very unique in that it was once a garage, repurposed into an efficiency apartment. It is about 340 sq ft of living space, so while it's not a tiny house, it's exactly in that range! A full bathroom, bedroom and closet, and nice open living area with kitchenette are all part of the package.
+
+We have lovingly and purposefully added small details and features throughout the Guesthouse that maximize the space and also make it feel like home. We have also added some features per guest suggestions over the years.
+
+We have a big, open backyard with a picnic table right next to a wooded area. The picnic table is shaded by trees for most of the day.
+
+If you're curious to see what can be done with a small space like this, book your stay and come check it out!
+
+Guest access
+the Guesthouse entrance is located on the left side of the property and has keypad access. You pull into the left entrance of the driveway and park right in front of the door!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bradley
+Host User ID: 271643294
+Host Profile URL: https://www.airbnb.com/users/show/271643294
+Host Profile URL Source: public user permalink from passport userId
+Speaks English, Portuguese, and Spanish
+Lives in Smyrna, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+276 reviews
+4.95 out of 5 average rating
+5 years of hosting

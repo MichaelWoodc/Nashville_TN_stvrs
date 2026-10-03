@@ -1,0 +1,106 @@
+URL: https://www.airbnb.com/rooms/1576201940627939184
+Latitude: 36.14235268590516
+Longitude: -86.74602784564715
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this modern, two-bedroom apartment just minutes from the heart of downtown Nashville. Located only an 8-minute drive from Broadway, this cozy retreat is the perfect place to recharge after exploring the city’s music, food, and nightlife.
+
+The space
+Thoughtfully designed with comfort and convenience in mind, this stylish space offers a curated selection of amenities to make you feel right at home.
+
+★ LIVING AREA ★ – Sleeps 1
+
+A welcoming space to unwind, catch up with friends or family, or enjoy your favorite shows.
+
+✔ Plush seating with accent pillows
+✔ Flat-screen TV
+✔ Coffee table
+✔ Twin bed (sleeps 1)
+✔ Pull-out sofa
+
+★ KITCHEN ★
+
+Situated at the top of the stairs, the fully equipped kitchen features ample counter space and everything you need to cook at home when you want a break from dining out.
+
+✔ Microwave
+✔ Stove & oven
+✔ Refrigerator/freezer
+✔ Dishwasher
+✔ Toaster
+✔ Sink with hot & cold water
+✔ Dishes, trays, and glassware
+✔ Silverware
+✔ Pots & pans
+
+★ BEDROOMS (2) ★
+
+Each bedroom is designed for restful sleep after a full day in the city.
+
+✔ Queen-size bed
+✔ Fresh linens, pillows, and sheets
+✔ Closet with hangers and shelving
+
+★ BATHROOM (2) ★
+
+The spacious full bathroom comes stocked with essentials, so you can travel light.
+
+✔ Mirrors
+✔ Toilet
+✔ Fresh towels
+✔ Basic toiletries
+
+Guest access
+★ ADDITIONAL AMENITIES ★
+
+The entire apartment is yours to enjoy during your stay.
+
+✔ High-speed Wi-Fi
+✔ Air conditioning & heating
+✔ Ceiling fan
+✔ In-unit washer and dryer
+
+Other things to note
+Frequently Asked Questions:
+
+How far is it from Broadway?
+It’s an 8-minute drive.
+
+Can we check in early or drop off bags?
+We try to stick to our 4 PM check-in time. We recommend using a luggage drop-off service, such as Bounce Luggage Storage in The Gulch or Nashville Luggage Drop.
+
+- Is it free parking? 
+
+No. You need to register your car and pay for the parking fee via the QR code to park your car in the property.
+
+Here's the parking rate:
+
+- $32 per night for a stay of 1 to 2 nights
+- $32 per night with a 40% discount for stays of 3 or more nights using a discount code (to be provided, please message us upon arrival)
+
+If our parking lot is full, overflow & free parking is available at the Burger King and Sonic across the street. Please note that 25th Hour is not liable for any damage to vehicles parked in these areas.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Div
+Host User ID: 715487721
+Host Profile URL: https://www.airbnb.com/users/show/715487721
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+1897 reviews
+4.41 out of 5 average rating
+1 year of hosting

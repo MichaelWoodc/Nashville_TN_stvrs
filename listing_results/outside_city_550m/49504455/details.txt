@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/49504455
+Latitude: 36.34044
+Longitude: -86.7106
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 6
+beds: 7
+occupancy: 15
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax and unwind in this spacious 6-bedroom, 4-bath home in peaceful Goodlettsville, just 25 minutes from Downtown Nashville! With 2 full kitchens, 3 living areas, 2 dining spaces, 5 queen beds, 1 king, 1 twin, and a fenced backyard, there’s room for everyone to feel at home. Enjoy nearby restaurants, shopping, and groceries, then return to a quiet neighborhood. Lodging only—no parties, events, pets, or street parking. Please respect our neighbors and keep noise to a minimum.
+
+The space
+You'll enjoy the best of both worlds: a quiet and beautiful residential neighborhood while still being conveniently close to everything you need. Restaurants, shopping, grocery stores, and other everyday conveniences are all nearby.
+
+And when you're ready to experience Music City, Downtown Nashville is approximately 25 minutes away, making it easy to enjoy Nashville's famous restaurants, live music, entertainment, nightlife, attractions, and more. Because this home is located in a quiet residential neighborhood, we take great pride in being respectful of our neighbors and maintaining the peaceful atmosphere of the community.
+
+This home is intended for lodging purposes only and is a place to relax, rest, and enjoy your stay.
+
+Absolutely no parties or events are permitted.
+
+For the comfort and safety of our guests, neighbors, and community:
+
+🚫 No parties or events
+🚫 No pets
+🚫 No street parking
+🔇 Please be mindful of noise and respect our neighbors
+🏠 The home is for lodging purposes only
+
+Guest access
+Guests will be provided a Door code on day of check in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Layton
+Host User ID: 176310430
+Host Profile URL: https://www.airbnb.com/users/show/176310430
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 92%
+Responds within a few hours
+6 years hosting
+158 reviews
+4.59 out of 5 average rating
+6 years of hosting

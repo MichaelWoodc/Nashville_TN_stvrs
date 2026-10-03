@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1602985967301345920
+Latitude: 36.18881
+Longitude: -86.83725
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Looking for a place to escape for a couples retreat or a place to relax after a long day of a work conference this is for you! Full kitchen, 2 bedrooms with king beds and private bathrooms. Half bath on the main floor and private rooftop oasis with hot tub for use year round!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pamela Lash
+Host User ID: 593315532
+Host Profile URL: https://www.airbnb.com/users/show/593315532
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Real estate broker
+Response rate: 99%
+Responds within an hour
+Superhost
+2 years hosting
+330 reviews
+4.82 out of 5 average rating
+2 years of hosting

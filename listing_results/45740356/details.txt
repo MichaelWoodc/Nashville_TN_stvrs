@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/45740356
+Latitude: 36.2247
+Longitude: -86.70627
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Very Relaxing house sitting on the Cumberland river just minutes from Downtown Nashville, the airport, and Gaylord opryland shopping center, theme park, and convention center. The excellent location is only one of the many great features. It offers beautiful views of the river, large outdoor deck and patio with table and propane grill. Enjoy sporting events and movies on Multiple large TVs. Offers entertainment including a pool table, ping pong, fishing, and an outdoor fire pit.
+
+The space
+Entire home with deck and yard as well.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chase
+Host User ID: 62429442
+Host Profile URL: https://www.airbnb.com/users/show/62429442
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+219 reviews
+4.84 out of 5 average rating
+6 years of hosting

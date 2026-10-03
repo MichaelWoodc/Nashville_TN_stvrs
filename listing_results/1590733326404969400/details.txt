@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1590733326404969400
+Latitude: 36.21494
+Longitude: -86.72119
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cottage in Heart of East Nashville
+Nestled in the peaceful, family-friendly South Inglewood neighborhood, this cozy 3-bedroom, 2-bath upper suite offers the perfect retreat for those looking to experience the charm of East Nashville. With a fully stocked kitchen, you have everything you need to feel right at home.
+Enjoy a short walk to local eateries and coffee spots, or take a 10-minute drive to the iconic Grand Ole Opry. Whatever you're in town for this guest suite provides the ideal home base
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristi
+Host User ID: 329939491
+Host Profile URL: https://www.airbnb.com/users/show/329939491
+Host Profile URL Source: public user permalink from passport userId
+I am a medical sales professional who finds reward in my career, but I also have a love for music, great food, and travel. Suitcase always on the ready. 
+
+Recently, I moved to Nashville, choosing the artsy charm of East as my new home. Whether I am exploring the food scene, checking out music venues, or planning my next trip, I am making the most of this new phase of life!
+Born in the 60s
+My work: Medical Sales
+Response rate: 90%
+Responds within a few hours
+Superhost
+2 years hosting
+114 reviews
+4.9 out of 5 average rating
+2 years of hosting

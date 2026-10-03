@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/638521059345503593
+Latitude: 36.13303
+Longitude: -87.01325
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Pegram, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Serene hilltop hideaway conveniently located within 25 minutes of downtown Nashville and all the urban happenings! Built in 2020 this 1,300 square foot home is on 1.5 acres of a beautiful deep wooded lot. Open spacious combination great room with vaulted ceilings. Covered front porch as well as a treetop deck out back for sunset and sunrise celebrations! Wonderfully private and quiet while just 15 minutes to I-40. We would love to have you come and visit!
+
+The space
+You will have the whole house to yourself. There are no shared spaces. Driveway and street parking can fit several vehicles. There are three bedrooms with a queen bed in each and two full bathrooms with tubs and showers. The open concept main room has a fully stocked kitchen, dining table with seating for 6, and a 65inch smart TV with huge comfy sectional sofa. The back deck has an awesome grill with propane and grilling utensils provided, and a table with six chairs. The front porch has two rocking chairs and a bench swing to complete the country life experience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Star And Taylor
+Host User ID: 44884222
+Host Profile URL: https://www.airbnb.com/users/show/44884222
+Host Profile URL Source: public user permalink from passport userId
+We are a family of five who love hockey, the outdoors, exploring, and spending time on our land with our dog, cats, chickens, rabbit and lizards.
+Hosting on Airbnb has been a part of our lives for over eleven years now. We love creating spaces for our guests to relax and recharge. 
+In addition to being Airbnb hosts, Taylor is a firefighter and Star is a doula. Our sons play hockey and our daughter plays soccer. It’s a busy and fun life :)
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+717 reviews
+4.97 out of 5 average rating
+11 years of hosting

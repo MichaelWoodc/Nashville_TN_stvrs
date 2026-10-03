@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/33426720
+Latitude: 36.16511
+Longitude: -86.77692
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a loft with a open Layout. The Loft offers a spacious 2 bed , 2 bath layout and is approx 2500 sq ft on two levels. A king size bed in the upstairs master with an on suite bathroom, Queen bed in the 2nd upstairs bdr, 1 queen pull out sofa in the living room and air up mattress that can be provided upon request. The family room is comfortably furnished and features a 70” LED TV. The gaming area has a tournament Tornado Foosball table. Has Keurig coffee maker. Island sink with bar seating.
+
+The space
+The spacious master suite offers a king sleigh bed, 50” flat screen internet tv (surf the web on your tv), seating area, double vanities with glass vessel sinks, granite counter top, beautiful travetrine tile, large soaking tub, rain shower head and walk in closet.
+
+The guest bedroom features a queen bed and 50” flat screen internet tv (surf the internet on your tv) and small closet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: 203
+Host User ID: 250296629
+Host Profile URL: https://www.airbnb.com/users/show/250296629
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+Superhost
+8 years hosting
+155 reviews
+4.88 out of 5 average rating
+8 years of hosting

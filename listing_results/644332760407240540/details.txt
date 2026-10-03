@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/644332760407240540
+Latitude: 36.1749
+Longitude: -86.79764
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Mountain Sunrise Room is a beautiful one-bedroom/bathroom relaxation destination. Featuring a private entrance, spacious backyard, hot tub, fire pit, hammock, and covered pavilion. 
+Downtown Nashville/Broadway - 1 mile. Germantown, Brooklyn Bowl/Sounds Stadium, Gulch, and Marathon Village - blocks away.
+Free private parking next to your entrance.
+We believe that Black Lives Matter, No Human is Illegal, and Love is Love. 420 welcome.
+Keep all tobacco use outside.
+
+The space
+Vibrant and Relaxed
+
+Guest access
+The Sunrise Room features a private entrance, as well as the backyard and hot tub. 420 friendly.
+
+During your stay
+Feel free to message us should you need anything at all.
+
+Other things to note
+Check out do615 online. It is a full calendar of events in Nashville with tons of giveaways.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 8880552
+Host Profile URL: https://www.airbnb.com/users/show/8880552
+Host Profile URL Source: public user permalink from passport userId
+Hello from Nashville! We are so excited to welcome you to our home in beautiful Buena Vista.
+My work: Canna Kick It Shoes
+I spend too much time: Playing music.
+Favorite song in high school: Alive - Pearl Jam
+What makes my home unique: SAFE SPACE - LGBTQ, BLM, LOVE IS LOVE
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+155 reviews
+4.95 out of 5 average rating
+4 years of hosting

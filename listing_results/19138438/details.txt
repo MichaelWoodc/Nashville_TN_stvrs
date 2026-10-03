@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/19138438
+Latitude: 36.16088
+Longitude: -86.65876
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our country-chic Nashville cottage, a pet-friendly retreat on a private half-acre, blending vintage style with modern comfort. Comfortably sleeps 8 across 3 bedrooms, including a fun loft. Just a 10-15 minute drive to vibrant Downtown Nashville & Opryland. Perfect for large groups seeking a unique Music City experience with peaceful seclusion.
+
+The space
+Step into our charming country-chic Nashville cottage, a unique retreat that perfectly blends vintage style with modern comfort. Nestled on a private, half-acre lot, you'll enjoy peaceful seclusion amidst tall, old trees and a cottage garden, while still being close to the city's heart. This home has even been featured in Austin Jenckes’ music video, “Fat Kid,” and a short independent film "Apples."
+
+The inviting interior features muted colors, wood-paneled walls, and hip, vintage-style furnishings throughout. The cozy living room offers a large sectional sofa and a brick fireplace, creating a warm ambiance. The kitchen is fully equipped for all your culinary needs, complete with an adjacent dining area.
+
+Sleeping Arrangements:
+   Downstairs Bedroom 1: Comfortable Queen bed, closet, built-in drawers, TV with Roku.
+   Downstairs Bedroom 2: Cozy Queen bed, closet, built-in drawers, TV with Roku.
+   Upstairs Loft: A unique converted attic space, ideal for kids and larger groups. Includes two full-sized beds, a daybed with a single trundle, a futon sectional that converts into two single beds, its own TV, and charming string lights.
+
+Home Amenities:
+   Coffee & Tea Station: Versatile coffee maker (full pot, single-cup, K-cups), French press, tea kettle.
+   Entertainment: All TVs equipped with YouTube TV (live channels, unlimited DVR), living room includes a DVD player.
+   Connectivity: Fast fiber WiFi and available ethernet cable.
+   Laundry: Convenient in-unit laundry facilities.
+   Outdoor Living: Brick patio with comfortable seating and two charcoal grills (stored in shed).
+Pet-Friendly: Fenced yard section, pet bed, large crate, and other pet necessities available.
+
+Guest access
+As our guest, you will have private access to the entire home, including the spacious yard and patio. Enjoy seamless self-check-in with our secure keypad lock, conveniently located at the side door. Your unique code will be provided before your arrival, allowing you to come and go as you please throughout your stay.
+
+Other things to note
+Loft Accessibility: Please be aware that the stairs leading to the upstairs loft are narrower and steeper than standard stairs, and the ceiling is sloped. This may present a challenge for guests with mobility issues.
+ 
+Local Wildlife: The large, natural yard supports a variety of local wildlife. It's common to see deer grazing, bunnies hopping by, and fireflies lighting up the yard at night. You may even spot our resident groundhog, Stanley! Please be mindful that less desirable critters like skunks are also in the area and can be attracted by food waste if discarded in the yard. Please do not dispose of cooking grease outside.
+
+Permit & Safety: This home is registered with Metro Codes and has met all requirements for a short-term rental permit, including a fire marshal inspection. The home is equipped with interconnected smoke and CO2 alarms for your safety.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emily
+Host User ID: 133778519
+Host Profile URL: https://www.airbnb.com/users/show/133778519
+Host Profile URL Source: public user permalink from passport userId
+Hi! I moved to Nashville to be a singer/musician. Covid took a toll on my gigs, but I still occasionally get a chance to play here & there. My main gig these days is hosting, managing, & maintaining short & mid term rental properties & love it!! My education is in animal science/agriculture/horticulture.
+Where I went to school: Cornell University
+My work: Emagination Projects
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+528 reviews
+4.97 out of 5 average rating
+9 years of hosting

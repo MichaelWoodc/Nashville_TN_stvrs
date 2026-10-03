@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/48325804
+Latitude: 36.16854
+Longitude: -86.80053
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in this new home with 5 private bedrooms and 3.5 baths. You'll be just 5 minutes away from Broadway and Downtown's core, where you'll discover all the best attractions in Music City! This new home has it all and is beautifully decorated with designer finishes. You'll enjoy a beautiful large open floor plan living and dining space, and a complete kitchen. There is a two car garage for parking plus additional driveway space. The rooftop includes a FIREPLACE! 
+
+STRP#202101174
+
+The space
+Bed Layout: Two  Downstairs Bedrooms with King Beds and Full Hall Bath, Upstairs Primary bedroom with King Bed and large ensuite bath.  Two additional Upstairs Bedrooms with King Beds and Full Hall Bath.  Queen size Folding Floor Mattress for common area and Sleeper sectional in first floor living area. Half Bath off 3rd level Rooftop area.
+
+Guest access
+Guests have access to the entire private home and attached two car garage.  There is a smart lock with unique code for each stay, as well as security system and entry cameras.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura & The Music City Collection
+Host User ID: 69852847
+Host Profile URL: https://www.airbnb.com/users/show/69852847
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3263 reviews
+4.88 out of 5 average rating
+10 years of hosting

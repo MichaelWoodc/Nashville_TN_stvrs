@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/914486864681635033
+Latitude: 36.2683
+Longitude: -86.5568
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Grand Lake Estate is a spacious waterfront retreat on Old Hickory Lake, perfect for families, groups, and relaxing Nashville getaways. This 5-bedroom, 4-ba home sleeps up to 14 guests and offers lake views, multiple gathering spaces, 2 kitchens, a sunroom, game room, pool table, ping pong, hot tub, fire pit, dock access, and kayaks/canoe.  Spend your mornings sipping coffee on the deck, your afternoons by the water, and your evenings relaxing in the hot tub or gathering around the fire pit.
+
+The space
+Although you're are well isolated from the business of the city, everything you need is still a short drive away!  
+
+Distances: Downtown Nashville 20 miles / 30 minutes 
+BNA Airport (Nashville) 14 miles / 25 minutes 
+Mount Juliet  (shopping area) 6 miles / 12 minutes 
+
+The house is lakefront.   There are 2 boat ramps close by.  They are about 2 miles away.  You may use Shutes Branch Recreation Area or Cedar Creek Marina.  
+The property also includes a fire-pit, hot tub and a huge deck for all your outside activities.   This property features 5 bedrooms and 4 full baths.    
+All linens and towels are provided.   Basic bathroom amenities are provided as well as a hair dryer and an iron.   
+The kitchen is very well stocked and has enough dinnerware for your group of 12. We have wine glasses, coffee mugs and the coffee bar features a standard as well as a Keurig coffee maker. Drip coffee starter packs are provided.   
+The dining area features 2 tables with 12 chairs.
+
+Guest access
+Guests will have access to the entire property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CousinsBNB
+Host User ID: 21736973
+Host Profile URL: https://www.airbnb.com/users/show/21736973
+Host Profile URL Source: public user permalink from passport userId
+We are a family that love to travel, and we love to host groups at our fantastic Nashville-themed homes as well as our Gulf Shores homes.  We also have homes in Laurel, MS and a cabin in Zionville, NC.  We dedicate a lot of time to making sure our properties provide everything you would expect when vacationing there.  And our reviews show that!
+Where I went to school: University of North Texas
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+3191 reviews
+4.85 out of 5 average rating
+12 years of hosting

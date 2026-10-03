@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/30914945
+Latitude: 36.19054
+Longitude: -86.75047
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our home! This 3 bedroom 1920s bungalow in East Nashville is the perfect vacation getaway, surrounded by new bars and restaurants and only minutes from the excitement of Five Points, Shelby Park, and Downtown Nashville. Make yourself at home and enjoy a gourmet kitchen, TVs, WiFi, and more!
+
+The space
+Nashville is a booming city with so much fun to offer! Our home has been completely redecorated and features 3 bedrooms and 2 full bathrooms. It's located in a trendy and popular neighborhood featuring lots of new restaurants, coffee shops and nightlife, equipped with everything you'd need to feel at home. 
+
+Our beds are super comfortable and feature brand new linens and high thread count sheets, as well as lots of extra pillows and blankets for added comfort. The home includes four Queen sized beds, therefore we can comfortably sleep up to 8 guests! The kitchen is fully stocked with a coffee maker, pots and pans, utensils and kitchenware- everything you'd need to create a home cooked meal. Our dining room table also seats 6, with the option to pull up some extra chairs, so there is plenty of space to enjoy meals together. Head outside to enjoy a nice BBQ meal on the back deck.
+
+Fresh towels and toiletries are provided, no need to bring your own! There is a full bathroom on the main floor level as well as a full bathroom upstairs. 
+
+The home also features super fast WiFi, two TVs, a washer and dryer, and a "vintage" radio with bluetooth feature! The televisions offer streaming services, including Netflix and Youtube TV.
+
+The home is 100% yours, just like a hotel, with a professional cleaning crew that comes in right before your visit. There is a keypad for easy keyless entry.
+
+We are located just a quick walk to Publix, Starbucks, and many delicious local restaurants! Downtown is just a couple minutes down the road as well.
+
+Guest access
+You'll have access to the entire house for the duration of your stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 69229614
+Host Profile URL: https://www.airbnb.com/users/show/69229614
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+577 reviews
+4.95 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/32495864
+Latitude: 36.17438
+Longitude: -86.78042
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Riverfront getaway apartment ideal for access downtown for a weekend for 1-3 people. Walk or Uber to the best nightlife and live music, or explore the restaurants of Germantown. The Titans stadium sits just across the river to the south, and “hipster” east-Nashville is in the same direction. The apartment is a cozy place with one queen bed in the bedroom and a sofa in the living room, plus a balcony that overlooks the river and modern kitchen.
+
+The space
+Crazy view of the river!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrew
+Host User ID: 244158670
+Host Profile URL: https://www.airbnb.com/users/show/244158670
+Host Profile URL Source: public user permalink from passport userId
+Lives in New York, New York
+Response rate: 90%
+Responds within a day
+8 years hosting
+137 reviews
+4.7 out of 5 average rating
+8 years of hosting

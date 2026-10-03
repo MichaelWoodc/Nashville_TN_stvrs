@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/2083878
+Latitude: 36.17069
+Longitude: -86.79121
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Amazing Suite
+ 2 Queen Beds
+Full and a Half Bath
+Kitchen with appliances
+48" Flat Panel TV( cable)
+Wifi
+This suite is located on the lower level of a beautiful home. Close and convenient to so many things!
+
+The space
+This is a truly great space. The suite is located on the ground level of our home. There is a living room, a kitchen, and a dining area. There are plenty of dishes, silverware, glassware, and pots and pans. There is a full bath and a half bath. There are also plenty of towels, soap, and a washer and dryer. The ceilings a 9 ft so the space is open and airy.
+
+Guest access
+Guest will have access to everything in the kitchen, living room, dining area, bedrooms and bathrooms. There is a pocket door that leads to an open room that isn't part of the suite.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Khira
+Host User ID: 10643952
+Host Profile URL: https://www.airbnb.com/users/show/10643952
+Host Profile URL Source: public user permalink from passport userId
+Hi! I am a married lady with no kids unless you count pets:) I have lived in downtown Nashville on and off for 7 years and I LOVE it! My husband and I built this home and included the suite as a just in case spot for his mother. I am originally from the Gulf Coast, but moved to Nashville for graduate school at MTSU. Nashville is an amazing city and the downtown area  has grown so much and continues to grow. You can usually find me in the downtown area driving around looking at properties for my real estate firm, Turner Investments. The best part of living downtown is the close proximity to EVERYTHING. On a typical day I may visit run at The Bicentennial Mall, eat lunch at The Farmers Market, go to The 12th South area to view up and coming projects, shop in The Gulch, and go into my office in the Green Hills area. LOVE IT! Whether you stay in my suite or not, Welcome to Nashville and I hope you enjoy your stay.
+My work: General Contractor, Real Estate Agent, Developer
+Lives in Nashville, Tennessee
+Response rate: 93%
+Responds within an hour
+Superhost
+13 years hosting
+1265 reviews
+4.83 out of 5 average rating
+13 years of hosting

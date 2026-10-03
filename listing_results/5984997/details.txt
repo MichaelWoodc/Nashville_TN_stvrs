@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/5984997
+Latitude: 36.14309
+Longitude: -86.76151
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+-We've always held ourselves to a high standard in providing a safe and clean environment for our guests. Due to coronavirus we are taking extra steps and using approved sanitizers on all frequently touched surfaces, using approved cleaners and providing hand soap and plenty of linens. As of mid-June we will both be fully vaccinated, but still following distancing and masking recommendations.
+
+The space
+Sandy is a vintage and antique dealer and does her own refinishing.  John has been a carpenter 40 years and loves modern design.  Together, they designed, built, and hand picked or custom fit the Launch Pad with your comfort and enjoyment in mind.  It’s hip, private, and modern.
+
+Guest access
+The completely separate apartment and private garden are all yours for the duration of your stay. There is private parking for two-three vehicles.
+
+Other things to note
+-We are easily accessible from I40, I65 and I24 and cross country travelers are welcome. The fenced yard is perfect for dog travelers who might need to stretch their legs as well.
+-Two queen sized beds
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sandy
+Host User ID: 19288905
+Host Profile URL: https://www.airbnb.com/users/show/19288905
+Host Profile URL Source: public user permalink from passport userId
+I was transplanted here in 2010 from the Netherlands, where I lived for ten years. Previously lived in Florida, Ohio and NYC. John has lived here most of his life. We can usually be found haunting junk shops, being dragged around by our Australian cattle dogs, building and fixing or making plans for building and fixing.
+My work: Self employed
+Speaks Dutch and English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+1147 reviews
+4.97 out of 5 average rating
+11 years of hosting

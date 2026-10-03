@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/602240136207376512
+Latitude: 36.1444
+Longitude: -86.8151
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Midtown Nashville, family friendly home is filled with original Nashville artist paintings and historic music  photographs.
+One can walk to Vanderbilt, Centennial Park/Parthenon and Broadway(Downtown), Belmont, Historic Music Row within 1.5 miles very close to restaurants and coffee shops. 6 parking spaces on the property off of the alley. On street parking right next to the home.
+
+Other things to note
+The home has a cornhole board.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robyn
+Host User ID: 188906198
+Host Profile URL: https://www.airbnb.com/users/show/188906198
+Host Profile URL Source: public user permalink from passport userId
+I am a Visual Artist/ Painter /Film Maker and Mom.
+Also I am a Top Realtor at Weichert Realty and have a great time with Nashville.
+I moved here from Johannesburg and studied art at University of Cape Town.
+I love living in Nashville this is such a exciting town! I am excited to start hosting with Airbnb.
+Where I went to school: South Africa
+My work: Realtor and Artist
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+923 reviews
+4.83 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1755027354460726581
+Latitude: 36.1721
+Longitude: -86.77
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: None
+bedrooms: 2
+beds: None
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, beds, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Drift Nashville
+Host User ID: 1750954154413137721
+Host Profile URL: https://www.airbnb.com/users/show/1750954154413137721
+Host Profile URL Source: public user permalink from passport userId
+1 month hosting
+10 reviews
+4.7 out of 5 average rating
+1 month of hosting

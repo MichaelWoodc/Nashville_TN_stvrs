@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/42611453
+Latitude: 36.30194
+Longitude: -86.62637
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Less than 30 minutes to Nashville and centrally located in the Old Town Center of Hendersonville, the Kingfisher BNB is the perfect spot for your family or group! This cute 1940's cottage has 3 bedrooms and 1 bathroom with plenty of room for you to spread out and enjoy. Enjoy an easy commute to Nashville without staying in the hustle and bustle of the city. We look forward to welcoming you to Hendersonville! Please note that this is strictly a pet-free property.
+
+The space
+A former single-family home and art gallery, this newly renovated short-term rental has been lovingly stocked with everything you need to be comfortable during your stay. The Master Bedroom contains a king-size bed, the second bedroom has a queen and the third bedroom contains bunk beds - the perfect spot for the whole family! You have access to a full kitchen with stove, microwave, refrigerator and sink. The bathroom has recently been fitted with a stackable washer and dryer for your use during your stay! We look forward to hosting you in Hendersonville!
+
+Guest access
+You will have access to the entire house and will have two dedicated parking spaces on the property. You will access the house by using an electronic keypad lock.
+
+Other things to note
+While you will have exclusive use of the house during your stay, the house is located on the same lot as a pottery and photography studio. Guests will have 2 dedicated parking spots for their use, but please note that you may see us come and go to the studio during normal business hours. Both pottery lessons and photography services can be arranged if you want to inquire.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendy
+Host User ID: 192543064
+Host Profile URL: https://www.airbnb.com/users/show/192543064
+Host Profile URL Source: public user permalink from passport userId
+My husband, daughter and son in-law are coming to town for a wedding.
+Born in the 50s
+My work: Photography
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+697 reviews
+4.91 out of 5 average rating
+8 years of hosting

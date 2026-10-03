@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/33252562
+Latitude: 36.16831
+Longitude: -86.80288
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1 miles from downtown. Walking distance to  stores restaurants farmers market and  museums.  Cozy warm inviting home newly renovated.  Nicely decorated with all the amenities. Coffee bar in master suite fully functional kitchen in a quiet nice neighborhood.  Backyard deck with table and chairs for enjoyment and entertainment.  Feel completely at home while staying in Nashville
+
+The space
+This single-family home was designed for the user in mine with complete comfort. Elegant kitchen comfortable master suite with coffee bar and plenty of space. Walking distance to the farmers market restaurants museums and other amenities. Only 1 mile from downtown but set in a nice quiet neighborhood.
+
+Guest access
+Guests have complete access to the whole house front yard rear deck and backyard.
+
+Other things to note
+Stp #: 2019003555
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nga
+Host User ID: 134249758
+Host Profile URL: https://www.airbnb.com/users/show/134249758
+Host Profile URL Source: public user permalink from passport userId
+We are in American and Vietnamese married couple. We like music arts good food and fine wine. We love to travel and experience the world. We love to share our home and meet fun and interesting people.
+Speaks English and Vietnamese
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within an hour
+Superhost
+8 years hosting
+330 reviews
+4.95 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/923124693095002834
+Latitude: 36.1947
+Longitude: -86.7416
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your ultimate getaway pad in East Nashville, just moments from Broadway! Ideal for bachelor and bachelorette bashes, this spacious 3 bedroom Airbnb boasts a huge backyard with a fire table, cornhole, table for beer pong and lawn pong. Fire up the grill and relax in the stylish interior. With its prime location and endless entertainment options, this Airbnb sets the stage for an epic Nashville adventure!
+
+The space
+There are two dedicated parking spaces on the front parking pad. Free street parking is also available for additional cars. 
+
+Level 2 EV charger with Tesla adapter available upon request for nominal fee
+
+We live next door so we should be able to help quickly if needed
+
+Other things to note
+3 miles to Nissan
+4 miles to Broadway
+10 miles to BNA airport
+
+Registration Details
+2023041806
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dez
+Host User ID: 90705165
+Host Profile URL: https://www.airbnb.com/users/show/90705165
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Family Medicine Physican
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+88 reviews
+4.94 out of 5 average rating
+3 years of hosting

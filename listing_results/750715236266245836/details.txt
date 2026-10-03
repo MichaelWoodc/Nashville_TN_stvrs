@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/750715236266245836
+Latitude: 36.1568
+Longitude: -86.713
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a 30 or more days rental!
+What a cute retreat for your Nashville experience! Fully remodeled 4 bedroom/ 2.5 bath home 4 miles from downtown Nashville. This home comes with a beautiful outdoor area that includes a hot tub, fire pit and an outdoor dining area. The game room features darts,Golden Tee, Karaoke with a stage and a large TV, and several board games for your down time! This home is perfect for a family vacation, bachelorette party or just to get away.  Located in a cul-de-sac!!
+
+The space
+CousinsBNB is a well-established host with over 2,200 reviews.  So rest assured this is a top-notch property!
+
+Guest access
+You will have access to the entire house, hot tub, and 1 large patio.  There is plenty of parking space for a few cars.
+
+Other things to note
+Game room with Golden Tee and a karaoke stage!
+
+Registration Details
+2022071975
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CousinsBNB
+Host User ID: 21736973
+Host Profile URL: https://www.airbnb.com/users/show/21736973
+Host Profile URL Source: public user permalink from passport userId
+We are a family that love to travel, and we love to host groups at our fantastic Nashville-themed homes as well as our Gulf Shores homes.  We also have homes in Laurel, MS and a cabin in Zionville, NC.  We dedicate a lot of time to making sure our properties provide everything you would expect when vacationing there.  And our reviews show that!
+Where I went to school: University of North Texas
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+3191 reviews
+4.85 out of 5 average rating
+12 years of hosting

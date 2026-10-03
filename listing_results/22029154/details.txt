@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/22029154
+Latitude: 36.17354
+Longitude: -86.77907
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Riverfront getaway apartment ideal for access downtown for a weekend for 2-4 people. Walk or Uber to the best nightlife and live music, or explore the restaurants of Germantown. The Titans stadium sits just across the river to the south, and “hipster” east-Nashville is in the same direction. The apartment is a cozy place with one king bed in the bedroom and a blow-up bed in the living room, plus a balcony that overlooks the river and modern kitchen.
+
+The space
+Access to the whole apt.
+
+Guest access
+Bedroom
+Living Room 
+Balcony
+Bathroom 
+Kitchen
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bowies
+Host User ID: 160829551
+Host Profile URL: https://www.airbnb.com/users/show/160829551
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+200 reviews
+4.64 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/548507962050701384
+Latitude: 35.98571
+Longitude: -86.6025
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover your getaway haven! Nestled in a quiet neighborhood, this centrally located gem offers cozy comfort. With Interstate 24 less than a mile away, convenient amenities await. 
+
+- Downtown Nashville - 18 miles 
+- Downtown Franklin - 20 miles  
+- Downtown Murfreesboro - 18 miles
+- Percy Priest Lake - 5 miles 
+- Nashville Shores Water Park - 16 miles
+- StoneCrest Hospital - 4 miles
+
+Your comfort is our priority. Book your stay now, and craft unforgettable Tennessee memories!
+
+The space
+Welcome to our 3-bedroom, 2-bathroom haven! With lofty ceilings upon entry, the home exudes openness and comfort. The main floor boasts a master bedroom and bathroom, conveniently adjacent to the kitchen and dining area. Upstairs, discover two more bedrooms and other bathroom. The well-equipped kitchen invites you to create culinary delights. Each room features Roku smart TVs for endless entertainment while enjoying the plush comfort of memory foam mattresses for a restful night's sleep. Your retreat awaits – a perfect blend of functionality and relaxation!
+
+Guest access
+Guests will have access to the entire property with the exception of the owners closest.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Craig
+Host User ID: 434432247
+Host Profile URL: https://www.airbnb.com/users/show/434432247
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+113 reviews
+4.96 out of 5 average rating
+4 years of hosting

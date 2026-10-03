@@ -1,0 +1,31 @@
+URL: https://www.airbnb.com/rooms/963146387362418134
+Latitude: 36.20263419849866
+Longitude: -86.753563974171
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a private oasis in one of Nashville's most eclectic neighborhoods. The space is designed to provide everything you need and nothing you don't. Calm, clutter-free and relaxing, this 500 square foot apartment has its own private entrance and boasts a full galley kitchen, in-unit washer dryer and private bathroom. With a queen bed, dedicated living room area and private outdoor patio, enjoy your Nashville down time in style.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neely
+Host User ID: 7128694
+Host Profile URL: https://www.airbnb.com/users/show/7128694
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+10 months hosting
+16 reviews
+4.94 out of 5 average rating
+10 months of hosting

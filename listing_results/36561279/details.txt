@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/36561279
+Latitude: 36.11863
+Longitude: -86.76908
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new, modern, three story build is sure to have everything you need to enjoy your stay in Nashville! From the breathtaking vaulted ceilings, to the endless natural light, this spot is both spacious and vibrant. Come enjoy the modern furnishings while being centrally located to some of Nashville's finest restaurants, attractions and bars. This spot is only 1.5 miles to 12 South, 3 miles to The Gulch and 3.5 miles to downtown.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+✔ Fully Equipped Kitchen
+✔ Smart TV
+
+This spot was both thoughtfully and functionally designed. 
+
+BEDROOMS:
+There are two queen beds and two king beds, providing just the right amount of space to spread out and feel at home. We also provide single-roll-away beds for added sleeping arrangements. 
+
+KITCHEN:
+The house includes a fully equipped kitchen for travelers looking to stay in and cook up a feast!
+
+LIVINGROOM
+With a large sofa and several accent chairs, we welcome our guests to sit back, relax, and enjoy some streaming. The couch in the living room does convert to a sofa bed.
+
+BATHROOMS
+There are 4 bathrooms, providing just the right amount of privacy for every traveler. 
+
+BONUS ROOM:
+Hang out and enjoy a cup of coffee while overlooking the French doors to the balcony. The couch in this room also converts to a sofa bed.
+
+DECK:
+Enjoy dinner under the sky or just hang out on the spacious deck! 
+
+PARKING:
+Free street parking, as well as parking behind the house.
+
+LOCAL GUESTS MUST REQUEST BEFORE BOOKING..
+
+Other things to note
+CONTACTLESS, KEYLESS ENTRY
+To ensure a smooth and seamless check-in, you’ll receive a personal entry code that is only valid during your stay. Simply plug in your unique entry ID, and voila, it’s vacation time!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Albiona
+Host User ID: 274841360
+Host Profile URL: https://www.airbnb.com/users/show/274841360
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+346 reviews
+4.89 out of 5 average rating
+7 years of hosting

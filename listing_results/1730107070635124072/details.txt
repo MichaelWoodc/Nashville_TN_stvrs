@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/1730107070635124072
+Latitude: 36.1759737036168
+Longitude: -86.80664382008482
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just over 2,600 square feet across four bedrooms and three full bathrooms, sleeping up to ten. The open living areas give everyone somewhere to spread out, and the kitchen is fully equipped for real cooking, whether that is a group breakfast before a day downtown or a late night after Broadway. Step out to the front porch with your coffee and settle into the neighborhood. You are minutes from downtown and the energy of Lower Broadway while enjoying a quieter residential base.
+
+The space
+SLEEPING ARRANGEMENTS
+Bedroom 1: Queen
+Bedroom 2: Queen
+Bedroom 3: Full XL
+Bedroom 4: Bunk bed with two twins
+
+BATHROOMS
+Three full bathrooms: two with a combination tub and shower, and one with a separate shower and tub.
+
+WHAT YOU WILL LOVE
+⬥ Brand-new build with modern finishes and thoughtful decor
+⬥ Sleeps up to twelve, ideal for groups splitting the cost
+⬥ Full chef's kitchen with everything you need
+⬥ Smart TVs and fast WiFi throughout
+⬥ Washer and dryer in the home
+⬥ Front porch for morning coffee
+⬥ Keyless self check-in, arrive on your own schedule
+⬥ Free street parking directly in front of the home
+
+Guest access
+You have full access to the property, and we will send you digital codes two days prior to arrival.
+
+Other things to note
+We will send a quick digital sign-off link immediately after your booking. Simply complete this brief check-in form to automatically release your full arrival instructions and property access codes prior to your check-in date.
+
+Early Check-In: We take pride in our 5-star cleaning standards. Because our professional crews need the full window to prepare the estate, early check-ins are not guaranteed and must be requested by messaging us.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 478827477
+Host Profile URL: https://www.airbnb.com/users/show/478827477
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Mark— here to make your vacation truly unforgettable.
+
+Together with my brilliant and thoughtful team, we're here to make your vacation GREAT! Our Property Curators are 100% focused on your comfort. It is our job to ensure you feel taken care of every step of your trip! We know we are here because of YOU and we feel this differentiates us from so many other hosts in the market!
+
+Let us know how we can make your stay a 5-Star stay!
+Born in the 70s
+Where I went to school: South Africa
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+1593 reviews
+4.87 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/878164311169534134
+Latitude: 36.09454
+Longitude: -86.6323
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Hideaway Gem is located in Music City Nashville, TN in a quiet neighborhood only 20 mins from downtown, 5 miles from BNA Airport, 18 mins from Opry Mills, and just 16 mins from Tanger Outlets. For some outdoor fun, we are 1.5 miles from the Hamilton Creek Recreation Area and only 7 miles from Nashville Shores to enjoy some seasonal fun. This comfy townhome has everything you’ll need to ensure you have a relaxing time for a day or night in. 
+
+Permit #2023026030
+
+The space
+The Hideaway Gem is a comfy, spacious, 1400 sq ft townhome with an open concept kitchen. Downstairs you will find a mix of hardwood/tile flooring and carpet. The kitchen is well equipped with anything you may need. Coffee pods, tea bags, creamer, and Splenda are provided at the coffee bar for you to enjoy. Also downstairs is a half bath and a 75 inch smart TV for your entertainment. Upstairs, you will find carpet throughout the hallways and bedrooms, with 3 bedrooms and 2 full baths. The second smart TV is located in the master bedroom. Please enjoy and treat the home even better than you would treat your own! (There is no garage access)
+
+Guest access
+You will have the entire property to yourself with the exception of the garage. There are essentially two spots to park for The Hideaway Gem, located in the driveway and just in front of the home. There is additional parking in the guest spots in between the townhomes and along the tree line if open.
+
+Other things to note
+There may be kids playing outside so be mindful as you’re traveling through the neighborhood.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LaDona
+Host User ID: 305734114
+Host Profile URL: https://www.airbnb.com/users/show/305734114
+Host Profile URL Source: public user permalink from passport userId
+Hello, my name is LaDona, an athlete who enjoys working out, lifting weights, and running. I’m a mental health therapist and a health coach, and I have a huge passion for helping other people. Positive customer/client experience is something that brings me joy and provides a sense of fulfillment. I’m here to help make your experience at The Hideaway Gem a positive one for you and your family to remember.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+111 reviews
+4.98 out of 5 average rating
+3 years of hosting

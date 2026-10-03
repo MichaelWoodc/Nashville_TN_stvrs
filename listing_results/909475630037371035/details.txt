@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/909475630037371035
+Title: Modern/Cozy Private Suite near BNA DT Opry
+Latitude: 36.1567
+Longitude: -86.6818
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the simplicity of this quiet and central accommodation where the green spaces will make you feel comfortable and fresh, in a very safe neighborhood.
+
+To ensure a pleasant stay, we want to inform you that, as this is part of a home, you may notice some typical everyday noises (footsteps, etc.) from the upper levels. This is part of the experience of staying in a residential space. We have designed the basement for your comfort and hope you enjoy its privacy.
+
+The space
+We only have space for 1 parking space!
+
+Other things to note
+maximum capacity of 3 people! More than 3 people will be charged an extra $100 per night.
+
+To ensure a pleasant stay, we want to inform you that, as this is part of a home, you may notice some typical everyday noises (footsteps, etc.) from the upper levels. This is part of the experience of staying in a residential space. We have designed the basement for your comfort and hope you enjoy its privacy.
+
+Registration Details
+4440981
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angelo
+Host User ID: 261055687
+Host Profile URL: https://www.airbnb.com/users/show/261055687
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+57 reviews
+4.77 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/24657208
+Latitude: 36.32711
+Longitude: -86.53817
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Super Hosts invite you to reserve your stay at this beautiful ranch style lakefront home.  Located just minutes from downtown Nashville. A perfect vacation for your family, multiple families, family reunions, celebrations or just relaxing and enjoying the best of both worlds. Enjoy the pool (open Memorial Day thru Labor Day, depending on weather) or lake, shopping, great dining and kick off your heels on Broadway.  We do require the purchase of insurance offered by Airbnb.
+
+The space
+This home is has a fully equipped kitchen, barbecue, dining al fresco or formal dining inside. The beautiful lush property is right on the lake with a private dock. There is something for everyone!
+
+Guest access
+Due to weather the pool is NOT in use and is covered during the fall and winter months. October - April. During the summer months. The pool IS in use and to be enjoyed from May - September.
+
+Other things to note
+We do require a private booking confirmation contract to be signed before your stay
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Raychel
+Host User ID: 2432748
+Host Profile URL: https://www.airbnb.com/users/show/2432748
+Host Profile URL Source: public user permalink from passport userId
+My sister husband and I are traveling from Rome to Como. We’re very excited!
+Born in the 60s
+Where I went to school: Escoffier culinary School
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+555 reviews
+4.83 out of 5 average rating
+9 years of hosting

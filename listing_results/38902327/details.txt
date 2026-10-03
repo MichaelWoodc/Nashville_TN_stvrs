@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/38902327
+Latitude: 36.1594
+Longitude: -86.8068
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a piece of Nashville's History! The 1865 is a pre-Civil War era building recently renovated into luxury apartments. Our unit is conveniently located on the first floor, close to all, including a small pool (Open during the summer) outdoor bar/entertainment area. Location! Location! The 1865 is centrally located within Nashville and easy access to the Gulch, Vanderbilt, Broadway, Music Row, or anywhere else you wish to go!
+
+Brand new!!!!
+1865 Club is a speakeasy cocktail lounge is here!
+
+The space
+The space is a unique industrial style modern loft that includes a master bedroom with a king bed, and a guest room with queen over queen bunks. The spacious living area also includes a very comfy pull-out couch! The kitchen is fully stocked with all appliances you could need!
+
+A 150 year old historic building converted from an old tobacco barn to amazing rustic condos.
+
+*The living room window backs up to common areas so please be aware of that when booking! Quiet hours set by the HOA are 10pm to 8am. There is also a train behind the property. They have to slow for a 5 mile stretch which includes behind the building.
+
+New speakeasy- cocktail  lounge in basement of building. 
+
+We want you to LOVE your trip to The 1865 so please reach out with any questions!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kim
+Host User ID: 297936066
+Host Profile URL: https://www.airbnb.com/users/show/297936066
+Host Profile URL Source: public user permalink from passport userId
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+292 reviews
+4.92 out of 5 average rating
+7 years of hosting

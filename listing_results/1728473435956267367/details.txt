@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1728473435956267367
+Latitude: 36.17869
+Longitude: -86.8087
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+-->Sleep 4 comfortably! 
+-->Less than a 2 miles from downtown!
+-->Private parking for 2x vehicles.
+-->Local and convenient to all that Nashville has to offer!
+-->Self check in with keypad.  
+-->Fully stocked kitchen, living room, and bathroom.
+-->Very fast Wifi, no issues with streaming for work or entertainment.
+
+The space
+-->2 bedrooms and 1 bath located on the 2nd floor.
+-->Each bedroom is fitted with 1 queen bed.
+-->Able to sleep 4 comfortably.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 460950500
+Host Profile URL: https://www.airbnb.com/users/show/460950500
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Auburn University
+My work: Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+122 reviews
+4.9 out of 5 average rating
+4 years of hosting

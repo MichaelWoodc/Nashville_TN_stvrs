@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/39562406
+Latitude: 36.26781
+Longitude: -86.88325
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the guest suite at High Point Farm. A lovely suite with bathroom attached to our 160 year old Farmhouse. Our beautiful 5 acre farm is only 15-20 min from downtown and a 1/4 mile from a scenic park with hiking trails. The cottage has 2 lovely courtyard gardens with benches and tables that are wonderful in the mornings and evenings to relax in. Our suite has beautiful views and has its own outside entrance. LGBTQIA friendly.
+
+The space
+Chip and Joanna have nothing on us. lol. We have supplied the room with functional things without sacrificing the beauty of the space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scott
+Host User ID: 36011881
+Host Profile URL: https://www.airbnb.com/users/show/36011881
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+953 reviews
+4.94 out of 5 average rating
+7 years of hosting

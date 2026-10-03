@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/54015386
+Latitude: 36.34679
+Longitude: -86.58909
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centrally  located yet provides a serene natural retreat setting.
+
+The space
+A comfortable 3 bedroom, 3 bedroom home located on quiet dead end street is only 1 mile from shopping, restaurants, movie theater, park and greenway. 
+Downtown Nashville is just 20 minutes from the house.
+
+Guest access
+Driveway parking available.
+
+Other things to note
+Basement and downstairs garage area not included in Airbnb space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 80278918
+Host Profile URL: https://www.airbnb.com/users/show/80278918
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+60 reviews
+4.92 out of 5 average rating
+5 years of hosting

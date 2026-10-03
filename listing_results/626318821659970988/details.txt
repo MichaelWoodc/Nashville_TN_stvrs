@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/626318821659970988
+Latitude: 36.1822
+Longitude: -86.8056
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Complimentary 🍷. Located just 2 miles from Downtown Nashville this total renovated house, beautifully designed home with a large private backyard comfortably sleeps 6 guests, features all high-end appliances, furnishings, tech, and entertainment! Just minutes away from everything Nashville has to offer our expertly decorated and furnished home is designed to provide you with the best  Nashville experience. Backyard has outdoor fire pit, covered patio and perfect for outdoor entertainment.
+
+The space
+This 100% private, clean,  Traditional cottage offers quick & convenient access to all the city's best dining, tourist stops, nightlife, and conventions. This home is perfect for visitors coming to enjoy a football/soccer/baseball/hockey game, bachelorette/family weekend or business traveler wanting to be in the city. This home has 3 cozy bedrooms furnished with modern furniture throughout the house and private outside entertainment area. Bedrooms have King and full beds equipped with a smart home device that controls lights along with smart Tv's, and Xfinity TV. Full kitchen W/ coffee + snack bar and air fryer.
+
+Guest access
+You'll have access to the entire property.
+
+Other things to note
+Guest will receive a complimentary wine 🍷 for booking a stay at the Little Blue House.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hollis
+Host User ID: 76399407
+Host Profile URL: https://www.airbnb.com/users/show/76399407
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Webster University
+My work: Business Intelligence Developer
+Response rate: 100%
+Responds within an hour
+7 years hosting
+107 reviews
+4.84 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1740797147026584374
+Latitude: 36.322314
+Longitude: -86.706069
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A one-bedroom family suite with a sofa bed and space for everyone, minutes from downtown Nashville. Tour the Hermitage or historic Mansker's Station, then unwind by the seasonal outdoor pool.
+
+The space
+This listing is for a room within a hotel.
+
+✦ Your room  equipped with complimentary toiletries, kitchen with basic amenities, high definition 55-inch TV, available with Standard cable, ensuring cleanliness and comfort throughout your stay.
+
+✦ Cleaning services included in the nightly price.
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 3:00PM to 2:00AM.
+
+✦ Public or shared fitness center open 24/7, available in the property.
+
+✦ Outdoor shared pool available from May 1 to September 30, opened from 10:00AM to 10:00PM.
+
+✦ Free parking lot – 1 space(s).
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Pets are welcome with an additional charge of $25.00 (per night). 2 Cats/Dogs per unit | Up to 75 lbs each
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ The maximum number of days that you may book per reservation is only 28 days.
+
+✦ Early check-in and late check-out are subject to availability for a fee.
+
+✦ Free continental breakfast available daily 6:00 AM to 9:00 AM.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LaQuinta By Wyndham
+Host User ID: 699580001
+Host Profile URL: https://www.airbnb.com/users/show/699580001
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 year hosting
+3243 reviews
+4.36 out of 5 average rating
+1 year of hosting

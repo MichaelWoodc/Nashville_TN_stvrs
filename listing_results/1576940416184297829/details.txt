@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1576940416184297829
+Latitude: 36.1634
+Longitude: -86.7855
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Nashville Reserve
+Host User ID: 734240095
+Host Profile URL: https://www.airbnb.com/users/show/734240095
+Host Profile URL Source: public user permalink from passport userId
+9 months hosting
+181 reviews
+4.72 out of 5 average rating
+9 months of hosting

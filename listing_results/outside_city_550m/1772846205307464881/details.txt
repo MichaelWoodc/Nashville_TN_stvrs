@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1772846205307464881
+Latitude: 36.3227
+Longitude: -87.0524
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience historic charm at Birdsong Lodge, a 4,000 sq ft retreat near Nashville. Nestled on 9 acres along Sycamore Creek, this 5-bed, 4-bath lodge is perfect for groups. Enjoy two king Master Suites, an expansive Great Room, and a full kitchen. Outside, relax by the water features, gather around dual fire pits, or fish in the tranquil creek. Whether you're on the porch swing or exploring the lush grounds, Birdsong Lodge offers the perfect blend of nature and city convenience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Owen Charles
+Host User ID: 46888281
+Host Profile URL: https://www.airbnb.com/users/show/46888281
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 89%
+Responds within an hour
+Superhost
+11 years hosting
+51 reviews
+4.84 out of 5 average rating
+11 years of hosting

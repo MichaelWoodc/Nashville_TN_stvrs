@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/43476623
+Latitude: 36.2898
+Longitude: -86.6007
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Explore Nashville at your own leisure while staying at this chic 2-bed, 1-bath vacation rental in Hendersonville. Situated in a quiet neighborhood, this abode provides guests with a welcoming atmosphere and modern amenities that let you rest and relax as soon as you step in the door after a long day out in Nashville. Just 20 miles from the city center, you can peruse Broadway, see a Titans / Predators game, or catch a show at Grand Ole Opry all before returning home for a tasty home-cooked meal.
+
+The space
+Step-Free Access | Free WiFi | Spacious Backyard
+
+Ideal for a family getaways, groups of friends, or those doing business in the area, this apartment's modern updates and peaceful location is a perfect combination for those wanting to spend days in the city, then escape to some peace and quiet.
+
+Bedroom 1: King Bed | Bedroom 2: 2 Twin Beds | Living Room: Sleeper Sofa
+
+INDOOR LIVING: Modern interior, flat-screen Smart TV w/ cable, natural light, high ceilings, laminate floors, dining table w/ seating for 4 
+KITCHEN: Fully equipped w/ stainless steel appliances, refrigerator, microwave, dishwasher, glass-top stove, oven, dishware & flatware, full knife set, blender, toaster oven, cooking essentials, Keurig coffee maker 
+GENERAL: Complimentary toiletries, linens/towels, central heating, laptop-friendly workspace, iron/board, hairdryer
+OUTDOOR LIVING: Patio w/ sitting area, wicker furniture, bistro table, spacious fenced-in yard
+PARKING: Driveway (2 vehicles), RVs & trailers welcome
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: The Guest Contact lives on-site, in a completely separate unit, and may be present during your stay
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/19018039
+Latitude: 36.17138
+Longitude: -86.79305
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to my professionally decorated modern space! This is a rare single story open layout home just 1.4 miles from Broadway! The house has the perfect number of plantation shuttered windows that let the sun in almost all day long. The back yard is really the focal point of the house with a custom sectional and seating surrounding the large fire bowl. Relax while grilling some grass fed steaks from the Nashville Farmer's Market that is just a block away!
+
+The space
+The location is great! Walk to many of Nashville's top restaurants, Sounds baseball games, the Farmer's Market and downtown. The back yard area is awesome and gets sun half of the day and shade the next half which is great for the summer. I provide a gas grill so you can enjoy some of the great locally sourced meats and vegetables  from the farmers market and our local fish market. If cooking is not your thing, no problem, walk to dozens of Nashville's culinary hot spots!
+
+Guest access
+The entire house and outdoor space. Private gated parking in the back.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 48616111
+Host Profile URL: https://www.airbnb.com/users/show/48616111
+Host Profile URL Source: public user permalink from passport userId
+I'm an experienced host in Nashville. I work from home which allows me to travel often. I love to travel and how Airbnb allows me to experience new places as a local.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+480 reviews
+4.81 out of 5 average rating
+9 years of hosting

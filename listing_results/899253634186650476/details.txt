@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/899253634186650476
+Title: TheWeHoHouse / 1.5 Miles to Broadway!
+Latitude: 36.14241
+Longitude: -86.76525
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This gorgeous home is a 5-star luxury retreat that offers 3,000 square feet of space, uniquely situated in The WeHo neighborhood with incredible rooftop views! Broadway, Music Row, Bridgestone Arena, Nissan Stadium, and Geodis Park are just a short distance away!
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+The WeHo House is a brand new home featuring 4 bedrooms/4 baths on multiple levels with custom-designed bedrooms and multiple indoor and outdoor areas to entertain. Elevated and thoughtful touches throughout including high-end furnishings,  luxurious linens, and a fully stocked kitchen - all the details have been thought of to make your stay as memorable and as comfortable as possible. From the hat wall, and “hey y’all” selfie wall to the outstanding city views from the rooftop patio, The WeHo House has it all. Enjoy a uniquely Nashville experience combined with all the comforts of home. Located in one of the hottest areas in Nashville - Wedgewood Houston aka WeHo, you will find some of the city’s best restaurants, bars, bakeries, and boutiques just steps away. 
+
+BEDROOMS: 
+4 Bedrooms
+
+BATHROOM:
+4 Bathroom 
+
+✔ Enhanced Wifi throughout
+✔ Large open floor plan with 55" 4K Smart TV and plenty of seating
+✔ Gourmet kitchen with top-of-the-line appliances for easy entertaining
+✔ Spacious corner primary suite with huge walk-in closet and luxurious ensuite with shower and stand-alone tub.
+✔ High-quality mattresses and luxurious bed linens 
+✔ Plush towels, soaps & shampoos, hairdryers provided
+✔ Top-of-the-line washer and dryer on-site with detergent provided
+✔ Zoned Heating and AC
+✔ Attached and secure 2-car garage available, plus free street parking
+✔ Custom-coded keyless entry
+✔  Smoke/fire/carbon monoxide detectors, fire extinguishers..and so much more!
+
+Guest access
+You will have access to the entire home. We will send you the access code by website messenger with the entry instructions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elaine
+Host User ID: 513158268
+Host Profile URL: https://www.airbnb.com/users/show/513158268
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: University of British Columbia
+Response rate: 100%
+Responds within a day
+3 years hosting
+79 reviews
+4.92 out of 5 average rating
+3 years of hosting

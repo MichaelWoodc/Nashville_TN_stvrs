@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1752201967597478074
+Latitude: 36.04578
+Longitude: -86.69228
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Have fun with the whole family or friends at this stylish place just outside of Nashville! The newly remodeled kitchen is the perfect place to cook and eat together. Enjoy hanging out in the cozy living room with a large TV or step out onto the patio and relax in the hot tub!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Natalie
+Host User ID: 345626181
+Host Profile URL: https://www.airbnb.com/users/show/345626181
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a day
+1 month hosting

@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/862264855381074422
+Latitude: 36.18917
+Longitude: -86.76178
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming Guest House in Hip Cleveland Park – Walk to Coffee, Breweries & More!
+
+Welcome to your stylish home base in Nashville’s historic Cleveland Park! Just steps (0.2 miles!) from Southern Grist Brewing and All People Coffee, and minutes from the city’s top hot spots:
+✨ 1.5 miles to Five Points
+🎶 2 miles to Nissan Stadium
+🏒 3 miles to Bridgestone Arena
+🎸 4 miles to Broadway Honky Tonks
+ 🚗 5 minutes from Downtown by car/uber
+
+🚗 Easy, free street parking
+♿ No stairs – one-level living!
+
+The space
+Kitchen:
+- Starter roll of paper towels
+- Starter kitchen set of detergent, soap & cleaning supplies
+- K-cups coffee & creamer
+- Starter trash bags
+
+Basic Cooking Needs:
+- Spices: Garlic, Paprika, Onion Powder, Lemon Pepper, Salt, Pepper + more
+- Vegetable Oil
+- Regular sugar + sugar alternative
+
+Bathroom:
+- Starter toilet paper 
+- All in One Essential Oil Body Wash, Shampoo & Conditioner 
+- Towels Provided (including makeup towels)
+
+Linens & Blankets:
+- There is a spare set of sheets in the hutch in the living room. 
+- There are additional quilts and blankets in the bedrooms and Living Room.
+
+Guest access
+Entire Guest House is all yours! Please do not come in the backyard past the black iron fence.
+
+Other things to note
+**DO NOT CLIMB STAIRS TO LOFT**
+
+Plenty of street parking by the Guest House.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lee
+Host User ID: 63611296
+Host Profile URL: https://www.airbnb.com/users/show/63611296
+Host Profile URL Source: public user permalink from passport userId
+My work: Real estate
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+115 reviews
+4.97 out of 5 average rating
+3 years of hosting

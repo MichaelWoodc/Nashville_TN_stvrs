@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1580593450207463210
+Latitude: 36.15615
+Longitude: -86.83424
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville’s Energy from Your Spacious Retreat! Just 10 minutes from Broadway, this home offers the perfect mix of downtown excitement & peaceful comfort. Enjoy a fully equipped kitchen and rooftop access for relaxing or entertaining. With easy $10 Uber/Lyft rides, you’re close to Broadway, Demonbreun, Bridgestone Arena, Nissan Stadium, and live music hotspots. Conveniently located only 11 miles from BNA Airport and 4 miles from Downtown Broadway, your Nashville adventure starts here!
+
+The space
+4 Beds, 3.5 Baths – Perfect for Groups!
+Relax in 1 king and 3 queen beds, with a sofa bed for extra guests. Free parking is included. Cook with ease in the fully equipped kitchen stocked with all essentials. Your ideal home base for exploring all that Nashville has to offer!
+
+> Laundry Facilities: Enjoy the convenience of a washer and dryer within the condo for your laundry needs.
+> Linens and Toiletries: We've got you covered with provided linens, towels, shampoo, conditioner, and soaps.
+> Essentials for Your Stay: Toilet paper, paper towels, trash bags, and dish pods are provided for your stay. Please note that we do not replenish these items during longer stays.
+> Coffee for Your Enjoyment: Coffee grounds are provided for your use. Brew a fresh cup to kickstart
+
+Guest access
+You have access to the entirety of the home!
+
+Other things to note
+Currently the garage of the home is no available for use. We are working on clearing out the garage to make it available to our guest soon!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

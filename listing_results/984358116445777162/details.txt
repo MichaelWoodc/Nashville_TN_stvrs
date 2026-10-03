@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/984358116445777162
+Latitude: 36.2555
+Longitude: -86.77312
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious and contemporary townhouse is situated in the vibrant neighborhood of East Nashville, just a short 10- minute drive from downtown.  With 3-bedroom and 2 &1/2 bathrooms, it offers ample space for comfortable living. The interior features modern finishes and an open-concept layout for both relaxation and entertaining guest.The bedrooms are well sized providing privacy and comfort. This townhouse is ideally located, allowing you to enjoy the convenience of urban living .
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tomaris Santez
+Host User ID: 514209702
+Host Profile URL: https://www.airbnb.com/users/show/514209702
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+My work: MasterBarber
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+58 reviews
+4.78 out of 5 average rating
+3 years of hosting

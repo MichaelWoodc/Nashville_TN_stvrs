@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/950682912004007203
+Latitude: 36.15747672051125
+Longitude: -86.76584606213
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious downtown brand new Nashville 2 Bedroom -2 Bath Top Floor Corner Condo unit looking into the river and city!  Enjoy fantastic views from this corner unt and plenty of room to spread out! If this unit isn't available, we have multiple units in the building if you look up Forte Vacations. 
+Condo features open floor plan with upscale furnishings, granite counter tops and stainless steel appliances.  Fantastic City and River views from this  top floor corner unit.
+
+Guest access
+Access instructions are sent 1  weeks before arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kurt
+Host User ID: 24241984
+Host Profile URL: https://www.airbnb.com/users/show/24241984
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner Forte Vacations
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+2972 reviews
+4.78 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1589693064999129479
+Latitude: 36.22021152663681
+Longitude: -86.72094083221496
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+UNBEATABLE LOCATION!
+Modern home for families and couples.
+Our home is situated in the heart of East Nashville, just a short drive from the vibrant city center. Venture out to nearby historical sites, explore the local restaurants, bars and lively nightlife, all within easy reach of our property.
+Whether you’re seeking a romantic getaway, a family vacation, or a luxurious retreat with friends, our home offers the perfect blend of comfort, style, and beauty. 
+
+NO PARTIES 
+QUIET HOUR FROM 9pm- 9am
+
+The space
+Venture into the fully equipped kitchen, where you can channel your inner chef and craft culinary masterpieces using the finest local ingredients. When it’s time to unwind, retreat to the serene sanctuary of your bedroom, where plush bedding and soothing lighting will lull you into a restful slumber.
+
+Parking: There is ample space available right in front of the house, with enough room to accommodate 2 to 3 cars comfortably.
+
+Amenities: Inside the house, you will find towels, extra pillows, and blankets conveniently located in the closets of each room, ensuring your stay is as comfortable as possible.
+
+Guest access
+The guest will have full access to the entire home, including the fenced backyard.
+
+Other things to note
+* For the safety and security of our guests and property, please be advised that exterior security cameras are in use. 
+Ring doorbell at front door and camera over the back patio.
+* These cameras do not monitor any interior spaces.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sofia
+Host User ID: 450137897
+Host Profile URL: https://www.airbnb.com/users/show/450137897
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Speaks English, Spanish, and Italian
+Response rate: 100%
+Responds within an hour
+Superhost
+8 months hosting
+91 reviews
+4.96 out of 5 average rating
+8 months of hosting

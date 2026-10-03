@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/53765339
+Latitude: 36.17135
+Longitude: -86.81537
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful home in an up and coming neighborhood, less than two miles from the heart of downtown! Less than 10 minute drive to all the main attractions! Full kitchen with cooking utensils. Equipped with Washer and dryer, high-speed fiber optic Wifi, and outdoor grill and fireplace.
+
+Guest access
+Guests can access the home bus a smart keypad. Plenty of parking in driveway and on the curb; can park about 6 cars.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ethan
+Host User ID: 113274851
+Host Profile URL: https://www.airbnb.com/users/show/113274851
+Host Profile URL Source: public user permalink from passport userId
+I love music, arts, and culture. I travel as often as I can!
+My work: Whole Foods Market
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+226 reviews
+4.82 out of 5 average rating
+5 years of hosting

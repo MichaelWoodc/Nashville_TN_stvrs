@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/27450078
+Latitude: 36.21919
+Longitude: -86.70685
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"Hunt House Dockside" on the Banks of the Cumberland River in Nashville, the perfect place to gather Family and Friends for your Nashville Vacation or a quick weekend getaway.  Our Riverfront Home is Cozy and comfortable with covered porches and decks-all the comforts of home. Conveniently located just minutes from Downtown Nashville and BNA. The Grand Ole Opry and Opry Mills all in walking distance.
+
+The space
+Our back yard is a refuge for all. Hot Tub and Boat Dock with water access for Kayaks, and Fishing.
+
+Guest access
+The Main House is all yours with Front and Back Deck access as well as back yard and River- Dock access. Our Home has 3 Levels with 2 Private Living spaces. Our guest space is the Main House which includes 1st floor, 2nd floor and lower level. Our Living Quarters and private entrance when in town is the side door at the opposite end of the Front Porch-completely separate.
+
+Other things to note
+Our Home has 3 Levels with 2 Private Living spaces: 
+1. Our Guest space is the Main House, entry through the Front Door (stained glass). This includes 1st floor and 2nd floor and lower level.
+2. Our Living Quarters has a private entrance off the far side of the Front Porch (side door).
+3. We live full-time on the property unless we are away traveling.  We are available to our guests 24/7.  Our hope is you will feel the same comforts of our Home as we do. It is a blessing to share our home!
+
+Registration Details
+2018056013
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tambra
+Host User ID: 40638300
+Host Profile URL: https://www.airbnb.com/users/show/40638300
+Host Profile URL Source: public user permalink from passport userId
+Hello neighbors! We are Tammy and Gary Hunt both “Born & Raised" in Nashville Tennessee and this is Hunt House. I am a Real Estate Broker and Gary is a Consulting Engineer. Our Home on the river is in the middle of everything we love about Nashville. If you are looking to make Nashville your home or would like to invest I can help.
+Born in the 60s
+My work: Tammy Hunt, Broker
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+125 reviews
+4.98 out of 5 average rating
+10 years of hosting

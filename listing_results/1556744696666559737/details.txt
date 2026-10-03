@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1556744696666559737
+Latitude: 36.041
+Longitude: -86.6902
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish stay at this centrally located one-bedroom apartment at The Maxwell in Nashville. This modern second-floor home offers a bright open layout, comfortable furnishings, and a full kitchen for easy meals and relaxation. The bedroom provides a cozy retreat with soft linens and ample storage, while high-speed Wi-Fi, a smart TV, and in-unit laundry make longer stays simple and convenient. This inviting apartment offers a comfortable home base for both work and leisure.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jill
+Host User ID: 403357738
+Host Profile URL: https://www.airbnb.com/users/show/403357738
+Host Profile URL Source: public user permalink from passport userId
+I’m a entrepreneur who loves to travel when I am not working!
+My work: Luxury Corporate Lodging
+I spend too much time: Working
+Response rate: 100%
+Responds within an hour
+5 years hosting
+268 reviews
+4.72 out of 5 average rating
+5 years of hosting

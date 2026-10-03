@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/37682465
+Latitude: 36.06353
+Longitude: -86.71239
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private-entrance guest suite just steps away from your free driveway parking space. Tucked in a neighborhood with low traffic, and conveniently located close to the airport. This comfortable suite offers easy access to all neighborhoods and popular Nashville tourist destinations. Perfect if you are passing through Nashville or want a quiet place to come back to after a night on the town. 
+
+This guest suite is fully permitted by the city of Nashville: STRP2019followedby057886
+
+The space
+The suite offers a private, separate entrance with a private bedroom and private bath.  A comfortable sitting area and coffee table gives you space to spread out and relax. There is a laptop-ready desk and excellent wifi connectivity. This room is part of my home and I live here. I kindly ask that guests are respectful of quite hours: 10:00pm - 8:00am and do not abuse the space.
+
+This is a no pet and no smoking place. Guests who violate this will be charged a $100 additional cleaning fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 41213221
+Host Profile URL: https://www.airbnb.com/users/show/41213221
+Host Profile URL Source: public user permalink from passport userId
+I am a Tennessee native who loves chocolate and traveling.  When I'm not out photographing a World Heritage Site I'm probably planning my next trip or making delicious chocolate bon bons.
+Where I went to school: University of Georgia, Ecole chocolat
+My work: Small business owner
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+559 reviews
+4.93 out of 5 average rating
+7 years of hosting

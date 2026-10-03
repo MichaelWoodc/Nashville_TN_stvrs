@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1601000886956380463
+Latitude: 36.14205
+Longitude: -86.82084
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your spacious top-floor Nashville retreat. This 1,625 sq ft, single-level 3BR/3BA condo comfortably sleeps 8 and is ideal for families and groups. Enjoy a large living area, dedicated office with doors, high ceilings, private covered patio, elevator access, and secure indoor garage parking. Minutes from Vanderbilt, Belmont, 12 South, and Broadway—roomy, comfortable, and perfectly located.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristin
+Host User ID: 545497351
+Host Profile URL: https://www.airbnb.com/users/show/545497351
+Host Profile URL Source: public user permalink from passport userId
+Lives in Houston, Texas
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+253 reviews
+4.96 out of 5 average rating
+3 years of hosting

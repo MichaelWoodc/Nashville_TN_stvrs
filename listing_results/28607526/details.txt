@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/28607526
+Latitude: 36.21544
+Longitude: -86.85537
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 4
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The BIG Comfy-Cozy is one (1) large ROOM with spacious seating that includes an eating area and a place to relax during your stay in Nashville. This ROOM is perfect for a family of four (4). It is located on the west end of the home with a private entrance AND bathroom. 
+
+The BIG comfy-cozy is just 7 miles from downtown Nashville and 18 minutes from BNA airport.
+
+This is a NO SMOKING/VAPING property.
+
+Metro Government Permit #2019010743
+
+The space
+Prepare to relax in 500 sq. ft. of space after a long day of travel or sightseeing. Stretch out on the sofa or relax on the daybed and enjoy a book, watch a movie or play a game.
+
+THE SPACE: The room includes a queen Murphy bed, a twin daybed/trundle and a queen sofa sleeper. Towels, blankets, and extra linens are provided. The laundry facility (a shared space), is available for your reasonable use at an additional cost.
+
+Guest access
+Our yard and driveway are shared spaces. The BIG Comfy-Cozy suite and dedicated bathroom are private and only for our guests. As hosts, we do not use the shared spaces without proper notice.
+
+During your stay
+We are just a phone call, text or knock away, ready to answer any questions about your stay in Nashville or to provide you with essentials for your room.
+
+Other things to note
+This property is under surveillance. Cameras are located on the outside back entrance and inside the MAIN house. There are NO cameras in the private suite, hallway or bathroom.  The basement door is monitored by our security system and should not be opened, except in an emergency.
+
+We have two outdoor cats that are super friendly and generally like attention. Do not allow our cats to enter the private suite.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diane
+Host User ID: 215906150
+Host Profile URL: https://www.airbnb.com/users/show/215906150
+Host Profile URL Source: public user permalink from passport userId
+After years of working in a variety of jobs, I finally found something that I really enjoy: hosting. Hospitality and culinary arts are my passions. I hope you feel the love and care that we have put into our home. Enjoy your stay.
+Born in the 60s
+My work: Caregiver
+I spend too much time: Working crossword puzzles
+What makes my home unique: It's Brian's childhood home.
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+277 reviews
+4.94 out of 5 average rating
+7 years of hosting

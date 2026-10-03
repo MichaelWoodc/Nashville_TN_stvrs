@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/847017524286533583
+Latitude: 36.35852
+Longitude: -86.46724
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located just 30 minutes north of Nashville, we offer the perfect balance of peaceful suburban living and easy access to the vibrant city life. Located in a quiet neighborhood by the lake, our property offers all the modern amenities you need for a comfortable stay. Plenty of driveway space for boat parking. With a fully equipped kitchen, and cozy bedrooms, you will feel right at home from the moment you arrive. Fiber internet and smart TVs in all rooms. Cable included. Easy access to boat ramps.
+
+The space
+Renovated from head to toe! Smart TVs available in every room with access to all streaming services and YouTube TV with 100+channels. High speed fiber internet is also available.
+
+Both bedrooms have queen beds with all linens provided. The living room has a queen sleeper sofa that also have provided linens and pillows.
+
+Bathrooms are fully renovated. Soaps and shampoos provided. Towels and makeup towels also provided.
+
+Guest access
+You will have access to the entire unit.
+
+Other things to note
+Plenty of room for multiple vehicles and boat parking. 1 mile to nearest boat ramp! Only 30 minutes away from Nashville. This is centrally located in Gallatin, TN with easy access to many restaurants and things to do. 
+
+Grocery Stores:
+1.8 miles to Walmart
+1.7 miles to Kroger
+1.7 miles to Publix
+
+This is a duplex, so an additional unit can be booked if available. This would sleep a total of 12 guests. 4 bedrooms, 2 bathrooms, 6 beds.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Austin
+Host User ID: 470626454
+Host Profile URL: https://www.airbnb.com/users/show/470626454
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Tennessee at Knoxville
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+142 reviews
+4.95 out of 5 average rating
+4 years of hosting

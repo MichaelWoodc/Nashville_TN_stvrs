@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/40184141
+Latitude: 36.2072
+Longitude: -86.7664
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A 3-story townhouse that is authentically Nashville! Just minutes from the downtown action WITHOUT the downtown prices. Guests can capture a post worthy photo in front of the professionally painted mural by Rachyl Degman (from the reality show Music City) or explore East Nashville’s vibrant hotspots. Live With Legends promises convenience, cleanliness, and comfort. We’re committed to making your stay as exciting and unforgettable as Broadway’s iconic tunes!
+
+The space
+Guests have exclusive use of the entire townhouse. Downstairs hosts the mural as well as the living area, dining area and kitchen. The sofa folds out into a queen bed. Keeping it old school, there is a guitar, record player, and board games for your enjoyment. The middle floor is the “Poster Room”- 3 beds (1 king, 1 full and 1 single) and a huge full bath (with tub) and two sinks. The top floor bedroom is called the “Record Room”, with a private king bed and full bath. Also on the top floor is an office and bar space with mini fridge and ice maker, as well as an outdoor balcony. All levels have TVs with application access. Finally, we offer fast AT&T fiber Wifi for your enjoyment.
+
+Guest access
+Guest will have access to the entire townhouse exclusively. There is parking directing in front of the home as well as access to the back grassy area for enjoyment when the weather is nice!
+
+Other things to note
+Please note this townhouse is 3 stories and requires walking up stairs to access the second and third floors.
+
+Extra cleaning charge for excessive trash and/or confetti.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bradley
+Host User ID: 310337637
+Host Profile URL: https://www.airbnb.com/users/show/310337637
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Pilot
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+286 reviews
+4.94 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/51378876
+Latitude: 36.13838
+Longitude: -86.70073
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ Luxury King Suite | Private Garage
+
+Sleep in comfort, enjoy your privacy, and stay close to the best of Nashville!
+
+Welcome to your beautifully appointed luxury king bed suite, thoughtfully designed for a relaxing and convenient stay. Enjoy a new, exceptionally comfortable memory foam mattress, perfect for recharging after a day of exploring Nashville.
+
+The private suites feature attached bathrooms; a spacious walk-in shower; the private attached two-car garage makes parking safe &convenient.
+
+The space
+Great high quality three-story building with everything new. Plenty of coffee to start your day. The king bed suite and double queen suite are on the third floor with private laundry room at hallway. The third bedroom is on the first floor. Living room, kitchen, and porch are on the second floor. New queen size sofa sleeper and air mattress are in living room area. Extra beddings are available for sofa and air mattress beds upon request. Additional fee will be added ($40 each). The half bathroom is on the second floor.
+
+Guest access
+Two car garage at first floor. Additional parking space is available along the subdivision entrance lane.
+
+Other things to note
+The refrigerator/filter are new and ice/water are consumable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 202435770
+Host Profile URL: https://www.airbnb.com/users/show/202435770
+Host Profile URL Source: public user permalink from passport userId
+Professional engineer like traveling with family.  Live in Nashville since 1999.
+Born in the 60s
+Where I went to school: Rose-Hulman Institute of Technology
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+612 reviews
+4.91 out of 5 average rating
+7 years of hosting

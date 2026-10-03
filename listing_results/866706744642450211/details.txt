@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/866706744642450211
+Latitude: 36.1737
+Longitude: -86.7807
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stunning condo in Nashville is the perfect home base for couples and small groups exploring Music City. Take the short walk along the river to Downtown (Broadway) or soak up the sun with friends at the pool (we've got the pool towels waiting!). This cozy condo is perfect for the whole family. Have a night in with our board games and library shelf, or take it outside and enjoy the fire pit, grill and pool. 
+
+Walk to it all!
+0.3 mi to Germantown
+0.9mi to Broadway
+1.2mi to Nissan Stadium
+
+The space
+This ground-level, two-bedroom condo features a king-size bed in each of the 2 bedrooms. In addition to the two bedrooms, a pull out couch is available for additional guests. Two full bathrooms and stand up mirrors in each bedroom ensures getting ready is a breeze!
+
+KEY FEATURES 
+★Sleeps 6; 2 bedrooms, 2 Kings, 1 Pull out couch
+★2 Full Bathrooms; 1 En-suite with combo shower/tub + 1 Stand up shower
+★Well equipped kitchen & dining table seating for 5 + barstool counter-top seating for 2
+★Pool (Pool towels provided!)
+★Gym
+★Fire Pit
+★Grill (Propane)
+★Record Player
+★Take-a-Book / Leave-a-Book Library
+★Board Games
+★Coffee
+
+Guest access
+You will receive check in instructions and your smart-lock code 24 hours before your stay. This code is unique to your stay and is only active during your reservation dates/times.
+
+Registration Details
+2023026153
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cathleen
+Host User ID: 509448017
+Host Profile URL: https://www.airbnb.com/users/show/509448017
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+153 reviews
+4.93 out of 5 average rating
+3 years of hosting

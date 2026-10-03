@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/8608294
+Latitude: 36.20013
+Longitude: -86.76776
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 18
+occupancy: 14
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+ew construction 4 bedroom 3 full bath house with double porches offering amazing views.
+
+The space
+Bed Layout: 
+Master Bedroom:  King Bed (2) and Twin Day bed with Twin Trundle (2)
+Upstairs Bedroom 2:  King Bed (2)
+Upstairs Bedroom 3:  Full Bunk Beds (4) and Twin Bunk Beds (2)
+Downstairs Bedroom 4:  King Bed (2)
+Upstairs Bonus Room:  Queen Sleep Sectional (2)
+Downstairs Living Room:  2 Queen Sleeper Sofas (4)
+
+Guest access
+Electronic Schlage Locks allow you to access the house easily.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 648993
+Host Profile URL: https://www.airbnb.com/users/show/648993
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+15 years hosting
+122 reviews
+4.96 out of 5 average rating
+15 years of hosting

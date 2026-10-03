@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/687774558700606169
+Latitude: 35.99014
+Longitude: -86.56395
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful home that your group will love with up to 4 vehicles. Located in a quiet neighborhood close to the lake, park, shopping, food, highway, and 20 minutes from downtown Nashville. Come and enjoy the city and come back for a great night's sleep. 
+
+This place HAS A GUEST HOUSE on the side of the property that is a COMPLETELY SEPARATE SPACE, you will only be sharing the parking with one other vehicle.
+
+The space
+The cozy house that features a beautiful private patio, integrated kitchen and living room, 2.5 bathrooms, parking for up to 4 vehicles; next to the property is our guest house, separated by a line of trees
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nersy
+Host User ID: 86209213
+Host Profile URL: https://www.airbnb.com/users/show/86209213
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+223 reviews
+4.74 out of 5 average rating
+4 years of hosting

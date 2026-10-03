@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/874507859496008368
+Latitude: 36.4037
+Longitude: -86.7747
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Greenbrier, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Reconnect with the simple things in life at this unforgettable location.  Stay in our 1964 travel trailer, Betty-Lou.  She’s a fully enclosed home away from home.   
+There’s lots of space to lounge outdoors in a hammock or in front of the fire pit. You will be close to Nashville but away from all the traffic and noise.  
+
+Betty-Lou is famous.  She has been used in videos, including “Ashes” by Bailey Zimmerman
+
+The space
+Betty-Lou is a 1964 Holiday Rambler.  She is fully equipped with a bathroom, shower, sink, stove, oven, fridge, microwave, queen size bed and dining area.  Both heat and air conditioning.    
+Outside you have access to a fire pit, hammocks, and a fabulous deck for lounging.  
+Not shown- there is an awning covered deck with a picnic table at the entrance to the RV. Great for morning coffee and taking your meals outdoors.
+
+Guest access
+Guests have access to the front and back yards, including the lower part of our two level deck.
+
+Other things to note
+We have two dogs on the property.
+You must check in on the first day before 9 pm.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kirsten
+Host User ID: 11374
+Host Profile URL: https://www.airbnb.com/users/show/11374
+Host Profile URL Source: public user permalink from passport userId
+Originally from New York, I moved to Maine 20+ years ago.  In 2021 I moved with my partner, Perry,  to North of Nashville.” I work as a psychologist with members of our military.  I am also the parent to the most amazing grown kids and human to two adorable dogs.  My Partner, Perry, is my best friend.  I enjoy taking advantage of all the adventures that the world has to offer. I have made some amazing memories away from home.
+Born in the 60s
+My work: It’s complicated
+Response rate: 100%
+Responds within an hour
+11 years hosting
+29 reviews
+4.89 out of 5 average rating
+11 years of hosting

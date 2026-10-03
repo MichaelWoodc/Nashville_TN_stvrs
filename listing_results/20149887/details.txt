@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/20149887
+Latitude: 36.16088
+Longitude: -86.85136
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a 2BR/1.5 bath and minutes to downtown and Vandy. You should find everything you need to feel at home. The kitchen is fully stocked with everything you should need to cook, and the screened in front porch is great for relaxing with a drink. We have lots of mirrors for getting ready to hit the town. There is also a Dollar General, bars, restaurants, and a liquor store two blocks away. Trader Joes and Kroger less than 2 miles away.
+
+The space
+The Nations is one of the fastest growing neighborhoods and close to everything Nashville has to offer. You will have 100% private access to my home. For sleeping arrangements the downstairs bedroom has a king size bed, the second bedroom has one king beds and one queen bed, and there is a queen sized sleeper sofa in the living room. There is a screened in front porch for relaxing and enjoying your morning coffee and a back yard with a deck if you want privacy outside. There is a Dollar General, liquor store, coffee shop(Frothy Monkey), multiple bars and restaurants, and a market two blocks away.  There are mirrors in every room to give you plenty of room for getting ready to hit the town. Uber and Lyft are usually only minutes away and a great option for getting around. It has parking for 5 to 6 cars. Please be respectful of my neighbors it is a residential neighborhood. 
+
+The kitchen has everything you will need for your stay. It is stocked with dishes, glassware, cookware, silverware, and updated appliances, There is also coffeemaker (coffee provided) and toaster. Though there are several restaurants less than 4 blocks away (House, Nicky’s Coal Fired Pizza, Centennial Bar and grill, Centennial Café, and 51st Kitchen just to name a few). A few blocks away there is Hattie B's Hot Chicken, Coco's Italian, Wendells, Eos and the Hive, Baha Taco, and Fat Bottom Brewery.
+
+The downstairs bedroom has 9 foot ceilings, a king size bed with a HD flat screen TV.
+
+There is a dining room with hardwood floors, 9 foot ceilings, a desk, and a dining room table with 4 chairs.
+
+The second bedroom has one king bed, one queen bed, a sitting area,  a makeup station, and a 1/2 bath.
+
+The bathroom has a shower/tub combination and the washer and dryer. I provide sheets, towels, toilet paper, shampoo, conditioner, body wash, and laundry detergent.
+
+Guest access
+You have access to the entire house except the closet in the dining room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 65052321
+Host Profile URL: https://www.airbnb.com/users/show/65052321
+Host Profile URL Source: public user permalink from passport userId
+I like to spend my time traveling and with my family. I love my city and explore it every chance I get.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+100 reviews
+4.91 out of 5 average rating
+9 years of hosting

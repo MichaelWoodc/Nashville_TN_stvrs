@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/40000609
+Latitude: 36.40767
+Longitude: -86.80842
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Greenbrier, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Stock Barn is located in the center of a perfectly manicured Tennessee Century Farm, just 25 minutes north of Nashville.  This space features all of the conveniences that you would expect in a modern home, with the rustic feel that dates back to the original construction date of 1900.  The Stock Barn is now a weekend getaway nestled on the farm just north of all that Nashville has to offer.
+
+Other things to note
+**No service or emotional support animals
+**No WiFi but great cell service
+**No cookware or utensils provided
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 308464505
+Host Profile URL: https://www.airbnb.com/users/show/308464505
+Host Profile URL Source: public user permalink from passport userId
+Lives in Greenbrier, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+211 reviews
+4.89 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/618073813478279213
+Latitude: 36.15972
+Longitude: -86.81964
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home away from home! Close to Vanderbilt and a 5 min Uber from all of Nashville’s best shops, restaurants, and bars on Broadway, Midtown, the Gulch, 12th South, and Germantown.
+
+This brand-new, luxury 4 bedroom/3.5 bath home boasts a private 3rd-floor deck with views of the city skyline, 6 super-comfy Queen and King beds, and exquisite modern decor.
+
+Our sole focus is on creating the best guest experience and making sure you are comfortable in our space!
+
+See you soon!
+
+The space
+The House’s Highlights:
+
+1 st Floor:
+Upon entering, you’ll find an open kitchen outfitted with brand new appliances and everything you need to prepare homemade breakfast, lunch, or dinner for your group.
+
+The kitchen opens up to a breakfast nook and spacious living room, which includes a super comfy couch, loungy chairs, and a huge 75-inch television for all your entertainment needs.
+
+2 nd Floor:
+The master bedroom boasts a King-size bed and a huge walk-in bathroom complete with a 3-
+head shower—perfect for relaxing after a long day at work or night on the town.  Just down the hall, the gracious 1st guest bedroom has a queen bed and its own full bath.
+
+3rd Floor:
+Take the stairs to the third floor, where you’ll find the 3rd and 4th bedrooms AND another full kitchen, living room, and washer and dryer set. 
+
+The 3rd bedroom has a Queen bed with a pull-out couch, while the 4th bedroom also has a Queen bed.
+
+Outdoor Deck:
+
+Saunter out to the deck to enjoy the sights and sounds of downtown Music City from above.  Ample seating and amazing ambiance make this the perfect perch for settling in solo or with friends and your beverage(s) of choice.
+
+Guest access
+Uber and Lyft are super accessible. For guests with cars, there is a two-car garage available for off-street parking, as well as plenty of free street parking.
+
+Guest access
+Full access to the entire house.
+
+Other things to note
+Our sole focus is on creating the best guest experience and making sure you are comfortable in
+our space. 
+
+This means blazing-fast Wi-Fi and all the other “small” details that add up to a 5-star stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 1391186
+Host Profile URL: https://www.airbnb.com/users/show/1391186
+Host Profile URL Source: public user permalink from passport userId
+I am originally from the the Washington, DC area and love Nashville!  Unfortunately, I have to travel for business a lot and therefore I enjoy sharing the experience of my Nashville home with the AirBnB community.
+Fun fact: I have traveled to over 60 countries
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+224 reviews
+4.89 out of 5 average rating
+15 years of hosting

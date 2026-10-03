@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/48155750
+Latitude: 36.11832
+Longitude: -86.9279
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful country like setting just 10 minutes from downtown, less than 2 miles off I 40. This spacious 2 bedroom basement apartment has a private entrance, sound proof (unequipped but wired) recording studio, on site parking, wi-fi, full functioning kitchen, bathroom, DirecTV & use of a washer & dryer included. Enjoy your morning coffee on your private deck.  Located in West Nashville off Old Hickory Blvd.
+We live upstairs with our small dog & 2 cats.
+
+The space
+The apartment is 1750 square feet. Private entrance down the path off the parking pad. The apartment has a sound proof music studio that is wired but not equipped and doubles as a dining room and private work space. Washer and dryer included along with detergent.  The studio can be rented out for band / instrument practice. The studio has decorative guitars. Please do not take them off the wall and/or play them. 
+
+As this is a basement, there are steps that lead up to our living area however, we do not enter the apartment while you are staying with us without your permission.
+
+Guest access
+The entire basement apartment is yours to use. You will be given a code to use to enter the apartment during your stay. While we do not mind if you have guests over to visit, no guest may stay all night if not on the reservation. We would also like to be notified if possible if you have guests visiting for more than an hour.
+
+We do have a utility/storage room off of one of the bedrooms which is where the washer & dryer are located. The washer & dryer are for guest use. We provide laundry detergent. We can access this area without going through the apartment. However if we need to access it, we will not do so without your permission first.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Denise
+Host User ID: 388403962
+Host Profile URL: https://www.airbnb.com/users/show/388403962
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+165 reviews
+4.89 out of 5 average rating
+6 years of hosting

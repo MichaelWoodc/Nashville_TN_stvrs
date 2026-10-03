@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/30975877
+Latitude: 36.16973
+Longitude: -86.79572
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern Luxuriously appointed downtown haven. Come and get spoiled. Small breeds of dogs are welcome.Fully fenced in yard. Private driveway. Full amenities. At the end of the evening slide into some of the softest fluffiest towels and sheets you have ever experienced. Relax around the bbq before heading out for the evening.
+
+The space
+Located in downtown Nashville but far enough away from all the craziness to make for a quiet nights rest.Everything : Honky tonks,Professional sports , museums , state parks , golf , nightlife, restaurants and the trendy neighborhoods are all within easy reach. The neighborhood is safe and quiet.
+
+Guest access
+Entire home is at your disposal . Private driveway and street parking.
+
+Other things to note
+Pets of 25 pounds and under are welcome. A nonrefundable deposit is required.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ron
+Host User ID: 225787246
+Host Profile URL: https://www.airbnb.com/users/show/225787246
+Host Profile URL Source: public user permalink from passport userId
+I am  retired
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+65 reviews
+4.82 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/53508179
+Latitude: 36.11943
+Longitude: -86.76911
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of one of Nashville's hottest areas known as "Music Hill". No detail spared in this BRAND NEW 4 bedroom/3.5  bathroom designer home that has been thoughtfully curated for a luxury guest experience.  Each Bedroom has a Plush King size bed.  Minutes to Downtown Broadway, The Gulch, and walkable to Melrose and Berry Hill attractions, this is an AMAZING LOCATION regardless of what you've come to town for.
+
+STRP#2025-12-01-691
+
+The space
+This is a three level townhome with rooftop deck.  The first level includes the attached garage, kitchen, dining, and living room. On the second level you have the primary bedroom with ensuite bath, laundry room, and another bedroom with ensuite bath.  The third level includes the bonus room and rooftop patio with fireplace, as well as two additional bedrooms and a hall bath.  All bedrooms have king size beds. 
+
+Credit Card Processing Fees are non-refundable.
+
+Guest access
+Guests have access to the entire private home and attached two car garage that can fit two small or mid-size vehicles.  One additional dedicated parking space is available behind the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura & The Music City Collection
+Host User ID: 69852847
+Host Profile URL: https://www.airbnb.com/users/show/69852847
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3263 reviews
+4.88 out of 5 average rating
+10 years of hosting

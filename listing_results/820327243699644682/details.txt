@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/820327243699644682
+Title: Modern Minimalist Hideaway
+Latitude: 36.2693
+Longitude: -86.7081
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Madison, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back and relax in this calm, stylish space. This thoughtfully curated private room can be your home away from home. The room features its own private entrance right off of the front porch. There is also a private bathroom right outside of the room. The room and bathroom are separated from the rest of the house by a barn door. You will have complete privacy during your stay.
+
+The space
+A private bedroom and bathroom separated from the rest of the house by a sliding barn door. There is a mini fridge, microwave, and a pour over coffee set up. Full bathroom with shower and a bathtub. The space is designed to give you privacy and comfortability. The additional rooms of the house will be locked and unavailable for use, however, no other guests will be present during your stay. 
+
+There is not a thermostat in your room, it is central heating and air that is connected to the rest of the house. I want you to be comfortable so please do not hesitate to shoot me a message if you are hot or cold. I don't mind adjusting at all, and want you to be comfortable during your stay. 
+
+The TV is a smart tv. You will have the ability to sign in as a guest using any of your personal logins.
+
+Guest access
+The entrance to your private bedroom and bathroom is located to the left of the main front door. It is a key code entry. The bedroom and bathroom are separated from the rest of the house by a barn door.  
+You are welcome to enjoy the front porch, however the backyard is not available to guests. 
+
+Note: the door handle locks form the inside and you will not have a key to re enter. Please make sure that the bottom lock is set to the "unlocked" position when you leave. The deadbolt is set to auto lock, but please make sure that the door is securely closed.
+
+Note: The barn door acts as a divider wall between your space and the rest of the house. It is not meant to be opened. There is a security camera on the other side of the door.
+
+Other things to note
+Please feel free to park under the carport, and be  mindful when backing out to avoid running over the stones and into the ditch. 
+
+*there is a camera located to the right of the steps on the front porch. It will monitor coming and going, it is set to record for seconds when there is motion.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kimberly
+Host User ID: 14469479
+Host Profile URL: https://www.airbnb.com/users/show/14469479
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Esthetician
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+252 reviews
+4.96 out of 5 average rating
+3 years of hosting

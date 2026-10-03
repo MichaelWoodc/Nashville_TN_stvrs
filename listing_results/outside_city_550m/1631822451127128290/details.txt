@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1631822451127128290
+Latitude: 36.0107
+Longitude: -86.5821
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a relaxing stay in this spacious private home, perfect for families, groups, or business travelers visiting Nashville.
+
+Private entrance and comfortable living space designed for privacy.
+
+Featuring 4 bedrooms, 2 master suites, 3 full bathrooms, and 5 comfortable beds, ideal for families and groups.
+
+Includes a bright living room, fully equipped kitchen, fast Wi-Fi, and everything needed for a comfortable stay just 20 minutes from Downtown Nashville, away from city traffic and noise.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hany
+Host User ID: 540587370
+Host Profile URL: https://www.airbnb.com/users/show/540587370
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+6 months hosting
+32 reviews
+4.69 out of 5 average rating
+6 months of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1598938345802676746
+Latitude: 36.04374305152437
+Longitude: -86.96146266045854
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My space is an eclectic artistic escape from the city. Right on the edge of Nashville, we're 3 minutes from Loveless Cafe & only 24 minutes to downtown
+
+I have a dog and a cat in the house, and we would love to share our peaceful home with you. My land is a certified wildlife habitat, so depending on the time of year you'll see bunnies, birds, butterflies & more
+
+Your room has a comfortable queen sized bed, lots of storage & large window with blackout curtains. Shared bathroom is down the hall
+
+The space
+This cottage house built in the 60's was fully renovated by a very artistic and creative couple. It has a very unique and magical style, from the hand painted gold and glitter wall to the fairy eyes on the ceiling to my collection of art and plants lining the walls there's a surprise everywhere you look. There's a spacious common room with vaulted ceilings where the livingroom, kitchen, and dining area are all open to each other. Guests are welcome and encouraged to use all of these spaces. The kitchen is well stocked with multiple small appliances, a full dry bar setup with an assortment of glassware, and an abundance of coffee mugs and dishes.
+
+Within a 5 minute drive and 15 minute walk from the house you'll find almost anything you could need. Two grocery stores, Kroger and Publix. Multiple restaurants and bars of different styles like The Corner Pub, Fortuna Italian Steakhouse, Cafe 100, Las Palmas, and more. Plus a handful of fast food places. There's even a YMCA, an outdoor roller skate rink, and Ace Hardware. A Massage Envy and multiple nail and hair salons for some pampering time. Even though we're technically in the suburbs, my immediate area is very walkable!
+
+Within a 10 minute drive you can get to the Warner Parks one of the largest parks in the city with over 3,000 acres of forests and fields containing paved walking paths and unpaved hiking trails of varied lengths and difficulties. 10 minutes is a different direction will get you to One Bellevue Place open air shopping mall with has most of the major chain stores, a multitude of restaurants, and a nice AMC theater.
+
+During your stay
+Happy to chat or give you space.
+
+Other things to note
+Please make sure you understand you are renting only one room in the house. The bathroom and all other spaces are shared with myself and occasionally other renters from the second room. No one from your group may sleep on the couch or in shared spaces.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christy
+Host User ID: 160748086
+Host Profile URL: https://www.airbnb.com/users/show/160748086
+Host Profile URL Source: public user permalink from passport userId
+I work from home in software, but have a very active life otherwise. I love to be outside, hiking, camping, paddling, climbing, etc. And I have extra gear for all of the above if you'd ever want to join. Me and my home are an lgbtqia+ safe space, please do not book if you can't respect that.
+My work: Software Engineer
+Lives in Nashville, Tennessee
+For guests, I always: Offer basic toiletries & coffee and tea
+Pets: Mini Australian Shepherd & a black cat
+Response rate: 100%
+Responds within a few hours
+1 year hosting
+77 reviews
+4.94 out of 5 average rating
+1 year of hosting

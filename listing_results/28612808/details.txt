@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/28612808
+Latitude: 36.16255
+Longitude: -86.77496
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Entering the 2 Bedroom QQ Suite w/ Sofa  step into a modern, two-bedroom 600 sq. ft suite that sleeps up to 6 guests with an en-suite full kitchen and living room.  The 2 Bedroom QQ Suite w/ Sofa is perfect for bachelor and bachelorette parties, business groups, families, or friends. All guests also have access to the SKYDECK - rooftop with waterfront panoramic views of the Cumberland River and the Nashville skyline. This is an interior room and does not have windows.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Studio 154 Luxury
+Host User ID: 211231188
+Host Profile URL: https://www.airbnb.com/users/show/211231188
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+369 reviews
+4.87 out of 5 average rating
+8 years of hosting

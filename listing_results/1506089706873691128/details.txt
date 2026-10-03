@@ -1,0 +1,90 @@
+URL: https://www.airbnb.com/rooms/1506089706873691128
+Latitude: 36.1726
+Longitude: -86.796
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 8
+beds: 16
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Adjacent units -Sleeps 24! Discover the essence of Nashville living within these brand new, chic residences, ideally positioned for city exploration. Revel in breathtaking vistas from the rooftop deck, with views of the Nashville skyline. Play Poker or Foosball in the party room! Gated Community. These centrally located properties boast eight bedrooms, eight full and a (2) half bathrooms, all ready to go! Ideal for groups, the house is conveniently located near all Nashville's attractions!
+
+The space
+Please note that there is a Gate around the entire complex (code will be given with check-in instructions)
+
+UNIT 1:
+★ LEVEL 1★ 
+ENTRANCE LEVEL 
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★ 
+Kitchen/Living Room/Dining Area
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+**Fireplace is non-operable from March through September**
+Sofa Bed
+Half Bathroom
+
+★ LEVEL 3★ 
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:Queen Bed w/ensuite full bathroom + Smart TV
+ 
+★ LEVEL 4★ 
+Bedroom 4: Queen, Custom Built-in Bunkbeds + Smart TV
+en suite Full Bathroom
+
+Party Room: Wet Bar + Smart TV
+Poker Table
+
+Balcony: TV + Views of the City!
+
+UNIT 2:
+★ LEVEL 1★
+ENTRANCE LEVEL
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★
+Kitchen/Living Room/Dining Area
+Gourmet Fully Stocked Kitchen
+Spacious Living and Dining Area with Sleeper Sofa
+Half Bathroom
+
+★ LEVEL 3★
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 4★
+Bedroom 4: Queen Sized Built-in Bunkbeds w/ensuite full bathroom + Smart TV
+Adjacent full bathroom
+
+Party Room: Foosball + Arcade Game, Wet Bar + Smart TV
+Balcony: TV + Views of the City!
+
+Guest access
+Private Entrance
+
+Other things to note
+**Fireplace is non-operable from March through September**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 708133546
+Host Profile URL: https://www.airbnb.com/users/show/708133546
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+11 reviews
+5.0 out of 5 average rating
+1 year of hosting

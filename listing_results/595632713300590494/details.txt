@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/595632713300590494
+Latitude: 36.1545
+Longitude: -86.7637
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ Boutique luxury, retro-glam style, and an unbeatable downtown location await at the SoBro Suite. Located in the contemporary MUSE Building, this stylish 3-bedroom, 2-bath condo features access to a rooftop lounge with stunning sunset views, a state-of-the-art fitness center, and beautifully designed spaces to relax after exploring Broadway and Nashville's top attractions. Perfect for group getaways, business travelers, and Music City adventures. 🌆
+
+The space
+Things You’ll Love:
+◆ 6 blocks from Broadway
+◆ A step-free interior with an open layout
+◆ Fully Equipped Kitchen
+◆ Beautifully designed, every detail is thoughtfully crafted 
+◆ Smart TVs – easily connect to all your favorite streaming apps!
+◆ High speed Wi-Fi 
+◆ Building Amenities Include A Fitness Center, Rooftop Lounge, and Paid Laundry 
+◆ Parking Pass Available In The Building For $25/Night + Plenty Of Free Street Parking Nearby
+
+This Condo's Three Bedrooms Comfortably Accommodate Up To Eight Guests
+◆ Bedroom 1 - King Bed + Smart TV +  Ensuite Bathroom
+◆ Bedroom 2 - Queen Bed + Twin Trundle Bed + Smart TV +  Shared Bathroom
+◆ Bedroom 3 - Queen Bed + Smart TV +  Shared Bathroom
+◆ Living Room - Bunk Bed (Twins) + Oversized Comfortable Couch
+
+About Hallson Hospitality
+
+At Hallson Hospitality, we take pride in being a locally owned company, offering a portfolio of thoughtfully designed properties that adhere to the highest standards of comfort and quality. Our team of hospitality professionals is dedicated to creating seamless and unforgettable experiences for each guest.
+
+From curated amenities to personalized service, we go the extra mile to ensure your stay is exceptional. If there’s anything we can do to enhance your visit, please don’t hesitate to reach out—we’re here to make your time with us truly unforgettable. To further elevate your stay, we offer a variety of Experience Add-ons, including early check-ins and late check-outs, private chefs, in-home massages, in-home yoga sessions, and more.
+
+Thank you for considering The Sobro Suite for your upcoming trip! Be sure to add it to your Wishlist by clicking the ♥ in the upper right-hand corner, so it’s easy to find again – whether for this trip or a future stay.
+
+Guest access
+Before your arrival, we’ll send you a detailed email with all the information you need to easily locate and access the home, ensuring a smooth check-in process. This email will include a unique digital door code, customized specifically for your stay, providing secure and convenient access. If you have any questions or need assistance at any time, don’t hesitate to reach out—we’re here to make your stay as effortless and enjoyable as possible.
+
+Other things to note
+Parking - The building has paid parking spots for $25 a night and there is typically plenty of free street parking in the area. Street parking is limited to two hours, Monday through Friday, from 8:00 AM to 4:30 PM
+
+Note: The building is located next to a freeway. While the traffic is barely audible with all doors and windows closed, we want to mention this for those who may be very light sleepers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lili
+Host User ID: 450908463
+Host Profile URL: https://www.airbnb.com/users/show/450908463
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+240 reviews
+4.91 out of 5 average rating
+5 years of hosting

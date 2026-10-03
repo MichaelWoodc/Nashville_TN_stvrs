@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1714176075414687572
+Latitude: 36.2902
+Longitude: -86.6925
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home! This beautiful property is conveniently located just 15 minutes from downtown, making it easy to enjoy the best the area has to offer. You’ll be minutes from popular restaurants, shopping, entertainment, and local attractions while enjoying a comfortable and relaxing stay. Whether you’re visiting for business or leisure, this centrally located retreat provides the perfect blend of convenience, comfort, and accessibility. ✨🏡
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dayani
+Host User ID: 435107826
+Host Profile URL: https://www.airbnb.com/users/show/435107826
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+9 months hosting
+1 reviews
+5.0 out of 5 average rating
+9 months of hosting

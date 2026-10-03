@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1764558591943920733
+Latitude: 36.2083
+Longitude: -86.7909
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 12
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Colorful interiors pair with a game room and a private rooftop retreat. The rooftop offers a year-round hot tub, skyline view, fire table, charcoal grill, outdoor dining, lounge seating, and putting area. The home also has four bedrooms, four full bathrooms, a kitchen, laundry, workspace, balcony, and parking for two vehicles. The multi-level layout sits just north of downtown Nashville.
+
+The space
+The ground level includes one bedroom, one full bathroom, and a garage game room with a pool table, arcade games, and life-size games. The main living level has an open living room, full kitchen, one bedroom, one full bathroom, and a balcony. Two more bedrooms, two full bathrooms, and laundry are on the second floor. The listed sleeping arrangements are a king bed in Bedroom 1; a double bed and one bunk bed in Bedroom 2; two bunk beds in Bedroom 3; and two bunk beds in Bedroom 4. The private rooftop has a hot tub, skyline view, fire table, charcoal grill, outdoor dining, lounge seating, and a putting area.
+
+Guest access
+Your reservation includes private use of the entire home: all four bedrooms and bathrooms, the living room, kitchen, balcony, laundry area, game room, and rooftop. Two on-site parking spaces are available. Self check-in uses a smart lock, and luggage drop-off is allowed.
+
+Other things to note
+This is a multi-level home, with bedrooms, living areas, and the rooftop on different floors. Check-in is after 4:00 PM, checkout is before 10:00 AM, and pets are not allowed. Exterior security cameras and noise-monitoring devices are present. The property does not have a carbon monoxide alarm. The house is about 4 miles, roughly a 10 minute drive, from downtown Nashville. Getting around: this is a convenient base for Downtown, Lower Broadway, East Nashville and Germantown. Lower Broadway is the heart of downtown's live music scene. East Nashville is known for innovative restaurants, dive bars, creative cocktails, live music, art and vintage shopping. Germantown is walkable and packed with brunch spots, bars and acclaimed restaurants, plus the Farmers' Market. The Ryman Auditorium and Nissan Stadium are both a short drive.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kathleen
+Host User ID: 686472847
+Host Profile URL: https://www.airbnb.com/users/show/686472847
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Kathleen! I’m an entrepreneur, interior design lover, and short-term rental host passionate about creating beautiful, welcoming spaces. I’ve lived all over the Birmingham area for 20 years and love sharing local favorites. When I’m not styling rentals or hosting guests, you’ll find me and my husband working out or playing video games. I believe every stay should feel like home—only better!
+Where I went to school: University of Alabama at Birmingham
+My work: Host & House Wife
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+4543 reviews
+4.8 out of 5 average rating
+1 year of hosting

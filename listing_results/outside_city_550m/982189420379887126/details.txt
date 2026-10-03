@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/982189420379887126
+Latitude: 36.29337
+Longitude: -87.04926
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+All new interior and back porch with plenty of room for family fun, 30 minutes from downtown Nashville. Friendly neighbors, lots of space for entertaining. All new fixtures and appliances throughout, comfortable beds, and fresh linens. Plenty of parking. Bring the whole crew, plenty of parking. Whether you're looking for that weekend getaway in Nashville or a nice quiet place to relax while working out of town, this is your place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandon
+Host User ID: 537481094
+Host Profile URL: https://www.airbnb.com/users/show/537481094
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of Tennessee
+Speaks English and Spanish
+Responds within a few days or more
+3 years hosting
+19 reviews
+4.89 out of 5 average rating
+3 years of hosting

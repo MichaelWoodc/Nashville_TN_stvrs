@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/893727835423287381
+Title: New Construction Downtown
+Latitude: 36.17376
+Longitude: -86.79771
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+4BR,3FULL BATH, 4QUEENS, 1KING, 2TWIN, 1 QUEEN blow up mattress with bedding and pillows etc . ROOFTOP W DOWNTOWN SKYLINE VIEWS, 2 CAR garage  in back with fenced in backyard , 8MIN  TO ALL THE HOT SPOTS .08 miles to BROADWAY .  Close to all the great food NASHVILLE has to offer.  .08 miles from the TITAN stadium.  .03 miles to the SOUNDS stadium ..
+
+The space
+New construction 5 mins to broadway and 10 mins from anywhere u wanna go downtown
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: William
+Host User ID: 444791740
+Host Profile URL: https://www.airbnb.com/users/show/444791740
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: MTSU
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+82 reviews
+4.99 out of 5 average rating
+3 years of hosting

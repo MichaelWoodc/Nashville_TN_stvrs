@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/47868157
+Latitude: 36.14454
+Longitude: -86.76374
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 5
+beds: 14
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*** PRICE INCLUDES BOTH UNITS ***
+
+Superhost 8 times in a row brings you... two BRAND NEW, super trendy, luxurious townhomes! 
+2 UNITS!  1 ROOFTOP! 2 BALCONIES!
+5 Bedrooms! 4.5 Bathrooms! 
+The townhome has a beautiful open fully equipped kitchen. The rooftop has weatherproof TV and a bar cart for entertaining. This townhomes has everything you need to make unforgettable memories in Music City!
+
+The space
+Bed setup for your convenience:
+
+Unit A:
+Master Bedroom: 1 X King bed
+Second Bedroom: 2 X Queen beds
+Living room: 2 X Queen sofa beds. 
+Foldable bed: 2 X Twin beds
+
+Unit B:
+Master Bedroom: 1 X King bed.
+Second Bedroom: 2 X Full beds and 1 Twin.
+Third Bedroom 2 X Queen bed.
+Living room: Foldable bed: 1 X Twin bed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

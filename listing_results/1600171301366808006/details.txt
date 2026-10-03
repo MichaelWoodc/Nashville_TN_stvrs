@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1600171301366808006
+Latitude: 36.20478
+Longitude: -86.76429
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Brand New Luxury East Nashville New Construction Home minutes from downtown. Professionally designed with a refined organic modern aesthetic, this home delivers a boutique-hotel experience with the privacy of a full residence. Unwind in the spa-style wet room, then head to the rooftop deck with private hot tub and skyline views. Next to East Nashville Beer Works for a quick drink and pizza. Chef-ready kitchen, curated interiors, and spaces designed for a premium stay—not just a place to sleep.
+
+The space
+This brand new professionally designed 3 bed, 3.5 bath East Nashville home was built for groups who want more than just a place to stay—it’s a full experience.
+
+Step into a bright, open-concept living space with soaring ceilings, exposed beams, and a clean organic modern design that feels high-end from the moment you walk in. The main level is built to gather, with a spacious living room, designer kitchen, and dining area surrounded by natural light.
+
+The kitchen is fully equipped and ready for anything—whether it’s a casual breakfast, group dinner, or pregame before heading out. Custom cabinetry, large island seating, and premium finishes make it as functional as it is visually striking.
+
+Each bedroom is thoughtfully designed for comfort and privacy, with ensuite bathrooms throughout. The spa-style wet room brings a boutique hotel feel, giving you a place to reset after a day (or night) in Nashville.
+
+Upstairs is where this home really separates itself—your private rooftop deck with hot tub. Whether you’re starting the day with coffee or ending it under the lights, this is the space guests remember.
+
+Located on E Trinity, you’re minutes to downtown, Broadway, and Nissan Stadium, while still being right in the heart of East Nashville. Walk or take a quick ride to East Nashville Beer Works and some of the city’s best local spots.
+
+This home was designed intentionally—for comfort, for style, and for creating a stay that feels luxurious from start to finish.
+
+Guest access
+Guests will have full access to the unit. You will be sent a code before arrival. There is a 2 car garage that can be used for parking.
+
+Other things to note
+Please note the hot tubs are cleaned after every stay. The water does take time to get to its normal temperature. Also, please keep in mind, it does take around 30 seconds for the hot water to reach the showers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Frank
+Host User ID: 231481335
+Host Profile URL: https://www.airbnb.com/users/show/231481335
+Host Profile URL Source: public user permalink from passport userId
+Married with dogs
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+269 reviews
+4.86 out of 5 average rating
+8 years of hosting

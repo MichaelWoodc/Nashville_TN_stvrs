@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1753595476612230967
+Latitude: 36.3201
+Longitude: -86.6526
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your own private retreat - a beautifully furnished 2 bedroom home with modern style, soaring ceilings and a striking exposed bean that gives the space warmth and character.  
+
+Step inside to a bright, open concept living area designed for both comfort and style.  The modern kitchen features high-end, full-size appliances and flows seamlessly into the living space, making it easy to cook, unwind or simply enjoy a quiet evening at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shannon
+Host User ID: 413409251
+Host Profile URL: https://www.airbnb.com/users/show/413409251
+Host Profile URL Source: public user permalink from passport userId
+I'm a native to Nashville and enjoy sharing my love for the south. Hospitality is such a sweet and pleasurable way to love people at a distance.  In real life I am a therapist.  Serving as an Airbnb host brings balance to my life as I enjoy helping others to celebrate special milestones.  Weddings, birthdays, and family gatherings can be some of the sweetest memories we experience. Helping others celebrate life is privilege and so much fun!
+Born in the 60s
+My work: Lifelong Student
+Response rate: 100%
+Responds within an hour
+5 years hosting
+328 reviews
+4.95 out of 5 average rating
+5 years of hosting

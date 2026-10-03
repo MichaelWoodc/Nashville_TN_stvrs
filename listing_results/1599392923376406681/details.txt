@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1599392923376406681
+Latitude: 36.1431
+Longitude: -86.8255
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Vinyl and Velvet! Step into a retro-inspired stay celebrating vinyl and cassette vibes. Located in Sylvan Park, just 1 mile from Vanderbilt and 2 miles from Broadway, Bridgestone Arena, the Ryman, and Nissan Stadium. Walk or jog to Centennial Park via the Greenway. Enjoy a shared outdoor space with dining, café lights, and a charcoal grill—perfect for unwinding after exploring Music City.
+
+The space
+Perfect for music lovers and Nashville explorers, this retro-inspired space celebrates the city’s iconic sound. Record- and cassette-themed wallpaper, a bright yellow sofa, orange accent chair, and framed Nashville posters create a fun, immersive vibe. The fully stocked kitchen has all cookware essentials, and the bathroom features a tub/shower combo—ideal for recharging after concerts, shows, or a night out. Step outside to the shared community outdoor space, where you can relax in Adirondack chairs under café lights.  Whether you're here for work, play, or school, Vinyl and Velvet in Nashville is sure to bring a smile to your face.
+
+Guest access
+Guests have full access to the private apartment and shared outdoor spaces.
+
+Other things to note
+Please be aware that a freight train runs behind the apartment complex, operating irregularly, including during the night. While some guests may not be bothered by the noise, others may find it disruptive. If you are sensitive to noise, we recommend not renting this property.
+
+The train travels from Memphis to Nashville, but it does not blow its horn near the building, so you will mostly hear it as background noise. It is mostly obscured from view by vegetation. To help minimize disturbances, sound and light-reducing curtains and a sound machine are provided.
+
+Apt. requires stairs to access. 
+
+Sofa folds down into a full-size bed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

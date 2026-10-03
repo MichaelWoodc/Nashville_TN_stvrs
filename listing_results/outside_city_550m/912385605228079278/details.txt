@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/912385605228079278
+Title: Serene Stay in a Franklin Home
+Latitude: 35.92994
+Longitude: -86.82777
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything including Historic downtown Franklin, Cool Springs, Malls, Restaurants, Shopping, Highway 65, while you are less than 25 minutes from downtown Nashville and the airport when you stay at this centrally-located place.
+Community pool is 3 minutes walk, and you'll get to enjoy the amazing outdoor kitchen and living space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lidya
+Host User ID: 28344034
+Host Profile URL: https://www.airbnb.com/users/show/28344034
+Host Profile URL Source: public user permalink from passport userId
+My husband and I love to mingle, meet new people, and to have quality time with extended family and friends. We are parents of three boys, active at our church, and working professionals. We enjoy hosting on airbnb and sharing our home while creating convenience to our valued guests.
+Born in the 80s
+My work: Amazon
+Most useless skill: Making up kids stories.
+What makes my home unique: Outdoor Kitchen & Private covered area.
+For guests, I always: Morning coffee ready for you to grab.
+Response rate: 100%
+Responds within an hour
+9 years hosting
+277 reviews
+4.86 out of 5 average rating
+9 years of hosting

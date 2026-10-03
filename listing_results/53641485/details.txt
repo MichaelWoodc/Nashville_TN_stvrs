@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/53641485
+Latitude: 36.1745
+Longitude: -86.7812
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our immaculate 2-bedroom waterfront retreat in Nashville! Enjoy stunning Cumberland River views from this music-themed apartment that comfortably sleeps 6. Features a cozy fireplace, a fully equipped kitchen, and access to a waterfront pool. Perfectly located a short distance from downtown Nashville's vibrant Broadway nightlife. Your ideal Music City getaway awaits! *Pets are allowed. A $100 pet fee is required, for additional cleaning and maintenance of pet areas on the complex.
+
+The space
+Immerse yourself in the Music City spirit in our beautifully appointed waterfront apartment. The space is designed for comfort and relaxation, featuring a unique music-themed decor.
+
+   Living Area: Relax by the cozy fireplace while enjoying serene views of the Cumberland River. The living room includes a comfortable queen sleeper sofa and a TV with a Blu-ray player for movie nights.
+   Bedrooms: Two private bedrooms, each furnished with a plush queen bed and its own TV with a DVD player.
+   Bathrooms: Two full bathrooms ensure privacy and convenience for all guests.
+   Kitchen: A fully equipped kitchen with stainless steel appliances awaits your culinary adventures. We provide a Keurig coffee maker with a selection of coffee and tea, plus a toaster for your morning convenience.
+Capacity: The apartment comfortably accommodates up to six guests between the two bedrooms and the sleeper sofa.
+
+Guest access
+Guests will have private access to the entire two-bedroom apartment. In addition, you are welcome to enjoy all the fantastic community amenities, including:
+* Covered parking that is included with your stay
+* A sparkling waterfront swimming pool overlooking the Cumberland River
+* private Indoor electric fireplace  
+* A community fire pit for cozy evenings.
+* A fully equipped gym / fitness center.
+*  Convenient on-site laundry facilities.
+
+Other things to note
+The apartment is decorated with a special music theme to honor Nashville's rich history. We hope you enjoy the unique touches we've added to make your stay special. Please let us know if you are celebrating a special occasion!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 83323910
+Host Profile URL: https://www.airbnb.com/users/show/83323910
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native! I am more than happy to help with suggestions about places to see, restaurants to visit and much more! Just let me know and I will let you know my personal favorites in Nashville!
+Born in the 60s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+205 reviews
+4.87 out of 5 average rating
+10 years of hosting

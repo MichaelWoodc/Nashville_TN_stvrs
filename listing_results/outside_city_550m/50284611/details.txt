@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/50284611
+Latitude: 36.39772943775424
+Longitude: -86.45840830745732
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 0
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You will enjoy easy access to everything from this centrally located place that is minutes from Nashville.  Shopping and close access to freeways are less than 2 miles away.
+
+The space
+This is a newly constructed property is near the the heart of downtown Gallatin.  This area is close to parks and all restaurants.  Gallatin touts a rich history and it has a 60% lower crime rate than the national average.
+
+Guest access
+You can park in front of the garage or in the garage and the remote for the garage is provided.
+
+Other things to note
+Please note that you should only remove the sheets in the bed(s)you sleep on.  Make sure the garbage is placed in the garage container.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kim Shipp
+Host User ID: 337654527
+Host Profile URL: https://www.airbnb.com/users/show/337654527
+Host Profile URL Source: public user permalink from passport userId
+My work: Author
+I spend too much time: Reading
+Response rate: 100%
+Responds within an hour
+4 years hosting
+10 reviews
+5.0 out of 5 average rating
+4 years of hosting

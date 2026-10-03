@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/34345055
+Latitude: 36.15523
+Longitude: -86.82161
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated rooftop! This is a brand-new home with all of the amenities and one-of-a-kind downtown views from its rooftop deck that extends around the house. Custom Master suites and great parking with a two-car garage are just a few of the amenities that you'll enjoy here. Only $5-7 Uber/Lyft ride to downtown and bars (about 3 miles, and a 10 to 15-minute drive), and less than 1.5 miles from the new Top Golf Nashville facility! It's also a moderate walking distance from Centennial Park.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking 
+
+The two-car garage and basement level include two new queen beds with a large comfy couch and attached bathroom. The main floor is a common area that includes a fold-out couch and twin futon. It also has a huge kitchen with all the amenities a butler pantry and a large eating
+
+The second floor includes all three bedrooms with two full beds, a trundle, a futon, and an attached bathroom in the master bath, and two other bedrooms with queen beds that share a full bathroom in the hallway. Then the rooftop deck takes the entire top floor and includes a TV and beautiful views.
+
+Grocery and restaurants are about 4 to 5 blocks away, and Centennial Park is about 8 blocks (moderate walking distance out a quick drive).
+
+LOCAL GUESTS MUST REQUEST BEFORE BOOKING.
+
+Guest access
+The house includes a washer and dryer, along with full kitchen and bathroom amenities, and extra bedding and towels.
+
+Other things to note
+There are extra items provided, such as extra paper towels and extra trash bags under the kitchen sink. But you can also request additional items for an extra fee. There is a $50 trip charge for each request, plus the cost of the item you are requesting.
+
+The extra charges do not apply to anything that breaks spontaneously during your stay. For example, if the air conditioner or other machine were to break during your stay, you can request someone come out to fix the item without incurring an extra charge.
+
+Registration Details
+2019023601
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diana
+Host User ID: 207669542
+Host Profile URL: https://www.airbnb.com/users/show/207669542
+Host Profile URL Source: public user permalink from passport userId
+I love hosting and owning my own businesses. I also enjoy technology, computer engineering, and building things.
+My work: Software engineering
+Speaks English
+Response rate: 100%
+Responds within an hour
+8 years hosting
+699 reviews
+4.83 out of 5 average rating
+8 years of hosting

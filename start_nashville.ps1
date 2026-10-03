@@ -1,3 +1,4 @@
+param([switch]$SkipInitialBuild)
 $ErrorActionPreference = 'Stop'
 Set-Location -LiteralPath $PSScriptRoot
 $pythonPath = Join-Path $env:USERPROFILE 'anaconda3\python.exe'
@@ -26,7 +27,9 @@ if (Test-Path -LiteralPath $pidPath) {
 }
 $stopPath = Join-Path $cacheDir 'STOP'
 if (Test-Path -LiteralPath $stopPath) { Remove-Item -LiteralPath $stopPath }
-$process = Start-Process -FilePath $pythonPath -ArgumentList '-u','build_nashville.py','--watch','--serve','8765' -WorkingDirectory $PSScriptRoot -WindowStyle Hidden -RedirectStandardOutput (Join-Path $cacheDir 'watcher.log') -RedirectStandardError (Join-Path $cacheDir 'watcher.error.log') -PassThru
+$watchArguments = @('-u','build_nashville.py','--watch','--serve','8765')
+if ($SkipInitialBuild) { $watchArguments += '--skip-initial-build' }
+$process = Start-Process -FilePath $pythonPath -ArgumentList $watchArguments -WorkingDirectory $PSScriptRoot -WindowStyle Hidden -RedirectStandardOutput (Join-Path $cacheDir 'watcher.log') -RedirectStandardError (Join-Path $cacheDir 'watcher.error.log') -PassThru
 $process.Id | Set-Content -LiteralPath $pidPath
 Write-Output "Watcher started: PID $($process.Id). Open http://127.0.0.1:8765"
 Write-Output "Logs: $cacheDir\watcher.log"

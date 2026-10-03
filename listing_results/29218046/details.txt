@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/29218046
+Latitude: 36.1841
+Longitude: -86.7098
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+For rent is an updated mother in-law suite in our 60's East Nash home!
+
+Your rental includes a comfortable queen bed, fully-equipped kitchenette, and a sparkling bathroom with luxury soaps.
+
+TV now includes Roku with a few of our sign-ins set up for you. 
+
+Just down the road from Five Points and other great East Nasty areas, plus 15 minutes to Downtown! (more local suggestions in our guide book :)
+
+The space
+Your parking spot is around back, right next to your private entrance. Entry-way connects to the kitchenette and has a door into the bedroom. The bedroom contains a queen bed with large side tables and a dresser with HDTV, walk-in closet and full bathroom attached.
+
+Guest access
+Your apartment and all the rooms/spaces described are completely isolated from the main part of the house, providing you with excellent privacy during your stay
+
+PLEASE NOTE: 
+We do live in this home full-time! The rest of the areas of our home are off limits to guests, that includes our outdoor spaces and the deck/patio.
+
+Other things to note
+While renovating we installed extra insulation for soundproofing in the apartment that works great. That said, we do live upstairs! Though you'll never hear any talking, TV noise or anything like that, you should expect to hear the occasional faint footsteps from upstairs during normal hours (9am-10pm).
+**Please understand that this is unavoidable since you are renting the downstairs of an inhabited home. If this will upset you, please re-consider before booking! **
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cornelius
+Host User ID: 99579081
+Host Profile URL: https://www.airbnb.com/users/show/99579081
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m a musician and producer based in Nashville, Tennessee. I love East Nashville and have been living here for years. I play in many bands, produce local artists and record my own music. Love to travel and often use AirBnB to explore the country and elsewhere!
+My work: Electric Church Records
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+265 reviews
+4.85 out of 5 average rating
+8 years of hosting

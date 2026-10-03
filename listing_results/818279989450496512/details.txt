@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/818279989450496512
+Title: Urban Cowboy 3-Br 1.5 miles 2 Broadway
+Latitude: 36.1682
+Longitude: -86.7949
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of Nashville, this beautiful home is a perfect destination for those seeking to experience the vibrant energy of the city. It is situated in an ideal location, with easy access to all of the city's most popular neighborhoods, such as Germantown, Marathon Village, and The Gulch.  
+
+It features high-speed Wi-Fi and a fully stocked kitchen. Quick access to Broadway, the Ryman, and Bridgestone, you'll be able to explore the city's music and entertainment scene with ease.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jarrett
+Host User ID: 452557944
+Host Profile URL: https://www.airbnb.com/users/show/452557944
+Host Profile URL Source: public user permalink from passport userId
+Native of Nashville who can't wait to share some authentic Music City hospitality and spots with all our visitors. If you have any questions or issues during your stay feel free to text or call. I'm happy to provide recommendations on restaurants, bars, neighborhoods, and more!
+Where I went to school: Middle Tennessee State University
+My work: Tier 1 Consulting
+Response rate: 80%
+Responds within an hour
+4 years hosting
+141 reviews
+4.79 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1639918425073547708
+Latitude: 36.1968
+Longitude: -86.83
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 14
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+★The Groovy Goodrich★ is a vibrant Nashville townhome designed for groups who want to stay close to the action while enjoying elevated comforts. This 4-bedroom, 4-bath home sleeps up to 12 guests and is located just minutes from downtown Nashville. With a rooftop hot tub, skyline views, and a fun-filled game and karaoke space, this home blends Music City energy with stylish group-friendly living.
+
+The space
+What We Love About ★The Groovy Goodrich★...
+-Rooftop deck with hot tub and sweeping views of Nashville’s skyline
+-Garage converted into a fun game space perfect for group hangouts
+- Karaoke machine on the fourth floor so every guest can channel their inner country star
+- Spacious layout with four bedrooms and multiple ensuite bathrooms ideal for groups
+- Stylish Nashville-themed townhome perfect for celebrations and group getaways
+
+Welcome to ★The Groovy Goodrich★, where Music City vibes meet stylish comfort and unforgettable group experiences. This multi-level townhome was designed for gathering, celebrating, and soaking up the spirit of Nashville while enjoying a comfortable home base just minutes from downtown.
+
+Step inside to the main living level where you’ll find a bright, open-concept living space perfect for relaxing between adventures. The living room offers comfortable seating and a queen pull-out sofa, making it easy for everyone to gather, watch a show, or plan the night’s honky-tonk tour. Just steps away is the fully stocked kitchen featuring stainless steel appliances, plenty of prep space, and a large island with seating for four—ideal for morning coffee, late-night snacks, or brunch before exploring the city.
+
+The home’s sleeping spaces are thoughtfully arranged to accommodate groups while still giving everyone room to spread out. The first floor features a private king bedroom with an ensuite bathroom complete with a walk-in shower and single vanity. On the third floor, guests will find two additional bedrooms including a bunk room with two sets of triple bunks and an ensuite bathroom with a double vanity and shower/tub combo—perfect for larger groups or friends traveling together. Another third-floor bedroom features two queen beds and its own ensuite bathroom with a double vanity and walk-in shower. The fourth bedroom is located on the fourth floor and features two twin beds with trundles, offering flexible sleeping arrangements for additional guests. A full bathroom is also located on this level and includes a single vanity and a convenient shower/tub combination.
+
+Entertainment continues throughout the home with a converted garage game space designed for laid-back fun after a night out in the city. Head up to the fourth floor where the party really starts with a karaoke machine ready for your group to belt out country classics, pop favorites, or your best Nashville-inspired performances.
+
+The highlight of the home is the incredible rooftop deck. Here you can unwind in the hot tub while taking in unobstructed views of Nashville’s skyline. With plenty of seating and space to relax, the rooftop is the perfect setting for sunset drinks, late-night conversations, or simply soaking up the Music City atmosphere.
+
+Located just minutes from the heart of downtown, The Groovy Goodrich places you close to Nashville’s most iconic attractions. Spend your days exploring the famous honky-tonks along Broadway, catching live music at legendary venues, touring the Country Music Hall of Fame, or discovering the incredible local food scene Nashville is known for. From hot chicken spots and rooftop bars to live music around every corner, there’s always something exciting happening nearby.
+
+Whether you’re planning a bachelorette trip, friends’ getaway, family celebration, or music-filled weekend, The Groovy Goodrich delivers the space, views, and fun to make your Nashville stay unforgettable. Come experience the rhythm of Music City and make lasting memories at this one-of-a-kind townhome.
+
+Guest access
+Guests will have access to the entire property.
+
+Other things to note
+★Before You Arrive★
+We want your arrival to be as easy and seamless as possible. After booking, you’ll receive a short Rental Agreement from our local management team to review and sign electronically before your stay. This quick step helps us make sure everything is in place for your arrival while protecting you, the home, and the homeowners who make your stay possible.
+
+★Damage Waiver★
+You are renting a private home. Please treat the property with the respect you would like shown to your own home. We get that accidents happen – some more sober than others – and we want you to be aware of your Damage Waiver coverage should something get a little wild during your stay. In an attempt to make this easier for you, the Damage Waiver fee is included in your cleaning fee. Here’s how it works: by booking with Stay Local Nashville, Inc., you understand and accept that your booking fees include a Damage Waiver. It is the Guests’ responsibility (that’s you!) to report damage that is caused to the Property during your stay. The vacation rental Damage Waiver is not insurance, but instead an agreement by Stay Local Nashville, Inc., to replace or repair unintentional damages up to $1,000.00 (one thousand dollars) in total to the rental unit’s interior. Damages that qualify for this agreement must occur during a Guest’s reservation, be disclosed to management prior to check out, and the Damage Waiver must have been paid in full prior to arrival (don’t worry, it’s wrapped into the cleaning fee!). Any damages that either exceed $1,000.00 (one thousand dollars), are not disclosed prior to check out, or are deemed intentional, will be charged to the credit card on file, through the Airbnb resolution center. The Damage Waiver does not include theft or intentional or negligent damage and will not be covered by this fee and the Guest will be liable for all costs associated with intentional or negligent damage. The Guest is liable for any and all costs and fees associated with the vacation rental, including reasonable collection costs and attorney’s fees that are in any way associated with the Guest’s and/or the Guest’s invitee’s breach of this agreement, including but not limited to, money owned under this agreement for damage to the premises, fees, and/or fines.
+
+★NoiseAware Disclaimer★
+Welcome to our respectful and responsible community. We are pleased to inform you that this property is committed to Rent Responsibly standards. This means we follow best-in-class guidelines to ensure you have a peaceful, safe, and memorable stay with us. Please be mindful of our neighbors during your stay. The property’s quiet hours are in place to ensure that you and our whole community can enjoy a restful night’s sleep. We are dedicated to protecting our guests and neighbors from bothersome levels of noise. In an effort to do so, this property is equipped with NoiseAware technology. NoiseAware is a smart home device that measures volume levels throughout the property and allows us to respond to noise nuisances without disrupting your stay. NoiseAware is privacy compliant and is required on this property. NoiseAware is here for your benefit. It helps protect you from aggravating noise from nearby renters or neighbors, as well as proactively prevents noise complaints. If you have any questions please ask. We are committed to your comfort so please let us know if we can do anything during your stay to make it more enjoyable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Teryn & Darbi
+Host User ID: 85360355
+Host Profile URL: https://www.airbnb.com/users/show/85360355
+Host Profile URL Source: public user permalink from passport userId
+Hi! Teryn and Darbi, here! We are Nashville natives with a passion for hospitality, and one of our favorite things to do is share the many highlights of our beautiful city with others! Creating memorable experiences and premiere accommodations for our guests is our top priority.
+My work: Stay Local Nashville, Inc.
+Fun fact: Been in multiple earthquakes together
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+23140 reviews
+4.71 out of 5 average rating
+10 years of hosting

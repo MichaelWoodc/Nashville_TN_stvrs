@@ -1,0 +1,101 @@
+URL: https://www.airbnb.com/rooms/49775860
+Latitude: 36.1865
+Longitude: -86.7546
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 6
+beds: 12
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Keep your entire Nashville group together without crowding everyone into one house. Take advantage of two side-by-side East Nashville homes, each with its own kitchen, living room, three bedrooms, flexible overflow bed, and 2 private two-car garage. Sleep up to 20 across six bedrooms and 12 beds, walk to neighborhood restaurants and live music. It’s an easy setup for families, wedding groups, reunions, and friends who want both connection and breathing room.
+
+The space
+Experience unforgettable stays in our inviting East Nashville retreats, just minutes from Mas Tacos. Perfect for accommodating up to 20 guests, our properties feature luxurious beds and cozy pullout couches. With ample parking and only 3 miles from Broadway's vibrant scene, your Nashville adventure is set for success. For larger gatherings, inquire about our adjacent properties to host up to 90 guests.
+
+Step into the vibrant pulse of East Nashville with The Mansfield and The Laurent, two exquisite havens designed to elevate your stay. 
+
+Comfortable Accommodation:
+- The Mansfield: 
+  - 2nd Floor Bedroom 1: 2 Queen Beds with En-suite Bathroom
+  - 2nd Floor Bedroom 2: 1 Twin Bed and 1 Twin Trundle
+  - 2nd Floor Bedroom 3: 1 King Bed
+  - 1st Floor Living Room: 1 Queen Murphy Bed
+
+- The Laurent:
+  - 2nd Floor Bedroom 1: 2 Queen Beds with En-suite Bathroom
+  - 2nd Floor Bedroom 2: 1 Twin Bed and 1 Twin Trundle
+  - 2nd Floor Bedroom 3: 1 King Bed
+  - 1st Floor Living Room: 1 Queen Murphy Bed
+
+Interior Feeling:
+- Enjoy Smart TVs for easy access to your favorite streaming services.
+- Two private workspaces across both homes for productivity or quiet reflection.
+- Spacious attached two-car garage for hassle-free parking.
+- 24/7 support from our dedicated team to ensure a seamless stay.
+
+Outdoor Bliss:
+- Experience the charm of East Nashville with nearby live music venues and local eateries.
+- Just minutes from Five Points, a vibrant neighborhood for food, live music, and shopping.
+
+Delightful Dining:
+- The Mansfield features a stainless steel kitchen perfect for culinary adventures.
+- The Laurent offers a modern kitchen ideal for hosting gatherings.
+
+PLEASE NOTE: Due to the nature of the Nashville popularity boom, construction recently started near the home. You should expect some construction disruption Monday-Friday between 7am and 7pm.
+
+Superior Connectivity for Work and Play:
+- Complimentary high-speed internet throughout your stay for both productivity and entertainment.
+
+Discover East Nashville and Beyond:
+Explore the lively spirit of East Nashville! Enjoy live music at The East Room or The Basement East, and savor seasonal dishes and craft beers at local favorites Mas Tacos Por Favor and The Pharmacy Burger and Beer Garden. A quick ride from Broadway places you at the center of Nashville’s vibrant culture and culinary scene.
+
+Tourist Attractions:
+- Country Music Hall of Fame and Museum: Dive into the rich history of country music with a vast collection of artifacts and interactive exhibits. 
+- The Parthenon: A stunning replica of the original Parthenon in Athens, featuring an art museum and beautiful park.
+- Ryman Auditorium: Known as the 'Mother Church of Country Music', this historic venue offers guided tours and live performances.
+- The Johnny Cash Museum: Celebrate the life and career of Johnny Cash with personal artifacts and memorabilia.
+- The Hermitage: Explore the majestic home of Andrew Jackson, offering guided tours and beautifully preserved gardens.
+
+Permit Numbers:
+- The Mansfield: CASR 20200_followed by_34722
+- The Laurent: CASR 20200_followed by_34726
+
+Guest access
+You'll have access to both units and two 2-car garages!
+
+Other things to note
+Welcome to our boutique hospitality experience, led by a close-knit team of husband-and-wife duo and their close friends. We've been making dream vacations come true since 2014 and we're thrilled to do the same for you! We choose our properties with care, only offering places we'd love to stay in ourselves. You'll find top local spots around each location and we're always ready to suggest the best picks tailored just for you.
+
+- Check-In: We provide a unique, custom door code for each stay for secure and easy keyless entry.
+- Guest Verification: All guests are required to complete an additional guest verification process after booking, which includes signing a liability agreement.
+- Local Bookings: We typically do not host local residents. We may inquire about the purpose of your stay and reserve the right to decline bookings.
+- Security Deposit: A refundable security deposit is required for longer stays and is charged separately before check-in. The deposit is $500 for reservations between 22 days and 6 months, and $1,000 for reservations over 6 months.
+- Child-Friendly Rentals: If you need a pack and play or high chair, please inquire for a unique link to rent these items.
+- 24/7 Support: Our team is available around the clock to help with any questions or personalized requests.
+- Permit Numbers: The Mansfield: CASR 20200_followed by_34722 and The Laurent: CASR 20200_followed by_34726
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Beckon Homes
+Host User ID: 6675690
+Host Profile URL: https://www.airbnb.com/users/show/6675690
+Host Profile URL Source: public user permalink from passport userId
+Hey there! We're the crew at Beckon Homes. We're a small, family-run boutique property management company that works hard to treat our guests like our loved ones by welcoming them into homes and neighborhoods we ourselves would stay in. Our team is on 24/7/365 to ensure you have everything you need, whenever you need it. We can't wait to host you at one of our homes!
+My work: making guests comfy
+Most useless skill: no skill is useless!
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+9907 reviews
+4.87 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/714602465016021537
+Latitude: 36.20223947601518
+Longitude: -86.74153050556372
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy, quiet, and comfortable private guest suite in eclectic East Nashville. 8-min drive to downtown Nashville; 10-min drive to Opry Mills mall/Opryland Hotel/Grand Ole Opry! Walking distance to East Nashville favorites, such as The Tiger Bar & Nicoletto’s Italian Kitchen. We’re a short 5-min drive to the popular Five Points area. We’ve considered every detail as we've created this magical space with you in mind! Please take a look around — we look forward to hosting you!
+
+Warmly,
+Melissa
+
+The space
+Our private guest suite is attached to the rear of the main house. Off-street parking is available in the rear of the property, adjacent to the fire pit area. Our guest suite features a kitchenette, two full bathrooms, and a washer/dryer combo. Our guest suite contains two floors connected by a spiral staircase — each floor with a separate external entry door. The bedroom is on the bottom floor, which offers a queen TempurPedic mattress (not currently on adjustable bed frame). The living space on the top floor offers a daybed for flexible enjoyment of the space, serving as sleeping quarters for a 3rd guest. The blue chair in the living area extends into a chaise position, as well as lays flat to a sleeping position for one person. The overall space offers (3) beds to accommodate (4) guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Melissa
+Host User ID: 469514386
+Host Profile URL: https://www.airbnb.com/users/show/469514386
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+51 reviews
+5.0 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/915840656203923753
+Latitude: 36.1715
+Longitude: -86.7833
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our one-bedroom flat in the heart of Nashville. Located a 5 minute walk to Bicentennial Park and the farmers market. And only a 15-20 minute walk or 5 minute ride to Broadway. The living room is spacious with a queen pull-out couch and is open to the fully equipped kitchen. The bedroom has a King sized bed for maximum comfort and a seating area for morning coffee. Please let us know if you have any questions or don’t see the dates you want. We're happy to accommodate If possible.
+
+The space
+The one bedroom has a door that closes for privacy and has its own access to the bathroom through the large walk-in closet. Our pull-out couch has a memory foam mattress, pillows, sheets, and a comforter.
+
+Enjoy watching your own shows by logging into Guest Access on our Roku. You can also watch Live TV for free using the Roku Channel.
+
+If driving your own car or renting a car, we provide a free and secure parking spot designated for you in the parking garage under the building.
+
+Guest access
+The entire condo and parking spot in the garage.
+
+There is an elevator for your use in the atrium of the building. As well as two stairwells on either end of the building leading into the parking garage.
+
+Other things to note
+Dogs are allowed at no extra cost. Please NO CATS, we are allergic. Thanks so much.
+
+Registration Details
+2023034935
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lulu
+Host User ID: 29629772
+Host Profile URL: https://www.airbnb.com/users/show/29629772
+Host Profile URL Source: public user permalink from passport userId
+Excited for an adventure!!!
+Born in the 80s
+My work: Freelancer
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+91 reviews
+5.0 out of 5 average rating
+3 years of hosting

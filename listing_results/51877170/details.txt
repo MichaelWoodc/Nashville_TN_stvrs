@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/51877170
+Latitude: 36.13512
+Longitude: -86.81465
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your 3-room suite (bedroom with queen bed, study, bathroom) is less than a mile from Vanderbilt, 1.2 miles from Belmont and 3 miles from downtown Nashville ($15 avg. rideshare). A 15-minute walk through our historic neighborhood leads to 30+ restaurants and shops in Hillsboro Village. 
+
+Equipped with WiFi, streaming TV, microwave, mini-fridge and K-cup machine, your suite is a quiet, comfortable space where you'll feel right at home. All welcome. Chore-free check-out.
+
+* STR Permit #2021068233
+
+The space
+Accessed through the keyless lock of our shared front door, your suite is in a private hallway. The bedroom is furnished with a new queen bed, a ceiling fan and twin lamps with USB chargers. The remodeled bathroom features a walk-in shower with a sturdy fold-down seat. 
+
+The sunny study--great for digital nomads-- is furnished with a daybed which can accommodate an additional guest. Tucked away in the closet are a mini-fridge and microwave. A Keurig machine with K-cups and a selection of snacks are provided for your enjoyment.
+
+Guest access
+If bringing your own vehicle, you can parallel park in front of the house. Please note: there are 13 steps leading from the street to our front door.
+
+Our quiet historic neighborhood is pedestrian-friendly with sidewalks on most connector streets. It's an easy stroll to restaurants on West End and in Hillsboro Village. Unless spiked by surge pricing, ride-share fares to many of guests' favorite destinations are $10-15.
+
+During your stay
+Please use the AirBnB app for communication as it sends a different tone than a regular text so we know to attend to it immediately
+
+Other things to note
+We're friendly folks, happy to interact with you but also glad to afford you privacy. Michael is a fourth-generation lifelong Nashvillian with a deep knowledge of the city.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael And Nancy
+Host User ID: 420135005
+Host Profile URL: https://www.airbnb.com/users/show/420135005
+Host Profile URL Source: public user permalink from passport userId
+Michael and Nancy, married 29 years, continued their longstanding tradition of making people feel welcome by entering the AirBnB world in 2022.
+
+Michael, a fourth-generation Nashvillian, is self-employed as a freelance writer. 
+
+Nancy grew up in Detroit and Pittsburgh. A graduate of Albion and Vanderbilt, she was an instructor at VU for 17 years and  now works part-time at a Metro program serving adults who have intellectual disabilities.
+Where I went to school: He: MidTNStateU She: Albion/Vanderbilt
+My work: Writer &  Educator
+Fun fact: Honored to interview Dolly Parton.
+For guests, I always: Try to be home to help guests settle in.
+What makes my home unique: Peaceful home in historic neighborhood
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+179 reviews
+4.98 out of 5 average rating
+5 years of hosting

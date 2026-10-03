@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/28049102
+Latitude: 36.17888
+Longitude: -86.74777
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New apartment in East Nashville, 2 blocks from Five Points. Ideal getaway for 2 people (we will make exceptions for one or two adults  plus a child) on a quiet street in a fun neighborhood. No bachelorette parties, please !
+
+The space
+The apartment is on the second floor of our garage, with it's own door and stairway.
+
+The private bedroom has a queen size bed with comfortable cotton linens and comforter. It has an internet TV for access to your Netflix or Hulu accounts. There is a ceiling fan if needed.
+
+The living room has a futon couch that pulls out into a full sized bed. Cotton linens, comforter and pillows are available in the apartment. 
+
+There is a 1950s dinette table for dining in the combined living, dining and kitchen space. 
+
+The kitchen has an electric range, small dishwasher, pop up toaster and fridge. There are all the essentials for eating and cooking. There's a coffee grinder and automatic drip coffee maker. Coffee is provided, but there are many wonderful coffee shops within walking distance, too.
+
+The bathroom has a shower with shampoo and soap provided, as well as towels and a hair dryer.
+
+Basic necessities like Wifi, air conditioning and heat are available.
+
+Guest access
+Guests have access to the second floor apartment above our garage. There is an outdoor entrance with a keypad on the door.
+
+Other things to note
+There is an additional $20 charge if you need linens, pillows, blankets  for the futon. Please let us know in advance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 211726625
+Host Profile URL: https://www.airbnb.com/users/show/211726625
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+404 reviews
+4.96 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/34126961
+Latitude: 36.204
+Longitude: -86.7395
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 6
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pet friendly for $35 extra nightly, Conveniently located, new King bedroom with 2 twin beds & futon. Sleeps up to 4 adults/2 kids.short Uber ride to downtown- 5 miles. Brand New Condos featuring amazing walkability to East Nashville hot spots with Nicoletto's, Grimey's Music, Elegy's Coffee shop, The Fox Bar & cocktail club. & Mickey's Tavern right across the street.
+
+The space
+The entire 1 bedroom condo with kitchen, living room and bath with washer and dryer in the condo.
+
+Guest access
+There is an additional shared workspace and sitting area in the lobby area- see pictures.
+
+Other things to note
+There is an entry camera for security. You are welcome to unplug while you are there.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allison
+Host User ID: 36393087
+Host Profile URL: https://www.airbnb.com/users/show/36393087
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Manager
+Favorite song in high school: Wake me up before you go go -wham
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+915 reviews
+4.81 out of 5 average rating
+10 years of hosting

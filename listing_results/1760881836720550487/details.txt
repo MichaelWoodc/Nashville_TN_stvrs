@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1760881836720550487
+Latitude: 36.1591
+Longitude: -86.8154
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally located place. Stay in the heart of City Heights, one of Nashville's fastest-growing neighborhoods, just 5 minutes from Broadway. This modern condo offers an open-concept layout with high ceilings and stylish, contemporary finishes. Walk to coffee shops, a gym, and local restaurants right outside your door. Minutes from Vanderbilt, Belmont, TSU, and downtown's best nightlife and dining. Whether you're here for a weekend on Broadway or exploring Music
+
+The space
+This modern condo in City Heights offers an open-concept layout with high ceilings, abundant natural light, and contemporary finishes throughout. The kitchen features quartz countertops and stainless steel appliances, with an island that's great for morning coffee or entertaining. Comfortable bedrooms and stylish bathrooms round out the space, all designed for a smooth, easy stay. Located in a modern multi-use building with elevator access, this is city living made simple, just minutes from downtown Nashville.
+
+Guest access
+You'll have full private access to the entire condo for your stay, including the kitchen, living area, bedroom, and bathroom. The building offers elevator access, making it easy to come and go with luggage. Free driveway or on-site parking is available so there's no need to hunt for a spot.
+
+Other things to note
+This is a non-owner-occupied short-term rental with a valid permit for this unit. Quiet hours and community guidelines apply as this is a multi-use residential building — please be respectful of neighbors. Check-in and check-out details will be shared closer to your stay. Feel free to reach out with any questions, I'm happy to help make your stay as smooth as possible.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patrick
+Host User ID: 725959882
+Host Profile URL: https://www.airbnb.com/users/show/725959882
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, I’m excited to share our home with guests visiting the city. We want you to feel comfortable, enjoy the neighborhood, and have a great stay while experiencing the best of Nashville.
+Born in the 70s
+My work: Real Estate
+Response rate: 100%
+Responds within a few hours
+New Host

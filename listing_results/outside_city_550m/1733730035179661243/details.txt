@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1733730035179661243
+Latitude: 36.3015
+Longitude: -86.4917
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this comfortable and beautifully maintained guesthouse located just minutes from Nashville. Whether you’re visiting for business, a family vacation, or to experience Music City, you’ll enjoy a clean, peaceful, and fully equipped space designed for your comfort.
+
+We take pride in providing exceptional hospitality and a spotless home so every guest feels welcome. We look forward to hosting you and helping make your stay memorable
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 341729877
+Host Profile URL: https://www.airbnb.com/users/show/341729877
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+2 months hosting
+21 reviews
+5.0 out of 5 average rating
+2 months of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/22342168
+Latitude: 35.95136
+Longitude: -86.9458
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located perfectly in between Downtown Franklin and Leipers Fork (8 minutes to either) and only 3.5 miles from the Natchez Trace Parkway double arch bridge. Located on one of the most beautiful roads in Williamson County. Think large tracts of land, and 4 board fences (and maybe even a castle disguised as a recording studio!) This French Country themed Franklin cottage was designed for comfort and convenience. Whether you are coming to make music or memories, this can be your home away from home.
+
+The space
+3 full bedrooms (master with king bed and private bath, bedroom 2 with queen, and bedroom 3 with bunk beds and a trundle bed) give plenty of space to sprawl out. Our family and friends seem to congregate to one of 3 places, so we made those extra special. #1 the kitchen: Extra large, with island seating and a extra long workspace with extra seating. Complete with double ovens, refrigerator, smooth surface cooktop, dishwasher, toaster, Keurig, Vitamix, and a kettle to heat the water for your tea. #2 the Family Room: also extra large with a super comfy leather sectional from Pottery Barn, extra chairs, a desk in the corner, and a 58" LED TV with a Roku. #3 is the Back Patio: Covered for comfort, with plenty of seating and a big back yard for a game of catch or to let the kids tire themselves out. There are more amazing places to eat within a 10 minute drive that you'll need to come back time and again to try them all, but if you want to eat in and have a nice sit down dinner, the formal dining table seats 6. Need to work between your play? We've got you covered with ultra fast high speed WIFI. Staying for a while or have some clothes you need to wash before you head out?
+We have a full size washer and dryer available for your convenience. Have questions on anything we've missed. Just give us a shout!
+
+Other things to note
+This is a smoke and pet free home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Troy
+Host User ID: 35728168
+Host Profile URL: https://www.airbnb.com/users/show/35728168
+Host Profile URL Source: public user permalink from passport userId
+Troy’s a REALTOR, Entrepreneur and Songwriter. Ang is a retired homeschool mom turned Life Coach and Entrepreneur.
+
+We are serial creatives who love using our gifts to create environments and experiences that move the soul. 
+
+We enjoy a good project, whether that be fixing up a 100 year old farmhouse, or helping our young adult kids run a local theater company. 
+
+We hope our properties bless you on your journey!
+Lives in Knoxville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+236 reviews
+4.9 out of 5 average rating
+9 years of hosting

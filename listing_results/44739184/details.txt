@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/44739184
+Latitude: 36.15057
+Longitude: -86.79246
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music Row’s Spence Manor, home of world-famous musicians including Elvis Presley, Paul McCartney and Johnny Cash. Most artists would stay here when in town to record at nearby studios. This condo was designed to bring back the luxury that these musicians enjoyed. It is at the center of all Nashville entertainment. Enjoy the amenities which include a guitar-shaped pool (May through September) and free parking for 1 vehicle.
+
+The space
+This stunning one-bedroom, open-concept condo offers a luxurious retreat inspired by the elegance Elvis Presley enjoyed during his stays here at Spence Manor. Designed with a perfect blend of vintage glamour and modern sophistication, the space features two plush queen beds and a comfortable sofa bed, accommodating guests in style. The highlight is the extravagant bathroom, boasting a breathtaking shower and a lavish soaking tub, perfect for unwinding in true rockstar fashion. Every detail has been professionally curated to evoke the opulence of Elvis’s era, making this an unforgettable stay in the heart of Music City.
+
+Guest access
+Guests have full access to the entire condo, parking garage, and pool.
+
+Other things to note
+Please note that Spence Manor is a historic building, and its vintage charm reflects its rich past. Some of its well-loved patina is part of its character, not a flaw. If you prefer sleek, modern spaces, this may not be the right fit. Once a luxury hotel, Spence Manor was a favored retreat for legendary musicians, including Elvis Presley, who stayed here while recording in Nashville. Renowned for its iconic guitar-shaped swimming pool, it provided a private haven for celebrities. Today, it offers a distinctive blend of history and modern comfort, preserving its musical legacy in the heart of Music City.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

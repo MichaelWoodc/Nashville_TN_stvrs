@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/21231154
+Latitude: 36.18266
+Longitude: -86.75098
+rental_type: Entire place
+property_type: OTHER
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Put on a vinyl record, draw a bath, and open the old casement windows for a cross breeze. This carefully restored craftsman bungalow dates from 1899. It's beautifully appointed with mid-century and primitive finds, alongside art collected on travels.
+
+Please note: This listing may not be booked  for photo or video shoots without prior permission (and separate rates apply) 
+
+2 guests occupancy maximum. No additional guests. No parties.
+
+Nashville occupancy permit #2018066782
+
+The space
+The attic apartment is reachable by its own entrance off the back of the house, has its own rooftop deck, and is completely private from the rest of the house.
+
+I live in the house downstairs and so am almost always available if I can help with anything. I like getting the chance to say hello in person, if possible, but I also give guests their space and privacy. Once check in has happened I leave any contact up to the guests.
+
+Just a mile across the river from downtown, the house is five blocks from the historic Five Points. There is no more walkable neighborhood in town, with dozens of independent shops, coffee houses, bars and restaurants within a ten-minute stroll.
+
+Parking is anywhere on the street and is always plentiful. If you don’t have a car, then uber/lyft is your best bet when heading outside of the neighborhood. Rides downtown typically take 5-10 minutes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 7040278
+Host Profile URL: https://www.airbnb.com/users/show/7040278
+Host Profile URL Source: public user permalink from passport userId
+Nashville-born writer.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+1899 reviews
+4.95 out of 5 average rating
+13 years of hosting

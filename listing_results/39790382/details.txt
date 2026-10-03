@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/39790382
+Latitude: 36.14527
+Longitude: -86.64274
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern and clean designs with high end finishes. Professional designer selections. Open concept living allowing a great space to gather. Under 2 miles from the airport.  Host is a Superhost on an additional property and will respond quickly to all request.
+
+The space
+Modern & Stylish Renovated Home – Perfect for Your Stay
+
+Key Features:
+Prime Location: Enjoy the convenience of being under 2 miles from the airport, making travel a breeze.
+Modern Design: Newly renovated with high-end finishes and professional designer selections, creating a clean and sophisticated living space.
+Open Concept Living: The spacious layout allows for easy socializing and quality time with loved ones.
+Fully Stocked Kitchen: Equipped with quartz countertops, a tiled backsplash, new cabinets, and all the pots, pans, and utensils you need for gourmet cooking.
+
+Comfortable Bedrooms:
+Master Bedroom: Features a luxurious king bed for a restful night's sleep.
+Second Bedroom (Downstairs): Includes two single beds, perfect for additional guests.
+Upstairs Loft: Offers two more single beds, ideal for children or extra guests.
+Side Loft Room: The futon folds out into a full-size bed for extra sleeping space.
+
+Elegant Bathrooms:
+Downstairs: Modern vanity, a tiled walk-in shower, and contemporary tiled flooring.
+Upstairs: Upscale tiled tub/bath shower, designer vanity, and high-end finishes.
+
+Quality Bedding and Towels: Enjoy the comfort of Tempurpedic mattresses and soft linens . Fresh towels are provided and the home is professionally cleaned between each stay.
+
+No Pets or Smoking: To maintain a clean and healthy environment, pets and smoking are not allowed.
+Convenient Parking: Ample parking is available in the driveway and along the street.
+
+Outdoor Amenities: Relax on the rear deck or enjoy the yard, perfect for outdoor gatherings.
+
+Your host is a local expert and a Superhost on another property, ensuring quick responses and a seamless experience.
+
+Guest access
+It is a keyless system. Each guest will receive a unique code in their check in instructions. 
+
+Guest can use all spaces inside the home, as well as the rear deck and backyard.
+
+Other things to note
+We are locally owners here to answer questions and ensure your stay is enjoyable. Please let us know how we can help. 
+
+This home is in a residential community and it is not appropriate to hold parties or gatherings at the residence for more than what is listed on the reservation. Limit parking to 3 cars.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sally
+Host User ID: 101553583
+Host Profile URL: https://www.airbnb.com/users/show/101553583
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville native that loves to travel the world and create lasting memories with the people I care about most.
+Where I went to school: MTSU
+My work: Compass Realty
+Response rate: 100%
+Responds within an hour
+9 years hosting
+169 reviews
+4.7 out of 5 average rating
+9 years of hosting

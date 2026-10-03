@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/50663099
+Latitude: 36.19654
+Longitude: -86.77828
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A luxury two story home with incredible views of Music City. Three miles from Broadway, this is the perfect place for friends or couples to retreat and relax while exploring all that Nashville has to offer. The kitchen and living room are spacious and perfect for gathering, with a balcony off the back to enjoy the best views of downtown. The downstairs bedrooms and master bath are tranquil and comfortable, with a private deck complete with rocking chairs.
+
+STR Permit #: 2019followedby021and201
+
+The space
+• The views are unbeatable from this apartment! Private balcony on second floor and private deck on first floor. 
+
+• Designed to provide quiet, luxurious, and relaxing spaces, so you look forward to coming home after exploring the city.
+
+• Fully appointed dry bar on second floor — a must for evening entertaining.
+
+• Spacious living room, kitchen and dining area upstairs. Bedrooms and master bath downstairs.
+
+• Apple TV provided in the living room so you can watch movies and shows.
+
+Guest access
+You will have access to the entire space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric
+Host User ID: 216807078
+Host Profile URL: https://www.airbnb.com/users/show/216807078
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Eric. I’m a touring musician with roots in North Carolina and California. I’m currently either on the road playing shows or recording back in Nashville, Tennessee. Great to meet you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+113 reviews
+4.96 out of 5 average rating
+5 years of hosting

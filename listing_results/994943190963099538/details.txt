@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/994943190963099538
+Latitude: 36.1716
+Longitude: -86.7797
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern,  New Condo, on Nashville's riverfront. Beautifully decorated for an out of this world stay .
+Less than a mile to WALK to Broadway, Honkey Tonks, Bridgestone Arena. Nissan Stadium, Country Music Hall of Fame, Tootsies and the Ryman. FREE secure parking spot and FREE wifi. . Enjoy a stylish experience at this centrally-located place.
+
+Registration Details
+CASR - 2023070654
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scarlett
+Host User ID: 45101594
+Host Profile URL: https://www.airbnb.com/users/show/45101594
+Host Profile URL Source: public user permalink from passport userId
+Hi Guests , 
+I am a Nashville native I love to host parties with friends and family. I love helping guests at Getaways Nashville. 
+*I love people, encouraging and helping others
+*I love to laugh and enjoy life 
+*I love to travel 
+*I am a caring idealist
+*I am a mother to a wonderful daughter and she blessed me with two grand babies 
+*The Beach is my happy place !
+My work: Getaways Nashville
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+7542 reviews
+4.91 out of 5 average rating
+9 years of hosting

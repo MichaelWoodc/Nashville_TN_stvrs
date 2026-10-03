@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/886529245851323789
+Latitude: 36.0825
+Longitude: -86.7182
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+An elegant, comfortable, and private basement apartment attached to the main house. Enjoy a lovingly decorated space with rustic charm. You can relax and enjoy the peace and comfort we offer.
+Your family will be close to everything when you stay at this centrally located accommodation, just 15 minutes from the city center and the airport.  It's also very close to Nashville's best attractions.
+
+The space
+The apartment is a cozy private space with three spacious rooms: the bedroom with its closet, the dining area where we have a pool table in front of the kitchen and a desk with a chair for working, and finally the living room where we have a large sofa bed and the television.
+
+Guest access
+The entire apartment area, the porch, and the parking space are the areas designated for guests.
+
+Other things to note
+This property has all the necessary licenses and operates in full compliance with the regulations of the City of Nashville and Davidson County.
+
+This property has all the necessary licenses and operates in full compliance with the regulations of the City of Nashville and Davidson County.
+
+Registration Details
+2025080281
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Raymel
+Host User ID: 485802016
+Host Profile URL: https://www.airbnb.com/users/show/485802016
+Host Profile URL Source: public user permalink from passport userId
+I am Raymel, creator of Moleiro Productions, a creative initiative focused on events and experiences. I really appreciate the details, organization and good treatment. As a host, I like my guests to feel comfortable, well oriented, and calm during their stay. I am available when you need me and I always respect your privacy.
+Born in the 80s
+My work: Actor, Director
+Response rate: 100%
+Responds within an hour
+Superhost
+8 months hosting
+32 reviews
+5.0 out of 5 average rating
+8 months of hosting

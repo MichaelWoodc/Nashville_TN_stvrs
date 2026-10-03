@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1625413239104075686
+Latitude: 36.18609
+Longitude: -86.72828
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming, Historic 4-bedroom, 2-bath single-family home in the heart of East Nashville's highly walkable neighborhood. Available for month long rental!
+1.5 miles to Mitchell's Deli.
+
+Enjoy the spacious kitchen, which has plenty of dishes to cook or bake your favorite meal.  All four bedrooms feature queen-sized beds. Home includes two smart TVs- one in the upstairs bedroom and one in living room. 
+Enjoy a fully fenced yard, off-street parking. Pet friendly!
+
+The space
+The driveway can fit 1-2 cars and there is plenty of street parking. We do ask that you park in front of the house and not the neighbors. You enter the living room, which has a sofa, and two chairs, with a smart TV. The kitchen has a large island and stainless appliances. 4 kitchen stools are around the island. The downstairs has a full bathroom, with a tub/shower combo. The two downstairs bedrooms feature queen-sized beds. The upstairs has two large bedrooms with closets in each. One upstairs bedroom has a smart tv, and a dvd player. We have over 200 dvds to choose from! The upstairs also feautures a bathroom with tub/shower combo. The backyard is fenced (You do not have access to the shed). The backyard features a wood patio with an outdoor dining table and a propane grill.
+
+Guest access
+You have full access to the house, except for the basement and outside shed.
+
+Other things to note
+This is a quiet, close-knit neighborhood. Good neighbor policy is very important at this home. Please be curteous of quiet hours and where you park your vehicles. 
+
+This home is historic and from 1946. There are some quirks to the home, and we have tried to keep the historic charm from the original front door hardware, fireplace, door handles, etc. 
+
+Please keep in mind, that you do not have access to the washer and dryer as the basement is not part of the rental. 
+
+The upstairs was remodeled and the ceilings are angled, which was once part of the attic. So if you're tall, please be careful :)
+
+There is a train nearby, so you may hear train noise at times.
+
+Only guests with good reviews can make reservations. No Nashville residents without prior authorization from host.
+
+The stairs to the upstairs are fairly steep, may not be ideal for some guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Porchlight Management
+Host User ID: 747288404
+Host Profile URL: https://www.airbnb.com/users/show/747288404
+Host Profile URL Source: public user permalink from passport userId
+Hi my name is Lauren! I am the owner of Porchlight Property Management. We specialize in rentals in the Nashville market. We pride ourselves in keeping our properties well stocked, ultra- clean and easy communication.  I have been a property manager for over 10 years, and have a 4.97 Airbnb rating. Let me know if you have any questions, as I'm always happy to answer!
+Born in the 80s
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+7 months hosting
+36 reviews
+4.75 out of 5 average rating
+7 months of hosting

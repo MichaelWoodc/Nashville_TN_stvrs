@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1701640652404598149
+Latitude: 36.33426
+Longitude: -86.8421
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil romantic getaway. Full kitchen with private hot tub and unlimited firewood  for camp fire in a country setting..
+22 minutes from downtown Nashville..
+15 minutes from Goodlettsville antique malls...Great place to relax...
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 358917311
+Host Profile URL: https://www.airbnb.com/users/show/358917311
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+3 months hosting
+4 reviews
+5.0 out of 5 average rating
+3 months of hosting

@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/23754741
+Latitude: 36.10972
+Longitude: -86.73419
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+2025-Renovated 4 or 5 Bedroom 12 Beds Big Beauty in a quiet neighborhood an easy 4 Mile Drive from all the popular destinations downtown.  Central location makes it great for getting around everywhere & All but 1 bedroom has its own private bath inside the bedroom!
+
+2 Washer & Dryers in this home!
+
+Our standard offering is 4 Bedrooms 4 Baths but there is also an internal but separate Big studio apartment also available if you want an 5th Bedroom / extra master suite!  Inquire about that if so.
+
+The space
+Huge renovation and Expansion in 2025 making now 5 Bedrooms 5 Baths with Hot Tub and big private back yard!!
+
+STRP#2017009074
+
+Guest access
+STRP#2017009074
+
+Other things to note
+House Rules: 
+**NO SMOKING IN SIDE OR NEAR DOORS!! If we find any evidence of smoking in this home, either by smell or paraphernalia, you lose security deposit.
+Outside quiet hours dark until 9:00 a.m.
+No loud voices, music, or celebrating outside at any time.
+Noise complaint/police called = forfeited deposit.
+No more than 2 unregistered guests in the house at any time.
+No parking in the grass. Keep all vehicles on concrete areas.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brent
+Host User ID: 9805687
+Host Profile URL: https://www.airbnb.com/users/show/9805687
+Host Profile URL Source: public user permalink from passport userId
+Meticulous homeowner and avid golfer 50-year-old male who is a film maker, in the music business and music video producer in "Music City" and photographer. 
+Enjoys golf, tennis, runner, singer and guitar player.
+Born in the 60s
+My work: Film maker, Author, and music video producer, photographer and owner of rental properties
+Response rate: 100%
+Responds within an hour
+13 years hosting
+1890 reviews
+4.59 out of 5 average rating
+13 years of hosting

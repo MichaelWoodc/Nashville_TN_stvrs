@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/47891533
+Latitude: 36.1594
+Longitude: -86.8068
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect for bachelorettes, reunions, and Nashville group trips. Sleeps 10 with something no other listing has: an in-building speakeasy, pool, free parking, and just 2 miles to Broadway. 300+ five-star reviews, 4.96 rating.
+
+Beautifully restored 1865 tobacco barn with exposed beams, rustic character, and modern amenities.
+
+The pool is actively maintained beginning Memorial Day weekend each year.
+
+The space
+The avg Airbnb rating in Nashville is 4.8 stars. Now look at this loft's rating. You can trust you've found a great getaway for your trip :)
+
+Surrounded by beautiful exposed brick, giant wooden beams stretch from side to side of the space, dwarfed by the high vaulted ceiling. Combine this with natural light from the morning sun and you find yourself in an extremely unique and satisfying space to start and end each day.
+
+Guest access
+Directions to New Rustic Loft will be provided prior to your arrival. You will receive check in instructions that include a door code so you can access the building and loft at your leisure.  Once on the property, you will have access to the 4th floor terrace, pool and self-serve guest bar. The pool is always open, but it is only heated enough to prevent freezing. Polar bear plunge anyone?!
+
+Free parking for up to two vehicles in the gated lot is provided per reservation!
+
+Other things to note
+**Keeping the Space Beautiful**
+
+Please help us keep the space beautiful for the next guests. We provide black towels specifically for makeup removal. If excessive glitter, confetti, or stains require professional cleaning beyond normal use, a small additional fee may apply. Most guests never have an issue!
+
+If white towels are stained from makeup, a small replacement fee ($10 each) may apply. Thank you for helping us maintain this special space!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 18330359
+Host Profile URL: https://www.airbnb.com/users/show/18330359
+Host Profile URL Source: public user permalink from passport userId
+I’m an adventurous soul with an appetite for experiencing new things, new learnings, and new friends. My focus on top notch service and experiences has led to hundreds of reviews at an avg ~4.96 star rating vs the Airbnb avg of 4.8 stars. I believe this is due to prioritizing very genuine interaction with guests while creating a comfortable and unique stay that is hard to find when traveling.
+Born in the 80s
+My work: Superhost / Nashville Local
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1346 reviews
+4.97 out of 5 average rating
+9 years of hosting

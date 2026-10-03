@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/792815344610050016
+Latitude: 36.2685
+Longitude: -86.7769
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 6
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+One of the last standing farms in Nashville.  Glamping Near Downtown with the full farm experience!  That's country; That's Nashville. We offer the fun of camping with all the creature comforts of a hotel. We have a queen size bed, and two sets of bunk beds, plus a futon couch if you need to squeeze in another. It is perfect for groups, but just as wonderful for a romantic stay for a couple. There is also a private bathhouse just steps away!
+
+The space
+The farm is beautiful, plus extremely close to downtown. Just far enough to be peaceful when you return from the Downtown city lights. (We are only 8 miles from downtown.) We are a working egg farm, so while you are here you will see tons of our chickens. We also have an egg stand on the road that is honor system and has fresh eggs available. 
+
+Inside the tent, there is the queen sized bed, two sets of bunk beds, and a futon. There is also a gas fireplace that will keep you more than toasty all winter long, and in summer we have air conditioning. On the front deck that is also covered by the tent, we have a gas fire pit that you can sit around and enjoy. Plus all the cooking and eating utensils you will need, as well as a cook top. If you prefer a real fire pit, we have that too! Surrounded by comfortable seating for your group. Another bonus- a hammock so you can swing the day away. 
+
+Bathrooms are always easily accessible and just a short walk away. You will have your own private bathroom with a shower, toilet and vanity. (No sharing bathrooms like when you are at a campsite!) At the bathhouse you will also find a room that has a washer and dryer as well as a dish washer.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 188342695
+Host Profile URL: https://www.airbnb.com/users/show/188342695
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+757 reviews
+4.93 out of 5 average rating
+8 years of hosting

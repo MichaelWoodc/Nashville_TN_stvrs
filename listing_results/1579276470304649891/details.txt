@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/1579276470304649891
+Latitude: 36.14374
+Longitude: -86.82091
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+One of the most sought out areas of Nashville! This West End condo is surrounded by beautiful homes alike. You are central to all! West End is full of places to eat, shop, see + downtown is a stones throw!
+Relax in this quiet residential community at night + see the city by day!
+
+The space
+Cozy - Homey - Quiet + a great place to relax!
+
+1st floor:
+->full kitchen
+->living area with two futons and a twin bed
+->4 seater dining
+->1/2 bath
+->outdoor patio
+
+2nd floor:
+->two queen bedrooms each with an ensuite bath
+
+*please note these townhomes are not new builds, they are from the late 80s and hold some character still from then!
+
+We are located right off West End, a highly sought out quiet neighborhood, close to all highways, downtown + lots of places to eat + explore. Check out the parthenon! 6 minutes to downtown! 4 minutes to midtown!
+This is a very peaceful and quiet residential area
+
+Guest access
+Keypad to get in, it is self check in, please note we do have check in hours of 3pm-8pm (this is when we are avaliable for assistance) you can check in anytime!
+
+Other things to note
+DISCLAIMER:
+-Additional guests outside of your confirmed guest count are not allowed on our property + go against your rental agreement.
+-We have a zero tolerance policy on our property being used for ANY kind of loud gathering or party. We have cameras + security. Per your rental agreement this is grounds for eviction without question or refund + possible legal action.
+-Upon confirming your booking, you are subject to our House Rules, Rental Agreement which you sign and/or enter it upon checking in, which includes this disclaimer + much more.
+*NO LOCALS ALLOWED TO BOOK ANY OF OUR PROPERTIES, YOU WILL BE CANCELLED*
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Key Change Stays
+Host User ID: 76759762
+Host Profile URL: https://www.airbnb.com/users/show/76759762
+Host Profile URL Source: public user permalink from passport userId
+We are Key Change Stays!
+
+We have been in Nashville for decades and are proud to provide lodging and concierge to any who are coming through Music City! 
+
+Our themed units are perfect for your stay in Nashville!
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 93%
+Responds within an hour
+9 years hosting
+1761 reviews
+4.7 out of 5 average rating
+9 years of hosting

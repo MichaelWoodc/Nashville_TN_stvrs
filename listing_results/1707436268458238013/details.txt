@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1707436268458238013
+Latitude: 36.1939
+Longitude: -86.7786
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your new favorite Nashville hangout! This open-concept  is built for comfort & convenience, perfect for kicking back after a day out in the city. The spacious living area offers plenty of seating & a large kitchen island—ideal for morning coffee, casual breakfasts, or planning your adventures.
+Whether you're here for a weekend getaway, work trip, bachelorette party, or vaca with family &friends.
+
+✨ Concierge & Custom Guest Services  & Flexible Sleeping Arrangements Available ✨
+
+The space
+**Flexible Sleeping Arrangements Available**
+
+Need a specific bed setup? Just ask! 
+While our standard layout focuses on our main bedrooms, we know every group is different (especially for girls' trips and big weekends!). If your party needs extra or separate beds, just let us know ahead of time. We keep additional comfortable bedding setups right on-site and are happy to get everything ready for your group before you arrive so everyone gets a perfect night's sleep.
+
+Guest access
+The  upper 2 levels are yours to enjoy. To make your arrival completely stress-free, we use a secure, key-free smart lock system. Your unique access code will be sent straight to your phone before you arrive, so you can check yourself in seamlessly whenever you get into town.
+
+Other things to note
+✨ Concierge & Custom Guest Services ✨
+To ensure your stay is completely seamless and stress-free, we are delighted to offer personalized, pre-arrival concierge services tailored just for you.
+Whether you want to skip the lines or walk into a fully stocked home, we’ve got you covered:
+
+ * **🛒 Pre-Arrival Grocery Stocking:** Send us your shopping list, and we will have your favorite foods, snacks, and essentials perfectly organized in the kitchen before you arrive.
+
+ * **🍾 Premium Beverage & Alcohol Pickup:** Let us know your preferred wine, beer, or spirits so your celebrations can begin the moment you step through the door.
+
+ * **🛋️ Bespoke Arrangements & Special Requests:** Planning a special occasion? From coordinating specific milestone decorations to arranging local recommendations, just ask! We are committed to making your stay exceptional.
+
+**How it works:**
+Once your booking is confirmed, simply message us with your requests. We handle the shopping and setup for a standard service fee plus the cost of items.
+*Relax, unpack, and let us take care of the heavy lifting!*
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Frankie
+Host User ID: 63880425
+Host Profile URL: https://www.airbnb.com/users/show/63880425
+Host Profile URL Source: public user permalink from passport userId
+Loves God, people, and to travel.
+My work: Entrepreneur
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+3 years hosting
+1 reviews
+5.0 out of 5 average rating
+3 years of hosting

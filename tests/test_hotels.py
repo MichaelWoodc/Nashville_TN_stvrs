@@ -2,6 +2,10 @@ import unittest
 from hotel_classification import classify_hotel
 
 class HotelTests(unittest.TestCase):
+    def test_tiny_homes_override_hotel_evidence(self):
+        for row in [{'rental_type':'Tiny home','host_name':'Hilton'}, {'property_type':'TINY_HOUSE','room_type':'Hotel room'}, {'title':'Tiny homes in SoBro','host_name':'AvantStay Nashville'}, {'title':'Tiny-house near a hotel'}]:
+            with self.subTest(row=row):
+                self.assertEqual(classify_hotel(row), {'likely_hotel':False,'hotel_evidence':[]})
     def test_sources(self):
         for row in [{'room_type':'Hotel room'}, {'rental_type':'Room in boutique hotel'}, {'title':'Wyndham Nashville 2 bedroom condo'}, {'host_name':'AvantStay Nashville Hotels'}, {'description':'Welcome to Club Wyndham Nashville.'}, {'title':'Studio 154 Luxury Suite'}, {'description':'Our boutique hotel offers king rooms.'}]:
             with self.subTest(row=row): self.assertTrue(classify_hotel(row)['likely_hotel'])

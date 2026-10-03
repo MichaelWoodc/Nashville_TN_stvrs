@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/801611698426352113
+Latitude: 36.0895
+Longitude: -86.64339
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pet-friendly two-story duplex close to BNA (3 miles). Provides space for up to five people. Downstairs includes cable tv, futon, dining table, full kitchen, coffee maker, dishwasher, washer & dryer, patio. Upstairs consists of two bedrooms (one queen and one full-sized bed) and a full bathroom.  Grocery store and bus route within 0.5 miles. Wifi included. 
+Please keep in mind this is not a space with great views or luxurious furniture. Just a cheap place with comfy beds close to downtown.
+
+The space
+The property is located in Nashboro Village. Nashboro Village started in the 1970’s as a mixed property development with apartments and duplexes and has been expanded to include more modern townhomes and apartments. 
+The neighborhood is generally safe. You will hear noises like cars revving their engines, loud/bassy music, sirens, and the occasional gunshot. But we have never had any issues and we love our friendly neighbors. 
+The duplex was built in 1979. We have made many upgrades to the space, with many more planned, but it is an old house that creaks. The space itself is roughly 1100 square feet with all the amenities you would need for an at-home feel for your trip. The beds have been praised as very comfortable and there are noise machines in each bedroom as well as ear plugs for those who prefer silence while sleeping. 
+If you have any questions, please don’t hesitate to reach out!
+
+Guest access
+Guests have access to the other half of the duplex.
+
+Other things to note
+There is an orange cat named Fire that roams the property who may try to enter with you. He is welcome inside if you want to let him in but feel free to shoo him away if you don’t want him inside.
+There is also a chunky black cat named Lolito who belongs to our neighbors. Lolito is very friendly and is also welcome inside but please don’t let both cats in at the same time as they are mortal enemies and Fire will screech like nothing you’ve hear before. 
+The space is close to a very busy road so there will be noise coming from the road. It’s not loud but you may hear a car revving or music every so often.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 310663525
+Host Profile URL: https://www.airbnb.com/users/show/310663525
+Host Profile URL Source: public user permalink from passport userId
+Hello! My husband and I have lived in Nashville for over 15 years and have lived in Tennessee for most of our lives. We live on the other side of the duplex we host with our cats (Kiki, Jack, and Fire) and our bearded dragon (Gus). We have loved watching Nashville grow and wanted to share the growth with those who haven't had the chance to experience what all Nashville has to offer. I work in the legal field and am a full-time student while my husband is a public school teacher. Thank you for taking the time to check out our place and profile. If you have any questions, feel free to reach out!
+My work: Legal field
+Most useless skill: Being 6’2”
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+153 reviews
+4.8 out of 5 average rating
+4 years of hosting

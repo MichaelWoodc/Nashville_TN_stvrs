@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/22925475
+Latitude: 36.14423
+Longitude: -86.76398
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 24
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Up to 26 guests!! Located in Chestnut Hill, this listing aggregates 3 separate townhomes in the same gated community. This large listing is perfect for your professional getaways! A 2 min Lyft/Uber ride will get you downtown to our convention center! Sports fan? NFL titans home Nissan Stadium and NHL Predators home Bridgestone arena 5 min away! The Gulch, home to some of Nashville’s best restaurants, will keep your group dinning in style and is also only minutes away!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

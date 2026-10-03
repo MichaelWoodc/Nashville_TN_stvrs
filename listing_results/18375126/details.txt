@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/18375126
+Latitude: 36.17569
+Longitude: -86.74892
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This home is in the heart of Five Points in East Nashville, Tn. Wrap around front porch and fenced in back yard. My home has 4 bedrooms and 2 1/2 baths and a large gourmet kitchen. It has multiple fireplaces and gleaming hardwood floors throughout the house. We are within walking distance to nice restaurants, music venues and much more. Uber and Lyft accessible and only 5 minutes to Nissan Stadium, Bridgestone, The Ryman and Downtown. location, location, location.
+
+Guest access
+The entire house!
+
+Other things to note
+You may schedule a ride from the airport just let me know a little in advance. You can also have your luggage delivered to you destination before your check in time!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jimmy
+Host User ID: 119811037
+Host Profile URL: https://www.airbnb.com/users/show/119811037
+Host Profile URL Source: public user permalink from passport userId
+I'm James, and here are a few things about me: I'm also an Airbnb host.
+My work: CEO ; Donovan Enterprises Inc.
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+901 reviews
+4.79 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/51422175
+Latitude: 36.10185
+Longitude: -86.74094
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This great family home has lots of room for fun--only 10 min from Downtown Nashville & surrounded by great food & Nashville Zoo!
+Located on Nolensville Pike, this beautiful two story home is perfect for your trip to Nashville with friends and family. Plenty of living space and comfy beds accommodates 10 guests, serving as a great place to relax after a full day, or cozying up with some Thai take out and tv during a rainy day.
+This unit also includes a pack-n-play & smart TV.
+
+Permit #2022067152
+
+The space
+Please note all bedrooms are upstairs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Victoria
+Host User ID: 416329880
+Host Profile URL: https://www.airbnb.com/users/show/416329880
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+I spend too much time: Reading and doing toddler laundry
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+266 reviews
+4.86 out of 5 average rating
+5 years of hosting

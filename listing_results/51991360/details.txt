@@ -1,0 +1,31 @@
+URL: https://www.airbnb.com/rooms/51991360
+Latitude: 36.17001
+Longitude: -86.81186
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This apartment is located within minutes from downtown in what they call “NORTH NASHVILLE “. It is located on one of the most historic streets in nashville. It is within walking distance to three HBCU’S of nashville, MeHarry university,Tennessee State University and Fisk University.There are also many local diners,restaurants and the NEW NASHVILLE SOUNDS STADIUM on the same street. Permit #2019029786
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karla
+Host User ID: 48786694
+Host Profile URL: https://www.airbnb.com/users/show/48786694
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+5 years hosting
+9 reviews
+4.44 out of 5 average rating
+5 years of hosting

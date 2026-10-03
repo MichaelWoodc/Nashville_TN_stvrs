@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1653873014005754528
+Latitude: 36.16223
+Longitude: -86.80765
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 9
+beds: 12
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy easy access to everything from this perfectly located home base.
+
+The space
+Enjoy your time in The Music City with your group of friends or family by spreading out in our spacious new-construction home.  Just moments from downtown, this home is the perfect place to get ready for your night out on Broadway, or to relax as a group while using our ample open-space social area and fully equipped kitchen. Wind down your day in our generous sleeping arrangements or cozy up on the couch to watch your favorite show. Our home is close to restaurants, nightlife, shopping, parks and much more.
+
+Check out the great view of the capital building from our front porch as it lights up at night!
+
+Other features:
+Drip coffee maker and k-pod machine
+Washer and dryer 
+Excellent wireless internet
+Memory foam mattresses
+Extra pillows and blankets
+Comfortable linens
+Cotton bath towels
+Hair dryers
+Shampoo and body wash
+
+Guest access
+Keyless entry to the property via keypad.
+
+Other things to note
+While the neighborhood is mostly quiet and safe this is still an urban environment and you should always remain aware of your surroundings and use common sense. We recommend that you don't leave valuables in your car and don't leave the doors and windows unlocked when you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

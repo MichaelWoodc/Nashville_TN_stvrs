@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1687197926293618288
+Latitude: 36.1316
+Longitude: -86.7076
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Nashville Oasis! This unit was completely renovated in June 2024. Everything is brand new! It is conveniently located just 10 minutes from BNA Airport, Downtown Broadway, and Opryland. The property is peaceful and serene. It is situated on over an acre with a creek running through the backyard. You can rest on the back deck or sit around the fire pit. This is a convenient, yet quiet location that is will suit the needs of families, business travelers, and weekend warriors alike!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Abdoulaye
+Host User ID: 757058754
+Host Profile URL: https://www.airbnb.com/users/show/757058754
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Vanderbilt University
+Response rate: 100%
+Responds within an hour
+4 months hosting
+21 reviews
+4.95 out of 5 average rating
+4 months of hosting

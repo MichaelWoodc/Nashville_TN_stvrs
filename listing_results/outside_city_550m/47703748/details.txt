@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/47703748
+Latitude: 35.93151
+Longitude: -86.78889
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming cottage home nestled on one acre in the heart of Cool Springs.  This home has 2 beds, 2 baths, and a double deck to for the outdoor bbq. 
+Many guests have enjoyed using the fire pit outside and were delighted in spotting the turkeys and deer that are living in areas nearby. 
+The Cozy cottage is Conveniently located minutes from grocery stores, coffee shops and restaurants.  It is  located 1.5 miles from I-65 and 5 Miles to historic downtown Franklin and 25 miles to downtown Nashville."
+
+Other things to note
+Please note that there is road construction happening on our street e mcewen corridor which is currently m-f from 7am-3pm Monday- Friday. They are adding a new road across from our current road which you will see construction 🚧 happening paving way for a new 4 lane road.  Please reach out to me if you have any questions. 
+Thank you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 189232594
+Host Profile URL: https://www.airbnb.com/users/show/189232594
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Louisiana State University
+My work: Real estate specialist
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+98 reviews
+4.62 out of 5 average rating
+8 years of hosting

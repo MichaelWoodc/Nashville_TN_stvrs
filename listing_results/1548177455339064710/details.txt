@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/1548177455339064710
+Latitude: 36.04138
+Longitude: -86.63047
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience modern comfort just outside the heart of Music City. This beautifully furnished 3-bedroom, 2.5-bath home offers a peaceful escape with quick access to Nashville’s best attractions. Forget your worries in this spacious and serene space.
+
+The space
+The Home
+
+Spacious and stylish three story layout
+
+3 beautifully appointed bedrooms
+
+2.5 modern bathrooms
+
+Fully furnished with contemporary decor and cozy touches
+
+Open-concept living and dining area perfect for relaxing or entertaining
+
+Fully stocked kitchen for home-cooked meals
+
+High-speed Wi-Fi, smart TVs, and convenient parking
+
+What Guests Love
+Whether you're visiting for a weekend getaway, family trip, business stay, or to explore Nashville’s music scene, this home offers the perfect blend of comfort, style, and convenience. Enjoy peaceful suburban surroundings while being minutes from shopping, entertainment, nature, and iconic Nashville attractions.
+
+Guest access
+Guest has access to the entire house and 2 parking spots located behind home.
+
+Other things to note
+Prime Location
+
+5 minutes to Tanger Outlets for shopping, dining, and entertainment
+
+15 minutes to BNA Nashville International Airport
+
+20minutes to Downtown Nashville and Broadway
+
+20 minutes to MQY Airport (Smyrna/Rutherford County Airport)
+
+20 minutes to Opryland Hotel and Opry Mills
+
+15minutes to Nashville Shores Water Park
+
+7 minutes to ice skating, local eateries, coffee shops, and more
+
+Surrounded by green parks and walking trails
+
+.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 721033913
+Host Profile URL: https://www.airbnb.com/users/show/721033913
+Host Profile URL Source: public user permalink from passport userId
+Nashville born unicorn! I love people and enjoying new restaurants in my free time!
+Where I went to school: University School of Nashville
+Fun fact: I carry Tabasco sauce in my purse!
+Response rate: 100%
+Responds within a day
+10 months hosting
+19 reviews
+4.84 out of 5 average rating
+10 months of hosting

@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1747362534868737295
+Latitude: 36.2045
+Longitude: -86.6346
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming house is one of a kind & very convenient - 15-20 minutes from downtown, 10 minutes from BNA airport, 10 minutes from Opryland/Grand Ole Opry. 
+
+Half acre with deer, birds, & hummingbirds daily! Bird seed & hummingbird nectar left for renters to keep the birds coming! This 3 bedroom house can sleep up to 10 people (3 queen beds & 2 couches). Washer dryer. Renovated bath & kitchen, kitchen stocked with all utensils/equipment. Fenced backyard for dogs. TVs, Puzzles, & games included!
+
+The space
+Brick rancher with 3 bedrooms, 1 full renovated bath, one full renovated kitchen, one original living room and one bonus room that has a living area and a dining room with full table/chairs, games, cards, puzzles, tv, etc.
+
+Guest access
+Can use all rooms in the house and all of the yard and parking.
+
+Other things to note
+The fireplace is not functional and for decoration only, there is also a sign on it saying this. Thank you!
+
+Registration Details
+Permit # 2026062924 (Nashville gov STRP permit)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristen
+Host User ID: 237671824
+Host Profile URL: https://www.airbnb.com/users/show/237671824
+Host Profile URL Source: public user permalink from passport userId
+Hi! We are so looking forward to our stay at your gorgeous spot!
+Born in the 90s
+My work: Lawyer (also theater
+Response rate: 100%
+Responds within an hour
+6 years hosting
+17 reviews
+4.94 out of 5 average rating
+6 years of hosting

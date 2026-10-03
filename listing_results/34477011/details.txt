@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/34477011
+Latitude: 36.08242
+Longitude: -86.62315
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 3
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Embark on a Nashville adventure just 4 miles from the airport! 🌟 Our private suite blends Southern charm with contemporary comfort. Enjoy exclusive access, a private bathroom, and a welcoming ambiance. Perfect for travelers seeking convenience without compromising on privacy. Your tranquil escape awaits in Music City! 🎸🌇 #NashvilleGetaway #PrivateSuite #ConvenientlyLocated #TravelInStyle
+
+The space
+Indulge in comfort in our private suite, featuring a plush queen bed for a restful night's sleep. Pamper yourself in the private bathroom equipped with a soothing whirlpool. For added convenience, access laundry facilities upon request. Your perfect blend of relaxation and practicality awaits! ✨🛏️🛁 #SereneGetaway #WhirlpoolRetreat #LaundryOnDemand
+
+Guest access
+Guests enjoy exclusive access to a charming patio, perfect for sipping morning coffee or evening relaxation. Laundry service is available, ensuring a hassle-free stay. As a personal touch, I've hosted delightful dinners for guests in the past, creating a warm and welcoming atmosphere. Experience hospitality beyond the ordinary! 🌿🍽️
+
+During your stay
+Your experience is tailored to your preferences. Enjoy the privacy you desire, or feel free to connect over dinner for a more personalized touch. Your comfort is our priority—whether you seek solitude or a friendly chat, we're here to make your stay memorable. 🌟🍽️
+
+Other things to note
+Step into our smoke-free haven! No smoking allowed, ensuring a fresh atmosphere in our private suite. Need something special or craving a delicious dinner experience? Take the lead—reach out! Your comfort is our mission, and we're here to make your stay exceptional.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cassandra
+Host User ID: 145510660
+Host Profile URL: https://www.airbnb.com/users/show/145510660
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+7 years hosting

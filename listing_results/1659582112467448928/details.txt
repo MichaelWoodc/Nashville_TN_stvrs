@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1659582112467448928
+Latitude: 36.2038
+Longitude: -86.7423
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect East Nashville getaway! This stunning, professionally designed townhome offers the ideal blend of modern comfort, style, and convenience, perfect for weekend trips, business travel, or extended stays.
+
+The space
+Our house is a 3 bed/3 bath home located in East Nashville. It is only 6 miles from Broadway!
+
+All our beds:
+1 King Bed
+2 Queen Beds
+1 Queen Air mattress to set up in the living room area. 
+
+The house can accommodate 7-8 guests.
+
+Guest access
+You have access to the entire house. There is free parking for two small vehicles in the garage. Do not park in front of the garage or you will be towed/booted. There is also paid parking for excess/larger vehicles across from the unit next to the mailboxes, just be sure to scan the QR code on the sign to pay for parking in this area.
+
+Registration Details
+2025090505
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jake/Joshua
+Host User ID: 597083648
+Host Profile URL: https://www.airbnb.com/users/show/597083648
+Host Profile URL Source: public user permalink from passport userId
+Meet Your Hosts: Jake & Joshua
+
+Welcome to Gomes Homes Nashville! We’re Jake and Joshua, and we’re passionate about creating comfortable, memorable stays for guests visiting Music City!
+
+Whether you’re here for Broadway, a weekend getaway, a concert, a bachelor/bachelorette trip, or simply to explore Nashville, our goal is to make your stay as easy and enjoyable as possible. 
+
+Welcome to Nashville, we’re glad to have you!
+— Jake & Joshua | Gomes Homes Nashville
+My work: Property Manager
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+2 years hosting
+201 reviews
+4.75 out of 5 average rating
+2 years of hosting

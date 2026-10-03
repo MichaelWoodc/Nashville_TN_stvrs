@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/54273933
+Latitude: 36.29036
+Longitude: -86.62963
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hosted by Hartline Hospitality. This amazing Lakefront Retreat in Hendersonville located on Old Hickory Lake just 20 minutes from downtown Nashville is a hidden gem. 8ft deep pool, slide, and hot tub!  We provide ample opportunity for lakefront fun  just steps away from the house. Enjoy breathtaking views of the lake and wildlife right outside the large windows. We are currently offering 30+ day rentals. Hendersonville also has great parks and greenways to enjoy, shopping, and dining options.
+
+The space
+Looking for a peaceful retreat with spectacular views of the lake? Look no further than our spacious and modern home! This stunning 3-bedroom house features an open floor plan with plenty of cozy sitting areas, a full dining room that comfortably seats 8, and a large kitchen equipped with all the essentials for whipping up delicious meals.
+
+The house boasts a big window that provides breathtaking views of the serene lake, making it the perfect spot for wildlife watching and enjoying the tranquil atmosphere. The master bedroom is fitted with a king bed and comes with its own in-suite shower bathroom. The hallway full bathroom features a tub/shower combo.
+
+The Queen bedroom and additional bunkroom with 4 twin bunk beds are perfect for accommodating your family or group of friends. The house sleeps 12 guests comfortably, ensuring that everyone has a cozy spot to lay their head at night.
+
+But that's not all – this house also features an awesome, spacious bonus room area with a dining nook, a huge TV, and a large couch, providing plenty of space for lounging and unwinding after a long day. Need to catch up on work while you're away? No problem – the house also comes with a private office space equipped with a desk, providing a quiet and comfortable spot to focus.
+
+The outdoor patio is equally impressive, featuring ample seating and dining space and offering stunning lakefront views. And if you're feeling adventurous, take advantage of the house's kayaks and paddleboards and explore the lake up close and personal.
+
+Whether you're looking for a peaceful retreat, a place to bond with family and friends, or a home base for exploring the area, our modern and comfortable house has everything you need for an unforgettable vacation. Book your stay today and experience the beauty and tranquility of lakefront living!
+
+Guest access
+Access to entire home.  No access to garage.  Keypad code given 1 week prior to your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rachael
+Host User ID: 16805934
+Host Profile URL: https://www.airbnb.com/users/show/16805934
+Host Profile URL Source: public user permalink from passport userId
+We are a family of 4 who love adventure and travel.  Robert is a local entrepreneur who had a vision to diversify his business when the short term rental market was just starting in Nashville in 2016.  Hartline Hospitality has now grown to 4 properties in the Nashville area and 1 in Uvita Costa Rica.  We pride ourselves in giving our guests unique experiences and 5-star stays!   Hosting our homes on Airbnb is perfect for us because others can enjoy our homes while we are away.  We hope to provide a family friendly, comfortable and unforgettable experience when you stay at one of our properties.  We truly want you to feel at home and will do all we can to provide exceptional service to our guests!
+My work: Hartline Hospitality-Owner
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+541 reviews
+4.91 out of 5 average rating
+12 years of hosting

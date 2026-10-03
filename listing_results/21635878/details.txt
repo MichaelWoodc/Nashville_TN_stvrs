@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/21635878
+Latitude: 36.12962
+Longitude: -86.87555
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into calm. This light-filled, thoughtfully designed micro-apartment is your modern, peaceful retreat in Nashville. Ideal for the solo traveler or a couple's getaway. Simple, stylish, and supremely comfortable.
+
+The space
+✨ Your Nashville Home Base: Comfort & Convenience
+Step into a space designed for relaxation and ease. We’ve equipped your apartment with everything you need to feel instantly at home and connected.
+
+Inside Your Cozy Retreat:
+Relaxation: Sink into the comfortable sofa for a movie night on the Smart TV.
+
+Speed: Stay connected with lightning-fast fiber internet.
+
+Essentials: Thoughtful amenities stocked for your comfort and convenience.
+
+Convenience & Privacy:
+Dedicated Parking: Enjoy the ease of your own private parking space.
+
+Independence: Access your unit with a private, separate entrance.
+
+Accessibility: Easily explore Nashville—whether you drive, use ride-shares, or walk!
+
+Insider Experience:
+Skip the tourist traps! We provide local insights, tips, and hidden gems to guide you to the best attractions and restaurants, helping you experience Nashville like a true local.
+
+Guest access
+You will have one private parking spot and private entry into the space. A second car can be accommodated upon request.
+
+Other things to note
+We’ve provided a few kitchen basics to make your stay more comfortable: Keurig coffee pods, half-and-half, tea bags, sugar, salt, pepper, a filtered water pitcher, ice trays, and more. We’ve also included toiletry items like shampoo, conditioner and body wash.
+
+Please let us know if you have any special requests. We’ll do our best to accommodate them.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 80820055
+Host Profile URL: https://www.airbnb.com/users/show/80820055
+Host Profile URL Source: public user permalink from passport userId
+We are a young family of 3 with one on the way. High school sweethearts and Nashville natives, we are passionate about our city and committed to positive change and growth.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+902 reviews
+4.9 out of 5 average rating
+9 years of hosting

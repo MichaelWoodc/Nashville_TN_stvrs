@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1709013271559356301
+Latitude: 36.16707
+Longitude: -86.67868
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A mid-century cottage in Donelson, Nashville's gateway neighborhood — home to both the airport and the Grand Ole Opry. Land at BNA and be unpacked in eight minutes; catch a show at the Opry ten minutes the other way. The house is simple and comfortable: three bedrooms, four beds, one shared bath, a full kitchen, and a big yard with a BBQ grill made for evening cookouts. Free driveway parking and keypad self check-in. Downtown and Broadway are about fifteen minutes when you want the noise.
+
+The space
+Step inside Maison d'Amour and feel instantly at home. This bright, single-level 3-bedroom, 1-bathroom cottage has been thoughtfully updated while keeping all of its classic Nashville charm — think warm finishes, original hardwood floors, and a layout that just feels right.
+The fully equipped kitchen is a true highlight — stocked with everything you need to cook for the whole group. Refrigerator, stove, oven, dishwasher, microwave, coffee maker, hot water kettle, cooking basics, wine glasses, and more. Whether you're brewing your morning coffee or hosting a full dinner, this kitchen has you covered.
+The living and dining areas are open and inviting, with a dining table that fits the whole crew, a TV, and a sound system to keep the vibe going all evening.
+When it's time to head outside, the spacious backyard and patio are waiting. Fire up the BBQ grill, enjoy the garden view, and make the most of that classic Southern outdoor living.
+Practical comforts are covered too — washer and dryer, dedicated workspace for remote workers, iron, clothing storage, extra pillows and blankets, and a smart lock for seamless self check-in.
+The home is single-level with no stairs, making it welcoming and accessible for all guests. Sleeps up to 6 comfortably.
+
+Guest access
+You'll have full access to the entire home — it's all yours for the duration of your stay.
+Check in is a breeze with our smart lock system. You'll receive your unique door code prior to arrival — simply enter it at the front door and you're in. No keys, no coordination needed.
+Inside the home:
+All 3 bedrooms, the full bathroom, living room, dining area, and fully equipped kitchen are completely at your disposal.
+Outside:
+The backyard, patio, and BBQ grill are yours to enjoy anytime. Free driveway parking fits 2+ cars, and free street parking is available right out front as well.
+Connectivity:
+WiFi is available throughout the entire home so you'll stay connected whether you're streaming, working, or video calling the folks back home.
+Self check-in means you're never waiting on anyone — arrive on your own schedule and start enjoying Nashville from the moment you pull up.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

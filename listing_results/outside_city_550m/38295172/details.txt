@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/38295172
+Latitude: 35.9721
+Longitude: -86.5885
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful modern home in a quiet neighborhood but very close to Interstate 24, shopping center, movie theater, restaurants, and supermarkets.
+Located 25 minutes from downtown Nashville, 20 minutes from Murfreesboro, and 20 from Nashville airport. 
+Open kitchen and dining room, spacious living room with 65-inch smart TV, and laundry room with Brand New large washer/dryer. 
+Loft with daybed, smart TV, chairs, and  foosball table.
+Outside Covered patio with privacy fence.
+
+The space
+Self entry to the house with keypad lock. Code is generated and erased after each guest stays.
+Free WiFi access from fast high speed internet, and flat screen smart 65 in TV in living room, 55 in TV in loft, and smart TV in all the bedrooms.
+Only dog allowed, no other pets! Max. of two (2) dogs. Pet fee $85 per dog.
+
+Guest access
+Guest can use the entire house, but not the garage.
+
+Other things to note
+The house has three bedrooms upstairs (one with a king bed, one with a queen bed and one with a full bed) 
+All the bedrooms are equipped with a Smart TV.
+The loft upstairs has a day bed with two singles beds, a foosball table, and a 55-inch 4k smart TV.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gabriela
+Host User ID: 163836375
+Host Profile URL: https://www.airbnb.com/users/show/163836375
+Host Profile URL Source: public user permalink from passport userId
+My work: Retired teacher
+I spend too much time: love working on my yard and garden.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+293 reviews
+4.97 out of 5 average rating
+7 years of hosting

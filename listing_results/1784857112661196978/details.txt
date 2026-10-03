@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1784857112661196978
+Latitude: 36.2203
+Longitude: -86.7049
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In Nashville, close to Broadway's honky-tonks, the Ryman, Bridgestone Arena and the Cumberland riverfront. 3-bedroom, 3-bath suite at our resort in Nashville, TN. Sleeps 8. Resort amenities include bbq grills, playground, picnic area and outdoor pool. Message us with any questions before you book.
+
+The space
+In the suite: Air conditioning · Bathtub · Bed linens · Body soap · Cable TV · Ceiling fan · Coffee · Coffee maker · Conditioner · Cookware · Dining table · Dishes and silverware · In-suite washer/dryer · DVD player · Essentials · Freezer · Hair dryer · Hangers · Heating · Wi-Fi · Iron · Full kitchen · Microwave · Oven · Pack ’n Play/travel crib · Refrigerator · In-room safe · Shampoo · Stove · TV · Toaster · Towels provided
+
+Guest access
+Check-in is at the resort's front desk. All resort amenities are open to you for the whole stay.
+• Valet is the only parking the resort offers.
+• Groceries and shopping are a short drive from the resort.
+• We need the check-in guest's name in advance, and they must be 21 or older.
+
+Other things to note
+• This is a timeshare week rented from the owner, not a booking through the resort. You still check in at the front desk and use the resort normally.
+• Photos show the resort and this unit type. The resort assigns the exact suite, so yours may differ slightly from the pictures.
+• The resort chooses the exact suite within the unit type booked. A specific location isn't guaranteed.
+• Some units of this type are mobility-accessible. Tell us if you need one or would rather not.
+• Check-in requires a guest aged 21 or over with a credit card for the refundable damage deposit.
+• You'll sign the resort's registration form at check-in and pay any local taxes or resort fees there.
+• You may be invited to a timeshare presentation on arrival. It's optional.
+• Refunds follow the cancellation policy on this listing.
+• Resort information is supplied by the resort; message us to verify anything important.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Renee
+Host User ID: 1754427115146651712
+Host Profile URL: https://www.airbnb.com/users/show/1754427115146651712
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 83%
+Responds within a day
+1 month hosting
+6 reviews
+4.5 out of 5 average rating
+1 month of hosting

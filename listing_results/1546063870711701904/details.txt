@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1546063870711701904
+Latitude: 36.04502
+Longitude: -86.63939
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville Landing‼️
+Enjoy a comfortable and relaxing stay just minutes from: Nashville International Airport ✈️
+Next to: Tanger Outlets 🛍️ and PopStroke. 
+20 minutes from Downtown 🌇
+Whether you’re visiting Music City for work, or fun, my home offers the perfect place to feel at home. My bedroom is on the other side of the hallway, but you don’t even notice me. I don’t cook and I have to go to work.  Area is very safe. Pretty safe area. This is a share home. Spanish and English.
+
+The space
+Two bedroom with own bathroom.  This is a share home 🏠
+
+Guest access
+You are welcome to use the kitchen—I’ve set aside a section stocked with everything you need for cooking, dining, and making tea or coffee. If you'd like some fresh air, there's a small patio in the back where you can unwind, and enjoy the space.
+
+During your stay
+You can text through the app. I am always paying attention to the notifications .
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vanesa
+Host User ID: 58531824
+Host Profile URL: https://www.airbnb.com/users/show/58531824
+Host Profile URL Source: public user permalink from passport userId
+I am 33 years old, I work for an insurance agency .  I went to college for communication, I love to workout outside; like to run. I love to meet new people around the world.
+My work: Insurance agent
+Fun fact: I like to sing Karaoke
+I'm obsessed with: Singing
+Speaks English and Spanish
+Pets: No
+Response rate: 80%
+Responds within a few hours
+3 months hosting
+7 reviews
+4.86 out of 5 average rating
+3 months of hosting

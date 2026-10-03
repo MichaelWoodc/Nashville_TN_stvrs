@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/33909371
+Latitude: 36.15807
+Longitude: -86.76613
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious 2 bedroom 2 bath and 10 min walk to downtown. This building sits on a cliff overlooking the river and city.own brand new Nashville 2 Bedroom -2 Bath in perfect location on a bluff overlooking Downtown! 
+Ideal location for your next visit to Music City!  Condo features open floor plan with upscale furnishings, granite counter tops and stainless steel appliances. Very open condo and great location.
+This exclusive condo features a master bedroom with king bed, guest room with a queen bed,
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kurt
+Host User ID: 24241984
+Host Profile URL: https://www.airbnb.com/users/show/24241984
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner Forte Vacations
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+2970 reviews
+4.78 out of 5 average rating
+12 years of hosting

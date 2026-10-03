@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/939168928280461731
+Latitude: 36.2352
+Longitude: -86.6686
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is the perfect place to call your home base with your family or group of friends.  This listing features a two bedroom main level with an isolated guest suite in the basement.  Utilize the blow up mattress and you can sleep a group of 8!
+
+Inquire about group events and take advantage of the huge back yard.
+
+The space
+The Main level consists of two bedrooms, each with a queen bed. One room features an on-suite bathroom and shower.
+
+The basement suite is a smaller studio apartment. You do have to exit the unit to get to the main level portion of the house.  It is in the same "house" but does not have access into the main house from inside.
+
+The kitchen is fully stocked with any pot/pan/utensil you will need!
+
+Guest access
+You have access to the whole driveway, yard, and house.
+
+Other things to note
+If you are throwing an event, there may be an extra charge for that.  Please talk with me.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joshua
+Host User ID: 12014315
+Host Profile URL: https://www.airbnb.com/users/show/12014315
+Host Profile URL Source: public user permalink from passport userId
+I have lived in Nashville for around ten years now.  I work in the IT industry.
+
+I love video games, music, dogs, cars, and tech related things.
+
+I’m very adventurous, and I'd like to think I am outdoorsy.
+
+I’m also a huge coffee nerd.
+Born in the 80s
+My work: Teradata
+Response rate: 97%
+Responds within an hour
+Superhost
+11 years hosting
+830 reviews
+4.87 out of 5 average rating
+11 years of hosting

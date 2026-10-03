@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1550294627202785527
+Latitude: 36.1957
+Longitude: -86.7808
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxury meets convenience—Just 3.8 miles from Broadway! This designer 4BR/4BA home features a private rooftop hot tub with stunning skyline views, 2 elite King suites, 1 Queen suite with premium Sleep Number beds, and a custom triple bunk. Perfect for groups, you’ll love the open chef’s kitchen and sleek lounge space. Nestled near Germantown and Nissan Stadium, it’s the ultimate upscale home base for your Nashville getaway
+
+The space
+Experience the absolute best of Music City from this designer 4-bedroom retreat! Whether you're soaking in your private rooftop hot tub with sweeping downtown views or gathering around the open-concept chef's kitchen, this home is engineered for premium group luxury. Nestled in a quiet, upscale neighborhood just a quick rideshare from Broadway, you get the perfect blend of thrilling Nashville energy and serene comfort.
+
+House layout:
+
+1st floor
+Garage
+1 bedroom(Full triple bunk beds)-En-suite bathroom
+
+2nd floor
+Chefs Kitchen/living room
+1 king bedroom-Jack n Jill bathroom
+
+3rd floor
+2 king bedrooms-En-suite bathrooms
+
+4th floor
+Rooftop(hot tub)
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+BetterBNB guests enjoy exclusive VIP discounts on luxury chauffeur transportation and lake boat rentals! House Rules & Details: Must be 21+ to book. No parties, unregistered guests, or smoking allowed on the property. Quiet hours are observed from 10 PM to 8 AM out of respect for neighbors. Keyless entry details are sent prior to arrival. We look forward to hosting your Nashville trip and making it an unforgettable stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 727481755
+Host Profile URL: https://www.airbnb.com/users/show/727481755
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+39 reviews
+4.95 out of 5 average rating
+10 months of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1652866976842614342
+Latitude: 36.32144
+Longitude: -86.9019
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Historic refreshed half house with private entrance. Semi-country setting minutes from downtown Nashville.
+Plenty of room to park
+
+Guest access
+The entire side of the home is private and plenty of parking
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rick And Wendi
+Host User ID: 509742040
+Host Profile URL: https://www.airbnb.com/users/show/509742040
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+I'm obsessed with: The sun and our dog
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+18 reviews
+4.83 out of 5 average rating
+1 year of hosting

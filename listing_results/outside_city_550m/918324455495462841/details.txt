@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/918324455495462841
+Latitude: 36.39749
+Longitude: -87.04085
+rental_type: Barn
+property_type: BARN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pleasant View, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our unique barndominium. Treat yourself to a peaceful stay in the small quaint town of Pleasant View. Hosts Jaime and Nadia look forward to providing a hospitable experience for all guests. This property is close to shops, walking trails and parks. Everything you need is just a few minutes away in this city with a small town feel.
+
+The space
+Once you enter this studio suite, you are ready for rest and relaxation. This barndominium has an upstairs sleeping area with a queen size bed as well as a Murphy bed that allows for 2 additional guests. The living room couch invites you to kick off your shoes and enjoy a good movie on the smart TV.  Also on the top floor is a spacious walk in closet with plenty of shelves for all your personal belongings as well as a small desk just in case you need to do a little work-from-home on your laptop. Once you make your way downstairs you will find a full size kitchen with a dining area and a bathroom with a tiled walk in shower. This barn looks rustic at first glance but is very modern and quite comfortable when you step inside.
+
+Guest access
+Guest has private access to the barnominium apartment. You also have access to your own laundry room
+
+Other things to note
+This barnominium is located on the same property as the hosts primary home. 
+No pets allowed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jaime
+Host User ID: 123512832
+Host Profile URL: https://www.airbnb.com/users/show/123512832
+Host Profile URL Source: public user permalink from passport userId
+We're a nice family from Costa Rica living in Nashville TN. Love to travel and see new places!
+Where I went to school: Costa Rica
+My work: A1 Trust Cleaning
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+44 reviews
+5.0 out of 5 average rating
+3 years of hosting

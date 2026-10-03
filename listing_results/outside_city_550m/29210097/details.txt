@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/29210097
+Latitude: 36.40862
+Longitude: -87.01439
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pleasant View, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 11
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This upscale family farmhouse features an open-plan living room, wood finishes, a pool house with a kitchenette, a backyard lounge area, a fire pit, and an expansive property surrounded by nature. Find luxury & comfort at this getaway just off I-24.
+
+There is something for everyone on this beautiful 7 acre property located in charming Pleasant View, Tn. Spend your days lazing in the pool, fishing in the stocked pond or watching movies on the 120 inch screen in your own theatre room. Only 20 minutes from downtown Nashville, you can spend your nights honky-tonking on Broadway, catching a concert at the Ryman or sampling the culinary delights of East Nashville. If you are not in the mood to party, spend a cozy evening next to the fire pit on our covered veranda or have sunset cocktails on the  huge wrap around porch overlooking the pond. The house is situated 2 minutes from I-24 and 5 minutes from grocery stores, restaurants and the quaint town center which offers a pub, boutiques and fantastic restaurants. We've carefully selected the best of everything you will need to make your vacation a trip of a lifetime. Perfectly located for family reunions or just a getaway, this property is sure to delight everyone who stays. When you aren't here, we are! This is our home and we know you're going to love it.
+
+Guests will have access to the entire main level, upper level, and the large home theatre on the lower level. Guests will also have full access to the entire 7 acre property, pool area, pool house, full wrap around porch.
+
+We generally like to give you complete freedom when staying at Willow Pond Nashville. We sometimes do meet the guests at check-in. We are available 24/7 via txt, and will make sure you are well taken care of. Willow Pond also has a caretaker who has been with us for 20 years, who lives close by to take care of any day to day things. He (Phillip), will keep the pool & grounds maintained. 
+We want you to have the best 5 star experience!
+
+The house is situated 2 minutes from I-24 with access to the quaint town center with its pub, boutiques, and fantastic restaurants. Head into Nashville for honky-tonking on Broadway, concerts at the Ryman, or the culinary delights of East Nashville.
+
+Plenty of parking at Willow Pond. Uber & Lift also service is well. The home is 2 minutes from the Interstate 24 heading into Nashville (20 mins) or Clarksville (15 mins)
+
+There is a detailed book on the kitchen counter explaining everything about the house & grounds. I suggest you read through it to maximize your enjoyment of the home. There are many extra touches you’ll want to take advantage of! Like WIFI, Fishing, Home Theater, SONOS Sound, Fire-Pits, Sunset Cocktails to name some!
+
+The space
+There is something for everyone on this beautiful 7 acre property located in charming Pleasant View, Tn. Spend your days lazing in the pool, fishing in the stocked pond or watching movies on the 120 inch screen in your own theatre room. Only 20 minutes from downtown Nashville, you can spend your nights honky-tonking on Broadway, catching a concert at the Ryman or sampling the culinary delights of East Nashville. If you are not in the mood to party, spend a cozy evening next to the fire pit on our covered veranda or have sunset cocktails on the  huge wrap around porch overlooking the pond. The house is situated 2 minutes from I-24 and 5 minutes from grocery stores, restaurants and the quaint town center which offers a pub, boutiques and fantastic restaurants. We've carefully selected the best of everything you will need to make your vacation a trip of a lifetime. Perfectly located for family reunions or just a getaway, this property is sure to delight everyone who stays. When you aren't here, we are! This is our home and we know you're going to love it.
+
+Guest access
+Guests will have access to the entire main level, upper level, lower level suite and the large home theatre on the lower level. Guests will also have full access to the entire 7 acre property, pool area, pool house, full wrap around porch.
+
+Other things to note
+There is a detailed book on the kitchen counter explaining everything about the house & grounds. I suggest you read through it to maximize your enjoyment of the home. There are many extra touches you’ll want to take advantage of! Like WIFI, Fishing, Home Theater, SONOS Sound, Fire-Pits, Sunset Cocktails to name some!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dudley
+Host User ID: 217286607
+Host Profile URL: https://www.airbnb.com/users/show/217286607
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mount Juliet, Tennessee
+Response rate: 83%
+Responds within a day
+8 years hosting
+20 reviews
+5.0 out of 5 average rating
+8 years of hosting

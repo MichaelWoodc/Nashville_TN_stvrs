@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/51987301
+Latitude: 36.1579
+Longitude: -86.794
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+It was all by design..
+
+Welcome to The Cardigan, a Taylor Swift-inspired townhome with stunning Nashville skyline views. Walkable to Downtown Broadway, this 4-bed, 4-bath home blends luxurious living with subtle Swift-themed décor, offering a unique experience for fans. Relax in the rooftop hot tub, admire the stylish interior design inspired by Taylor's albums, and explore nearby hotspots. Need more space? Additional units are available to accommodate larger groups.
+
+Are you ready for it?
+
+The space
+The Cardigan Bed Breakdown
+1st Floor:
+* Bedroom 1: Full Bed with Twin Trundle (Sleeps 3)
+* Bathroom 1: 1 Full Bath 
+2nd Floor:
+* Bedroom 2: Queen Bed (Sleeps 2)
+* Living Room: Queen Sleeper Sofa (Sleeps 2)
+* Bathroom 2: 1 Full Bath 
+* Kitchen and Dining Area
+3rd Floor:
+* Bedroom 3: King Bed (Sleeps 2)
+* Bedroom 4: Full Bed with Twin Trundle (Sleeps 3)
+* Bathrooms: 2 Full Baths
+Additional Sleeping Options: Available by request
+* 2 Roll-Out Cots (Sleeps 2)
+* 1 Queen Air Mattresses (Sleeps 2)
+
+Guest access
+There is a smartlock to enter.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gerry
+Host User ID: 24758299
+Host Profile URL: https://www.airbnb.com/users/show/24758299
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+286 reviews
+4.9 out of 5 average rating
+7 years of hosting

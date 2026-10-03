@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1601030805735954135
+Latitude: 36.19121
+Longitude: -86.61637
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy private suite in historic Hermitage, Nashville, ideal for two adults. This inviting 1-bedroom space with a separate entrance offers an upgraded queen bed, sofa, clean bathroom, TV, Wi-Fi and parking, heating and air conditioning for year-round comfort. Minutes from walking trails, a bowling alley, Gaylord Opryland dining, and shopping, simple, and relaxing. Guests staying over 7 nights must sign a rental agreement before check-in confirming house rules and the temporary nature of the stay.
+
+Guest access
+Guests renting the room receive the door unlock code 24 prior to their arrival. Entry instructions to the room are on the door lock keypad. Get to the room by coming down the driveway off of Lopez Ln, drive to the back of the house, then look for a brown fence to your left. Between the fence you'll see the door to the room.
+
+During your stay
+Please let us know if there is anything you need while staying with us. My wife and I both are pretty attentive to messages, so just send us one about anything and one of us will respond back within a few minutes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dwayne
+Host User ID: 201654068
+Host Profile URL: https://www.airbnb.com/users/show/201654068
+Host Profile URL Source: public user permalink from passport userId
+We are a fun couple of folks , always seeking new adventures and experiences. We both consider ourselves "life-long learners" who see each morning as the next day of class...the next opportunity to gain new information and (hopefully) new knowledge. Both love meeting people (guess I'm a bit more outgoing of the two...wife says I could hold a conversation with a light pole), and want comfort for everyone we interact with.
+Where I went to school: Between the 2 of us multiple schools.
+My work: Retired
+I spend too much time: On social media (hooked boomers)...
+Favorite song in high school: Trouble Man by Marvin Gaye
+For guests, I always: We place an emphasis on their comfort
+Response rate: 100%
+Responds within an hour
+Superhost
+7 months hosting
+16 reviews
+4.69 out of 5 average rating
+7 months of hosting

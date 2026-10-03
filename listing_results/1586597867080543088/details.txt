@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1586597867080543088
+Latitude: 36.10397
+Longitude: -86.70622
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Private Garden Suite. A comfortable 2BR/1BA centrally located between downtown Nashville and the Airport in a quiet neighborhood. Whether you are visiting with family, friends or by yourself this space offers the perfect home base to explore the city while still enjoying a calm neighborhood setting. 
+
+Located on the garden level of our home with it's own private entrance, the suite is designed to feel like your own home away from home.
+
+The space
+We live in the upstairs of the house and there is another apartment downstairs next to this guest suite. The spaces are not shared but you will probably see us coming and going and may see guests staying in the other apartment. You have your own patio area that is not shared. The laundry room is located between the two downstairs apartments and is a shared space. The doors lock from the inside of each apartment so there is no access between the spaces when you lock the door behind you after using the washer and dryer.
+
+Guest access
+You will have full access to your guest suite, parking space, patio area, and your own private bathroom. The laundry and backyard where the firepit is located is a shared space.
+
+Other things to note
+The heat and air are shared between the two apartments and the thermostat is located in the your unit. We will try to accommodate whatever setting you would like !  Thank you for understanding.
+
+Registration Details
+2025105857
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Süleyman And Jessica
+Host User ID: 18005238
+Host Profile URL: https://www.airbnb.com/users/show/18005238
+Host Profile URL Source: public user permalink from passport userId
+Hi My name is Suleyman Can and my wife is Jessica 
+Im originally from Turkey and my wife is from Nashville. 
+We are both Chefs , we  like to visiting other countries which has historical backgrounds. Also I have been to places in Europe such as  Italy and Austria. I like discovering new places in the world, particularly on the top of nice places for  by accomodation. I hope see you Nashville .
+cheers ;)
+My work: chef
+I spend too much time: At work
+Response rate: 100%
+Responds within an hour
+12 years hosting
+151 reviews
+4.48 out of 5 average rating
+12 years of hosting

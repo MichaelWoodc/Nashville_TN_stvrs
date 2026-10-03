@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/51837261
+Latitude: 36.17697
+Longitude: -86.65118
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville through the best of both worlds-enjoy  all the conveniences of the city and then retreat to the quiet, riverside Tennessee hills. This basement apartment is newly renovated  with full kitchen, two bdrms, separate entrance, laundry, private patio and home to one of the best views in Nashville. Live like a local! 
+8 miles to Broadway/Bridgestone Arena
+3 m - airport
+3 m -Grand Ole’ Opry
+4 m-Andrew Jackson’s Hermitage
+5 m-Percy Priest Lake
+3 m- restaurants/grocery stores/Target
+
+The space
+We have over an acre of lush green land with a river view, where you’ll likely see turkey, deer, rabbits, raccoons and occasionally a pair of bald eagles from the back patio. Our home is modern and simple but packed with all of the little extras to make your stay extra comfortable. We live upstairs in a separate apartment but keep to ourselves so unless you need us, you won’t see or hear from us!
+
+Guest access
+Full access to the entire basement apartment. Separate driveway, entrance, back patio- no shared spaces.
+
+Other things to note
+This basement apartment  is located  in a neighborhood. This listing is not suitable for parties.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 127238010
+Host Profile URL: https://www.airbnb.com/users/show/127238010
+Host Profile URL Source: public user permalink from passport userId
+Hi! Thanks for taking a look at our home!   Prior to living in Nashville, I was a superhost in Charlotte, NC. I love Airbnb and it has helped me travel all over the world! My husband and I love to immerse in neighborhoods, try new foods, explore new cultures, anything outdoors and live music! We’d love to host you in our basement apartment, where you can explore Nashville  as a tourist while living like a local.
+Born in the 80s
+I'm obsessed with: Traveling!
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+264 reviews
+4.91 out of 5 average rating
+9 years of hosting

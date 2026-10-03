@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1690017459159981311
+Latitude: 36.1246
+Longitude: -86.7627
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NEW Build Nashville Stay • Rooftop w/ City Views • 4BR • Minutes to Broadway • Sleeps 9 
+
+Stay in style at this brand-new 4-bedroom, 3-bath townhouse in Nashville, perfectly located just a few short minutes from downtown, Broadway, The Gulch, and 12 South. Designed with modern finishes and comfort in mind, this newly built home is ideal for bachelorette parties, family trips, and weekend stays.
+
+✨ Brand-New Construction (2026 Build)
+
+The space
+Spacious for Groups (Sleeps 8–9)
+	•	4 private bedrooms with premium mattresses 
+	•	3 full bathrooms with fresh, modern design
+
+🌇 Private Rooftop w/ Nashville Views
+Relax or celebrate on your private rooftop with Nashville skyline views—perfect for morning coffee, sunset cocktails, or pre-Broadway nights out.
+
+ Amenities You’ll Love
+	•	Free parking for 1 car by townhouse
+	•	Fast WiFi (great for remote work)
+	•	Smart TVs in main areas
+	•	Fully stocked kitchen w/ new appliances
+	•	Washer & dryer
+    * 3 smart TVs (living room & 2 upstairs bedrooms)
+
+Ping pong table, cornhole, mini golf holes
+
+Other things to note
+Be one of the first to enjoy this completely new, professionally designed home featuring high-end finishes, all-new furniture, and a clean, modern western aesthetic throughout.
+
+📍 Prime Nashville Location
+Stay close to all the top attractions:
+	•	5–10 mins to Broadway & Downtown Nashville
+	•	Minutes to The Gulch & 12 South shops/restaurants
+	•	Close to Nissan Stadium & Geodis Park
+	•	Quick Uber ride to top bars, music venues & brunch spots
+
+🐶 Pet-Friendly Stay
+Traveling with pets? We’ve got you covered (pet fee applies).
+
+🎉 Perfect For:
+Bachelorette parties, birthdays, girls’ trips, families, and group travel looking for a clean, modern, centrally located Nashville Airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Montana
+Host User ID: 483577405
+Host Profile URL: https://www.airbnb.com/users/show/483577405
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 months hosting
+10 reviews
+4.6 out of 5 average rating
+4 months of hosting

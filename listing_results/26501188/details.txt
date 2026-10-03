@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/26501188
+Latitude: 36.1831
+Longitude: -86.7506
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful 2,000+ sq ft, 3 bedroom, 3.5 baths, 2 private decks, chic decor and it's right in the heart of one of Nashville's most walkable, vibrant neighborhoods Five Points / East Nashville. The house is less than a 10 minute Uber (or Waymo!) to the new Nissan Stadium, as well as what everyone truly comes for... Broadway! It will be everything your group needs for an unforgettable Nashville stay.
+
+The space
+This 2,000+ sq ft modern townhome sits in the heart of hip, walkable East Nashville — professionally designed for groups who want the comfort and privacy of a real home without sacrificing style or amenities.
+
+The main floor features an open-concept living and dining area with a fully equipped kitchen, perfect for gathering before a night out or unwinding after one. Two private outdoor decks with lounge seating and ambient lighting give your group extra room to spread out and enjoy the Nashville evenings.
+
+Traveling with older family members or anyone who prefers to avoid stairs? The first-floor king bedroom has its own private ensuite — Only 2 steps required.
+
+Whether you're here for a bachelorette weekend, a family trip, a group getaway, or a remote work stretch, this home was designed with your stay in mind.
+
+📍 Location & Proximity
+
+10 min Uber / 20 min walk to the new Nissan Stadium
+Walking distance to Mas Tacos, Dino's, and Five Points
+12 min / Uber to Broadway and downtown Nashville
+20 min Uber to The Gulch
+20 min Uber to Nashville International Airport
+6 miles to Vanderbilt University
+5 miles to 12 South
+
+🏡 Amenities
+
+2 private outdoor decks with lounge seating & ambient lighting
+Fully equipped kitchen
+Complimentary coffee bar
+Smart lock self check-in
+WiFi (unlimited)
+4K HDTVs in every bedroom & living room (Netflix, Hulu, and more)
+Free street parking for the duration of your stay
+Linens & towels provided for every guest
+Complimentary bath products (shampoo, conditioner, body wash)
+Dedicated workspace/desk in every bedroom
+Private ensuite or dedicated bath with every bedroom
+
+Guest access
+👥 Guest Access
+The entire 2,000+ sq ft home is yours — no shared spaces, no surprises. You'll have both floors, all three bedrooms, every bathroom, the kitchen, the living areas, and both decks entirely to yourselves from check-in to checkout.
+
+Other things to note
+📌 Other Things to Note
+
+Valid ID required at booking
+Only registered guests permitted in the home
+No parties or events
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paul
+Host User ID: 5222914
+Host Profile URL: https://www.airbnb.com/users/show/5222914
+Host Profile URL Source: public user permalink from passport userId
+As a frequent traveler, I know the value of a space to unwind after a day of exploring, working, or making memories. My wife and I designed our home with care, blending comfort and style to create the perfect Nashville getaway for families, friends, or business travelers.
+
+Whether you're here for music, food, or the energy of Music City, we hope our home can feel like yours while you're here.
+
+Safe travels,
+Paul
+My work: Musician
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+309 reviews
+4.95 out of 5 average rating
+9 years of hosting

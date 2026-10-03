@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/29923906
+Latitude: 36.15895
+Longitude: -86.81533
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is the kind of stay that makes your trip feel instantly better! Intimate, modern, and effortlessly polished, it’s perfect for a romantic getaway or a stylish escape with friends. Start your morning with coffee and skyline views, explore Nashville, then return to a calm, refined space. Evenings feel warm and memorable—perfect for unwinding or getting ready for a night out. More than a place to sleep, it’s a stay that feels easy, inviting, and distinctly Nashville...
+
+The space
+Step into a space that feels artful, elevated, and distinctly Nashville.
+
+This thoughtfully designed one-bedroom condo features a custom, one-of-a-kind art installation by local artist Jess Foley (JLF Creative), creating a unique, curated atmosphere you won’t find in a typical stay. The open layout, lofted ceilings, and airy feel make the space feel bright, spacious, and inviting.
+
+Step out onto the patio and take in stunning skyline views of downtown Nashville—perfect for morning coffee or unwinding after a night out.
+
+Inside, you’ll find everything you need for a seamless stay:
+
+Fully equipped kitchen for easy meals at home
+Comfortable living area with Smart TV
+Queen sleeper sofa, exceptionally comfortable for two adults
+
+Perfect for couples or small groups, this space blends style, comfort, and location into an effortless Nashville experience.
+
+Guest access
+Access is a breeze with the keypad on the front door. You will enjoy the entire condo yourself.
+
+Other things to note
+Want to plan for yourself? Here are some great local resources: Do615, NashvilleGuru, VisitMusicCity, NowPlayingNashville, NashvilleScene
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diego | Elevate Vacation Rentals
+Host User ID: 657149305
+Host Profile URL: https://www.airbnb.com/users/show/657149305
+Host Profile URL Source: public user permalink from passport userId
+Hey! I'm Diego,  I own & operate Elevate Vacation Rentals. I'm passionate about making every guest feel at home with a safe and clean environment. Our properties are inspected frequently to ensure you have a wonderful stay! I am a natural problem solver and I am known for "having a guy" for anything you could think of.
+Where I went to school: Full Sail University
+My work: STR Owner & Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+45 reviews
+4.96 out of 5 average rating
+2 years of hosting

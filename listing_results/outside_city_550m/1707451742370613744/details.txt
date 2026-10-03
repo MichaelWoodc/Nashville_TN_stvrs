@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1707451742370613744
+Latitude: 36.0154
+Longitude: -86.5407
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Single bedroom in a 3 bedroom house that is located in LaVergne, 30 minutes from downtown Nashville, plenty of restaurants around and Walmart at walking distance from the house. The washer and dryer can be used by guests who stay 7 days or more only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ernesto
+Host User ID: 222028203
+Host Profile URL: https://www.airbnb.com/users/show/222028203
+Host Profile URL Source: public user permalink from passport userId
+Hey my name is Ernesto I'm from Cuba and Im pretty laid back and enjoy doing Airbnb and meeting new people.
+Born in the 90s
+My work: Nurse
+Speaks English and Spanish
+What makes my home unique: I have a lot of plants inside the home
+Pets: I have Male Shorky named Udon
+Response rate: 100%
+Responds within an hour
+7 years hosting
+376 reviews
+4.83 out of 5 average rating
+7 years of hosting

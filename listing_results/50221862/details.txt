@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/50221862
+Latitude: 36.17658
+Longitude: -86.80583
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this private, pet-friendly Nashville guest suite, just 1.5 miles from downtown Music City. Comfortably sleeping four, this brand-new retreat offers a dedicated workspace, kitchenette, private outdoor lounge, and a Level 2 EV charger. Enjoy keyless entry, free parking, and easy access to live music and dining. Perfect for couples, families, or business travelers seeking a vibrant, convenient stay.
+
+The space
+Welcome to your private, brand-new 600 sq ft guest suite, thoughtfully designed for comfort and convenience. This modern space comfortably sleeps four and offers complete privacy with its own entrance.
+
+Key features include:
+   Sleeping Arrangements:
+       Comfortable queen bed in the master bedroom 
+       Daybed with a trundle providing two twin-sized beds in main living area
+       All comforters, sheets, pillow covers, and linens are hypoallergenic and allergen-resistant
+   Kitchenette:
+       Keurig coffee maker
+       Microwave
+       Mini-fridge
+       Dishes and silverware
+   Bathroom:
+       Modern full bathroom with a tiled shower
+       Hair dryer
+       Iron
+   Work & Entertainment:
+       Fast Wi-Fi (120 Mbps)
+       Dedicated workspace
+       52-inch Roku TV for streaming
+   Outdoor Space:
+       Private outdoor lounge area
+   Unique Amenities:
+    *   Level 2 EV charging station for your electric vehicle
+
+Guest access
+Guests will have exclusive and private access to the entire guest suite, ensuring a peaceful and uninterrupted stay.
+
+   Private Entrance: Follow the stepping stones on the left side of the house to your dedicated entrance.
+   Keyless Entry: Enjoy seamless self-check-in with a smart lock and keyless entry system.
+   Parking:
+       Convenient and free street parking is readily available.
+       Exclusive access to a dedicated two-car parking pad at the back of the property.
+       Directions to parking pad: Pass the home on your left on 14th Ave N, turn left onto Cockrill St at the purple church, then take an immediate left into the alley next to the yellow house.
+
+Other things to note
+Your comfort and security are our priority:
+
+   Climate Control: The suite's air conditioning and heating are centrally controlled. Please send us a quick message, and we can adjust the temperature for you remotely at any time.
+   Security System: The suite is equipped with its own security system, which you can arm and disarm with your door code.
+   Exterior Cameras: For your safety, exterior security cameras are located on the property.
+   Valuables: As in any urban area, we advise guests not to leave valuables visible in their cars, whether parked on the street or in the dedicated parking area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tasha
+Host User ID: 65937868
+Host Profile URL: https://www.airbnb.com/users/show/65937868
+Host Profile URL Source: public user permalink from passport userId
+I'm Tasha! I'm 27,  I've been in the Nashville area for about 17 years, and I love it here! I've traveled A LOT both domestic and international and Nashville is still in my top 3 favorite US cities. I'm in Real Estate! I love working out everyday. I have a sweet little Chihoodle dog, named Charlie. He's 2! My passions are travel, fitness, real estate, and psychology!
+Where I went to school: MTSU
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+263 reviews
+4.84 out of 5 average rating
+5 years of hosting

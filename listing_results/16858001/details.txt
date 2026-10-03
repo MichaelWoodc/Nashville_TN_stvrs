@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/16858001
+Latitude: 36.25574
+Longitude: -86.72231
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My place is close to public transport, the airport, and family-friendly activities. You’ll love my place because of the location. My place is good for couples, solo adventurers, business travelers, families (with kids), and furry friends (pets).
+
+The space
+We call this home Gibson Creek because right behind the house, down the hill runs Gibson Creek. GC runs through all of Madison, TN and drops out in the Cumberland River. It also runs through Maybelle Carter's property which is one a couple blocks away from the house. If you don't know who she is, she's the mother of June Carter, Johnny Cash's wife.
+
+Guest access
+This is an entire home with two bedrooms. There's a full size bed in the smaller room that has a dresser and closet for storing your items. There's also a larger room with a queen size bed as well as a dresser and closet for storing your items. This home is completely renovated with new appliances and kitchen countertops and a super relaxing bathroom to unwind from your crazy week. You will have your own private driveway as well as a patio out back to hang out and enjoy the beautiful foliage that sits behind the home.
+
+Other things to note
+If you're bringing your pet, we ask that you try to keep them off the furniture or to just cover the comforters and sofa with a blanket of your own just so clean up will be a cinch for guests arriving after you.
+
+No smoking inside the home. If you do smoke outside, please discard of all cigarette butts, please. 
+
+Please take out all trash at checkout.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joe & Lori
+Host User ID: 48902546
+Host Profile URL: https://www.airbnb.com/users/show/48902546
+Host Profile URL Source: public user permalink from passport userId
+Hi!! 
+
+I'm originally from Ohio but moved to Tennessee when I was 18...so I've been here since 2001 and am truly in love with Nashville. ❤ 
+My husband Joe and I run two Airbnb's in the same neighborhood and love to host people from all over the world. 
+
+Joe plays the stand up bass at Robert's Western World five nights a week!
+I used to tend bar on Broadway but now I'm a stay at home mom to our three beautiful children and airbnb host!
+Where I went to school: Fairborn High School
+My work: mother to three kids
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+878 reviews
+4.93 out of 5 average rating
+11 years of hosting

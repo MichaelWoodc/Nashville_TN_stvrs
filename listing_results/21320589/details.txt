@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/21320589
+Latitude: 36.1851
+Longitude: -86.8026
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This house is on a very quiet street in the up and coming neighborhood,  the Buchanan Arts District of Nashville (North Nashville). It is only 1 mile to Germantown, 3 miles to East Nashville and 2 miles to downtown Nashville. Only a 5 minute uber/lyft to downtown and trendy restaurants such as 5th and Taylor, Rolf and Daughter, City House , Silo , Butchertown Hall and walking distance to the hottest local  pizza joint, Slim and Husky's Pizza Beeria.
+
+The space
+Inside The Property 
+      This house has a fully stocked kitchen and a cozy living room with smart TV . Updated kitchen with new appliances including a full-size fridge, dishwasher, stove, microwave, Keurig coffee maker and washer/dryer. Tea and coffee included!
+
+     Master bedroom has a queen size bed and own bathroom. The other two bedrooms have full size beds and a shared bathroom. Hangers, iron, ironing board, hair dryer, shampoo, body wash, and towels are provided. 
+
+Outside The Property 
+      Easily accessible  street parking in front. Huge rooftop deck with dining table.
+      Guests will be given a keypad code for easy, keyless check in/check out.
+
+The house is very centrally located and easy to get around with cheap Uber/Lyft
+
+2.0 miles to Musicians Hall of Frame and Museum
+2.1 miles to Tennessee Performing Arts Center 
+2.1 miles to Nashville Sounds Stadium
+2.5 miles to Bridgestone Arena
+2.8 miles to Nissan Stadium
+3 miles to east Nashville 
+1 mile to Germantown
+2 miles to The Gulch
+5 miles to 12 South 
+10.6 miles to Nashville airport (BNA)
+
+Guest access
+Guests have access to the entire home, rooftop deck, high-speed Wi-Fi, smart TV . Updated kitchen with new appliances including a full-size fridge, dishwasher, stove, microwave and washer/dryer.
+
+There are outdoor cameras outside the house for security
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tu
+Host User ID: 154326320
+Host Profile URL: https://www.airbnb.com/users/show/154326320
+Host Profile URL Source: public user permalink from passport userId
+We live st Thomas, our friends visit us and we want to show them st croix , thanks for letting us staying at your place , can we get early check-in around 12ish ?
+Lives in Nashville, Tennessee
+Response rate: 71%
+Responds within a day
+9 years hosting
+237 reviews
+4.86 out of 5 average rating
+9 years of hosting

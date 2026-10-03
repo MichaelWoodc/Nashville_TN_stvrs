@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/9488800
+Latitude: 36.23972
+Longitude: -86.66809
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Urban farm on 10 acres. 1 BR, + extra long bunk beds across from hall bath (seperate from bedroom) , full bath, full kitchen and LR.  Stainless appliances and quartz countertop. Flatscreen TV, XBOX, WII plus large sectional in LR.  15 min to downtown Nashville.  1 mile from Peeler Park.
+
+The space
+The White House @1600 is an urban farm just 15 minutes from downtown Nashville.  We have included playing cards, dominos, several board games as well as an XBOX with KINNECT and WII.  No need to worry about coffee as we keep a good stock of K-cups on hand as well as cream, sugar and honey.  We also invite you to enjoy the welcome basket of treats and want you to feel free to help yourself to any of the items in the fridge and cabinets (and when our milk cow is producing, we'd love to share some of the best milk around).  Our guests are able to access free WiFi as well as sling TV and as many streaming services as you care to connect to.  The property is 10 beautiful acres and we hope you have time to get outside and explore our piece of paradise.  This house has been completely remodeled and we hope you enjoy it as much as we have enjoyed creating it.  Also, ask about baby/child sitting services as our 18 year old daughter is great with taking care of kids and is usually available.
+
+Guest access
+You will have access to the entire house and 10 acres of property.
+
+Other things to note
+Feel free to ask us for suggestions on dinner, music venues, excursions in the area, etc...  It is our hope that we can help you enjoy the best our city has to offer!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 23738553
+Host Profile URL: https://www.airbnb.com/users/show/23738553
+Host Profile URL Source: public user permalink from passport userId
+Janice and I love to help our guests explore Nashville from the amazing restaurants to the music scene and everything in between.  Janice is a retired country singer who now stays at home with our youngest twins while our older twins are now on there own (that's right, we have 2 sets of twins!)  I am in the last 6 years of my career as an IT professional and look forward to running our farm and 2 short term rental properties full time.  We look forward to hearing from you and helping you have a fantastic time in Nashville.
+My work: Opryland / Bakery
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+823 reviews
+4.91 out of 5 average rating
+11 years of hosting

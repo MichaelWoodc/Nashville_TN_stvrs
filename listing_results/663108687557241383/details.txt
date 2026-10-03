@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/663108687557241383
+Latitude: 36.17244
+Longitude: -86.73648
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a comfy, private spot & easy to get to all that makes Nashville GREAT! So much to do here and a great place to kick it for Valentines Day or St. Pat's. Broadway, Ryman, Bridgestone, Grand Ole Opry,  sports, concerts & fab food scene. Steps from Shelby Park with walking/biking. Restaurants, bars & shopping districts galore, including Five Points. Full kitchen, separate bedroom/bath, gated off-street parking, patio, cable/high-speed internet - all completely private. See y'all soon!
+
+The space
+Open concept Living Room and Kitchen. Kitchen is well-equipped. Bedroom with Bathroom is semi-private and Living Room has extra twin-size, pull-out bed. Bathroom has shower/tub, blow dryer, toiletries, night light, bath scale and more. Stacked washer and dryer
+
+Other things to note
+The guesthouse is above our garage and adjacent to the guests' gated off-street parking with a separate entrance. The patio is available for guest use and the entire property is fenced and gated.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deanna
+Host User ID: 219159495
+Host Profile URL: https://www.airbnb.com/users/show/219159495
+Host Profile URL Source: public user permalink from passport userId
+Born in the 40s
+My work: Retired
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+91 reviews
+5.0 out of 5 average rating
+4 years of hosting

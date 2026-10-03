@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/584164310317867153
+Latitude: 36.1132
+Longitude: -86.71927
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is an affordable, private space with it's own entrance to my lovely home here in South Nashville. The guest space includes two spacious bedrooms, one modern bathroom and a living area with mini fridge, microwave and Keurig. Your space is separated from the rest of my home, where I live, by a locked door.  Off one of your bedrooms is a deck with comfortable seating, and the front entrance has a covered porch with bench.
+
+Other things to note
+Key pad entry
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeanette
+Host User ID: 29250071
+Host Profile URL: https://www.airbnb.com/users/show/29250071
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+204 reviews
+4.91 out of 5 average rating
+9 years of hosting

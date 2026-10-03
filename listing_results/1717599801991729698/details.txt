@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1717599801991729698
+Latitude: 36.1461
+Longitude: -86.8152
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Lofts at 30th, where luxury meets convenience. Nestled in the heart of the vibrant West End Corridor, this exquisite space offers unparalleled proximity to Centennial Park, Vanderbilt University, premier shopping destinations, and a myriad of dining and entertainment options. Situated just a short 6-minute drive from Broadway, the epicenter of Nashville's nightlife, this location ensures you're never far from the action.
+
+The space
+The home comes with a fully equipped kitchen, complete with essential cooking supplies, granite countertops, and stainless steel appliances. Enjoy entertainment with smart TVs in both the living room and bedroom. Experience ultimate comfort with a King bed, ensuring a restful night's sleep. The perfect home base for your stay also includes a pull-out sofa. It also has an air mattress in the closet.
+
+Bed Setup:
+- 1 King bed
+- 1 Pull Out Queen Sofa
+- 1 Air Mattress  (stored in closet)
+
+- An elevator is available in the complex to transport you to the 3rd floor.
+- Complimentary parking is provided on the premises. All numbered spaces in the parking garage are accessible for use, and there is a limit of one car per reservation. 
+Additional street parking is offered on a first-come, first-served basis.
+
+Permit #2022066456
+
+Other things to note
+House Rules & Important Details
+
+* Check-in: 4:00 PM (flexible when possible—please message in advance)
+* Check-out: 10:00 AM
+* No smoking inside the unit (including balconies where applicable)
+* No parties or events
+* Quiet hours: 10:00 PM – 8:00 AM
+* Please respect neighbors and keep noise to a minimum
+* Only registered guests are allowed on the property
+* No pets
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin
+Host User ID: 149105487
+Host Profile URL: https://www.airbnb.com/users/show/149105487
+Host Profile URL Source: public user permalink from passport userId
+My name is Justin Wilson and I attended Vanderbilt University. While at Vanderbilt, I was lucky enough to play baseball and get drafted by the New York Yankees. I hope everyone enjoys the condos! Also, if you stay at any of our places this slow season, you or family members get 10% off any future stay!
+My work: Pitcher for New York Yankees
+Lives in Murfreesboro, Tennessee
+8 years hosting
+1768 reviews
+4.84 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1718442349955081157
+Latitude: 36.184
+Longitude: -86.7722
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Florence | A fresh, roomy townhome that has it all, right where you want to be! Located in East Nashville, we're a 5 min ride from everything downtown has to offer. The home is fully equipped; just bring your suitcase and your spirit of adventure! The Florence is aesthetically decorated in the Art Deco style mixed with an ode to Nashville flair! Once inside, make sure to pick your favorite room: The Dolly Parton, The David Bowie, The Taylor Swift or The Elton John.
+
+The space
+The bedrooms and one bath are upstairs and the laundry second bath are on the main level.
+
+Guest access
+Whole home
+
+Other things to note
+Dogs are welcome, but we ask that you put them on your reservation. Limit to 2 total and they be crated while you are away. Please no pets on the furniture, as any damages or excessive cleaning is subject to an additional fee starting at $100. Pet fee is $50/pet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Xander
+Host User ID: 357917929
+Host Profile URL: https://www.airbnb.com/users/show/357917929
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Xan, a native of Texas but a Nashville citizen for 30 years. I've been a host/co-host for 6 years, and I take pride in providing an exceptional stay for my guests at the Florence, my home located a few miles from downtown. Come experience all that Nashville has to offer!
+Born in the 80s
+My work: Biotech Entrepreneur
+Response rate: 100%
+Responds within an hour
+4 years hosting
+10 reviews
+5.0 out of 5 average rating
+4 years of hosting

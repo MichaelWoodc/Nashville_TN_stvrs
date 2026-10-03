@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/5761616
+Latitude: 36.17082
+Longitude: -86.74582
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole group to one of East Nashville’s best locations—steps from Shelby Walk Park and an easy walk to the restaurants, bars and music of Five Points. This spacious, professionally designed 4-bedroom, 3-bath home sleeps up to 12 in six real beds, including two king beds. Enjoy a large open living space, gourmet kitchen, fast Wi-Fi, Sonos entertainment, EV charging and free parking—all just minutes from downtown, Broadway and Nissan Stadium.
+
+You will love our home — check our reviews.
+
+The space
+4 bedrooms • 6 real beds • 2 kings + 4 queens • sleeps 12. This newly constructed townhouse in the hills of East Nashville would be comfortable on the streets of San Francisco. Modern architecture and professional design combine to create an interesting and colorful space. 
+
+Tall ceilings on the first floor and an open floor plan have the living room, dining room and kitchen flow together in an inviting space.  Ample free on street parking as well as attached garage and parking pad with EV charging.
+
+Guest access
+Enjoy our entire home with secure electronic key code access and August Lock app (at your request)
+
+Other things to note
+All taxes are included in the price quoted and are collected by Airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joel
+Host User ID: 5178185
+Host Profile URL: https://www.airbnb.com/users/show/5178185
+Host Profile URL Source: public user permalink from passport userId
+A native of Montana but living in Louisville for 30+years, I now call Kentucky home.  For the past 15 years or so I have been splitting time between Louisville and Nashville, so am putting my country background to good use and even occasionally get to wear cowboy boots to work. 
+
+I travel mostly for business ... but for pleasure when work allows.  I'm one of those rare people who truly enjoys my job as I learn something new every day.
+
+I look forward to sharing my home with you.
+Where I went to school: Stanford undergrad and UCLA Law
+My work: Intellectual property attorney
+Response rate: 100%
+Responds within an hour
+Superhost
+14 years hosting
+638 reviews
+4.96 out of 5 average rating
+14 years of hosting

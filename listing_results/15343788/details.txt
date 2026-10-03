@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/15343788
+Latitude: 36.21399
+Longitude: -86.73272
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the most unique Airbnb in Nashville! The Urban Farmhouse was built in 1915 and is the architectural highlight of the hippest neighborhood, Inglewood/East Nashville. 
+You will have full access to the entire first floor of this grand home which includes: bedroom/living room - a shared space, and a bedroom. A full bathroom and basic kitchen(no oven).  The property is fenced so you will have privacy as you spend time in the front yard or on the front porch.  Six steps to porch for entry.
+
+The space
+THE SPACE:
+The first floor is basically 3 rooms, a bathroom and an entry Hall. 
+-Room 1: Bedroom with Queen size bed. (opens to the entry hall and the other bedroom/living area) Divided by curtains only!
+-Room 2: Is a Living Room area on one end with a full size bed on the other end. (opens to entry hall and bedroom) Curtains in all doorways
+-Kitchen:  Has the basics.  Microwave, coffee maker, fridge etc. (no oven)
+-Bath:  Just off the kitchen.  Has a small shower and pedestal sink.
+
+OUTSIDE:
+Fully fenced front yard!  You will have this entire space.. A great front porch to sit outside with coffee or tea!
+
+HISTORY:  
+This fine home was built in 1915, in what would become the Inglewood community. It is said to have been one of many farming estates lining the roadway to Gallatin TN. Prominent families, such as the Bateman's and the Benz's, made their home here through the 1930's. Poetically, the house served as the East View Tourist home beginning in the late 30's until 1946. Many business occupied the space between then and 1999. The Jere Baxter Lodge used it as their meeting place until their new lodge was built north of this site. Sometime in the 60's the home was converted into a quad-plex accommodating four families within it's historic walls. At the beginning of the 21st century the home was converted once again to a living space upstairs and living and commercial space downstairs. The upstairs living has a separate court yard in the rear of the home. The 1st level has it's separate fenced yard in the front area. The front porch is a wonderful place to rest and enjoy family and friends. The home is 104 years this season. We hope you'll come and be part of the homes new history.
+
+Guest access
+The whole property is fenced in so you will have optimum privacy as you spend time in the front yard or on the front porch.​ ​The apartment has a private driveway too.
+
+Other things to note
+There is a full-time tenant that lives on the second floor of the house. All entrances and exits are separate!  They have a dog and 2 cats.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 97837533
+Host Profile URL: https://www.airbnb.com/users/show/97837533
+Host Profile URL Source: public user permalink from passport userId
+Welcome! We are Bob & Anita Knowles your host. We acquired this property based on a need for a commercial building that exist next door to the Urban Farmhouse. We operate a formalwear business downstairs in the building and an Antique Mall upstairs. The Antique Mall is on the same elevation as the Urban Farmhouse, right next door. Fencing and parking separate the two buildings.  
+
+The Urban Farmhouse  space for rental is the entire lower level of this Antebellum Farmhouse of 3,000 sq ft.. The second level is occupied by a permanent resident. Both spaces have separate entries. 
+
+We have adult children that have been a great help in decorating, arranging, and maintaining the Urban Farmhouse.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+224 reviews
+4.88 out of 5 average rating
+10 years of hosting

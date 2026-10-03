@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/807944150837074687
+Latitude: 36.0719
+Longitude: -86.9427
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great Location!! Enjoy a memorable visit when you stay in this unique carriage house. Just 15 minutes to downtown Nashville. Private Deck and hot tub, you will not want to leave.  Two friendly dogs on property who will come greet you during your visit.  Close to Natchez Trace bridge, Loveless Cafe, Cheekwood, and Belle Meade Plantation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heather
+Host User ID: 474992971
+Host Profile URL: https://www.airbnb.com/users/show/474992971
+Host Profile URL Source: public user permalink from passport userId
+Being a native Nashvillian I can always give you recommendations for any interest you may have
+Where I went to school: Hillwood. UT Knoxville
+My work: Nashville Daily Spir
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+115 reviews
+4.93 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1579894185608158115
+Latitude: 36.16955
+Longitude: -86.80653
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville Legends is located in the heart of Nashville. If your destination is Nashville, this space puts you in a very central location to all the Nashville highlights. It is offers 4 bedrooms, 4 bathrooms, two units side by side with separate entrances with a music themed space that offers two spacious living rooms and and two eat-in kitchens too.
+
+The space
+Beds are as follows: 
+
+Room 1
+King (2)
+
+Room 2
+Queen (2)
+2 Twin Bunks (2)
+
+Living room A
+Sleeper Sofa Queen (2)
+
+Room 3
+King (2)
+
+Room 4
+Queen (2)
+2 Twin Bunks (2)
+
+Living room B
+Sleeper Sofa Queen (2)
+
+8 per unit, 2 units. A & B
+
+Unit A - Johnny Cash 
+Unit B - Hank Williams Jr.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Belinda
+Host User ID: 41207602
+Host Profile URL: https://www.airbnb.com/users/show/41207602
+Host Profile URL Source: public user permalink from passport userId
+Our family love hosting guests, and investing in real estate. Our backgrounds are school administrator and restaurant owner so naturally our airb&b side hustle provides us the opportunity to use our gifts and talents of service and hospitality to welcome you. We have 2 amazing kids and a Persian cat. We look forward to hosting you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+339 reviews
+4.89 out of 5 average rating
+8 years of hosting

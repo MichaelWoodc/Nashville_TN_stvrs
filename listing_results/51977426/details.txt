@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/51977426
+Latitude: 36.10195
+Longitude: -86.75006
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Golden Hour has everything you want for a Nashville getaway.  Freshly renovated townhouse with luxury furnishings, fully-stocked kitchen, and comfortable beds to melt into after a long day of sightseeing.  Take a step outside into the fenced-in back yard and enjoy an evening by the fire.  High-end body wash, shampoo, and conditioner are provided for you to rejuvenate yourself for another day.
+
+-1.5 miles to The Nashville Zoo
+-5 miles to Broadway
+-5 miles to Green Hills Mall
+-8 miles to BNA
+
+The space
+The kitchen, living room, and half bath are all located downstairs.  The two bedrooms and the full bath are upstairs.  Both bedrooms are equipped with really comfortable beds.  One bedroom has a Casper mattress and the other bedroom has a Nectar mattress.  The couch downstairs has a bedding kit that turns the couch into a comfortable sleeping arrangement for a 5th guest.
+
+Guest access
+If you are driving in, we have space in the driveway for a maximum of 2 vehicles. There is additional parking on the side of the lot, but please communicate if you have more than 2 vehicles.
+
+Other things to note
+We have sleeping arrangements for a maximum of five people.  Two people in each bedroom upstairs, and one person on the Burrow couch that coverts to a single person bed with the Nomad sleep kit.  We also have a pack ‘n play available for a small toddler or infant as well.  The neighbors are very sweet people, so we ask that you respect that they live in close proximity by limiting your noise levels.  If you need help with anything, don't hesitate to reach out to us!
+
+Registration Details
+2021079406
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin
+Host User ID: 167610329
+Host Profile URL: https://www.airbnb.com/users/show/167610329
+Host Profile URL Source: public user permalink from passport userId
+Husband, father, and realtor in the Nashville, TN area.
+Born in the 80s
+Where I went to school: University of Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+276 reviews
+4.89 out of 5 average rating
+5 years of hosting

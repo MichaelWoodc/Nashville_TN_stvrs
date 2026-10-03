@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/597201605597267975
+Latitude: 36.17075
+Longitude: -86.78401
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 2 bedroom, 2 bath condo is perfect for a girls weekend or a relaxing couples retreat! 
+
+Start your mornings with coffee on the patio, where you’ll catch a beautiful view of the Nashville skyline. Then head out for the day knowing you’re just a short walk to all the energy of Broadway - Nissan Stadium, Bridgestone Arena, Ascend Amphitheater, and the historic Ryman Auditorium.
+
+Enjoy in-laundry, free parking, and a fully stocked coffee station in this Germantown gem!
+
+The space
+2 bedroom/2 bath condo with sofa
+
+Guest access
+Entire condo
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shayna
+Host User ID: 53453359
+Host Profile URL: https://www.airbnb.com/users/show/53453359
+Host Profile URL Source: public user permalink from passport userId
+I live in Nashville, but also looking for my next adventure!
+Born in the 80s
+I spend too much time: Scrolling on social media!
+Response rate: 100%
+Responds within an hour
+4 years hosting
+42 reviews
+4.95 out of 5 average rating
+4 years of hosting

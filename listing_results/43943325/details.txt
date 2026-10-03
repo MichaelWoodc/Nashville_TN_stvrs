@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/43943325
+Latitude: 36.11351
+Longitude: -86.6973
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in a peaceful neighborhood only minutes from both the airport and the fun nightlife of lower broadway, this duplex is the launching point of your Nashville adventures that you have been searching for! 
+This home features a serene back yard, with an amazing sitting area, just waiting for you and your group to come kick back and enjoy! Book now and come enjoy Nashville the way it should be enjoyed!
+
+No local guests.
+Absolutely no parties
+Permit # 2020068252
+
+The space
+This home features:
+
++ High speed internet and WIFI
++ A recently renovated fully equipped Kitchen 
++ FREE coffee!
++ A washer and dryer free of charge
++ An office set up perfect for business on the go
++ 2 renovated bathrooms
++ An open layout perfect for a larger group
++ Plenty of parking!
++ A GORGEOUS back yard and sitting area equipped with a fire pit!
+
+Distance to local attractions:
+-Downtown Nashville -  7 miles
+-The Gulch - 6.3 miles
+-Music City Center - 5.9 miles
+-Bridgestone Arena - 6.1 miles
+-Nissan Stadium - 6.3 miles
+-Nashville International Airport - 4.3 miles
+-Gaylord Opryland Resort - 8.9 miles
+
+Other things to note
+Please remember that you're staying in a house, not a hotel. The owner lives in the other half of the duplex. Please treat the space with respect. If any problems arise, we will do our best to take action ASAP.
+Also, there is a camera outside of the home monitoring the entrance. This only monitors the outside of the home.
+
+There is a rental agreement that needs to be signed after each booking is confirmed. It will be sent over immediately after booking and can be signed digitally.
+
+Registration Details
+2020068252
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julian
+Host User ID: 88959664
+Host Profile URL: https://www.airbnb.com/users/show/88959664
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Julian!
+I was born and raised here in Nashville. While Nashville has changed a lot over the years, my love for this great city has remained constant! I enjoy traveling, exercising, reading, movies, and spending time with my wife and dogs. I began my hosting career with just one personal property and I quickly fell in love with it & decided to pursue a career in it! I haven't looked back since and have loved the ride!
+
+-Julian
+Born in the 90s
+My work: Carebnb Properties
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+4605 reviews
+4.89 out of 5 average rating
+9 years of hosting

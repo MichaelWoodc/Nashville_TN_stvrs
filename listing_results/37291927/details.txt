@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/37291927
+Latitude: 36.19657
+Longitude: -86.77205
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 12
+beds: 40
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*** PRICE INCLUDES ALL 4 UNITS IN THE SAME COMPLEX ***
+
+superhost 8 times in a row brings you... Four BRAND NEW, super trendy, luxurious townhomes! 
+4 UNITS! 4 ROOFTOPS! 12 Bedrooms! 14 Bathrooms! The townhomes has a beautiful open fully equipped kitchen. The rooftops has a BREATHTAKING view of the NASHVILLE SKYLINE, and weatherproof TV'S and  bar cart for entertaining. These townhomes has everything you need to make unforgettable memories in Music City!
+
+The space
+Bed configuration - 
+Downstairs bedroom 1 - 2  Full  Beds + 1 extra foldable bed 
+Upstairs bedroom 2 - 2 Queen Beds + 1 extra foldable bed 
+Upstairs bedroom 3 - 1 King Bed
+Living Room: 2 Queen pullout sofa beds
+ (we have the same bed configuration for all units)
+Each bedroom has a private bathroom. Half bath in the living room.
+
+This place has been planned thinking about you, the guest. Not one detail overlooked. This house is straight out of a magazine!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Itay
+Host User ID: 115173292
+Host Profile URL: https://www.airbnb.com/users/show/115173292
+Host Profile URL Source: public user permalink from passport userId
+In the past 6 years, we've been working with large groups and became experts in hosting bachelorette/bachelor parties, family reunions, corporate retreats, and weddings.
+We know that guests are looking for an enjoyable and pleasant experience, so we carefully selected our homes' portfolio and designed each home with our guests in mind. All our properties have private open space, hangout areas, large bedrooms with plenty of comfortable beds and located close to all the hot spots The city has to offer.  
+We are also locals with real-time availability. Please reach out to us with any questions about the property or any requests or recommendations.
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1374 reviews
+4.94 out of 5 average rating
+9 years of hosting

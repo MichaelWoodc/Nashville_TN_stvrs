@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1640056299600998103
+Latitude: 36.15537
+Longitude: -86.7632
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our thoughtfully and professionally designed 1-bedroom, 1-bath condo delivers an authentic Nashville experience. It comfortably accommodates up to 5 guests with a king bed in the bedroom, a queen sofa sleeper, and a custom bed. Located just 0.8 miles from Downtown Broadway, you’re only a 5-minute drive or an easy walk to iconic live music venues, world-class dining, and entertainment,. Enjoy access to a rooftop deck with skyline views, perfect for experiencing the heart of Music City.
+
+The space
+• Open-concept entry with the kitchen flowing directly into the living room.
+• Bunk bed is immediately to the left as you enter.
+• Washer and dryer conveniently located underneath the bunk bed.
+• Living room with a queen pullout sofa for additional sleeping space.
+• Private bedroom with a king bed for a comfortable night’s rest.
+• Small balcony off of the living room. 
+• Access to rooftop space and gym.
+• Access to free parking in the garage for up to two cars.
+
+Guest access
+Our building is secure, with controlled access to the building, common areas, fitness center, and condo through the Point Central system. Additionally, on-site security is provided at night and on weekends.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 77930747
+Host Profile URL: https://www.airbnb.com/users/show/77930747
+Host Profile URL Source: public user permalink from passport userId
+Our journey with Airbnb began in 2016 when we started renting out our personal home while traveling. What started as a simple side project quickly grew into a passion—creating exceptional stays where guests can relax, make memories, and feel at home. Now, as a family with two young children, we not only love hosting in our own properties but have also expanded to helping others provide top-quality stays in the area.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+5781 reviews
+4.89 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/30268359
+Latitude: 36.17069
+Longitude: -86.73998
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Way down yonder in the land of pink rhinestones and feather wings, there was a wonderland of gold and pink magic called The Nashville Dollhouse. This was discovered to be the perfect place to get all dolled up and git your Yeehaw on! 
+
+P.s. For events, photoshoots or filming, send us an inquiry first. Any reservation for events, photoshoots or filming without our consent will be immediately canceled and no refund will be issued.
+
+The space
+From the luxurious outdoor pink clawfoot soaker tub to the pink sandy beach mural magic corner, to the plush pink round king bed in a golden room, The Nashville Dollhouse has it all… like, literally… all.
+
+Our sleeping arrangements goes as follows:
+One 84" round bed in the master bedroom (sleeps 2)
+One full bed in the 2nd bedroom (sleeps 2)
+One twin bed with a trundle in the 3rd bedroom (sleeps 1 in each)
+One couch in the living room (sleeps 1)
+
+Guest access
+Full house + front and side yard.
+
+Other things to note
+Our outdoor pink clawfoot tub has a fully functional shower that is on from March to early December. We turn the tub's water off during winter time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pedro
+Host User ID: 85689123
+Host Profile URL: https://www.airbnb.com/users/show/85689123
+Host Profile URL Source: public user permalink from passport userId
+Hubby, musician and real estate enthusiastic =)
+My work: Musician
+Speaks English and Portuguese
+Response rate: 98%
+Responds within an hour
+Superhost
+10 years hosting
+1936 reviews
+4.97 out of 5 average rating
+10 years of hosting

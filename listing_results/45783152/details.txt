@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/45783152
+Latitude: 36.10262
+Longitude: -86.70292
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This beautiful private suite is located in a quiet neighborhood, 7 minutes from the airport and 15 - 20 minutes from downtown and really just about anywhere . You an enjoy a run or walk through the friendly neighborhood before you start your day. We're close to 65, 24, 40, Briley and 440, there are many options to access exploration into the Nashville scene. If you want to just hang out, you can savor shared outdoor spaces, free wi-fi, and a smart TV.
+
+The space
+This suite is quiet, private and comfortable. The bedroom features a queen-sized bed, with an orthopedic mattress. There's a separate coffee/ breakfast area where can work or just grab a bite.  The private bathroom is the best, great shower, heated towel bar and beautiful accommodations.
+
+Guest access
+Guests enter through a private entrance with a keypad, right next to their parking.
+
+During your stay
+Feel free to message me I'll reach back as soon as I can.
+
+Other things to note
+The neighborhood is very safe feel free to take a walk or go for a run. A grocery store less than 2 miles away. You'll also find I handful of great restaurants in the same shopping center.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rosalie
+Host User ID: 371160772
+Host Profile URL: https://www.airbnb.com/users/show/371160772
+Host Profile URL Source: public user permalink from passport userId
+My great-grandmother was the first world champion women's barrel back racing rider. I have inherited her sense of courage and tenacity for doing the unexpected.
+My work: Educator
+I spend too much time: watching spy movies
+Favorite song in high school: Mony Mony Billy Idol
+For guests, I always: do whatever I can to help
+Pets: Mac & Piper both doodles
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+475 reviews
+4.92 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/674135418979231671
+Latitude: 36.0523
+Longitude: -86.7038
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything when you stay at this centrally-located place. Only 20 min to downtown, 4 miles to the zoo and 4 miles to Brentwood. It’s located in Nashville desirable Crieve Hall neighborhood. Close to coffee shop, groceries, park and restaurants.
+
+The space
+The main part of the house can be used in your enjoyment. A couple lives downstairs but they don’t have access to upstairs.
+
+Guest access
+You have access to the deck and the front of the house (not have access to go down the deck stairs)
+
+Other things to note
+The guests will not have access to downstairs , since a couple lives there.
+
+There’s smart TV en the living room.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ana
+Host User ID: 413063083
+Host Profile URL: https://www.airbnb.com/users/show/413063083
+Host Profile URL Source: public user permalink from passport userId
+My work: Crew manager
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+142 reviews
+4.87 out of 5 average rating
+4 years of hosting

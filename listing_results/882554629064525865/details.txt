@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/882554629064525865
+Latitude: 36.21149
+Longitude: -86.59199
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect family getaway! - only 9 miles away from the airport and 16 miles from downtown Nashville.  Take in all the exciting sights and sounds of Music City, then retreat back to our peaceful oasis for some well-deserved R&R at the Hermitage Haven, your home in Nashville!
+
+The space
+With our cozy dining, kitchen, and living space, our peaceful retreat comfortably accommodates up to 7 guests, offering 2 queen beds and 3 twin beds. Washer and dryer included!
+
+Guest access
+You will have access to the entire top floor of the home as well as the front yard. You will also have a designated parking area with enough space for two vehicles.
+
+Other things to note
+- I live in a separate apartment in the basement (but will keep out of your way)
+- There is a peaceful golden retriever dog who will often be in the backyard (she is very quiet)
+- This is a smoke-free environment (no smoking in or outdoors)
+- There is a zero-tolerance policy for parties being hosted on the premises
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caleb
+Host User ID: 71581968
+Host Profile URL: https://www.airbnb.com/users/show/71581968
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+104 reviews
+4.98 out of 5 average rating
+3 years of hosting

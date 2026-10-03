@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/669669966202179222
+Latitude: 36.26
+Longitude: -86.74422
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Only 11 miles to Broadway,  and 10-15 minutes to the Opry and East Nashville! Get away from the city buzz in our quiet neighborhood without compromising proximity to downtown. This basement studio features a full kitchen,  jetted spa tub, king bed, and private patio with outdoor seating and a fire pit. Please note that this is the downstairs of our home and there are stairs up to a locked door which we have put a curtain over. With babies and a dog, minor overhead noise is possible!
+
+The space
+Please NO SMOKING of any kind indoors or on the patio! If you would like to smoke during your stay, we ask that you walk down to the sidewalk. 
+
+Pets are welcome to stay for an extra fee of $45. 
+
+We provide a sound machine if you are sensitive to small noises from upstairs (or just want some relaxing rain sounds to sleep to!) 
+
+This studio feels spacious and modern. Inside you will find a Helix King mattress with soft, white hotel rated sheets to enjoy a restful night’s sleep. Swivel the Smart TV off the wall to watch your favorite shows from bed! Please be sure to not extend the arm fully when you swivel it out.
+
+Enjoy the comfortable leather couch after a long day in Nashville or take a soak in the luxurious jetted tub. We provide high end shampoo and conditioner and Dr. Teal’s body wash which has a natural essential oil scent. 
+
+The outdoor patio features a fire pit, string lights, large propane grill, and a sectional couch where you can enjoy morning coffee with a view of the yard  and possibly spot some of our free roaming chickens! 
+
+We offer a full kitchen so that you can prepare your favorite meals easily, or just microwave a bag of complimentary popcorn to snack on! 
+
+If you need to work while you are here, we have a large desk and comfortable chair below the TV. 
+
+The side patio and front yard grass are yours to use during your stay. *Please do not come into the backyard behind the patio!*
+
+Please Note:
+Some photos may showcase special amenities such as food and beverage displays. These services are not included with your standard reservation.
+However, we do offer these enhancements for an additional fee when possible. If you're interested in adding a special touch to your stay, please send us a message.
+
+Guest access
+Guests have access to the studio space and the side patio of the house and part of the front yard. Please do not come into the backyard behind the patio.
+
+Other things to note
+This space is the downstairs of our home, but the patio, entrance, and studio itself are completely private and not shared.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kate
+Host User ID: 323466207
+Host Profile URL: https://www.airbnb.com/users/show/323466207
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Cal Poly, San Luis Obispo
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+391 reviews
+4.97 out of 5 average rating
+4 years of hosting

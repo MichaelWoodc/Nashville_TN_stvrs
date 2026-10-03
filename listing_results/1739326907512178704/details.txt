@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1739326907512178704
+Latitude: 36.0219
+Longitude: -86.6859
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious home located in a quiet, family-friendly neighborhood just minutes from Brentwood. The oversized primary suite includes a spacious master bathroom, offering a comfortable retreat with plenty of room to relax. Outside, you’ll enjoy a welcoming community with a neighborhood playground and easy access to a scenic greenway that’s ideal for walking, running, and biking.
+great neighborhood amenities, and a convenient location close to shopping, dining, and everything Brentwood has to offer.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthijs
+Host User ID: 188204084
+Host Profile URL: https://www.airbnb.com/users/show/188204084
+Host Profile URL Source: public user permalink from passport userId
+Dutchie living in the greatest country on earth!
+My work: Medic
+Fun fact: From the Netherlands!
+Response rate: 60%
+Responds within a day
+4 years hosting

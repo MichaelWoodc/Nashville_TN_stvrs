@@ -1,0 +1,82 @@
+URL: https://www.airbnb.com/rooms/1623516334773251092
+Latitude: 36.36459532261863
+Longitude: -86.61301520238484
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This lovely 3-bed, 2.5-bath house on one acre is a non-smoking property. Located 6 minutes from Glenn Brooke with Kroger, Target, and Kohl's. Indian Lake, with many dining options, is about 8 minutes away. Two pets are welcome with a $150 non-refundable cleaning fee. Note: the back of the garage is rented short-term but is separate from the house. Upstairs features one king bed in the room with a single bed.
+
+The space
+The detached garage is rented out as well. This is a completely different area that won't effect your stay at all.  They do park in the same driveway.
+
+Guest access
+Guest get to use all the facilities including the yard.
+
+Guest have access to the entire apartment.
+No smoking is allowed. (Smoking Violation fee is $350)
+Disclaimer: Please note that occasional Wi-Fi issues from the service provider may occur. The host will not be liable for any compensation due to lost Wi-Fi connections experienced by guests.
+Local guests within a 50 km radius of the property are subject to approval.
+
+Other things to note
+Important Information:
+
+ID and Verification: 
+To comply with legal and security requirements, you may be asked to provide a government-issued photo ID, verify your contact information, and provide a valid credit card matching your ID for verification. Depending on our screening results, additional credit card verification may be required. A security deposit may be needed (excluding Airbnb guests).
+
+Pet Policy:
+
+A maximum of 2 pets are allowed on the property.
+A non-refundable pet cleaning fee of $150 per stay applies.
+Guest Support:
+
+My team is available daily from 7 AM to 10 PM CT to address your questions.
+Food Delivery:
+
+For any food deliveries, Shipt dot com will deliver to you.
+Sleeping Capacity:
+
+Standard capacity: 6 guests
+Up to 8 guests are allowed with an additional charge of $15 per night for the 7th and 8th guests.
+Guests over 2 years old need to be listed on the reservation. Unlisted guests will be charged $50 per person, per night.
+Check-In/Check-Out:
+
+Standard Check-In: 3 PM
+Early Check-In: Requests before 11 AM are subject to availability and will incur a 50% nightly rate fee.
+Standard Check-Out: 11 AM
+Late Check-Out: Subject to availability with fees as follows:
+50% of the nightly rate for check-outs after 11 AM
+75% of the nightly rate for check-outs after 1 PM
+100% of the nightly rate for check-outs after 3 PM
+A minimum fee of $100 applies, whichever is higher.
+
+Supplies: Basic essential starter kits are provided. For longer stays or additional needs, please plan accordingly.
+
+Smoking Policy: A $350 fee will be charged for smoking inside the property, including cigarettes, vaping, and marijuana.
+
+Wi-Fi Disclaimer: Occasionally, Wi-Fi issues may arise due to service provider problems. We are not liable for any compensation due to lost Wi-Fi connections.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stevens Realty
+Host User ID: 174969407
+Host Profile URL: https://www.airbnb.com/users/show/174969407
+Host Profile URL Source: public user permalink from passport userId
+Lives in Algood, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+789 reviews
+4.43 out of 5 average rating
+9 years of hosting

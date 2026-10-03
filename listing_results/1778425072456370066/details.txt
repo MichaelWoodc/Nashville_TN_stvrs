@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1778425072456370066
+Latitude: 36.2038
+Longitude: -86.812
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 9
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Velvet Estate at New Cumberland Resort—two side-by-side luxury homes combined for one unforgettable Nashville stay. Enjoy 8 bedrooms, 6 full + 2 half baths, two kitchens, spacious living areas, and two private rooftop retreats with hot tubs. Perfect for bachelorettes, wedding groups, birthdays, families and friends who want to stay together while still having plenty of space to relax.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: NashVIP Host
+Host User ID: 456121654
+Host Profile URL: https://www.airbnb.com/users/show/456121654
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+158 reviews
+4.98 out of 5 average rating
+4 years of hosting

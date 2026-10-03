@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/3398939
+Latitude: 36.17478
+Longitude: -86.78236
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 5
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Riverfront condo has a wonderful balcony that overlooks the Cumberland River. Sit on the front porch and enjoy one of the best views in the entire complex. 
+
+The condo's kitchen is stocked with many things, including coffee grounds for the drip coffee maker along with sugar and non-dairy creamer.  We also provide salt and pepper, cooking spray, and cooking oil.  If you would like to use more spices etc, you will need to provide your own.
+
+The space
+ONE OF THE BEST VIEWS IN THE ENTIRE COMPLEX! Wonderful waterfront condo with balcony for relaxing and taking in the views of the Cumberland River. The condo is in a perfect location in Nashville and boasts a fire pit, comfy King bed, and all the supplies you will need for a lovely vacation. 
+
+We provide an additional memory foam mattress in the closet for additional sleeping as well.
+
+Look no further. We pride ourselves on making sure every guest has a wonderful stay!
+
+Guest access
+Full Kitchen, Laundry Room, Workout Facility, Shared Condominium Complex Pool, King Size Bed
+
+Other things to note
+**Please Note the pool opening is at the complete discretion of the condominium association and is weather permitting. It is estimated to be opened from Memorial Day to Labor Day. The pool closes at 10pm everyday.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kara
+Host User ID: 42738533
+Host Profile URL: https://www.airbnb.com/users/show/42738533
+Host Profile URL Source: public user permalink from passport userId
+I am an avid photographer (underwater and on land) and I love to travel and meet new people from different backgrounds around the world. I like to laugh and create just about anything.
+My work: Photographer and Videographer
+Speaks English and Spanish
+8 years hosting
+16 reviews
+4.94 out of 5 average rating
+8 years of hosting

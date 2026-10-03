@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/34232229
+Latitude: 36.1506
+Longitude: -86.8235
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern, luxury, trendy home located 3 miles from Downtown in Sylvan Heights.
+
+Enjoy 4 bedrooms, 3 full bathrooms, 1 half bathroom, 1 King and 5 Queen beds.  Private 2 car garages, 2 tiered deck-perfect for entertaining off of the main level living area, & an elegant master suite that features sliding glass doors leading to a private balcony overlooking the downtown city skyline! 3 miles to the Downtown & Walk able to all of the amenities of Charlotte Ave.
+
+The space
+The Home:
+
+Inside this spacious home, the first level offers two bedrooms and one bath along with a washer and dryer, on the second level you will find a beautiful modern kitchen, a standalone island with counter-tops with plenty of seating around the island. Brand new modern kitchen and app
+liances.  For your entertainment needs, a 60-inch 4k TV is mounted for your enjoyment from comfortable sofas.  
+
+On the third floor will also find the master bedroom - furnished with two queen beds and a full bath and your own private deck!
+
+This house has plenty of space to rest after an incredible day out in Music City. The master bedroom is huge and we have set up two queen-sized beds to further accommodate your large groups. 
+
+Of course, don't forget! We have 2 huge decks with spanning views of Downtown Nashville! So, get ready to explore Music City during the day & enjoy the beautiful skyline of Nashville from the deck at night!
+
+Guest access
+You`ll have 100% private access to this home during your entire stay, except for one closet that I keep for personal belongings and supplies
+
+Other things to note
+If you need luggage drop off for early arrival that can be arranged.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ethen
+Host User ID: 155018517
+Host Profile URL: https://www.airbnb.com/users/show/155018517
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+85 reviews
+4.95 out of 5 average rating
+9 years of hosting

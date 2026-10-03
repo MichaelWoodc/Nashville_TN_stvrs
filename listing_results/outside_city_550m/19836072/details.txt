@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/19836072
+Latitude: 35.92701
+Longitude: -86.76256
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 2
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful Home on
+Over 2 acres,
+ 10 minutes from Cool Springs,  and Nissan headquarters, And McEwen North - Very dynamic new neighborhood! 
+25 minutes to downtown Nashville and all the thriving excitement🎸
+
+The space
+It is a Great Comfy Space on the second floor, 
+It has a Full Size Bed, with a Private Bath and Shower, a sink and mini fridge, and TV.
+And it's above the main kitchen of the house, very accessible right by the garage for a private entrance very cozy!
+
+Guest access
+The main kitchen and living rooms, also the patio and covered porch
+
+During your stay
+The really Great aspect of hosting, 
+Is the new friendships that are fostered,  
+Through the Airbnb community, 
+Many wonderful friends!
+
+Other things to note
+This Guestroom is located on the Second floor, is is a split stairwell,
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gregory
+Host User ID: 140119411
+Host Profile URL: https://www.airbnb.com/users/show/140119411
+Host Profile URL Source: public user permalink from passport userId
+I am a Travel Professional, My background is Airline and "High End"
+Hospitality, I have worked for Four Seasons Hotels and Resorts, As well as OmniHotels. Also The Mansion on Turtle Creek in Dallas.
+I appreciate and "luv" Great Customer Experiances"
+Where I went to school: Metro State
+My work: Aviation
+I spend too much time: Buying and selling drums
+For guests, I always: Strive to Make it Feel Like Home
+Pets: Border Collie
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+135 reviews
+4.94 out of 5 average rating
+9 years of hosting

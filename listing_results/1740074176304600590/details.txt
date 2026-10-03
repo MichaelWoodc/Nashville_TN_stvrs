@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1740074176304600590
+Latitude: 36.231
+Longitude: -86.6613
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pour a glass of something you like and sit on the porch, watch the deer and turkeys roam on this acre of land in a hidden gem farming community just 25 minutes from downtown Nashville. 
+
+Three bedrooms and two bathrooms, full eat in kitchen, all appliances and bbq grill available. Cozy couch with a TV for movies and shows. We pride ourselves on our hospitality here at the Hudson House, and love for our guests to relax, read, listen, or pick up a guitar and learn a few chords.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maddy
+Host User ID: 48211263
+Host Profile URL: https://www.airbnb.com/users/show/48211263
+Host Profile URL Source: public user permalink from passport userId
+Hello :) I'm Maddy, and I can't wait to host you!
+Lives in Nashville, Tennessee
+What makes my home unique: Extensive media library
+Response rate: 100%
+Responds within an hour
+2 months hosting

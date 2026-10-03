@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/34307701
+Latitude: 36.1733
+Longitude: -86.8102
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Perfect Nashville Getaway!
+
+Just minutes from downtown Nashville, this private home is your perfect Music City retreat! Only 2 miles from top attractions like Broadway, The Ryman, Nissan Stadium, and more. Inside, enjoy open, spacious living areas, a fully-equipped kitchen, and plenty of room for entertaining. Whether you're here for business, or to relax and explore, you'll feel right at home in this inviting space designed for both comfort and fun!
+
+The space
+Fully remodeled 1930s style craftsman with tall ceilings; beautiful, original hardwood floors and spacious common areas. Just minutes from downtown, this 4 bedroom 3 bathroom home is equipped with everything you need to explore Music City!
+
+- Everyone gets their own bed! 4 Full beds, 2 Queen beds and 1 King bed
+- WiFi & Flat Screen TVs with Roku
+- Full house music through smart speakers
+- Fully outfitted kitchen
+- Fenced backyard
+- Game space with foosball table
+- Washer & Dryer
+- Linens and towels
+- Air mattresses and additional bedding available upon request
+- Free street parking
+
+Bring your suitcase and groceries - the rest is here!
+
+The laundry room, sun room and backyard are shared spaces with the owner's who live in an adjoining apartment.
+
+Other things to note
+Close proximity to many local attractions, including:
+2.2 miles from beautiful Centennial park
+2.6 miles to the middle of Downtown and The Gulch
+2.7 miles from the historic Ryman theater
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lynn
+Host User ID: 231273495
+Host Profile URL: https://www.airbnb.com/users/show/231273495
+Host Profile URL Source: public user permalink from passport userId
+Hi
+I'm a real estate developer from Hampton Roads Virginia.  Best known for having seven amazing kids and an extraordinary wife.   We live in Nashville Tennessee and Hampton Roads Virginia on the Chesapeake Bay. That's our elaborate plan for stalking our kids.  They live in cities we like.  We develop real estate there and provide great places for others to come home as well
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1647 reviews
+4.9 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/38215412
+Latitude: 36.0994
+Longitude: -86.7251
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a beautiful and quiet neighborhood 10 minutes from downtown Nashville. Stay in an adorable guest suite that is a short drive from all the tourist attractions in Nashville and only 15 minutes from the airport.**Parties and events not allowed. ***PLEASE READ ENTIRE PROPERTY DESCRIPTION***
+
+The space
+This modern en-suite apartment has two bedrooms with an open floor plan for the living room, dining room and kitchen. One bedroom has a queen bed with a full size trundle and sleeps 4. The other bedroom has a queen size bed.
+
+Guest access
+You will have access to the entire guest suite, which is accessed through its own egress behind the house. The upstairs of the house is our personal residence. You also have access to the screened in porch with a seating area. If you would like access to the laundry room, please let me know. The backyard is off limits, unless requested. My dog is often in the yard.
+
+Other things to note
+Please park behind the house in front of the screened in porch and closest to the house. There is one parking spot for your use. If you have more than one car, please park on the street in front of the house. 
+
+The access to the suite is through the screened in porch behind the house. There is an electronic lock on the door immediately to the right when you walk into the screened in porch. You will receive the code on the day of your arrival.
+
+Please no smoking anywhere on the property. Smells get into the house, even if you are smoking outside.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ali
+Host User ID: 18328889
+Host Profile URL: https://www.airbnb.com/users/show/18328889
+Host Profile URL Source: public user permalink from passport userId
+My work: Developer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+80 reviews
+4.91 out of 5 average rating
+5 years of hosting

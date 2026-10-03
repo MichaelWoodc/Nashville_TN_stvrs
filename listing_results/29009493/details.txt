@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/29009493
+Latitude: 36.14455
+Longitude: -86.76479
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located only a couple minutes down the street from Nashville's famous Honkytonks on Broadway. Save money and time with private parking and a quick Uber/Lyft to all the hot spots! Or enjoy the phenomenal local coffee shops, restaurants, and scenery.  This immaculately clean and beautifully designed suite has a full kitchen, complimentary coffee bar and snacks, a king memory foam mattress (bedroom) and a queen memory foam mattress (living room couch).
+
+The space
+Check-in is 3 PM
+Check-out is 11 AM
+
+ARRIVAL AND PARKING: St. Patricks Catholic Church allows guest to park in the rear portion of their parking lot near the entrance to the suite. All guest will receive a video with entry/parking instructions upon booking. The Church only request is that we leave the spaces open when they have mass (Sun 11AM, Sat 4PM, Wed 11:45AM), so in that case, feel free to park in any of the ample spaces on 2nd Ave. S, or drive down the alley and park in the driveway located at the rear of the home. You will be given a code to your keyless entry before your arrival. If you have a preference as to what four-digit code you would like please let me know in advance and we will be happy to accommodate.
+
+LOCK INSTRUCTIONS:
+At the back door, enter your unique code on our key-less lock. In the unlikely event that you can't access the suite, please call me and I’ll be more than happy to assist you.
+
+Departing: Your code will be unable to use after checkout time unless a late check out is requested and approved. Please leave the key on the counter, there is a $25.00 charge for keys not returned.
+
+Guest access
+Guest will have access to the entire condo with keyless code to enter through the back door and key to access the unit.
+
+Other things to note
+The space is attached to my home from the rear above the garage. You do walk through the garage space to access the unit. The garage has a ton of construction debris and is a mess; however, your sweet will be sparkling clean!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ronnie Lee
+Host User ID: 70706732
+Host Profile URL: https://www.airbnb.com/users/show/70706732
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Realtor | Investor
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+509 reviews
+4.94 out of 5 average rating
+8 years of hosting

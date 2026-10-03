@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1561020903741637744
+Latitude: 36.19662
+Longitude: -86.82812
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Perfect Nashville Getaway — Spacious, Stylish & Designed for Fun!
+
+Welcome to your home-away-from-home in Music City! This beautifully decorated 4-bedroom, 4-bath retreat offers all the space, comfort, and energy you need for an unforgettable stay. Whether you're hosting a friends’ trip, family gathering, bachelor or bachelorette celebration, or simply looking to relax in style, this home checks every box.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alyssa
+Host User ID: 397903541
+Host Profile URL: https://www.airbnb.com/users/show/397903541
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Alyssa! I love all things adventure and travel. My husband and I seize every opportunity we have to travel to fun and exciting destinations. When I am not traveling, I spend my days working as a children’s mental health therapist. And when I am not at work, taking walks with my sweet Australian Shepard Bailey is how I like to spend my time!
+Response rate: 100%
+Responds within an hour
+4 years hosting
+79 reviews
+4.96 out of 5 average rating
+4 years of hosting

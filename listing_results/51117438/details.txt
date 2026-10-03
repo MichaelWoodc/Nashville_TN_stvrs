@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/51117438
+Latitude: 36.17827
+Longitude: -86.79017
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Ultimate Nashville Airbnb Experience in the Heart of Germantown! Surrounded by the Best Restaurants, this historic 3BR/3BA house is only 1.5 miles from Broadway!  Beyond charming home will be sparkling clean. Includes a hot tub, and 7 beds! Dining Room and living area, as well as, outdoor dining/bar make it Perfect for Indoor/Outdoor entertaining.  Perfect for any type of large group, the entertainment options are endless and the location and charm are second to none.
+
+The space
+Bed Count:
+Bedroom 1 -  1 king bed
+Bedroom 2 - 2 queen beds
+Bedroom 3 - 2 queens beds
+Bonus Room - bunk bed - top single/bottom full.
+Indoor living room seats 7 comfortably
+Dining room seats 10 comfortably, (two long benches at table)
+Outdoor living
+Seating for 10+ outside
+New Hot Tub
+Huge deck for entertaining
+
+Guest access
+All access, except one owners closet in hallway in back of house.
+
+Other things to note
+Fireplace in living room is decorative only. It is nonfunctioning. 
+
+The bonus room does not have a door, so is technically not a bedroom, but because of its placement it is semi private.
+
+Ice dispenser from fridge door only.
+
+Disclaimer: For security and to maintain the integrity of the property and neighborhood, we have installed security cameras.  Cameras are on the outside of the house only.  Front and Rear entry.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marty
+Host User ID: 180293578
+Host Profile URL: https://www.airbnb.com/users/show/180293578
+Host Profile URL Source: public user permalink from passport userId
+Al and I LOVE travel, animals and running these Airbnbs.  Our mission is to provide a sparkling clean, safe 5 star home, so that our guests may have the vacation they dream of and we may rescue dogs!
+My work: Retired/focus on these Airbnbs
+Lives in United States
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+527 reviews
+4.97 out of 5 average rating
+9 years of hosting

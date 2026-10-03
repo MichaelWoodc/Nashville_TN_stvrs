@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/29968952
+Latitude: 36.12742
+Longitude: -86.8291
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+This place is a great location, in a quiet neighborhood.
+1/2 of a duplex. Host next door.
+
+Other things to note
+Great deck!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rhonda
+Host User ID: 53382229
+Host Profile URL: https://www.airbnb.com/users/show/53382229
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+655 reviews
+4.77 out of 5 average rating
+10 years of hosting

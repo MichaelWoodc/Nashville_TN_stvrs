@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/1598070545539159877
+Latitude: 36.171061637161294
+Longitude: -86.79831101865865
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to 12th Ave N! Live like a local in this stunning 3BR, 2.5BA home just minutes from Broadway. Free parking! Max 10 guests! 
+
+Our home features a luxe rooftop with fire pit, ample seating, and downtown views - it's perfect for hanging out, enjoying coffee, working, and having a cocktail!. The primary suite has a queen bed + private bath, the second bedroom offers a king with a Jack-and-Jill bath, & the third includes twin-over-twin and queen-over-queen bunks. We can’t wait to host you!
+
+The space
+Sleeping arrangements:
+
+Primary bedroom - 1 Queen bed with a private bathroom attached
+Bedroom 2 - 1 King bed with a jack-and-jill bathroom attached
+Bedroom 3 - 2 Queen beds + 2 twin beds with a jack-and-jill bathroom attached
+
+Your perfect Nashville stay in our modern build is just minutes away from the most popular neighborhoods and places in Nashville:
+
+Broadway - 1 mile, 6 minutes
+12 South neighborhood - 3 miles, 10 minutes
+Topgolf - 1.5 miles, 5 minutes 
+The Gulch - 1.5 miles, 6 minutes
+Music Row - 2 miles, 6 minutes
+The Ryman - 1.7 miles, 6 minutes 
+Country Music Hall of Fame - 2 miles, 9 minutes 
+Nashville Sounds Stadium (First Horizon Park) - 0.9 miles, 3 minutes
+Nelson's Green Brier Distillery - 0.7 miles, 2 minutes
+Corsair Distillery and Taproom - 0.5 miles, 1 minute
+Five Points - 3 miles, 10 minutes
+Soho House - 3 miles, 9 minutes 
+Bearded Iris Brewing - 1.5 miles, 5 minutes
+
+Guest access
+As our guest, you will have access to our entire home. We do not have private parking - we have street parking that can accommodate upwards of 4 + vehicles.
+
+Other things to note
+IMPORTANT DETAILS and HOUSE RULES: 
+
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/ or Events are not permitted at this property & may result in the removal of your group from the premises without a refund.
+
+House Rules:
+Minimum Booking Age: 25 years old.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move furniture around.
+No Confetti or Tape: Please do not use tape or adhesive OF ANY KIND on our walls. *Damages will be charged to you.*
+We are pup friendly with a $100 pet fee per stay, for up to two pets. Please indicate you are bringing your pet(s) when you book. Pets are not allowed to be left unattended both inside the home or in the fenced in yard.
+
+Registration Details
+STRP 2019008754
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City BNBs
+Host User ID: 22224024
+Host Profile URL: https://www.airbnb.com/users/show/22224024
+Host Profile URL Source: public user permalink from passport userId
+Howdy y’all! Im Shack— born-and-raised Tennesseans who turn good stays into great stories. I run a small boutique rental company with one goal: making your stay feel like home (but better). We love our guests and are always thrilled to see familiar faces return year after year. Come live like a local — we can’t wait to host you!
+My work: we <3 hosting
+I'm obsessed with: making guests feel like locals
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1148 reviews
+4.89 out of 5 average rating
+12 years of hosting

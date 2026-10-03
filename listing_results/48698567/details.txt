@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/48698567
+Latitude: 36.1722
+Longitude: -86.7799
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come stay awhile in this bright and sunny condo overlooking the Cumberland River just minutes from the Heart of Music City. Walkable to the trendy Germantown neighborhood. Less than a 5-minute drive to Broadway where the music stages are rockin’ 7 days a week. This suite is the perfect spot to unwind after a long day of exploring all that Nashville has to offer. Free parking included!
+
+The space
+- Newly renovated condo
+- Keyless entry. We will send you your personalized door code the week on your check in date. 
+- Private balcony showcasing the scenic river views
+- Updated bathroom (located inside bedroom) with spacious walk-in shower, plenty of plush towels, and hairdryer
+- Mini Coffee Bar to help kickstart your day. Choose between our Nespresso machine, Keurig or regular coffee pot. Keurig pods, Nespresso pods and sweeteners supplied. 
+- TV in living room and bedroom with chromecasts so you can stream your favorite shows. Living room tv also has Xfinity basic cable included and an option to stream free shows. Any shows or movies purchased On Demand will be billed back to you via Airbnb. 
+- Fully equipped kitchen with appliances, pots/pans, dishware, etc.
+- Queen bed in bedroom + a comfy queen sofa bed easily accommodates 4 adults. Please note: the bathroom is located inside the main bedroom. This means guests using pull out sofa in living room will have to go through bedroom to get to bathroom. 
+- Living room has a record player with various records
+- Pool at opposite end of the property
+-Pool open April 1- Oct 31
+- Gym located in building
+- On-site laundry center located in building
+- Free parking
+
+Guest access
+Guests can access the laundry and gym via a keycard left in the kitchen. The grill area is open access to all guests on a first come, first serve basis.
+
+The pool recently renovated and open from May-October
+
+Other things to note
+Condo is located on the 3rd floor, accessible by stair only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bekah
+Host User ID: 226072400
+Host Profile URL: https://www.airbnb.com/users/show/226072400
+Host Profile URL Source: public user permalink from passport userId
+My name is Bekah and I have lived in Nashville for 4 years! 
+
+I look forward to making sure you have the best stay possible! I hope this space helps you cherish the things that I love most about the Nashville area.
+Lives in Nashville, Tennessee
+For guests, I always: Make their getaways feel like home!
+3 years hosting

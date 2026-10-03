@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/34513576
+Latitude: 36.3477
+Longitude: -86.876
+rental_type: Barn
+property_type: BARN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to the tranquility of a 96-acre working farm — complete with rolling pastures, peaceful ponds, and even a hidden waterfall. Just 30 minutes from downtown Nashville, this agritourism retreat offers a serene country experience without sacrificing convenience.
+
+The space
+Relax in your private apartment featuring rustic barn-wood details, modern amenities, and a steam shower for the perfect end to your day. Step out onto the back deck to catch breathtaking sunsets, or gather around the fire pit to roast s’mores under a canopy of stars.
+Inside, you’ll find a farm map highlighting the best walking trails, fishing spots, and scenic viewpoints. You’ll also have access to the entire apartment and balcony — completely private and all yours to enjoy.
+
+Guest access
+The entire apartment and balcony is yours to enjoy. In the apartment you will find a map with information as to where you can explore . There are several ponds (including one pond you can fish) on the farm and when we are not in a dry spell, a small waterfall. Feel free to gather some wood and roast s'mores or hotdogs over the fire pit.
+
+Other things to note
+You may encounter other folks who live and work on the farm. Feel free to ask questions about our farm mission to help feed the hungry. 
+The apartment is completely yours so if you want privacy that is totally available as well.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lori
+Host User ID: 221702926
+Host Profile URL: https://www.airbnb.com/users/show/221702926
+Host Profile URL Source: public user permalink from passport userId
+My heart and soul is in this farm. I love sharing it with people and meeting new friends. My husband, Jim and I bought the farm to grow food for area food banks so folks in need would have a healthy food source. The fee from your stay supports the donation gardens. I also love to grow flowers and I have a You Pick Flower Garden event every Saturday when the flowers are in season. We love hiking and camping... well more like glamping for me. So we are building camp sites here at By Faith Farm.  There’s always something new on the farm. I’d love to show you around!
+My work: ByFaith Farm
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+190 reviews
+4.99 out of 5 average rating
+8 years of hosting

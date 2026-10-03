@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1679629488741673691
+Latitude: 36.14026
+Longitude: -86.77381
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make yourself at home in this open-plan studio with modern design and comfy bed. Located near Midtown, enjoy access to the building gym, rooftop terrace, and nearby local favourites for dining and entertainment.
+
+The space
+Enjoy a stylish Nashville stay in this fully furnished retreat—perfect for extended visits. Relax in modern, thoughtfully designed spaces with a full kitchen, high-speed Wi-Fi, and cozy living areas. Conveniently located near downtown, top dining, live music, and local hotspots, you’ll have easy access to everything Music City has to offer.
+
+Disclaimers:
+
+- To avoid any confusion, we kindly ask that all guests read the information below carefully before confirming your booking. (We promise this will help you prepare for your stay and answer most of your questions!) Thank you!
+
+- After completing your booking, you’ll be required to submit valid ID and provide some basic information for verification on our guest portal. 
+
+- All photos, floor plans, and descriptions are provided for illustrative and indicative purposes only.
+
+- The actual allocated unit may vary slightly depending on its position within the building.
+
+Registration Details
+2026044250, 2026044304, 2026044339
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Westerly House
+Host User ID: 741626815
+Host Profile URL: https://www.airbnb.com/users/show/741626815
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+8 months hosting
+6 reviews
+4.17 out of 5 average rating
+8 months of hosting

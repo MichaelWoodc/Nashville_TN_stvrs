@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/904878082837187331
+Title: Sunshine Cottage Nashville
+Latitude: 36.2179
+Longitude: -86.7195
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our Sunny,  peaceful, and centrally-located home. We have 2 bedrooms 1 bath and a lovely fully fenced-in back yard. 
+We are here to help you relax as you work, relocate, or see Nashville in our corporate rental. You may bring your furry friend [dogs only please, we are severely allergic to cats ]. You will have all of the amenities of a home-stocked kitchen full-size washer and dryer and close to everything in Nashville within a few minutes. 
+We look forward to hosting your stay!
+
+The space
+Living room 
+2 bedrooms queen beds 
+1 sofa that folds out 
+1 full bath 
+1 kitchen , stove , fridge , microwave 
+Laundry room washer dryer 
+fully fenced back yard
+
+Guest access
+You will have the home to your self and we rock it old school with keys
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scarlett
+Host User ID: 45101594
+Host Profile URL: https://www.airbnb.com/users/show/45101594
+Host Profile URL Source: public user permalink from passport userId
+Hi Guests , 
+I am a Nashville native I love to host parties with friends and family. I love helping guests at Getaways Nashville. 
+*I love people, encouraging and helping others
+*I love to laugh and enjoy life 
+*I love to travel 
+*I am a caring idealist
+*I am a mother to a wonderful daughter and she blessed me with two grand babies 
+*The Beach is my happy place !
+My work: Getaways Nashville
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+7549 reviews
+4.91 out of 5 average rating
+9 years of hosting

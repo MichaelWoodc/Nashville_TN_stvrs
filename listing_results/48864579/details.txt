@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/48864579
+Latitude: 36.20281
+Longitude: -86.75465
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Dream at Lyric Nashville!  Stunning rooftop paradise with views of downtown! Elevated living with three floors exquisitely furnished, designed to emphasize style, comfort and entertainment for our guests.  Rooftop features fire pit, 60inch TV, Faux Live Wall, Loungers, Grill, Cornhole, Battle Putt, Etc.  Interior features neon lights, record player, shuffleboard, etc.  Experience Music City from East Nashville, one of the trendiest parts of the city, just 10 minutes to downtown.
+
+The space
+Whole home, 700+ squarefoot rooftop
+
+Guest access
+Whole home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jesse
+Host User ID: 339829488
+Host Profile URL: https://www.airbnb.com/users/show/339829488
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+182 reviews
+4.97 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/33037593
+Latitude: 35.99656
+Longitude: -86.84259
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 8
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Plenty of space for a fun gathering with LOTS of amenities to keep everyone busy!  Large 5+ bed/ 5 full & 3 half bath home will comfortably sleep 12+.  Guests will have the use of the entire space as well as the outdoor amenities.  The pool is open mid May-Sept. and hot tub is open all year.  Full tennis court doubles as a basketball court. Sauna & full bath are in pool house and outdoor kitchen features grill, sink, fridge and seating on deck overlooking the beautiful hills of TN.
+
+Guest access
+Please refrain from using garage.
+
+You may park in the front drive or back drive by the tennis court.  There may be personal vehicles parked by tennis court.
+
+Other things to note
+No firearms, hunting or fireworks allowed. 
+
+No parties allowed over the amount of guests stated in reservation without prior approval and consent of owner.
+
+No more than 5 vehicles allowed on property.
+
+Owners have a cat and dogs that will not be here during your listing but they do occasionally come inside, please be aware if you have allergies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Denise
+Host User ID: 25354278
+Host Profile URL: https://www.airbnb.com/users/show/25354278
+Host Profile URL Source: public user permalink from passport userId
+We love the Nashville, Franklin, Brentwood area and sure you will too!
+Born in the 70s
+Where I went to school: UCF
+Response rate: 100%
+Responds within an hour
+10 years hosting
+259 reviews
+4.83 out of 5 average rating
+10 years of hosting

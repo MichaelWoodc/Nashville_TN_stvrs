@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/32504755
+Latitude: 36.10353
+Longitude: -86.70113
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*Newly reopened!*
+
+Cozy one bedroom guest apartment in a quiet neighborhood near the Nashville airport. Enjoy a cup of coffee in the back yard taking in the sounds of nature. This is the great place to relax and unwind while also being a short ride to the heart of the city! 
+
+Perfect for longer stays, couples, musicians, friends, travel medical professionals, or business travelers. Ask about early check in and laundry options!
+
+The space
+I provide all towels, linens, soaps, shampoo, etc. I also provide water, coffee and tea. There is Wifi and a smart TV. Let me know if you need the pull out couch. 
+
+Ask us about laundry options!
+
+Guest access
+The whole private suite (one bedroom apartment attached to our house with an additional comfy pull out bed in the living room) is entirely yours! Let me know if you need to use the pull out couch. 
+
+We have a relaxing patio in the back that you're welcome to hang out on!
+
+Other things to note
+Note this cottage is attached to the back of our house. We will share a driveway. There is not a separate thermostat for the space, but if you text me I can control it from inside the house if you ever become uncomfortable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Belinda
+Host User ID: 201315312
+Host Profile URL: https://www.airbnb.com/users/show/201315312
+Host Profile URL Source: public user permalink from passport userId
+I love to explore history, experience new adventures, and learn about different cultures!
+My work: Music Industry
+I spend too much time: On FB marketplace finding deals
+2 years hosting

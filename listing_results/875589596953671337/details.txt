@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/875589596953671337
+Latitude: 36.17678
+Longitude: -86.80227
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Cottage, your cozy retreat near Downtown Nashville!
+
+ Walkable:
+*Coffee: Red Bicycle, Barista Parlor, NoFreeCoffee
+*Bars: Mother's Ruin, Sonnys
+*Grocery: Kroger
+*Bicentennial Park/Farmers Market, Greenway, Sounds Stadium, Brooklyn Bowl
+*Restaurants: Tio Fun!, Monell's, 5th&Taylor & more
+
+Short Uber:
+*Downtown/Broadway (1.8 mi)
+*Titans Stadium (2 mi)
+*The Gulch (2.3 mi)
+*Top Golf (2.5mi)
+& more
+ 
+Ask about our personalized decorations for anniversaries, bdays, batch parties, etc.
+
+The space
+Welcome to your Nashville getaway!
+
+⭑Bedroom 1⭑ Rest peacefully on a king bed while enjoying your favorite shows on a 40-inch Roku TV.
+
+⭑Bedroom 2⭑ Find comfort on a queen bed with a 40-inch Roku TV and a convenient workspace.
+
+⭑Living Room⭑ Relax on a pull-out sofa bed and immerse yourself in entertainment on a 50-inch Roku TV.
+
+⭑Workspace⭑ Boost your productivity at the equipped desk with a monitor and docking station connected via USB-C.
+
+⭑Backyard⭑ Experience privacy in the fully fenced backyard. Unwind under the gazebo and capture memorable moments against the selfie wall.
+
+You’ll indulge in fine linens, extra towels, and enjoy the convenience of a coffee pot, Keurig, full-length mirrors, table fans in each room, and a well-equipped kitchen with plenty of cookware and utensils.
+
+We've got your essentials covered with shampoo, conditioner, body wash, makeup towels, laundry detergent, complimentary coffee, and cooking basics like salt, pepper, and PAM non-stick spray. Travel worry-free!
+
+Within a mile of your doorstep, you’ll find convenient access to Kroger, Starbucks, Walgreens, the Farmer's Market, and more!
+
+⭑Bike Rentals⭑ Explore the city with excitement by renting a bicycle from the nearby "B-Cycle" station, just a 4-minute walk away. It’s a fun and adventurous way for you to get around town!
+
+Guest access
+Enjoy full access to the entire house for the duration of your stay. 
+
+Convenient parking is available both on the non-busy street and a space behind the property.
+
+Other things to note
+We are excited to curate personalized dining and attraction recommendations to enhance your Nashville experience upon confirming your reservation. Beyond the lively nightlife, the city offers a plethora of activities including canoeing, hiking trails, golf, and unique concert venues.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenna And Thomas
+Host User ID: 511286452
+Host Profile URL: https://www.airbnb.com/users/show/511286452
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Belmont
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+212 reviews
+4.89 out of 5 average rating
+3 years of hosting

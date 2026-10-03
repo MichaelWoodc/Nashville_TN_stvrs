@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/13130511
+Latitude: 36.214
+Longitude: -86.73
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 2 BR/2.5 BA house located in East Nashville is a place to feel refreshed and refreshed. The entire interior has been newly furnished and decorated, so it truly feels like a new space. We are in a quiet neighborhood. The bedrooms are upstairs. The home is 1.4 miles to hip/quaint Riverside Village, 3 miles to the heart of East Nashville's Five Points, where you will find all of the best coffee shops, restaurants, bars, and venues. Uber or Lyft anywhere from our location: Broadway: 4.6 miles,
+
+The space
+A modern, 1284 square foot, two level townhome. Great neighbors and neighborhood. 
+Upstairs:
+Bedroom 1: King sized bed w/en suite full bathroom.
+Bedroom 2. Queen sized bed w/en suite full bathroom. 
+
+Main Level:
+Living Room:  Queen sized pull out sofa. 
+Spacious open kitchen and living room.
+
+Guest access
+Keyless entry means easy check-in! We don't have to wait on each other to coordinate that, I'll simply provide you your code and you can check-in any time after 4pm on check-in day.
+
+Other things to note
+** While staying with us, PLEASE make sure ALL doors are shut and locked when not in use! PLEASE do not leave any valuables in your vehicle if parked on the street. Nashville is a BIG city so please make sure to be vigilant with our property and yours!!
+ 
+**Please note: Guests who stay 3 weeks or longer will incur an additional cleaning fee of $105. This is NOT included in the pricing you see, but will be an additional add-on fee!
+
+*NO GLITTER. If found through the house, it will result in withholding your deposit. Additionally, please take down all decorations (if you bring them) and any tape used.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derek
+Host User ID: 73124118
+Host Profile URL: https://www.airbnb.com/users/show/73124118
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Derek... Born and raised in Nashville (we're rare). Musician. Motorcycle hound. Pizza connoisseur. Dad to two Shih Tzu's (Harris and Quincy). Nap enthusiast.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+268 reviews
+4.93 out of 5 average rating
+10 years of hosting

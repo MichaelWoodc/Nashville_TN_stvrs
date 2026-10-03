@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/1688109288767506570
+Latitude: 36.17539587382228
+Longitude: -86.80687069142215
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect Nashville getaway a stylish, modern retreat designed for group trips, weekend getaways, business travel, and unforgettable Music City experiences.
+
+Located just 2.5 miles (5-10 minutes) from Broadway, and Division/Demonbrun, Nissan Stadium, and some of the city’s best restaurants, bars, and entertainment, this spacious home comfortably accommodates up to 10 guests and offers the perfect blend of comfort, convenience, and style.
+
+The space
+Inside, you’ll find:
+• Spacious open-concept living areas
+• Comfortable sleeping arrangements for large groups
+• Fully equipped kitchen
+• Fast WiFi and smart TVs
+• Washer & dryer
+• Free on-site parking
+• Modern finishes and updated amenities throughout
+
+Guest access
+* bachelor/bachelorette friendly
+* group travel
+* event/concert stay
+* upscale Nashville getaway
+
+* 🛒 Grocery shopping made easy with a newly renovated Kroger and Dollar General less than a mile away.
+* 🎸 Experience the heart of Nashville—Broadway, Downtown, and Midtown are only 5–10 minutes away.
+* 🛍️ Enjoy premier shopping at Green Hills Mall, just 10–15 minutes from the home.
+* 🎤 Visit Opry Mills and the world-famous Gaylord Opryland Resort, only 15–20 minutes away.
+* ⛳ Golf enthusiasts will appreciate several public golf courses located within a 10-minute drive.
+* 🚗 Quick and convenient access to Nashville’s top attractions while enjoying a comfortable neighborhood setting.
+
+Other things to note
+* 🛒 Grocery shopping made easy with a newly renovated Kroger and Dollar General less than a mile away.
+* 🎸 Experience the heart of Nashville—Broadway, Downtown, and Midtown are only 5–10 minutes away.
+* 🛍️ Enjoy premier shopping at Green Hills Mall, just 10–15 minutes from the home.
+* 🎤 Visit Opry Mills and the world-famous Gaylord Opryland Resort, only 15–20 minutes away.
+* ⛳ Golf enthusiasts will appreciate several public golf courses located within a 10-minute drive.
+* 🚗 Quick and convenient access to Nashville’s top attractions while enjoying a comfortable neighborhood setting.
+
+Registration Details
+4860562
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ethan
+Host User ID: 1687884574926144204
+Host Profile URL: https://www.airbnb.com/users/show/1687884574926144204
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+4 months hosting
+1 reviews
+3.0 out of 5 average rating
+4 months of hosting

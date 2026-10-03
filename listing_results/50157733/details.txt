@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/50157733
+Latitude: 36.13704
+Longitude: -86.79729
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+NEW AND FULLY FURNISHED UNIT w/ Parking!! Located steps away from the beautiful Hillsboro Village, Vanderbilt University, Belmont University and Music Row!
+
+Enjoy the local Shops, Restaurants, and best of all approximately a 5 minute drive to downtown! Inside you will find modern living, minimalist design, and fully functional kitchen and living area.  Washer and Dryer are also included. 
+Free parking at the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicholas
+Host User ID: 175249713
+Host Profile URL: https://www.airbnb.com/users/show/175249713
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+318 reviews
+4.96 out of 5 average rating
+5 years of hosting

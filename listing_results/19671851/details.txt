@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/19671851
+Latitude: 36.0964
+Longitude: -86.9836
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Guest apartment, located on the 1st floor of our home. 2 full size beds, a bathroom w/ walk-in shower, small full kitchen, & living room w/ dining space. Hidden away on 2 wooded acres, just up the road from Nashville - but even closer to the best hiking, canoeing, scenic drives & country cooking in Middle Tennessee. Garage bays for guests, & your own private patio space.  UBER & LYFT available and used by many guests.
+
+The space
+You're in the middle of the woods but close to everything. The famous Loveless Cafe is 4 miles away from our house - right next to the entrance of Natchez Trace Scenic Parkway. If you love canoeing, Narrows of the Harpeth is a short drive away, along with Montgomery Bell State Park - with miles of hiking trails and campsites.
+
+Guest access
+Guests will have private access to the Apartment and the patio outside the living room. We have a designated garage bay for you as well. We just ask that all guests respect the privacy of the rest of our home.
+
+Other things to note
+12 screen theater just a mile down the road, as well as many restaurants serving Greek, Mexican, American. Tailgate Brewery is just down the street serving craft beers on tap and delicious pub grub and pizza.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scott
+Host User ID: 138522147
+Host Profile URL: https://www.airbnb.com/users/show/138522147
+Host Profile URL Source: public user permalink from passport userId
+Hi I'm Scott. My wife Buffy and I love road-tripping around the U.S. We've cruised Route 66 in a convertible, got drenched at Niagara Falls, and watched baby Grizzly Bears eating berries in Yellowstone. We live in a vacation home in the woods outside of Nashville, and have the downstairs apartment available for Airbnb guests. 
+
+Traveling pretty light on our trips, we love an equal taste of city/country life wherever we go. We love to hike trails, seek out beautiful views, visit Museums and shop in vintage stores for unique souvenirs. 
+
+Buffy and I explore the classic parts of the cities we visit - old diners, brewery districts, art hubs, etc., and try to catch a movie at a drive-in or vintage movie house on every trip.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+372 reviews
+4.95 out of 5 average rating
+8 years of hosting

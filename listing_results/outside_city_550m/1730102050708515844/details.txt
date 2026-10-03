@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1730102050708515844
+Latitude: 35.97877
+Longitude: -86.53815
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Noir Luxe Retreat, where modern style meets comfort & relaxation. This stylish retreat offers a warm, sophisticated atmosphere w/ cozy furnishings, elegant decor, & plenty of natural light. Kick back in the inviting living room, sip your morning coffee on the private balcony, or unwind after a day of exploring. Whether you're here for a getaway or simply need a place to recharge, Noir Luxe Retreat is your perfect home away from home!
+
+The space
+Enjoy a stylish and comfortable 2-bedroom, 2 bathroom apartment with everything you need for a relaxing stay. The private space includes a cozy living area, fully equipped kitchen, washer and dryer, and plenty room to unwind.
+
+Step outside and enjoy a private balcony. The kitchen is stocked with convenient extras including a Keurig, air fryer, & slushie machine- perfect for making your stay a little more enjoyable!
+
+Guests have access to the entire private apartment, making it a comfortable home base for couples, families, friends, or business travelers.
+
+Guest access
+Guests have full private access to the entire 2-bedroom, 2-bathroom apartment during their stay, including the living room, kitchen, bedrooms, washer and dryer, balcony, and patio.
+
+All listed amenities are available for guests to enjoy during their stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Loni
+Host User ID: 415942822
+Host Profile URL: https://www.airbnb.com/users/show/415942822
+Host Profile URL Source: public user permalink from passport userId
+I’m Loni… a Southern Belle Superstar that loves to travel and see the world.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+1 month hosting
+4 reviews
+4.75 out of 5 average rating
+1 month of hosting

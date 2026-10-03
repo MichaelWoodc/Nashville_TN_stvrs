@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/637839291607915394
+Latitude: 36.14569
+Longitude: -86.86069
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+@thebellmorecottage As the original farm house to what is now a thriving neighborhood  in West Nashville, the Bellmore Cottage offers a charming and unique experience to those looking to visit Music City and maybe even stay a while. This home away from home offers the refreshing southern comfort that Nashville locals cherish and that out of town visitors seek to soak in while passing through one of the best cities in America. Welcome to Nashville!
+
+The space
+The layout of the house is all one level with 3 bedrooms including two king beds and one full bed with a twin trundle bed. There are 2 full bathrooms with tubs for the options of a taking a hot shower or a relaxing bath. There is an entire room dedicated to laundry with washer and dryer and plenty of space for luggage storage for guests who may be staying a while. The front yard and back area of the house are both quite spacious with several places to enjoy a morning coffee or gather together in the evenings for activities like corn hole or just relaxing by the fire pit. There is even a guest-dedicated shed housing the game equipment and firewood. Have fun, enjoy your time at the Bellmore Cottage and always leave the space as you found it for others to have the same great experience after you.
+
+Guest access
+The main level of the house is fully accessible to guests while the attic and basement are both locked for supplies and owner storage. Guests are able to access the back area either by going out the rear door of the house or by walking up the driveway to the gate.
+
+Other things to note
+We want our guests to have an incredible experience together as they visit all that Nashville has to offer and we are grateful to have visitors of our city choose our space of all spaces to make their memories within. We have enjoyed renting others’ AirBnbs all over the world and have always tried to leave the spaces better than we found them. We ask the same of our guests, especially in a historic house like ours, so that we can continue to host visitors and provide a great experience to all. Thank you for reading, we hope to welcome you soon!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kaylor
+Host User ID: 57906493
+Host Profile URL: https://www.airbnb.com/users/show/57906493
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+240 reviews
+4.98 out of 5 average rating
+9 years of hosting

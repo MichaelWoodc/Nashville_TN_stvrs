@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1653089335405420791
+Latitude: 36.15568
+Longitude: -86.76455
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Muse Edit—a chic, city-inspired stay just minutes from the energy of Broadway. Designed with a modern, neutral aesthetic and an effortless lounge vibe, this space is the perfect balance of style and location. Whether you're in town for a girls trip, business trip, a weekend getaway, or to experience Nashville’s iconic nightlife, you’ll have a beautifully curated home base to come back to. Close enough to the action, yet just far enough to relax and recharge.
+
+The space
+Airbnb Hotel. Residence is completely private and has private balcony on the top floor. Unit is a studio with one king bed (2 ppl), custom bunk beds (2 ppl) and a couch that will sleep (1) comfortably. The space also has a garage door that opens to a downtown view. Building is named Muse and has shared patio, workout room, lobby and parking garage. New in 2023 a Morgan Wallen Themed speakeasy bar off the balcony.
+
+We can accommodate up to 5 guests by providing an air mattress as an additional sleeping space. If needed, we can arrange this for an additional charge of $25. Please let us know in advance so we can have it set up for your stay.
+
+Guest access
+- Contactless check-in. Checkin time is always 4pm unless approved in writing by management.
+- Unit is on the 5th floor. Use elevator for access.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamie
+Host User ID: 373300475
+Host Profile URL: https://www.airbnb.com/users/show/373300475
+Host Profile URL Source: public user permalink from passport userId
+We are Ben and Jamie. We grew up on two different continents and now live together in Southern California. We love using Airbnb so much for our travel that we wanted to create our own experience for guests!
+Most useless skill: Moonwalking
+Speaks German and English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+249 reviews
+4.96 out of 5 average rating
+3 years of hosting

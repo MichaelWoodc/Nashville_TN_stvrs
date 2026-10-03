@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/9477068
+Latitude: 36.02767
+Longitude: -86.70846
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Music City with your own private music studio space! Situated in our walk-out basement with windows, located  between Nashville and Franklin, about 20 minutes drive the to downtown, quiet neighborhood, free parking on the street, walking distance from local boutiques, cafes, and restaurants at Lenox Village, Edley’s BBQ, Prince's Hot Chicken, Chick fil a, Starbucks, Kroger, and Walmart within 1 mile. Close to hiking, biking and running trails.
+
+The space
+Formerly a music studio, this separate living space on the basement level has it's own living room/dining room, kitchenette with coffee bar, full bathroom, 1 bedroom with 2 large windows, cable TV, wifi, work desk/vanity, and an acoustic guitar for inspiration!
+
+Guest access
+Only the indoor space is available at this time. Smokers may use the drive way to smoke.
+
+Other things to note
+We are a family of 3 with myself and 2 children.
+
+Please Note-
+The kitchenette sink does not have a garbage disposal and the plumbing is not designed to handle food disposal. Please scrape your food, especially grease, into the garbage can provided and rinse dishes normally. 
+ 
+Nashville Short Term Rental Permit #2018031461.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shane
+Host User ID: 49120662
+Host Profile URL: https://www.airbnb.com/users/show/49120662
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’ve been hosting guests on Airbnb many years. I enjoy live music, singing, playing guitar, the outdoors, football, basketball, and good laugh. I hope you’ll enjoy your stay!
+My work: Project Manager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+265 reviews
+4.88 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/960257288601938368
+Latitude: 36.1689
+Longitude: -86.7981
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Urban Luxury Retreat: Experience upscale urban living in a stunning 3-bed, 2.5-bath residence that sleeps 8! 
+Bedroom Choices: Choose from a king, queen, or bunk bedroom, all designed for comfort and relaxation.
+Spectacular Views: Enjoy captivating downtown views from the 2nd-floor balcony, immersing you in the city's energy.
+Elegant Design: Discover sleek elegance with hanging glass fixtures, hardwood floors, and stainless steel appliances.
+Prime Location: Just 2 miles from Broadway, the house
+
+Guest access
+Nice to meet y'all! We're Kalos Dwellings - we're two husband and wife duos, but best friends above all. We're Nashville locals and here to serve. We're happy to host you and invite you into our little corner of Nashville. 
+
+Kick back, relax, and get comfortable in the spacious and inviting surroundings of your home away from home. Whether you're traveling with family, friends, or enjoying a solo retreat, our goal is to provide you with a seamless experience where you can create lasting memories.
+
+Other things to note
+- Parking: There is a small concrete pad available for parking within the fenced in area of the home.  On street parking is also available.
+- Minimum age to rent the home is 25.
+- We love our furry friends, and they need a vacation too! We allow dogs that is under 30 lbs and non- shedding (up to 2 dogs). If your pup fits that criteria, we’d love for you to bring them along. A one-time, non-refundable pet fee of $150 will be added to your reservation. Thank you for understanding!
+- Vacation disruptions can be a bummer. While it doesn’t happen often, you may experience issues with Wi-Fi. We are not responsible for any disruptions to the Wi-Fi service or any construction that may affect your experience. Please note that such occurrences are beyond our control, and we appreciate your understanding and patience in these matters.
+
+This home is proudly managed by Kalos Dwellings, we're excited to welcome you into our lil slice of Nashville. Please don't hesitate to reach our if you have any questions at all.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalos Dwellings
+Host User ID: 351901804
+Host Profile URL: https://www.airbnb.com/users/show/351901804
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Sarah and I am one of the co-founders of Kalos Dwellings along with my husband, Dustin, and our best friends, Aaron and Tara.  
+Our entire team of hosts are here for anything you need during your stay!
+My work: Kalos Dwellings
+Fun fact: We are family owned and operated.
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4961 reviews
+4.92 out of 5 average rating
+5 years of hosting

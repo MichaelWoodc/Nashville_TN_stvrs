@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/570272819297879358
+Latitude: 36.2003
+Longitude: -86.83125
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a Brand New stylish experience at this centrally located place! Spacious living room, good sized kitchen and rooms, the master shower is a looker! In Nashville you have endless things to do - food, music, tours, drinks and fun! This home is located just 5 miles from downtown (10-15 min drive) and 6 miles from the Gulch (10-15 min drive).
+
+The space
+Spacious living room right by the kitchen. Pull out couch that is a queen mattress. 3 bedrooms upstairs - king, queen and bunk (both queen)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carly Jo
+Host User ID: 249105658
+Host Profile URL: https://www.airbnb.com/users/show/249105658
+Host Profile URL Source: public user permalink from passport userId
+If you love to travel then I am just like you! I fell in love with Nashville my very first trip and so of course I wanted to find a cute close to all house. I found a gem, brand new and 6 miles from downtown! This home is almost completed and pictures will be updated once done.
+My work: Realtor
+Fun fact: I love traveling and golf!
+Response rate: 50%
+Responds within a day
+5 years hosting
+21 reviews
+4.95 out of 5 average rating
+5 years of hosting

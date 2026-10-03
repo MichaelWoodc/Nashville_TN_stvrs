@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/49249069
+Latitude: 36.0375
+Longitude: -86.46041
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming farmhouse-style tiny home is nestled on 12 secluded acres, with a serene lake directly across the street. Ideal for hunting and fishing, it offers the perfect escape into nature. Located just 30 minutes from downtown Nashville, and only 15-20 minutes from nearby cities, you’ll have easy access to all the essentials.
+
+The space
+Escape to a charming tiny farmhouse nestled on 12 secluded acres, offering peace and tranquility just steps away from a serene lake. Surrounded by lush wildlife, this tranquil retreat invites you to unwind, whether you’re enjoying the view of the lake, fishing, or simply soaking in the natural beauty around you.
+
+Ideal for those seeking a peaceful getaway, the property offers ample space to explore, relax, and recharge. The cozy farmhouse is designed for comfort, blending southern charm with modern amenities. With nature at your doorstep, it’s the perfect setting to disconnect from the world and embrace the calming presence of the outdoors.
+
+Guest access
+Guests at your Airbnb have convenient access to the Lamar Hill Access Area, located just down the road. This area offers excellent opportunities for outdoor activities, such as hiking, fishing, and enjoying the scenic views. It’s a short drive away, providing a peaceful spot to immerse yourself in nature while staying close to the comfort of the farmhouse.
+
+Other things to note
+Things to Do in Mt. Juliet & Surrounding Areas:
+	•	Percy Priest Lake & Long Hunter State Park – Enjoy boating, fishing, hiking, and scenic lake views.
+	•	Cedar Creek Recreation Area – A great spot for swimming, picnicking, and camping.
+	•	Charlie Daniels Park – A family-friendly park with walking trails, playgrounds, and sports courts.
+	•	Providence Marketplace – A top shopping and dining destination with a variety of restaurants, boutiques, and entertainment options.
+	•	Fiddlers Grove Historic Village – Step back in time and explore preserved historic buildings from the region.
+
+Things to Do in Downtown Nashville (About 30-40 Minutes Away):
+	•	Broadway Honky Tonks – Experience live country music at legendary bars like Tootsie’s Orchid Lounge and The Stage.
+	•	Country Music Hall of Fame & Ryman Auditorium – Dive into the rich history of country music and tour iconic venues.
+	•	The Grand Ole Opry – Catch a live performance at the world-famous home of country music.
+	•	Johnny Cash Museum & National Museum of African American Music – Explore exhibits dedicated to legendary artists and musical history.
+	•	The Gulch & 12 South – Discover trendy boutiques, murals, and upscale dining.
+	•	Bicentennial Capitol Mall State Park – Walk through Tennessee’s history with scenic views and monuments.
+
+With a mix of outdoor adventures, historic sites, live music, and great food, there’s something for everyone to enjoy during their stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonah
+Host User ID: 387705832
+Host Profile URL: https://www.airbnb.com/users/show/387705832
+Host Profile URL Source: public user permalink from passport userId
+Born in the 00s
+Where I went to school: Lipscomb University
+Response rate: 94%
+Responds within an hour
+Superhost
+5 years hosting
+522 reviews
+4.82 out of 5 average rating
+5 years of hosting

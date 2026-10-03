@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/554251109696851814
+Latitude: 36.17628
+Longitude: -86.74254
+rental_type: Entire vacation home
+property_type: VACATION_HOME
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You will love our location! Built in 2021, our private guesthouse apartment shares a corner with East Nashville’s Urban Cowboy (where you can get amazing pizza and drinks) as well as Lockeland Table. Our cozy space is modernly furnished and full of beautiful, natural sunlight. Located in the heart of Lockeland Springs, we are also within walking distance of amazing coffee shops, restaurants, retail shopping, concert venues and Shelby Bottoms Park, where you can bike or walk trails.
+
+The space
+Our apartment is on the second floor of our detached garage with it’s own private entrance (green door) and keypad. Street parking is available just a few steps away. 
+
+The bedroom features a queen sized bed, walk-in closet, white noise machine, two touch lamps with USB charging ports and a TV with Roku (Netflix included). 
+
+The living room includes a queen, pull-out sofa bed and the marble coffee tables conveniently become nightstands when the bed is in use. 
+
+The bathroom features a newly tiled shower, deep soaking bathtub, hair dryer and towels. Shampoo, conditioner, body soap and hand soap are also provided. (These products all come from a local East Nashville shop called The Goodfill that focuses on zero-waste, plant-based refillable products.) 
+
+The marble table and comfy leather barstools are the perfect place for sipping coffee, catching up on emails, or relaxing with a glass of wine as you put together one of our Tennessee puzzles. From here you can enjoy the view of our beloved Magnolia trees. 
+
+The full kitchen has an electric range, fridge with ice and filtered water, dishwasher, microwave, toaster, electric tea kettle and Keurig coffee maker with K-cups provided. Other kitchen essentials also include a mixing bowl, knives, cutting board, strainer, small set of pots and pans, wine opener and a baking sheet. 
+
+Includes fast and reliable Fiber WIFI. 
+
+No smoking of any kind nor pets are allowed on the premises. $500 fine. Thanks! 
+
+Distance to: 
+BNA international airport - 5.1 miles
+Downtown - 2.1 miles 
+Nissan Stadium - 1.8 miles
+
+Guest access
+Our guesthouse apartment is part of our private residence. It is located behind our main house, above our garage. We manage it as a family, and we are excited to host you during your stay in our amazing city and neighborhood.
+
+Other things to note
+No smoking of any kind on premises. 
+No pets. 
+No parties. 
+4 guests only. 
+Not suitable for children. 
+
+Free street parking is available a few feet away from the entrance. 
+
+Please be respectful of our neighbors and kids and keep all noise down, both inside and out, after 9 PM. Thanks!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marcia
+Host User ID: 34828823
+Host Profile URL: https://www.airbnb.com/users/show/34828823
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+5 years hosting
+88 reviews
+4.99 out of 5 average rating
+5 years of hosting

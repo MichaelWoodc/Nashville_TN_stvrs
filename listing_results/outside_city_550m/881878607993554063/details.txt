@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/881878607993554063
+Latitude: 35.9762
+Longitude: -87.018
+rental_type: Private room in treehouse
+property_type: TREEHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Reconnect with nature at this unforgettable escape. Walk out your room to several hiking trails. Room has a queen, a single, and a hammock. It shares a full bathroom with the upstairs unit, but your lodging is very private.
+No full kitchen. But yes, microwave and induction stove. Hot tub is just out the door ($50 add’l fee for cleaning and setup). Slow hotspot internet. Good phone reception once you get down the driveway.  NO PARTIES; NO EVENTS
+
+The space
+This converted barn has two floors, with a shared full bathroom between the two floors. When you are using the bathroom, you can lock a door so the second floor cannot access the half-floor containing the bathroom and laundry room. This makes it very safe in case you do not wish to see anybody else but those in your party.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+My work: Hospitality, Trails
+Lives in Franklin, Tennessee
+What makes my home unique: Trails, creeks, wildlife in the Agrihood
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

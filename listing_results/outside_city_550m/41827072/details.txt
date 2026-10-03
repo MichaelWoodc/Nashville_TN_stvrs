@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/41827072
+Latitude: 36.3316
+Longitude: -86.65267
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 5
+beds: 11
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stunning home with pool on 2 acres has a resort like feel to it. The home sleeps up to 16 guests! Located just 20 minutes from downtown Nashville in an Uber, you can combine the beauty of the countryside with the hustle and ‘honky tonk’ of music city!
+Two large living rooms, an enormous games room and multiple dining areas will provide you with all the comfort and space you and your friends/family could need.
+
+Guest access
+Guests will have access to the entire home
+
+Other things to note
+With mature trees nestled behind the home, you can spend your afternoons laying in a hammock, sitting around the fire pit or swimming in the pool.
+If games are what you are seeking in your downtime, then enjoy the foosball and pool tables or try your aim on the corn hole boards. This place has it all!
+All bedrooms feature either King or Queen size beds with luxurious mattresses and sheet sets.
+No carpet to be found in this home, just hardwood, tile and stained concrete/masonry floors. Enjoy the updated bathrooms and a kitchen that is loaded with fridge/freezer, oven, dishwasher, microwave and even a wine cooler!
+With easy access too and from the pool deck for entertaining, a sunroom equipped with ample dining to bring the outdoors in and even a whole house radio/speaker system to listen to music while you stay.
+
+The pool will be open from May 1 to September 30
+
+Please note for added security we have have cameras outside at the front of the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

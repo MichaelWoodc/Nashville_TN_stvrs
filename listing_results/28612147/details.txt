@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/28612147
+Latitude: 36.16312
+Longitude: -86.77645
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The 2 Bedroom Loft King Suite at almost 1,000 sq ft, this two-bedroom, two story suite sleeps up to 6 guests with an en-suite full kitchen and living room.  Perfect for bachelor and bachelorette parties, families, or friends. All guests also have access to the SKYDECK - rooftop with waterfront panoramic views of the Cumberland River and the Nashville skyline. This is an interior room and does not have windows.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Studio 154 Luxury
+Host User ID: 211231188
+Host Profile URL: https://www.airbnb.com/users/show/211231188
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+369 reviews
+4.87 out of 5 average rating
+8 years of hosting

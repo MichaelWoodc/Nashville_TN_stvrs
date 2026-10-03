@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/636800302317865325
+Latitude: 35.9874
+Longitude: -86.568
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The whole group will enjoy easy access to everything from this centrally located home.  It's minutes from restaurants, Target, and shopping plazas. With easy access to the major highway and Starbucks! Located in a quiet bedroom community in a Nashville, TN suburb. This home is loved and does not warrant any bells, whistles or new renovations. It is clean and provides all the basics for a quick stop to rest your head. It's not fancy and best for workers.
+
+The space
+Rooms are spacious but simple.
+
+Guest access
+You are renting and have access to the entire home.
+
+Other things to note
+Check out is 10 AM.  Any guest staying after 10 AM will need to pay $40 per hour for the first three hours and $30 an hour after that until they have left and notified the company of such.
+
+There are 3 bedrooms. the master bedroom is downstairs and 2 bedrooms are upstairs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jay
+Host User ID: 336522289
+Host Profile URL: https://www.airbnb.com/users/show/336522289
+Host Profile URL Source: public user permalink from passport userId
+I am as passionate about traveling as I am about life in the big city. I’d love to help make your stay as special as possible. Let me know how I can help!
+Speaks English
+7 years hosting

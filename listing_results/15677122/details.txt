@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/15677122
+Latitude: 36.19659
+Longitude: -86.78232
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Vibrant colors throughout this home give each room a sense of energy and character. Spread out in the open living area in front of the 75" TV, listen to music with amazing surround sound throughout and admire the chic art pieces found on the surfaces and walls. My space has 1 king bed, 2 queen beds, 1 queen sofa bed and one queen air mattress. You will feel as if you're stepping into an Art Gallery; there's lots to enjoy here!
+
+The space
+This is a 3-Level 2800 sqft home!  The first floor is colorful, open and modern.  You will enjoy cable and a 75 inch television with SONOS surround sound.  It has an awesome wood wall along with a large dining table, island, fully stocked kitchen and a guest bedroom.  Also, enjoy fresh coffee in the morning for a jolt of pick me up. The first floor also has an office and a cool modern bathroom equipped with plenty of towels, soap, hair dryer etc.
+
+The second floor has a huge master bedroom and bath, along with a Loft with a futon sofa, seating, reading nook and half bathroom.  You can also enjoy an array of pretty cool fish!
+
+The third floor is an absolute show stopper!  It offers plenty of seating, a very large wooden table, television and a glass GARAGE DOOR that leads to the outside covered patio.  There you will enjoy the awesome views of Nashville's downtown skyline as well as a television outside!
+
+As a bonus, the home is equipped with surround sound, via the SONOS app, on EVERY LEVEL of the home.
+
+Guest access
+You will have access and reign to entire home during your stay as well as access to the detached garage for parking.  Additionally, there is plenty of parking along the street.
+
+Other things to note
+3PM Check In / 10AM Check Out - Unless otherwise discussed and agreed upon before hand
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Clifton
+Host User ID: 50337660
+Host Profile URL: https://www.airbnb.com/users/show/50337660
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+113 reviews
+4.9 out of 5 average rating
+10 years of hosting

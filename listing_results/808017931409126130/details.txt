@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/808017931409126130
+Latitude: 36.12209
+Longitude: -86.75376
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This house is fully furnished & close to everything Downtown Nashville has to offer... Walk to Geodis Park!  Close to 12th south and Berry Hill 
+
+- Fenced in yard with large table & chairs, grill. 
+
+ - 5 minutes from Broadway, restaurants, dog park, etc 
+
+- Plenty of Free parking 
+
+- 10 mins to the Airport. 
+
+You will love the detail of this home, it has it all. It's the perfect place to post up while in town enjoying everything Nash-Vegas has to offer!!
+
+The space
+Stylish home in a quiet neighborhood with everything you should need from washer/dryer, dishwasher, full furnished kitchen, coffee maker, high speed internet / WiFi.
+
+Guest access
+There are two parking spots in the back of the house and one in the front and lots of extra parking on the street, if needed. Or, its a short Uber / Lyft ride from anywhere in the city you want to go and bus stops close by as well.
+
+Other things to note
+The basement is its own one bedroom fully furnished rental apartment with its own entrance, & not accessible to the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carissa And Ian
+Host User ID: 136119162
+Host Profile URL: https://www.airbnb.com/users/show/136119162
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+85 reviews
+4.98 out of 5 average rating
+5 years of hosting

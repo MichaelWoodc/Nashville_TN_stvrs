@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/35619358
+Latitude: 36.1605
+Longitude: -86.6773
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 5
+beds: 8
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Rare find less than 15 minutes from the best of Nashville. Relax with the whole family at this wooded, hilltop home.  Less than ten minutes from the airport and the Opry,  but a world away from the hustle and bustle. Tackle Broadway and then crash in your private and roomy cottage. Sit amongst the trees and sip something refreshing. Grill your own feast or visit the great restaurants, sights and sounds of Music City!  Perfect for large families and group get-togethers.
+
+The space
+Five bedrooms, all with king beds. Day beds and sleeper sofa that are perfect for big family gatherings. Roomy kitchen that is open into dining and a sitting room. that large space opens into an equally large TV/Great room with lots of seating. Propane grill on the deck which exits to a big  gazebo with plenty of seating around a propane fire-pit table. All on a large, level lot, perfect for outdoor games and complete with a tree swing, basketball hoop, four-square, and cornhole. Whole-house heating and AC -- don't sweat the Summers and be cozy all Winter❣️
+
+Guest access
+Access is through the front door, personally coded to allow private, secure access for the duration of your stay. plenty of indoor and outside lighting.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joseph
+Host User ID: 136263631
+Host Profile URL: https://www.airbnb.com/users/show/136263631
+Host Profile URL Source: public user permalink from passport userId
+The Erickson clan originated in the state of Utah and has lived in Arizona, Nevada, Connecticut and Norway. Our marrieds have lived all over the U.S., England and Saudi Arabia, and we currently have kids/grandkids in Georgia , Indiana, Oregon, Tennessee,  Utah and Virginia.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+56 reviews
+5.0 out of 5 average rating
+5 years of hosting

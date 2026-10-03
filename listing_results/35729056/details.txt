@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/35729056
+Latitude: 36.15974
+Longitude: -86.82673
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Who hasn't dreamt of glitter floors in their home? Well, my husband for one- but I convinced him to give me 400 sq ft to convert into a quirky, colorful, boho paradise. You'll have your own private entry/parking, & no need to worry about sharing space with us. You'll have a new queen sized helix bed, & if you brought friends-they can have the queen sized sofa bed. A kitchenette with retro fridge, microwave & basic utensils should suffice in heating up your yummy Nashville leftovers or take out!
+
+The space
+Our home was built in 1966 and we fell in love with it because it is a mid century time capsule! We've kept/restored much of its original charm and have a great respect for the neighborhood it was strategically constructed in. 
+When we moved in, the space you will be staying in was a dark, dirty, 400 sq ft storage room with a sink. Good for stashing away a power tool or lawn mower, but not for living in! We love our city and hosting our friends & family, so with the private entry, we immediately saw the potential to transform the space. After 4 months of renovating, it is finally ready to be your home-away-from-home. We sincerely hope you love it as much as we do :)
+
+Guest access
+You have a separate and private apartment. You’ll enter from the bottom story of back of the house. There is a bathroom, kitchenette, queen bed, and queen pull out couch.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 28121506
+Host Profile URL: https://www.airbnb.com/users/show/28121506
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+719 reviews
+4.9 out of 5 average rating
+11 years of hosting

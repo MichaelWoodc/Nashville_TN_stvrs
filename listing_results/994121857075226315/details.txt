@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/994121857075226315
+Latitude: 36.2322
+Longitude: -86.72569
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*Early check-in available; see “Other things to note” section for details*
+
+Welcome to the Music City Limelight! Step into the warm glow of the stage when you book your stay in this brand-new luxury condo! This three-bedroom, three-bathroom unit features a bright color palette and charming Nashville accents that will make you feel like a star! This home is a quick 10-minute drive from Broadway's famous honky tonks, and an exit away from the storied Grand Ole Opry and attached Opry Mills Mall.
+
+The space
+Common Space:
+- Kitchen: Fully equipped kitchen with complimentary coffee station
+- Living Room: Queen size sleeper sofa, coffee table, bar, extra seating, television, and private balcony access
+- Hallway laundry with washer, dryer, iron/ironing board
+
+Bedrooms:
+- Bedroom 1: King size bed, closet with luggage storage, and a full en suite bathroom with double occupancy shower
+- Bedroom 2: Queen size bed, closet with luggage storage, and a full attached bathroom with tub/shower combo
+- Bedroom 3: 1 Twin bunk bed and 1 full bunk bed, closet with luggage storage, and a full en suite bathroom with double sinks and a double occupancy shower
+
+You may sign into your own streaming services or use devices with my smart TVs.
+
+Building Amenities:
+- Keyless entry to building and unit
+- Game room
+- Rooftop patio with ample seating, ambient lighting, and a fire pit for evening gatherings; this is common space, so you may share the patio with other guests
+
+Please read before you book!
+- This space is a short drive from most places but not very walkable
+- This is a 2nd floor unit with upstairs neighbors, so please expect potential noise
+- 1 assigned parking space in lot; additional parking in guest and overflow parking is first-come, first-served
+
+Guest access
+You will be provided with a code to enter the building from the parking lot, and a code to enter the unit a few days prior to your stay
+
+Other things to note
+We are happy to offer early check-in/late check-out when available. Alternate stay times must be arranged in advance and are subject to availability:
+- early check-in: 1pm $75; 10am $150; earlier than 10 am requires prior night booking
+- late check-out: 12 noon $75; later than 12 noon requires additional night booking
+———
+We strongly encourage guests to research and purchase travel insurance to protect your trip as we do not offer refunds or allow date changes outside of our cancellation window.
+———
+House manual - you will be provided with a link to view our digital guidebook in advance of your stay
+- QR code can also be found on our refrigerator
+———
+Free wifi available; access information will be provided prior to check-in
+———
+House Rules:
+- Please remember to be respectful of your neighbors
+- Quiet hours are 10pm- 7am
+- No pets allowed
+- No parties; no outside guests allowed
+- No smoking or vaping allowed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 283109499
+Host Profile URL: https://www.airbnb.com/users/show/283109499
+Host Profile URL Source: public user permalink from passport userId
+Lives in San Diego, California
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+95 reviews
+4.99 out of 5 average rating
+3 years of hosting

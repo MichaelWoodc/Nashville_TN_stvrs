@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1759482195255187367
+Latitude: 35.9859
+Longitude: -86.5895
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You'll enjoy a peaceful and comfortable atmosphere, making it easy to relax, recharge, and feel right at home. And when you're ready to explore, the interstate is just a short drive away, giving you convenient access to Nashville, local attractions, restaurants, shopping, and surrounding areas. Take a break and unwind at this peaceful oasis.
+
+Guest access
+Please park in the driveway closes to the front door. 
+Enter through the front door entrance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jerrilyn Ja'Mes
+Host User ID: 270846571
+Host Profile URL: https://www.airbnb.com/users/show/270846571
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: Birmingham, Alabama
+Fun fact: I helped build combat vehicles.
+Pets: No Pets
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+1 month hosting
+6 reviews
+4.83 out of 5 average rating
+1 month of hosting

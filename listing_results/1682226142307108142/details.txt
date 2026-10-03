@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1682226142307108142
+Latitude: 36.26616
+Longitude: -86.69575
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your modern Nashville getaway — a newly built 3-bedroom, 3-bath luxury townhome located in a gated community near Broadway. Inside, you’ll find an open-concept layout with stylish finishes, comfortable bedrooms, and fast WiFi. Each bedroom has access to its own bathroom. This makes it perfect for families, couples, and friends traveling together. Enjoy the convenience of a private 2-car garage, a fully equipped kitchen, smart TVs, in-unit laundry, and easy self check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caleb
+Host User ID: 488289870
+Host Profile URL: https://www.airbnb.com/users/show/488289870
+Host Profile URL Source: public user permalink from passport userId
+Hello! I am a Nashville Native.  Family is important to me, and I have a lot of family in the area. It has been great to see Nashville develop from the small city it was when I was a child!
+My work: Structural Engineer
+I spend too much time: On Social Media
+Response rate: 100%
+Responds within an hour
+4 months hosting

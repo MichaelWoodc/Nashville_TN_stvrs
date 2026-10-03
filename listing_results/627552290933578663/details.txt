@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/627552290933578663
+Latitude: 36.18430088875555
+Longitude: -86.7907086447761
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Super quick Uber ride to Downtown. Walk to baseball games, farmers' market, and amazing restaurants all around you. This peaceful 4-bedroom/3-full-bath home will feel like a home away from home in the heart of Nashville's best neighborhood, Germantown. Parking enough for 4 cars. Backyard with a deck.
+
+The space
+One bedroom and full bath downstairs with open kitchen and living room and large dining table. Upstairs you will find three bedrooms, 2 king and one queen. Two bedrooms share a Jack & Jill bathroom and the master is gigantic with an amazing, spa like bath and private balcony. The back yard is large with a very nice deck with gas grill and enough space to have a great back yard BBQ. Finally, if you are diving in locally, you have plenty of room to park 4+ cars.
+
+Guest access
+Entire house and property
+HUGE 30 DAY DISCOUNT-CONTACT ME
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jodi
+Host User ID: 84258006
+Host Profile URL: https://www.airbnb.com/users/show/84258006
+Host Profile URL Source: public user permalink from passport userId
+Lives in Franklin, Tennessee
+Response rate: 33%
+Responds within a few days or more
+4 years hosting
+44 reviews
+4.98 out of 5 average rating
+4 years of hosting

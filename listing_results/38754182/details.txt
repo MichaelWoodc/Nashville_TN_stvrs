@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/38754182
+Latitude: 36.23762
+Longitude: -86.58984
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Green Hill, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the true Nashville experience at Relax and Rock and Roll. Where you can jam in the music room and soak in the hot tub. Then enjoy live music down the street and the greatest Italian restaurant in  Nashville only 2 miles away! It is within walking distance to Old Hickory lake and conveniently located near many shopping centers.  In addition, it is only a 15-minute drive to the Nashville airport and 20-minute drive to downtown Nashville.
+
+The space
+Located in a quiet, safe neighborhood.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dawn
+Host User ID: 296355190
+Host Profile URL: https://www.airbnb.com/users/show/296355190
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Responds within a few days or more
+7 years hosting
+21 reviews
+4.67 out of 5 average rating
+7 years of hosting

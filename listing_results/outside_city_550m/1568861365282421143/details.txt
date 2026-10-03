@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1568861365282421143
+Latitude: 36.2228
+Longitude: -87.0488
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to peaceful country nights just 30 mins from downtown Nashville. This private 2 Bdr, 1.5 bath RV retreat features private parking, a cozy patio off the bunk room, a propane fire pit, seasonal pool & a hammock nestled in the trees. Enjoy a dozen farm fresh eggs on arrival, plus the charm of chickens on the property & roosters crowing nearby. You may also see our neighbors goats wandering around. Quiet, unique and close to it all- your relaxing getaway awaits.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christa
+Host User ID: 160726325
+Host Profile URL: https://www.airbnb.com/users/show/160726325
+Host Profile URL Source: public user permalink from passport userId
+My family and I lived and traveled the US in the RV you are staying in for a full year. We visited 26 states and 16 national parks. 
+We bought our property & house without seeing it in person and never having been to Ashland City before. We were in Montana when we bought our house. We made a 1800 mile trek to our new home in five days.
+Born in the 80s
+My work: Home birth midwife
+Response rate: 100%
+Responds within an hour
+4 months hosting
+2 reviews
+5.0 out of 5 average rating
+4 months of hosting

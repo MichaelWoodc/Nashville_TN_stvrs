@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/38539156
+Latitude: 36.2044
+Longitude: -86.7437
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Location is convenient - just under 5 miles to Broadway, quick Uber ride! Walkable to Elegy Coffee Bar,The Fox Bar and Cocktail Club, Nicoletto's pasta company, Grimey's Records, and Living Waters Brewery & coffee shop. 
+Your group will love this 3 bedroom, 3 1/2 bath, 1748sf townhome with covered parking that will fit one large SUV or 2 small compact cars. Approved dogs welcome for extra daily fee of $50.
+
+The space
+Lots of space for everyone to come together in the large combined living room kitchen area.
+2 master bedrooms with king size beds and private en-suite bathrooms-
+1 bedroom with twin daybed and twin trundle with private en-suite bathroom-
+1/2 bath in main living area with queen sleeper sofa.
+5 miles to Broadway- short Uber Ride. Within 
+
+Guest access
+Full condo.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allison
+Host User ID: 36393087
+Host Profile URL: https://www.airbnb.com/users/show/36393087
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Manager
+Favorite song in high school: Wake me up before you go go -wham
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+915 reviews
+4.81 out of 5 average rating
+10 years of hosting

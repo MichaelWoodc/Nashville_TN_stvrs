@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/990661054496037943
+Latitude: 36.15791
+Longitude: -86.87549
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home! This space is ready to be your home base between adventures around the city, or a relaxing oasis away from all the excitement. Between a convenient 13 minute drive to Broadway, and less than 10 mins from all of the dining and shopping you could need, the west Nash retreat is the model of convenience.  You'll enjoy 3 bedrooms along with a HUGE mounted TV, the fastest WiFi, and a brand new kitchen ready with all of the tools to whip up your next meal.
+
+The space
+You'll have complete access to the property while you are here! Feel free to utilize the oversized carport and spacious backyard. Once inside, make yourself at home. Each of the three bedrooms have a closet and hangers for you to use, and the kitchen has all of the essentials needed to feel at home. Since there is only one bathroom, mirrors have been placed in each bedroom near outlets, so the whole group can get ready at once!
+
+The optional fourth bed is a queen size air mattress with automatic pump and 3 comfort settings! The most comfortable place to set it up if needed would be in the living room, but it will also fit in the largest room with the Blue bed.
+
+Driving time from Home:
+
+3 mins - The Nations, Sylvan Park
+7 mins - Nashville West Shopping Center
+10 mins - Belmont University, West End
+11 mins - Broadway, Bridgestone, The Ryman Auditorium, Nissan Stadium, Vanderbilt University
+12 mins - Germantown, First Horizon Park
+13 mins - Geodis Park, 12 South
+14 mins - Country Music Hall of Fame, The Gulch, Green Hills Mall
+16 mins - BNA (Nashville International Airport)
+
+Other things to note
+You'll love how close everything you could need is to this home while still enjoying the quieter, neighborhood feel. Broadway is a quick 13 min ride, and nearly every other trendy neighborhood is 15 minutes or less! Also be sure to check out Rock Harbor Marina just 3 blocks down the street. With tons of rentals and a floating dock restaurant and builds in progress for more additions, you'll be sure to find a good time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alex
+Host User ID: 139887332
+Host Profile URL: https://www.airbnb.com/users/show/139887332
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of California, Davis
+Response rate: 90%
+Responds within an hour
+Superhost
+3 years hosting
+122 reviews
+4.96 out of 5 average rating
+3 years of hosting

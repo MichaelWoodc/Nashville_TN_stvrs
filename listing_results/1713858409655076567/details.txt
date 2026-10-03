@@ -1,0 +1,31 @@
+URL: https://www.airbnb.com/rooms/1713858409655076567
+Latitude: 36.2637
+Longitude: -86.7001
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to a peaceful getaway where comfort and relaxation come together. Our cozy home is the perfect place for families, couples, or friends looking to unwind in a quiet, welcoming setting. Enjoy spacious living areas, comfortable bedrooms, a fully equipped kitchen, and thoughtful amenities designed to make you feel right at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mauve
+Host User ID: 1713854061308117255
+Host Profile URL: https://www.airbnb.com/users/show/1713854061308117255
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 78%
+Responds within a day
+New Host
+1 reviews
+5.0 out of 5 average rating

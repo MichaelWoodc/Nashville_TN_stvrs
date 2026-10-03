@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/991266025063356518
+Latitude: 36.1754
+Longitude: -86.7529
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Group trips made easy! Every bedroom has a plush king bed and a bathroom of its own, so nobody gets stuck with the "bad room." Cook together in the remodeled kitchen, then spread out on the big back deck and yard. You're tucked into quiet, historic Edgefield, an easy walk to Five Points bars, coffee and restaurants, and a quick 10 to 15 min Uber to Broadway, the Ryman and Nissan Stadium. Free parking for 3 cars, and your pup is welcome too!
+
+The space
+THE HIGHLIGHTS
+• 4 bedrooms + 2 private flex rooms with doors (sleeps 12)
+• 5 king beds + 1 queen Murphy bed
+• 5 full bathrooms with walk-in showers
+• Remodeled kitchen with stainless appliances and a big island
+• Dining for 6 plus 4 counter seats
+• Large back deck with outdoor dining + landscaped yard
+• Fast wifi, washer + dryer, free parking for 3 cars
+• Dog friendly
+
+BEDROOMS + BATHS
+Every room here is a real, private room with a door. Each bedroom has its own colors, high ceilings, a memory foam king, a flat-screen TV and a bathroom with a walk-in shower. Upstairs you'll find three king bedrooms plus a private flex room with a fifth king. On the main floor there's a king bedroom with its own bathroom, plus a private front flex room with a queen Murphy bed and a TV. It doubles as a second lounge when you don't need the extra bed. Every bathroom is stocked with fresh towels, a hair dryer, shampoo and body wash.
+
+KITCHEN + LIVING
+The remodeled kitchen has everything you need for a group dinner in: stainless appliances, a big island and a full set of cookware and dishes. It opens to the dining area and a bright living room with a flat-screen TV. Across the foyer, the front flex room works as a second lounge, so movie night and game night can both happen.
+
+OUTSIDE
+The back deck is the spot to hang out. Eat outside, pour a glass of wine and enjoy the yard.
+
+GOOD TO KNOW
+This is a quiet, established family neighborhood. Quiet hours are 10pm to 8am, and parties or events of any kind are not allowed. There's a small, self-contained basement apartment that's used occasionally. It has a completely separate entrance and garage, so you have full privacy.
+
+Guest access
+The whole main house is yours, except for a couple of locked supply closets. Self check-in with a smart lock.
+
+Other things to note
+Please lock all doors when you're out and keep valuables out of parked cars. Stays of 3 weeks or longer include an additional cleaning fee. Exterior cameras are in use for safety.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Luke And Jacob
+Host User ID: 539548919
+Host Profile URL: https://www.airbnb.com/users/show/539548919
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+101 reviews
+4.98 out of 5 average rating
+3 years of hosting

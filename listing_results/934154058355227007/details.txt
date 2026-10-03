@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/934154058355227007
+Latitude: 36.1808
+Longitude: -86.7984
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This newly furnished home boasts a prime location just 2 miles from Downtown, Broadway, Top Golf, Nissan Stadium, and more! Perfect for quality time with family or friends, it offers 3 bedrooms plus an extra sleeping area, a well-equipped kitchen with a complimentary coffee bar, and a generous fenced backyard complete with a cozy fire pit for gatherings. Welcome to Music City!
+
+The space
+This recently remodeled 4-bedroom, 2-bathroom home offers ample accommodation for up to 8 guests. Elegantly adorned, it features a delightful living area, a charming dining space adjacent to a well-appointed kitchen, and a secluded fenced backyard with a cozy deck and fire pit. Details of the bedrooms are provided below:
+
+Sleeping arrangements:
+Bedroom 1: King sleeps 2 - Coral Couch folds out easily to become a queen
+Bedroom 2: King sleeps 2
+Bedroom 3: King sleeps 2
+Bedroom 4: Twin Bunk Bed sleeps 2
+
+Guest access
+You have access to the entirety of the home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

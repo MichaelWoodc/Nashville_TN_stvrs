@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/30389810
+Latitude: 36.12957
+Longitude: -86.7745
+rental_type: Entire place
+property_type: OTHER
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+WELCOME TO THE WILMA'S PLACE GUESTHOUSE! Enjoy a comfortable night's rest in your spacious master bedroom with half bath. Ready to freshen up? Saunter into your spacious modern bathroom with amenities listed. There is another queen size bed and full bath. The guesthouse is conveniently located 2.5 miles to downtown, 1.2 miles to 12South and blocks away from 8th ave south where you can enjoy Nashville hot chicken,comedy club, local juice bar etc... Free parking is located on the premises.
+
+The space
+This charming guesthouse is located behind a separate main house.  The guesthouse includes 1 full bedroom and 1.5 bathrooms.  There are two Queen beds with a door separating both spaces.  The house was designed for you to feel right at home.
+
+Guest access
+Guests have full access to the entire guest suite including private parking.
+
+Other things to note
+Guests do not have access to the main house. All communication and interaction should remain with hosts!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dwell
+Host User ID: 187200206
+Host Profile URL: https://www.airbnb.com/users/show/187200206
+Host Profile URL Source: public user permalink from passport userId
+Hi! We're Dwell Nashville- an all-inclusive, fully-licensed vacation property management company based in Nashville, Tennessee. 
+ 
+Together with our tribe, we're here to make your Nashville vacation an exceptional experience! The cool thing about Dwell Nashville is we're all Natives, who better to show you the ropes and help you navigate through the city than some OG's of Music City. 
+
+Our Property Managers and Dwell Nashville Staffers are top of the line, and you'll feel taken care of every step of your trip! Our tribe can make almost any request  a reality, so be sure to ask about our concierge services and we can make sure all the requests, comforts, and logistics are handled!
+ 
+Since we've all seen Nashville grow and change so much over the years,  we love nothing more than welcoming travelers to our city and showing them why a little piece of heaven is where we call home in Nashville. 
+
+We're so excited  you're coming to dwell with us, and we hope you to have the GREATEST time ever! Thank you for visiting Nashville and we look forward to adding you to our family. 
+
+Ya'll be safe now ya hear!
+My work: Dwell Nashville
+Speaks English
+8 years hosting
+455 reviews
+4.85 out of 5 average rating
+8 years of hosting

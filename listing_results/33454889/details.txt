@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/33454889
+Latitude: 36.1793
+Longitude: -86.7887
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Plush fabrics, inspired wall art & exposed bricks, welcome to our renovated & fully modernized, historic "Glam" home!
+
+Located in the trendy Germantown district, you will be minutes from downtown & walkable to streets filled with shops & restaurants. 
+
+Upon arrival, feel transported to a modern-day speakeasy, but enjoy all the comforts of luxury hotel amenities. Complemented by a commercial kitchen, our house is designed for entertaining, relaxing & a unique experience!
+
+The space
+This historic home was originally built in the 1890s and was fully restored/renovated in the spring of 2019 by one of Nashville's most prominent interior designers. The house was designed to immerse guests in Nashville's "grit and glamour, velvet and brick" soul, and will lead guests on a path of discovery of fun design elements that balance modern luxury and eclectic timepieces. 
+
+Experience spa-like bathrooms and brand new kitchen upgrades and commercial appliances. 
+
+With luxury underpinning every design element, we hope you find the space to be a great showcase for photo ops and perfectly practical for entertaining large groups.
+
+Safety Statement: 
+The health and safety of our guests, of course, are our top priority.  We are committed to providing a clean and germ-free environment for our guests.
+
+Guest access
+* Guests will enjoy full house access, including a shared outdoor courtyard for cooking and playing! 
+
+* Ample street parking is available for your stay should you be traveling by car. No decal is required for street parking use.
+
+Other things to note
+--Other Transportation: Germantown is known for being incredibly walkable, with most people traveling by foot to explore the neighborhood. That said, many locals and guests alike also enjoy using the electric rental scooters located throughout the Germantown District. In Nashville, our motorized scooter programs include Bird, Lime, and Lyft. Feel free to download the app to find nearby scooters. Rates start at $1 to unlock and $0.15/minute thereafter. 
+
+--Car Services: you are 7 min away from downtown Nashville (1.6 miles) via Uber, Lyft or any taxis that service the area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 53216172
+Host Profile URL: https://www.airbnb.com/users/show/53216172
+Host Profile URL Source: public user permalink from passport userId
+Traveller, adventurer & explorer of all things new!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+368 reviews
+4.97 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1759533216466868698
+Latitude: 36.1108
+Longitude: -86.7884
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a peaceful, spacious 2BR upper-level Nashville stay close to 12 South, Broadway, dining, shopping, major business areas, and highly rated schools. Previously hosted for years with strong guest feedback, this home is ideal for families, friends, relocations, executives, and longer stays, with comfortable living areas, a built-in workspace, equipped kitchen, laundry, and a calm backyard setting with trees and birdsong. Close to the action, quiet when you want to unwind.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paula
+Host User ID: 70412880
+Host Profile URL: https://www.airbnb.com/users/show/70412880
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting

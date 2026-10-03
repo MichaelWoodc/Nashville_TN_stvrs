@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/1642933842428120827
+Latitude: 36.221692
+Longitude: -86.762519
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 0
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into a mid-century retreat at Salt Ranch, East Nashville’s newest boutique motor inn. Our Deluxe King room features floor-to-ceiling windows, custom robes, and 55-inch TVs. Guests enjoy full access to the Swim Club, our historic 1856 Main House bar, and a library bodega. Located just 10 minutes from Broadway and Nissan Stadium, we offer free parking and the true spirit of Music City.
+
+The space
+This listing is for a room within a hotel.
+
+✦ Your room is 312 sq. ft, equipped with complimentary toiletries, standard quality 55-inch TV, available with Standard cable.
+
+✦ Cleaning services included in the nightly price.
+
+There are a few additional details to know before you book:
+
+✦ The minimum age required for check-in is 21 years old.
+
+✦ Please ensure you have a valid ID for check-in, as it is mandatory for entry.
+
+Guest access
+During your stay, you will have access to the property and amenities according to the following schedule:
+
+✦ Check-in is available from 3:00PM, and is flexible afterwards. If you expect to arrive later, please let us know as soon as possible to make the necessary arrangements.
+
+✦ You may keep your luggage at the front desk if you arrive early.
+
+✦ Outdoor shared pool available from May 15 to October 15, opened from 10:00AM to 7:00PM.
+
+✦ Free parking lot – 1 space(s).
+
+Other things to note
+There are several additional things to note:
+
+✦ A valid credit or debit card is required for the refundable security deposit and any offline fees displayed upon completing your Airbnb reservation.
+
+✦ Please note that the mandatory resort fee is charged per night, per unit which will be collected in person at check-in.
+
+✦ Pets are welcome. Welcoming dogs and cats only
+
+✦ We use multi-unit listings, so rooms are similar but may have small differences.
+
+✦ Early check-in and late check-out are subject to availability for a fee.
+
+✦ Pack 'n' play; subject to availability, upon request
+
+✦ A smoking penalty will apply for smoking outside the property's designated smoking areas.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Roompicks By Victoria
+Host User ID: 174792040
+Host Profile URL: https://www.airbnb.com/users/show/174792040
+Host Profile URL Source: public user permalink from passport userId
+Going someplace new is always exciting. And what would that adventure be without a great place to lay your head at the end of the day? That is where I come in!
+
+As an avid traveler myself, I know how the little things can set the pace for a new experience! You want something hospitable and inviting to give you a remarkable experience that no one else can give you. A heated pool, or jacuzzi at the end of the day to relax in, or a nice meal within walking distance? Down to beds that cozy and homily. Sounds good? Well, you have come to the right place.
+
+We offer handpicked accommodations in remarkable properties for a  top-notch experience with a few added extras. As well as tips, recommendations, and 24/7 customer support to make sure that your experience is the best it can be!
+Response rate: 99%
+Responds within an hour
+9 years hosting
+23386 reviews
+4.34 out of 5 average rating
+9 years of hosting

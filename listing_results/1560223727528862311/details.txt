@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1560223727528862311
+Latitude: 36.2631
+Longitude: -86.7277
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Minutes from East Nashville and Germantown, this large private property sleeps 10 with a large hydrotherapy Hot Tub! Visit downtown Broadway, The Opry,  Nissan Stadium, and Bridgestone Arena with easy access to all things Nashville. With plenty of FREE parking on site, you can enjoy the large outdoor space and relax in the hot tub or around the campfire with friends and family.
+
+The space
+This expansive property has three bedrooms, two bathrooms, two living room, a full kitchen, dining room, and a large private backyard and plenty of space to spread out and grill out on the new deck. The whole house is yours! 
+And, enjoy a newly installed 6 person hot tub with lounger!
+
+Free parking - the house can accommodate up to six vehicles. (2+ behind the fence and 4 in the driveway)
+
+Free Laundry - a washer & dryer are available with detergent during your stay.
+
+The backyard sprawls far beyond the fence into a deep canopy of trees. Enjoy the fire pit with plenty of firewood stacked and ready.  Eat and entertain outside on the large new deck.
+
+There is a BBQ grill that is perfect for slow Southern evenings and good company. (Propane tanks and levels are the guest’s responsibility during the stay)
+
+Guest access
+A few closets and the detached garage are locked but otherwise the whole place is yours!
+
+Other things to note
+We live close by and are always happy to help if you need anything during  your stay :)
+
+Registration details
+2025102653
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandie
+Host User ID: 278308299
+Host Profile URL: https://www.airbnb.com/users/show/278308299
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Artist / Bartender
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+27 reviews
+4.93 out of 5 average rating
+3 years of hosting

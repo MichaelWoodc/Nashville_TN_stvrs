@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/41656616
+Latitude: 36.20776
+Longitude: -86.76616
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Duke of East Nashville! You will feel like royalty in this newly built townhome, conveniently located just a short distance from Broadway, Germantown, and Five Points, along with easy highway accessibility. Feel relaxed, secure, and comfortable behind the walls of this gated community!
+
+The space
+This two-bedroom, two-and-a-half-bathroom home is perfect for the entire family. The home includes free off-street parking, a third-floor balcony with neighborhood views, a private workspace with a desk and desk chair, and a fully equipped kitchen with modern, stainless steel appliances.
+
+The space was designed and built with you, the guest, in mind. Modern, luxurious, but simple. The first floor features an open-concept living, with a fully appointed kitchen and breakfast bar that seats three people, along with three additional dining spaces located behind the living room couch.  There is high-speed WiFi and smart TV to connect to all your favorite streaming services, as well as a convenient half bathroom on the first floor.
+
+On the second floor, guests will find a massive bedroom with plenty of room to spare. A large en suite bathroom with a walk-in shower gives extra room for getting ready. Also on this level is a laundry room with a full-size washer and dryer, to which you will have full access. 
+
+The third floor includes the second private bedroom and en suite bathroom with a tub/shower combo. The third-floor landing includes a large desk, perfect for getting ready or catching up on work. From here, you may also access the third-floor balcony, which includes seating and tables. Perfect relaxing spot for a morning cup of coffee!
+
+Other things to note
+*Please note: this is a smoke-free, pet-free establishment. If you are looking to book a party, please check other available listings!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 323316385
+Host Profile URL: https://www.airbnb.com/users/show/323316385
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Debbie!
+My work: Certified Registered Nurse Anesthetist
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+123 reviews
+4.88 out of 5 average rating
+7 years of hosting

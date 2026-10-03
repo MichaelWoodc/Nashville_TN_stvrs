@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/653760670969401248
+Latitude: 36.3668
+Longitude: -86.57597
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This three bedroom, two bath home is a quiet space for family & friends to spend time together. Sit on the back patio or front porch and enjoy the view. You might just see deer or wild turkey stroll across the large yard. Play Ping-Pong or Pool with friends and family. Just 18 miles from downtown Nashville and all the fun found there. Old Hickory Lake is just 10 minutes away. You will be 5 miles from Drakes Creek park and all the restaurants and shopping Hendersonville has to offer.
+
+Guest access
+You will have whole house and large yard to yourself.
+
+Other things to note
+This space is boater friendly with outside electrical outlets and a large parking area for tournament style fishing boats.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Suzanne
+Host User ID: 465270619
+Host Profile URL: https://www.airbnb.com/users/show/465270619
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Ministry Assistant
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+73 reviews
+4.99 out of 5 average rating
+4 years of hosting

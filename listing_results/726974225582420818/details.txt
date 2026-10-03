@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/726974225582420818
+Latitude: 36.19332
+Longitude: -86.76138
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hank's House is a BRAND NEW private Guest House, located in Cleveland Park! Enjoy being centrally located, just minutes away from all  East Nashville has to offer as well as minutes away from Broadway!! 
+
+20+ restaurants within 1.5 miles  
+
+Perfect for small groups!
+
+*Full Kitchen, Private Balcony, Private parking, High-Speed Internet
+
+Broadway- 7 mins 
+Five Points (East Nashville)- 5 mins 
+BNA - 13 mins 
+Permit:2022069570
+
+The space
+Bedroom 1- Queen 
+Bedroom 2-Queen 
+Bedroom 3- Queen & Twin Daybed 
+
+Living Room- Sleeper Sofa  (Queen)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin
+Host User ID: 96885699
+Host Profile URL: https://www.airbnb.com/users/show/96885699
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Kennesaw State University
+Response rate: 100%
+Responds within an hour
+4 years hosting
+98 reviews
+4.99 out of 5 average rating
+4 years of hosting

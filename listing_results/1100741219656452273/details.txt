@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1100741219656452273
+Latitude: 36.194
+Longitude: -86.7781
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern Nashville townhouse built for groups who want Music City without compromise — stylish enough to impress, comfortable enough to actually relax, and just minutes from everything Nashville has to offer. Sleeps up to 8 with room to breathe! Enjoy the open-concept living area with a cozy fireplace, pull-out sofa, and Smart TV. The chef-style kitchen with stainless steel appliances is perfect for pre-gaming or a slow morning coffee.
+
+The space
+Indulge in the ultimate Nashville getaway at our charming retreat, strategically located just 2.6 miles from the vibrant heart of downtown! Bid farewell to the hassle of freeway commutes as you step into the convenience of easy access to all the city has to offer. Enjoy curated music lists for Nashville's greatest (QR codes on the pictures that link with songs and videos of the artists)!
+
+Please note**ENTRANCE  has no stairs, but a set of stairs up to Main Level**
+
+🛏 Bedroom 1 (3rd Floor): King bed + Smart TV
+🛏 Bedroom 2 (3rd Floor): Built-in queen bunk bed that comfortably sleeps 4 adults + Smart TV
+🛁 Each bedroom has its own private full bath — plus a convenient half bath on the main living floor
+Living Room: Queen size pull-out sofa + Smart TV and Fireplace
+In-unit washer & dryer — pack lighter, stay longer
+High-end finishes throughout
+Multiple Smart TVs so everyone gets their own space
+Fireplace for those cooler Nashville evenings
+
+Classic Drip Coffee Maker (first round of whole beans, sugar, mini moo creamers provided)
+5-10 minute (depending on traffic) Uber/Lyft to Broadway and Nissan Stadium!
+
+Two car garage
+This is a parking garage nearby for extra parking (you need to make a reservation online):
+(M) 1201 BAPTIST WORLD CENTER
+
+Guest access
+Entire Home minus locked closet
+
+Other things to note
+** While staying with us, PLEASE make sure ALL doors are shut and locked when not in use! PLEASE do not leave any valuables in your vehicle if parked on the street. Nashville is a BIG city so please make sure to be vigilant with our property and yours!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erik
+Host User ID: 564295465
+Host Profile URL: https://www.airbnb.com/users/show/564295465
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+126 reviews
+4.94 out of 5 average rating
+3 years of hosting

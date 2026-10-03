@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1684975422975645703
+Latitude: 36.1723
+Longitude: -86.6919
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to a renovated cottage retreat designed for clean, healthy living, with your own private entrance and no shared spaces. Every detail has been chosen with wellness in mind — organic linens, towels and toiletries to air purifiers — an ideal home base for anyone who wants a toxin-free, high-quality stay rather than a typical hotel room. The Cottage is in a quaint neighborhood 5 minutes from BNA Airport, and 12 minutes from downtown Nashville with free off-street parking for ease of travel.
+
+The space
+You'll have exclusive use of three clean, beautifully appointed bedrooms, each outfitted with a cowhide rug, a luxury 5-star queen mattress dressed in organic, chemical- & fragrance-free fabrics, and a dedicated air purifier for the cleanest sleep environment. Every bedroom also includes organic oversized towels for the private hotel-style designer bathroom, which is stocked with non-toxic soaps and thoughtful finishes throughout. All rooms are lockable. Beyond the bedrooms, you'll have a living room featuring all Crate & Barrel furnishings, an oversized TV, 1G WiFi, and a deep comfy couch, a dedicated workspace & dining area. Please note there is no kitchen / laundry access, so this space is best suited to guests who plan to dine out with high quality sleeping quarters. (The owner suite entrance is via the back door — I will have no overlap with you & no impact on parking availability! No concerns about noise as long as it is not impacting neighbors.)
+
+Guest access
+Enter through your own private door (front door) with a smart keypad code, fully separate from any other living space. There's no overlap with other guests or hosts — the suites, bathroom, and living area belong to you alone for the full length of your reservation.
+
+During your stay
+This is a self-contained, private retreat — you won't be sharing hallways, common areas, or schedules with anyone else. The suite setup is designed for guests who want the comfort and independence of a home of their own, with the peace of mind that comes from knowing every surface, fabric, and product was thoughtfully chosen to keep your environment as toxin-free & healthy as possible. I will be availability promptly as needed during your stay.
+
+Other things to note
+This cottage was renovated specifically with health-conscious travelers in mind. If you're mindful of air quality, synthetic fabrics, or harsh chemicals in your everyday products, you'll feel the difference here. The host is health-forward, and wanted to ensure guests receive the same high-quality treatment for optimal sleep.
+
+Registration Details
+2026058377
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caleb
+Host User ID: 1684975290457895521
+Host Profile URL: https://www.airbnb.com/users/show/1684975290457895521
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of San Diego
+My work: Finance
+I spend too much time: Fixing up my house!
+Speaks English and Italian
+Response rate: 100%
+Responds within an hour
+New Host

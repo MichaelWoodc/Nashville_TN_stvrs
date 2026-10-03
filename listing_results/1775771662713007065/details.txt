@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1775771662713007065
+Latitude: 36.25034
+Longitude: -86.76545
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your fully furnished, designer decorated home. It's cozy, beautiful and centrally-located. There’s a hospital, grocery store and shopping areas down the street. The house is a 10 minute drive to the hot spots in East Nashville & Germantown & 15 minutes to downtown Nashville. Relax in the quiet tree filled backyard which sits on top a hill and gaze at the stars or listen to the birds singing during the day. 3 BEDROOM 2.5 BATHROOM HOME
+
+The space
+Kick back and relax in this calm, stylish home. Relax in the backyard and enjoy the night stars or sunshine and bird songs during the day. Two rooms have a dedicated work space while the primary sweet has a walk in closet and duel sink bathroom with walk in shower
+
+Guest access
+There’s a keypad for digital access. You will receive a 4 digit code when you book. Please be sure to press the lock button when leaving and the door will automatically lock
+
+Other things to note
+This home is a non-smoking, no drugs and no parties home. Only approved guests are allowed on the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keyia
+Host User ID: 343578073
+Host Profile URL: https://www.airbnb.com/users/show/343578073
+Host Profile URL Source: public user permalink from passport userId
+Hey! I’m Key :) I’m a singer/songwriter, realtor & entrepreneur. I’m dog mom to Jolie and I love traveling and everything wellness related. Looking forward to meeting you!
+Where I went to school: Texas
+My work: Music
+Response rate: 94%
+Responds within an hour
+2 years hosting
+1 reviews
+5.0 out of 5 average rating
+2 years of hosting

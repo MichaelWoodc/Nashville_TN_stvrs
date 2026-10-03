@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1781958705602125321
+Latitude: 36.184
+Longitude: -86.8139
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🌇 Private Rooftop Patio w/ Downtown Views
+🛏️ 4 Bedrooms all w/ en-suite bathrooms
+🎸 3.4 Miles to Lower Broadway
+🍔 Two miles to Germantown Restaurants
+🚗 2 Private parking spots on site
+
+Escape to this brand-new 3-story Nashville townhouse with soulful Music City charm. This 4BR hideaway sleeps a crowd—perfect for reunions, girls' trips, or bachelorette weekends. Sip cocktails on your private rooftop patio, steps from Germantown, the Farmers Market, and honky-tonks.
+
+The space
+Down on level one, you'll find a pair of bright bunk rooms built for crowds, each pairing a full-size bed with a twin bunk above and its own private en suite. Everyone gets their own space to get ready—no waiting in line for the bathroom here.
+
+Level two is where everyone naturally gathers. The airy, light-filled kitchen flows into the living area, set up for lazy brunches, group dinners, and plenty of laughter, plus a smart TV for downtime and a convenient half bath nearby.
+
+Climb to level three and you're in your own private wing: a serene master suite with a king bed and smart TV, and just across the hall, a second bunk room with two more twin-over-twin setups—ideal for kids or the rest of your group.
+
+Then there's the crown jewel: a private rooftop patio all your own, floating above the city. Coffee at sunrise or drinks at sunset, this is the spot where the trip really comes together!
+
+This North Nashville townhome is built for the moments you'll actually remember—reserve your dates before this one's booked solid!
+
+*Your stay comes with two dedicated parking spots, so there's no need to hassle with rideshares—come and go whenever you like.
+
+*The smart TVs don't include live cable, but you're welcome to sign into your own streaming apps during your stay—just sign back out before checkout.
+
+Other things to note
+*Two private parking spots are yours for the whole stay, so you can ditch the ride shares and come and go on your own time.
+
+*Smart TV's do not come equipped with live TV, however feel free to log into any of your own personal streaming services but don't forget to log out prior to departure.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Riley
+Host User ID: 175574066
+Host Profile URL: https://www.airbnb.com/users/show/175574066
+Host Profile URL Source: public user permalink from passport userId
+General Manager for The Mitten Group Property Management in Traverse City and also GamePlan Property Management in Nashville. I strive to provide excellent stays for my guests and go above and beyond to make sure you enjoy every aspect of your stay. Please reach out with any questions and I look forward to your visit!
+My work: The Mitten Group
+Lives in Traverse City, Michigan
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+9858 reviews
+4.82 out of 5 average rating
+7 years of hosting

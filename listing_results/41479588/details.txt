@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/41479588
+Latitude: 36.19595
+Longitude: -86.63276
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated basement  with private ground level access, in a very quiet neighborhood called Hermitage. Only 12 minutes' drive to the airport and 20 minutes' drive to downtown.
+7 minutes from train station, 3 minutes from bus station, less than 5 minutes to Target, 3 minutes to First Watch Cafe and McDonald’s, 26 minutes to the zoo, 24 minutes to the Parthenon, 
+15 minutes drive to Gaylord Hotel and Opry Mills mall.
+
+The space
+We have put a lot of effort to make our small basement feel as if you were at home. 
+We renovated it last Summer and turned it into the Coziest basement in Nashville. Its  bright bedroom and living room includes a  microwave, a kettle jar, a coffee maker, a small refrigerator, some water,  crackers and fruit. Smart TV with access to Disney+ and Netflix, plus a full bath and laundry.
+
+Guest access
+Smart lock
+I will send you the code so you can check yourself into the house.
+
+Other things to note
+The private entrance to our guest room is in the back of the house.
+The bathroom in the basement is for Airbnb guests  only; it uses a crushing pump system. Please do not flush or dispose of paper towels, feminine products, trash, any baby wipes  including flushable wipes, diapers, hair and personal items in the sink, toilet or shower.
+Thank you for your cooperation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pamela
+Host User ID: 208273189
+Host Profile URL: https://www.airbnb.com/users/show/208273189
+Host Profile URL Source: public user permalink from passport userId
+My name is Pamela. 
+I like to cook, travel, spend time with my family and friends.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+7 years hosting
+36 reviews
+4.89 out of 5 average rating
+7 years of hosting

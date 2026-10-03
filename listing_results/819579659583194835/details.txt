@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/819579659583194835
+Latitude: 36.267
+Longitude: -86.7757
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Valley Trail Retreat! Just 8 minutes from downtown Nashville, our modern and cozy home offers the perfect blend of relaxation and convenience. Whether you're here to explore Music City's vibrant nightlife, iconic landmarks, or scenic trails, this is the ideal spot for your stay. Enjoy our fully equipped kitchen, spacious outdoor areas, and comfortable bedrooms. Perfect for groups, families, and business travelers looking to experience Nashville in style. Book your stay today!
+
+The space
+Welcome to your Nashville retreat! Our home is packed with fun amenities, like giant outdoor games for the family, a popcorn machine for movie nights, and a fully stocked coffee bar to start your mornings right. With fast Wi-Fi for streaming or remote work, you’ll stay connected. Plus, our trailer-accessible property makes it easy to bring larger vehicles. Located just minutes from Nashville’s famous honky-tonks, live music venues, and local hotspots, this is the perfect base for your Music City adventure! After enjoying the bustling nightlife and live music just minutes away, return to the quiet and calm of our peaceful neighborhood, offering the best of both worlds for your Nashville escape.
+
+Guest access
+You’ll have full access to the entire home during your stay! This includes indoor spaces, the kitchen, living areas, bedrooms, bathrooms, and outdoor spaces. Whether you're enjoying a quiet evening in or gearing up for a day of exploring Nashville, the space is completely yours to relax and unwind. We want you to feel at home, so make yourself comfortable and enjoy everything our property has to offer. (no garage access, full driveway is available for your use — even trailers!!)
+
+Other things to note
+Parking: Enjoy free on-site parking for multiple vehicles and even trucks with trailers.
+Self-Check-In: We offer a hassle-free, self-check-in process with a keypad entry for your convenience.
+Family-Friendly: Our home is equipped with essentials for families, including a high chair and pack 'n play.
+Quiet Hours: To respect our neighbors, please observe quiet hours from 10 PM to 7 AM.
+Outdoor Space: Feel free to enjoy our private outdoor area, perfect for morning coffee or evening relaxation.
+Note: There are 2 ring doorbells on property for your safety and ours!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aretha
+Host User ID: 499532365
+Host Profile URL: https://www.airbnb.com/users/show/499532365
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+Favorite song in high school: I want to dance with somebody
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+24 reviews
+5.0 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/4485271
+Latitude: 36.1733
+Longitude: -86.7805
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to your private waterfront retreat in Nashville! This cozy 1-bedroom condo on the Cumberland River comfortably sleeps 4. Enjoy stunning river views from your private balcony, just minutes from downtown Broadway and Nissan Stadium. Perfect for couples, families, or business travelers seeking a true Music City experience. Includes free covered parking.
+
+The space
+This third-floor, end-unit condo offers a private, home-away-from-home experience with gorgeous views of the Cumberland River. It's the ideal getaway for up to 4 guests.
+
+*   **Bedroom**: Plush King-size bed with fresh linens.
+*   **Living Room**: Comfortable living area with a Queen-size sleeper sofa and a 42" flat-screen TV featuring YouTubeTV and STARZ.
+*   **Balcony**: Private balcony overlooking the river, perfect for morning coffee.
+*   **Kitchen**: A fully stocked kitchen with a Keurig, drip coffee maker, toaster, dishwasher, and all necessary cookware.
+*   **Bathroom**: A brand new, fully remodeled bathroom with a modern walk-in shower, located inside the bedroom.
+*   **Comforts**: High-speed Wi-Fi, central air conditioning & heating, fresh towels, an iron, and hangers.
+
+Guest access
+You will have private, exclusive access to the entire condo for the duration of your stay. 
+
+*   **Self Check-In**: Simple and secure check-in via a smart lock.
+*   **Shared Amenities**: Your stay also includes access to the complex's shared amenities:
+    *   Outdoor Pool (Seasonal, opens May 15th)
+    *   Fitness Room
+    *   Paid Laundry Facilities
+    *   Free Covered Parking Space
+
+Other things to note
+*   **No Elevator**: Please be aware that the condo is a walk-up located on the third floor (32 steps total). There is no elevator in the building.
+*   **Amenity Key Deposit**: A security deposit is required for the key that provides access to the pool, fitness room, and laundry facilities. The deposit will be fully refunded if the key is left in the condo upon departure.
+*   **Safety & Security**: For your safety, the condo is equipped with smoke alarms, a carbon monoxide alarm, a fire extinguisher, and a first aid kit. The building exterior is also monitored by security cameras.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Harry
+Host User ID: 23271865
+Host Profile URL: https://www.airbnb.com/users/show/23271865
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Nashville Ya'll!  Come and take in the bright lights, sights and melodious sounds  that Music City has to offer and fall in love with it just like I have in the time I have been here.  I have traveled to many wondrous and exotic countries in the world; just got back from Japan, but Nashville calls to my heart and soul!!   My motto in life is to live life to the fullest and be the best person I can be everyday of my life.   I want you all to relax and enjoy your time in my cozy condo and let it be your home away from home.  Let Nashville work it's special magic on you; I promise you will be back!!
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+859 reviews
+4.83 out of 5 average rating
+12 years of hosting

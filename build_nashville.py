@@ -25,7 +25,7 @@ from functools import partial
 ROOT = Path(__file__).resolve().parent
 RULES = 'https://www.nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements'
 PORTAL = 'https://datanashvillegov-nashville.hub.arcgis.com/datasets/b5315bda43ac459281dd35f04aa1be32_0/explore?location=36.185179%2C-86.792167%2C10'
-SCANNER_VERSION = 4
+SCANNER_VERSION = 5
 from hotel_classification import classify_hotel, SOURCES as HOTEL_SOURCES
 FILE_IO_LOCK = threading.RLock()
 
@@ -243,11 +243,11 @@ def collect_listings(root, cache_path):
         lid = listing_id(row)
         if lid:
             rows.setdefault(lid, {}).update({k: v for k, v in row.items() if v not in ('', None)})
-    folders = sorted(p for p in (root / 'listing_results').iterdir() if p.is_dir() and p.name.isdigit())
+    folders = sorted(p for base in [root/'listing_results', root/'listing_results/outside_city_550m'] if base.exists() for p in base.iterdir() if p.is_dir() and p.name.isdigit())
     for folder in folders:
         lid = folder.name
         row = rows.setdefault(lid, {'listing_id': lid, 'url': f'https://www.airbnb.com/rooms/{lid}'})
-        files = [p for p in [folder/'metadata.json', folder/'details.txt'] if p.exists()]
+        files = [p for p in [folder/'metadata.json', folder/'details.txt', folder/'description.txt'] if p.exists()]
         signature = [SCANNER_VERSION, [(p.name, file_signature(p)) for p in files]]
         old = cache.get(lid, {})
         if old.get('signature') == json.loads(json.dumps(signature)):
@@ -269,7 +269,7 @@ def collect_listings(root, cache_path):
                             if ':' in line:
                                 k, v = line.split(':', 1)
                                 saved['header'][k.strip().lower().replace(' ', '_')] = v.strip()
-                        saved['hotel_text'] = text
+                        saved['hotel_text'] = saved.get('hotel_text', '') + '\n' + text
                         text = text.split('=== HOST DETAILS ===')[0]
                     found, amenities = scan_text(text, str(path.relative_to(root)))
                     saved['permits'].extend(found)
@@ -347,6 +347,12 @@ def build(root=ROOT, output=None, as_of=None):
     output.mkdir(parents=True, exist_ok=True)
     permits, by_number = load_permits(root, as_of)
     rows, repairs, warnings = collect_listings(root, root/'.nashville_cache/listing_scan.json')
+    from hotel_submissions import load_hotels
+    hotels = load_hotels(root)
+    for lid in hotels:
+        rows.setdefault(lid, {'listing_id':lid, 'url':f'https://www.airbnb.com/rooms/{lid}'})
+    from city_scope import partition_city_rows
+    rows, excluded_count = partition_city_rows(root, output, rows)
     listings, evidence = [], []
     for lid, row in sorted(rows.items()):
         row['listing_id'] = lid
@@ -371,7 +377,7 @@ def build(root=ROOT, output=None, as_of=None):
                          'title': row.get('title', ''), 'host_name': row.get('host_name', ''),
                          'host_user_id': str(row.get('host_user_id', '')), 'host_profile_url': row.get('host_profile_url', ''),
                          'rental_type': row.get('rental_type', ''),
-                         **classify_hotel(row),
+                         **classify_hotel(row, hotels.get(lid)),
                          'point': point(row.get('longitude'), row.get('latitude')), 'location_name': row.get('location_name', ''),
                          'privacy_radius_meters': number(row.get('privacy_radius_meters')),
                          'bedrooms': number(row.get('bedrooms')), 'guests': number(row.get('occupancy')),
@@ -392,10 +398,13 @@ def build(root=ROOT, output=None, as_of=None):
     spatial = annotate_spatial(root, output, listings, permits, parcels.get('available', False))
     from prepare_nearby import build_nearby
     nearby = build_nearby(root, output, listings)
+    from preliminary_matches import build_matches
+    build_matches(root, output, listings, permits)
     missing_numbers = sum(not p['permit_number'] for p in permits)
     if missing_numbers:
         warnings.append(f'{missing_numbers:,} permit rows have no usable permit number. The supplied Permit # field contains addresses. Direct status matches require real permit numbers or an authoritative permit_number_crosswalk.csv.')
     stats = {'built_at': datetime.now(timezone.utc).isoformat(), 'as_of': as_of.isoformat(),
+             'outside_city_550m': excluded_count,
              'listings': len(listings), 'mapped_listings': sum(bool(l['point']) for l in listings),
              'likely_hotels': sum(l['likely_hotel'] for l in listings),
              'mapped_likely_hotels': sum(l['likely_hotel'] and bool(l['point']) for l in listings),
@@ -432,18 +441,25 @@ def build(root=ROOT, output=None, as_of=None):
 
 
 def input_signature(root):
+    from hotel_submissions import refresh_public
+    refresh_public(root)
     paths = [root/'listing_details.csv', root/'listing_urls.csv', root/'permit_number_crosswalk.csv']
+    paths += [root/'hotels.csv', root/'hotel_sources.json']
+    # Response content, rather than poll time, controls rebuilds.
+    hotel_cache = root/'.nashville_cache/hotel_submissions.json'
+    hotel_content = json.loads(hotel_cache.read_text(encoding='utf-8')).get('rows', []) if hotel_cache.exists() else []
     paths += list((root/'nashville_permits').glob('*.csv')) + list((root/'website_template').glob('*'))
     paths += list(root.glob('Parcels*.geojson'))
     paths += list((root/'data/parcels').glob('*.json')) + list((root/'data/parcels').glob('*.geojson'))
     paths += list((root/'geography').glob('*.geojson'))
-    paths += list((root/'listing_results').glob('*/metadata.json')) + list((root/'listing_results').glob('*/details.txt'))
-    return [(str(p), file_signature(p)) for p in paths if p.is_file()]
+    paths += [root/'nicknames-master/names.csv'] + list((root/'listing_results').glob('*/description.txt')) + list((root/'listing_results').glob('*/metadata.json')) + list((root/'listing_results').glob('*/details.txt'))
+    return [(str(p), file_signature(p)) for p in paths if p.is_file()] + [('hotel_responses', hashlib.sha256(json.dumps(hotel_content, sort_keys=True).encode()).hexdigest())]
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--watch', action='store_true', help='Incremental scan and rebuild when inputs change')
+    parser.add_argument('--skip-initial-build', action='store_true', help='Watch an already freshly rebuilt snapshot without rebuilding it on startup')
     parser.add_argument('--interval', type=int, default=30)
     parser.add_argument('--serve', type=int, metavar='PORT')
     parser.add_argument('--output', type=Path, default=ROOT/'nashville_site')
@@ -473,7 +489,7 @@ def main():
         server = http.server.ThreadingHTTPServer(('127.0.0.1', args.serve), partial(Handler, directory=str(args.output)))
         threading.Thread(target=server.serve_forever, daemon=True).start()
         print(f'Preview: http://127.0.0.1:{args.serve}', flush=True)
-    previous = None
+    previous = [str(args.as_of or date.today()), input_signature(ROOT)] if args.watch and args.skip_initial_build and (args.output/'data/build_report.json').exists() else None
     stop_file = ROOT/'.nashville_cache/STOP'
     def heartbeat(state, **extra):
         try:

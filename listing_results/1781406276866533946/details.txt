@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1781406276866533946
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Have fun with the whole family at this stylish place.
+
+Registration Details
+T2022050279
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Josh
+Host User ID: 347042813
+Host Profile URL: https://www.airbnb.com/users/show/347042813
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Software engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+4 months hosting
+31 reviews
+4.94 out of 5 average rating
+4 months of hosting

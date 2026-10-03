@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1558706962118693003
+Latitude: 36.19484
+Longitude: -86.77628
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This amazing unit is part of a contemporary residential community just minutes from downtown Nashville and its vibrant amenities—restaurants, nightlife, sports venues, and cultural attractions like Germantown, River North, Topgolf, and Nissan Stadium. The location offers convenient access to city life while the residential setting remains relatively peaceful and ideal as a home base for exploring Music City.
+Located in the New River North development just minutes from the airport
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Edward
+Host User ID: 695839589
+Host Profile URL: https://www.airbnb.com/users/show/695839589
+Host Profile URL Source: public user permalink from passport userId
+My work: Realtor
+Fun fact: Annual Dunk Tank Dummy at My Stores
+Response rate: 100%
+Responds within an hour
+8 months hosting
+14 reviews
+4.64 out of 5 average rating
+8 months of hosting

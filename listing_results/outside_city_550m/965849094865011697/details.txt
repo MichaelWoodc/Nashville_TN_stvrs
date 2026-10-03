@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/965849094865011697
+Latitude: 36.37229
+Longitude: -86.70907
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your private Nashville getaway awaits. This renovated cabin offers a queen bed, full bath, Wi-Fi, AC/heat, TV, and easy contactless check‑in. Enjoy a porch swing, fire pit, grill, and resort amenities. Just 20 minutes from downtown with complimentary shuttle service for cabin guests.
+
+The space
+🛏 Sleeps 2
+- Queen‑size bed
+- Fresh, modern décor and beautiful lighting throughout
+🏡 Inside the Cabin:
+- Contactless check‑in
+- Heating & air conditioning
+- TV
+- Microwave
+- Keurig coffee maker
+- Mini fridge
+- Full private bathroom with stand‑up shower
+- Fast, reliable WiFi
+🌟 Resort Amenities Included:
+As our guest, you’ll enjoy full access to all RV park amenities, perfect for relaxing between Nashville adventures.
+Enjoy free shuttle service to Broadway with 24‑hour advance booking. The shuttle runs at 10 AM and 2:30 PM (driver availability required). Guests may also book shuttle services within 25 miles for $20 per person round trip, choosing their own pickup and drop‑off times.
+
+Guest access
+Guest access
+You’ll enjoy complete access to your private cabin, plus your own:
+- Porch swing
+- Grill
+- Fire pit
+- Picnic table
+- Designated Parking spot
+As our guest, you’re also welcome to use all RV park amenities and connect to our complimentary WiFi.
+
+We offer a complimentary shuttle to and from Broadway for our cabin guests. Shuttle times are flexible and can be scheduled based on driver availability. Just let us know when you’d like to go, and we’ll do our best to accommodate your plans.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Unhitched Nashville North RV Park
+Host User ID: 533812938
+Host Profile URL: https://www.airbnb.com/users/show/533812938
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+96 reviews
+4.82 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/9692894
+Title: Welcome to Nashville - 
+Your Pet is Welcome Here
+Latitude: 36.19916
+Longitude: -86.70674
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 4
+occupancy: 7
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+4 bedrooms and 2 baths. About 6 miles from the Lower Broadway Entertainment District and about the same to the Opryland resort area. This trendy area of East Nashville/Inglewood is best known for lunch at Mitchell Deli in the Riverside Village.
+
+The space
+Willow Springs, is almost urban but just removed enough to be in a neighborhood of single family, mid-century brick ranch homes on a tree lined street. This is NashvilleNeighbors largest home with 4 bedrooms and 2 baths. It is about 6 miles from the downtown center/Lower Broadway Entertainment District and about the same distance to the Opryland resort area. 
+
+Homes of this era were built on large lots surrounded by open space and big trees. The driveway takes you downhill to plenty of parking. The keyless front door gives you easy, secure access. Willow Springs has 3 bedrooms on the main level, 1 king, 1 queen and 1 twin in a less private office/flex type space. The upstairs bath has a retro feel with a tub/shower combination and lots of green tile. Downstairs is the 4th bedroom with a queen bed and a 2nd full bath. The wicker chair has a unique story. It was purchased/recycled from a local Nashville radio station where it graced their waiting room. You could say, "Willie Nelson sat here".
+
+The kitchen is complete with dishes, toaster, microwave, coffee maker and dishwasher. Dining space for 4 at the kitchen table, 4-6 more in the dining room. Downstairs there is a 3rd table for games. The laundry room has a full sized washer and dryer. Wireless internet is available throughout the house. Bed linens and towels are provided. Starter supplies like paper towels, soap and TP are also stocked. Pack n Play portable crib and Aerobed are available for a small additional fee.
+
+Our homes are professionally cleaned and maintained and will be ready when you arrive. With your confirmed reservation you will be provided with the door code combination along the home’s address and other vital information.
+
+The backyard is big and open to a seasonal creek. This could pose a limit to some families with small children. If you have time in your busy sightseeing itinerary the Willow Springs home is only a block away from the northern end of the Shelby Bottoms Greenway trailhead. A level, paved one mile loop makes for a pleasant morning bird watching adventure. One day I stuck my head through the trees along the path and had a “Tom Sawyer” moment. There on the bank of the Cumberland River sat the General Jackson, a grand restored paddle wheeler. It is moored at the Opryland headquarters and takes off each day on tours down the river. From the house you can hear the classic “toot - toot” of the sternwheeler.
+
+Guest access
+This is a private home and you will have unlimited private access with your personalized access code. Once you have arrived there is plenty of parking down the driveway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bryan
+Host User ID: 18206932
+Host Profile URL: https://www.airbnb.com/users/show/18206932
+Host Profile URL Source: public user permalink from passport userId
+Our story is a little unusual.  We wear two fairly distinct hats.  Our first hat looks more like the almost retired, middle aged couple in Nashville.  We manage our vacation home rental business and rehab houses for resale, enjoy live music, local dining and travel.  Zip - across country and put on the other hat.  Mom, dad, grandma, and grandpa.
+Born in the 50s
+My work: Mostly retired
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+359 reviews
+4.81 out of 5 average rating
+12 years of hosting

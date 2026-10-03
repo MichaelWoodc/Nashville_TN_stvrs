@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/714324027977243242
+Latitude: 36.1442
+Longitude: -86.8202
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 6
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Lipstick & Boots blends style and space across three private levels in West End: a King suite with private bath, a Queen suite with workspace and bath, and an open-concept social floor with chef's kitchen and coffee bar. Enjoy private 2-car garage parking (skip the $40/night Broadway fees), statement mirrors and lighting for getting ready, and a spot 10 minutes from Vanderbilt, Centennial Park, and West End's best brunch. Professionally hosted with organic cleaning supplies and 24/7 support.
+
+The space
+The Layout for Groups:
+⬥ 3rd Floor (The Royal Retreat): A massive King bed, single fold-away, and private en-suite bathroom. Total privacy at the top.
+⬥ 2nd Floor (The Suite): Two Queen beds, a single fold-away, a dedicated workspace/desk, and a private en-suite bathroom.
+⬥ 1st Floor (The Social Hub): Open-concept living with a chef’s kitchen, coffee bar (grinder + fresh beans), and a sleeper sofa for extra guests.
+
+Why You’ll Love It:
+⬥ Secure Parking: Private access to an undercover garage with 2 dedicated spots. Skip the $40/night Broadway or $60 hotel parking fees.
+⬥ The Glam Factor: High-end mirrors and lighting make this the perfect spot for getting ready before a night at the Honky Tonks.
+⬥ Walkability: 10 minutes to Vanderbilt, Centennial Park, and West End’s best brunch spots (Maggiano’s, BrickTop’s).
+
+Guest access
+Enjoy full, private access to the entire condo, in-unit laundry, and a secured garage via a 100% contactless digital lock code.
+
+Other things to note
+To ensure a secure stay, we will send a quick digital sign-off link immediately after your booking. Simply complete this brief check-in form to automatically release your full arrival instructions and property access codes prior to your check-in date.
+
+Early Check-In:
+We take pride in our 5-star cleaning standards. Because our professional crews need the full window to prepare the estate, early check-ins are not guaranteed and must be requested by messaging us.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 478827477
+Host Profile URL: https://www.airbnb.com/users/show/478827477
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m Mark— here to make your vacation truly unforgettable.
+
+Together with my brilliant and thoughtful team, we're here to make your vacation GREAT! Our Property Curators are 100% focused on your comfort. It is our job to ensure you feel taken care of every step of your trip! We know we are here because of YOU and we feel this differentiates us from so many other hosts in the market!
+
+Let us know how we can make your stay a 5-Star stay!
+Born in the 70s
+Where I went to school: South Africa
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+1593 reviews
+4.87 out of 5 average rating
+4 years of hosting

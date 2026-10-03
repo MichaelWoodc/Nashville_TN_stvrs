@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1642083523137799411
+Latitude: 36.2432
+Longitude: -86.7372
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bright & Sunny 2-bedroom Nashville townhome with stylish design and touches of Nashville flair, close to all the action yet tucked away for a relaxing stay. Enjoy a cozy layout with plush living spaces, a fully equipped kitchen, and a rooftop deck. Conveniently located 6 miles to Downtown Nashville, under 5 miles to Gaylord Opryland, the Grand Ole Opry, and Opry Mills Mall, and 12 miles to BNA Airport. Perfect for families or groups visiting Music City.
+
+The space
+Bright & Sunny 2-bedroom Nashville townhome with stylish design and touches of Nashville flair, close to all the action yet tucked away for a relaxing stay. Enjoy a cozy layout with plush living spaces, a fully equipped kitchen, and a rooftop deck. Conveniently located 6 miles to Downtown Nashville, under 5 miles to Gaylord Opryland, the Grand Ole Opry, and Opry Mills Mall, and 12 miles to BNA Airport. Perfect for families or groups visiting Music City.
+
+Guest access
+Seamless Self Check-In: No need to coordinate key meetups or worry about late flights. The front door is equipped with a Yale smart lock for secure, hassle-free keyless entry.
+
+Your Unique Code: Before your arrival, you will receive a personalized digital access code unique to your stay, which activates exactly at your check-in time.
+
+Full Private Access: Guests have exclusive, private access to the entire 2-bedroom townhome and the private rooftop deck throughout their stay.
+
+Other things to note
+🛋️ Open-Concept Living & Dining
+Sun-Drenched Spaces: Large windows flood the open layout with beautiful natural light, highlighting the chic, Nashville-inspired modern decor.
+
+Plush Seating: A comfortable, stylish living room setup perfect for relaxing after a day on Broadway or gathering the group to plan the evening.
+
+Smart Entertainment: Equipped for streaming your favorite shows or setting the perfect pre-game playlist.
+
+🍳 Fully Stocked Chef's Kitchen
+Modern Appliances: Full suite of stainless steel appliances, ample counter space, and a large island perfect for socializing while cooking.
+
+Fully Equipped: Stocked with all essential cookware, dinnerware, glassware, and extras like baking sheets for morning treats or family-style dinners.
+
+🛏️ Comfortable Sleeping Arrangements
+Two Private Bedrooms: Designed with premium mattresses, crisp linens, and blackout considerations to ensure a restful night’s sleep.
+
+Flexible Group Setup: Thoughtfully arranged to comfortably accommodate up to 6 guests without feeling crowded.
+
+🌆 Private Rooftop Deck (The Crowning Jewel)
+Outdoor Living: Your own private oasis under the Tennessee sky. Skip the crowded downtown rooftops and unwind here with your morning coffee or a sunset cocktail.
+
+Scenic Vibes: Elevated views providing a relaxing, breezy spot to hang out and enjoy the weather.
+
+🌟 Extra Amenities for a Seamless Stay
+Climate Controlled: High-efficiency central air conditioning to keep you cool during warm Southern summers.
+
+Convenient Access: Lit path to the guest entrance for easy, safe arrivals no matter what time your flight lands.
+
+Safety First: Equipped with smoke alarms, carbon monoxide detectors, and an exterior security camera for peace of mind.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kendra
+Host User ID: 319918466
+Host Profile URL: https://www.airbnb.com/users/show/319918466
+Host Profile URL Source: public user permalink from passport userId
+My work: Recorder
+Favorite song in high school: Give Me One Reason-Tracy Chapman
+Response rate: 100%
+Responds within an hour
+2 years hosting
+9 reviews
+5.0 out of 5 average rating
+2 years of hosting

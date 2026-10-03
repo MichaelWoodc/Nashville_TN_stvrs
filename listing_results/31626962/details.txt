@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/31626962
+Latitude: 36.13661
+Longitude: -86.83493
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 2
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Looking for a luxurious house with privacy for everyone? This beautiful 4000+ Square Ft Home is complete with a 32x16 pool, hot tub, and a pool table, providing plenty of options to entertain you.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+The Lauderdale House (permit # CASR-201528747) is a large 5.5-bath luxury home in the prestigious Cherokee Park neighborhood in Nashville. Privacy for everyone with this house!   We can easily sleep  12 people in beds with a lot of privacy,  but Nashville codes only allow us to list up to 4 bedrooms, and we must respect that ruling or be fined. 
+
+HOUSE INFORMATION: 
+
+New saltwater pool, hot tub, pool table, and plenty of king beds and private spaces, this home is our flagship property: the ultimate in comfort and privacy for girl's weekends, business groups,  or multiple families.  
+
+Inside this 4000+ sf home, you’ll find five king beds, one queen bed, one full bed, and one twin. And with 5.5 spacious baths, (and 3 water heaters!) access to showers and tubs is not a problem.   
+
+There is a spacious and well-equipped kitchen, a living room/dining room with wood wood-burning fireplace, a media room with a big screen TV, cable, Blu-Ray player and disc library, a full-size pool table in the library room, and of course, 5 ½ bathrooms. Other amenities include a large library, washer & dryer, a great assortment of small appliances for the kitchen, board games, hairdryers in each bathroom, iron & ironing board, and high-speed WIFI.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg
+Host User ID: 34410548
+Host Profile URL: https://www.airbnb.com/users/show/34410548
+Host Profile URL Source: public user permalink from passport userId
+I own a company here in Nashville that produces multimedia and interactive entertainment.  In addition,  we have been managing our own Vacation Rental properties since 2014.  We have a great support team assembled that makes the whole process run like a well oiled machine.  We look forward to hosting you soon in Music City!  GP
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+674 reviews
+4.76 out of 5 average rating
+8 years of hosting

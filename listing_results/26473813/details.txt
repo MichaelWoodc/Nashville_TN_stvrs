@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/26473813
+Latitude: 36.1152
+Longitude: -86.7645
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in walking distance to some of Nashville's favorite coffee shops, restaurants, and boutiques. Dogwood House is an inviting cottage in Nashville. Recently renovated in June 2018, new everything. 
+
+4 Mi to Tootsies on Broadway Downtown
+~10 Min Lyft/Cab/Uber
+~$9 in Lyft* not including surge pricing
+
+3 Mi to Vanderbilt on West End
+~11 Min Lyft/Cab/Uber
+~$11 in Lyft*
+
+4.2 Mi to Titans Stadium
+~13 Min Lyft/Cab/Uber
+~$10 in Lyft*
+
+City of Berry Hill STRP Permint: #2018-06-26-030
+
+The space
+Renovated in June 2018, this space was created specifically with a Nashville vacay in mind! Dogwood House is about creativity and relaxation. All art in the house come from various Nashville Artists, for more information about the art please contact the Host.
+
+Bedroom 1: King Bed, Closet and Dresser
+
+Bedroom 2: Queen Bed, Closet.
+
+Suite: 2 Queen Beds, extra large bathroom, closet, changing area.
+
+Living Room: Queen Pull out Sofa
+
+Guest access
+You will have access to the entire home, from the front door and roll up door. Remote access will not be provided, however keys and codes will be provided as necessary.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristin
+Host User ID: 109712828
+Host Profile URL: https://www.airbnb.com/users/show/109712828
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native. I have loved growing up with my city. I’m so excited to share Nashville with everyone I meet! I created my rentals with a Nashville vacay in mind. Please don’t hesitate to let me know how I can help you get the best out of your stay in Nashville!
+Born in the 80s
+Fun fact: I have an eidetic memory.
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+429 reviews
+4.87 out of 5 average rating
+8 years of hosting

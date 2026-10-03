@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/50440855
+Latitude: 36.1957
+Longitude: -86.7742
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Featured on MTV's Jersey Shore! Luxury vacationing in Music City at it's finest! Brand new modern luxury home in East Nashville with the best skyline view in the city. This home has every amenity imaginable including an elevator to all floors, hot tub, brand new putting green, pool table, whole home audio system, and a rooftop terrace with views that you have to see to believe!  Only a 5 min drive to Broadway and 3 min drive to Top Golf. Book today and enjoy a 5 star resort like experience!
+
+The space
+This is a 4 bed/4 bath home in East Nashville. The master includes a king size bed with private balcony overlooking Nashville's skyline and huge master bath with oversized walk in shower, soaking tub w/ skyline views, heated floors and heated towels. Bedroom 2 features a queen over queen bunk with private bath. Bedroom 3 features a queen bed with a full bath. Bedroom 4 also features a queen bed with full bath. There is also a queen pull out in the downstairs living area and futon in the bonus room on the top level. All beds have memory foam mattresses. 
+
+The home also features a hot tub, gas BBQ grill, elevator access to all 4 levels, whole home surround sound (play audio from your phone or Pandora, 4 outdoor patio areas including the rooftop terrace with covered and uncovered access & a fire pit overlooking Nashville's beautiful skyline.
+
+All properties are contactless checkin. Please be sure to arrive to checkin between 4pm & 8pm. If you do arrive later, you will still be able to checkin but may not have assistance if needed. Checkin time is always 4pm unless approved in writing by management. If you book and edit your checkin time to be earlier than 4pm, you will not be able to checkin until 4pm.
+
+If making a reservation with a same day checkin, checkin time is subject to change depending on cleaning schedule for that day.
+
+Sorry, we do not host locals. Any local that books this property without contacting management first for approval will have the reservation canceled without refund.
+
+Guest access
+Guests will have access to the whole home. Management will be available if needed.
+
+Other things to note
+Listing Provided by Chady Property Management
+
+- You may be asked to complete documentation such as a rental agreement or provide other information for Chady Property Management after booking reservation.
+- Sorry, we do not host locals. Any local that books this property without contacting management first for approval will have the reservation canceled without refund.
+-Please do not re-stage or move any furniture during your stay to prevent damage and maintain the property’s condition.
+- No pets allowed. We love pets, but unfortunately, they’re not allowed at this property. Please note that an unauthorized pet will result in a $500 fee.
+- For reservations that are made through platforms other than Airbnb and HVMB, and guest is entitled a refund, guest will be charged a 3% credit card processing fee that is deducted from their refund.
+
+To help us maintain a clean, safe, and enjoyable home for all guests, we ask that you follow our house rules. The fees below cover the additional costs of rule violations, extra cleaning, or damages needed to restore the property to its original condition.
+
+$500 - Smoking inside the property 
+$500 - Unregistered guest(s)         
+$500 - Unregistered pet(s)         
+Minimum $150 - Excessive trash requiring additional cleanup or removal 
+Actual cost incurred - Excessive cleaning beyond normal turnover 
+Actual repair or replacement cost - Damages to the property, furnishings, or amenities 
+Replacement cost - Missing or stolen items
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chady Property Management LLC
+Host User ID: 407199764
+Host Profile URL: https://www.airbnb.com/users/show/407199764
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4198 reviews
+4.78 out of 5 average rating
+5 years of hosting

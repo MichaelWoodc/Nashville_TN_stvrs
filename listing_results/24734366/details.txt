@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/24734366
+Latitude: 36.19533
+Longitude: -86.73887
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in trendy East Nashville neighborhood with close proximity to some of the best restaurants, bars, coffee shops, and music venues around. Perfect home to gather around friends and enjoy Music City!
+
+The space
+• 2 level / 3 bedroom / 3 bathrooms (2 en-suite)
+• Full kitchen with all cooking necessities
+• Living Room with a flat screen TV that is connected to Roku for connection to your NetFlix/Amazon Video, etc.
+•TV is accessed through Roku. THERE IS NO CABLE. 
+• Beds include new queen mattresses and pillows
+• 2 parking spots are available for off-street parking. Additional parking may be available BEHIND your cars if you park in front of one another. 
+• List of best resturants, bars, and breweries in town upon your arrival.
+• Coffee, creamer, and sugar provided.
+
+Guest access
+• Off-street parking is limited to TWO spaces directly behind the house.
+• You have the home all to yourself.
+
+Other things to note
+• Check in is at 4pm
+
+• Check out is promptly at 10am. If you check out after 10am, an additional $50/hour will be added to your reservation. Please check out on time :)
+
+• Host and guest can discuss different check in / out times, if available. Please note that the host may not be able to accommodate the request. 
+
+• QUIET HOURS are to be observed from 10pm - 7am. We do NOT allow parties, loud music, or anything else that will disturb the neighbors. If noise complaints are received by neighbors, guests will be asked to vacate the property immediately and without refund
+
+• I do comply with local regulations and have a Short-Term Rental Permit issued by Davidson County Metro, which is displayed in the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 186984255
+Host Profile URL: https://www.airbnb.com/users/show/186984255
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+8 years hosting
+255 reviews
+4.9 out of 5 average rating
+8 years of hosting

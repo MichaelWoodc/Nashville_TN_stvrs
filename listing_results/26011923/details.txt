@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/26011923
+Latitude: 36.29279
+Longitude: -86.69078
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Minutes to Downtown yet enjoy a private quiet neighborhood. 
+The Mint Julep offers the entire house with a private deck for morning coffee & wildlife watching or late night gathering.  
+Something for everyone. 
+Pet members are aloud with an additional cleaning fee. Ask Mo.
+
+The space
+You will have entire first floor and deck to yourself.  3 full bedrooms and a blowup mattress if needed. 
+The basement is a separate rental with one guest and a private separate entrance.
+
+Guest access
+You will have a front and back private entrance.
+
+WITHIN A BLOCK
+~Starbucks
+~Panera
+~Chick-fil-A
+~ Various food choices
+
+WITHIN A 10 MINUTE DRIVE
+~East Nashville and the best coffee, food, and beer spots
+~Opry Mills 
+
+WITHIN A 20 MINUTE DRIVE
+~ Downtown
+~Honky-Tonks (Tootsies!)
+~Bridgestone Arena
+~Nissan Stadium
+~ Ryman Auditorium
+~Johnny Cash Museum 
+~Country Music Hall of Fame
+
+Other things to note
+Be prepared to come enjoy Nashville as well as a cozy home away from home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mo
+Host User ID: 183007116
+Host Profile URL: https://www.airbnb.com/users/show/183007116
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+395 reviews
+4.87 out of 5 average rating
+8 years of hosting

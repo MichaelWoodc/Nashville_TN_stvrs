@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/44063282
+Latitude: 36.21509
+Longitude: -86.73413
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming ENTIRE home in hip East Nashville.  Cute and freshly renovated home offers 3 bedrooms & 2 baths with a spacious master suite.  Stay in an area that has quickly become one of Nashville's hottest neighborhoods.  Full of amazing restaurants, bars, and coffee shops, East Nashville is the "It" spot.  With easy access to the interstate, downtown Nashville & Broadway is only 10 minutes away and Nashville Int'l Airport is a mere 15 minute drive.
+
+The space
+This newly renovated and cozy home has three bedrooms & two whole baths.  The master suite has two queen size beds and plenty of space (please note that the third bedroom is a 'walkthrough' room between the main living area and the master suite).  There is also a large couch and air mattress available for extra sleeping arrangements in the living room, if necessary. The kitchen is fully equipped and connected to a dedicated dinning room that can also double as a remote office or workspace. The living room is spacious with plenty of sunlight and is the perfect spot to entertain. Please note that the entire main level of the house is yours during the stay, however there is a loft apartment on the second floor of the house that is a separated owner’s quarters.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cameron
+Host User ID: 280997192
+Host Profile URL: https://www.airbnb.com/users/show/280997192
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+224 reviews
+4.89 out of 5 average rating
+5 years of hosting

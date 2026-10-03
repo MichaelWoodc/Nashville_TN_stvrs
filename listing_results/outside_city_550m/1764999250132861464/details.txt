@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1764999250132861464
+Latitude: 36.35379
+Longitude: -86.51461
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind in this spacious and serene space.
+
+The space
+The guest room and private bath is upstairs.  Please be aware that this is an owner occupied property, the way Airbnb was originally designed. It also means that there are private items and “stuff” typical of someone’s home. While we are proud to have a squeeky clean home, you might find the occasional dog toy or personal item. Enjoy the feeling of being someone’s guest who wants nothing more than for you to have a good experience.
+
+Guest access
+You are renting the bedroom and bathroom. The bathroom is not attached. 
+Feel free to use the common area upstairs with couch, TV, games, coffee maker and fridge. 
+Please be courteous and reduce noise after 10:00 pm. 
+
+Laundry, kitchen, office might be available upon request and with special permission. The host is kind enough to share those with you, so please be respectful of the property. 
+
+There is a hot tub on the property and you might be able to use it, but please get permission from the host first. Some days they might not be available, please do not use without permission! 
+
+If using the hot tub, you agree to comply with all rules and in your own risk. 
+
+1) This is a private hot tub and it is not part of the rental. The host is keeping it clean but it most likely wasn’t cleaned right before your arrival. Please treat it as a special treat, whisper and relax.
+2) Bathing suit must be worn since there is not much privacy 
+3) Shoulder length hair must be in a ponytail 
+3) Remove all product build up such as deodorant and soap and make-up.  (baby wipes are in the upstairs bathroom)
+4)  Only clean bodys please! The water is pristine and I like to keep it that way. 
+5) The lid is fragile, please lift it gently and rest it on the congrete, leaning against hot tub. The host will help you. 
+6) Pool towels provided by the host
+
+During your stay
+Please use texting in this app for communication. Most likely we will be happy to socialize with you, watch TV, play a game or craft if you would like company. Or we can stay completely out of your way. What ever you prefer,  just let us know.
+
+Other things to note
+The bathroom, snack area and fridge has some extra items. Basically anything one would need. Please help yourself and use what you need (or text and I might have it), but be considerate and don’t take things out of the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kora
+Host User ID: 72396027
+Host Profile URL: https://www.airbnb.com/users/show/72396027
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Psychotherapist
+Favorite song in high school: Breakfast in America
+Speaks German
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+3 years hosting
+6 reviews
+4.83 out of 5 average rating
+3 years of hosting

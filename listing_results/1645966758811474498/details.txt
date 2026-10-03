@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1645966758811474498
+Latitude: 36.08642549600586
+Longitude: -86.62349377446398
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+MUSIC CITY BIRD HOUSE- A minimalist style space dedicated to Nashville’s native birds, with private access. Our priority is offer to our guests a safe, clean, calm and completely private space. Just minutes from BNA airport, 20 min from downtown and very close to Percy Priest lake. It features a charming outdoor porch and all the amenities for a comfortable stay for a couple.
+
+The space
+Our property is located at the east of Nashville; 11-12 min from BNA airport and 13 miles from downtown, in the nearby Percy Priest lake. The neighborhood is quiet and trees populated; with diverse popular food, groceries, gas, banks and drug stores. Which allows our guests to plan, enhance and enjoy their experience visiting Music City, and be out of the city stress.
+
+Guest access
+Free parking at promise. Private access with a key box open entering a cod where the key is secured. The access sidewalk illuminated in evenings. Stairs to reach the space.
+
+Other things to note
+The place is totally private, no shared areas. You will have a designated parking space. The clothes wash/dry is available under previous request; regular laundry soap available. If you use a preferred soup is on you. Coffee maker is available, limited K cups and more grind coffee. We ask a special caring on key handle so it doesn’t get lost.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: William & Nelly
+Host User ID: 410300244
+Host Profile URL: https://www.airbnb.com/users/show/410300244
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+311 reviews
+4.92 out of 5 average rating
+5 years of hosting

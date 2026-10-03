@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/26426616
+Latitude: 36.34516
+Longitude: -86.71046
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located 12 minutes to Nashville, this beautiful home has been completely remodeled with luxurious amenities. The main floor has a very large and open floor plan allowing everyone to gather and enjoy one another's company. This home has a beautiful, extremely over-sized, Chef's kitchen with all new and modern appliances. Perfect for a family reunion, fun getaway, or business travel! This home has 4 bedrooms, 3 full bathrooms.
+
+The space
+Features:
+-3 King size beds in private rooms
+-1 queen room with twin bunks
+-Fully equipped Chef's kitchen
+-75" smart TV in family room; 75" smart tv in upstairs master and 55" in other bedrooms
+-Beautiful backyard with lots of sightings of nature (birds, deer, bunnies and other wildlife)
+
+We love living in Nashville and are thrilled to have a modern, comfortable home for others to use while they enjoy and explore the city! The space is open and inviting, with lots of room to be comfortable. The home offers upscale amenities such a gas range and fully equipped kitchen, stainless steel appliances, smart TVs in the living space and bedrooms, and much more.
+
+Room 1: King bed, Daybed (2twin), private attached bath with shower & jacuzzi tub
+
+Room 2: King bed, 1 rollaway twin, attached bathroom with shower.
+
+Room 3: King bed, 1 rollaway twin, shared bathroom with room #4, shower.
+
+Room 4: Queen bed, 1 bunkbed (2 twin), 1 chaise lounge (small bed for a child or sitting area for 2) shared bathroom with room #3, shower
+
+Guest access
+Guest access
+You will have access to 4 bedrooms, 3 full bathrooms, large chef’s kitchen, living room, formal dining room, and parking.
+
+Other things to note
+True hospitality is an opportunity to show love and care to those that come through the front door. This mission is accomplished when a guest leaves your home feeling stronger and better about themselves and they depart inspired and ready to make their mark on the world.
+
+My home has 3 stories. The top two floors have a private, front-door entrance with access to 4 bedrooms, large eat-in kitchen,  formal dining room, family room and 2nd story porch for viewing beautiful backyard. My home also has another space, the lower level/basement has been converted into an apartment/mother-in-law suite. It has its own private back-door entrance. The driveway is shared space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Belinda
+Host User ID: 41207602
+Host Profile URL: https://www.airbnb.com/users/show/41207602
+Host Profile URL Source: public user permalink from passport userId
+Our family love hosting guests, and investing in real estate. Our backgrounds are school administrator and restaurant owner so naturally our airb&b side hustle provides us the opportunity to use our gifts and talents of service and hospitality to welcome you. We have 2 amazing kids and a Persian cat. We look forward to hosting you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+339 reviews
+4.89 out of 5 average rating
+8 years of hosting

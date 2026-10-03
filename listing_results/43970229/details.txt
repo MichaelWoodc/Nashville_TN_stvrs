@@ -1,0 +1,108 @@
+URL: https://www.airbnb.com/rooms/43970229
+Latitude: 36.15489
+Longitude: -86.81878
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Short ride to downtown, Broadway, Demonbreun St, Bridgestone Arena & Nissan Stadium. 
+★★★★★ NO fee for additional guests 
+★★★★★ NO fee for early check-in when available 
+★★★★★ NO fee for dropping off bags before check-in time 
+★★★★★ NO fee for leaving bags after check-out time
+
+The space
+This home is brand new, newly furnished, four story, 4 bedroom, 4 bathroom home. Every item in the house is brand new. Views from the rooftop are amazing! Each of the 4 bedrooms features beds ranging from single to king. There are additional sleeping options in the spacious living room.
+
+Towels, linens, iron & board, hair dryer, washer and dryer, Wi-Fi and many more amenities are all provided.
+
+*** BEDROOM 1 (1st Floor) ***
+
+★ 2 Twin Daybed with Trundle - 4 Twin Beds
+
+★ Private Bathroom
+
+** BEDROOM 2 - MASTER (2nd Floor) **
+
+★ King Bed
+
+★ 2 Roll Away beds
+
+★ 43" TV with Roku and Xfinity Cable options
+
+★ Private Master Bathroom
+
+*** BEDROOM 3 (2nd Floor) ***
+
+★ Queen Bed
+
+★ Private Bathroom
+
+** BEDROOM 4 (3rd Floor) **
+
+★ 2 Full Beds
+
+★ Private Bathroom
+
+** LIVING ROOM **
+
+★ Queen Bed Pullout Couch
+
+★ 65" TV Xfinity Cable
+
+** KITCHEN/DINING **
+
+★ Large Chefs Kitchen
+
+★ Chrome Finishes
+
+★ Coffee Maker
+
+** ROOFTOP WET BAR **
+
+★ Mini Fridge
+
+★ Stone Countertop
+
+★ Opens thru sliding glass door to Balcony
+
+** GAMEROOM/GARAGE **
+
+★ Table Tennis
+
+★ Sitting Area
+
+★ Nice Stone Grey Finishing Floor
+
+** PARKING **
+
+★ 2 Car Parking Space behind the Garage
+
+★ 1 Space in Front of the Front Door
+
+★ Plenty of Street Parking
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jane
+Host User ID: 352192409
+Host Profile URL: https://www.airbnb.com/users/show/352192409
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+140 reviews
+4.94 out of 5 average rating
+6 years of hosting

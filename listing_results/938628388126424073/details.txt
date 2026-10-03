@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/938628388126424073
+Latitude: 36.1803
+Longitude: -86.8082
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just 2 miles from Broadway, this spacious 700 sq ft corner condo offers free parking, fast Wi-Fi, a large iving room, full kitchen with dishwasher, and in-unit washer/dryer. 2x the size of most hotel rooms and perfect for work or relaxation. Kitchen is well stocked so you can cook meals. Quick, friendly support, I try to reply within minutes, and almost always under an hour. Direct phone number provided to reach us if needed.
+
+Free Parking!
+Full Size Bed
+Sleeper Sofa
+Bathroom essentials provided
+
+The space
+The condo has a bedroom with a TV and walk in closet.  Ironing board, iron, fan and extra pillows provided.  
+The living room is an open space shared with the kitchen.  It includes a sleeper sofa, chair, bench, dining table and TV.  Cooking supplies are also provided (pots and pans, colander, knives, silverware, plates, etc.)
+Bathroom is stocked with shampoo, conditioner, and body wash.  Make up wipes also provided.
+
+Guest access
+You will have access to the entire condo.
+
+Other things to note
+Free parking in building parking lot (back of buliding).  Free wifi.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rob
+Host User ID: 510325186
+Host Profile URL: https://www.airbnb.com/users/show/510325186
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Indiana University
+Lives in Nashville, Tennessee
+3 years hosting
+25 reviews
+4.88 out of 5 average rating
+3 years of hosting

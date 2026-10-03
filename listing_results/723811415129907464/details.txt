@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/723811415129907464
+Latitude: 36.16801
+Longitude: -86.79954
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Garret! A hidden gem tucked away in downtown Nashville, this cozy suite is ideal for the solo traveler or work trip, a couple's vacay, or a bestie getaway.  Whether you're hitting the night scene on Broadway, browsing shops in the Gulch, exploring Nashville's history and culture in one of its many museums, or dining at one of the city’s award-winning restaurants, The Garret is the perfect home base for your stay.
+
+The space
+Fresh, modern design and clean interior, this 1-bed/1-bath guest suite is the perfect place to call home while you explore all that Nashville has to offer. If you’re craving a homemade meal, you can easily cook in this fully stocked kitchen equipped with your basic cooking essentials–complete with stainless steel appliances. If you need to do a load of laundry you can take advantage of the GE Profile washer/dryer combo. End the day falling asleep in the queen-sized Nectar mattress with cooling memory foam. The possibilities are endless! However you choose to spend your day, The Garret is the perfect stay.
+
+This 1-bed/1-bath guest suite is the full second story of my garage which is a totally separate structure behind my home. You'll have your own private entrance, accessible through the alley, free parking for one vehicle in the driveway, and you'll have the place all to yourself. This is a non-smoking property.
+
+Guest access
+Guests will have access to the entire second-story apartment with free parking for one vehicle in the driveway directly in front of the steps to the entrance to the property. Guests will not have access to the garage.
+
+Other things to note
+* This property is on the second floor and will require guests to be able to climb a flight of stairs. The ground floor is a garage which is used by the owner of the property and is not available for guest usage. 
+
+* The first two guests are included in the listed nightly price. For additional guests (maximum of 4 guests total), there is a $60/night per guest fee that will be added when you select the number of guests when making your reservation. 
+
+* Check-in is 3:00pm CST or after on arrival date. I accommodate early check-ins when possible. In some situations, there may be an added fee to expedite cleaning services. Check-ins before 1:00pm would likely require booking the previous night at a discounted rate. Please contact me for details and I will do my best to work with you.
+
+*Check out is by 11:00am CST. Late checkouts are typically not possible due to guests checking in later that day. I will accommodate when I can. Any checkout after 11:00am CST not discussed with me is subject to an additional $75 late checkout fee.
+
+*Unfortunately, I am not able to accommodate holding luggage prior to check-in or after checkout. There are several luggage locker services in downtown Nashville that are relatively inexpensive that you can use so you don't have to carry your luggage around with you.
+
+* No pets of any kind allowed. Unauthorized pets, including emotional support animals, will incur a $250 deep-cleaning fee as well as immediate dismissal from the property. Service dogs will be accommodated as the law requires, but please make me aware of the service dog when booking your reservation as I do not allow animals under any other circumstances and will need to plan accordingly for potential guests with allergies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 23973915
+Host Profile URL: https://www.airbnb.com/users/show/23973915
+Host Profile URL Source: public user permalink from passport userId
+My work: Remote/Airbnb host
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+343 reviews
+4.99 out of 5 average rating
+5 years of hosting

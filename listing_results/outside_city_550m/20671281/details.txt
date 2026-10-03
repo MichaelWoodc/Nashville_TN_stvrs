@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/20671281
+Latitude: 36.0212
+Longitude: -86.9684
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape life’s cares on the private porch with the sounds of the creek below. Indulge in a chic cottage that is filled with special touches, including a porcelain claw-foot tub, locally made ceramics, and charming Nashville accents. 
+
+We have recently added a second cottage with a bedroom and en suite bathroom with its own private entrance off the porch. For guests interested in booking both units, please message us for availability!
+
+Queen size bed, sitting area, covered porch, parking, small dining area, kitchen includes refrigerator, sink, microwave, appliances, and induction cooktop.
+
+covered dining/pergola next to the creek, pack-and-play available upon request
+
+Owners available via phone during your stay, often we will greet you on arrival if your travel plans are shared with us.
+
+Pasquo cottage is set on the hillside of a 5-acre property, next to a 200-year-old home that served as a hospital in the civil war. It's on the western edge of Nashville, off Highway 100 and Sneed Road. The famous Loveless cafe is one mile away.
+
+We are 15 minutes from downtown Franklin, 25 minutes to Leaper's Fork, 15 minutes to Green Hills, 20 minutes to Downtown, 30 minutes to the Fontanel.  Grocery, Starbucks, and restaurants are less than 5 minutes away in Bellevue.  And don't forget the Loveless Cafe!  Our closest restaurant to the house is world-famous for their biscuits, southern food, BBQ, and shops.  Uber/Lyft available.
+
+The space
+Queen size bed, sitting area, covered porch, parking, small dining area, kitchen includes refrigerator, sink, microwave, appliances, and induction cooktop.
+
+Guest access
+covered dining/pergola next to the creek, pack-and-play available upon request
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heather
+Host User ID: 71647769
+Host Profile URL: https://www.airbnb.com/users/show/71647769
+Host Profile URL Source: public user permalink from passport userId
+Traveler, wife, nurse practitioner
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+577 reviews
+4.93 out of 5 average rating
+9 years of hosting

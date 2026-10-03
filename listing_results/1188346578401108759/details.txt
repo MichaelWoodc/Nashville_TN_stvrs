@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1188346578401108759
+Latitude: 36.16984
+Longitude: -86.75743
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect layout for large groups who still want their space and privacy from each other with 2900 sq ft! The upstairs has the option of its own entrance. 2 kitchens. 2 dining rooms. Plenty of private parking and huge fenced in back yard. 
+
+please note: the internal staircase is very steep. There is an option of an external staircase and we do not recommend anyone with mobility issues stays upstairs.
+
+The space
+The downstairs has two bedrooms, a full bath, living room, dining room, kitchen, and a laundry room that connects to a staircase to the upstairs. There are also exterior stairs to the upstairs. 
+
+Exterior steps lead to a balcony that overlooks the backyard and offers another entrance to the upstairs where we have another kitchen, 3 bedrooms, and bathroom. 
+
+Across the backyard is another suite with its own seating area, bed, full bathroom, and kitchenette sink.
+
+Other things to note
+STRP#2024035762
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 584037173
+Host Profile URL: https://www.airbnb.com/users/show/584037173
+Host Profile URL Source: public user permalink from passport userId
+A southerner with a passion for music, design, great food, and hospitality!
+Born in the 90s
+Where I went to school: UT Austin
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+261 reviews
+4.95 out of 5 average rating
+2 years of hosting

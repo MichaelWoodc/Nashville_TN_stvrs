@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/638579165694578868
+Latitude: 36.15116
+Longitude: -86.75349
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This modern, new construction 3-story home is perfect for friends and families who want to be close to all that Nashville has to offer. 
+
+Easy access to downtown Broadway as well as other venues such as Hard Rock Cafe, Bridgestone, Nissan Stadium, countless live music venues, two music museums, shopping, and more.
+
+Only 10 minutes to Nashville BNA and 15 minutes to the Grand Ole Opry.
+
+The space
+Relax and drop your bags in the spacious foyer before entering the open living/dining/kitchen area.  Enter the kitchen to find a modern classic kitchen equipped with upgraded kitchen essentials to meet all of your cooking needs. Escape the heat or just wind down after a night out with Netflix, Hulu, Prime video and more on one of 3 smart TVs. Upstairs, choose from one of the soothing three bedrooms also equipped with smart TVs.  At the end of the day, relax in the deep soaking tub while enjoying your choice of music via bluetooth speakers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sharica
+Host User ID: 461774117
+Host Profile URL: https://www.airbnb.com/users/show/461774117
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+38 reviews
+4.82 out of 5 average rating
+4 years of hosting

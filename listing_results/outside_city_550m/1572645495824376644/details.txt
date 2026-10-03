@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1572645495824376644
+Latitude: 36.236679363131884
+Longitude: -87.00004677809314
+rental_type: Private room in bed and breakfast
+property_type: BNB
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 2
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A forest-infused sanctuary for rest, art, and connection. Wake to a cozy coffee + tea bar, fresh fruit, and a light breakfast, with complimentary access to our infrared Himalayan sauna. Natural light, thriving plants, and creative energy fill the space. Enjoy indoor and outdoor hammocks, firelight, and calm spaces throughout. Guests may enrich their stay, by request, with massage, energy healing, guided yoga, sound bathing, nourishing meals, private dining, and in-house photo/film sessions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fox
+Host User ID: 733128061
+Host Profile URL: https://www.airbnb.com/users/show/733128061
+Host Profile URL Source: public user permalink from passport userId
+My work: Host + Artist
+Fun fact: 88 plants and counting
+Speaks English
+What makes my home unique: Forest, Sauna, Plants, Hammocks, Creek
+Pets: Amara is our adorable hypoallergenic pup
+9 months hosting

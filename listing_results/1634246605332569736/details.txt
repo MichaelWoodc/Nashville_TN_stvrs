@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1634246605332569736
+Latitude: 36.1336
+Longitude: -86.78882
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located high rise condo. Experience Nashville from the best seat in the house! This premier top-floor corner penthouse in the iconic 12 South district offers a curated, CB2-style modern stay.
+
+✔ Sweeping Downtown Skyline Views
+✔ Massive 200 sq ft Private Lounge Balcony
+✔ Steps to Belmont, Vandy & 12 South Dining
+✔Fitness Center & Rooftop Terrace w Hot Tub
+
+Enjoy a sun-drenched, stylish retreat perfect for Music City lovers!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 438379082
+Host Profile URL: https://www.airbnb.com/users/show/438379082
+Host Profile URL Source: public user permalink from passport userId
+I sell music software online and write songs.
+Where I went to school: Liberty University
+My work: Self-Employed
+Response rate: 67%
+Responds within a day
+Superhost
+3 years hosting
+84 reviews
+4.76 out of 5 average rating
+3 years of hosting

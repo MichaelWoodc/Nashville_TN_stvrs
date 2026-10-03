@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/974198879908318909
+Title: Cozy HOME with FIRE Pit
+Latitude: 35.99554
+Longitude: -86.57801
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+If you are looking to stay cozy, comfortable and take relaxation on your trips, “Bethany the  house of rest”, which is located in quiet and peaceful neighborhoods waiting you to host your family, friends and teams. It is very convenient place to explore country music city Nashville downtown ,BNA international airport , Gaylord Opryland hotel and resort .It is also good place for grocery stores and restaurants all around. Security cameras are on front and back of the house. No swimming pool.
+
+The space
+This is single home at quite and friendly neighborhood , once you booked it, your team will use ( kitchen, laundry, bathroom, bedrooms and rest) without sharing with other during your stay.
+
+Guest access
+Back yard
+
+Other things to note
+No parties,    No pets,                                                                      No smoking inside the house( smoking fee $500)                                                                              Smoking outside house in the smoking shelter area ( no smoking fee)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Indra
+Host User ID: 526397700
+Host Profile URL: https://www.airbnb.com/users/show/526397700
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+155 reviews
+4.91 out of 5 average rating
+3 years of hosting

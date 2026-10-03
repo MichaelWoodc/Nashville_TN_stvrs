@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/894139945410556728
+Title: The Jefferson | Weekend Haven | Prime Location
+Latitude: 36.1721
+Longitude: -86.808
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Good Vibes only at The Jefferson.  A perfect weekend getaway or mainstay at this newly renovated home.  Enjoy a glass of sweet tea on the porch or a lil' Tennessee Whiskey. Whether it's game night with family/ friends or a short ride share trip to the heart of music city.  The Jefferson will feel like home.
+
+*Self Check-In
+*Onsite Parking
+*Security System
+*Smart TV's with Sound Bar w/Bluetooth
+*WIFI
+*LED Bathroom Mirror with Built In Bluetooth Speaker
+*Nectar Mattress with Medium Firmness
+
+The space
+This newly completely renovated shotgun style home boast a beautiful interior.  
+
+The master bedroom is tastefully decorated with a minimalist style and is furnished with a comfortable King size bed with a Medium Firm Nectar Mattress, luxurious linens and a 42 inch Smart TV.
+
+The main bathroom has a shower/tub combo and a LED mirror that has Bluetooth capabilities as well.  
+
+The 2nd bedroom is perfect for hanging out in addition to sleeping.  It is furnished with a Sealy Futon Sleeper and a 42 inch Smart TV.  An air mattress is available as well. There is a half bathroom located inside this room.  This room also has an additional door that makes it accessible from the outside as well as inside.
+
+The kitchen is well stocked for your cooking needs.
+
+In the living room you will find a 65 inch Smart TV with a Bluetooth sound-bar.  The sofa converts to a queen size sofa bed with a Sealy Mattress.
+
+Guest access
+Guest have access to entire property.
+
+Other things to note
+Need a rental car?  Let us know.
+
+We offer pick-up and drop-off services just let us know so we can arrange for you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shukiesha
+Host User ID: 175056638
+Host Profile URL: https://www.airbnb.com/users/show/175056638
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+3 years hosting
+94 reviews
+4.84 out of 5 average rating
+3 years of hosting

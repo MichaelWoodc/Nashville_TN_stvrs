@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1553051472197186755
+Latitude: 36.16011
+Longitude: -86.80618
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a comfortable, home-like  experience at this stylish & centrally-located beautiful apt.  Two large bedrooms, each with a bathroom, cozy beds, TVs in every room.   Located in Midtown, a mere mile from Broadway, Music Row, WestEnd, 12 South  Vanderbilt.  This is a great find.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ellen
+Host User ID: 10285792
+Host Profile URL: https://www.airbnb.com/users/show/10285792
+Host Profile URL Source: public user permalink from passport userId
+Greetings, thank you for considering my apartment.  I work in media and travel quite a bit.  I am from California, but lived in NYC the past 16 years.   I am newly back.   I love outdoor sports, long walks, working out, movies, music, great restaurants, meeting new people, great restaurants and music joints.
+My work: Media Consultant
+Speaks English
+Response rate: 98%
+Responds within a few hours
+12 years hosting
+250 reviews
+4.57 out of 5 average rating
+12 years of hosting

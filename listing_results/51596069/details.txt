@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/51596069
+Latitude: 36.15155
+Longitude: -86.79174
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music Row’s Spence Manor, Unit 303,  home of world-famous musicians including Elvis Presley, Paul McCartney, and Johnny Cash.  This condo was designed to bring back the luxury that these musicians enjoyed. It is at the center of all Nashville entertainment. On Music Row, this condo is walkable to Demonbreun, The Gulch, Midtown, Lower Broadway, and Vanderbilt. Enjoy the amenities which include a guitar-shaped pool (May-October) and free parking.
+
+The space
+This one-bedroom condo features two luxurious queen beds and is designed to inspire, unwind, and relax. Thoughtfully curated to reflect the legendary musicians who once stayed at Spence Manor, the space blends vintage charm with modern comfort. From stylish decor to cozy furnishings, every detail captures the essence of Nashville’s rich musical history, offering a one-of-a-kind retreat in the heart of Music City.
+
+Guest access
+Guests have full access to the private condo as well as the parking garage and pool deck.
+
+Other things to note
+Please note that Spence Manor is a historic building, and its vintage charm reflects its rich past. Some of its well-loved patina is part of its character, not a flaw. If you prefer sleek, modern spaces, this may not be the right fit. Once a luxury hotel, Spence Manor was a favored retreat for legendary musicians, including Elvis Presley, who stayed here while recording in Nashville. Renowned for its iconic guitar-shaped swimming pool, it provided a private haven for celebrities. Today, it offers a distinctive blend of history and modern comfort, preserving its musical legacy in the heart of Music City.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

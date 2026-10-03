@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/46828232
+Latitude: 36.17029
+Longitude: -86.75069
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect location to live like a local or explore like a tourist. Walking distance to the shops, restaurants, and entertainment of the hippest place in Nashville, 5 Points. 1 mile to Nissan stadium. 1 mile to Shelby park.  You can spend your entire time within walking distance of your place living like a local or hop in a 5 minute Uber and have everything downtown offers at your fingertips.
+
+The space
+Private one bedroom, one bathroom, 650 sq ft apartment with full kitchen and laundry in the unit.  It’s a home broken into three 1 bedroom units. The other two units have long term tenants.
+
+Other things to note
+Permit #2020073103
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nathan
+Host User ID: 240027002
+Host Profile URL: https://www.airbnb.com/users/show/240027002
+Host Profile URL Source: public user permalink from passport userId
+Nashvillian who loves exploring new places with my better half. She and I love last minute, spontaneous travel. You’ll typically find us booking the day of our stay. 
+
+As a host:
+I’m happy to be your full guide to Nashville and the neighborhood. I don’t live onsite so you won’t see or hear from me unless you need something. I’m happy to be as involved or uninvolved in your stay as you’d like.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+186 reviews
+4.87 out of 5 average rating
+6 years of hosting

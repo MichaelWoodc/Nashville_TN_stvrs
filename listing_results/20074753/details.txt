@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/20074753
+Latitude: 36.08412
+Longitude: -86.734
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hello and thanks for considering my Airbnb! This is a private ground-floor basement unit that has been turned into an Airbnb. It is 500 sq ft with a private entrance. Inside is 1 queen bed, a sectional sofa that could sleep up to two more people, and an air mattress that can be accommodated upon request. There is a full size bathroom with a large tub/shower and sink/vanity mirror.  This unit has central heating and cooling, with a remote to change temperature to your desired comfort.
+
+The space
+There is a 42 inch smart TV with easy access to Netflix, Hulu, etc. Also strong Wifi signal in the studio.
+
+Guest access
+The location is great - 10-15 minutes from downtown Nashville (depending on traffic and where you are going), but also 10 minutes from Brentwood, and 15-20 minutes from Franklin. This a great central accessible location.
+
+Other things to note
+There's a nice size fridge that can fit small food and beverages. A keurig machine is in the room with coffee k-cups that are provided. The room is stocked with complimentary snacks and bottles of water. Toiletries including sheets, towels, shampoo and soap will also be provided. Late checkouts/checkins can be accommodated upon request.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dan
+Host User ID: 4956098
+Host Profile URL: https://www.airbnb.com/users/show/4956098
+Host Profile URL Source: public user permalink from passport userId
+Musician living in Nashville!
+Born in the 80s
+Where I went to school: Belmont University
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+183 reviews
+4.97 out of 5 average rating
+9 years of hosting

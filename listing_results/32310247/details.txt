@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/32310247
+Latitude: 36.24008
+Longitude: -86.71007
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The River House is tucked away on a quiet waterfront street that is steeped in history, with several famous old school Opry Stars living nearby. It's private and safe here. There is very little car traffic so it's great for walking around.  Downtown is only 15 minutes away, much closer than 95% of the waterfront homes in the greater Nashville Area. Two great golf courses are within 4 miles, uber and lyft are very familiar with the area, and traditional taxi service is not a problem.
+
+The space
+Our newest home River House is now available (STR permit #2016056024). We are experienced  owners and hosts.  If you have a large group, you can also rent our home right next door  at the Cumberland Cottage. 
+We use airbnb homes when we travel, so we understand first hand what is expected, and what is needed at vacation rentals. We know just what you’re looking for, and we bend over backwards to deliver it! 
+
+The River House is tucked away on a quiet waterfront street that is steeped in history, with several famous old school Opry Stars living nearby. It's private and safe here. There is very little car traffic so it's great for walking around or riding bikes. We see deer, geese and turkey regularly, and enjoy fishing in the Cumberland River. It's a special neighborhood with friendly folks. Yet, it’s just minutes from the famous Gaylord Opryland Hotel, Opry Mills Mall and THE GRAND OLE OPRY. Within 4 miles there are over 2 dozen Restaurants & Nashville’s biggest Water Park. Downtown is only 15 minutes away, much closer than 95% of the waterfront homes in the greater Nashville Area. Two great golf courses are within 4 miles, uber and lyft are very familiar with the area, and  traditional taxi service is not a problem.
+Once you get here, you may not feel the need to leave.  If you like to cook, you’ll find a well equipped kitchen, with all the pots, pans, and all small appliances of home. Outside on the deck there’s a gas grill ready for  serious Bar-B-Q action.
+
+Fresh, crispy linens are provided on each bed. White cotton towels are also provided. 
+Each morning you’ll enjoy your breakfast and complimentary coffee in the sun filled dining room, or take a walk down the quiet lane and listen to the birds and the river. 
+During the day, Use the RIver House as your base of operations for exploring Nashville, or hang out in the POOL (open May 1 - October 15) and/or Hot tub!  In the evening… enjoy the peace and quiet on two full length front porches.  When it’s time to turn in three of the bedrooms sports a king bed, the forth bedroom features two queen beds.  And  If you have a party of twelve, two deluxe inflatable twin mattresses are also available.
+
+Other amenities include Washer & Dryer,  Multiple HD TVs with Cable and HBO, Blu-Ray players, board games, and High speed WiFi. All you need to bring is your clothes and your food. We provide coffee and some kitchen amenities. We go the extra mile for our guests and also provide eco -friendly bath soaps , shampoo and conditioners. When you arrive, we can provide a greeter to help you settle in to the property, or just leave you the door code prior to your stay. Just let us know what you need and we'll do our best to make it happen.
+
+Please note: To rent our home , you must be at least 25 years of age.
+
+Guest access
+Guests will have access to the entire property with the exception of the garage.
+
+Other things to note
+Guest must be at least 25 years old to book the River House
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Local Rental Host
+Host User ID: 163720665
+Host Profile URL: https://www.airbnb.com/users/show/163720665
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+9 years hosting

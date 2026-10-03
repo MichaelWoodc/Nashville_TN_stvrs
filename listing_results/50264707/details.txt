@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/50264707
+Latitude: 36.18317
+Longitude: -86.73485
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of historic East Nashville (coffee shops, restaurants, bars and local shops right down the block) this walkable 3 bedroom, upstairs apartment is the perfect stay for weekend getaways, a fun trip with friends or anyone looking to enjoy all Nashville has to offer. This cozy and convenient space is located only 10 minutes from Broadway and only a 15 minute ride from the airport. The perfect and relaxing place to stay while you explore the town.
+
+The space
+This three bedroom apartment is the entire top floor of a two-story multi-use building located right off of bustling Eastland Ave. This space has it's own private entrance and balcony that will make you feel right at home.
+
+Expect a clean and comfortable place that's convenient to anywhere in Nashville you plan to go.
+
+Updated stainless steel appliances throughout the kitchen, high-speed internet, 65" Smart 4K HDTV with AppleTV located in the living room.
+
+You are welcome to use the Peloton bike but you'll need your own cycling shoes.
+
+Guest access
+There are coffee shops and restaurants across the street and down the block and you are only a 10 minute walk from Main St. where you will find cool bars, dining and local shops.
+
+Parking is very flexible in this residential area. You are able to park in any spots you see on Eastland, and overnight parking is allowed on any neighborhood streets as well. We have additional parking in the alleyway behind our buildings, but these are first come first serve for our guests and the guests of the businesses downstairs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aubrey
+Host User ID: 327215876
+Host Profile URL: https://www.airbnb.com/users/show/327215876
+Host Profile URL Source: public user permalink from passport userId
+hi, i’m Aubrey! In my free time I like to play music, make art, take photos, and eat! I was born and raised in Fort Walton Beach, Florida and although my travels have taken me many places, the beautiful beaches will always be home. I currently live in Nashville, TN and work in the music industry.
+Born in the 90s
+Where I went to school: University of West Florida
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+727 reviews
+4.73 out of 5 average rating
+6 years of hosting

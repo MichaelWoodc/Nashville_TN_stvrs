@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/28862505
+Latitude: 36.02736
+Longitude: -86.97026
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A Private Master Suite --Your Nashville retreat for Music, History and Southern Hospitality.
+
+Every desire has been anticipated so the Asher Home will be your home away from home.  
+
+Escape to this private Colonial home with 5 pastorial acres and enjoy the outside entertainment of deer and turkeys that visit this beautiful natural environment.
+
+This is the perfect, peaceful sanctuary for vacation, Vanderbilt or Titan games and events, family gatherings, wedding guests, or business commitments.
+
+The space
+The first thing our guests say when arriving is WoW! The property is a southern paradise that still has the country feel yet minutes to downtown Nashville and historic Franklin.
+
+Guest access
+Your private suite is located on the second floor and is easily accessible through the front door.
+
+During your stay
+We would love to introduce you to Nashville and are available by message to help you maximize your stay.
+
+Other things to note
+Individuals making reservations must be 21 years of age or older. 
+
+We welcome all people in our home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kay
+Host User ID: 217285315
+Host Profile URL: https://www.airbnb.com/users/show/217285315
+Host Profile URL Source: public user permalink from passport userId
+I’m an Air Force brat that had the privilege of traveling extensively with my family. The love of travel and cultures has continued throughout my adult life. 
+My recent trip to Peru and hiking the Inca trail has encouraged me to simplify my life and embrace the world outside of my workplace. 
+Thank you for allowing me to share my piece of god’s country.
+Lives in Nashville, Tennessee
+Response rate: 100%
+8 years hosting
+170 reviews
+4.95 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/20403799
+Latitude: 36.1642
+Longitude: -86.80981
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Good Vibes Only home! A beautiful, charming and cozy home centrally located - only 2 miles or less to several popular areas like downtown Nashville, the Gulch, Germantown, Midtown and the Nations. This is a spacious, open concept 3 bedroom/2.5 bath that can accommodate up to 10 people comfortably! Thoughtful touches throughout the house to ensure you'll find all the comforts of home.
+
+The space
+Home layout: 
+- Ground level master bed/full bath and 1/2 bath 
+- Second floor contains beautiful reading nook, two large guest bedrooms and one full bath 
+- Fenced yard and gate to provide extra privacy 
+- Lovely outdoor space with pergola for your enjoyment!
+- Plenty of parking spaces (driveway and street parking)
+
+**Home is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC**
+
+Guest access
+Guests will have access to the entire house!
+
+Other things to note
+There’s a detached 2- car garage on the property that is not available for guests. Sorry for the inconvenience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Quynh
+Host User ID: 33948197
+Host Profile URL: https://www.airbnb.com/users/show/33948197
+Host Profile URL Source: public user permalink from passport userId
+I am a travel-enthusiast, an adventure-seeker and a food-lover.
+Fun fact: I can’t swim but have gone scuba diving
+I spend too much time: Loving on my family
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+219 reviews
+4.98 out of 5 average rating
+5 years of hosting

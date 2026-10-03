@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/46620561
+Latitude: 36.34113
+Longitude: -86.97262
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Cheatham County, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to solitude right outside of the hussle and bustle of music city. Enjoy all Nashville has to offer but return to the quiet country life in minutes. This home is designed with comfort and peace in mind.  You can spend your days lounging by a private pool, hot tub, hanging in the new game room or spend your evening sitting around the fire and enjoying the quiet side of things. The home itself has just been completely remodeled with everything brand new! Plenty of space to relax and play!
+
+The space
+The home has two full kitchens with high end stainless steel appliances. There are two laundry rooms with brand new LG washers and dryers.  The 4 full bedrooms and bathrooms offers space for all guests. We have 5 beds total in the home (1 king, 3 queens and 1 queen Murphy bed). The surrounding acreage ensures quietness and privacy but still close enough to enjoy all that Nashville has to offer.  The showers are all done in marble tile and you'll see many handmade barnwood walls throughout the home. All the barn wood comes off a family barn that is 100 years old. There is a huge heated pool with diving board, large hot tub, swing set and fire pit with plenty of seating for you and your guests to enjoy.We have a volleyball net set up and corn hole to keep kids and adults alike entertained!  We have added a brand new separate 800 sq ft  game room that has arcade games, air hockey, large screen tv , bar, ping pong table and so much more! Everything in the home is brand new and made for the perfect home away from home. You can enjoy the country livin of Tennessee but be in the center of the Nashville in a quick 20 minutes. We also have space for plenty of parking , which is rare in Nashville! For all the golfers out there you’re only 6 miles from Nashville National Golf Links! Perfect place to enjoy your vacation while still being close to Nashville. 
+
+***The pool is open and heated from April 1st -November 1st***
+
+*** Please do not ask for any discounts for stays less than a week. We offer our best prices available. We do not do any type of discounts for stays less than 7 days. Our discount is automatically applied for stays longer than 7 days. If you’d like a long term stay discount please feel free to message us***
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 300483838
+Host Profile URL: https://www.airbnb.com/users/show/300483838
+Host Profile URL Source: public user permalink from passport userId
+My work: Retired
+Lives in Ashland City, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+199 reviews
+4.98 out of 5 average rating
+7 years of hosting

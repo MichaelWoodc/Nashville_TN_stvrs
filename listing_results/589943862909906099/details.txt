@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/589943862909906099
+Latitude: 36.18026
+Longitude: -86.74276
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into a cozy, stylish hideaway in Nashville’s most sought-after neighborhood, historic Lockeland Springs. Mere steps away from the best restaurants, bars and coffee shops that East Nashville has to offer, this peaceful retreat will give you the city at your fingertips.  The location doesn't get any more prime than this.
+
+The space
+Lockeland Underground is the basement floor of a 1920’s craftsman home that has been completely refurbished and decked out to suit creatures of both comfort and style. Tucked into a bucolic, residential street in the heart of East Nashville, the space can comfortably sleep 4, with one king bed and one queen, each in their own bedrooms. There is a mini-split heating and AC unit in the suite, so you are in complete control of your thermostat preferences. You’ll have direct access to a beautifully manicured gravel garden and patio, equipped with outdoor furniture, where you can sip your morning coffee and take in the fresh air. The house is across the street from Bill’s Sandwich Palace, one of the best sandwiches in Nashville, it is next door to Freshie and Zero, a hip boutique selling locally made jewelry, and two blocks from the ultra hip Urban Cowboy bar, and arguably the finest restaurant in Nashville, Lockeland Table. Walk 5-10 minutes in any direction, and you’ll find yourself with plenty of shopping, eating, and coffee sipping to indulge in. 5 minute Uber/Lyft to downtown Broadway bars and Titan Stadium.
+
+With the guests in mind, we have thoughtfully equipped our house with brand new mattresses & crisp clean linens on each bed with plenty of amenities to make your stay as comfortable & enjoyable as possible.
+
+Guest access
+Guests have their own private, keyless entry.  Access to the full basement apartment, patio, and fenced-in yard. Guests also have control of their thermostat system (AC/heat)  in the suite.
+
+Other things to note
+15% off for weeklong stays, 20% off for the month. 
+
+Low ceilings, BIG CHARM.  Ceilings are low slung, so this space may not be suitable for travelers over 6’5.”
+
+The host Jessica is a ten year long Nashville resident who lives on the main floor. She is always ready to assist with local recommendations and tips for making the best out of your time in the city. 
+
+Need more space?  Check out the whole house listing: Lockeland Landing.
+
+Fully permitted - #2022017910
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessica
+Host User ID: 13337702
+Host Profile URL: https://www.airbnb.com/users/show/13337702
+Host Profile URL Source: public user permalink from passport userId
+I’m a ten year long East Nashville resident. I love my neighborhood, and I love my city and it is a pleasure to get to share it with visitors from all over the world!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+248 reviews
+4.93 out of 5 average rating
+4 years of hosting

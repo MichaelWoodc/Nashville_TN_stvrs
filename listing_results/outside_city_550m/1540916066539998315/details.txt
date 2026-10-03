@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1540916066539998315
+Latitude: 36.37701823199246
+Longitude: -87.0422761522191
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Pleasant View, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pleasant View guest room and bathroom in a family friendly neighborhood. Centrally located between Nashville and Clarksville. You will have access to many amenities including: WIFI, TV, WII, Coffee Maker, mini fridge, board games, exercise bike, desk, couch sectional, books, Blue-ray player, and more. You will sleep in a peaceful Queen size bed and have private access to a bathroom for your convenience.
+
+The space
+You may park in the driveway, but please do not block the garage.
+
+Guest access
+The front door is the entrance. The room and bathroom are upstairs. No access to backyard or downstairs permitted.
+
+During your stay
+Message on the Airbnb app if you need assistance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kerstin
+Host User ID: 443693557
+Host Profile URL: https://www.airbnb.com/users/show/443693557
+Host Profile URL Source: public user permalink from passport userId
+Hello! I’m Kerstin. I am a Pre-K teacher who survives off Diet Coke. My husband and I love going to the movies and walking our 3 dogs. We’d love to have you as a guest in our house.
+My work: Teacher
+Speaks English
+Pets: 3 dogs
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+43 reviews
+4.91 out of 5 average rating
+9 months of hosting

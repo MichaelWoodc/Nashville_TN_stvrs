@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1629089309858650277
+Latitude: 36.22586
+Longitude: -86.72574
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+If you’ve ever been told to “find a happy place,” look no further — we’ve got you covered. Our stylish Airbnb with retro flair and party accessories is exactly what you need for your next getaway, bachelor/bachelorette party, or fun with family and friends. Complete with remote-controlled disco balls, Bluetooth karaoke, a preloaded NES station, kids activities, board games, a color-changing fireplace, and a rooftop deck with outdoor dining, firepit, and mounted TV, it’s sure to be a good time.
+
+The space
+This home features a 2-car garage, open floor plan, floor-to-ceiling windows, hardwood floors, and a modern kitchen with quartz countertops and stainless appliances.The highlight is a large private rooftop deck with outdoor TV —ideal for entertaining or relaxing under the stars.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 85158751
+Host Profile URL: https://www.airbnb.com/users/show/85158751
+Host Profile URL Source: public user permalink from passport userId
+Music and real estate.
+Lives in Nashville, Tennessee
+Response rate: 97%
+Responds within an hour
+Superhost
+10 years hosting
+156 reviews
+4.96 out of 5 average rating
+10 years of hosting

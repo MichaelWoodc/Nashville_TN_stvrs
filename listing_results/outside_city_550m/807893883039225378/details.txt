@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/807893883039225378
+Latitude: 36.04132
+Longitude: -86.54102
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 5
+beds: 10
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Music City Escape!
+
+Located just outside Nashville, 1 mile from Percy Priest Reservoir. Our spacious home is a perfect getaway for all sizes of groups, as well as the traveling workforce.
+
+The home is stocked with all the basic essentials you will need. 
+
+Our home features a spacious backyard perfect for outdoor fun. 
+
+Whether you’re here to explore downtown Nashville, visit local attractions, or simply unwind; Music City Escape offers the ideal blend of convenience and relaxation.
+
+The space
+With 5 bedrooms, 4 bathrooms, and space to accommodate up to 16 guests. 
+
+The home is stocked with all the basic essentials you will need. You’ll have plenty of room to relax and make lasting memories!
+
+Our home features a spacious backyard perfect for outdoor fun.
+
+Guest access
+The Whole House is yours!
+
+Other things to note
+We do allow up to 2 Pets/Dogs with pre approval and the $75 Per Pet/Dog Fee Paid.  If you bring dogs without paying or bring more dogs than you paid for, then it's a $500 Fine.  Please keep all Pets/Dogs off All Furniture and Beds/Linen and pick up all Dog Poop so you do incur extra cleaning and damage fees.  
+
+We have 2 Homes within .5 mile of each other.  Let us know if you would like to book both of them etc.
+
+The Owners Closet and 2 others Closets are Locked and Alarmed.  We have to follow Strict County Short Term Rental Neighborhood Quiet Times of 10pm-8am.  Everyone must be inside by 10pm.  You can come and go as you need, but you can't hang outside after 10pm.
+
+If County Code Enforcement is called its a $1k Fine to guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Corporate Housing
+Host User ID: 304713067
+Host Profile URL: https://www.airbnb.com/users/show/304713067
+Host Profile URL Source: public user permalink from passport userId
+At Corporate Housing of America, all of our properties are exclusive, fully furnished and decorated with quality and comfort in mind. You’ll find them stocked with housewares, stylish furnishings, linens and every amenity you’ll need including utilities, high-speed wifi internet & tv, parking, washer and dryer. All you need to do is unpack!
+Response rate: 100%
+Responds within an hour
+7 years hosting
+2028 reviews
+4.65 out of 5 average rating
+7 years of hosting

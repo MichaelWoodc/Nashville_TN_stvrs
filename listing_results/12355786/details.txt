@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/12355786
+Latitude: 36.2098
+Longitude: -86.9215
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Looking for a relaxing, peaceful stay not far from Downtown Nashville? This is it! Experience a beautiful country farmhouse feel at our Cedar Valley Farm House. Serve dinner for six at a round wooden table in a radiant home with brilliant white plank walls, dark brown wood floors, and country-chic decor. 3 bedrooms and 3 bathrooms. At night, gather on a wicker sectional under lights strung along the rafters of the rustic covered string light patio. NO FILMING REQUESTS!
+
+The space
+15 minutes from downtown Nashville. 10 minutes to the historic Germantown neighborhood. Within walking distance to the Sulpher Creek Organic Farm and  Old School Farm.  Just 3 minutes to Bell's Bend Park or Beaman Park.  Bring your bike or canoe and enjoy the countryside and the beautiful Cumberland River.
+
+Single story home.
+Bedroom 1: King w/en suite full bathroom
+Bedroom2: Queen w/en suite full bathroom
+Bedroom 3: Queen w/adjacent full bathroom
+
+The total price of the reservation is based on the nightly rate set by the host, plus fees or costs determined by the host or booking platform. Extra guest fee charged by some hosts for extra guests beyond a set number, which may fluctuate.
+
+Guest access
+Guests have access to the entire home and grounds.  Stroll over 10 acres, or take a nap on one of the porches.  We are happy to personalize your visit with whatever you can think of.  Great place for family reunions, weekend retreats, and celebrations of any kind. Covered area in back is the perfect place to host outdoor cocktail or dinner parties. The possibilities are endless !!!
+
+Other things to note
+** While staying with us, PLEASE make sure ALL doors are shut and locked when not in use! PLEASE do not leave any valuables in your vehicle if parked on the street. Nashville is a BIG city so please make sure to be vigilant with our property and yours!!
+
+**Please note: Guests who stay 3 weeks or longer will incur an additional cleaning fee. This is NOT included in the pricing you see, but will be an additional add-on fee!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 66669083
+Host Profile URL: https://www.airbnb.com/users/show/66669083
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+222 reviews
+4.95 out of 5 average rating
+10 years of hosting

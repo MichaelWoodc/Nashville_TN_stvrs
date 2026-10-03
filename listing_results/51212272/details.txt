@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/51212272
+Latitude: 36.1811
+Longitude: -86.77103
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax like a local in this farmhouse-inspired bnb! This rustic but modern bnb will give you quick access to the local eateries of the East Nashville neighborhood. Short walks to coffee shops and restaurants, a 3 minute drive to quaint Germantown, and a 5 minute Uber to Nissan Stadium, First Horizon Park and Downtown Broadway will keep you busy during your stay!
+
+The space
+You will be staying in our one bedroom apartment that includes a living room, kitchen, office nook, laundry room and a back patio with views of downtown. With boosted wifi, your stay can be a getaway from the office, and a work from home haven minutes from the downtown nightlife.
+
+Guest access
+Access the guest house via the alley off the end of the road. Parking is on the driveway beside the garage on the left side. Continue walking and you will find the door on the side of the building with a keypad to access stairs to the apartment above.
+
+Other things to note
+Included in the bnb is a fully stocked kitchen with pots and pans, silverware, spices and a plethora of coffee options for the Keurig. The living room is stocked with games and is outfitted with Roku TV for access to Netflix and Disney Plus that you are welcome to login to.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Asher
+Host User ID: 118590369
+Host Profile URL: https://www.airbnb.com/users/show/118590369
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Mississippi State University
+My work: Architect
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+380 reviews
+4.94 out of 5 average rating
+5 years of hosting

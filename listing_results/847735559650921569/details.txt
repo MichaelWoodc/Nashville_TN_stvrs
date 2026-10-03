@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/847735559650921569
+Latitude: 36.21675
+Longitude: -86.69243
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Back then, live was the only way to listen to music. Around here it still is. Fine free live tunes at the clubs and listen to the stars of tomorrow, then record you own song at Ryman Auditorium.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ahmet
+Host User ID: 111817270
+Host Profile URL: https://www.airbnb.com/users/show/111817270
+Host Profile URL Source: public user permalink from passport userId
+My work: Vacations!
+I spend too much time: on Airbnb
+Response rate: 97%
+Responds within a few hours
+Superhost
+4 years hosting
+950 reviews
+4.81 out of 5 average rating
+4 years of hosting

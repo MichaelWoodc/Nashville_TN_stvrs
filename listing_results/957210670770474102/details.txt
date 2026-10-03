@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/957210670770474102
+Latitude: 36.16746
+Longitude: -86.83553
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take a break and unwind at this peaceful oasis. Enjoy all the Nashville area has to offer when you stay at this 4-bed, 3.-bath townhome located just 3.9 miles from Broadway and a 2 minute drive from "The Nations" of Nashville, one of the hottest and trendiest areas in town!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

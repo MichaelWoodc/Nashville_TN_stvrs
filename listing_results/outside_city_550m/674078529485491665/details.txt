@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/674078529485491665
+Latitude: 36.06906
+Longitude: -86.45886
+rental_type: Entire place
+property_type: OTHER
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Originally built in 1958 as a local grocery store, this property served the community until the late 1980s. After sitting abandoned for decades, it was renovated in 2021 into a Dolly Parton-themed Western retreat with lots of rustic charm!
+
+Enjoy a cozy getaway, with live horses grazing in the backyard. Located in Middle Tennessee, this property offers easy access to major cities, with shopping, dining, and entertainment within 15 minutes. A perfect blend of comfort, character, and convenience
+
+The space
+Welcome to your ultimate Western-themed getaway with a touch of Dolly charm! This cozy retreat blends rustic style with modern comforts, perfect for a relaxing escape. Inside, you’ll find two inviting bedrooms, each with a queen-sized bed and TV, ensuring a restful stay. The spacious open floor plan connects the living room and fully equipped kitchen, creating a warm and welcoming atmosphere. The bathroom features a luxurious three-head shower, giving you a spa-like experience after a day of adventure.
+
+But the magic doesn’t stop there—friendly horses in the back will be there to greet you as you pull up, adding to the charm of this countryside escape. With a little sparkle of Dolly-inspired flair, this one-of-a-kind stay is as cozy, fun, and fabulous as the queen of country herself!
+
+Other things to note
+Things to Do in Mt. Juliet & Surrounding Areas:
+	•	Percy Priest Lake & Long Hunter State Park – Enjoy boating, fishing, hiking, and scenic lake views.
+	•	Cedar Creek Recreation Area – A great spot for swimming, picnicking, and camping.
+	•	Charlie Daniels Park – A family-friendly park with walking trails, playgrounds, and sports courts.
+	•	Providence Marketplace – A top shopping and dining destination with a variety of restaurants, boutiques, and entertainment options.
+	•	Fiddlers Grove Historic Village – Step back in time and explore preserved historic buildings from the region.
+
+Things to Do in Downtown Nashville (About 30-40 Minutes Away):
+	•	Broadway Honky Tonks – Experience live country music at legendary bars like Tootsie’s Orchid Lounge and The Stage.
+	•	Country Music Hall of Fame & Ryman Auditorium – Dive into the rich history of country music and tour iconic venues.
+	•	The Grand Ole Opry – Catch a live performance at the world-famous home of country music.
+	•	Johnny Cash Museum & National Museum of African American Music – Explore exhibits dedicated to legendary artists and musical history.
+	•	The Gulch & 12 South – Discover trendy boutiques, murals, and upscale dining.
+	•	Bicentennial Capitol Mall State Park – Walk through Tennessee’s history with scenic views and monuments.
+
+With a mix of outdoor adventures, historic sites, live music, and great food, there’s something for everyone to enjoy during their stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonah
+Host User ID: 387705832
+Host Profile URL: https://www.airbnb.com/users/show/387705832
+Host Profile URL Source: public user permalink from passport userId
+Born in the 00s
+Where I went to school: Lipscomb University
+Response rate: 94%
+Responds within an hour
+Superhost
+5 years hosting
+522 reviews
+4.82 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1742342772495927054
+Latitude: 36.1592
+Longitude: -86.8787
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Soak under the stars in your own private hot tub after a night on Broadway — this stylish four-bedroom townhome in West Nashville's beloved Nations neighborhood was built for gathering. Five queen beds and a single welcome up to twelve guests, and a sun-filled open living and kitchen area keeps everyone together. Step out back to the bubbling hot tub and patio, then wander to the breweries, murals, and eateries just down the street. Downtown's an easy fifteen minutes away.
+
+The space
+The star of this townhome waits out back: a private hot tub where the whole group can gather, soak, and swap stories under the Nashville sky after a full day in the city. Alongside it, a patio gives you room to lounge, share a drink, or let a four-legged travel buddy get some air.
+
+Inside, the open main level pairs a welcoming living room — plush seating and a large Smart TV for game nights and lazy mornings — with a fully equipped kitchen. Stainless steel appliances, plenty of counter space, cookware, and a coffee maker mean you're set for a big group breakfast or a midnight snack after the show.
+
+Upstairs, four bedrooms are outfitted with five queen beds and a single, comfortably sleeping up to twelve. Three bathrooms keep everyone moving on busy mornings, and fresh linens and cozy touches make it easy to recharge for the next adventure.
+
+Everything else is dialed in for a smooth stay: keyless entry, an in-unit washer and dryer, central heating and air, and fast Wi-Fi throughout. Parking is simple and secure, tucked behind an electronic gate that only residents and guests can open, with space for two vehicles.
+
+Guest access
+You'll have exclusive access to all the amenities shown in this listing during your stay.
+
+Registration Details
+2022035861
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 379189746
+Host Profile URL: https://www.airbnb.com/users/show/379189746
+Host Profile URL Source: public user permalink from passport userId
+I'm a young professional in the tech and hospitality space. I love to explore new places, visit historical sites, and live like a local!
+Response rate: 100%
+Responds within an hour
+6 years hosting
+2875 reviews
+4.75 out of 5 average rating
+6 years of hosting

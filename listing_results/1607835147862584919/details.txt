@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1607835147862584919
+Latitude: 36.20886
+Longitude: -86.79213
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 16
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✨ Soak under the Nashville skyline, sing your heart out at karaoke, and end the night in your private rooftop hot tub.
+
+🎮 From arcade battles to pool table showdowns, this is where Music City fun lives under one roof.
+
+🌆 Steps from the action, miles above ordinary — your Nashville getaway just leveled up.
+
+The space
+Perfect for bachelorette trips, birthdays, family stays, and celebration weekends.
+
+🛏 Spacious & Comfortable Layout
+
+• 4 private bedrooms
+• 4 full bathrooms (no waiting!)
+• King beds + triple queen rooms
+• Sleeps up to 15–16 comfortably
+• Open-concept living space
+• Fully equipped kitchen
+• Easy self check-in
+
+Modern, clean, and exactly as pictured.
+
+📍 Prime Nashville Location
+
+• Minutes to Broadway
+• Close to The Gulch
+• Near Bridgestone Arena
+• Near Nissan Stadium
+• Easy access to major highways
+
+Close to the action, private enough to unwind.
+
+Registration Details
+T2026001289
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Peter
+Host User ID: 687856254
+Host Profile URL: https://www.airbnb.com/users/show/687856254
+Host Profile URL Source: public user permalink from passport userId
+My work: Construction
+I'm obsessed with: Pickleball
+Response rate: 97%
+Responds within an hour
+Superhost
+1 year hosting
+128 reviews
+4.95 out of 5 average rating
+1 year of hosting

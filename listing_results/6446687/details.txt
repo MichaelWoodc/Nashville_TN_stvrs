@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/6446687
+Latitude: 36.15620245824545
+Longitude: -86.76543772775626
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious 1500 Sq ft 2 bedroom 2 bath condo- 10 min walk to downtown. This building sits on a cliff overlooking the river and city! Multiple units in this building if you look up forte vacations online. 
+Condo features open floor plan with upscale furnishings, granite counter tops and stainless steel appliances. 
+This exclusive 1500 sq ft condo features a master bedroom and king bed, guest room and queen bed, and a queen sofa sleeper which will accommodate up to six guests. 
+License #2022066993
+
+The space
+Unit Amenities- 10 minute walk to downtown
+1500 sq ft Brand 2 Bedroom, 2 Full Baths, Queen Sleeper Sofa- TV’s in both bedrooms.
+Private Balcony
+Free WiFi and cable with premium channels. Fastest internet in town
+.
+Fully equipped kitchen- Dining seating for 6
+Washer and Dryer- iron and ironing board
+Dishwasher
+Coffeemaker and Keurig combination,  Blender, Toaster
+Central Air-conditioning and Ceiling Fans throughout
+Parking—2 Free  Indoor Garage Parking spots
+
+Building Amenities include:
+Roof Top Terrace 
+World-class Fitness Center
+Clubhouse with Billiards next to building
+Controlled Access
+Garage Parking
+Elevator Access
+Adjacent to Nashville’s Greenway
+
+Nearby Attractions:
+Pinewood Social(Bowing and Billiards)- .1 mile
+Crema Coffee (best coffee in Nashville)- .2mile
+Husk Cafe- .2 mile
+Etch Restaurant- .7 mile
+Southern Restaurant- .7 mile
+Country Music Hall of Fame- .8 mile
+Bridgestone Arena- .8 mile
+Schermerhorn Symphony Center- .8 mile
+Tootsies- .9 milie
+Ryman Auditorium- 1 mile
+Nashville Convention Center- 1 mile
+
+Parking: Two parking spaces available for free.
+
+Guest access
+Guests will have access to the building amenities including the workout room, and rooftop terrace, rec building and two parking spots in parking garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kurt
+Host User ID: 24241984
+Host Profile URL: https://www.airbnb.com/users/show/24241984
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner Forte Vacations
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+2972 reviews
+4.78 out of 5 average rating
+12 years of hosting

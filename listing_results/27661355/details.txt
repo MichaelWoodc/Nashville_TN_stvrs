@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/27661355
+Latitude: 36.16132
+Longitude: -86.80945
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful home minutes from Broadway! Accommodates large parties VERY comfortably!
+
+The space
+This incredible listing can sleep up to 10 people COMFORTABLY! The property has been built through a labor of love over the last 5 years. With over 300+ reviews at 4.9 stars it is one of the best properties in Nashville!
+
+Sleeping Arrangements: 2 Queen, 3 Double, 1 Twin Trundle, 2 Twin Roll-Out Beds, 1 Pull-Out couch
+
+Enjoy your time in The Music City with your group of friends or family by spreading out in our spacious new-construction home.  Just moments from downtown, this home is the perfect place to get ready for your night out on Broadway, or to relax as a group while using our ample open-space social area and fully equipped kitchen. Wind down your day in our generous sleeping arrangements or cozy up on the couch to watch your favorite show. Our home is close to restaurants, nightlife, shopping, parks and much more.
+
+Check out the great view of the capital building from our front porch as it lights up at night!
+
+Other features:
+Bar cart with shakers and glassware
+Drip coffee maker and k-pod machine
+Washer and dryer 
+Excellent wireless internet
+Cable TV with Netflix
+Memory foam mattresses
+Extra pillows and blankets
+Comfortable linens
+Cotton bath towels
+Hair dryers
+Shampoo and body wash
+
+Guest access
+Keyless entry to the property via keypad. Day of arrival check in is somewhat flexible depending on other reservations that I have. There is a Ring video doorbell on the front door that rings directly to my phone if you have any trouble getting in.
+
+Other things to note
+While the neighborhood is mostly quiet and safe this is still an urban environment and you should always remain aware of your surroundings and use common sense. We recommend that you don't leave valuables in your car and don't leave the doors and windows unlocked when you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/33779509
+Latitude: 36.18364
+Longitude: -86.74922
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy my new addition Belles Bungalow in the hip & historic East Nashville! 
+Within walking distance to local restaurants, shop marts, groceries & more, but also just a short Uber ride to Downtown! 
+Sip your coffee in the morning while you take in the outdoors on our spacious covered deck, or later, relax in the lounge & delight in a glass of wine. Be our guest!
+*This is a built on addition to my already existing residential home, but it’s a private space!
+*Comp bottle of wine 3+ night stay.
+
+The space
+All bedrooms are upstairs! Providing a private bath, TV & come equipped with a remote control adjustable bed. New Samsung washer & dryer in laundry room upstairs.
+
+Guest access
+All bedrooms are upstairs w/ ensuite bath. Full kitchen downstairs along with a quaint lounge & half bath. There’s a spacious deck where your private entrance is to enter into Belles.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kamill
+Host User ID: 254637323
+Host Profile URL: https://www.airbnb.com/users/show/254637323
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+7 years hosting
+114 reviews
+4.9 out of 5 average rating
+7 years of hosting

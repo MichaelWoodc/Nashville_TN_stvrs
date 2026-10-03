@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/27546946
+Latitude: 36.2552
+Longitude: -86.7202
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Posh Queen Room with hot tub, 10 minutes to downtown.  
+Smart Lock Check In
+Fast Wi-Fi and 54" TV,
+Desk, USB outlets.
+Renovated kitchen and shared bath.
+Free on-site parking spaces off street.
+2 Miles from East Nashville eats and spots.  
+Native Superhost ready to help!
+Book now-dates fill fast!
+
+The space
+The guest room has a comfy Queen bed and bedding, windows with linen Roman shades, closet and dresser storage, and a large TV with access to DirectTV, Netflix, Amazon Video, Hulu, and CBS All Access.  There is also a desk and chair, iron, ironing board, snacks and bottled water.  There is a train that runs behind the property with quiet restrictions at night for the neighborhood.
+
+Guest access
+Check yourself in with a keypad lock.  Make yourself at home.  You are welcome to use any of the shared living spaces including the living room, kitchen, sitting areas on the front and back porches, the hot tub and the large back yard with a fire pit.
+
+During your stay
+I’m available for any questions you may have;  this is a welcoming, open and accepting home.  Feel free to interact as much or as little as you like.
+
+Other things to note
+New hot tub installed!  If you feel like exercise, Planet Fitness is just a few blocks away.  And the neighborhood is great for walks or runs.  I have yoga mats and blankets available also.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Barry
+Host User ID: 88298790
+Host Profile URL: https://www.airbnb.com/users/show/88298790
+Host Profile URL Source: public user permalink from passport userId
+Interior Designer, Gaymer, traveler, fitness junkie, foodie, flow flagger.  I'm a great cook and crave great craft beer.  I love chasing waterfalls.
+Born in the 60s
+Where I went to school: University of Tennessee
+My work: B. King Designs
+Speaks English
+I'm obsessed with: Cooking
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+378 reviews
+4.88 out of 5 average rating
+8 years of hosting

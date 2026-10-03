@@ -1,0 +1,84 @@
+URL: https://www.airbnb.com/rooms/47853769
+Latitude: 36.21748
+Longitude: -86.74114
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is the home for your Nashville adventure! An exquisitely decorated new build located in East Nashville, this 3 story home features 
+- A roof top patio
+- 3 Smart TV's
+- Garage Parking
+- Decked out Kitchen
+- Self Check in
+- 2 Covered patio's
+- Fully Sanitized in between every stay
+and so much more!
+
+The space
+The space
+This beautiful new build features the following:
+
+*Full sanitization in between each and every stay
+
+*A fully furnished and equipped Kitchen
+
+*High speed WIFI and Cable
+
+*Coffee maker with coffee provided
+
+*Keyless Entry
+
+*Rooftop Patio with a wet bar and plenty of seating
+
+*Washer and Dryer w/ no extra cost
+
+*8 very comfortable beds, including a King in the master
+
+*3 full bathrooms and a Master, plenty of space for everyone to get ready!
+
+*2 car garage and room for 2 additional cars outside
+
+*Dining table, perfect for family dinner
+
+*TV’s in the living room and every bedroom
+
+*Rooftop Patio + two other outdoor patios with seating and a dinner table 
+
+*10 minutes or less to downtown, famous 5 points of East Nashville, Nissan Stadium, Grand Ole Opry, Top Golf, and so much more!
+
+Guest access
+You will have access to the entire home, it's all yours!
+
+Other things to note
+Absolutely no parties involving guests not listed on the reservation (will result in an immediate termination of your booking with no refund whatsoever). 
+The home is 3 levels, so please be aware that if you have trouble with stairs, this home may not be perfect for you.
+
+Guest access
+Rooftop , laundry room,kitchen all bedrooms , living areas
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Milad
+Host User ID: 311578693
+Host Profile URL: https://www.airbnb.com/users/show/311578693
+Host Profile URL Source: public user permalink from passport userId
+Lives in Lebanon, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+105 reviews
+4.84 out of 5 average rating
+6 years of hosting

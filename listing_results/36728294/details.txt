@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/36728294
+Latitude: 36.20805
+Longitude: -86.70264
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our Chateau - the home we've lived in since marrying 20 years ago, is set in a quiet neighborhood 19 minutes from BNA airport, 13 minutes from Opryland, 17 minutes from Nissan Stadium, 20 minutes to Music City Center and the Country Music Hall of Fame, and 24 minutes from Vanderbilt University. Our street backs into Shelby Bottoms Greenway for walking and biking, and we're minutes from lots of live entertainment. You can enjoy a private and peaceful stay.
+
+The space
+You will enjoy quiet space with private entrance, private bathroom, and private kitchenette. We welcome you to enjoy shared space in our courtyard. We have a 4 year old German Shorthaired Pointer who loves the fenced-in backyard, but remains outside of your private space, and two daughters (13 & 15) who are respectful, fun and thoughtful.
+
+Guest access
+You have your own private entrance and space, secluded from rest of house.
+
+During your stay
+You may check in at your convenience with keyless entry system. We're typically home most of the time, but remain active with our music, work and children. We're available on premises, though many times are in-and-out with family or music commitments, or just running errands. Always accessible by phone and text.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 268558759
+Host Profile URL: https://www.airbnb.com/users/show/268558759
+Host Profile URL Source: public user permalink from passport userId
+My husband and I have had an AirBnb since 2018. We are songwriters and musicians living in Nashville , TN, have been married over 20 years and have 2 wonderful teenage girls. We love our pets - 3 dogs and a cat, and enjoy nature!
+Born in the 70s
+My work: Musician & Data Ops.
+I spend too much time: Working
+Fun fact: Jack of all trades, master of none!
+Pets: A cat and 3 dogs.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+256 reviews
+4.93 out of 5 average rating
+7 years of hosting

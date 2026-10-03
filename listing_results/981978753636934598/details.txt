@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/981978753636934598
+Title: Nash Hideout; Guesthouse 5 mi to Broadway & BNA
+Latitude: 36.12324
+Longitude: -86.73023
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish, cozy experience at this centrally-located gem that places you about 10 minutes away from anywhere you want to be in Nashville! 
+
+- 5 mi to the Airport
+- 5 mi to Downtown Broadway 
+- 5 mi to 12 South
+- 3 mi to Geodis Park
+- 7 mi to East Nashville
+
+An updated, fresh stay filled with all the conveniences of home; while being situated conveniently to all of Nashville's food and fun.
+
+The space
+Newly renovated space that feels clean and modern, yet cozy. Enjoy a comfortable new king bed with soft and firm pillows to chose what suits you best. Bedroom includes a wide desk, comfortable chair, and fast wifi to meet all of your work from home needs. 
+Complete with a luxurious bathroom including marble floors, a double sink, and bidet for a spa like experience.
+
+Washer and dryer set included along with detergent to use at your convenience. Full kitchen with a large refrigerator, microwave, stove and oven to meet all of your cooking needs. And lastly, when you're ready to wind down, put your feet up and enjoy the Roku equipped large screen tv on a sofa that also folds down to accommodate a third a guest.
+
+Guest access
+Keyless private entry for full privacy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wensly & Megan
+Host User ID: 190010536
+Host Profile URL: https://www.airbnb.com/users/show/190010536
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of TN at Chattanooga
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+126 reviews
+4.96 out of 5 average rating
+3 years of hosting

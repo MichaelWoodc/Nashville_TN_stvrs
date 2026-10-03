@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/17846863
+Latitude: 36.06608
+Longitude: -86.70907
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern, warm, elegant, and spacious 1,800 sq. ft. home on serene, tranquil 3.5 acres. Nestled between I-65 and I-24 for convenient access to Nashville Airport, Downtown Nashville, and surrounding cities, i.e. Brentwood, Franklin, Murfreesboro, & Clarksville. Minutes to nearby attractions, including Nashville Zoo, Cheekwood, Grand Old Opry, Ryman Auditorium, Arrington Vineyards, Green Hills, Cool Springs, and Opry Mills Malls.  Your home away from home!
+
+The space
+Redesigned modern home with warm modern concepts that provide comfort, function, and elegance! 
+
+3 spacious bedrooms and 2 large full baths. One bedroom is a full master with own bath. The space has a modern kitchen with all stainless steel appliances and other small appliances. The living room is large and spacious for relaxing and enjoying. The laundry room is roomy and has a stainless washer and dryer. 
+
+There is plenty of parking that accommodate multiple vehicles. There is also a large covered porch for guests to relax under while they enjoy a cup of coffee or a drink. The space is a fully independent part of a larger home with its private entrance.
+
+Guest access
+SweetHome is located in South Nashville. It is minutes from I-65 and I-24 for convenient fast access to all surrounding areas. Guests can be in downtown Nashville in 10 minutes, in Franklin in 15 minutes, and in Murfreesboro in 20 minutes. It is located 2 miles from the Nashville Zoo and 15 minutes from the Adventure Science Center. 
+
+The home is in a very safe, family-friendly area of town. 
+
+There are ample shopping venues and restaurants in the area. These include Kroger, Wal-Mart, Target, American restaurants, Thai Cuisine, Indian food, and Mexican restaurants. There are several bars nearby. 
+
+Guests have access to ample parking. The parking lot can accommodate up to 4 vehicles, including larger vans and RVs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bawer
+Host User ID: 77787262
+Host Profile URL: https://www.airbnb.com/users/show/77787262
+Host Profile URL Source: public user permalink from passport userId
+We love to host and help our guests enjoy their stay!
+Response rate: 100%
+Responds within an hour
+10 years hosting
+86 reviews
+4.56 out of 5 average rating
+10 years of hosting

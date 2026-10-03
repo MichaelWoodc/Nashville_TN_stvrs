@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/21526488
+Latitude: 36.14344
+Longitude: -86.82917
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Situated on a quiet residential street in historic Sylvan Park, this independent and private guesthouse is a comfortable space, on the grounds of a contemporary home. Restaurants, coffee shops, grocery store, running/walking trails, and a community gym ($3/visit), are at a walking distance. Drive time to downtown is 10 mins., and Vanderbilt/Belmont 5 mins.
+
+Short Term Rental Permit Number - CASR-2018008967
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kabir
+Host User ID: 23049333
+Host Profile URL: https://www.airbnb.com/users/show/23049333
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Civil Engineer
+Response rate: 100%
+Responds within a few hours
+9 years hosting
+71 reviews
+4.92 out of 5 average rating
+9 years of hosting

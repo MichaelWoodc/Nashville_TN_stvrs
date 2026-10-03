@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1533440125681315230
+Latitude: 36.146
+Longitude: -86.8152
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally located 2-bedroom, 2-bath, condo ideally located within walking distance of Centennial Park and the cafes/shops of the West End corridor. You’ll be just minutes from Vanderbilt, Downtown Nashville, Broadway, and all things Music City!
+
+The space
+The Midtown Muse is nestled within the 30th Ave Lofts — a 40-unit condo building featuring privately owned spaces, many of which serve as high-end short-term rentals. Guest parking is available right out front or in either of the two covered garages accessible from the surrounding alleys. The communal lobby offers cozy seating for waiting on your Uber or Lyft, and mailbox access is available for extended stays.
+
+Inside The Midtown Muse, you’ll find a thoughtfully designed two-bedroom condo that blends modern Nashville style with soft, subtle Greek-inspired touches. The open-concept living room and eat-in kitchen create a warm, inviting space to unwind or entertain. The kitchen features granite countertops, stainless steel appliances, and tall ceilings, while the living area includes a pull-out couch for additional sleeping space.
+
+Guests will also find a single rollaway bed stored in the closet for flexible sleeping arrangements. Each bedroom offers a comfortable, stylish retreat, and the condo includes a private in-unit washer and dryer for convenience.
+
+You’ll be provided with coffee, soaps, paper products, and all the utensils, dishes, and cookware you might need for your stay.
+
+Guest access
+Guests enjoy full private access to The Midtown Muse, including all rooms, the communal lobby lounge, and free garage parking.
+
+Entry is through a digital lock system, with personalized access codes provided approximately 72 hours before arrival.
+
+Other things to note
+We’ve designed The Midtown Muse to be a serene and stylish retreat right in the heart of Nashville. You’ll find everything you need for a comfortable stay — from fresh linens and cozy touches to a fully stocked kitchen and thoughtful details throughout the space.
+
+A few quick things to note:
+
+The rollaway guest bed is stored neatly in the closet for easy access.
+
+Free garage parking and digital check-in make your arrival seamless.
+
+We ask that you treat the space with care and respect — this is our home away from home, and we love sharing it with guests who appreciate the same energy.
+
+Out of respect for neighbors, quiet hours are from 10 PM to 8 AM.
+
+Whether you’re here for work, play, or a little of both, The Midtown Muse offers the perfect blend of comfort, character, and convenience for your Nashville stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patrick
+Host User ID: 24908928
+Host Profile URL: https://www.airbnb.com/users/show/24908928
+Host Profile URL Source: public user permalink from passport userId
+We have a some vacation homes in Tennessee, Vermont, Maine, and Florida. We love to travel, but we enjoy hosting even more! Contact us to see if we can help with your upcoming trip, we are confident that you will enjoy your stay in any of our properties!!
+Where I went to school: Albion College (Michigan)
+My work: Property management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1628 reviews
+4.82 out of 5 average rating
+12 years of hosting

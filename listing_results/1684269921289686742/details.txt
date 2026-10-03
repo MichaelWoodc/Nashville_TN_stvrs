@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1684269921289686742
+Latitude: 36.14407343438295
+Longitude: -86.78541644384909
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 7
+beds: 15
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your 7-bedroom retreat in the heart of Nashville’s Gulch! Walk 10 minutes to Broadway’s live music, dining and honky-tonks.
+Space: 3 floors of open living for up to 22 guests, fully stocked kitchen, BBQ grill and high-speed Wi-Fi.
+7 private bedrooms, crisp linens
+2 large living rooms for game day
+Washer/dryer for longer stays
+Rooftop-style balcony with city views
+Self-check-in keypad, professional cleaning, and local tips included. Book your group escape today!
+
+The space
+3 floors of open living for up to 22 guests. This listing is two side-by-side units. 3 floors of open living in each. Note: 2 cots stored on site in one of the units.
+
+Unwind Luxury Vacations is the professional management company for this home, and committed to curating your 5-star experience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cole
+Host User ID: 754556278
+Host Profile URL: https://www.airbnb.com/users/show/754556278
+Host Profile URL Source: public user permalink from passport userId
+Outside of work, I’m a big fan of the Tennessee Titans and Notre Dame Fighting Irish football. I enjoy spending time with my family, relaxing at the beach, and making the most of the outdoors through fishing and golf. When I’m winding down, I also enjoy a good book.
+Response rate: 100%
+Responds within an hour
+4 months hosting
+8 reviews
+5.0 out of 5 average rating
+4 months of hosting

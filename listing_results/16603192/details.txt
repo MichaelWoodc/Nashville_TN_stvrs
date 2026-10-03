@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/16603192
+Latitude: 36.11909
+Longitude: -86.78176
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the cottage’s bright, open-concept living space with family and friends. Relax on the screened porch or head out to explore Nashville’s many attractions. Just blocks from some of the city’s best coffee shops, restaurants, parks, and boutiques, it’s a true home away from home—spotless, well-equipped, and welcoming.
+
+The space
+Kirkwood Cottage is a  2 bedroom, 2 bath single floor home in the wonderful 12South neighborhood. You’ll enter through a private gate off the shared driveway that provides guest parking for up to two vehicles. An open floor plan with vaulted ceilings makes the space feel both airy and cozy. The screened side porch is the perfect spot for morning coffee or evening cocktails. And there’s a completely fenced-in backyard and patio. Walk to many great restaurants and shops. Three miles to downtown.
+
+The fully equipped kitchen includes everything you need to cook a great meal if you choose to stay in. 
+
+There’s a gas fireplace in the open living area, along with a smart TV to stream Netflix, Hulu, etc. and plenty of comfortable seating. 
+
+Keyless entry makes it easy to come and go at your convenience.
+
+Other things to note
+There’s a two-night minimum generally, and a three-night minimum during special events and on holiday weekends. The property is fully permitted by Metro Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karla
+Host User ID: 27530680
+Host Profile URL: https://www.airbnb.com/users/show/27530680
+Host Profile URL Source: public user permalink from passport userId
+Friendly introvert. Retired graphic designer, Airbnb host. Long time married, with an amazing full grown son.
+Love music, art, dogs, movies, a comfy spot to read, gardens, traveling adventures,  and mostly hanging with my friends and family.
+Born in the 50s
+My work: graphic designer
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+250 reviews
+5.0 out of 5 average rating
+10 years of hosting

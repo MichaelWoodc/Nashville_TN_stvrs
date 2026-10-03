@@ -1,0 +1,95 @@
+URL: https://www.airbnb.com/rooms/1678332560722641128
+Latitude: 36.2261
+Longitude: -86.726
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a spacious, comfortable stay near the best dining and bar scene that Music City has to offer!
+
+Great location!
+
+A 15 minute drive to Downtown and Broadway!
+A 10 minute drive to the Grand Ole Opry!
+Very close to various great bars and eateries!
+
+The space
+This apartment sits above a lovely tattoo parlor and private gym.
+
+You will find:
+
+An elevator
+Full Kitchen
+Living room with an extra bed.
+Free parking
+Wifi
+
+Both bedrooms have a queen size bed, walk-in closet, and full bathroom.
+
+Guest access
+Keyless entry via keypad. Elevator access during the day and via code during the evenings.
+
+Other things to note
+We require all guest to sign a rental agreement. The agreement is as follows:
+
+This Lease is entered into on the date hereof, by and between  (“Owner”) and  (“Renter”) for the property located in  and listed as  (“Property”).
+
+ TERM: The term of the Lease shall begin on the arrival date of __ and end on the departure date of __ for . The property will be ready for occupancy no earlier than  on the arrival date and must be vacated no later than  on the departure date. The term of the Lease may be reduced or extended upon mutual consent, following payment of any additional fees agreed between the parties, and confirmed in writing by the Owner.
+
+RENT: The total rent is , payable at the time of booking.
+
+LIMITED OCCUPANCY: Occupancy is limited to the number of guests specified on the booking: __.  If the Owner concludes that this policy has been breached, the Owner reserves the right to expel the entire party with no refund.
+
+NON-DISTURBANCE CLAUSE: Renter and their guests shall not disturb, annoy, endanger (fireworks), or create inconvenience for neighbors nor use the premises for any unlawful purposes. You agree to keep outside noise to a minimum between the hours of 10:00 pm and 6:00 am.  You and all other guests agree to abide by all applicable parking restrictions and limitations.
+
+CARE OF PREMISES/DAMAGES: NO UNAUTHORIZED PETS ALLOWED. NO SMOKING PERMITTED IN HOUSE. Automatic eviction plus forfeit of any deposit and rent if violated. Renter agrees to pay the Owner for any damages to furnishings, household items, or pool that occur as a result of Renter’s occupancy. This will include payment of any additional cleaning charges over $100.00 incurred due to Renter’s occupancy. To prevent theft of, or damage to, the Renter's personal property and that of the Property, Renter agrees to close and lock doors and windows when not present at the Property, including upon check-out.
+
+OWNERS RIGHTS: Renter agrees that if the conditions and limitations set forth herein are not met, Owner shall have the right to cancel this agreement and may enter the Property, either by statutory proceedings or by force, to inspect the Property and ensure that Renter has vacated the Property. All monies paid by Renter shall be forfeited as liquidated damages.
+
+INDEMNITY CLAUSE: Renter hereby agrees to Indemnify and hold the Owner harmless from any and all claims, including those of third parties, arising out of or in any way related to Renter’s use of Property or the items of personal property provided therein.  Renter assumes all risk of injury or other losses relating to any recreational activities, including the use of any swimming pool on the Property, and will hold Owner harmless with respect thereto.
+
+NO SUBLETTING: Renter may not sublet or assign this Lease for all or any part of the premises without the prior written consent of the Owner.
+
+NO PERMANENT RESIDENCE: Renter's use of the Property is on a temporary, short-term, and transient basis only. The Property is not, and will not be, the Renter's, or any guest's, permanent residence.
+
+REPAIRS AND MAINTENANCE:  The Property is rented with the Owner’s furniture and household furnishings. The owner shall not be responsible for providing additional furnishings or equipment not presently available in the Property.  Renter will report any maintenance issues immediately to the Owner. The Owner will make every effort to repair and/or replace any equipment that is not working properly but cannot guarantee that all equipment is in good operating order at all times and no rate adjustments or refund will be made for equipment or appliance failures.
+
+CANCELLATIONS: Renter may cancel at any time. The Owner will return any refundable amount, if applicable, according to the reservation's cancellation policy.
+
+SECURITY DEPOSIT: The Owner reserves the right to request a refundable security deposit, depending on the nature of the reservation (including, but not limited to, the size of the group, the age of the Renter and guests, and the stated purpose of stay).
+
+By signing this Lease, you acknowledge that you will comply with the terms of this agreement, and each party assumes the responsibility for the obligations set forth herein.
+
+Renter acknowledges receipt of the House Rules. 
+
+Renter acknowledges that they have read, accept, and agree to the terms set forth.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stay Wandering
+Host User ID: 420371928
+Host Profile URL: https://www.airbnb.com/users/show/420371928
+Host Profile URL Source: public user permalink from passport userId
+For the Wander's in the World..
+
+We love bringing these boutique, chic, central, spacious listings to you! We're known for our 3-4 bedroom townhomes nestled on the city lines. Perfect for families, friends trips, bachlorette parties + your home away from home experience!
+
+Enjoy Music City and come home to our townhomes to rest, gather + make memories!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+5 years hosting
+2873 reviews
+4.71 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1660119667953317175
+Latitude: 36.10134
+Longitude: -86.74725
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home base— 10 MINUTES FROM DOWNTOWN, The Gulch, the Airport, and 12th South! This cozy 3 BEDROOM, 2 FULL BATH, bright open living space, fast Wi-Fi, Smart TV, a functional kitchenette w/ hotplate, toaster oven, microwave (no range, no dishwasher) full-size refrigerator, WASHER AND DRYER, plus crib and highchair. Enjoy a FULLY FENCED front yard (NO PETS OVER 60 LBS), with quick access to I-440 and I-65. Beds (King, Queen, Double). No smoking on premises.
+
+The space
+Beautifully decorated and calm space. Three separate bedrooms and two full bathrooms. Spotlessly clean and a great fully fenced yard.
+
+Other things to note
+Street parking available with an additional parking space marked by a green flag on the side of the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Judson
+Host User ID: 361086602
+Host Profile URL: https://www.airbnb.com/users/show/361086602
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 months hosting
+42 reviews
+4.95 out of 5 average rating
+5 months of hosting

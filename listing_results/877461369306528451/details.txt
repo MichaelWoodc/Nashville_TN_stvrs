@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/877461369306528451
+Latitude: 36.12928
+Longitude: -86.74779
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape the ordinary as you step into our funky boho Airbnb! Fill a unique vintage glass with your drink of choice and allow the vibrant colors and cozy design to welcome you into vacay mode! 
+
+The Hodge is located 3 miles from downtown Nashville, and a walkable distance from Geodis Park, coffee shops and restaurants! 
+
+With 2 bedrooms and 5 beds, this house is the perfect fit for small groups who want to enjoy their downtime as much as their reason for visiting the famous Music City.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chelsie
+Host User ID: 499902777
+Host Profile URL: https://www.airbnb.com/users/show/499902777
+Host Profile URL Source: public user permalink from passport userId
+I am a creative whose art is curating spaces and gatherings that foster connection and life. My husband and I love to travel, especially road trips with our kids, and eat good food with people we love. I am passionate about the movie Moana and Encanto, I am often seen with either coffee or celcius in my hand, and I love to read. I am a pastor in the Church of the Nazarene, a doer of all the random projects, and a hammock enthusiast.
+Born in the 80s
+Where I went to school: Trevecca Nazarene University
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+296 reviews
+4.84 out of 5 average rating
+3 years of hosting

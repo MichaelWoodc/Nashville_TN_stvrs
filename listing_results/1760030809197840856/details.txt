@@ -1,0 +1,96 @@
+URL: https://www.airbnb.com/rooms/1760030809197840856
+Latitude: 36.15366390049657
+Longitude: -86.80369186921443
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Nashville’s best spots, with Vanderbilt, Centennial Park, and the iconic Rock Block on Elliston Place just minutes away. After exploring Music City, retreat to a quiet, stylish apartment designed for comfort and privacy. Enjoy self check-in from 4 PM, plus guest support by text, phone, and our Virtual Front Desk through your mobile device.
+
+The space
+SLEEPING ARRANGEMENT:
+
+* Bedroom: 1 queen-size bed (sleeps 2)
+
+LIVING SPACE:
+
+* Full kitchen with dishes, cookware, and dishwasher
+* Coffee and tea provided
+* Free high-speed WiFi
+* In-unit washer and dryer
+* Comfortable dining table for work, meetings, or studying
+* Smart TV
+* 600 square feet
+
+PARKING:
+
+* Limited paid on-site parking available for $20/night plus taxes. Fees are collected online during virtual check-in. Up to 2 vehicles per unit; vehicle registration is required.
+
+We manage multiple units in this building, and each one is unique. Decor and layout may vary slightly from the photos shown.
+
+Guest access
+BUILDING AMENITIES:
+
+* Swimming pool
+* Fitness center
+* Elevator
+
+WHAT YOU CAN COUNT ON:
+
+We manage every part of your stay to provide reliable, professional service while giving you the freedom of a self-guided experience.
+
+* 24/7 virtual support via text, chat, email, or phone
+* Walkable location near Vanderbilt, Centennial Park, and Midtown Nashville
+* Professional cleaning between every stay
+* Thoughtfully designed interiors focused on comfort
+* Secure ID verification at booking
+* In-unit noise and smoke monitoring for a safe, quiet stay
+
+Other things to note
+PLEASE NOTE:
+
+Before you arrive:
+
+* REQUIRED FOR ALL GUESTS: Complete the check-in form we send you. Your unit number, door code, and access instructions will only be provided after submission.
+* The form includes ID verification, criminal background screening, a valid credit or debit card for incidentals, early check-in requests, and parking fees.
+* Reservations cannot be completed if the background check returns disqualifying criminal records. If this affects your booking, you will be notified promptly after submitting the check-in form.
+* Age requirement: guests must be 22+ to book and check in, or 25+ if booking locally within 50 miles of the property.
+* Payments for optional services such as parking are collected via major credit or debit card through the service provider.
+
+PARKING:
+
+* On-site parking is available for $20/night plus tax, collected through the check-in form. Up to 2 vehicles per unit; vehicle registration is required.
+
+HOUSEKEEPING:
+
+* Mid-stay cleaning is not included. Additional cleanings may be scheduled upon request for a fee.
+
+UNIT APPEARANCE:
+
+* Photos accurately represent the unit layout and category, but furniture, décor, and lighting may vary slightly between units.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steve
+Host User ID: 584763751
+Host Profile URL: https://www.airbnb.com/users/show/584763751
+Host Profile URL Source: public user permalink from passport userId
+Here to provide an amazing stay for our guests!
+Speaks English
+Response rate: 100%
+Responds within an hour
+2 years hosting
+493 reviews
+4.58 out of 5 average rating
+2 years of hosting

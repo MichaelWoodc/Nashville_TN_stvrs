@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/776831764917071600
+Latitude: 36.1921
+Longitude: -86.7368
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 11
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Ebony is a four-bedroom East Nashville bungalow where the porch light is always on and the beds are freshly made. We designed this home for slow mornings, long dinners, and the kind of laughter that only happens when everyone's finally in the same place. Coffee on the pergola. Lightning bugs on the screened-in porch. Space to be apart, a kitchen that pulls everyone back in, and the kind of ease that makes you forget you're not home.
+
+The space
+The Space
+Four bedrooms, three full bathrooms, and room to breathe. The main floor has two queen bedrooms (one with its own attached bathroom), along with the kitchen, living area, and screened-in porch. Upstairs is the primary king suite with a soaking tub, and the bunk room. Every bed has a DreamCloud Premier mattress. Every room has blackout shades. 
+
+There's a reading nook for the one who disappears with a book, a Peloton for the one who doesn't skip a workout, and two 65" Smart TVs for the ones who just want to sink into the couch after a long day exploring the city. High-speed fiber internet keeps you connected if you're mixing work into the trip.
+
+The kitchen was made for gathering, whether you're cooking a full meal or just uncorking a bottle of wine and ordering in. Pack 'N Play and high chair available on request.
+
+Outdoors
+The screened-in porch is where mornings begin and evenings wind down. There's also a covered side pergola for morning coffee, a spacious fenced backyard, and a driveway that fits three cars comfortably.
+
+The Neighborhood
+East Nashville puts you in walking distance of Café Rozé, Rosepepper, Vinyl Tap, and Ugly Mugs. No car needed for a great dinner. There's a community park less than a block away, and downtown is just minutes down the road. 
+
+Good to Know
+Our home is best suited for families, couples, and small groups. We ask that guests respect our neighbors with outdoor quiet hours from 9 PM to 6 AM. No parties or events, no smoking or open flames, and no pets. A security deposit hold and signed rental agreement are required after booking. Exterior security cameras are present on the property. Early and late checkout may be available upon request.
+
+Permit #2022077414
+
+Other things to note
+Permit Number: #2022077414
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Annie
+Host User ID: 126301592
+Host Profile URL: https://www.airbnb.com/users/show/126301592
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Annie — a lifelong host who believes great hospitality creates connection. I grew up in the Midwest, where open doors and thoughtful care were second nature. That spirit lives on in my rentals, where I blend approachable luxury with cozy charm. Whether you're curling up with a book, cooking a great meal, or enjoying the outdoors, I’ve designed each space to feel inviting and intentional. I hope your stay feels like home. Welcome in.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+202 reviews
+4.98 out of 5 average rating
+4 years of hosting

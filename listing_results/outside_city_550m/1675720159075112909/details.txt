@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/1675720159075112909
+Latitude: 35.96856
+Longitude: -87.01337
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy 2 room cabin/apt, part of a larger ranch house divided into two cabins) a in pristine valley 8 miles from Franklin & 20 from N'ville. Kitchenette. Outside hottub is private by appt ($75 fee for cleaning  & setup, requires 12 hours advance notice). Many hiking trails. Cute farm animals next door. Back patio has wonderful views and tables/ barbecue. Draw water from an old-fashioned well! Explore the creek or lake. Walk to lake or organic farm just up the road. Meet Winston the Cow, Donkey, an
+
+The space
+The house, which stands alone in a large valley. Adjacent to private farm with cute farm animals. The ranch house is subdivided into two cabin/apartments, each with its own private entrance and access to the outside hot tub. Very fast data and internet available via fiberoptic cable
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

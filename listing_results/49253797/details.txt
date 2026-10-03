@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/49253797
+Latitude: 36.1559
+Longitude: -86.8188
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Designed with Bachelorettes & large groups in mind, these accommodations check all the boxes. Traveling with the girls? You'll enjoy four queen beds, four XL bunks & one king bed. There's plenty of room to get dolled up at one of our 3 makeup stations or large bathroom vanities. Level one is private and equipped with  kitchenette, mini fridge, full bath, TV, game room, 2 queen beds, bunks & separate entrance.
+
+The space
+Welcome to the ultimate, most luxurious accommodations Nashville has to offer.  Create an unforgettable travel experience with your family and friends in this downtown, four-story townhome. Sip cocktails while you enjoy breathtaking, skyline views from one of your two spacious outdoor terraces. Relax in one of your two well-equipped living spaces complete with wet bar, mini fridge, two large televisions, retro bowling game station, and shuffleboard table. Cozy-up in one of our extra-large, comfy bunks designed with adults in mind. Catch some zzzz’s in our king Dolly room furnished in luxurious velvets and designer wall coverings. Have pillow fights (eh… maybe not) in one of our Southern Charm queen rooms that are certain to bring out the Southern Belle in YOU! Get gussied-up for Broadway at one of our three mirrored, makeup vanities. And finally, nurse that hangover with some coffee at the Keurig station. We look forward to serving you during your stay and help create a Nashville experience like no other. Please do not hesitate to reach out with questions regarding this property. We will respond promptly to your inquiry. And of course, welcome to Nashville, Y’all!
+
+Guest access
+Entire townhome
+
+Other things to note
+Due to the nature of our small business, we have chosen a “Strict Cancellation Policy”. We will be unable to make exceptions. We recommend purchasing a travel insurance plan in the event some or all of the guests are unable to attend. Thank you for understanding.
+
+We are always happy to allow for an early check-in when available, however early check-in is dependent on the booking and cleaning schedule.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristin
+Host User ID: 29994090
+Host Profile URL: https://www.airbnb.com/users/show/29994090
+Host Profile URL Source: public user permalink from passport userId
+Hello! My name is Kristin. Interior design and hosting is my full time job. I personally inspect each home prior to guest arrival. Please let me know if I can help answer any questions. I look forward to meeting you!
+Where I went to school: New Jersey
+My work: Interior Design
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+325 reviews
+4.98 out of 5 average rating
+5 years of hosting

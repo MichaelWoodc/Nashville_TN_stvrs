@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/52569782
+Latitude: 36.17856
+Longitude: -86.74153
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Lockeland Springs garden apartment offers 3 spacious bedrooms and 4 comfy beds—perfect for couples, friends, or families. You’ll be just a few blocks from some of East Nashville’s favorites like Urban Cowboy and Lockeland Table, plus newer nearby hits including The Den, Bill’s Sandwich Palace, and Mama Bread.
+
+It’s an easy walk to Five Points, and downtown is about 8 minutes by car. Comes with kitchenette (not a full kitchen), patio, charcoal grill, fire pit, and private entrance.
+
+The space
+The apartment is located on the lower floor of our house. You’ll have the entire floor to yourselves, as well as the backyard and lower patio.
+
+Guest access
+The apartment is located on the lower floor of our house. You’ll have the entire floor to yourselves, as well as the backyard, fire pit, grill, and lower patio. A lockbox code for access to keys will be provided to guests prior to checkin.
+
+Other things to note
+For guest comfort, we provide extra blankets, space heaters, pillows. We really want everyone to be comfortable so if you need anything, don't hesitate to ask. 
+
+We've done our best to provide everything you need to cook a meal, but please note our kitchenette setup is limited. You'll have a mini fridge, tea and coffee station with Nespresso machine, kettle, and french press, induction hot plate, toaster oven, and microwave.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Darragh
+Host User ID: 171451728
+Host Profile URL: https://www.airbnb.com/users/show/171451728
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Queen's University and NYU
+Response rate: 100%
+Responds within an hour
+4 years hosting
+92 reviews
+4.87 out of 5 average rating
+4 years of hosting

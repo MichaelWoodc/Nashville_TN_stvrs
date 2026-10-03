@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/659458327077368193
+Latitude: 36.3225
+Longitude: -86.5485
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located just 30 minutes NE of downtown Nashville, in Hendersonville, TN. Across the street from the lake in a quiet neighborhood, 0.8 miles from the late Johnny Cash’s property, where you can retreat to after touring around the city or there’s plenty to see in the local Hendersonville area. A deluxe suite with a full bath, queen sized bed, walk in closet, and kitchenette. Offered is the one bedroom suite with only access door to the driveway from the home. We look forward to your stay!
+
+The space
+We live on a cornered lot. We have made what was the attached garage into a guest suite. It has it’s own access to outside towards the driveway so you would not need to go through the main house.
+
+Guest access
+You will only have access to your specific suite, with a door to the driveway.
+
+During your stay
+If we are in town, we will be at service if you need any assistance however we treat this suite as a hotel suite. We usually stay out of your way, however if our paths cross, we enjoy meeting our guests!
+
+Other things to note
+We do not allow our guests to use our back patio area at this time and ask our guests to stay in their designated space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Haley
+Host User ID: 255265920
+Host Profile URL: https://www.airbnb.com/users/show/255265920
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+50 reviews
+4.96 out of 5 average rating
+4 years of hosting

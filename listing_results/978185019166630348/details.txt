@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/978185019166630348
+Latitude: 36.21904
+Longitude: -86.72519
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Explore Nashville using this cute studio to call home base. Walkable to East Nashville bars, restaurants, shops, and more, the studio is just a ten-minute drive to downtown Nashville. Please note this space is a part of a larger home, however it has its own entrance, parking spot, yard, and is cut off from the rest of the house.
+
+Local spots:
+Shotgun Willies BBQ
+El Fuego
+Inglewood Lounge
+The Underdog
+American Legion Post 82
+High Class Hillbilly
+Backslide Vintage
+
+The space
+This is a studio which includes a bedroom/living room space, a full bathroom, and a kitchenette. Please note this space is part of a larger house. I will not have access to your space, and you won't have access to mine. You have your own entrance and fenced in yard. There's a locked door seperating the AirBnB from the main house.
+
+While there is no oven, there is a brand new double hot plate.
+
+Guest access
+You have your own parking spot at the front of the house. You'll take a walkway down the side of the house to entrance of the studio.
+
+Other things to note
+Please let me know if you will need the air mattress.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin
+Host User ID: 1776648
+Host Profile URL: https://www.airbnb.com/users/show/1776648
+Host Profile URL Source: public user permalink from passport userId
+Hi Fellow Traveler,
+
+I’m a touring musician often booking for places to stay on the road! Always respectful and often barely at the house, I love using AirBnB for work and vacay!
+
+-Kevin
+My work: Writer/Musician
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+520 reviews
+4.9 out of 5 average rating
+11 years of hosting

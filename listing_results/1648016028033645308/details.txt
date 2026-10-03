@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1648016028033645308
+Latitude: 36.1575
+Longitude: -86.79607
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to State Street, a charming 14-unit building in a quiet, centrally located neighborhood. This redesigned space offers a cozy living area, fully equipped kitchen, and serene bedroom with a king-sized bed. Close to the hospital district and local cafes, enjoy a shared courtyard with a fire pit, corn hole, and bocce ball — minutes from Nashville's downtown and music scene. We're here to help!
+
+The space
+Welcome to State Street Your Home Base in the Heart of Nashville
+
+Tucked into a beautifully renovated 14-unit boutique building right in the heart of Midtown, State Street is the kind of place that feels like a discovery charming and intimate, you'll feel safe and right at home the moment you arrive.
+
+Getting in is a breeze — we use smart locks for seamless, contactless self check-in. No waiting around for keys, no coordinating schedules. Just show up, tap in, and make yourself at home.
+
+The Space
+
+Originally built in 1962 and completely reimagined from top to bottom, this space strikes the perfect balance between cozy and stylish. You'll find a thoughtfully designed living area that actually feels like a living area (not a furniture showroom), a fully equipped kitchen for everything from morning coffee to late-night snacks, and a serene bedroom with a plush king-sized bed that'll make getting out of it genuinely difficult. All the comforts of home — and then some.
+
+The Courtyard — Your New Happy Place 
+Here's where things get fun. Step outside into our beautifully landscaped private courtyard, shared by the 14-unit building, and you've got yourself a little slice of Nashville social life. Fire pit? Check. Bocce ball court? Absolutely. Corn hole? You know it. Whether you want to strike up a conversation with a fellow traveler over a cold drink or quietly enjoy the fire with a book, the vibe here is entirely yours to set. Come as social or as solo as you feel like — no pressure either way.
+
+The Location — Midtown Nashville at Its Finest 
+
+State Street sits right in Midtown Nashville, which means you're in the sweet spot of the city. Close to everything, overwhelmed by nothing.
+
+Walk a few minutes and you're on Division Street, lined with eclectic restaurants and high-spirited bars. Stroll a little further and you're exploring the shops and eats of Edgehill Village or The Gulch. Vanderbilt University and the iconic Centennial Park (home to Nashville's very own replica of the Parthenon — yes, really) are just minutes away. Saint Thomas Midtown Hospital is just down the street, making this a favorite for travel nurses and medical professionals too.
+
+When you're ready for the full Nashville experience, downtown is an easy ride away — Honky Tonk Row, the Ryman Auditorium, the Country Music Hall of Fame, and the legendary Tootsie's Orchid Lounge are all within reach. Music Row, with its famous recording studios and record labels, is practically your neighbor. And on weekends, you might not even need to go far — live music has a way of finding you in this city.
+
+Hungry? You're surrounded by local favorites. Coffee person? The café scene here will not disappoint.
+Who This Place is Perfect For young professionals, couples, solo travelers, and small groups who want to actually experience Nashville — not just sleep near it. 
+
+Whether you're here for a bachelorette weekend, a work trip, or finally taking that Nashville trip you've been talking about, State Street puts you right where the action is without sacrificing the peace and quiet of a private building.
+
+We're always here if you need anything. Welcome to Music City — now go enjoy it.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Notable Collection
+Host User ID: 699711821
+Host Profile URL: https://www.airbnb.com/users/show/699711821
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+2514 reviews
+4.79 out of 5 average rating
+1 year of hosting

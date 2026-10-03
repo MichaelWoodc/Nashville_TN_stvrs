@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1645885420845717042
+Latitude: 36.21434198933178
+Longitude: -86.58213011380838
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Old Hickory Village, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your exclusive Nashville getaway in Hermitage — where comfort, style, and unforgettable experiences come together.
+
+Designed with groups in mind, this upscale retreat comfortably sleeps up to 12 guests and is perfect for bachelor & bachelorette celebrations, birthdays, and luxury weekend escapes.
+
+Step into your own private backyard oasis, featuring a resort-style pool, outdoor bar, and fully equipped outdoor kitchen — the perfect setting for poolside drinks, private area
+
+The space
+4 bedrooms 2 1/2 bath. Extra living space going in to the pool area that can be converted to another spare room if needed there is a queen air mattress
+
+Guest access
+— known as the heart of bachelor and bachelorette parties — you’ll have quick access to Broadway’s nightlife, top-rated restaurants, and entertainment, while still enjoying a private and relaxing space to unwind. You’re also near Percy Priest Lake 1) for boating and daytime adventures.
+
+✨ What sets this home apart:
+• Private, resort-style pool for a true getaway experience
+• Outdoor bar + full kitchen — perfect for hosting & entertaining
+• Spacious layout designed for groups
+• Prime location near Nashville nightlife & attractions
+• Ideal for celebrations and high-end group stays
+
+Optional Pontoon Boat Experience:
+Elevate your stay with access to our pontoon boat, available upon request for an additional fee. Availability is limited and subject to approval. A signed liability waiver, required documentation, and a security deposit are required prior to use.
+
+Whether you’re celebrating something special or simply indulging in a weekend escape, this home offers a premium Nashville experience designed for unforgettable moments.
+
+🎉 Book your stay and experience Nashville the right way
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Yessica
+Host User ID: 232421314
+Host Profile URL: https://www.airbnb.com/users/show/232421314
+Host Profile URL Source: public user permalink from passport userId
+I’m Yessica I have  a 3 years old and a 16 year old wanna get  way from Nashville
+Where I went to school: Nashville TN
+I spend too much time: Reading
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+52 reviews
+4.87 out of 5 average rating
+6 months of hosting

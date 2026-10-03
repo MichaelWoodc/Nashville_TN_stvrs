@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/15916605
+Latitude: 36.17404
+Longitude: -86.78119
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our condo is located right on the river in downtown Nashville. It is 0.9 miles from Broadway, where all the honkey tonk bars are.  We are very close to the AAA Baseball Stadium that hosts the Nashville Sounds.  There is free, unreserved covered parking and the condo is on the first floor.  It is very easy to access. Let us know if you have any questions!  We would love to host you!
+
+The space
+Whether you're looking for Nashville night life or a peaceful retreat, our condo offers both. located right on the river in downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amy & Jarrod
+Host User ID: 103264980
+Host Profile URL: https://www.airbnb.com/users/show/103264980
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+829 reviews
+4.86 out of 5 average rating
+10 years of hosting

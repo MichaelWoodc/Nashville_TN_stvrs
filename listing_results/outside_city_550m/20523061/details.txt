@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/20523061
+Latitude: 36.26234
+Longitude: -86.5386
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming, spacious, clean, and fun personal guest house above beautiful brick garage on our cul de sac property.  Decorated with pieces from our life to please any type of guest! Quiet, safe family neighborhood. Five minutes from  local joints and beautiful lake-side parks.  25 minutes from downtown Nashville depending on traffic. 12-15 minutes from Mount Juliet shopping and restaurants.
+
+The space
+Lovely and fun guest house apartment on our property above the garage. Kitchen with fridge, microwave, Kuerig and sink. Pull out couch.  Breezy trees and gardens outside. Quaint, open floor plan.
+
+Guest access
+No access to main house or the deck or hot tub.
+
+Other things to note
+There is a kitchen sink, microwave, coffee machine and small refrigerator but no freezer, no stove, and no washer/ dryer.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sera
+Host User ID: 119305255
+Host Profile URL: https://www.airbnb.com/users/show/119305255
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Tennessee, United States
+Responds within a few days or more
+9 years hosting
+88 reviews
+4.89 out of 5 average rating
+9 years of hosting

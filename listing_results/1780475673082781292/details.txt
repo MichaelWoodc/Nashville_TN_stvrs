@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1780475673082781292
+Latitude: 36.08171
+Longitude: -86.62752
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to "The Brazilian Touch," a newly renovated 3-bedroom, 2-bathroom home located 12 min from the airport and 24 min from downtown Nashville. 
+
+Hosted by André and the Brazilian architect Rodrigo Motta who styled the home, this retreat blends modern comfort with sophisticated, curated design elements. 
+
+From the inviting exterior to the expansive, newly refinished hardwood floors running throughout the home, every detail has been thoughtfully updated to provide a relaxing and seamless stay.
+
+The space
+Recently fully renovated, this single-level home pairs modern functionality with warm architectural styling. Original wood floors have been completely refinished throughout, complementing an expansive, airy layout designed for effortless gathering and downtime.
+
+Integrated Living & Dining: 
+The spacious central living area features a massive, comfortable sectional couch and curated decorative accents. It opens directly to the dining room, anchored by a rich wood dining table paired with mid-century curved chairs.
+
+Chef’s Kitchen: 
+Fully equipped with stainless steel appliances, crisp white cabinetry, generous counter space, and a substantial island with breakfast bar seating - ideal for morning coffee or casual entertaining.
+
+Restful Bedrooms: 
+Each bedroom is outfitted with brand-new hybrid or memory foam mattresses, crisp linens, and dedicated closet space. Thoughtful design touches include earthy accent walls, ceiling fans, ambient lighting, and wall-mounted smart TVs.
+
+Outdoor Living: 
+Unwind on the covered front porch lined with custom natural wood posts, overlooking the quiet residential yard.
+
+Wi-Fi:
+Fast gFiber Wi-Fi 7 3Gbps
+
+Phase 1: 
+Guests enjoy private, complete access to the first floor of this 3-bedroom, 2-bathroom layout, providing plenty of room to spread out just a short drive from the music, dining, and culture of Nashville.
+
+Guest access
+Guests have exclusive access to the Phase 1 layout - the entirety of the first floor - which includes the primary living spaces, the fully equipped kitchen, three bedrooms, two bathrooms, and the front porch.
+
+Other things to note
+Nashville STR Permit CASR2026075720
+
+No parties or unregistered gatherings of any kind. Only guests included in the confirmed booking reservation are permitted on the property at any time. Quiet hours are 10:00 PM to 7:00 AM daily in accordance with Metro Nashville neighborhood ordinances.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rodrigo
+Host User ID: 711667132
+Host Profile URL: https://www.airbnb.com/users/show/711667132
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Interior Design
+3 months hosting

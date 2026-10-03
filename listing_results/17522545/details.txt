@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/17522545
+Latitude: 36.1818
+Longitude: -86.7161
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our spacious ranch-style home in a peaceful, family-friendly neighborhood. Amenities include a bar/lounge area, fenced yard, and great parking. Located near Shelby Park, just 8 minutes from Five Points and 4.5 miles from Broadway. Perfect for families and music lovers alike. Please review house rules before booking. 3BR, 2BA in East Nashville!
+
+The space
+Located 10.8 miles from Nashville International Airport (BNA) about a 20 minute drives, this spacious 1970's Ranch-style house VERY well kept and clean.
+
+The living room features a Smart TV. High speed internet available as well. 
+There are three spacious bedrooms each with their own comfortable bed and closets. Two of the three bedrooms have Smart TVs.
+
+Bedroom 1: King Bed w/TV
+Bedroom 2: Queen Bed w/TV
+Bedroom 3: Full Bed
+Living Room: Sleeper Sofa w/ TV
+
+Guest access
+The entire house will be yours, including our large backyard with patio furniture! Parking is in the drive way.  Guest has 24 hour access to the entire home.
+
+Other things to note
+** While staying with us, PLEASE make sure ALL doors are shut and locked when not in use! PLEASE do not leave any valuables in your vehicle if parked on the street. Nashville is a BIG city so please make sure to be vigilant with our property and yours!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 117466378
+Host Profile URL: https://www.airbnb.com/users/show/117466378
+Host Profile URL Source: public user permalink from passport userId
+Hey there! I'm a California native who moved to Nashville in 2010. I look forward to hosting you and making sure you have an easy and memorable experience in Nashville. I'll always do whatever I can to make sure there are no regrets booking with me :)
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+290 reviews
+4.95 out of 5 average rating
+10 years of hosting

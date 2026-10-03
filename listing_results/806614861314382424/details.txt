@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/806614861314382424
+Latitude: 36.1545
+Longitude: -86.7639
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Immerse yourself in Nashville’s vibrant energy at this sleek one-bedroom condo, just moments from Broadway’s legendary buzz. This stylish luxe retreat masterfully blends sophisticated design with cozy comfort—ideal for romantic getaways or business travelers needing a polished, hassle-free base. Every thoughtful detail ensures a seamless, elevated stay, with iconic attractions, dining, and live music right at your fingertips.
+
+The space
+Welcome to your premium Nashville stay by NASHBNBRENTALS.
+Experience the perfect blend of sophistication and functionality in this stylish one-bedroom condo, ideal for couples seeking romance or business travelers needing a comfortable, convenient base in the heart of Music City.
+You’re just 0.8 miles from the legendary energy of Downtown Broadway—a quick 5-minute drive or an easy stroll to iconic live music venues, world-class dining, entertainment, and Nashville’s vibrant spirit. Explore renowned attractions, shops, and hotspots right on foot from your doorstep.
+
+Step inside to a well-equipped space with everything for a seamless stay: a cozy setup featuring a comfortable bed plus a sleeper sofa (comfortably sleeps 2, up to 4 guests), in-unit washer/dryer, and a private patio with tables and chairs—perfect for morning coffee or evening relaxation (note: the view is more urban than scenic).
+Building perks include convenient transportation options and a safe, central location. Paid parking is available on-site at Muse for $25/day—just scan the code in the lobby for easy access.
+Want a sneak peek? Check out our interactive 3D tour on Nashbnbrentals to explore every detail before booking.
+
+Please note: Weekends may bring some building noise from nearby parties—typical of downtown energy!
+
+No surprises here—no service fees, no cleaning fees, no strict checkout lists. Just relax, enjoy, and respect our simple rules: no parties and no smoking (inside).
+
+Looking for more space? We also offer a two-bedroom unit and a loft unit—ask or check my other listings!
+If your dates don’t align, browse my additional beautiful Nashville Airbnb properties for more fantastic options. Come soak up the best of Music City!
+
+Guest access
+Parking is $25/day as per the building requirements.
+
+Other things to note
+Please note that on weekends, there may be noise from parties in the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 449210171
+Host Profile URL: https://www.airbnb.com/users/show/449210171
+Host Profile URL Source: public user permalink from passport userId
+With 25+ years in hospitality and entertainment, I’ve run a restaurant and catering company, lived in NY and LA, and settled in Nashville in 2017. Originally from Sweden, I’m the founder of NashBNBrentals, a boutique property management company offering top-notch, stylishly designed short- and long-term rentals in prime locations. I love Music City and can’t wait to host you!
+Where I went to school: Sweden
+My work: Helping people
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+270 reviews
+4.97 out of 5 average rating
+4 years of hosting

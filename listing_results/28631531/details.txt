@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/28631531
+Latitude: 36.16345
+Longitude: -86.77686
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 0
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Riverview Suite is one of Studio 154 Luxury Hotel's best accommodations with panoramic views of the Cumberland River from your private enclosed balcony. You'll step into a modern suite that sleeps up to 4 guests with 2 King Beds, 1 Full bathroom and en-suite kitchen.  Rooms range from 530 to 675 sq ft. All guests also have access to the SKYDECK - rooftop with waterfront panoramic views of the Cumberland River and the Nashville skyline.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Studio 154 Luxury
+Host User ID: 211231188
+Host Profile URL: https://www.airbnb.com/users/show/211231188
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+369 reviews
+4.87 out of 5 average rating
+8 years of hosting

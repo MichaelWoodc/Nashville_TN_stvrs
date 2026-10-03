@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/1572425044556230496
+Latitude: 36.2237
+Longitude: -86.6843
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this spacious and peaceful 4-bedroom home, perfectly situated on over an acre of land in a serene Nashville neighborhood. The house includes two full bathrooms and two half-baths, providing ample room and convenience for families or groups.
+Step outside into your own private oasis and enjoy the expansive 1,225 sq ft courtyard, perfect for outdoor dining, entertaining, or simply enjoying your morning coffee in the fresh air.
+
+The space
+The large, fenced-in backyard offers privacy and space for outdoor activities.
+
+Key Features
+
+	* Accommodations:
+Four bedrooms, two full baths, and two half-baths offer plenty of space for your group.
+	* Outdoor Living: 
+Unwind in the 1,225 sq ft private courtyard and enjoy the spacious 1.03-acre lot.
+	* Classic Charm: 
+Experience the character of this 1960s brick home. 
+
+Nearby Attractions
+
+	* Grand Ole Opry: 
+Just a short drive away, catch a live show or take a tour of this iconic country music venue.
+	* Gaylord Opryland Resort & Convention Center: 
+Explore the beautiful indoor gardens, waterfalls, and riverboat rides inside the hotel.
+	* Cooter's Nashville: 
+Dukes of Hazzard fans can visit this nearby museum and shop, run by Ben Jones (who played "Cooter" on the show). Visitors can see classic cars like the General Lee and Cooter's tow truck, view props and costumes, and purchase memorabilia.
+	* Madame Tussauds Nashville: 
+Enjoy a fun, interactive experience with lifelike wax figures of music legends, located inside the Opry Mills mall.
+	* Opry Mills: 
+Shop and dine at this large retail complex, which also offers unique entertainment options. 
+
+	* No Pets allowed
+	* No Parties allowed unless approved by the owner
+	* Only registered guests
+	* Quiet Hours: 10pm to 7am
+	* No Smoking inside the premises
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: RedAwning Vacation Rentals
+Host User ID: 684901440
+Host Profile URL: https://www.airbnb.com/users/show/684901440
+Host Profile URL Source: public user permalink from passport userId
+Hosted by RedAwning Vacation Rentals
+ 
+ Welcome to RedAwning, a whole new way to travel. We make staying in a unique home or apartment easier than staying at a hotel. By partnering with local homeowners throughout North America, we provide you with the largest collection of vacation homes in the most destinations.
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+12 reviews
+5.0 out of 5 average rating
+9 months of hosting

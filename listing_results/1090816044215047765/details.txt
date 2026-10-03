@@ -1,0 +1,176 @@
+URL: https://www.airbnb.com/rooms/1090816044215047765
+Latitude: 36.16734239056688
+Longitude: -86.79893605212918
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bachelor(ette)-friendly Nashville retreat in the heart of the city. This 4-bedroom, 3.5-bath home features 11 beds, including 3 private king suites, offering spacious comfort for groups. Enjoy open gathering areas, a private rooftop terrace overlooking the city, and easy access to downtown dining, music, and nightlife. Located just one block from trendy Marathon Village, it’s the perfect home base for celebrating and exploring Music City.
+
+⭑CONTACT US FOR SEASONAL DISCOUNTS⭑
+
+The space
+⭑King Suite (3rd Floor):⭑
+ ✔ King bed with plush linens, extra pillows & blankets
+ ✔ Room-darkening shades for restful sleep
+ ✔ Walk-in closet with hangers & dresser
+ ✔ Attached bathroom with double vanity & walk-in shower
+ ✔ Hair dryer, curler & straightener
+
+⭑King Suite 2 (3rd Floor):⭑
+ ✔ King bed with premium bedding
+ ✔ Extra pillows & blankets
+ ✔ Room-darkening shades for restful sleep
+ ✔ Walk-in closet with hangers & dresser
+ ✔ Attached bathroom with shower & tub
+ ✔ Hair dryer, curler & straightener
+
+⭑King Suite (1st Floor):⭑
+ ✔ King bed with premium bedding
+ ✔ Extra pillows & blankets
+ ✔ Room-darkening shades
+ ✔ Walk-in closet with hangers & dresser
+ ✔ Attached bathroom with walk-in shower
+ ✔ Stand-up mirror
+ ✔ Hair dryer, curler & straightener
+
+⭑Fourth Bedroom (1st Floor):⭑
+ ✔ 8 beds total (4 twin-over-twin bunks + 4 queen-over-queen bunks) with premium bedding
+ ✔ Extra pillows & blankets
+ ✔ Room-darkening shades & ample storage
+ ✔ Attached bathroom with walk-in shower
+ ✔ Hair dryer, curler & straightener
+ ✔ Love seat
+ ✔ 70-inch Smart TV
+ ✔ 2 writing desks
+ ✔ Makeup vanity
+ ✔ Large mirror
+
+⭑Living Room:⭑
+ ✔ 75-inch Smart TV
+ ✔ Bright, open space for relaxing or gathering
+ ✔ Bar area
+
+⭑Kitchen and Dining Area:⭑
+ ✔ Fully equipped kitchen with cooking basics (pots, pans, oil, salt & pepper)
+ ✔ Coffee maker, coffee, syrups & supplies provided
+ ✔ Waffle bar with waffle maker
+ ✔ 2 pizza makers
+ ✔ Full-size blender, mixing bowls & cooking essentials
+ ✔ Spacious dining area for shared meals
+ 
+⭑Bathrooms:⭑  
+✔ Essentials provided: towels, soap, toilet paper  
+✔ Modern fixtures and fresh linens  
+
+⭑Outdoor Space:⭑
+ ✔ Fire pit for cozy evenings
+ ✔ Rooftop terrace with 360-degree views
+ ✔ Café lighting
+ ✔ 4-seater table
+ ✔ Rooftop bar
+ ✔ Bean bags
+ ✔ Outdoor dining area
+ ✔ BBQ grill for cookouts
+
+⭑Additional Amenities:⭑
+ ✔ Washer & dryer
+ ✔ Iron & ironing board in each room
+ ✔ Crib for families
+ ✔ Dedicated workspace
+ ✔ High-speed Wi-Fi
+
+⭑Safety and Security:⭑  
+✔ Exterior security cameras and lighting on all sides  
+✔ Smoke alarm, carbon monoxide alarm, fire extinguisher, first aid kit  
+✔ Private entrance and smart lock for secure self check-in  
+
+⭑Entertainment and Connectivity:⭑  
+✔ TV in living area  
+✔ Wi-Fi throughout  
+✔ Dedicated workspace for remote work  
+
+⭑Heating and Cooling:⭑  
+✔ Air conditioning and heating for year-round comfort  
+
+⭑Parking and Facilities:⭑  
+✔ Free parking on premises  
+
+⭑Services:⭑  
+✔ Self check-in with smart lock  
+✔ Smoking allowed  
+
+⭑Conclusion⭑  
+Don’t miss out—reserve your dates today and enjoy the best of Nashville living!
+
+⭑Local Points of Interest⭑
+
+🏭 Marathon Village (1 Block Away)
+🥃 Nelson’s Green Brier Distillery – 0.1 mi / 2 min walk
+🥃 Corsair Distillery – 0.1 mi / 2 min walk
+🍷 Marathon Village Wine Bar – 0.1 mi / 2 min walk
+🍽️ Nicky’s Coal Fired – 0.2 mi / 3 min walk
+☕ Three Brothers Coffee – 0.1 mi / 2 min walk
+🛍️ Marathon Village Boutiques & Shops – 0.1 mi / 2 min walk
+
+🎵 Music & Museums
+🎶 Country Music Hall of Fame and Museum – 2.0 mi / 8 min
+🎤 Ryman Auditorium – 1.8 mi / 6 min
+🧥 Johnny Cash Museum – 1.9 mi / 7 min
+🖤 National Museum of African American Music – 1.9 mi / 7 min
+🧑‍🎸 Musicians Hall of Fame and Museum – 2.0 mi / 8 min
+🎚️ Historic RCA Studio B – 2.1 mi / 8 min
+
+🎸 Live Music & Nightlife
+🪕 Robert's Western World – 1.9 mi / 7 min
+🍸 Tootsies Orchid Lounge – 1.9 mi / 7 min
+📺 Posty's – 1.9 mi / 7 min
+🥃 Bootleggers Inn – 1.9 mi / 7 min
+🍺 Tennessee Brew Works – 1.9 mi / 7 min
+🟢 The Green Light – 2.0 mi / 8 min
+
+🏙️ Downtown & Culture
+🌉 John Seigenthaler Pedestrian Bridge – 1.9 mi / 7 min
+🏛️ Tennessee State Museum – 2.0 mi / 8 min
+🍽️ Assembly Food Hall – 2.1 mi / 8 min
+🚶 Free Guided Tours Nashville – 2.0 mi / 8 min
+🚌 SongBird Tours – 2.0 mi / 8 min
+🏒 Bridgestone Arena – 1.9 mi / 7 min
+
+🌳 Parks & Outdoor
+🌲 Centennial Park – 2.8 mi / 9 min
+🏛️ The Parthenon – 2.8 mi / 9 min
+
+Guest access
+Entire home, private rooftop and two spots in the driveway
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Glovely Stays
+Host User ID: 72156
+Host Profile URL: https://www.airbnb.com/users/show/72156
+Host Profile URL Source: public user permalink from passport userId
+I'm an outgoing creative entrepreneur.  
+If I were to describe myself in seven words...art . design . business . travel . faith . service 
+
+I enjoy meeting new people and experiencing new places -- 36 countries and 140+ cities.   Life is sweeter with shared experiences!
+My work: Business Owner - Investments
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+841 reviews
+4.94 out of 5 average rating
+10 years of hosting

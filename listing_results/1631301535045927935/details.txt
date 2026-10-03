@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1631301535045927935
+Latitude: 36.02106352383161
+Longitude: -87.02851959298603
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Franklin,, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+What makes this cabin special for families and friends?  The view from the front porch illustrates the hills and hollers that characterize Middle Tennessee!  It's a wonderful place to sit and relax and hang out with your peeps!  The cabin is surrounded by woods.  Take a walk to the top of the ridge, and breathe the fresh air! 
+
+The spacious downstairs living room invites conversation, relaxation, fellowship and a wonderful sense of peace!  If you've been gone all day, this is why you're here!
+
+The space
+There are 3 bedrooms; two downstairs with double beds, and a master with king upstairs.  The old fashioned claw foot bath tub is on the main floor; a wonderful shower is upstairs.  The kitchen is fully furnished.  There is a loft above the main floor with a view of the fireplace and sitting area.  It's large enough to accommodate 8 yoga practioners.  
+
+The entire 2,500 square foot cabin has a great vibe that says, relax and hang out!  The fireplace living room is a comfortable space with plenty of seating, and a TV above the fireplace.  The internet is fiber optic.  Perhaps the best place to sit and relax is on the front porch!
+
+Guest access
+The only space Not available in the cabin is the basement.
+
+Other things to note
+The cabin is located in the heart of Fernvale.  Us locals refer to the area as the " valley" because that is the geology of the local environment.  The valley is surrounded by steep hills and hallows, with the South Harpeth River running thru it.  There are countless springs and creeks that feed the river with some of the best water found anywhere in the county.  Just ask the old moonshiners if you have doubts!
+
+The local communities are all close by.  To get to Leiper's Fork, turn left out of the driveway  and stay on that main road.   You are there in about 15 minutes.  The drive is truly beautiful!  Franklin is around 25 minutes with another nice and easy drive.  There is of course lots to do in Franklin.  Downtown Nashville is a solid 45 to 50 minute drive.  The closest town is Fairview, which has several nice restaurants, shopping for groceries, hiking at Bowie Nature Park, and the easiest gateway to points east and west, north and south.  If you have the time, drive the two lane backroads to see what rural Middle Tennessee really looks like.  It's wonderful in so many ways!!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeanne
+Host User ID: 748807236
+Host Profile URL: https://www.airbnb.com/users/show/748807236
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 months hosting
+8 reviews
+5.0 out of 5 average rating
+7 months of hosting

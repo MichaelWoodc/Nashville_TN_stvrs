@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1740777101793723183
+Latitude: 36.1779
+Longitude: -86.7893
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unpack, unwind, and enjoy Nashville from The Magnolia #6, a roomy four-bedroom home close to the city’s best experiences. This newly renovated four-bedroom, three-bath home features five beds, a full kitchen, and stylish living spaces for gathering between adventures. Start the morning with coffee in the peaceful shared courtyard before heading out to explore. Germantown restaurants, lively bars, and Nashville’s famous music scene are all just minutes away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Notable Collection
+Host User ID: 699711821
+Host Profile URL: https://www.airbnb.com/users/show/699711821
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+2514 reviews
+4.79 out of 5 average rating
+1 year of hosting

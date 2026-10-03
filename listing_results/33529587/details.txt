@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/33529587
+Latitude: 36.11818
+Longitude: -86.74178
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Woodbright designed to make guests feel right at home. This 1960s ranch (884 sq ft) sits on a quiet street and offers peaceful refuge while you explore Nashville. We welcome pets and have a fenced backyard for them to enjoy. You will be a short drive to some great hole-in-the-wall restaurants serving cuisine from around the world. We are 1/2 mile to Dozen Bakery, Primitive Coffee, and Peachtree Grill. From our home you can Uber to BNA, Broadway, or Geodis in about 10 minutes.
+
+The space
+Bedrooms
+2 Bedrooms have Queen beds and 1 has a full bed. There are extra linens/blankets available should you want a little more warmth. 
+
+Living Area and Kitchen
+There are two loveseats and an open view of the kitchen. The dining area is a countertop with stools that is built into a half wall between the kitchen and living area. The kitchen has a gas stove, microwave, refrigerator, and a coffee station with a small drip coffee maker, a French press, and a blade grinder. 
+
+Bathroom
+The 30x60 shower is equipped with basic supplies such as soap, shampoo, hair dryer, small first aid kit, etc.
+
+Parking
+Multiple spots available off the street including behind the gate
+
+Yard
+The entire backyard is fenced and is separated into 2 sections. There is a garage (not accessible) behind the house, and I have the area behind the garage separated by a gate. If you want to always be able to see your dogs, you can keep that gate closed. Or if you want your dogs to roam the entire backyard, you can leave the gate open. I do store a small amount of lumber behind the garage.
+
+Guest access
+The entire home is accessible to guests. The garage is not accessible.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Graham
+Host User ID: 23671241
+Host Profile URL: https://www.airbnb.com/users/show/23671241
+Host Profile URL Source: public user permalink from passport userId
+Native of rural TN now living in Woodbine. Trying to find all the good spots nearby and will share what I find. Give me a good book recommendation, and I’ll be a lifelong friend.
+Born in the 80s
+Where I went to school: Rhodes College
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+356 reviews
+4.87 out of 5 average rating
+7 years of hosting

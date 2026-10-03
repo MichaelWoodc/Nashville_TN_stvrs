@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/54369849
+Latitude: 36.13789
+Longitude: -86.79677
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This condo is a freshly renovated modern-designed 2 bedroom condo, located between Belmont University Mansions and Vanderbilt University. Walking distance to Belmont and Vandy, 21th Ave. S., Hillsboro Village.  Minutes drive to Music Row, 12th Ave South, midtown, downtown Nashville, Broadway...Enjoy a stylish experience at this centrally-located place.
+The elegant, 1850s-built Belmont Mansion is now a museum, with restored rooms and original furnishings.
+
+The space
+Our two bedroom condo features two queen beds, plus a queen size sofa bed plus two new single sofa beds in the living area. There are two full bathrooms for your convenience. Full kitchen with granite counters and stainless steel appliances. Coffee and supplies are provided. Relax in the comfy living room with a private balcony and enjoy a flat screen TV for streaming Netflix on the free Wi-Fi.
+
+Guest access
+Guests have exclusive access to the entire condo during the duration of their reservation.
+
+Other things to note
+This property is a smoke-free environment.
+No elevator, 18 stairs to access to this unit on the 2nd floor. Stairs in open space as shown in the pictures.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ying
+Host User ID: 439940828
+Host Profile URL: https://www.airbnb.com/users/show/439940828
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+441 reviews
+4.82 out of 5 average rating
+5 years of hosting

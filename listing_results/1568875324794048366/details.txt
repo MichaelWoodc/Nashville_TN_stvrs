@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1568875324794048366
+Latitude: 36.1545
+Longitude: -86.7637
+rental_type: Entire apartment
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+For guests who love good music and good drinks—this SoBro condo escape gives you a stylish place to land with modern comfort and boutique vibes, complete with a king bed, cozy loft, sleeper sofa, full kitchen, and a glass garage door that opens to your private rooftop terrace. It’s made for golden-hour hangs, skyline selfies, and late-night stories under the city lights. Only one mile from Broadway, you’re close to the energy but far enough to relax when the night winds down.
+
+Permit #2025104452
+
+The space
+Welcome to The Nash Nook, a stylish SoBro escape featuring a huge private terrace with stunning city views. Just a short walk or quick Uber to Broadway (1 mile), you’re perfectly placed to enjoy the best of Nashville.
+
+Guest access
+Access to the entire condo and private spacious terrace.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leann
+Host User ID: 121038759
+Host Profile URL: https://www.airbnb.com/users/show/121038759
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+51 reviews
+4.92 out of 5 average rating
+9 months of hosting

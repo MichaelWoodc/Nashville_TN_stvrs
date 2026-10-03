@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/38600886
+Latitude: 36.0765
+Longitude: -86.7149
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 5
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gorgeous renovation! Two queen bedrooms on top floor with master bathroom/jacuzzi tub.  Bath is also accessible from the hallway for second queen bedroom.  Main floor: kitchen, living room, deck, bath, and two bedrooms -two bunk beds sleeping 4 and the other bedroom with two twin beds. Bottom floor bar room/wine cellar has a full sleeper sofa, plus private retreat area with king bed and laundry closet.  Third bathroom off private retreat, with second door to garage/bar room.
+
+The space
+This house was my first home, and is truly one of my favorite places.  The extensive renovations this past year have completely transformed it!  It's the perfect place to enjoy your time together in a charming and peaceful setting, until you're ready to go out again into the Nashville excitement.  I truly hope it becomes a home away from home for you, and you return often to enjoy time with friends and family.
+
+Guest access
+Entire house - keypad entry with code provided the day before arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kathlena
+Host User ID: 159734923
+Host Profile URL: https://www.airbnb.com/users/show/159734923
+Host Profile URL Source: public user permalink from passport userId
+I have been a landlord in Nashville since 2004, with multiple properties.  Over the past several years, I have been converting properties over to short term or furnished rentals.  I love a great renovation project, especially decorating it to feel like a home away from home.  I look forward to hosting your group, and sharing the joy of my homes with you!
+Born in the 70s
+Where I went to school: UAB
+Response rate: 100%
+Responds within an hour
+9 years hosting
+131 reviews
+4.83 out of 5 average rating
+9 years of hosting

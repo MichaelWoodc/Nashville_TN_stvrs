@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/17653675
+Latitude: 36.18382
+Longitude: -86.745
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in one of Nashville's hottest neighborhoods this 1br apartment is the private back extension of the house.  Short walk to fabulous Five Points East Nashville where you'll find some of the best restaurants, bars, shops, galleries and happenings Nashville has to offer.  Around the corner from groceries, coffee shops and more stores and restaurants.  10 min from airport and 5 min from downtown.  
+Great spot for couples, solo adventurers, business travelers or small families!
+
+The space
+There is a very comfortable futon in the living room area, great for that 3rd or 4th guest.  Kitchen is fully stocked so cook away.  Kroger grocery store is just around the corner.  
+You also have a small private out door space with a fire pit.
+
+Guest access
+The apartment is private and fully stocked.  There is a shared laundry room located on the basement floor of the house.  You access it via its own private entrance.
+
+Other things to note
+This AirBnB has a legal permit and is fully insured.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeffrey Wayne
+Host User ID: 120122936
+Host Profile URL: https://www.airbnb.com/users/show/120122936
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+I'm obsessed with: Music and food
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1752 reviews
+4.88 out of 5 average rating
+9 years of hosting

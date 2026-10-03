@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/17662205
+Latitude: 36.12667
+Longitude: -86.81174
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+THE  KING OF COUNTRY MUSIC HANK WILLIAMS SR. AND RAY PRICE LIVED IN THIS HOUSE IN 1952!!! 
+
+Family-friendly Hillsboro West End neighborhood close to Vanderbilt and Belmont not far from Downtown.
+
+"This house is a treasure. The Hank Williams history is mind blowing. Hank started or finished so many standards in this house. But, even if there wasn’t amazing Country Music History here, it would still be a winner." - Bobby
+
+The space
+Bullet hole remnants in the ceiling of Hank's Room. 
+Original wooden floors. 
+Perfect place for lovers of all music but especially country. 
+
+"Great place for country lovers to feel the spirit of Hank Williams! Lovely decorated and furnished home in a decent neighborhood. Equipped with all amenities you need to feel like home. I highly recommend this place." -Tom
+
+“Hank’s Place” is amazing!!!! Would highly recommend it to anybody wanting to feel at home while staying in Nashville. If you love country music and want to experience some history and good vibes then this is the place for you! Lots of special touches and very clean too. Lovely neighbourhood and Austin was a great host." - Wendy
+
+"We loved the historic touches that made it feel like we were staying in a touchable museum. My son, who is typically a night owl, refrained from staying up late because he was excited to sleep in the room that Hank Williams once slept in, lol. For the adults, the preserved style of Hank’s Place brought back many fond memories of our grandparents’ homes. This was so much more fun, cozy, and welcoming then staying in a hotel!" - Dawn
+
+Guest access
+The first floor, porch and patio out back is all yours! There is a washer and dryer in the basement if you should need it just ask :)
+
+Other things to note
+Hank's Room has a queen bed. 
+Yellow Room has a trundle bed with two twin beds. 
+Green Living Room has a queen pullout in the brown couch.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Austin
+Host User ID: 67059258
+Host Profile URL: https://www.airbnb.com/users/show/67059258
+Host Profile URL Source: public user permalink from passport userId
+Singer, Songwriter, Musician, Teacher,  inspired by Family, Friends, Nature and Adventures.
+My work: Musician/Teacher
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+405 reviews
+4.96 out of 5 average rating
+8 years of hosting

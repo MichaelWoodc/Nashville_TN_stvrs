@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/47942727
+Latitude: 36.24868
+Longitude: -86.7081
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Cozy Casa, a modern getaway 10-15 minutes  mins from Downtown Nashville and the airport. Private bedroom with comfy queen bed, bathroom with separate entrance, covered parking, keypad entry and laundry room available. Has a microwave, fridge and kerig. Mall and parks within 10 mins; 5-10 mins to restaurants, fast food, grocery stores and dollar stores.
+
+The space
+Relaxing, quiet & cozy space for 2 guest with amenities (see description). NOT handicap accessible.
+
+Guest access
+Separate entrance with keypad access. Park under the carport and enter through side entrance.
+
+During your stay
+I frequently travel for work, please call me for further assistance.
+
+Other things to note
+Water and coffee is available (free).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cassie
+Host User ID: 368209854
+Host Profile URL: https://www.airbnb.com/users/show/368209854
+Host Profile URL Source: public user permalink from passport userId
+The Cozy Casa host at your service.
+My work: Higher Education
+Speaks English
+Lives in Nashville, Tennessee
+For guests, I always: Send a welcome message.
+What makes my home unique: Covered parking/amenities and location.
+Response rate: 70%
+Responds within a day
+6 years hosting
+231 reviews
+4.9 out of 5 average rating
+6 years of hosting

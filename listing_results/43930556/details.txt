@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/43930556
+Latitude: 36.16016
+Longitude: -86.80726
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the 1865 loft apartment in Nashville!  A 150 year old historic building converted from an old tobacco barn to rustic condos. You’ll love the amenities that include pool; outdoor bar; observation deck on the 4th floor. Location can’t be beat! Less than 2 miles from Broadway; 1 mile from Vanderbilt University, centrally located to the gulch and music row. Recently added speakeasy in the basement of the building will add to your enjoyment.  Potential for some low level noise.
+
+The space
+This unit is located on the first floor with easy side door access from the free gated private parking.  The master bedroom has a king bed; the guest room includes queen over queen bunks. The main living area has a pull out couch that comfortably sleeps 2. Unit is fully stocked with appliances and towels for use during your stay. 
+
+Were happy to assist with any additional requests you have to make your stay stress free.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 151080494
+Host Profile URL: https://www.airbnb.com/users/show/151080494
+Host Profile URL Source: public user permalink from passport userId
+Lives in Wayne, Illinois
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+797 reviews
+4.85 out of 5 average rating
+6 years of hosting

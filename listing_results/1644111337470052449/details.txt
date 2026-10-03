@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/1644111337470052449
+Latitude: 36.14486324708659
+Longitude: -86.81590087625337
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ Central Nashville location near Broadway, Vanderbilt & Centennial Park
+✔️ City-view condo with elevator access
+✔️ 1 bedroom, 1 bath — sleeps up to 2
+✔️ In-home laundry, full kitchen, and free WiFi
+✔️ Modern retreat for couples, business travelers, and extended stays
+
+The space
+• Your comfortable Nashville home base with easy access to Music City's top attractions, dining, and nightlife
+• Wake up and head out to Broadway, museums, or Centennial Park before returning to relax with city views
+• Spend the day exploring Nashville's live music scene, local restaurants, and shopping, then unwind in your private condo
+• Enjoy the convenience of in-home laundry and a comfortable space designed for both short and extended stays
+• Perfect for couples, solo travelers, and business trips
+
+🌅 Indoor & Outdoor Living
+• Comfortable living area with city views
+• Bright, modern condo layout
+• Free WiFi throughout the home
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 2)
+• This home includes 1 bedroom and 1 bathroom
+• Bedroom: King bed; sleeps 2
+Bathroom:
+• Guest Bathroom: Single vanity, shower/tub combo
+
+🍳 Kitchen & Dining
+• Full kitchen with essential cookware and serveware
+• Cookware, bakeware, dishes, and utensils are provided
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• Fresh bed linens and bath towels
+• Starter supply of toiletries and paper goods
+• Private washer and dryer
+• Free WiFi throughout the condo
+• Long-term stays welcome
+
+📍 Location Highlights
+• Central Nashville location
+• Minutes from Lower Broadway and Downtown Nashville
+• Close to Vanderbilt University, Centennial Park, and The Parthenon
+• Convenient access to museums, shopping, restaurants, and live music venues
+
+🚗 Parking, Safety & Notes
+• Limited to 1 vehicle. You may use street parking or a space in the building’s underground garage; both are first-come, first-served and not guaranteed. There is no additional parking beyond what’s described.
+• There is an elevator in the building, operated and maintained by building management. While typically available, any maintenance or outages are outside our control; stairs are required if the elevator is unavailable.
+• This home is not pet friendly. If there is found evidence of an animal's presence during your stay or post check-out, guests will be charged an additional cleaning fee.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+2022066582
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 99%
+Responds within an hour
+6 years hosting
+4070 reviews
+4.63 out of 5 average rating
+6 years of hosting

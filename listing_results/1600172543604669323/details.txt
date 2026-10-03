@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1600172543604669323
+Latitude: 36.13932
+Longitude: -86.79631
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the hustle and bustle of Nashville from the quiet guest house of our Urban Farm.  Our calm and tranquil guest house is nestled against our large garden, but still walkable to Vanderbilt, Music Row, Midtown, Belmount, 12 South and so much more.
+
+The space
+This guest house is small but has everything you need. It has a full kitchen stocked with necessities for cooking, a living space with big screen TV, bedroom, bathroom, and walk-in closet with laundry.  We allow 2 adults and up to 2 children (though we only supply 1 travel crib). 
+
+The guest house is located behind our primary residence.  Enjoy the views of our large garden and our urban chickens.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Margaret
+Host User ID: 9783124
+Host Profile URL: https://www.airbnb.com/users/show/9783124
+Host Profile URL Source: public user permalink from passport userId
+Pediatric dentist by trade, constantly inspired by life. Always ready for adventure. If I'm not in the clinic I can probably be found....   Cooking a varying array of gluten free yummies. Lost in the music - preferably live. Walking around barefoot in my garden. Running. Laughing, loudly. Watching the sunrise. Drinking wine. Trying new things. Living and loving this one and only life I have.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+1 year hosting
+61 reviews
+4.98 out of 5 average rating
+1 year of hosting

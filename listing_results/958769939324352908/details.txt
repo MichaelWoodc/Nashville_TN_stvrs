@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/958769939324352908
+Latitude: 36.13988
+Longitude: -86.79497
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 6
+beds: 8
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the pinnacle of luxury living in Nashville's iconic Music Row. These stunning 3 bedroom, 3.5 bath townhomes are nestled in the heart of 16th Ave. S. By combing both units as listed here, there is room for 18 guests. These front units offer unparalleled panoramic views of Music Row. With a central location, you're steps away from Nashville's famed attractions and minutes from Broadway, the Gulch and Midtown. UNIT A PERMIT #2023080694
+UNIT B PERMIT #2023080696
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Raymond
+Host User ID: 498689502
+Host Profile URL: https://www.airbnb.com/users/show/498689502
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Healthcare
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+166 reviews
+4.89 out of 5 average rating
+4 years of hosting

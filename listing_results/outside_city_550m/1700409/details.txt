@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1700409
+Latitude: 35.9486
+Longitude: -87.0009
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tucked at the end of a mile-long wooded drive, Love Shack is where the world falls away. This charming cottage (2.5 bed / 1.5 bath) sits on a forested ridge just 6 miles from downtown Franklin; private enough for deer and wild turkey to be your neighbors. Perfect for writers, romantics, or anyone needing a true escape. Optional hot tub available.
+
+The space
+Whether you're here to write, reconnect, or simply breathe, the deep quiet of the surrounding forest does its work quickly. The warm wooden interior feels right at home in the trees. A nearby trail leads to a beautiful seasonal waterfall. And when the evening calls for it, a private hot tub can be arranged to make the stay complete.
+
+The master bedroom features a queen four-poster bed. A second queen bedroom is adjacent, with shared access to the full upstairs bathroom. First-floor guests have direct access to the half bath downstairs. Fast fiber-optic wifi keeps you connected if you need it... or easily ignored if you don't.
+
+Note: Love Shack is a genuinely remote, private retreat. It's ideal for those seeking solitude, but it's worth knowing about our private hiking trails, water activities, and common areas  if you want a more active experience during your stay.
+
+Guest access
+Your door code is sent before arrival. The Fork Inn office is located nearby at 5528 Big East Fork Rd. Registered Fork Inn guests may park at the Lake Gratitude Natural Area lot - car pass must be visible on windshield.
+
+Other things to note
+The price quoted is for Lodging only. If you are having an EVENT (people invited who are not Lodging) you must send a message to receive permission and pricing). Data is very fast fiber-optic wifi.  Love Shack is at the end of a winding mile long driveway through the forest.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

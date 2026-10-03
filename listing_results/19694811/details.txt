@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/19694811
+Latitude: 36.1722
+Longitude: -86.79594
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Songwriter owned!
+Beautiful new renovation located in quaint residential neighborhood.
+Five minute Lyft ride or leisurely 1 mile walk to the strip!!
+55" LED 4k smart TV with HBO & Netflix.
+New appliances, fully stocked kitchen, all bathroom essentials.
+Free street parking and space to park in back.
+Convenient keypad lock so everyone in your group can come and go as they please =)
+Just blocks from Capital View, Farmer's Market and new Baseball Stadium!!
+**STRP PERMIT AVAILABLE UPON REQUEST**
+
+The space
+One mile from all the action on Lower Broadway, this stunning newly renovated home will be perfect for your home base doing your stay in Nashville!!
+A King and 2 queen Beds each with their own private rooms as well a queen memory foam sleeper sofa, queen memory foam foldaway and comfy daybed with 2 single beds allow for plenty of space and comfort to get a good night's rest after hitting the Honky Tonks.
+Large Kitchen with huge expandable dining table. 
+3 sofas in living room for ample space.
+You will have the home all to yourself along with plenty of parking on the street as well as behind the house.
+A keypad with your own unique code allows for convenient access without worries of losing the key!
+I will be available 24/7 through email, text or phone call. 
+As a rule I will not be there in person at check in/check out but will be
+more than happy to meet you in person by request at check-in if you would like a crash course introduction to the area and goings on.
+
+Guest access
+Key code will be provided prior to arrival.
+Full access to home
+
+Other things to note
+Over the top cool place to stay =)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric
+Host User ID: 83214230
+Host Profile URL: https://www.airbnb.com/users/show/83214230
+Host Profile URL Source: public user permalink from passport userId
+I am a dad, musician and outdoor enthusiast who loves traveling and staying at other folk's AirBnbs :)
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+35 reviews
+5.0 out of 5 average rating
+9 years of hosting

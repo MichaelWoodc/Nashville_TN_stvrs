@@ -241,3 +241,35 @@ Manual hotel override: listings hosted by **AvantStay Nashville** that mention
 **SoBro** in listing-specific text are classified as hotels. Matching is
 case-insensitive; the shared host biography is not used. The override is recorded
 in popup/export evidence as `manual_avantstay_nashville_sobro` and survives rebuilds.
+
+
+Preliminary automatic associations
+-------------------------------
+Rebuilding now reads listing_results/*/metadata.json, details.txt, and description.txt, including newly added numeric listing folders. data/listings.json contains the merged listing inventory and preliminary name/license associations. data/property_matches/*.json stores a SHA-256-prefix-sharded reverse parcel index; existing nearby_candidates and nearby_parcels assets supply distance candidates within 550 meters of parcel boundaries. Both property outlines and permit markers open the same property/permit popup, with a scrollable candidate list. Listing popups link back to candidate properties.
+
+All associations are auto matched, not verified. Exact permit-number evidence, full owner/host names, first-name-only evidence, direct nickname edges from nicknames-master/names.csv, and distance-only candidates have separate colored labels. Nicknames are symmetric direct edges, never transitive. Company/trust owner names are excluded from personal-name matching. Multiple candidates remain available for later verification. These candidates do not change confirmed-license status or spatial compliance statistics. The permit export's address-valued Permit # field is never treated as a permit identifier.
+
+GitHub file size: original oversized parcel exports are preserved in the ignored oversized_files_for_git archive. The map uses the lossless data/parcels chunks, not those archived originals. No original scrape artifacts were deleted.
+
+
+City scope and candidate ordering
+---------------------------------
+The builder retains listing points inside the map's saved Nashville/Davidson boundary or at most 550 meters outside it. Listings farther away move intact into listing_results/outside_city_550m/<listing_id>/ and their merged records are exported in nashville_site/data/outside_city_550m/ JSON parts. They are excluded from active listing files, counts, and associations on every rebuild even when the master CSV still includes them. Listings with missing coordinates remain undetermined. The source boundary is geography/davidson_county.geojson, the same Davidson County outline used throughout this map.
+
+Candidate lists show permit-number evidence first, name/nickname candidates next, and distance-only candidates last, nearest to furthest within each group. Tiny-home/tiny-house accommodation types and titles override all hotel evidence, including host branding and the AvantStay SoBro override.
+
+Popup click priority: Airbnb circles, number labels, warning symbols, and amenity icons open Airbnb information first, even when over a permitted parcel. Direct parcel/permit clicks show license information first, followed by collapsed license and parcel details. Automatic associations do not verify a listing address. Candidate lists, parcel-overlap screening, supporting evidence/rules, and forms are collapsed by default. The listing header and advertised accommodation facts retain their original presentation; a brief current-permitted-property match or nearest-permitted-parcel distance stays visible.
+
+
+Manual and community hotel reports
+----------------------------------
+Add one Airbnb listing URL per row in hotels.csv. Only url is required; hotel_name, proof_url, address, and notes are optional. Query parameters are ignored and duplicate listing IDs are merged. Listed hotels use orange markers and the existing hotel exclusions. Previously requested tiny-home protection still takes priority.
+
+Public responses are read from the CSV export configured in hotel_sources.json, using the columns Airbnb.com listing, Hotel Proof URL, and Address. Reports appear as User submitted hotel, with reported addresses explicitly unverified and proof links inside Hotel reports and proof on listing cards (and associated listing cards in property popups). They do not establish a verified address or reposition markers. Forms and corrections includes a prefilled hotel report form.
+
+Run build_nashville.py to refresh the local CSV and public reports; --watch detects local edits and polls the public sheet every five minutes. A cached copy preserves the last successful responses if Google is unavailable. Public polling requires the local builder; the static site reflects the most recent build. Disable the sheet using enabled:false in hotel_sources.json. Original listing artifacts are preserved.
+
+
+Browser preferences
+-------------------
+The Accept/Deny prompt enables optional map-state persistence. After Accept, a functional consent cookie and local browser storage remember map center/zoom/rotation, filters (including rental types and host combinations), and theme across visits. Reset filters and Reset map replace the corresponding saved settings with defaults. Cookie settings in the footer lets visitors switch to Deny, which removes the functional cookie, map-state snapshot, and legacy theme/disclaimer preferences and prevents further preference saves. The consent choice alone remains in local storage so declined visitors are not repeatedly prompted. No advertising or analytics storage is added. Browser state stays on that browser and site origin; it is not sent to the reporting sheets.

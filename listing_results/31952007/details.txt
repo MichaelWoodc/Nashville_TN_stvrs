@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/31952007
+Latitude: 36.13618
+Longitude: -86.81028
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A perfect location for visiting college parents, medical staff, and business travelers, as well as vacationers, this upstairs apartment is often described as a home away from home. With vintage charm, this two bedroom, one bath apartment features a living room, dining room, washer/dryer, and full kitchen.  Bedroom #1 has a Cali king bed; bedroom #2 has a queen bed.  An office area also makes this an ideal setting for meeting all of your needs in a long or short term stay in Nashville.
+
+The space
+You will feel right at home in this upstairs apartment in a private home. Hardwood floors throughout add to the vintage feel of this spacious apartment.  Comfortably sleeping up to four people in two bedrooms, you will have all of the comforts of home with a full kitchen, dining room, full bathroom, and washer/dryer - you'll also have free street parking here. Located in Hillsboro Village, a quiet historic neighborhood with a park and sidewalks, we are a short walk to both Vanderbilt and Belmont University campuses, along with many restaurants and shops. Also nearby is a grocery store, drug stores, and less than 15 minutes away is downtown Nashville, via Uber/Lyft, public transportation, or your own vehicle.
+
+Guest access
+You will have full, easy access to the entire apartment, with a separate  enclosed stairway entrance.  There is a keypad lock for easy access anytime.  There is a dedicated parking lane on the street, so parking is a breeze.
+
+Other things to note
+Located in one of the most historic neighborhoods in Nashville, with quiet streets and sidewalks, we are within easy walking distance to coffee shops, restaurants, and parks, along with Vanderbilt and Belmont Universities.  Additionally, it's just a five minute drive to Lipscomb University and a ten minute Uber/Lyft ride to downtown Nashville.  Just five minutes to interstate access, all of these features makes this the ideal spot for your long or short stay in Nashville, or a central home base for day trips around the middle Tennessee area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff And Linda
+Host User ID: 239562157
+Host Profile URL: https://www.airbnb.com/users/show/239562157
+Host Profile URL Source: public user permalink from passport userId
+We love our city and know you will too!  I (Linda) am a Nashville native, considered a rare breed. I (Jeff) am originally from Long Island, but came to the South many years ago and I’m happy to call Nashville home. We enjoy good food and seeking out the best local spots to find it (including our own garden). I (Jeff) am an avid trail runner and can direct you to the best ones around. I (Linda) love vintage treasure hunting and share my finds at a local antique mall. We would love to help acquaint you with Nashville and the surrounding communities.
+Where I went to school: Linda in Nashville, Jeff in New York
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+242 reviews
+4.98 out of 5 average rating
+8 years of hosting

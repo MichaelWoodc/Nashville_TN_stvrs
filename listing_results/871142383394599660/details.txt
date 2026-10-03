@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/871142383394599660
+Latitude: 36.1771
+Longitude: -86.67199
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience convenience at its finest in this centrally located home. Your entire group will have effortless access to various amenities. Nearby, you'll find grocery stores, a selection of local dining establishments, and vibrant bars! Within a short drive, you can explore Opry Mills Mall and reach Nashville Airport. Moreover, the bustling energy of downtown Broadway is a mere 7 miles away, ensuring a memorable and accessible adventure for all!
+
+The space
+Beautiful home just minutes from Music Valley Rd and the Grand Ole Opry.  A short drive from the airport and an easy Uber/Lyft to the bright lights and live music of downtown Broadway.
+
+Guest access
+You have access to the entire house.
+
+Other things to note
+CHECK OUT OUR GUIDE BOOK FOR LOCAL SPOTS! (click "read more" under "Location" section)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 27151458
+Host Profile URL: https://www.airbnb.com/users/show/27151458
+Host Profile URL Source: public user permalink from passport userId
+I am a Mother of 5 of the best people I know!  I love hosting and helping my guests have the best experience they can have!  I love to travel and experience what other hosts are doing to attract guests.  I love the outdoors and live music.
+Born in the 60s
+My work: STRP Manager
+Response rate: 100%
+Responds within an hour
+9 years hosting
+491 reviews
+4.91 out of 5 average rating
+9 years of hosting

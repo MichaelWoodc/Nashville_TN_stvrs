@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/1600697505635232084
+Latitude: 36.15717231749679
+Longitude: -86.80011193231063
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Aspire Midtown in Nashville, TN! Perfect for short-term, monthly, or extended stays, our fully-furnished apartments feature full kitchens, in-unit laundry, fast WiFi, stylish furnishings, and a dedicated workspace. Take in the skyline from the Level 14 sky lounge with panoramic city views, relax on the pool deck featuring a spa and BBQ grills, or find zen in the outdoor yoga spaces connected to the 24/7 fitness center.
+
+The space
+Images are representative of the unit type and may not reflect the exact unit, view, or layout assigned.
+
+All Landings include:
+
+- Smart TV
+- Fresh towels and linens
+- Modern appliances
+- Fully equipped kitchen
+- Work-from-home ready office
+- High speed internet
+
+At Landing, every detail is curated to ensure that you instantly feel at home, surrounded by both comfort and style, in any city you choose. Each apartment is fully furnished and has fast wifi, a TV with streaming service, stainless steel kitchen appliances and housewares.
+
+Welcome to Aspire Midtown in Nashville, TN! Perfect for short-term, monthly, or extended stays, our fully-furnished apartments feature full kitchens, in-unit laundry, fast WiFi, stylish furnishings, and a dedicated workspace. Take in the skyline from the Level 14 sky lounge with panoramic city views, relax on the pool deck featuring a spa and BBQ grills, or find zen in the outdoor yoga spaces connected to the 24/7 fitness center. The community also features a chic resident lounge, private co-working spaces, and an on-site pet spa. Located in the heart of Midtown, this property sits at the intersection of Nashville’s medical district, university life, and vibrant nightlife. It offers an energetic atmosphere where guests are steps away from Vanderbilt University and some of the city's most famous bars and restaurants, all while being just a mile from Downtown. Brave the line for the world-famous hot chicken at Hattie B’s Midtown, explore the full-scale replica of the Parthenon at Centennial Park, or experience the local nightlife at iconic spots like Winners and Losers Bar & Grill. For live music history, Music Row is just a short walk away. Manage your stay in the Landing App and access 24/7 guest support.
+
+Other things to note
+After booking: 
+To comply with community requirements and help provide a safe experience for all guests, you'll receive a secure email to complete identity verification, online check-in, and any required documentation. The process typically takes just a few minutes.
+
+🔎 Guest Screening
+All guests must complete a secure CLEAR ID verification and screening.
+International guests are required to provide a valid passport for identity verification.
+
+📆 Stays 30+ Nights
+The primary guest must provide a valid SSN and complete a soft credit check (minimum score of 550).
+
+ℹ️ Other Info
+🚗 Parking: Availability and fees may vary.
+🐾 Pets: $50 per pet, per stay (under 30 nights) or $150 per pet, per month (30+ nights).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Landing
+Host User ID: 263502162
+Host Profile URL: https://www.airbnb.com/users/show/263502162
+Host Profile URL Source: public user permalink from passport userId
+Landing is a curated collection of furnished apartments across the country, where every stay feels like home. Each Landing features stylish furnishings, a fully-equipped kitchen, in-unit laundry, workspace, fast WiFi, and premium amenities. Perfect for stays of any length, with 24/7 customer support.
+My work: Landing
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+7 years hosting
+10782 reviews
+4.35 out of 5 average rating
+7 years of hosting

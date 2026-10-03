@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/38580261
+Latitude: 36.17191
+Longitude: -86.79228
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled on a friendly street in Hope Gardens, our home is walking distance from the downtown, Broadway, and Germantown. Bicentennial park with its eateries is only one block away.
+
+Enjoy full use of our lovely home with a full kitchen, dining nook, and cozy couches to kick off your trip. From the charming living room with TV, games, and wine fridge to the covered front porch rockers, we want you to truly relax. Full amenities are provided, as well as a tree covered back patio & private driveway.
+
+The space
+Amenities:
+* Light and airy Nashville-style space
+* Full kitchen and dining nook
+* Cute front and back porches to relax on
+* 3 bedrooms: 3 queen beds
+* Pull out bed and queen air mattresses for a max of 10 guests 
+* 2 full bathrooms upstairs, 1 half bath downstairs
+* Driveway and street parking available. A rental car may not be needed, particularly if celebrating at the the nearby downtown.
+*8 lb dumbbells and a yoga mat. Nearby trails are great for early morning runs.
+*The open living room includes a large TV, games, and a wine/beer fridge.
+
+The location:
+Hope Gardens is a little neighborhood between two hot spots, the downtown and  Germantown. It's the closest neighborhood to downtown with a friendly local feel and all of the urban amenities.
+
+1 block to hip eateries inside Nashville's indoor Farmer's Market, plus the stunning Bicentennial Capitol Mall State Park.
+
+3 blocks to the Sounds Stadium for MLB baseball games and to riverside trails.
+
+5 blocks to the Capitol building and Germantown.
+
+6 blocks to some of Nashville's hippest restaurants, coffee shops and breweries.
+
+7 blocks to concerts at the iconic Ryman auditorium and dozens of other blues bars and honky-tonks.
+
+8 blocks, 1 mile on foot, or a 5 minute Uber to Broadway St, where the party is always on.
+
+Guest access
+You have full range of the home! Please love my home and turn off lights/turn down the air conditioning when you head out to save the environment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 27614722
+Host Profile URL: https://www.airbnb.com/users/show/27614722
+Host Profile URL Source: public user permalink from passport userId
+I'm a high energy, happy explorer of all things green. I love running and hiking in new places, and of course, trying the food.
+Speaks English and French
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+346 reviews
+4.86 out of 5 average rating
+7 years of hosting

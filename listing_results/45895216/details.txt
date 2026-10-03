@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/45895216
+Latitude: 36.20672
+Longitude: -86.76551
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Local musician + photographer sharing their three story townhome located in  East Nashville, TN.
+
+The space
+Enjoy our three story townhome in East Nashville,  just minutes from Downtown Nashville.
+
+This brand new minimalistic townhome features a roof top patio off of the bedroom where you can enjoy your morning cup of coffee. 
+
+OR, take a walk to the locals favourite coffee shop  ★CREMA★ just one block away.
+
+★Note: Bedroom on the second floor does not have a door and is an open layout.★
+
+★ ★ Patio furniture is put away for the remainder of the season! ★ ★
+
+Guest access
+•Guests will have exclusive access to the entire townhome. 
+•Self check-in at 4:00pm with keyless entry.
+•Unit #9.
+
+REMINDER:
+
+•ONLY 4 guests allowed, unless otherwise approved by Loft Lula.
+•PARTIES will NOT be tolerated. Immediate removal from the property will take place.
+
+Other things to note
+FREE PARKING:
+
+•Parking is located throughout the gated community. 
+•Any open spot is free to take.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Luis + Crystal
+Host User ID: 225949486
+Host Profile URL: https://www.airbnb.com/users/show/225949486
+Host Profile URL Source: public user permalink from passport userId
+We are a husband and wife duo with a little tot in tow hosting STR’s, managing STR turn-overs, and selling properties in Nashville, TN + The Smoky Mountains!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+3391 reviews
+4.75 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/20726056
+Latitude: 36.17302
+Longitude: -86.54409
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Wright House sits 10 minutes east of BNA and 20 minutes from Nashville on a private 2.6-acre lot where deer and wild turkey are common. Full kitchen for cooking at home, or eat out nearby. Shopping is 5 minutes away; Opry Mills and the Nashville scene are an easy drive. Pets welcome. Quiet enough for couples, room enough for family. Sleeps 6 in 3 bedrooms. Covered patio, pillow-top beds, and a quiet county road—close to town, not in it.
+
+The space
+The Wright House is for guests who want quiet, a yard, and a short drive to Nashville. Comfortable pillow-top beds. Large open living area with breakfast bar and expandable dining table. Covered back patio for morning coffee or an evening drink. The 2.6-acre lot is private and the area around you is heavily wooded—deer and turkey come through the yard. Three bedrooms sleep 6. Cook, do laundry, and let pets outside.
+
+If you plan to have visitors, please be considerate and respectful of our home.  Absolutely, no large gatherings will be allowed.
+
+Guest access
+You have exclusive use of The Wright House—living areas, kitchen, bedrooms, patio, yard, and parking. The garage and basement are set aside for our private use. We try not to access them while you are staying. If we ever need to, we will ask permission first.
+
+Entertainment:  There is a Smart TV, set up for guest access.  If you subscribe to premium programming, bring your login information so you can login on the TV.  All programming is automatically deleted post stay.  Otherwise, we offer basic local cable.
+
+Other things to note
+Pets are $100 per stay on top of the cleaning fee. Book the reservation as a pet stay. Please keep pets off the furniture; extra sheets are available to cover it. The Wright House is on a quiet county road—leash pets as needed and pick up after them.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 146480291
+Host Profile URL: https://www.airbnb.com/users/show/146480291
+Host Profile URL Source: public user permalink from passport userId
+My wife and I have called this Nashville-area community home for 30+ years. We took a house that needed some love and made it a place we’d be proud to live in—close enough to enjoy the local scene, quiet enough to get away. We’re avid travelers and hope guests become regulars who share our appreciation for this area. We also host a vacation home in Cape Canaveral.
+My work: Keller Williams, Mt Juliet (Kathy O’Brien-Streets)
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+201 reviews
+4.98 out of 5 average rating
+9 years of hosting

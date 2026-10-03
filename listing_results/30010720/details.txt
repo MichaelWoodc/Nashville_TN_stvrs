@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/30010720
+Latitude: 36.1478
+Longitude: -86.8435
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Calm and peaceful- Privately located in the back of my property in the quiet urban neighborhood of Sylvan Park . Minutes away from great food, parks and all of the  downtown landmarks. One of the most iconic Nashville neighborhoods.
+
+We sanitize the full space after each stay. All surfaces wiped down.
+
+The space
+This lovely cottage was built  in the early 1900's...nicely updated, but it still retains its charming feel. Enjoy the plush Stearns and Foster pillow top mattress while watching a full cable line up including HBO . Cook a meal in the full size eat in kitchen or walk to Hattie B's hot chicken (order mild for first timers!), Hugh Baby's burgers and BBQ, Park Cafe, Star Bagel and more.
+
+Guest access
+Play fetch with my lovely Australian Shepard!
+
+Other things to note
+Having performed on The Grand Ole Opry, The Country Music Hall of Fame and The Bluebird....I can give you an insider's view of Nashville and it's amazing music scene.
+
+STRP# 2018071764
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 532828
+Host Profile URL: https://www.airbnb.com/users/show/532828
+Host Profile URL Source: public user permalink from passport userId
+Singer/songwriter, actor and producer. Moved to Nashville from NYC 10 years ago. Big history and philosophy buff....love hearing people's stories. Favorite destinations....India, Scotland and Italy.  Favorites sounds....rain on the roof.
+Speaks Spanish and Italian
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+453 reviews
+4.88 out of 5 average rating
+8 years of hosting

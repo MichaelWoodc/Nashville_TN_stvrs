@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/41554289
+Latitude: 36.1203
+Longitude: -86.7667
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*Brand New Construction - Townhome* The Wells is located 4 miles from the Broadway strip and 2 miles from 12 Avenue South making this property's location convenient for the Nashville experience.
+
+The space
+-The property is located less than 4 miles from Downtown Lower Broadway, and 7 miles from Nashville International Airport (BNA). 
+- The 2 bedroom, 2.5 bath unit has 1 queen sized bed in each bedroom as well as a queen sized sleeper sofa in the living room. 
+- The kitchen is fully outfitted with stove and oven, microwave, regular coffee pot & toaster. We do not provide pantry items or coffee. 
+- There is a washer and dryer in the condo for your convenience. 
+- Each unit includes two free parking spaces.
+
+Guest access
+**Please Read Pet INFO**
+- Pets are permitted. A pet fee of $30 per pet will be requested for stays including said pet.
+- 2 Pets max, or 50 lbs limit, No pets on the furniture, Pets to be crated if left unattended at property, Please clean up after your pets mess and dispose in the dumpster on site. 
+- Pets not reported to owner are not permitted and guest will be asked to leave property without refund.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 312585112
+Host Profile URL: https://www.airbnb.com/users/show/312585112
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN. Although my work keeps me quite busy, I enjoy traveling as much as possible, hanging with friends and spending time with my family. The way to my heart will forever be a home cooked meal with anything chocolate for desert.
+Born in the 90s
+My work: Property Management
+Response rate: 99%
+Responds within an hour
+Superhost
+7 years hosting
+3566 reviews
+4.82 out of 5 average rating
+7 years of hosting

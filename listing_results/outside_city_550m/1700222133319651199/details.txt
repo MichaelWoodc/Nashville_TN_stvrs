@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1700222133319651199
+Latitude: 36.359
+Longitude: -86.5146
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Gallatin Getaway! Unwind in this spacious 3 bedroom home that sleeps 6 comfortably and features a king suite with a soaking tub and walk-in shower, a fully stocked kitchen designed for meals at home, a cozy fireplace for cool evenings, smart TV in every bedroom, and an outdoor patio with a grill for hot summer nights. Washer and dryer included. Just 30 mins to Broadway and 5 mins to Old Hickory Lake for boating and fishing. Designed for relaxing, reconnecting, and feeling at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandon
+Host User ID: 86797278
+Host Profile URL: https://www.airbnb.com/users/show/86797278
+Host Profile URL Source: public user permalink from passport userId
+Lives in Richmond, Indiana
+Response rate: 100%
+Responds within an hour
+2 months hosting
+5 reviews
+5.0 out of 5 average rating
+2 months of hosting

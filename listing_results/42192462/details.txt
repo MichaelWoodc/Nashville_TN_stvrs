@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/42192462
+Latitude: 36.14355
+Longitude: -86.86282
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy attic studio in the heart of Nashville! We are in a great area with good restaurants and shopping nearby, and we are just minutes from downtown. We live on the main floor below the attic unit, but it has its own entrance and is completely separate. You should expect some noise from our family and dog, but you can expect privacy as well. Since we live on site, you can also expect quick assistance with any need you have during your stay. We are happy to help in any way we can!
+
+The space
+As an attic above our home, there is daytime noise, but we respect quiet hours from 10pm to 7am. We live on the main floor and are available to resolve any issues. Please ask if you have any questions or special requests.
+
+Guest access
+The unit has its own entrance accessed from the front of the house and has no access to the main house below. You should feel free to walk in our 2.5 acre yard as well and enjoy our bamboo grove and back yard creek.
+
+Other things to note
+We have a friendly dog, Moki, who is on invisible fencing in the back. He may bark if he sees you, but he can’t come around front and get to you as you park and walk in and out of the unit, so nothing to worry about! And feel free to walk in the back and meet him or enjoy the yard!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 221043257
+Host Profile URL: https://www.airbnb.com/users/show/221043257
+Host Profile URL Source: public user permalink from passport userId
+I am an Air Force veteran and a native Nashvillian committed to doing everything I can to make your stay the best it can be.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+216 reviews
+4.95 out of 5 average rating
+7 years of hosting

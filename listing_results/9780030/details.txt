@@ -1,0 +1,31 @@
+URL: https://www.airbnb.com/rooms/9780030
+Title: Encore 19th Floor Corner Balcony
+Latitude: 36.15983
+Longitude: -86.77373
+rental_type: Private room in condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This place is Awesome! Corner balcony on the 19th floor facing the Schermerhorn Symphony Hall, Country Music Hall of Fame, Hyatt Hotel, Omni Hotel, Hilton Suites and the Bridgestone Arena ; one block from all the best music in town down on Broadway!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 50416478
+Host Profile URL: https://www.airbnb.com/users/show/50416478
+Host Profile URL Source: public user permalink from passport userId
+Fun loving adventurous type; music business background; enjoy traveling, live music, dive bars, meeting new people, networking, learning, great restaurants, wine, cocktails, dancing, laughing, beaches & riding a Harley all over the county; creating spontaneous random happenings! Live, Laugh, Love!
+My work: President/CEO in Foodservice Industry
+Lives in Nashville, Tennessee
+7 months hosting

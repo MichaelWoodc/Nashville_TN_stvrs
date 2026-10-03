@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/23465051
+Latitude: 36.24288
+Longitude: -86.73775
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This centrally-located 2 bedroom townhome is in a peaceful neighborhood 10-15 minutes from Downtown Nashville (Broadway, Nissan Stadium, Opryland, and more). Guests can enjoy keyless entry to check in at their own convenience.
+
+Our townhome has everything needed to enjoy your stay in Nashville! In the kitchen, you'll find an interactive Samsung smart fridge and cookware. There's WiFi, Smart TVs and washer/dryer for your convenience and private rooftop for guests to relax and enjoy themselves!
+
+Guest access
+Full access to the townhome with no shared spaces
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brittany
+Host User ID: 75042140
+Host Profile URL: https://www.airbnb.com/users/show/75042140
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+36 reviews
+4.83 out of 5 average rating
+7 years of hosting

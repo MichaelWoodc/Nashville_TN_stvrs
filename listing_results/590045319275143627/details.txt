@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/590045319275143627
+Latitude: 36.13587
+Longitude: -86.79668
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this updated and hip 2 bedroom, 2 bath + sleeper sofa condo with free parking. Natural sunlight floods the spacious living room every morning and you can light up the evenings with our marquee and LEDs. This condo is steps from Hillsboro Village, Belmont and Vanderbilt University - walk to cafes, restaurants, shops, and iconic murals. A trip to Broadway is only a 10 minute ride away.
+
+The space
+Freshly renovated 2 bedroom/2 bath condo filled with natural light and 10’ ceilings that sleeps up to 6 people with the Joybird sleeper sofa! All bedrooms have a 55” Roku TV, a dresser with plenty of additional closet space and full length mirrors. Bathrooms are equipped with plush linens, a hairdryer, craft handmade bar soap and Beekman 1802 shower soaps. The kitchen is fully stocked with essentials (pots and pans, dishes, Keurig with coffee/tea, toaster, salt/pepper) including a microwave, oven and dishwasher. 
+
+In unit Washer/Dryer. Free Wifi. Free Parking.
+
+The condo will be professionally cleaned before you arrive. We provide all of the essentials including dishwasher pods and laundry pods.
+
+We are located at an intersection with Vanderbilt University Medical Center down the street which does account for some street noise. Part of the charm of being in a big city so close to downtown!
+
+**Please note you will need to climb a set of stairs to get to this condo. There is no elevator.
+
+Guest access
+Keyless entry.  It's very easy to enter the condo at your convenience.
+
+Other things to note
+Beds are dressed in fresh, white, combed cotton sheets and duvets, with luxurious memory foam pillows. All hypo-allergenic. Along with plush, white bath towels, hand towels, wash clothes and bath mats. We've also provided high-quality shampoo, conditioner, body wash and a hair dryer in the bathroom. Laundry and dish detergent provided.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 109716314
+Host Profile URL: https://www.airbnb.com/users/show/109716314
+Host Profile URL Source: public user permalink from passport userId
+Lives in Clawson, Michigan
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+120 reviews
+4.96 out of 5 average rating
+5 years of hosting

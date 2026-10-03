@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/793717368928835558
+Latitude: 36.2376
+Longitude: -86.8922
+rental_type: Treehouse
+property_type: TREEHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+16 min from downtown Nashville but tucked away down a remote road on a 22 acre wooded property.  All the amenities are provided for this B&B treehouse, from a grazing board and pastries to coffee and wine. Bring your toothbrush and something for the grill and get lost in nature.  Play games, read a book, write a song, set goals, have a romantic weekend.
+
+We are a true bed and breakfast and aim to be all inclusive, offering one meal a day and tons of amenities. We hope you feel the difference!
+
+The space
+The exterior of this unique modern, Scandinavian treehouse was built utilizing the Japanese technique, Shou Sugi Ban, which involves strategically burning the wood to create a stunningly beautiful and weatherproof design.  While the outside is a rich dark black, the interior is clad in white oak and texture.
+
+The interior room is very private, nestled among the treetops. There is a small living area with views out the accordion glass doors, a food preparation area, a king bed and beautiful shower and bath with natural light coming in the window and views out to the forest foliage.  Brew yourself a mkt I g coffee or pour an afternoon glass of wine and enjoy the views from every angle!
+
+Guest access
+Hike the property and use all the amenities at the treehouse.  The main house on the property is out of sight from the treehouse and is a family home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kyah
+Host User ID: 2245687
+Host Profile URL: https://www.airbnb.com/users/show/2245687
+Host Profile URL Source: public user permalink from passport userId
+Hi!  My husband and I live in Nashville, TN with our daughter.  We've had great luck with airbnb.com when we travel all over Europe and Southeast Asia and have loved hosting people in our own short term rentals since February 2014.
+My work: Houndcock Holdings
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+290 reviews
+4.91 out of 5 average rating
+13 years of hosting

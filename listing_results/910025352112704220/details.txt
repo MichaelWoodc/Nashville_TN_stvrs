@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/910025352112704220
+Title: 70s in Nash vibes!2 bed/2.5 ba Townhome! Parking!
+Latitude: 36.13847
+Longitude: -86.82173
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+We are located right off West End, a highly sought quiet neighborhood, close to all highways, downtown + lots of places to eat + explore. Check out the Parthenon! 6 minutes to downtown! 4 minutes to midtown! 8 minutes to Nissan Stadium! 8 minutes to Five Points!
+
+Come unwind + get funky at our newly renovated pad.
+Enjoy the comfort of your own ensuite bath off the queen bedrooms.
+Play some cornhole or ring toss in the patio area + relax!
+
+The space
+-Bedroom
+
+Enter your private bedroom furnished with a luxurious queen-sized bed, a smart TV, generous storage options, a closet, and an attached private bathroom, ensuring a comfortable and convenient experience during your stay.
+
+Bedrooms 1 & 2: Queen Bed, en-suite Bathroom, and Clothing Storage
+
+-Bathroom
+
+Indulge in ultimate revitalization in our distinctive and elegantly crafted bathroom. Pamper yourself in style during your stay with us in our two full bathrooms and a half bathroom with essential toiletries.
+
+-Kitchen
+
+Discover a fully-equipped kitchen + 4 top dining tables where deliciously prepared meals come to life.
+
+From sleek stainless steel appliances to premium cookware and ample counter space, the kitchen of your dreams ensures you can effortlessly whip up delicious meals.
+
+-Attractions 
+
+*Beautiful townhome in the iconic West End area!
+*So close to everything. 
+*The highways are 1 minute away.
+*Enjoy the shopping, cafes, and eating West End offers.
+*Check out the Parthenon.
+*6 minutes to downtown.
+*4 minutes to midtown.
+
+We cover your basics for the next Nash stay!
+
+*please note these townhomes are built in the 80's, they are not brand new and have their 80's character throughout!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Curated Suites
+Host User ID: 255636174
+Host Profile URL: https://www.airbnb.com/users/show/255636174
+Host Profile URL Source: public user permalink from passport userId
+Welcome to the Curated Suites in East!
+
+Curated boutique stays brought to Music City for the wanderer in us all! Affordable rates, local feel + ties. We are a boots on the ground company rooted in our community. 
+
+Who loves to travel? We DO! You DO! Let us host your next Nashville experience.
+Lives in Los Angeles, California
+Response rate: 100%
+Responds within an hour
+7 years hosting
+4263 reviews
+4.7 out of 5 average rating
+7 years of hosting

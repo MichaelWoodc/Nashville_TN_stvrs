@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/683549192038099851
+Latitude: 36.20501
+Longitude: -86.78852
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You’ll be just minutes from restaurants, shops, entertainment, and local attractions. Whether you’re exploring the city, visiting family, or here on business, this spot makes getting around simple and stress-free.
+
+Spotlessly clean and thoughtfully designed for comfort
+Fully equipped kitchen for easy meals
+Fast Wi-Fi and a smart TV for streaming your favorites
+Comfy beds with fresh linens and plenty of pillows
+Easy self check-in and free parking
+
+Short term rental permit #2019039067
+
+The space
+Our beautiful 2019 house has 3 bedrooms, 3 full bathrooms, and is conveniently located close to downtown, the airport, Nissan Stadium, the Gulch, and more!
+
+One of the three bedrooms is on the main level, while the second and third bedrooms are on the second floor.  The three full bathrooms (one of them on the main level) are perfect for big groups trying to get ready at the same time.
+
+I am always available through Airbnb messaging, phone call, or text!
+
+Guest access
+Enjoy having the whole house to yourself! This spacious, spotless home is designed for comfort and convenience — perfect for families, couples, or business travelers.
+
+•You’ll have the entire home all to yourself — no shared spaces
+•Free parking right on the property for your convenience
+•Large, fully fenced backyard — great for relaxing, grilling, or letting kids play safely
+•Comfortable beds with fresh linens
+•Fully equipped kitchen and cozy living space
+•Fast Wi-Fi and smart TV for entertainment
+•Pack ’n Play available for little ones
+•Shower chair provided for guests who need extra comfort or accessibility
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 271102902
+Host Profile URL: https://www.airbnb.com/users/show/271102902
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+466 reviews
+4.89 out of 5 average rating
+7 years of hosting

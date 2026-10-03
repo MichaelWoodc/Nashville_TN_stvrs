@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/559168525355813473
+Latitude: 36.11892
+Longitude: -86.78037
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 11
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortably enjoy your Nashville experience in this newly built, spacious home perfect for any group and dog owners! Located directly in the heart of Music City (12 South Neighborhood) this home is carefully designed to give you a taste of Nashville living. You'll be just a short walk to some of the best food/coffee in the city. Featuring a game room, private doggy area with doggie door, rooftop, multiple areas to lounge (both indoors and out), fire pit, and vaulted ceilings.
+
+The space
+This home is designed for ALL people!
+
+INTROVERTS: Enjoy the comfort of 5 separate private bedrooms and 4 separate outdoor areas to hang!
+
+EXTROVERTS: Enjoy our giant living room with the extremely comfortable cloud couch and play board games with friends! There's also an outdoor fire pit in the backyard, a box full of sports games, and a rooftop grill!
+
+INDOOR PEOPLE: The interior of the home has been designed to showcase themes of Nashville and fun! For those rainy days, enjoy playing on our 3 retro arcade games or still catching a breeze in our screened in porch!
+
+OUTDOOR PEOPLE: With multiple dedicated hang areas this home is designed to enjoy the outdoors. Roast marshmallows with friends at the fire pit, play a game of corn hole, have dinner on the rooftop, or even let your dog have their own private area! 
+
+WANDERERS: Enjoy local cuisine without needing to even order a Ride Share service. There are dozens of restaurants within walking distance of the home as well as a grocery store less than 1/4 mile away. The home is in an extremely safe and family friendly neighborhood.
+
+Guest access
+This home is fully private and fenced in. Perfect for large groups and extremely pet friendly.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyler
+Host User ID: 20706362
+Host Profile URL: https://www.airbnb.com/users/show/20706362
+Host Profile URL Source: public user permalink from passport userId
+Hello! My name is Tyler. If there's one thing I love more than oreo ice cream, it's people. I'm honored to be a host and am looking forward to meeting you.
+My work: Musician / youtuber / accidental landlord
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+254 reviews
+4.92 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/21513133
+Latitude: 36.0626
+Longitude: -86.7312
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully remodeled with a full kitchen & laundry our cottage is perfect for your Nashville retreat!  Enjoy the spacious walk-in shower with rainfall showerhead, a queen Casper mattress, and the softest linens. AT&T Fiber  included with free Netflix as well as a PlayStation & games! We're on a quiet street and convenient 15 minute access to downtown, Vanderbilt, Lipscomb, BNA airport, and many natural areas. 10 minutes from the Nashville Zoo and 2 blocks from Ellington Agriculture's hikes and parks.
+
+The space
+Completely remodeled, 15 minutes from the Nashville scene, you will find a well-equipped kitchen, laundry, and entertainment area. You are also welcome to use the side yard and firepit during your stay.
+
+Guest access
+Backyard directly off guesthouse, and one reserved parking space in the driveway with additional parking on the street.
+
+Other things to note
+Please note the 15-20 minute travel time to many major sites in Nashville so that you can plan accordingly and know prior to booking. This is a great space in an awesome neighborhood and well worth those few extra minutes.  15-18 minutes is a typical commute for most Nashville locals.
+
+Registration Details
+2018034450
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katie
+Host User ID: 67263024
+Host Profile URL: https://www.airbnb.com/users/show/67263024
+Host Profile URL Source: public user permalink from passport userId
+We've lived in Nashville for 16 years with our 4 boys and find its a perfect place to explore the outdoors, hear new music, & visit historic sites.  We love to travel, read, go to concerts, and hike.  We recommend Percy Warner and Radnor Parks for hiking, Percy Priests Lake for boating, and 12th South and The Gulch for some tasty treats.
+Born in the 80s
+Where I went to school: BYU
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+814 reviews
+4.95 out of 5 average rating
+9 years of hosting

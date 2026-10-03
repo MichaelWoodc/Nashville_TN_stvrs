@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/27136966
+Latitude: 36.17557
+Longitude: -86.79755
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+**Self Check-In and Sanitized!**
+
+Jam on the guitar, spin some classic vinyl, or check out the country album covers on the wall to get into the Nashville groove. Here, the brightness of the decor is matched only by the quality of the bed linen and the comfort of the new sleeper sofa.
+
+**Please note: We take our guest’s health seriously and SANITIZE completely between reservations!
+
+Comes fully equipped with your own fridge, stove, microwave, toaster, coffee maker (coffee and tea is complimentary), and all kitchen essentials.  Queen size bed and new comfy sleeper sofa.  Record player with real classic records you can play and even a guitar to jam on (this is Music City after all, so don’t be shy)!  Television, which also allows guests to access Netflix, etc through Amazon Fire TV and all major network channels in HD.  Private and completely detached guest house with well lit entry.  We challenge you to not find anything you might need!
+
+We would love to meet you, but that’s up to you!  You can always reach us by messaging!
+
+The property is located on a wide street with sidewalks on both sides. It's directly across from a big green field that belongs to a local church. Kroger is about a quarter of a mile away, along with all kind of eateries and hot spots in Germantown, AND you can see part of the downtown skyline (famous AT&T Batman building included) from the south window!
+
+Walk, Uber, Drive, Bike
+
+Sleeper sofa linens, pillows, etc. will automatically be provided for parties of three or four.  Can also be provided upon request for parties of two.
+
+The space
+Comes fully equipped with your own fridge, stove, microwave, toaster, coffee maker (coffee and tea is complimentary), and all kitchen essentials.  Queen size bed and new comfy sleeper sofa.  Record player with real classic records you can play and even a guitar to jam on (this is Music City after all, so don’t be shy)!  Television, which also allows guests to access Netflix, etc through Amazon Fire TV and all major network channels in HD.  Private and completely detached guest house with well lit entry.  We challenge you to not find anything you might need!
+
+Other things to note
+Sleeper sofa linens, pillows, etc. will automatically be provided for parties of three or four.  Can also be provided upon request for parties of two.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacy And Casey
+Host User ID: 32592159
+Host Profile URL: https://www.airbnb.com/users/show/32592159
+Host Profile URL Source: public user permalink from passport userId
+My husband Casey and I (yes, our names rhyme) enjoy traveling any chance we get!  We also love to host people and try to make sure they have a wonderful time in our home town of Nashville, TN!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1376 reviews
+4.93 out of 5 average rating
+8 years of hosting

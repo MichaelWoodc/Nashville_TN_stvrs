@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/5241371
+Latitude: 35.9796
+Longitude: -86.68697
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Brentwood, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious home fully furnished with 4 bedrooms, 2 full bathrooms, car port, + other amenities.  Publix Groceries, Restaurants + Lenox Village 1 mile away!  Antique shops, Arrington Vineyard and an easy 12 minute drive to i-65.
+
+The space
+A large home in Brentwood with close access to Franklin, Nolensville, Triune and Brentwood
+
+Guest access
+You will have a clean house with fresh linens, bath soap
+
+Other things to note
+One of the beds is a queen sofa sleeper in the Living Room
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Beth
+Host User ID: 27125979
+Host Profile URL: https://www.airbnb.com/users/show/27125979
+Host Profile URL Source: public user permalink from passport userId
+Lives in Brentwood, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+341 reviews
+4.87 out of 5 average rating
+12 years of hosting

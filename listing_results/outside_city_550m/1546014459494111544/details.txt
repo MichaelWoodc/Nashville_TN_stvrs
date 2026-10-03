@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1546014459494111544
+Latitude: 36.2638
+Longitude: -86.6215
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 4
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back and relax in this homey Hendersonville retreat — your cozy escape just 25 minutes from Broadway’s buzz! Whether you’re here for a weekend getaway or a work trip, you’ll feel right at home in this peaceful space.
+
+Highlights:
+Melt away the day in the massage chair
+Curl up with a good book by the fire pit
+Enjoy full access to washer & dryer 
+
+This private room is part of a friendly shared home — quiet, comfortable, and made for easy living. Come for the convenience, stay for the comfort.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 394079035
+Host Profile URL: https://www.airbnb.com/users/show/394079035
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+10 months hosting
+104 reviews
+4.71 out of 5 average rating
+10 months of hosting

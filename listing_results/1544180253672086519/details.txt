@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1544180253672086519
+Latitude: 36.1715
+Longitude: -86.7832
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home base! This stylish one-bedroom, one-bath retreat is located in the heart of Germantown, one of the city’s most walkable and sought-after neighborhoods. Enjoy a bright, open layout with modern finishes, a comfortable king bed, a pullout queen size couch and a fully equipped kitchen perfect for any trip. Relax in the cozy living area, sip coffee on the balcony, or stroll to some of Nashville’s best restaurants, coffee shops, and breweries — all just steps away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allen
+Host User ID: 2078877
+Host Profile URL: https://www.airbnb.com/users/show/2078877
+Host Profile URL Source: public user permalink from passport userId
+I enjoying traveling, hanging out with friends, reading, and exercise. I am a very responsible, honest, outgoing, and dependable person.
+Born in the 70s
+My work: Business owner/coach
+Response rate: 100%
+Responds within an hour
+10 years hosting
+12 reviews
+4.75 out of 5 average rating
+10 years of hosting

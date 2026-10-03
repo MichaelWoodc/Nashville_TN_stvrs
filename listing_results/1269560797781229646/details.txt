@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1269560797781229646
+Latitude: 36.1759
+Longitude: -86.7578
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 4
+fields_status: missing: bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Waymore's Guest House
+Host User ID: 545893650
+Host Profile URL: https://www.airbnb.com/users/show/545893650
+Host Profile URL Source: public user permalink from passport userId
+Waymore’s is a boutique hotel located in East Nashville, Tennessee with 93 guest rooms, suites and bunkrooms.
+
+We call it our guest house, because it was designed with comfort in mind above all else — in addition to the essentials, our spacious rooms are pet-friendly with sustainable bath amenities, locally-sourced art, thoughtfully-curated mini-bars and floor-to-ceiling windows.
+3 years hosting
+72 reviews
+4.68 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1777817741665837665
+Latitude: 36.1681
+Longitude: -86.8132
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from a spacious 3-story townhome just minutes from the heart of the city! 🎸 Perfect for families, groups & weekend getaways, this home puts you close to Broadway, Midtown, Germantown, local restaurants, live music & Nashville’s top attractions. Enjoy convenient parking, high-speed WiFi, a fully equipped kitchen, in-unit laundry & all the essentials for a comfortable Music City stay. 🤠✨
+
+The space
+Spread out across three spacious levels designed for groups, families, and friends traveling together. With 3 bedrooms, 7 beds, and room for up to 10 guests, everyone has space to settle in and enjoy Nashville comfortably.
+
+The home features a fully equipped kitchen for cooking and gathering, comfortable living spaces, Smart TVs, high-speed WiFi, and everything you need for a weekend or extended stay.
+
+★ 3-story townhome
+★ 3 bedrooms · 7 beds
+★ Sleeps up to 10 guests
+★ Fully equipped kitchen
+★ Comfortable living & dining areas
+★ High-speed WiFi
+★ Smart TVs
+★ In-unit washer & dryer
+★ Convenient parking
+★ Central A/C & heat
+★ Fresh linens & towels
+★ Bathroom & kitchen essentials
+★ Easy self check-in
+
+Whether you're coming to Nashville for live music, a family trip, sporting event, work, or a weekend with friends, this home gives your group plenty of room to relax between adventures.
+
+Guest access
+Guests will have private access to the entire 3-story townhome throughout their stay, including all bedrooms, bathrooms, living areas, kitchen, and in-unit laundry.
+
+★ Private access to the entire home
+★ Convenient self check-in
+★ Parking available
+★ Full kitchen
+★ Washer & dryer
+★ High-speed WiFi
+
+Check-in instructions and your unique access information will be sent before arrival for an easy, hassle-free check-in.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Onyx Stays
+Host User ID: 709581707
+Host Profile URL: https://www.airbnb.com/users/show/709581707
+Host Profile URL Source: public user permalink from passport userId
+We are Officers in the military and want to get into business and self development.
+My work: U.S. Army Officer
+I spend too much time: In the Gym
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+699 reviews
+4.92 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/617502193477148076
+Latitude: 36.18953
+Longitude: -86.71637
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful mid-century home. 2 kings & 1 queen. Large corner lot with mature trees & porch swing. Off-street parking for four cars. W/D & fully equipped kitchen. Quiet neighborhood setting - NOT the Gulch or Downtown. Noko, Schulmans & Cafe Roze are 3/4 mile away. Short uber ride to the hot spots:
+-3 mi to Five Points
+-5 mi to Broadway 
+-4.5 mi to Nissan Stadium
+-8 mi to Grand Ole Opry
+-2 blocks to 300+ acres of Shelby Park
+
+Fun fact: Location for Lauren Watkins’ music video, "The Table."
+
+The space
+Step into a thoughtfully curated Mid-Century Modern retreat where clean lines, warm textures, and timeless design create a space that feels both stylish and deeply comfortable. Natural wood tones, iconic MCM silhouettes, and carefully selected furnishings give the home a grounded, intentional feel—inviting you to slow down and settle in.
+
+Every detail has been chosen with balance in mind: sculptural lighting, uncluttered spaces, and a calm, cohesive aesthetic that feels modern without being trendy. It’s a home designed to feel lived-in yet elevated—perfect for relaxing evenings, productive mornings, or simply enjoying a space with real character.
+
+Ideal for guests who appreciate design, simplicity, and comfort. This Mid-Century home offers a warm, inviting stay that feels authentic, effortless, and timeless. If you love vintage charm, you will love it here.
+
+Guest access
+You will have access to the entire main level of this 1,250 sf, 3 bed/1 bath home during your stay. In addition, you will have exclusive use of the covered porch and you are welcome to enjoy the front yard of the beautiful corner lot. There are two driveways in the front of the house which will accommodate four vehicles. I live in an entirely separate unit downstairs (think duplex) and have a separate driveway to the back of the house.
+
+Other things to note
+Please let us know if you have special requests or needs. We are happy to do our best to accommodate and make your stay the best!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Connor
+Host User ID: 377035901
+Host Profile URL: https://www.airbnb.com/users/show/377035901
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Cal Poly San Luis Obispo
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+143 reviews
+4.96 out of 5 average rating
+4 years of hosting

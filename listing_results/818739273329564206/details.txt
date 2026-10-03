@@ -1,0 +1,96 @@
+URL: https://www.airbnb.com/rooms/818739273329564206
+Title: Ideal Nashville Base Near Downtown & Hospitals
+Latitude: 36.12708
+Longitude: -86.72598
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A modern industrial Nashville condo designed for 30+ day stays. Ideal for traveling professionals, relocations, and extended visits. Features a fully equipped kitchen, high-speed WiFi, dedicated workspace, Smart TV, and in-unit laundry for everyday convenience. Enjoy a clean, quiet, pet-friendly space with easy access to downtown, hospitals, the airport (7 min) and major employers—comfortable, reliable, and ready to feel like home.
+
+Book or contact us now with any questions that you have!
+
+The space
+What you’ll love:
+
+• Smart TV with Roku — unwind after long shifts
+• Hotel-style linens — professionally cleaned for a restful sleep
+• High-speed WiFi — reliable for remote work, charting, and streaming
+• Dedicated workspace — desk + chair for productivity
+• Fully equipped kitchen — cook meals easily and save on dining out
+• In-unit washer & dryer — perfect for weekly routines and longer stays
+• Keurig coffee maker — quick coffee before early mornings
+• Amazon Alexa — hands-free music, alarms, and daily updates
+
+Designed for extended stays:
+• Ideal for travel nurses, corporate housing, and relocations
+• Pet-friendly — bring your companion along
+• Clean, quiet, and organized for day-to-day living
+• Comfortable setup for both work and relaxation
+
+Location highlights — close to everything you need, while still offering a peaceful place to recharge:
+• ~9 mins to Downtown / Broadway
+• ~8 mins to Nashville International Airport (BNA)
+• ~10 mins to grocery stores, gyms, and daily essentials
+• Easy access to I-24, I-40, and I-65 for commuting
+
+---
+
+Getting Around (Hospitals & Medical Centers)
+
+This location is ideal for travel nurses and medical professionals, with quick access to many of Nashville’s major hospitals:
+
+• ~5–10 mins to TriStar Southern Hills Medical Center
+• ~10–12 mins to Vanderbilt University Medical Center
+• ~10–12 mins to TriStar Centennial Medical Center
+• ~10 mins to Ascension Saint Thomas Midtown
+• ~12–15 mins to Ascension Saint Thomas West
+• ~10 mins to Nashville General Hospital
+• ~15 mins to TriStar Skyline Medical Center
+
+Most major hospitals in Nashville are within roughly **2–7 miles of downtown**, making this location highly convenient for commuting healthcare professionals.
+
+Guest access
+You will have access to the entire space.
+
+Other things to note
+Everything Nashville has to offer is in close proximity to the apartment. 
+
+📍West End - 12mins
+📍Broadway/Bridgestone Arena - 9mins 
+📍12 South - 10mins
+📍East Nashville - 12mins
+📍Airport (BNA) - 8mins
+📍Nissan Stadium - 8mins
+📍Nashville Zoo - 10mins
+📍Grand Ole Opry - 15mins
+📍First Tennessee Park - 10mins
+
+There is a rental agreement that needs to be signed after each booking is confirmed. It will be sent over immediately after booking and can be signed digitally.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordon
+Host User ID: 27324712
+Host Profile URL: https://www.airbnb.com/users/show/27324712
+Host Profile URL Source: public user permalink from passport userId
+I’m Jordon! I love to travel, workout and relax!
+My work: IT professional
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+120 reviews
+4.88 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/33223288
+Latitude: 36.1505
+Longitude: -86.7875
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A private luxury Airbnb with outdoor pool, hot tub, fire pit, fire table, grill, and four outdoor patios located in the heart of the Gulch / Music Row area. It is also on the closest residential street to Downtown / Broadway making these destinations walkable. The space sleeps up to 9 people comfortably.
+
+Guest access
+Keyless keypad entry
+
+Other things to note
+Things to note:
+
+-The Airbnb is on the second floor of a house, so there is a set of stairs to the unit.
+
+-The Airbnb is a portion of the house that me and my roommate live at, but the Airbnb has it's own private entrance and the entire inside of the Airbnb (everything in the photos) is completely private and deadbolted from the rest of the house. You will feel safe and secure here.
+
+-Two of the four outdoor patios are completely private. The patio with the hot tub and pool are technically "shared" with me and my roommate, however we very rarely use them, so they are essentially private for you and your party's use. 
+
+-The hot tub is available year round, however due to winter weather the outdoor pool is only available April 1 - October 31.
+
+-The Airbnb has a kitchenette (not a full kitchen). The kitchenette has a minifridge, microwave, coffee maker, and toaster. There is no stove in the unit, but there is a grill with side burners on the back patio. A grill set and a few pots and pans are available for use. 
+
+We look forward to hosting you. Please reach out with any questions! 
+
+Per city requirements to display the Short Term Rental Permit number, it is: #2018076804
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emile
+Host User ID: 189642351
+Host Profile URL: https://www.airbnb.com/users/show/189642351
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+689 reviews
+4.85 out of 5 average rating
+8 years of hosting

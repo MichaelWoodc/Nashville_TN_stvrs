@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/895698739419056023
+Latitude: 36.32577
+Longitude: -86.95746
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 15
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to The Western Connection, a charming country retreat just 25 minutes from Nashville. Enjoy nature, abundant wildlife, and outdoor activities nearby. Relax in our private backyard with beautiful views. Experience Nashville's music scene, cuisine, and activities and then enjoy affordable lodging for up to 15 guests after a quick drive to our place! You'll love our rooms themed after some of our favorite country stars. Book now for a perfect balance of relaxation and southern charm!
+
+The space
+Step into our 2800 sq. ft. country music-inspired spacious retreat! This 4-bedroom, 2.5-bathroom house immerses you in the spirit of country music! From memorabilia adorning the walls to themed decor, experience the charm and nostalgia of the honky-tonk era as the owners celebrate and honor their deceased mother who owned a Country Western Bar in California where many stars like Garth Brooks and Travis Tritt performed. Enjoy spacious living areas and modern amenities.  Retreat to the comfortable bedrooms or soak in the master bathroom's luxurious tub. Discover the perfect harmony of comfort and country music flair in every corner of this delightful home. Enjoy the pool table as you hang out upstairs in the bonus room or grill on the back patio.
+
+Guest access
+Guests will have access to every area of the house except the basement. All vehicles must be parked on the driveway, there is ample parking space around back. Do not park in the grass or on the street.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paul
+Host User ID: 288491890
+Host Profile URL: https://www.airbnb.com/users/show/288491890
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Murfreesboro, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+910 reviews
+4.75 out of 5 average rating
+7 years of hosting

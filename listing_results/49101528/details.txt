@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/49101528
+Latitude: 36.20526
+Longitude: -86.75421
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cute 3/2 renovated cottage in Inglewood, will give you the essential East Nashville experience.  Close to shops and the best eateries, AND only 7min to the heart of Downtown Nashville!  A private backyard and off street parking, makes your stay easy, and the high end decor gives you that lux getaway feel you need.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 396026930
+Host Profile URL: https://www.airbnb.com/users/show/396026930
+Host Profile URL Source: public user permalink from passport userId
+Born in the 50s
+Speaks English
+Response rate: 100%
+Responds within a few hours
+Superhost
+5 years hosting
+255 reviews
+4.97 out of 5 average rating
+5 years of hosting

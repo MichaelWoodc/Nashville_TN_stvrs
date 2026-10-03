@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/805996516579949298
+Latitude: 36.08683
+Longitude: -86.62741
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back & relax in this modern condo.Sits on golf course with a beautiful view. Safe gated community. Convenient to airport, Priest Lake and many local venues. 10 miles to Broadway, inexpensive Uber ride. Beautiful open kitchen to accommodate your cooking & baking needs.Large open living room with sectional sofa, 55” flat screen smart TV. Lighted deck overlooking the 12th green has a wood burning chiminea, charcoal grill, pub table/chairs, and a cushioned loveseat to make for relaxing nights.
+
+The space
+This is a Double master condo, therefore each bedroom has its own private bathroom.
+Windows should remain closed and locked. 
+Please do not relocate any furnishings or decorations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leslie
+Host User ID: 340401237
+Host Profile URL: https://www.airbnb.com/users/show/340401237
+Host Profile URL Source: public user permalink from passport userId
+My work: Nurse
+Lives in Newport, North Carolina
+Response rate: 100%
+Responds within an hour
+4 years hosting
+16 reviews
+4.81 out of 5 average rating
+4 years of hosting

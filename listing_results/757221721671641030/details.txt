@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/757221721671641030
+Latitude: 36.14581
+Longitude: -86.67609
+rental_type: Private room in bed and breakfast
+property_type: BNB
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy stylish accommodations and essential convenience when you stay at The Hotel Nashville Airport. Our hotel, located just a 5-minute drive from the Nashville International Airport, is ideal for both business travelers and anyone on vacation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Reginald
+Host User ID: 290556735
+Host Profile URL: https://www.airbnb.com/users/show/290556735
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Carver
+My work: Johnson’s Painting Co.
+I spend too much time: Gym.
+Speaks English
+Responds within a few days or more
+4 years hosting
+1 reviews
+1.0 out of 5 average rating
+4 years of hosting

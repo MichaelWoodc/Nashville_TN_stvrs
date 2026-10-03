@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/37936461
+Latitude: 36.1376
+Longitude: -86.8571
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming mid-century brick duplex in Nashville’s safest neighborhood. 10 mins to Broadway, 2 mins to shops/restaurants, with a 1 min walk to the WeGo bus stop and a 4 min walk to a greenway trailhead. Perfect for up to 6 guests, with space for 8 if needed.  Includes a full kitchen and private backyard. Great for families, friends, solo travelers, concertgoers, business trips or road trips—book your Nashville escape!
+
+The space
+Built in 1949, this home is full of historic southern charm. Furnished with a king size bed in one bedroom, a full size bed in the other bedroom, a queen size airbed that can be set up in the living room, a twin size airbed that can be set up in the second bedroom or the living room, and a spacious sectional sofa. Fully useable kitchen with refrigerator, oven/stove, and washer & dryer, and a breakfast nook set for four. Complimentary coffee and tea is provided. Includes a private backyard with rocking chairs, picnic table and bistro table set. Don’t miss out on this gem—book now!
+
+Guest access
+Access to front yard, backyard, and the interior of the duplex, including use of washer and dryer with detergent and fabric softener sheets provided.
+
+Other things to note
+This house is a duplex with residents living in the other half of the house. Both sides are completely divided by a thick center wall with their own entrances and backyards.
+
+Registration Details
+2021019548
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Timothy
+Host User ID: 76786245
+Host Profile URL: https://www.airbnb.com/users/show/76786245
+Host Profile URL Source: public user permalink from passport userId
+Landscaper, property manager, fitness instructor, and avid traveler.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+616 reviews
+4.92 out of 5 average rating
+8 years of hosting

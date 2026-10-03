@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/800166394522110692
+Latitude: 36.2467
+Longitude: -86.7376
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our brand new construction home, located just minutes away from the bustling downtown area and major highways. Our open floor plan is perfect for families and groups, with plenty of space to relax and unwind. The backyard is great for outdoor gatherings, and the end street location provides a peaceful and quiet atmosphere. Plus, with the woods across the street, you'll enjoy added privacy during your stay. Though we don’t mind you smoking outside  please do not smoke inside.
+
+The space
+This is a beautiful new house with 3 bedroom and 2.5 baths. There is a master bedroom with a king size bed plus an extra twin mattress in the huge master closet that can be pulled out, if needed. The 2nd bedroom has a queen size bed and the 3rd bedroom has twin bunk beds with a trundle underneath. 
+There is a couch downstairs that can be maneuvered for a sleep situation and we have extra sheets , blankets and pillows for whatever needs you have to sleep comfortably.
+
+Guest access
+The whole house is available for our guests.
+
+Other things to note
+We charge a $100 early check-in fee. Early check-in is available as long as our cleaning crew is finished. Late check out fee is $100 based on availability. 
+Though we are fine with our guests smoking outside in our backyard, fully fenced in, we do not allow smoking inside our house. 
+We have a pet fee of $150 with a $50 fee for each additional pet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lawrence
+Host User ID: 495055170
+Host Profile URL: https://www.airbnb.com/users/show/495055170
+Host Profile URL Source: public user permalink from passport userId
+Hello, I will treat your home as if it were my own
+Born in the 90s
+My work: Pest control
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+116 reviews
+4.93 out of 5 average rating
+4 years of hosting

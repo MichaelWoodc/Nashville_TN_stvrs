@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/635542699625828859
+Latitude: 35.9785
+Longitude: -86.8926
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Berry’s Chapel Cottage - your charming,  renovated retreat in Franklin. Just 4 miles from historic Main Street, 11 miles from the storybook village of Leiper’s Fork, and 15 miles from the energy of Nashville, this cottage puts the best of Middle Tennessee within easy reach. Set on just under an acre with a fully fenced front and back yard, the home blends modern updates with cozy charm.
+
+The space
+Inside, you’ll find three thoughtfully styled bedrooms. One with a king bed, one with a queen, and one with two twins, plus a bright, updated bathroom. The living spaces invite connection, whether you’re gathered in the family room for a movie night, playing board games in the formal living room, preparing meals together in the kitchen, or enjoying your meal together at the dining table. 
+
+Step outside and enjoy all the little luxuries of country living. Sip your morning coffee in an Adirondack chair, when available, pick fresh vegetables from the seasonal garden. The propane grill and patio offer the perfect spot for al fresco dinners and easy summer evenings.
+
+From its stylish interiors and thoughtful amenities to its prime location, Berry’s Chapel Cottage is the perfect place to relax, reconnect, and make lasting memories together.
+
+Guest access
+You have access to the entire property.
+
+Other things to note
+There is a doorbell camera monitoring the front door. 
+
+The kitchen includes basic pots, pans, utensils, and dishes, everything you need for simple cooking during your stay.
+
+For stays longer than 3 weeks, we do include a cleaner for up to 3 hours every two weeks. While they don’t do laundry or dishes, they do wipe baseboards, dust, sweep, mop and clean the bathrooms and kitchen. This is required for longer stays. 
+
+We do not allow parties or gatherings. If you have a party or gathering, you will be told to leave the property and will not receive a refund.
+
+We happily welcome up to two dogs per stay, each under 25 lbs.
+
+All dogs must be added to the reservation at the time of booking and are subject to our pet fee.
+
+For the comfort of future guests and the home:
+
+* Dogs must be house-trained and on a flea preventative 
+* Please keep pets off furniture
+* Dogs must be crated if left unattended
+
+Per Airbnb policy, service animals are always welcome regardless of size.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Susan Jane
+Host User ID: 396940459
+Host Profile URL: https://www.airbnb.com/users/show/396940459
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+190 reviews
+4.88 out of 5 average rating
+5 years of hosting

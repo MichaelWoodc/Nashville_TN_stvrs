@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/41778116
+Latitude: 36.17054
+Longitude: -86.74931
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a private, comfortable stay in vibrant East Nashville. This beautifully appointed guest suite features a private entrance and ensuite bath for added convenience and privacy. Thoughtfully designed with stylish touches and essential amenities, it’s perfect for a relaxing stay. Minutes from top dining and local favorites, yet tucked in a quiet neighborhood. Well-behaved pets are welcome.
+
+Permit #2018032450
+
+The space
+This listing is for our private guest suite, and yes bring your furry best friend!    Since 2018 we have listed our entire home, where we maintain Superhost status.   Also, we are happy to care for your buddy for an extra $20 per day. They'll be well cared for,  fed,  walked, and happily ready for your return.  
+
+Pet Ameneties:  Pet 30 lbs or less can be accomodated and well-cared for.  I have one small dog, and occassionally pet sit.  My home is fully-fenced in the front front & back.  Also, we  have a heated/air conditioned dog wash, and can provide a crate if you need.  
+
+ (We encourage you to check out reviews of our entire home listing #26280450).
+Please note that we have one small dog on premise, and is very friendly and loving.  She is kept away from the private suite, so not to disturb you duringyour stay.   Howeverm she will happily serve as playmate to your four-legged friend, if you wish.   
+Thank you for considering our home for your stay in Nashville.
+
+Guest access
+Guests will enjoy private access to the suite through a separate entrance with secure keypad entry for easy, contactless check-in. The suite is entirely your own, including a private bedroom and ensuite bath, allowing you to come and go as you please with complete privacy during your stay.
+
+During your stay
+We’re available should you need anything during your stay, but we respect your privacy and won’t disturb you. You’ll be able to enjoy your time comfortably, with support just a call or text away if needed.
+
+Other things to note
+The suite has a private entrance, but it is attached to our primary residence, so you may hear light, normal household noise during your stay.
+We are happy to consider one dog (up to 30 lbs) with prior approval. A non-refundable $150 pet fee applies and will be requested once your reservation is confirmed. A dog crate is available upon request. Please note, failure to disclose a pet in advance will result in a $250 fee.
+We will do our best to accommodate early check-in or late check-out requests; however, these cannot be guaranteed and are subject to availability.
+For security purposes, the property is equipped with a Ring doorbell and exterior cameras at the front and back of the home.
+We do not accept third-party bookings. The person making the reservation must be staying on-site, and a valid government-issued ID will be required prior to booking confirmation.
+Dogs do live on the premises, so guests with allergies or sensitivities should take this into consideration before booking.
+
+Laundry access available to guest stay longer than 7 days.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacey
+Host User ID: 25912979
+Host Profile URL: https://www.airbnb.com/users/show/25912979
+Host Profile URL Source: public user permalink from passport userId
+Love to travel, it feeds my soul!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+8 years hosting
+65 reviews
+5.0 out of 5 average rating
+8 years of hosting

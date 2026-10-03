@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/16130404
+Latitude: 36.25161
+Longitude: -86.69787
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Breathe healthy in this hypoallergenic environment. Stay warm around a central stone fireplace and soak up the cultural significance of staying in a carefully restored domestic cottage listed on the National Register of Historic Places. Enjoy a soak in the hot tub to relax a little more. 
+This original tiny house has no separate bedrooms. 
+Spa is near the main house-70 feet from the cottage. Swim wear required.
+It is private for the cottage guests only.  We are 7 miles from downtown Nashville.
+
+The space
+This original tiny house has no separate bedrooms. Great relaxing get away for couple. Indulge yourself with all cotton linens. Local art and handmade items add to the charm of this cottage. No full kitchen.  See kitchenette details.
+
+Guest access
+Strolling the flower gardens then enjoy your coffee or a tall cold one in the vintage gazebo.  Lucinda is set on the back of the 2 acre Historic Home Stay property behind the Robert Chadwell - Idlewild home.
+
+Other things to note
+Located 15 minutes from downtown and 10 minutes from miles of walking trails in Peeler Park in Neelys Bend on the Cumberland river.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rose
+Host User ID: 52035824
+Host Profile URL: https://www.airbnb.com/users/show/52035824
+Host Profile URL Source: public user permalink from passport userId
+A southern lady who raised her family in New England but now closer to home(Texas) by way of Nashville. I make hand braided rugs, repurpose wool and love to decorate. Come enjoy some southern hospitality with a New England flavor. I love Sonoma, San Francisco, Munich and miss New Hampshire autumns and snow.  Come experience life at historic Idlewild at Lucinda's House, restored domestic servants quarters. Experience some southern charm with New England grit and ingenuity with a visit to Lucinda's House.
+My work: Idlewild Wool- repurposed wool for rug hooking and braiding
+I spend too much time: Crafting
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+926 reviews
+4.95 out of 5 average rating
+10 years of hosting

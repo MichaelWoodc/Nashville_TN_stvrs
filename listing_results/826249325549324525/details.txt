@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/826249325549324525
+Title: House of Cowgirls! Amazing Rooftop + 1.5mi to DT
+Latitude: 36.1861
+Longitude: -86.7929
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to House of Cowgirls babes! I am so excited to bring you my next luxury Vibey Stays property and buckle up... it's a good one!
+
+This house is a brand new luxury build in the cutest walkable neighborhood! You'll love the over the top wallpaper, neon signs, private rooftop, and my personal favorite... our get ready room with 8 custom light up vanities!
+
+Walk to Nashville's best restaurants, bars, and shops from the house. And be downtown in no time... the house is 1.5 miles from Broadway!
+
+The space
+Perfect for your next girls trip, this house has it all! This house boasts 3 stories plus an insane rooftop deck. 3 bedrooms, 3.5 bathrooms and an outdoor patio on each floor. We have a two car garage and two driveway spots for y'all to use. 
+
+The best part... where do i start? Our custom get ready room has 8 custom light up vanities with cowprint wallpaper and our 'Lets Go Girls' neon sign. The perfect place to kick off the night with your girls!
+
+We also have our main neon sign 'Take a ride on Nashville's wild side' with a saddle seat and pink disco cowgirl wallpaper. Truly the most epic photo spot in the house ! 
+
+You'll soon see why we called it House of Cowgirls, because we brought it. You'll be living out your Nashville fantasy with custom wallpaper in every room, pink disco balls, and unlimited photo opps. 
+
+And the location?? Y'all its too good! Nestled in Germantown this location is less than 1.5 miles from broadway. There is a Starbucks, a Chipotle, and a 7/11 convenience store two blocks from the house. And you also are walking distance to some of Nashville's best bars, restaurants, and shops (ask me for recommendations!)
+
+This house is truly created for the babes and I hope you love it as much as I do!
+
+Guest access
+The whole house is all yours! Feel free to make yourself at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neysha
+Host User ID: 421004691
+Host Profile URL: https://www.airbnb.com/users/show/421004691
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Buffalo
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+181 reviews
+4.96 out of 5 average rating
+5 years of hosting

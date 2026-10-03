@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1742416888811456227
+Latitude: 36.0277
+Longitude: -86.9158
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Keep it simple at this peaceful and centrally-located place. On a 100 acre horse farm
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christian
+Host User ID: 29944296
+Host Profile URL: https://www.airbnb.com/users/show/29944296
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Vanderbilt University
+My work: Farmvet
+Response rate: 78%
+Responds within a day
+4 years hosting
+3 reviews
+4.33 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/928544194107224725
+Latitude: 36.1802
+Longitude: -86.7418
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A quick ride to Broadway, but in a charming and cool neighborhood where you can get a good night's sleep. Stay in this charming historic retreat steps away from the best spots in Lockeland Springs for coffee, restaurants, bars, music and shopping. 
+
+The bungalow has been lovingly updated to create a unique twist on old school southern style with a bit of new school edge. Enjoy the eclectic home while playing the piano or simply sit on the front porch swing and sip that morning cup of coffee.
+
+The space
+This is a side-by-side duplex which has a shared wall with the neighboring unit so some daily noise should be anticipated. If you have any concerns about this please reach out and we can make sure this is a good fit. Both units do have their own private entrances, porches and separate fenced yards including gates at the street.
+
+If you're looking for a friendly place to retreat to with walkable hot spots to enjoy this is the place. The immediate neighborhood and street are generally quiet with lovely neighbors, but within a stone’s throw and a short walk are neighborhood gems and nightlife.
+
+Coffee, restaurants, bars, music and shopping – Within a 10 min walk.
+Urban Cowboy, Mama Bread, Groceries Etc. and Lockeland Table - 5 min walk
+Bill’s Sandwich Palace, The Den and Freshie and Zero - on the corner.
+Downtown & Nissan Stadium – 8 min drive
+Ryman Auditorium – 11 min drive
+Grand Ole Opry – 17 min drive
+
+Book your stay and experience Nashville like a local!
+
+Guest access
+Lockbox
+
+Other things to note
+Quiet hours are observed from 10pm to 8am daily including weekends.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 2464884
+Host Profile URL: https://www.airbnb.com/users/show/2464884
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+My work: Project Management
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+108 reviews
+4.98 out of 5 average rating
+7 years of hosting

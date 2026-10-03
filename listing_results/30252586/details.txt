@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/30252586
+Latitude: 36.17428
+Longitude: -86.74507
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The East Nashville Carriage House is thoughtfully designed to provide you with accommodations that exceed any hotel. Guests have private full access to the 700+ square ft apartment and free parking. The carriage house is in Lockeland Springs - a diverse, inclusive, walkable and desirable area of East Nashville with historic homes over 100 years old. The space is approx 2 miles from Downtown and only blocks from Five Points and numerous shops, bars and restaurants.
+
+The space
+Fully Permitted with the city of Nashville. 
+
+The space was thoughtfully designed to provide you with accommodations that exceed any hotel. The space is ideal for business travelers, couples getaways, friends trips, and more. I want your time in the space to be enjoyable and relaxing. You have full privacy and a place to call home while visiting. This is my only Airbnb (not an investor or business) and I take great pride in giving guests the best experience possible.
+
+Guest access
+Guests have private full access to the second story 700+ square ft apartment, entry way and parking pad next to the carriage house. Spaces are not shared with the host or any other parties but there is an active garage below the apartment that is completely separate from the apartment.
+
+Other things to note
+-Low cleaning fees and minimal requirements for check out. 
+-Fully permitted with the city of Nashville and adhere to all regulations and codes. 
+-Fully inclusive of ALL guests from all backgrounds. Additionally, East Nashville is a diverse and inclusive area of town. 
+-Note this space is above a functional garage so every so often you may hear slight noise from the garage door opening. It's very well insulated so noise is minimal and should not affect most people. 
+-The base price includes 2 guests. Any guests above 2 will be charged an additional fee per guest. Please adjust your reservation to include all guests who will be spending the night. 
+- No pets are permitted... of any type/size. 
+- This space is located in the alley which is fully accessible via car. Parking is available only in the parking spot next to the unit. Guests are not permitted to park anywhere other than this designated spot. Additional cars may park on Holly Street in designated street parking spots. 
+- The door leading into the garage remains locked at all times for security purposes. It locks from the host's side of the door as to prevent access into our storage/garage areas. all areas are very well secured day and night.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 10428587
+Host Profile URL: https://www.airbnb.com/users/show/10428587
+Host Profile URL Source: public user permalink from passport userId
+I love to travel and experience local life in other countries and cities. I enjoy meeting new people and experiencing cultures different from my own - it takes people from all backgrounds and types to make up this amazing world we live in. If more people traveled frequently, the world would be a better place. This is my only property and I take great pride in providing an amazing experience for all guests.
+My work: Music Business Exec
+I'm obsessed with: My dogs
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+969 reviews
+4.98 out of 5 average rating
+12 years of hosting

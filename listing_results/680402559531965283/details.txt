@@ -1,0 +1,31 @@
+URL: https://www.airbnb.com/rooms/680402559531965283
+Latitude: 36.04299
+Longitude: -86.76875
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Brentwood, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Feel Central to everything by calling this calm, relaxing space in this upscale Brentwood neighborhood your home during your stay in America's favorite city.  Minutes from the downtown honkey tonks on broadway, and minutes from the horse farms of Franklin, Tennessee.  Ask us about special packages you can take advantage of when you are planning your stay here in Music City.  We have a Blue Range Rover you can rent during your stay, two inflatable paddle boards for a stroll on Old Hickory Lake.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 471879362
+Host Profile URL: https://www.airbnb.com/users/show/471879362
+Host Profile URL Source: public user permalink from passport userId
+Responds within a few days or more
+4 years hosting
+5 reviews
+4.8 out of 5 average rating
+4 years of hosting

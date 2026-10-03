@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/20357914
+Latitude: 36.1706
+Longitude: -86.7841
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Location, Location, Location! Our spotless townhome is easily walkable to downtown, Germantown, both Stadiums, Farmers Market, Bicentennial Park & more - with all the comforts! 
+3 en suite bedrooms, balconies off of the kitchen, living room & master, plus open living space with fireplace & leather recliners, a big private rooftop with downtown views.  Enjoy the smart TVs and wifi! Free tastings at our family distillery, too!
+
+The space
+The townhouse is 3 levels, with one guest room on the bottom level with a full-size murphy bed (normal high-quality mattress - not a pull-out), and 2 more bedrooms including the master upstairs, each with queen size beds. Each bedroom has its own private bath. Plenty of natural light in every room and an open kitchen/living room for gathering are on the 2nd level. There is an electric fireplace and smart TV in the living room! There are 3 furnished balconies and a huge private rooftop deck for enjoying Nashville's beautiful weather and downtown views.
+A perfect location with an easy walk to all the action at Broadway, but just far enough away from the noise to enjoy a relaxed local feel. Walk to anything from fine dining to the Farmer's Market.
+
+Guest access
+Note that the garage and some locked owner closets are not accessible by guests. The garage may be accessed by the host during your stay, from outside the townhome without any entry into the unit. There is limited street parking as well as plenty of paid parking available within less than one block.
+
+Other things to note
+Reservations are limited to 6 guests. No parties, pets or smoking are allowed. This is the ideal place for couples or families traveling together who want a perfect location, a bathroom within each bedroom, new and modern decor, and lots of space to socialize and relax. Within a block are Sounds Stadium, Brooklyn Bowl, an artisan distillery, and several restaurants. The neighborhood is far enough to avoid the noise, crowds and chaos of Broadway, but close enough to walk there, as well as to the nearby Nashville Farmer's Market, Bicentennial Mall State Park, and any of Germantown's award-winning restaurants.
+We operate a food tour company and distillery just down the block and are happy to offer advice or recommendations on where to eat, drink, dance, and listen to all sorts of music, and, of course, our guests get a discount on our tours if you're interested!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tj
+Host User ID: 4398313
+Host Profile URL: https://www.airbnb.com/users/show/4398313
+Host Profile URL Source: public user permalink from passport userId
+A traveler and adventurer, my wife, family and I love to explore new places, cultures, foods, and experiences. With Nashville as home, there is always something new right around the corner as well! 
+We're rather entrepreneurial,  having started businesses from computer stores to real estate and construction to coffee roasting. For the last several years, we've been part of a small family business that offers guests opportunities to explore art, food, history, and culture through cooking classes, painting events, and tours that focus on local food, sightseeing, and history. We love to help people experience art, food, and the local landscape as though we were old friends.
+We live for the local experience, prefering local food, lodging, and art wherever we travel, and have visited all 50 states and maybe 35 or 40 various countries. From luxury hotels and gourmet dining to backpacking and  hostels and street food ... Trains, planes, dogsleds and helicopters... we love this big old world that we all share together!
+My work: Partner, Dabble Studio
+Lives in Nashville, Tennessee
+9 years hosting
+1309 reviews
+4.91 out of 5 average rating
+9 years of hosting

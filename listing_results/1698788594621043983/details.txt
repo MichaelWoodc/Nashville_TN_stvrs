@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/1698788594621043983
+Latitude: 36.1834
+Longitude: -86.8068
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Free: Parking
+Free: Coffee/Teas
+Free: Fast Wi-Fi
+Free: Netflix
+
+1.5 miles To Nashville General Hospital
+3.7 Miles Vanderbilt University Hospital
+3.7 Miles Vanderbilt University
+2.5 Miles To Broadway
+3 Miles To The Gulch
+4 Miles Music Row
+3 Miles To Nissan Stadium
+1.5 Miles to Germantown
+5 Miles to 12 South
+15 Minutes to Nashville International Airport
+
+The space
+🎸 **Welcome to Your Nashville Home Base!** 🤠
+
+Get ready to experience the music, food, and energy that make Nashville unforgettable. Our property in the **37208 area** gives you a place to settle in while you explore the city. Whether you’re visiting for a concert, a weekend with friends, a family trip, or an extended stay, we’d love to help you make the most of your time in Music City. ✨
+
+One of the best parts of staying in this area is having several sides of Nashville to discover. Spend a relaxed morning exploring local history and food, head downtown for the city’s famous music scene, or enjoy dinner in nearby Germantown before your night begins.
+
+**🌟 Things to do in and around the area**
+
+🌽 **Nashville Farmers’ Market:** Browse local vendors, shop for something to take home, and grab a meal from one of the food spots.
+
+🌳 **Bicentennial Capitol Mall State Park:** Take a walk, enjoy the open space, and learn a little about Tennessee along the way.
+
+🏛️ **Tennessee State Museum:** Explore exhibits covering Tennessee’s people, culture, and history. It’s a great stop for a slower afternoon.
+
+🍽️ **Germantown:** Make time for this historic neighborhood’s restaurants, cafés, and shops. It’s an especially good choice for brunch or dinner.
+
+⚾ **First Horizon Park:** If the Nashville Sounds are playing during your visit, catch a baseball game and enjoy an evening at the ballpark.
+
+🎤 **Ryman Auditorium:** See a show or take a tour of one of Nashville’s most celebrated music venues.
+
+🎶 **Lower Broadway:** Experience the live music and lively atmosphere Nashville is known for. Pop into a honky-tonk, hear a few bands, and find your favorite spot.
+
+🤠 **Country Music Hall of Fame and Museum:** Learn about the artists, instruments, and stories that shaped country music.
+
+**A Nashville day to remember:** Start with coffee and a meal at the Farmers’ Market ☕, walk through Bicentennial Capitol Mall, explore the Tennessee State Museum, then head out for dinner and live music. However you choose to spend your visit, we hope this property feels like a welcoming place to return to at the end of the day. 🏡💛
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mario And Angela
+Host User ID: 1697162217169825006
+Host Profile URL: https://www.airbnb.com/users/show/1697162217169825006
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 months hosting
+16 reviews
+4.69 out of 5 average rating
+3 months of hosting

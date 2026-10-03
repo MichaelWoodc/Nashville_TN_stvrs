@@ -1,0 +1,112 @@
+URL: https://www.airbnb.com/rooms/899336308056085190
+Title: Family & Work Stay | 10 Min to BNA
+Latitude: 36.1601
+Longitude: -86.6724
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into a modern 4-bedroom, 3-bath home made for families, friends, or professionals on mid-term stays. Sleeps up to 10 guests with plenty of room to relax, unwind, and connect. Just 15 minutes from downtown and 10 minutes from BNA Airport, you’re close to Music City’s best, yet return each day to a quiet, welcoming neighborhood that truly feels like home.
+
+The space
+Welcome to your modern Nashville retreat, designed with comfort, flexibility, and family in mind. This beautifully renovated home on Woodberry Drive, Nashville, TN 37214, offers gorgeous downtown views and easy access just 10 minutes to BNA Airport and 15 minutes to Downtown Nashville.
+
+Perfect for families, professionals, or mid-term guests, this spacious 4-bedroom, 3-bath home sleeps up to 10 guests and blends homey comfort with modern convenience.
+
+★ Comfort & Style
+
+● Open-concept living room and kitchen ideal for gathering and relaxing
+
+● Comfy sectional couch, soft lighting, and tasteful modern decor
+
+● Central air & heating, free parking, and high-speed Wi-Fi
+
+★ Living Area
+
+● Bright open layout with Smart TV, Netflix, Amazon Prime Video, and Chromecast
+
+● Workspace-ready setup  ergonomic chair, monitor, printer & surge protector
+
+● Board games, books, and a balcony for quiet downtime
+
+★ Kitchen & Dining
+
+● Fully equipped modern kitchen with stainless steel appliances
+
+● Includes fridge/freezer, oven, microwave, coffee maker, blender, rice maker, toaster
+
+● Stocked with cookware, dinnerware, utensils, and a dining table for shared meals
+
+★ Bedrooms & Bathrooms
+
+● Sleeps up to 10 with 1 Queen Bed, 1king Bed,1 Bunk, 2 Double Beds, and 1 Sofa Bed
+
+● Soft linens, cozy bedding, and washer & dryer for long stays
+
+● Clean, bright bathrooms with essentials and fluffy towels
+
+★ Family-Friendly Amenities
+
+● Pack ’n play, baby safety gates, children’s books and toys
+
+● Designed to make traveling with kids easy and comfortable
+
+★ Outdoor Living
+
+● Private fenced backyard with BBQ grill and patio seating
+
+● Balcony views of Downtown Nashville
+
+● Lake access nearby for kayaking, walks, or a quiet escape
+
+★ Perfect for Mid-Term Stays
+
+● Ideal for business travelers, relocations, or family visits
+
+● Dedicated workspace and quiet neighborhood perfect for productivity
+
+★ Nearby Nashville Attractions
+
+All within 10–20 minutes:
+
+● Grand Ole Opry, The Hermitage, Country Music Hall of Fame, Opry Mills, Frist Art Museum, Nashville Zoo, Walk of Fame Park, and more!
+
+★ Other Things to Note
+
+● Signed mid-term rental agreement required
+
+● Professionally cleaned and maintained for a worry-free stay
+
+● Your home away from home  where comfort meets convenience in the heart of Nashville
+
+Other things to note
+★Family-Friendly Features ★
+
+✔Safety gates for children
+✔A selection of children's books and toys
+✔Pack ’n play for your little ones
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 516549032
+Host Profile URL: https://www.airbnb.com/users/show/516549032
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+74 reviews
+4.95 out of 5 average rating
+3 years of hosting

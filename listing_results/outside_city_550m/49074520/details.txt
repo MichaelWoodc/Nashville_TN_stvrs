@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/49074520
+Latitude: 35.94942
+Longitude: -86.67579
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Find your inner country self in this charming home in Historic Nolensville. This is the perfect location to visit all your favorite spots in Nashville, Franklin, or see the country side of TN. And We are only 25 minutes away form the airport. Enjoy 3,000 SF that can easily fit a large group to share the memories with. Access to Fiber Wifi, towels & linens, and a fully equipped kitchen. We are minutes away from downtown Nolensville and beautiful walking paths.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 395786469
+Host Profile URL: https://www.airbnb.com/users/show/395786469
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+5 years hosting
+17 reviews
+4.82 out of 5 average rating
+5 years of hosting

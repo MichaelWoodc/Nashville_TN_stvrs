@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/574654292385663152
+Latitude: 36.28722
+Longitude: -86.55265
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 7
+beds: 14
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover a 7-bed, 3-bathroom lakefront home, minutes from downtown Nashville, offering relaxation and urban excitement. With a serene lakeside setting and easy access to city life.
+
+The space
+As you enter the house, you'll immediately notice the spacious, open floor plan with high ceilings, creating an airy and welcoming atmosphere.
+
+The main floor features a  living room with TV, a dining area, and a modern kitchen. It has three bedrooms one with a queen with lake view, bedroom 2 with a  queen, and bedroom 3 with 2 queens.
+
+The second floor has four bedrooms: one with a queen, one with 2 Queens and Lakeview with balcony, one with 1 queen + single over full bunk bed Lakeview and balcony, and one with 2 single over full bunk beds. 
+
+The bottom floor is an entertainment area with a pool table, pingpong table, couches, and a TV for lounging. This floor also has access to a patio outside with beautiful views of the surrounding area.
+
+Guest access
+The entire home is accessible.
+
+Other things to note
+This property is conveniently located near waterparks, rock climbing, outdoor music venues, and many other exciting attractions. But when you're ready to relax and take in the breathtaking views, you can do so from one of the property's three large decks or by the burn pit outside. 
+
+With so much to offer, this lakefront property is the perfect getaway for anyone looking to experience the best of both worlds - the tranquility of the lake and the excitement of downtown Nashville.
+
+CHECK OUT OUR GUIDE BOOK FOR LOCAL SPOTS! (click "read more" under "Location" section)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kellie
+Host User ID: 27151458
+Host Profile URL: https://www.airbnb.com/users/show/27151458
+Host Profile URL Source: public user permalink from passport userId
+I am a Mother of 5 of the best people I know!  I love hosting and helping my guests have the best experience they can have!  I love to travel and experience what other hosts are doing to attract guests.  I love the outdoors and live music.
+Born in the 60s
+My work: STRP Manager
+Response rate: 100%
+Responds within an hour
+9 years hosting
+491 reviews
+4.91 out of 5 average rating
+9 years of hosting

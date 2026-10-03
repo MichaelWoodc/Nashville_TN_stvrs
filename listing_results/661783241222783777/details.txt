@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/661783241222783777
+Latitude: 36.1789
+Longitude: -86.7398
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our relaxing, clean, fully equipped Lockeland Springs guesthouse is a perfect getaway. It’s tastefully decorated, tidy, uncomplicated, and comfortable. 
+
+You'll be walkable to top rated coffee shops, bars, restaurants, and Jeni’s ice cream. Shelby Park is nearby, and grocery stores are a 3 min drive. We have dedicated 1 gig fiber internet.
+
+We follow the Airbnb 5 Step Enhanced Cleaning protocol and are a 100% smoke free property. We love making our guests' stays memorable ones!
+
+The space
+Our backhouse is detached from our home. You enter from the alley where you have a dedicated parking spot. 
+
+The interior is simple and relaxing, with an industrial chic vibe. We have concrete floors, dimmable lighting, keyless entry, a fully equipped kitchen and laundry, and fiber internet.
+
+Guest access
+You have access to the private patio attached to the backhouse along with a dedicated parking pad adjacent to the alley.
+
+Other things to note
+We are a completely non-smoking property. Any hint of smoking will forfeit the reservation. 
+
+We do not allow pets. 
+
+Our couch does not pull out into a sofa bed. :)
+
+We do not allow parties, loud music, or additional guests to stay the night outside of what is on your reservation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Collin
+Host User ID: 66329
+Host Profile URL: https://www.airbnb.com/users/show/66329
+Host Profile URL Source: public user permalink from passport userId
+My wife and I love all the care that goes into making a stay memorable. We love seeing what hosts are doing to stand out.
+
+We hit the road with our Airstream a few times a year, bringing our work with us. We make as many planned and spontaneous stops as you can realistically manage with a 4-year-old.
+
+If you stay at our Nashville or Milwaukee airbnb, we welcome you! For our potential hosts, we hope to get a chance to meet you and say hi.
+Where I went to school: Savannah College of Art & Design
+My work: Motion Designer
+Response rate: 100%
+Responds within an hour
+Superhost
+14 years hosting
+731 reviews
+4.95 out of 5 average rating
+14 years of hosting

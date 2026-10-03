@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1610363387731951725
+Latitude: 36.18315
+Longitude: -86.81544
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Velvet & Vinyl, a beautifully curated 4-bedroom townhouse where high-end design meets an unbeatable Nashville location. Sleeping up to 12 guests across 6 beds, this home is built for groups who want space, style, and a rooftop patio that steals the show — just 3 miles from Downtown Nashville and Broadway's honky-tonks while being centrally located to all things Music City has to offer.
+
+The space
+Velvet & Vinyl lives up to its name: think rich textures, statement lighting, and a moody-glam aesthetic layered over top-of-the-line finishes and appliances throughout. The open-concept main floor flows from a designer kitchen into a plush living room anchored by a fireplace — perfect for slow mornings or wind-down nights after a day on Broadway.
+
+Four bedrooms are dressed with hotel-quality linens and blackout treatments for guests keeping late Nashville hours. Each space is thoughtfully appointed so the home sleeps comfortably as a full group.
+
+The showstopper is the private rooftop patio: downtown skyline views, lounge seating, and space to gather as a group with a drink in hand as the city lights come on. It's the kind of feature photos don't fully capture — you have to experience the golden hour up there to get it.
+
+Bedrooms & Bed sizes:
+
+Primary - King size with en suite shower
+
+2nd - Full size bed 
+
+3rd - 2- Full size in custom built in bunk beds
+
+4th (ground level) - Full size bed with a large twin pullout trundle bed & en suite bathtub / shower combo
+
+Amenities Highlights:
+
+Full kitchen stocked with cookware, ideal for groups who want to cook in between nights on the town
+
+High-speed WiFi throughout, ideal for remote workers or streaming after a night out
+
+In-unit washer and dryer — pack light and stay a while
+
+Dedicated workspace for anyone who needs to squeeze in a few work hours
+
+Two Car Garage & Free on-site parking, a rare and valuable perk this close to downtown
+
+Smart TV and cozy fireplace in the main living space
+
+Guest access
+You will have access to our entire home and garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wes
+Host User ID: 72485541
+Host Profile URL: https://www.airbnb.com/users/show/72485541
+Host Profile URL Source: public user permalink from passport userId
+I am long time Nashvillian. Over the past few years, I have witnessed our city go through some exciting changes to become one of the best towns around! I enjoy spending time with my husband and 7 year old and 1 year old sons, live music, and traveling whenever possible. My family and I would love to have you visit our amazing city and stay in our charming little cozy home. My husband and I are very easy to work with and want to make this as smooth as possible. :)
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+902 reviews
+4.88 out of 5 average rating
+9 years of hosting

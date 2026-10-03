@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/894033034447090464
+Latitude: 36.3042
+Longitude: -86.57636
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 6
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This heavenly hideaway is beautifully located on the waterfront of Old Hickory Lake in Hendersonville, TN. The home is the perfect place to get away and relax in nature while remaining only minutes away from shopping, restaurants and live music. Come and explore Tennessee Lake Life in this beautifully designed home that represents all that Hendersonville has to offer. Featuring sleeping for up to 12 guests, the home is perfect for groups or multiple families! Also ask about our 5 bedroom home !
+
+The space
+Six bedrooms, three full bathrooms and an enormous amount of space. Fire pit and comfortable seating on the deck overlooking the water.
+
+Other things to note
+Please respect the private docks of our neighbors.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeremy
+Host User ID: 56242912
+Host Profile URL: https://www.airbnb.com/users/show/56242912
+Host Profile URL Source: public user permalink from passport userId
+Hi there. I’m not uptight at all. Always trading good reviews
+Where I went to school: Tennessee
+My work: Attorney
+Response rate: 100%
+Responds within an hour
+4 years hosting
+73 reviews
+4.89 out of 5 average rating
+4 years of hosting

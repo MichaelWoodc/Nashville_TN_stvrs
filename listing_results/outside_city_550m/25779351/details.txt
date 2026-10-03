@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/25779351
+Latitude: 36.29664
+Longitude: -86.62204
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy midcentury cottage, located in old Hendersonville, 20 minutes from downtown Nash.  Within a mile of good local food and shops, and a lake with park and trails.  Private separate exterior entrance to upstairs apartment on a quiet neighborhood street w friendly neighbors.   Includes 1 bedroom, private bath, a kitchenette, laundry (for stays longer than a week).  Your host is passionate and knowledgeable about Nashville, and happy to share what this town has to offer!!!  No cleaning fee!
+
+The space
+You'll park in driveway and walk through the garden to a set of exterior stairs leading to your own private upstairs apartment...decorated with colorful hippie decor and art, It features 1 bedroom, a kitchenettte (equipped with the basics...fridge, toaster, coffee maker, hot plate, microwave, dishes...see pics and captions), a desk/work station, dining area, private bath with shower, and access to a front porch with rockers if you choose.  Perfect location for long term stays, as neighbors are very friendly and you'll feel like you're at home.
+
+Guest access
+The entire upstairs will be accessible to you, as well as the garden area and the front porch.  Private, separate entrance with key.   Often you will have the house to yourself, as owner is not always home, although usually within an hour's reach if you need anything!  You can expect a private, quiet stay!
+
+Other things to note
+You will have wifi access, if you'd like to bring your laptop or other devices to watch movies, etc.  There is no cable in the space, but there is an internet-accessible TV for you to access any subscriptions that you have to your streaming services.  You can stream thru the roku. (Owner currently does not have any subscriptions to streaming services ...Netflix etc ...so guests will need to log in to their own subscriptions)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Belinda
+Host User ID: 193738085
+Host Profile URL: https://www.airbnb.com/users/show/193738085
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+8 years hosting
+65 reviews
+4.95 out of 5 average rating
+8 years of hosting

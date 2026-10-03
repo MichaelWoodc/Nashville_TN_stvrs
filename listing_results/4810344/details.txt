@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/4810344
+Latitude: 36.13122
+Longitude: -86.79021
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The upstairs apartment for rent is accessible from the back - check out the amazing deck!
+
+The space
+Amazing location.  Hardwood floors.  New bathroom with tile.  Amazing deck.  
+
+Lots of nearby restaurants.  
+
+I'm happy to help with just about anything.  I've lived in Nashville for a long time and I can point you in the right direction.
+
+Queen size bed, large sofa, and loveseat that makes into a twin size bed.
+
+Large kitchen.  Lots of nearby restaurants.  
+
+Large deck outside of the entrance.
+
+Close to everything, but still safe!
+
+Guest access
+Only this unit.
+
+Other things to note
+I'd prefer no animals.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nathan
+Host User ID: 4983840
+Host Profile URL: https://www.airbnb.com/users/show/4983840
+Host Profile URL Source: public user permalink from passport userId
+I grew up here in Nashville, Tennessee.  Hopefully I can point you in the right direction for restaurants, sightseeing, sporting events, and whatever else you may want to explore!
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+619 reviews
+4.91 out of 5 average rating
+12 years of hosting

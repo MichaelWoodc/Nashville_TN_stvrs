@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/768967483871311973
+Latitude: 35.91876
+Longitude: -86.63768
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our NEWLY RENOVATED place of peacefulness tucked away in the country hillsides of Nolensville TN, stretched over 3.5 acres. Stretched over 3.5 acres, this getaway retreat is the perfect location for friends and family to gather for a no-neighbor private experience, amongst many amenities. Weddings, graduation parties with less than 25 people are allowed by request for an additonal fee of $250. If over 25 people the fee is $500. Maximum capacity 52 people. Be the FIRST to enjoy it!
+
+Guest access
+Entire 3.5 acres is accessible. Pavillion area and 2 fireside sitting areas accessible. Firewood available for purchase.
+
+Other things to note
+Only the 8 registed guest allowed inside the home. Only 16 visitors of the guest allowed in the pavilion area, unless a wedding is requested.  All visitors must leave the premises by 10:00pm. Firewood is available for purchase. If any tents or inflatables are being setup on the property please let us know at booking. A $100 fee will be charged
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Will
+Host User ID: 489242982
+Host Profile URL: https://www.airbnb.com/users/show/489242982
+Host Profile URL Source: public user permalink from passport userId
+Born in the 00s
+Where I went to school: University of Memphis
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+88 reviews
+4.89 out of 5 average rating
+4 years of hosting

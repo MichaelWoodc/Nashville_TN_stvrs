@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/746257756725108180
+Latitude: 36.1545
+Longitude: -86.7639
+rental_type: Entire vacation home
+property_type: VACATION_HOME
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy all that Music City has to offer in this stylish luxury condo steps from all the action of Downtown & Broadway! This chic Music City retreat is conveniently located in Nashville's hip SoBro area. With access to the rooftop amenities deck, you can conveniently enjoy a sunset over the city or get some work done in the mornings over a cup of coffee! Be sure to explore the downstairs lobby area and get your sweat on in the fitness center! We can't wait to host you on your next adventure!
+
+The space
+The condo features 1 king bed, 2 queen beds, 1 twin bed, 2 full bathrooms, a comfortable living room, a full kitchen and balcony views!
+
+Guest access
+Guests will self check in using a temporary passcode for the duration of their stay. The day of their stay they will receive an email from PointCentral that will include the six digit passcode dedicated to them. This will give guests access into the unit and throughout the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 133671647
+Host Profile URL: https://www.airbnb.com/users/show/133671647
+Host Profile URL Source: public user permalink from passport userId
+Music Industry & Real Estate folks
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+648 reviews
+4.77 out of 5 average rating
+6 years of hosting

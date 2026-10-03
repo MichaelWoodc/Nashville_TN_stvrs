@@ -1,0 +1,215 @@
+URL: https://www.airbnb.com/rooms/1301102155953372873
+Latitude: 36.16864545620155
+Longitude: -86.79920745590003
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gather your crew for Nashville nights at this rooftop retreat—just a 6-min Uber from Broadway! Perfect for bachelorette parties, birthdays, and group getaways, with 360° skyline views, a rooftop firepit, champagne bar, ensuite bedrooms, and a walk to Marathon Village. Explore Music City by day and catch rooftop sunsets by night.
+
+✭ “This home MADE our trip!”
+
+🌆 HIGHLIGHTS
+✓ 360° rooftop terrace + skyline views
+✓ Ensuite bath in every bedroom
+✓ Champagne bar, firepit + near Broadway
+
+The space
+360° rooftop skyline views, a champagne bar, rooftop firepit, and private ensuite baths designed for unforgettable group getaways.
+
+✭ "Every detail felt curated—truly a five-star experience."
+
+🏷 Main Floor
+
+Kitchen & Dining Room 
+∙ FULLY stocked kitchen w/plenty of counterspace for at-home baking and cooking
+∙ Elegant KEUREG Duo coffee maker, tea kettle, double waffle maker, blender, and toaster
+∙ Cooking oils and seasoning essentials 
+∙ Abundance of dishware, glassware and silverware, including children’s
+∙ Full-sized fridge and freezer
+∙ Glass cooktop and oven
+∙ Microwave
+∙ Dishwasher
+∙ Dining room table, seating for 4
+∙ Large countertop space for food preparation
+∙ Island bar and breakfast counter, 8 high chairs
+
+Living Room 
+∙ Smart TV
+∙ Netflix, Prime Video, Disney Plus, Hulu, HBO and more
+∙ Sound system
+∙ Comfortable sofa
+∙ Vaulted ceiling
+∙ Large glass windows and doors
+∙ Champagne bar and hat wall 
+∙ Access to the balcony
+
+Bedroom #1 - 2nd Floor 
+∙ King size bed
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+∙ Ceiling fan
+∙ Full-length mirror
+∙ Bedroom bench
+∙ Workstation/reading table
+
+Bathroom #1 (Ensuite)
+∙ Shower
+∙ Bathtub
+∙ Single vanity with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+Bedroom #2 - Third Floor 
+∙ King size bed
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+∙ Ceiling fan
+∙ Workstation/reading table
+
+Bathroom #2 (Ensuite)
+∙ Shower
+∙ Dual vanities with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+Bedroom #3 - Third Floor 
+∙ Queen size bed
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+∙ Ceiling fan
+∙ Full-length mirror
+∙ Bedroom bench
+∙ Workstation/reading table
+
+Bathroom #3 (Ensuite)
+∙ Shower
+∙ Single vanity with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+Bedroom #4 (Bunk Room) - First Floor 
+∙ Bunk beds (4 Queen size beds) plus two singles in bunk format
+∙ Premium mattress and comforter
+∙ Smart TV
+∙ Room darkening shades
+∙ Bedside table and lamp
+∙ Large closet w/ hangers
+∙ Full-length mirror
+∙ Workstation/reading table
+
+Bathroom #4 (Ensuite)
+∙ Shower
+∙ Single vanity with oversized mirror and plenty of counterspace
+∙ Shampoo, conditioner and body soap
+∙ Makeup washcloth
+
+🏷 Outdoor Space(s)
+
+Rooftop Lounge
+∙ Long dining table, seating for 12
+∙ Barbeque grill
+∙ Comfortable outdoor sofa
+∙ Firetable
+∙ High chairs
+
+Balcony (Main floor)
+∙ Outdoor seating
+
+🏷 Parking
+
+∙ Parking on premises for one vehicle and plenty of easy free street parking for several more if needed.  
+
+🚘 Nearby
+
+∙ Frankie Pierce Park (4 min walk): Neighborhood green space with walking paths and gathering areas.
+∙ SkyBar Capitol View (5 min walk): Rooftop cocktails, skyline views, and a popular happy hour spot.
+∙ M.L. Rose Craft Beer & Burgers (5 min walk): Casual Nashville favorite for burgers, local beer, and group dining.
+∙ Condado Tacos (6 min walk): Colorful taco spot popular for groups, margaritas, and shareable plates.
+∙ Corsair Distillery & Taproom (6 min walk): Craft whiskey distillery offering tastings and cocktails.
+∙ Nelson's Green Brier Distillery (8 min walk): Historic Tennessee whiskey distillery with tours and tastings.
+∙ Marathon Village (8 min walk): Shopping, local makers, distilleries, coffee, and historic Nashville charm.
+∙ The Finch (8 min walk): Trendy restaurant and bar with cocktails and modern American fare.
+∙ Gulch Greenway Trail (8 min walk): Scenic urban trail for walking, jogging, and biking.
+∙ Tennessee State Museum (4 min drive): Free museum showcasing Tennessee history and culture.
+∙ Bicentennial Capitol Mall State Park (4 min drive): Popular outdoor park featuring monuments, fountains, and skyline views.
+∙ Nashville Farmers' Market (5 min drive): Local food vendors, artisan shops, and regional specialties.
+∙ Tennessee State Capitol (5 min drive): Historic landmark overlooking downtown Nashville.
+∙ The Gulch (5 min drive): One of Nashville's most popular districts for brunch, nightlife, murals, and shopping.
+∙ Lower Broadway (6 min drive): Nashville's iconic live music district filled with honky-tonks and rooftop bars.
+∙ Ryman Auditorium (7 min drive): Legendary music venue known as the Mother Church of Country Music.
+∙ Bridgestone Arena (7 min drive): Major concert venue and home of Nashville's biggest live events.
+∙ Country Music Hall of Fame and Museum (8 min drive): One of Nashville's most visited music attractions.
+∙ Johnny Cash Museum (8 min drive): Popular museum celebrating the life and career of Johnny Cash.
+∙ Nissan Stadium (9 min drive): Concerts, sporting events, and major Nashville festivals.
+
+Guest access
+The entire property via self check-in will be at your disposal!
+
+Other things to note
+⭐ “The layout of the property provided personal space for our large group.” - Dan
+
+😎 What’s Nashville, TN all about?
+Nashville is a city that blends live music, great food, and Southern culture into an experience that feels uniquely its own. Whether you're spending time on Broadway listening to local musicians, exploring the distilleries and shops of Marathon Village, grabbing brunch in The Gulch, or catching a show at the Ryman Auditorium, there's always something happening. The city is known for its vibrant music scene, rooftop bars, craft cocktails, hot chicken, and a calendar packed with concerts, sporting events, and festivals throughout the year.
+
+👋 Meet your hosts
+We're devoted to ensuring your stay is as comfortable and memorable as it can be! We live close by and care deeply about this home so rest assured this property is well maintained and cared for. We’re honored to host your group and hope you enjoy this property as much as we do!
+
+✓ Family owned and operated
+✓ Fast response times
+✓ Professionally cleaned
+✓ Local management team
+✓ Seamless check-in and check-outs
+✓ Timely resolutions of issues or concerns
+✓ Neighborhood recommendations offered
+
+Should you have any questions or needs, we're a message away. We look forward to welcoming you to our home!
+
+💛 Adam
+
+💡 Other things to note
+✓ This home spans multiple levels, so expect several flights of stairs between living spaces, bedrooms, and the rooftop.
+✓ Free street parking is available nearby. If you're traveling with multiple vehicles, parking availability may vary throughout the day.
+
+Registration Details
+STRP Permit# 2024096353
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Glovely Stays
+Host User ID: 72156
+Host Profile URL: https://www.airbnb.com/users/show/72156
+Host Profile URL Source: public user permalink from passport userId
+I'm an outgoing creative entrepreneur.  
+If I were to describe myself in seven words...art . design . business . travel . faith . service 
+
+I enjoy meeting new people and experiencing new places -- 36 countries and 140+ cities.   Life is sweeter with shared experiences!
+My work: Business Owner - Investments
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+841 reviews
+4.94 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/8983414
+Title: Designer Home 
+Music City-PRICE CUT Fri/Sat only
+Latitude: 36.14359
+Longitude: -86.82843
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+REDUCED PRICE FOR THE WEEKEND! Beautiful designer home in Sylvan Park, just 1 mile from downtown! Enjoy bright, stylish interiors, a modern kitchen, cozy living spaces, and an upstairs game room perfect for groups. Relax on the covered patio or stroll to nearby restaurants, coffee shops, trails, and parks. Close to Nashville’s coolest neighborhoods, this charming retreat offers comfort, convenience, and an authentic Music City stay with plenty of space to unwind.
+
+The space
+This spacious home offers four comfortable bedrooms, including two king beds, one queen bed, and two twin beds, along with three full bathrooms. Enjoy a gorgeous dining area, a cozy sitting room off the modern, fully equipped kitchen, and an upstairs game room and den complete with board games, a multi-game table (pool, air hockey, and more), playing cards, a big-screen TV, and a DVD player with iconic movies. Outside, relax on the backyard patio with a grill and outdoor dining area—perfect for unwinding after exploring Nashville.
+The home was thoughtfully designed for short-term rentals and includes everything needed for a comfortable, memorable stay. It accommodates 8 guests, with two additional twin air mattresses available for parties of up to 10. ($40 per person per night after 8 guests.) The listed price also includes taxes, so there are no hidden fees.
+If the home is still available two weeks before your desired dates, we’re happy to consider a two-night minimum stay—just ask!
+
+Guest access
+Address: 209 36th Ave N, 37205
+Door code: 1012
+wifi info is in the three ring binder in the kitchen
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angela
+Host User ID: 441439
+Host Profile URL: https://www.airbnb.com/users/show/441439
+Host Profile URL Source: public user permalink from passport userId
+I am from Nashville, TN and used to be in the music industry.  Now I am a psychotherapist and a writer.  I'm also a foodie, an interior designer wanna-be, a traveler and I love hosting people and helping them out as much (or as little) as possible.  I know the value of having a local contact in a foreign place.
+Where I went to school: Belmont University
+My work: self-employed
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+763 reviews
+4.78 out of 5 average rating
+13 years of hosting

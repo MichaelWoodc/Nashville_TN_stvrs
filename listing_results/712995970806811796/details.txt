@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/712995970806811796
+Latitude: 36.18466
+Longitude: -86.74265
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Explore our lofted retreat in East Nashville, near Five Points. A cozy one-bedroom steps away from shops, cafes, restaurants, and Shelby Park.
+
+The front stone patio and private parking enhance your stay. Near the action but peaceful, it's an ideal Nashville base.
+
+Enjoy quality linens on a Tempur-Pedic queen mattress. Read a book or watch a movie from the comfy leather couch. The full kitchen and washer/dryer add convenience.
+
+The space
+Our tiny-ish home is newly renovated and on the opposite edge of our property, separated from our house by our fenced in yard, facing the alley with its own entrance. Very private. 
+
+You’ll enjoy a private patio complete with loungers, twinkle lights and fire-pit. Private parking on separate driveway with space for 2 cars plus free street parking nearby.
+
+Full kitchen, plus washer and dryer in the unit.
+
+Lofted queen bed is accessed via ladder. Couch is also a decent sleep.
+
+Guest access
+You'll have access to the entire tiny house. You’ll receive a door code upon reserving.
+
+Private off-street parking area, private entrance.
+
+Other things to note
+The lofted bedroom is accessed via ladder. There is a lockable gate at the top. If you’re not comfortable climbing the ladder, we have extra pillows and blankets in the downstairs closet for the couch.
+
+Please note that the tiny house shares a (soundproofed) wall with our home office. While there is little to no noise carryover, we like to let our guests know that our office is occupied during the hours of 9-6, Monday-Friday. The office has a separate entrance from our yard so you won’t have any interaction with us.
+
+Permit#2022065886
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 196429599
+Host Profile URL: https://www.airbnb.com/users/show/196429599
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+395 reviews
+4.95 out of 5 average rating
+4 years of hosting

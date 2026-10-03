@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/48230962
+Latitude: 36.37505
+Longitude: -86.58986
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 8
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Simply Incredible views from this 5 acre hilltop cabin. It comfortably sleeps 16 guests, with 5 bedrooms, 7 luxurious queen beds featuring memory foam mattresses, two sleeper sofas, multiple bonus rms, 4 full baths, amazing kitchen, dining & living areas, an entire basement designed for entertainment with a pool table, 2 large flat screen TVs, foosball, shuffleboard, 8 person card table, multiple comfy couches, 2 outdoor patios to enjoy dining, grilling, games & stories around the 2 fire pits!
+
+The space
+Located just 25 mins from Nashville by car, Lyft or Uber, this home is the perfect place to gather and enjoy your time at home just as much if not more than your time spent sight-seeing Nashville’s tourism hot spots!
+
+Multiple public golf courses & wedding venues are close by and you are just 10 minutes from Old Hickory Lake which is a great place to rent a boat and spend the day on the water or do some quality bass & cat fishing!
+
+The nearest grocery stores, bars and restaurants are all around 7-10 minutes drive from the house & multiple delivery services are offered through the stores themselves or apps such as door dash & Uber eats.
+
+4 of the bedrooms are located on the main level of the house. The master suite features 2 queen beds and an en-suite bathroom. The other bedrooms share the other 3 bathrooms. There are 2 laundry rooms (one on the main level and the other in the basement).
+
+The kitchen includes a very large island accompanied by 4 bar stools and designer pendant lighting. Double ovens, induction cooktop, Ninja Blender, Toaster, Coffee pot & K-cup machine, crockpot, toaster & all the utensil you could need to cook at home are all there for your use.
+
+Indoor dining includes a large breakfast table & huge dining table, both with outstanding views of the countryside as you dine.
+
+The basement is comprised of 2 large play rooms. One features a foosball table, big screen TV, couch, card table & access to the ground floor patio. The second features lots of lounge seating, another big screen tv, a decorative fireplace, shuffleboard & a pool table.
+
+The main level patio is accessed from the kitchen area and features a wood burning fire pit, Adirondack chairs and plenty of tables and benches for outdoor entertaining.
+
+The lower level patio features comfortable outdoor seating around a gas fire pit and space to play corn hole. Each patio enjoys the evening ambiance of outdoor fairy lights.
+
+We truly hope you love your stay here and choose to come back and visit us time and time again.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

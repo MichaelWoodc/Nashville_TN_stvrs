@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/47731619
+Latitude: 36.14293
+Longitude: -86.76399
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 7
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back with a cold drink in our balcony and  soak up the relaxed feel at this  modern home in the heart of music city. Clean lines, perfect decor, and polished dark wood floors create a stylish backdrop for rustic and industrial accents.
+
+The space
+Bed setup for your convenience:
+
+Master Bedroom: 1 X King bed
+second Bedroom: 2 X queen beds
+Loft: 1 X Full Bunk bed plus 1 twin pull out bed
+Foldable bed: 1 X Twin bed
+
+Other things to note
+The rental is $5/$7 Uber away from all of Nashville’s hot spots.
+
+I recommend:
+1) Lyft - With the referral GUY80 for some free ride credit
+2) Instacart - Groceries Delivery
+3) Uber Eats - Food Delivery
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

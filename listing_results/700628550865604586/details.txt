@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/700628550865604586
+Latitude: 36.17178
+Longitude: -86.78126
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located on the second floor of the Riverfront Condos, overlooking the Cumberland River.  Our past guests have loved watching the barges on the river while enjoying a cup of coffee and planning out their day. There is so much to see and do within just minutes of our location!  Meander along the Cumberland River Greenway, take a self guided tour of Fort Nashborough or catch a minor league baseball game at the Sounds Stadium-just to name a few!
+
+The space
+We are located in the main section of the Riverfront Condos, on the second floor. Unfortunately, there are no elevators and guests will have to climb/carry luggage up 1 flight of stairs. There is no main office or lobby for guests to leave luggage if they arrive early or wish to check out late. Guests should look into Bounce-a nearby luggage storage service. The Riverfront Condos does have on site security, an outdoor pool, laundry facility and a small gym. Parking is unassigned, free, off street and covered. 
+
+The space albeit small does yield a full kitchen, living room, bedroom and full bathroom with shower/tub combo. There is a small balcony off of the living room. The fireplace is electric and is for guests to enjoy.  The bed is a king size, sleep number and is consistently raved about by past guests. Our secondary sleeping option is a queen sized air mattress, though most of our past guests have slept on our comfortable West Elm sofa.
+
+Other things to note
+As our listing states we are located in DOWNTOWN, Metro Nashville area. We are just like any other metropolitan area...we cannot control: traffic, construction or the homeless. 
+
+We are 1 mile from Downtown Broadway.  It is our opinion that it is a walkable mile.  When we stay downtown we feel safe enough to walk to and from without fear but realize not everyone shares our same views and experiences. Uber and Lyft services are available and can range from about $10-$20.
+
+During POOL SEASON 5/1-11/1… At times (outside our control) the pool may be closed for maintenance. Metro Nashville codes inspects our pool often and if the chemical levels are out of balance the HOA will be required to close down the pool. If this should impact your stay or happen during your stay we will advise you as soon as we become aware but will issue no refunds due to it being closed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Liz
+Host User ID: 127444298
+Host Profile URL: https://www.airbnb.com/users/show/127444298
+Host Profile URL Source: public user permalink from passport userId
+Every property has its own personality, and its own reviews! Click into each listing to read specific guest experiences and feedback.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+4267 reviews
+4.92 out of 5 average rating
+9 years of hosting

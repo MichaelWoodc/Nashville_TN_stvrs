@@ -1,0 +1,96 @@
+URL: https://www.airbnb.com/rooms/1677301173427271233
+Latitude: 36.16247837120642
+Longitude: -86.78344654991639
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to it all. You'll sit minutes from the Ryman, Bridgestone Arena, the Country Music Hall of Fame, and the full Honky Tonk Highway—then drops you back into a quiet, design-forward apartment that's all yours. No crowded lobby, no elevators full of bachelorette parties. Just Music City at your door and a real place to sleep. Our apartments offer self check-in at 4pm, guest support by text, phone and a Virtual Front Desk through your mobile device.
+
+The space
+SLEEPING ARRANGEMENT:
+- Studio: 1 queen-size bed (sleeps 2)
+- Living area: 1 queen-size air-mattress (sleeps 2)
+
+LIVING SPACE:
+- Full kitchen with dishes, cookware and dishwasher
+- Coffee and tea
+- Free high-speed Wi-Fi 
+- In-unit laundry
+- Comfortable dining table for WFH meetings or studying needs
+- Smart TV
+- 350 square feet
+
+PARKING:
+- Very limited paid parking is available on-site. $35/night + taxes. Parking fees will be collected online in your booking virtual check in. We recommend reserving early or planning for nearby garages.
+
+We have multiple units in this building, and each one is unique. Decor and layout may vary slightly from what you see in photos.
+
+Guest access
+BUILDING AMENITIES:
+- Lounge area
+- Luggage lockers
+- Elevator
+
+WHAT YOU CAN COUNT ON:
+We handle every part of your stay so you get reliable, professional service with the freedom of a self-directed experience.
+
+- 24/7 virtual support by text, chat, email, or phone
+- Walkable location near Nashville's top attractions
+- Professional cleaning between every stay
+- Thoughtfully designed interiors built for comfort
+- Secure ID verification at booking
+- In-unit noise and smoke monitoring for a safe, quiet stay
+
+Other things to note
+PLEASE NOTE:
+
+Before you arrive:
+- REQUIRED FOR ALL GUESTS: Complete the check-in form we send you. Your unit number, door code, and access instructions will be sent only after the form is submitted.
+- The form covers ID verification, a criminal background check, a valid credit or debit card for incidentals, early check-in requests, and parking/pet fees.
+- Reservations cannot be completed if the background check returns disqualifying criminal records. If this affects your booking, you'll be notified promptly upon completion of your check-in form.
+- Age requirement: guests must be 22+ to book and check in, or 25+ if booking locally (within 50 miles of the property).
+- Payments for optional services not related to the cost of the room (like parking) will be collected via major credit or debit card by the company providing the service.
+
+Pets
+- One pet allowed per unit, with registration required before arrival through your check-in form.
+- Pet fee: $8–$30 per night depending on length of stay
+- Kindly reach out to the Host to confirm first whether the pet breed is allowed at the property. 
+
+Parking
+- On-site paid parking is very limited: $35/night plus tax, collected through your check-in form. We recommend reserving early or planning for nearby garages.
+
+Housekeeping
+- No mid-stay cleanings are included. Additional cleanings can be scheduled on request for a fee.
+
+Unit Appearance
+- While the photos accurately represent the layout and category of the unit you booked, the specific furniture, décor, and actual lighting may vary slightly from unit to unit.
+
+Registration Details
+620336164
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steve
+Host User ID: 584763751
+Host Profile URL: https://www.airbnb.com/users/show/584763751
+Host Profile URL Source: public user permalink from passport userId
+Here to provide an amazing stay for our guests!
+Speaks English
+Response rate: 100%
+Responds within an hour
+2 years hosting
+493 reviews
+4.58 out of 5 average rating
+2 years of hosting

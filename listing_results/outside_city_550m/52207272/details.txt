@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/52207272
+Latitude: 35.96797
+Longitude: -86.56126
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Magnolia Home!
+
+Spacious yet cozy- this 4 bedroom, private home, is perfect for those looking to stay in the area for 90+ days. Centrally located within 20 minutes of Downtown Nashville! Shop or sip coffee in the heart of Franklin (30 min), or wine taste at the Arrington Vineyards (25 min).  Cook meals in the fully equipped kitchen, or head down the road and pick from endless restaurants. Guaranteed a great stay!
+
+The space
+Outside, there is a fully fenced backyard, a front porch, and a patio off of the four-season room. 
+
+The kitchen: High-end kitchen with granite counter tops, a large center island, and an eat-in table. 
+
+The living room: Cozy up on the couch and enjoy the fireplace. This room is in the center of the house and a great place to relax yet still surround yourself with other guests.
+
+The four-seasons room: This room is perfect for entertaining! With a large dining table, a leather sectional and a 75 inch HD TV. 
+
+The primary bathroom suite: This glamorous bathroom is right off of the primary bedroom. It has closets, a dual vanity, and a walk-in shower with tile surround/mosaic accents. Luxurious multi-jet, rain shower.
+
+The bedrooms: All rooms have been designed with beauty and comfort in mind.
+
+Guest access
+The only areas on the property that are off-limits are the garage, the attic, and one storage closet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emilee
+Host User ID: 422620313
+Host Profile URL: https://www.airbnb.com/users/show/422620313
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Emilee! I love to travel, meet new people, and enjoy lazy weekends with my family.
+Response rate: 100%
+Responds within an hour
+5 years hosting
+750 reviews
+4.83 out of 5 average rating
+5 years of hosting

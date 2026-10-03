@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/47861297
+Latitude: 36.36808
+Longitude: -86.467
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Remodeled Beach theme 4 bedroom 3 bath Cozy house in Gallatin city limits near great restaurants  and shopping.   Family and friends, groups of 8, will be very comfortable  in this 1850 sq foot home in the middle of Gallatin.   Minutes from the city square with local eateries.
+
+The space
+Family room open floor plan has plenty seating for everyone in the group to be comfortable watching 65" QLED HD Roku TV, sitting by the fire place or eating at the table for 8.   Always nice to have everyone at the table together for a meal.   The kitchen bar has stools for sitting around while the cooking is happening. 
+
+Kitchen is well equipped with everything you will need to cook with.   There are plenty of pots,  pans, utensils with spices, dishes, and Keurig coffee maker for pods or drip.  First morning coffee pods await you.
+
+Master bedroom 1 has king size bed with private bath with shower and  50" QLED HD Roku TV.   The utility room is adjacent with washer and dual dryers.    Desk for those needing to work.
+
+Bedroom 2 has king size  bed with private tile bath with tile shower and 42" HD Smart Roku TV. 
+
+Bedroom 3 has king size bed with 50"  QLED HD Roku TV.   This bedroom shares the hall bathroom.
+
+Bedroom 4 has full size bed with 50" QLED HD Roku TV,   This bedroom shares the hall bathroom.
+
+Hall bath has bathtub / shower combo.
+
+Back porch is a great relaxing area to watch the kids in the fenced in back yard.   Screen-in covered porch area and outside patio table seating for 6 for grilling out on the gas grill.    
+
+Plenty of parking for the group.
+
+Host has another Airbnb in Gallatin, Check out the reviews on "Gallatin Cozy House".
+
+Guest access
+Guest will have full access to the house and grounds with the exception of the storage sheds.
+
+Other things to note
+Host has another Airbnb in Gallatin, check out the reviews.   Cozy House in Gallatin City Limits.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rand
+Host User ID: 378967372
+Host Profile URL: https://www.airbnb.com/users/show/378967372
+Host Profile URL Source: public user permalink from passport userId
+Retired and enjoys hosting guests.   Loves to travel, garden and stay at Airbnb properties.
+My work: Host and Rentals
+I spend too much time: Gardening,  handyman to my Airbnbs
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+442 reviews
+4.99 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/49468223
+Latitude: 36.18886
+Longitude: -86.74167
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Prime East Nashville location just 3 miles from Broadway and Nissan Stadium. Enjoy a private, comfortable guesthouse in a historic, walkable neighborhood near Cafe Roze, Jeni’s, Vinyl Tap, Rosepepper, coffee shops, restaurants, and bars. Designed for relaxing or working, with modern furnishings, fast Wi-Fi, dedicated workspace, keyless entry, and off-street parking.
+
+The space
+This private guesthouse was designed for comfort, privacy, and convenience. The space includes a cozy living area, dedicated workspace, fast Wi-Fi, Roku TV, and thoughtful touches throughout to make short or extended stays easy.
+
+The spacious bathroom features an oversized walk-in shower and is stocked with soft, plush towels, making it easy to get ready for a night out or unwind after exploring Nashville.
+
+Guest access
+Guests have a private entrance with keyless entry and a personal door code. Off-street parking is available for one vehicle in our private driveway. Additional street parking is typically available nearby.
+
+The guesthouse is separate from the main home, giving you your own private space to come and go as you please.
+
+Other things to note
+Keyless entry, with your own personal door code.
+
+Maximum Occupancy for any reservation is two (2) Adults.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cyndi
+Host User ID: 61667437
+Host Profile URL: https://www.airbnb.com/users/show/61667437
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Healthcare Tech
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+321 reviews
+4.98 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,105 @@
+URL: https://www.airbnb.com/rooms/1782094229468929178
+Latitude: 36.136216116574545
+Longitude: -86.70693972987719
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make Nashville memories with a comfortable home base just minutes from downtown, Broadway, and top attractions. This single-story stay is designed for easy group getaways.
+
+This home offers:
+📍 Quick Access to I-40 & I-24
+🛏️ 4 bedrooms & 1.5 bathrooms
+📺 Smart TV for movie nights
+🍽️ 2 Dining Tables for group meals
+☕ Keurig Pod Coffee maker, bring pods
+🚗 Gravel Parking for 2 vehicles, no street parking
+
+Perfect for families, friends, and music lovers exploring Nashville near the action.
+
+The space
+Highlights:
+- Outdoor features: Single-story home; 4 steps to enter; private entrance
+- Kitchen features: Stove/oven, refrigerator, microwave, dishwasher; cooking basics; dishware and flatware; Keurig pod coffee maker (bring your own pods)
+- Living & entertainment: Smart TV; 2 dining tables
+- Comfort & convenience: Free WiFi; central heating and A/C; ceiling fan (bedroom 1); complimentary toiletries; hair dryer; hangers; iron and ironing board; linens and towels; trash bags and paper towels; walk-in shower
+
+Extras:
+- Desk in Bedroom 4
+
+Sleeping Arrangements:
+Bedroom 1: 1 King Bed
+Bedroom 2: 1 Queen Bed
+Bedroom 3: 1 Queen Bed
+Bedroom 4: 1 Queen Bed
+
+Parking:
+Parking is available in the designated gravel parking area for up to 2 vehicles. Street parking is not permitted. Please park only in designated areas and do not block other vehicles in the parking area.
+
+Other things to note
+No Parties or Events
+Parties and events are not permitted under any circumstances. Violations may result in immediate removal from the property, a $1,000 penalty, and additional charges.
+
+Cancellations
+The applicable cancellation policy will be enforced. Credit card processing fees are non-refundable.
+
+Minimum Booking Age
+The primary guest must be at least 25 years old. Exceptions may be considered with additional requirements.
+
+Registered Guests Only
+Only guests listed on the reservation are permitted on the property. Undisclosed guests may result in fines.
+
+No Smoking
+Smoking inside the home is strictly prohibited. Violations incur a $1,500 fee plus ozone treatment costs and any associated lost revenue. Smoking is allowed outdoors only and must take place at least 25 feet away from the house. Please dispose of cigarette butts properly. Illegal substances are strictly prohibited anywhere on the property.
+
+Quiet Hours
+Quiet hours are observed from 10:00 PM to 8:00 AM. Noise complaints or violations may result in a fine equal to one night's stay.
+
+Check-Out Time
+Standard check-out is 10:00 AM. Unauthorized late check-outs may result in extra charges and possible removal from the property.
+
+Pet Policy
+Pets are welcome with prior approval and must be disclosed before arrival. A $125 pet fee per stay applies, with a maximum of 2 pets permitted. Please clean up after your pets both indoors and outdoors. Pets must not be left unattended, and dogs must remain leashed in public areas.
+
+On-Site Homeowner
+The homeowner lives on-site in a separate unit with a separate entrance and may be present during your stay.
+
+Accessibility
+This single-story home requires 4 steps to enter.
+
+Safety & Security
+Do not tamper with smoke detectors, carbon monoxide detectors, or security cameras. Exterior security cameras are in use for guest safety, and no cameras are located inside the home. Please report any damage or safety concerns immediately.
+
+Damage & Loss
+Guests are responsible for any damage beyond normal wear and tear. Lost keys may incur a $15 replacement fee.
+
+Appliances & Utilities
+Please use all appliances responsibly and turn off lights when not in use. Do not overload electrical circuits without permission.
+
+Respect for the Home
+Please do not rearrange or remove items from the property. Burning candles or incense inside the home is not permitted. Please notify us immediately if something breaks so we can address the issue quickly.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Blake
+Host User ID: 709090512
+Host Profile URL: https://www.airbnb.com/users/show/709090512
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+907 reviews
+4.83 out of 5 average rating
+1 year of hosting

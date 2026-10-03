@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/634166835809053294
+Latitude: 36.226
+Longitude: -86.7261
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A dreamy chic, spacious 2 bedroom/2 bathroom condo located in hip East Nashville. Enjoy easily popping around local vintage shops, boutiques, thrifts, music venues, and coveted east side eateries. The location is primo offering easy access from interstates, and a quick 10 minutes to the heart of downtown. This spot is great for couples, families, and friends alike. Enjoy your stay here at Wandr Nashville! 
+
+instagram: @wandrnashville
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 133671647
+Host Profile URL: https://www.airbnb.com/users/show/133671647
+Host Profile URL Source: public user permalink from passport userId
+Music Industry & Real Estate folks
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+648 reviews
+4.77 out of 5 average rating
+6 years of hosting

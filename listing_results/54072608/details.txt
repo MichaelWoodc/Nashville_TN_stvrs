@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/54072608
+Latitude: 36.2635
+Longitude: -86.7641
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Shire on 1+ acre only 8 miles/10 minutes from downtown Nashville!  This 4 bedroom, 2.5 bath house has been completely transformed inside and out to be the perfect Airbnb for every kind of group!  New deck and privacy fence, fire pit with wood provided, outdoor seating, bbq grill, GAME GARAGE, washer/dryer, fully stocked kitchen and bathrooms, and more!  
+
+Complete privacy and room to roam at The Shire!
+
+PETS WELCOME and ample parking for large vehicles!
+
+See our guest reviews!!
+
+The space
+The one level house is situated on 1.2 acres with a fully fenced backyard that includes a brand new deck with outdoor seating, huge fire pit with chairs, picnic table, hammock, bbq grill etc.  The house is 1850 square feet and 4 full bedrooms and 2.5 baths.  There is also a huge detached garage that includes ping pong, foosball, TV, pop a shot, golden tee, NBA JAM, Super NES (Mario Kart!), cornhole, darts, poker table, fridge, yard games, etc.! The property is well lit, has plenty of parking, and even includes a small stream! Only 8 miles to downtown Nashville and very close to numerous restaurants, bars, etc. 10 minutes to Downtown and cheap (~$15) Uber/Lyft!
+
+PETS WELCOME!! Huge yard ideal for pets, games, family events, etc.! Firewood provided.  
+
+Ample parking for large vehicles, trailers, etc. 
+
+STRP#2021079593
+
+Guest access
+Guests will have access to entire house, yard, and game garage! Plenty of parking!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Austin
+Host User ID: 438247393
+Host Profile URL: https://www.airbnb.com/users/show/438247393
+Host Profile URL Source: public user permalink from passport userId
+Two best friends that love to travel and host people traveling to Nashville!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+70 reviews
+4.93 out of 5 average rating
+5 years of hosting

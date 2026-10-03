@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/588329767839210020
+Latitude: 36.22973
+Longitude: -86.71326
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our home is nestled in the quiet Inglewood neighborhood of trendy East Nashville. Our private driveway and entrance to the peaceful guest cottage will give you the best of both worlds. Wake up to bird song and tree-lined views with only a 10-minute drive to the popular Five Points or just 20 minutes to the heart of downtown.
+
+The space
+This 600+ sq. ft. private apartment is both warm and functional with one private parking space, a private entrance, queen bed, full bathroom, full kitchen including coffee/tea station, living room, and dining table/workspace. The space itself is on the cozy side but equipped with all of the comforts you need to fully relax and take in the best of Nashville. The cottage is on a very quiet street with lush greenery giving you country vibes within the city.
+
+Guest access
+You will have access to one private parking space on the property and the entire private apartment. While there is a pool on the premises, it is not available to visitors.
+
+Other things to note
+We have a very-friendly indoor black lab who lives for her fetch time and rarely barks. If spotted outdoors, she's with one of the owner/hosts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ali
+Host User ID: 178426980
+Host Profile URL: https://www.airbnb.com/users/show/178426980
+Host Profile URL Source: public user permalink from passport userId
+My husband, Matt, and I were lucky enough to purchase our dream home in 2022 with an established AirBnB property on-site. We are excited to start our hosting journey and look forward to our future guests.
+
+We are both transplants to Nashville but have been here 5+ years and call Nashville home. Matt works as a freelance musician playing recording sessions, teaching, and performing in the area while I work from home in the accounting industry. East Nashville has been the perfect home for us since it's minutes away from everything the city has to offer but can escape to the peace and quiet of our neighborhood. While I've tried nearly every restaurant in the area, Matt has done the same with coffee and we're happy to give recommendations.
+My work: CPA
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+200 reviews
+4.99 out of 5 average rating
+4 years of hosting

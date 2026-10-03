@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/8188686
+Title: Gorgeous Gulch home with skyline views!
+Latitude: 36.14859
+Longitude: -86.78579
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 12
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great location. Walking distance to dozens of bars/restaurants. Short walk to Nashville hot spots: Gulch/Demonbreun/Music Row/Midtown/Edgehill. Minutes away from lower broadway! 3BR/3 BATH. Large living room and upstairs media room with two rooftop decks!
+
+The space
+This newly renovated, professionally designed, 2,400 square foot contemporary home is located in one of the hottest, most sought after neighborhoods in Nashville. Perfect for groups of adults and families. Guests will be within walking distance from some of the best bars, restaurants and live music venues the city has to offer. Gulch, Music Row, Demonbreun, and Edgehill neighborhoods are all just a few minutes walk away! There's a grocery store within walking distance, and Lower Broadway/Honky Tonks are a short 5 minute uber ride away! 12th South neighborhood, is just a short car ride as well!
+
+This house boasts plenty of space to accommodate your party. There are two King beds, one queen, 2 large sleeper sofas, 1 pull out futon equivalent to a full size bed, and 1 pull out mattress equivalent to a full size mattress. There are also three full bathrooms. Large bonus room on third level with wet bar and two adjacent rooftop decks. Gorgeous skyline views of downtown Nashville. Flatscreen smart TV's throughout home and surround sound Sony Soundbar with bluetooth capability to play your music! Plenty of parking (2 car garage, driveway and street.)
+
+Guest access
+You will have access to the entire home with the exception of a few owner's closets. A garage door opener will be provided for you upon your entry.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lilly
+Host User ID: 43193876
+Host Profile URL: https://www.airbnb.com/users/show/43193876
+Host Profile URL Source: public user permalink from passport userId
+Nashville Native. Interior Designer. Property Manager.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+11 years hosting
+144 reviews
+4.97 out of 5 average rating
+11 years of hosting

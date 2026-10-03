@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/726827080142114365
+Latitude: 36.08708
+Longitude: -86.63449
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy your stay in this centrally located townhome minutes from Nashville's International Airport and Music City's famous downtown attractions. This spacious 2 BR/2.5 BA offers all the comforts of home. Complete with a full kitchen, firepit, laundry appliances and free designated parking on the premises. This unit offers a queen bed in the master and in the guest bedroom.
+
+The space
+Proximity easily accessible by car and rideshares (Lyft, Uber):
+
+* 10 mins to Nashville's International Airport (BNA)
+* 15-20 mins to downtown
+* 2 mins to neighborhood grocery stores (Kroger/Aldi)
+* 5 mins to Percy Priest Lake
+
+The half bath is on the main floor and both bedrooms have access to their own full baths. Please treat this space as if it was your own home.
+
+Guest access
+You will have the entire space, except the master closet as I do occupy the space at times when not booked. There is a hanging rod for your clothes on the door of the master closet, and  a walk in closet in the guest room. I hope you enjoy your stay and please reach out to me with any questions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kai
+Host User ID: 88133993
+Host Profile URL: https://www.airbnb.com/users/show/88133993
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+134 reviews
+4.99 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1553186501385764385
+Latitude: 36.26141
+Longitude: -86.77914
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Pearl Retreat is a place to rest, relax, and recharge all just minutes away from downtown Nashville.
+
+The space
+The Pearl Retreat has 5 bedrooms and an additional space which can be converted into an extra bedroom, meaning the home can sleep up to 12 people. Each room in The Pearl was inspired by the beauty of the home's surrounding nature. They are uniquely designed to offer comfort and reprieve from the stress of everyday life. The home includes a variety of spaces where you can comfortably chat with friends, enjoy meals with loved ones, read a book surrounded by nature, unwind with a cocktail, or have a cup of tea while watching the sunset. We aim for The Pearl to provide you with a uniquely beautiful location for your biggest moments in life, but also your slow, restorative mornings. Outside the home, enjoy rolling green hills and roaming wildlife alongside distant views of the Nashville skyline. You won't believe you're just minutes away from the hustle and bustle of the city!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karen
+Host User ID: 117819045
+Host Profile URL: https://www.airbnb.com/users/show/117819045
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+10 months hosting
+2 reviews
+5.0 out of 5 average rating
+10 months of hosting

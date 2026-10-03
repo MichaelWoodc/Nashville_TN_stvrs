@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/50395220
+Latitude: 36.20658
+Longitude: -86.76549
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to 'The Grand Duke'. This gated townhome community named ‘The Duke’ is just minutes from Downtown Nashville! It’s a spacious 2 bedroom, end unit featuring a open living room that flows into a stunning kitchen & island equipped with all the cooking utensils & appliances you could need. 
+On the 2nd and 3rd floors you will find 2 spacious en-suite bedrooms & bathrooms plus a laundry room. There is also a great balcony to sit out and enjoy a morning coffee or an evening glass of wine.
+
+The space
+Step inside to a warm and inviting living room with plenty of natural light and comfortable seating. A few steps away, you’ll find the kitchen with modern appliances and a large island with plenty of space to prep your meals and hang out. The master bedroom is located on the second floor, with two queen sized beds, a large bathroom with a dual sink, and a walk-in closet. Up the stairs just a little further you’ll find a secondary bedroom featuring a smart TV, two additional queen beds, a walk-in closet & another full bathroom. Just around the corner is a full sized balcony with plenty of seating to enjoy your morning, afternoon and evenings outside. Don't forget that you can grill on the front porch if you desire too!!
+
+We look forward to welcoming you to 'The Grand Duke'.
+
+One of the beauties of this property is it’s convenient location to all of Nashville’s surrounding attractions.
+You can visit the following destinations in an uber/lyft based on these approximate drive times:
+
+Nashville Airport - 15 mins
+Top Golf - 5 mins
+Nissan Stadium (Home of The Tennessee Titans) - 5 mins
+First Tennessee Park (Home of The Nashville Sounds Baseball Team) - 5 mins
+The Gaylord Opryland Hotel & The Grand Ole Opry - 11 mins
+Bridgestone Arena (Home of The Nashville predators) - 10 mins
+The Ascend Amphitheater (Outdoor Events Arena by The River) - 9 mins
+The Ryman Auditorium - 10 mins
+Broadway (Honky Tonk Central) - 10 mins
+
+Guest access
+Guests will have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

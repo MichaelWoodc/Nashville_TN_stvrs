@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/960072469211217633
+Latitude: 36.171
+Longitude: -86.7967
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 5
+beds: 6
+occupancy: 14
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relaxin' Retreat | Rooftop Fire Pit & Movie Loft
+
+Modern luxury meets Music City vibes! Relaxxin Retreat is a beautifully styled 4-bedroom, 4-bathroom home custom-built for groups of up to 12. Whether you're catching skyline views by the rooftop fire pit, hosting movie night in the 3rd-floor entertainment loft, or sinking into plush memory foam beds, every corner is designed for smooth, effortless group stays.
+
+The space
+✨ Highlights~ 
+- Rooftop Fire Pit Deck: Unwind with cozy outdoor seating, a fire pit, and sweeping views while sipping your morning coffee. 
+- Entertainment Loft: Dedicated lounge with a TV—perfect for movie nights or catching game-day action.
+- Gourmet Kitchen: Fully equipped with sleek appliances, and a full dining setup for your whole crew.
+- Washer & Dryer: Equipped with an in-unit washer/dryer, so you can travel back with a clean suitcase of clothes.
+
+🛏️ Where You’ll Sleep (Sleeps 12)~ 
+- Primary Suite: King Bed + Private En Suite
+- Guest Bedroom 2: Queen Bed
+- Guest Bedroom 3: King Bed + Private En Suite
+- Bunk Room: Bunk Bed + Pull-Out Trundle
+- Open Lounge: Daybed
+- Extra Accommodations: Queen Air Mattress provided 
+
+🧼 Included in Your Stay~ 
+- Starter kit for everything you'll need: paper towels, toilet paper, linens, towels, dish soap, laundry pods, etc.
+- All bathrooms come fully equipped with premium full sized body wash, shampoo, and conditioner.
+- Coffee Station: Complimentary coffee provided from our favorite, The Well!
+
+Guest access
+Nice to meet y'all! We're Kalos Dwellings - we're two husband and wife duos, but best friends above all. We're Nashville locals and here to serve. We're happy to host you and invite you into our little corner of Nashville.
+
+Other things to note
+- Parking: There is a parking pad located behind the home and street parking available.
+- Minimum age to rent the home is 21.
+- We love our furry friends, and they need a vacation too! We allow dogs that is under 30 lbs and non- shedding (up to 2 dogs). If your pup fits that criteria, we’d love for you to bring them along. A one-time, non-refundable pet fee of $150 will be added to your reservation. Thank you for understanding!
+- Vacation disruptions can be a bummer. While it doesn’t happen often, you may experience issues with Wi-Fi. We are not responsible for any disruptions to the Wi-Fi service or any construction that may affect your experience. Please note that such occurrences are beyond our control, and we appreciate your understanding and patience in these matters.
+
+This home is proudly managed by Kalos Dwellings, we're excited to welcome you into our lil slice of Nashville. Please don't hesitate to reach our if you have any questions at all.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalos Dwellings
+Host User ID: 351901804
+Host Profile URL: https://www.airbnb.com/users/show/351901804
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Sarah and I am one of the co-founders of Kalos Dwellings along with my husband, Dustin, and our best friends, Aaron and Tara.  
+Our entire team of hosts are here for anything you need during your stay!
+My work: Kalos Dwellings
+Fun fact: We are family owned and operated.
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4961 reviews
+4.92 out of 5 average rating
+5 years of hosting

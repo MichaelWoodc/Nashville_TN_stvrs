@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1603791842916161766
+Latitude: 36.14127
+Longitude: -86.81946
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience luxury in this stunning West End 3-bedroom, 2-bath home featuring a private heated pool and stylish outdoor lounge. Inside, enjoy a spacious open-concept kitchen and living area, designer furnishings, and modern finishes throughout.
+
+Perfectly located just 3 miles from Broadway, minutes from Centennial Park and Vanderbilt, and with easy interstate access, this fully furnished home offers both convenience and comfort—ideal for weekend getaways, groups, or extended stays in Nashville.
+
+The space
+Private, gated property just minutes from downtown, offering both convenience and peace of mind.
+
+The home features three bedrooms and two full bathrooms: a spacious king bedroom with an ensuite bath, plus two queen bedrooms with closets and a shared full bathroom.
+
+Enjoy a modern, open-concept living space with a luxury kitchen, stylish dining area, and comfortable living room—perfect for relaxing or gathering. Additional amenities include a bar area, board games, and workout equipment.
+
+Step outside to the outdoor entertainment space, complete with a pool, bar, grill, and sun loungers for soaking up the sunshine. PLEASE NOTE: the pool is subject to seasonal closures—please inquire to confirm availability during your stay.
+
+Guest access
+Guests will receive detailed access instructions 24 hours prior to arrival. Entry is fully automated, and in-person check-in is not required.
+
+Personalized access codes for the gate and door locks will be provided to ensure a smooth and secure arrival.
+
+Other things to note
+The pool is subject to seasonal closures. Please inquire in advance to confirm availability during your stay.
+
+Guests are welcome to enjoy all appliances and features of the home; however, any damages incurred during the stay will be the guest’s responsibility.
+
+The house is partially occupied by the owner. While the owner will not be present during your stay, some personal items may be on the property—please be respectful of their belongings.
+
+Absolutely no parties or unregistered guests are permitted on the property at any time.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dyer Management
+Host User ID: 153919195
+Host Profile URL: https://www.airbnb.com/users/show/153919195
+Host Profile URL Source: public user permalink from passport userId
+What's up ya'll? 
+
+Just a group of native Nashvillians who built a company to service the ever growing tourism population. We love our city, great food, Nashville sports, and all types of music. We are very laid back and will be as hands off with the guests as much as possible. Always a call a way and within 10 minutes of our properties.
+My work: Dyer Management LLC
+Lives in Nashville, Tennessee
+Response rate: 91%
+Responds within an hour
+9 years hosting
+2048 reviews
+4.51 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1590828556032883982
+Latitude: 36.18097
+Longitude: -86.79515
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the heart of Germantown, you are steps away from some of the best attractions Nashville has to offer!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 629420
+Host Profile URL: https://www.airbnb.com/users/show/629420
+Host Profile URL Source: public user permalink from passport userId
+Traveling the world one Airbnb at a time!
+Born in the 80s
+Where I went to school: Florida State & Nova Southeastern
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+492 reviews
+4.89 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/51927746
+Latitude: 36.1579
+Longitude: -86.794
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+It was all by design…
+
+Welcome to The Lover House, a unique townhome and rooftop with a nod to the mastermind of them all, Taylor Swift. This colorful space is inspired from the home featured in the “Lover” music video! Less than a mile to Broadway, this 4 bed/3.5 bath home is in a topnotch location & offers stunning views of the Nashville Skyline.
+
+For larger groups, message us about renting our other attached units!
+
+Are you ready for it?
+
+The space
+The Lover House – Sleeping Arrangements
+
+1st Floor: (Sleeps 5)
+1 Queen bed with 1 Twin trundle
+1 Full bed
+2 Full baths
+
+2nd Floor: (Sleeps 2)
+Half bath
+Kitchen, living room
+1 Full sleeper sofa
+
+3rd Floor: (Sleeps 5)
+1 Queen bed with 1 Twin trundle
+1 Full bed
+1 Full bath
+
+Additional Sleeping Options: Available upon request
+2 roll-out cots
+1 Queen air mattress
+
+Guest access
+There is a smartlock to enter.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gerry
+Host User ID: 24758299
+Host Profile URL: https://www.airbnb.com/users/show/24758299
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+286 reviews
+4.9 out of 5 average rating
+7 years of hosting

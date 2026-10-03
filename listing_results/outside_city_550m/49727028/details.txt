@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/49727028
+Latitude: 36.33912
+Longitude: -86.6102
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gorgeous, recently renovated North Nashville home less than 25 minutes from Broadway. This home benefits from a large deck with an abundance of seating, grill, firepit and backyard that is made for lawn games. This 4 bedroom, 2 bath home is the perfect place for families who wish to stay together, trips with friends, or just a fun weekend away. It offers easy access to SR 386 & I-65. Glenbrook Shopping Center is less than a mile away and offers multiple options for dining and shopping.
+
+The space
+Four bedrooms, each with its own TV and jack and jill bathrooms. Main area features a pool table and large TV mounted on the wall. Pull out couch sleeps 2 more. 
+Spacious outdoor area with seating that is covered and uncovered. Also seating around the back yard firepit. Corn hole provided as well!
+
+Other things to note
+This home is pet friendly to dogs only with a two pet maximum. Please make sure you select your pets at the time of booking as a $150 fee is collected for reservations including animals. We do also follow breed and weight restrictions please reach out to us directly for more information!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

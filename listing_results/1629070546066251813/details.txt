@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1629070546066251813
+Latitude: 36.15351
+Longitude: -86.79387
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sports Illustrated Resorts Nashville places you in the heart of Music Row, steps from Broadway’s honky-tonks, Vanderbilt, and legendary studios. Catch SEC matchups, NFL games, or a show at the Ryman — all minutes away. Enjoy signature spaces like the Trophy Lounge and Outfield Pool, plus spacious studio, one-, and two-bedroom suites. It’s your home field for celebrating, relaxing, and soaking up Nashville’s energy.
+
+The space
+At Sports Illustrated Resorts Nashville, modern studio, one- and two-bedroom accommodations comfortably sleep two to six guests and offer thoughtfully designed spaces with convenient amenities. Each apartment-style unit features a washer and dryer and a fully equipped kitchen to ensure you feel right at home. Fast, reliable Wi-Fi, floor-to-ceiling windows, and private balconies (in select units) further enhance your stay.
+
+Guest access
+Set in the heart of Nashville’s electric SoBro district, Sports Illustrated Resorts Nashville rises above the rhythm of the city with apartment-style living and resort amenities. Take in striking views of downtown from the rooftop pool or step outside and find yourself just moments away from the iconic honky-tonks of Broadway, Bridgestone Arena, and the very soul of Music City. Whether you're in town for the tunes, the food, or the Southern charm, this is the perfect home base for discovering Nashville like a local.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨Extra Holidays®⁩
+Host User ID: 266083019
+Host Profile URL: https://www.airbnb.com/users/show/266083019
+Host Profile URL Source: public user permalink from passport userId
+Stretch out and relax in spacious resort suites while experiencing all the comforts of home. Most suites are equipped with a full kitchen, washer/dryer, private bedrooms, separate living/dining areas and unbeatable resort amenities for everyone. Extra Holidays® is the official resort condo rental source for Club Wyndham®, WorldMark by Wyndham®, Shell Vacations Club® and Margaritaville Vacation Club® by Wyndham.
+Lives in Orlando, Florida
+I’m happy to spend time with my guests or give them space
+Response rate: 99%
+Responds within an hour
+7 years hosting
+23696 reviews
+4.66 out of 5 average rating
+7 years of hosting

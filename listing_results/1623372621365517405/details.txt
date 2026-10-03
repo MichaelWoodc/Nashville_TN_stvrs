@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1623372621365517405
+Latitude: 36.145924388085476
+Longitude: -86.81731284481134
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Whether you're headed downtown for live music and nightlife or staying in to unwind by the pool, The Odyssey 402 offers comfort, convenience, and a true Nashville experience. 
+Located across from Centennial Park and The Parthenon! Tito’s Restaurant onsite.
+
+The space
+Explore the many things that Nashville has to offer by staying at Bourbon and Blues. When walking into this unit you will be invited into a home away from home that is professionally decorated with a modern feel and touches of Music City throughout. This 2-bedroom ,2-bathroom unit has plenty of space to accommodate the needs of couples, families, and bachelor/bachelorette groups. This unit is conveniently located near Downtown Nashville, but if you plan to stay in you have access to resort-style amenities: outdoor pool, on-site restaurant, gym, and private parking! A real gym located across the street from the Parthenon and Centennial Park. Walkable to Vanderbilt University.
+
+All guests are required to review and sign a renter’s agreement prior to check-in. We strongly recommend purchasing travel insurance to protect your reservation against unexpected changes or emergencies.
+
+The Odyssey is a smoke-free facility. If smoking is detected in any room or on the balcony, a $250 cleaning fee will be applied to your account.
+
+Thank you for your cooperation!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derrick
+Host User ID: 705948924
+Host Profile URL: https://www.airbnb.com/users/show/705948924
+Host Profile URL Source: public user permalink from passport userId
+I spend too much time: Gardening
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+137 reviews
+4.98 out of 5 average rating
+1 year of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/984111134188933219
+Latitude: 36.27771
+Longitude: -86.66948
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Light-filled, European-inspired 3BR home on a quiet half-acre lot, just 20  minutes from downtown Nashville. Guests consistently call out the peaceful 
+backyard, comfortable beds, and easy hospitality — this is the kind of place where you actually unwind. Ideal for couples, creatives, or anyone who wants  a dedicated workspace by day and a quiet deck by evening.
+
+Note: The Garage is locked / Off limits
+
+The space
+1,412 sq ft of bright, open living space with vaulted ceilings and warm, minimal decor. Every bed is dressed in 100% cotton or linen — no synthetics 
+— for a noticeably better night's sleep. The kitchen and living area flow  directly out to the back deck — our guests' favorite spot for morning coffee or winding down at night.
+
+- Bedroom 1: King bed, linen bedding, en-suite bath, walk-in closet
+- Bedroom 2: Queen bed, cotton bedding, smart TV, full bath just steps away
+- Bedroom 3: Double bed,  best for a third guest/kid's room/etc. 
+- Living room: Smart TV, additional air mattress available on request
+
+A dedicated workspace with fast WiFi makes this an easy fit for remote  work, and self check-in via smartlock means you can settle in on your 
+own schedule.
+
+You're minutes from Old Hickory, a laid-back lake community with real  local character. Grab a bite at Dose, our go-to neighborhood spot, or 
+head to Sam's Sports Bar for a no-frills night out right on the water. It's the kind of area where you can slow down — and still be 20 minutes 
+from downtown Nashville when you want the city.
+
+Guest access
+You'll have access to the entire home except two closets and the garage, 
+which stay locked.
+
+Other things to note
+Unapproved guests, pets, or smoking in the house will result in a fee of $200 (per infraction)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jakob
+Host User ID: 113269164
+Host Profile URL: https://www.airbnb.com/users/show/113269164
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Jakob, a professional photographer and director who's called Nashville home since 2015. I grew up outside of Cleveland, Ohio and spent 4 years in the Navy before moving to Nashville.  I have a passion for travel, a love for reading, and an appreciation for art. I'm excited to host you in my cozy Nashville home.
+Where I went to school: Belmont University
+My work: Photographer
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+97 reviews
+4.96 out of 5 average rating
+3 years of hosting

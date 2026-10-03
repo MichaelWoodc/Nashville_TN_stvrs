@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/976016244278497211
+Title: Nashville’s Ideal location 7Bed/3Bath in NEW house
+Latitude: 36.18443
+Longitude: -86.79157
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy this sylish new build! Experience everything Nashville has to offer, walkable or short Uber to Nissan stadium, Broadway/Preds games, the Gulch, local eateries, and Top Golf.
+ Sleeps 12- Greenway & playground across the street- Starbucks, DD, chipotle and convenience store within walking distance. Designated of street parking, security cameras. Pet friendly - kid friendly - Business travel. Fully stocked with all toiletries, paper products, kitchenware, wash and dryer, and fresh linens!
+
+The space
+First floor- Queen bed and full bathroom . 
+
+Second floor. Master bedroom with twin bunk beds and end suite full bathroom. 
+
+Second and third bedroom with queen bed each. 3rd full bathroom at end of the hall.
+
+Other things to note
+Salemtown is a lively residential neighborhood of over 500 homes located 1.5 miles north of Broadway in downtown Nashville.  On a Saturday morning, you may find our residents running with their dogs, strolling with their children to grab a coffee, or walking to area restaurants to grab a bite to eat. The nightlife makes for a perfect place to host bachelor/bachelorette  parties, football events, and much more!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrew
+Host User ID: 233203148
+Host Profile URL: https://www.airbnb.com/users/show/233203148
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN! I have a passion for helping people, food, travel, and exploring this world! I’m a real estate agent in middle TN and also own a small travel agency!
+My work: Real estate agent - Realtor @ Bradford Real Estate
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+174 reviews
+4.93 out of 5 average rating
+7 years of hosting

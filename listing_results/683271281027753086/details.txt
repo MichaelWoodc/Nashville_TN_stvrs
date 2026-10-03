@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/683271281027753086
+Latitude: 36.24173
+Longitude: -86.63952
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 1
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in this cozy, colorful upper unit with 2 bedrooms and 1 bathroom in a quiet Nashville home. Enjoy a bright living space, full kitchen, eco-friendly touches like filtered water and low-VOC products, plus access to a fenced yard. Please note, there is a separate lower unit on the property that may have guests during your stay. Ideally located just minutes from Downtown Nashville, it’s perfect for couples, small groups, and longer stays.
+
+The space
+Welcome to this cozy and colorful upper unit in Nashville, a cheerful, inviting space designed for comfort and convenience. This listing is for the top unit only, offering a private and relaxing stay while being close to everything the city has to offer.
+
+The home features 2 bedrooms, 1 bathroom, a full kitchen, and a bright living area, perfect for couples, friends, small families, or business travelers. The colorful, vibrant décor creates a warm, homey atmosphere that makes you feel settled the moment you arrive.
+
+Please note: this is a multi-unit property. There is a separate lower unit beneath this one, which may be occupied by other guests during your stay. Both units have their own private spaces, but some outdoor areas may be shared.
+
+Ideally located just outside the city, you’re only 10–15 minutes from Downtown Nashville, Broadway’s honky-tonks, Nissan Stadium, Bridgestone Arena, and popular neighborhoods like East Nashville and Germantown. Local restaurants, cafes, grocery stores, and parks are just minutes away.
+
+Whether you’re visiting for a weekend getaway, a work trip, or an extended stay, this upper unit offers a comfortable home base with easy access to Nashville’s top attractions.
+
+-Private upper unit (2BR / 1BA)
+-Full kitchen + cozy living room
+-Bright, colorful décor with a warm vibe
+-Fenced yard (may be shared with lower unit)
+-Pet-friendly
+-Quiet residential neighborhood
+-Eco-friendly touches (filtered water, low-VOC products)
+
+⭐ Proximity to Nashville Hotspots
+
+Downtown Nashville / Broadway – 10–15 min
+Nissan Stadium – 10–12 min
+Bridgestone Arena – 12–15 min
+East Nashville – 6–10 min
+Germantown – 12–15 min
+Grand Ole Opry – 18–20 min
+BNA Airport – 15–20 min
+Grocery stores & coffee shops – 3–8 min
+
+⭐ Ideal For
+
+-Couples or small families
+-Friends trips (up to 4 guests)
+-Business travelers
+-Remote workers
+-Longer stays
+-Pet owners
+
+Guest access
+Guests have access to the entire upper unit only via a single private entrance. The unit includes a private living space, kitchen, bedrooms, and bathroom. Since there is a separate lower unit on the property that may have guests. The yard and exterior areas may be shared.
+
+Other things to note
+Pet fee is $20 per pet per day.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ritu
+Host User ID: 112833848
+Host Profile URL: https://www.airbnb.com/users/show/112833848
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+4 years hosting
+29 reviews
+4.52 out of 5 average rating
+4 years of hosting

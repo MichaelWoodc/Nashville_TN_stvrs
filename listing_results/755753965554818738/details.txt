@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/755753965554818738
+Latitude: 36.20057
+Longitude: -86.75266
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 8
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Autumn from your furnished rooftop view! It's an all-suite layout w/6 smart TVs. On the entry level, you’ll find the 1st of 4 stylish suites. The 2nd floor is perfect for entertaining in the huge kitchen w/stainless steel appliances w/2nd suite nearby. Inspired by Dolly Parton, a custom mural is ready for some pic taking. The 3rd floor has 2 more suites with wash/dryer. Available for mid-term, temp housing, travel professionals looking for a home away from home. Ask about special pricing!
+
+The space
+Bliss Road Offers 5 Star Properties,
+Fully Furnished with all Amenities,
+High End Towels/Linens/ and Bedding.
+
+Nested in a quiet neighborhood with plenty of private parking right outside your door. Quick trip to ND & surrounding tourist spots! Newly remodeled with all the amenities.
+
+Every home has a starter kit stocked with paper products, including paper towels & toilet paper, as well as coffee supplies!
+
+Guest access
+Keyless entry to the property via keypad. The details for the the keypad code will be sent to you prior to your reservation.
+
+Other things to note
+While the neighborhood is mostly quiet this is still an urban environment and you should always remain aware of your surroundings and use common sense. We recommend that you don't leave valuables in your car and don't leave the doors and windows unlocked when you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catlin Hale
+Host User ID: 333035767
+Host Profile URL: https://www.airbnb.com/users/show/333035767
+Host Profile URL Source: public user permalink from passport userId
+Welcome! My goal is to ensure you have a 5-Star Stay!  I offer short/mid/long term bookings—ask me about 30 day+ discounts. We have homes across the US & specialize in insurance claims & temp housing needs.
+
+ABOUT MY RENTALS
+My guests consistently give 5-Star reviews to my properties, which offer concierge & VIP services tailored for every guest experience.
+
+ABOUT ME
+I am a singer/songwriter/voice talent in Nashville, TN.
+
+I love treating you to a perfect stay in the perfect place!
+My work: Voice Talent/Singer
+I'm obsessed with: Kindness
+Response rate: 86%
+Responds within a few hours
+7 years hosting
+221 reviews
+4.86 out of 5 average rating
+7 years of hosting

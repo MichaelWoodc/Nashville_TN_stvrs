@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/31306421
+Latitude: 36.17035
+Longitude: -86.75832
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Mom Upchurch’s carriage house  riffs off our historic stone cottage and mixes in a bit of glam! Dubbed "Hillbilly Heaven" by the hundreds of musicians who passed through its' doors in the 60’s and 70’s. An easy daytime walk or cheap Uber to Downtown's Honky Tonks (1.3) Hipster 5 Points of East Nashville (.8) Nissan Stadium (.5) Ascend Amphitheater (1.2) , and Bridgestone arena (1.3) our location, comfort and amenities will insure your stay at “Moms” is truly memorable.
+
+The space
+Our Carriage House is brand new,  built in 2019, and lovingly decorated and fitted with everything you will need to enjoy your stay in Nashville.  King bedded bedroom, full kitchen and bath with living and dining space. You would be hard pressed to find a nicer looking or more comfortable space for your enjoyment. The unit is Best suited for a couple But the couch is a double sized sleeper sofa as an extra option.
+
+Guest access
+The Carriage House apartment will be for you enjoyment only. Access to the property is from the alley behind the house, you will see 620B beside the door which is dark blue There is no access through the house itself or the yard. The garage door is a false door and parking is best in front of it on an angle. We understand it's not ideal and if you prefer there is plenty of street parking close to the carriage house.  Once booked you will receive a personalized code and on the day of arrival we  will send a reminder of all of the above and your code.
+
+Other things to note
+Check out the attached Guidebook for a list of our favorite things in Nashville!! Let us know if there is anything in particular you are looking for, we will do our best to point you in the right direction!! Also the unit is on the 2nd floor if stairs are a challenge.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michelle
+Host User ID: 5633033
+Host Profile URL: https://www.airbnb.com/users/show/5633033
+Host Profile URL Source: public user permalink from passport userId
+An Australian living between Nashville and Cabanas de Tavira and enjoying everything about both!
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+13 years hosting
+457 reviews
+4.93 out of 5 average rating
+13 years of hosting

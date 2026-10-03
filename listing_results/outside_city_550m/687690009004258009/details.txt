@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/687690009004258009
+Latitude: 36.02803
+Longitude: -86.55369
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Single Bedroom on the 3rd floor in a townhome with five bedrooms. We are close to the highway and about 25 minutes from downtown Nashville. There is plenty of restaurants and a walmart close to us.
+There is a 43in HDTV in the room
+The washer and dryer are only for guests who stay 7 or more days. We have a small 11lb Male Shorkie, he is very friendly and loves people and other animals. Please park only in designated parking spots to avoid getting towed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ernesto
+Host User ID: 222028203
+Host Profile URL: https://www.airbnb.com/users/show/222028203
+Host Profile URL Source: public user permalink from passport userId
+Hey my name is Ernesto I'm from Cuba and Im pretty laid back and enjoy doing Airbnb and meeting new people.
+Born in the 90s
+My work: Nurse
+Speaks English and Spanish
+What makes my home unique: I have a lot of plants inside the home
+Pets: I have Male Shorky named Udon
+Response rate: 100%
+Responds within an hour
+7 years hosting
+376 reviews
+4.83 out of 5 average rating
+7 years of hosting

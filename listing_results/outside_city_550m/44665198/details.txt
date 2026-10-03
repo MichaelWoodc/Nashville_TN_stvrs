@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/44665198
+Latitude: 36.28031
+Longitude: -86.5553
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Cabin Retreat is located in the City Between the Lakes,  just across the street from Old Hickory Lake. It features 3 decks surrounded by beautiful trees & nestled in a mountain like setting, yet only 21 miles to downtown Nashville. If you're looking for a relaxing private getaway or a fun place to stay with your family, friends or a group, this is the place for you! Bring your boat, there's plenty of room for parking & come see why the Cabin Retreat was featured in Mt. Juliet Lake Living!
+
+The space
+You will feel like you’re on vacation at the The Cabin Retreat!  Sit outside on one of the 3 decks, enjoy the wildlife and say goodbye to stress! The decks feature a tranquil, peaceful setting with plenty of seating options, a full size propane grill, hammock, swing, patio table, large umbrella, cornhole and a small waterfall.
+
+The Cabin Retreat offers a fully equipped kitchen with a 36" tv, all stainless steel appliances, drip coffee maker and Keurig. It also includes spices and all the amenities you'll need for cooking.  There’s a full size washer and dryer, iron & board in the walk in pantry/laundry room.
+
+The living room has a large sectional couch with a 70” tv, dvd player,  lots of movies, games and books.
+
+There are 2 bedrooms downstairs that share a full bathroom. The 1st bedroom has a queen size bed and a 36” tv and the 2nd bedroom has a full/twin bunk bed, desk &  45” tv.  
+
+The large master bedroom/bathroom is upstairs with a 50” tv, large tub and walk-in-shower. The master closet has a separate entrance from the master bedroom upstairs and has a super comfy twin bed, it can be used for a closet or for a 5th bedroom. 
+
+Just across the deck is the guest house and the 4th bedroom with 2 queen beds, 45” tv and bathroom w/shower.  The guest house also features a large sectional couch, pool table, dart board, 65” tv, small fridge, microwave and Keurig.
+
+The Cabin Retreat has 3 central heat/air units, free wifi and 7 tv's which include cable, DVR and most of them are smart tv's. 
+
+You’ll have all of the necessities to get you started, toilet paper, paper towels, dish soap, laundry detergent, spices, etc…  
+
+There's plenty of parking in the large driveway for your boat, jet skis, truck, trailer and multiple cars. There is no access to the lake from the cabin, but boat ramps, recreational areas and marina's are just a few miles away.
+
+Guest access
+Guest are allowed to access everything in the main house and guest house except one small supply closet.
+The inside of the garage is non accessible.
+
+Other things to note
+We have a lot of wildlife including deer, raccoons, possums and a stray kitty that we feed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Janette
+Host User ID: 224692438
+Host Profile URL: https://www.airbnb.com/users/show/224692438
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Mount Juliet, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+161 reviews
+4.99 out of 5 average rating
+6 years of hosting

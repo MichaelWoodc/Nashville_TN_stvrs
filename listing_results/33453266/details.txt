@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/33453266
+Latitude: 36.31658
+Longitude: -86.87883
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable roomy mother in law suite in the country, just off interstate 24 in Joelton. 20 minutes away from the busy downtown Nashville area and Grand Ole Opry. Room has private entrance and is big enough for a travel bed for children. Children always welcome! We have dogs but have added interior doors to eliminate noise. Room is fully furnished and includes a mini fridge, high top table, microwave and coffee pot, WiFi and the entire house has a water filtration system and softener!
+
+The space
+Our room will hopefully remind guests of a home away from home! We have worked to make it feel cozy and familiar to all who stay with us!
+
+Guest access
+Private access to room, wifi, covered back porch. On site parking.
+
+During your stay
+We love meeting new people so we are excited for this adventure!
+
+Other things to note
+******The resort fee is for the hotel occupancy taxes that Davidson County requires us to collect.********
+Permit 2019019215
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derrick
+Host User ID: 191735572
+Host Profile URL: https://www.airbnb.com/users/show/191735572
+Host Profile URL Source: public user permalink from passport userId
+We are a professional couple who have decided to take on this new adventure of hosting Airbnb! Down to earth Tennesseans who can't wait to meet new friends!
+Lives in Tennessee, United States
+I like to spend time with my guests
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+405 reviews
+4.96 out of 5 average rating
+8 years of hosting

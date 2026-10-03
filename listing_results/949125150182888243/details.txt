@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/949125150182888243
+Latitude: 36.20725
+Longitude: -86.70387
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Lower level apartment. Private entrance. Covered deck overlooking forest. Quiet residential neighborhood in East Nashville with little traffic. Large bathroom with walk-in shower. Washer and Dryer included. Walking distance to Shelby Bottoms and East Nashville Bars. 15 minutes from BNA & Opryland and 15 minutes from downtown Nashville. Parking spaces in front of the entrance.
+
+The space
+The apartment has a  large living room with couch, chair and 55” TV. Unit has fast wifi.  The bedroom accommodates up to 2 guests with king size bed.
+
+Guest access
+Door from covered deck into the unit with electronic keypad entrance. Code will be sent prior to check-in.
+
+Other things to note
+No parties, please. The unit is the lower level of a larger house. No access between the two.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cameron
+Host User ID: 84277477
+Host Profile URL: https://www.airbnb.com/users/show/84277477
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+3 years hosting
+126 reviews
+4.9 out of 5 average rating
+3 years of hosting

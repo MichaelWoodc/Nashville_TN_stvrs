@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/53063862
+Latitude: 36.23517
+Longitude: -86.73658
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the sights and sounds of Music City from a lovely corner of East Nashville. 
+
+This is a studio apartment in our home with a private entrance with a fully equipped kitchen and private bathroom. 
+
+High Speed internet with cable TV.
+
+Perfectly located,  less than 15min from BNA Airport, Opryland, Lower Broadway,  The Gulch, and Vanderbilt University. 
+
+Enjoy a cocktail out in the gazebo or stroll around our wonderful neighborhood. Or play some 8 ball on our pool table!
+
+The space
+My wife and I (and our dog) live in the upstairs of this home.  The basement apartment is all yours.   
+
+We want you to enjoy yourselves, even-though we are also in the house there are NO quiet times. Have fun! 
+
+Studio apartment with a kitchenette (full size fridge), living area, extremely comfortable queen bed, full bathroom (shower is on the smaller side, see pics) also outdoor gazebo and pool table.
+
+Guest access
+Keyless entry to the outside door and the apartment. Plenty of parking in our driveway 
+
+Our neighborhood is extremely quiet and enjoyable to walk around. You will see more people walking dogs than you will cars.
+
+Other things to note
+Just as a disclaimer, when  in the basement space you may hear us walking around.  Most guests don’t find the noise to be excessive but a couple reviews have mentioned it.  We also don't mind when our guests are listening to music or playing pool at night.  We want you to feel at home in your space and enjoy your time in Nashville!
+
+Also the shower is on the smaller size. Think cruise ship shower. Plenty of height but it may feel a bit cramped.  Shower head is removable and there is great water pressure.  Again, a few folks have noted this in their reviews, we just want to be upfront about it.   See the pics for more detail.  If you have questions don't hesitate to ask.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 96564342
+Host Profile URL: https://www.airbnb.com/users/show/96564342
+Host Profile URL Source: public user permalink from passport userId
+Civil Engineer and musician from Nashville.  I am a non-smoker with the exception of the occasional cigar. Enjoy traveling and exploring new places, hearing live music, sampling local cuisine.
+My work: TDOT
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+215 reviews
+4.89 out of 5 average rating
+5 years of hosting

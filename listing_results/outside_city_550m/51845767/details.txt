@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/51845767
+Latitude: 35.96438
+Longitude: -86.5729
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make your vacation feel like home in this beautiful, spacious new private basement suite! Conveniently located between Nashville and Murfreesboro, allowing you to easily shop or see the sights! Private entrance w/free parking, 2 minute drive to the interstate, and 4-minute drive to 50+ restaurants & shopping attractions. Tons of amenities-coffee & tea, snacks, kitchenette, microwave, fridge, and an open floor plan w/ living & dining rooms, office area, bedroom, sitting area, shuffleboard & more!
+
+The space
+A newly constructed basement suite, designed with your comfort in mind! New floors, furniture and appliances, and brand new tiled shower. Two LCD TV's loaded with Netflix, Hulu, Apple TV+, Disney+, YouTube TV and more, so that you can enjoy all your favorite streaming services and programming. Enjoy a game of shuffleboard or shuffleboard bowling with your family or friends. Thoughtful modern touches everywhere!
+
+Guest access
+Free parking on premises, with a private, lighted entrance to the guest suite. Please note, guests will not have access to then entire residential home, just the guest basement suite designated for AirBnB guests, which includes a spacious living room, dining room, kitchenette, bedroom, office area, and bathroom.
+
+Only a 2-minute drive to the interstate, and a 4-minute drive to over 50 sit-down and fast food restaurants, plus Target, grocery stores (Publix & Kroger), a movie theater, and dozens of other retailers! Conveniently located, featuring a short 23-minute drive to downtown Broadway in Nashville and a short 21-minute drive to Murfreesboro, one of the fastest growing cities in America, where you can enjoy tons of shopping and dining. Whether you are here for work or play, it allows you to explore the best of both worlds!
+
+Other things to note
+A small neighborhood park is in walking distance across the street for your kids or small loved ones to play.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin
+Host User ID: 216297588
+Host Profile URL: https://www.airbnb.com/users/show/216297588
+Host Profile URL Source: public user permalink from passport userId
+An intelligent young professional with a warm smile and a welcoming spirit! I travel for business and for leisure, and I've been privileged to visit over 30 states and counting thus far! I'm always respectful and courteous of my surroundings, while being mindful and deliberate in making sure that things are left how I found them. I am looking forward to meeting you, and I'm truly appreciative of you letting me stay in your home!
+Born in the 80s
+My work: Business Development
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+159 reviews
+4.92 out of 5 average rating
+5 years of hosting

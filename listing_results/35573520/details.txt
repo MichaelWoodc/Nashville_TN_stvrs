@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/35573520
+Latitude: 36.18181
+Longitude: -86.71732
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home in the vibrant and trendy East Nashville! Nestled in a quiet, residential neighborhood, with easy access to the city’s best attractions, dining spots, and coffee shops.
+
+The studio features a private entrance, and private patio, complete with outdoor seating for a relaxing moment.
+
+This studio is the ideal base to explore Nashville while enjoying your own space and comfort.
+
+The space
+The decor is inspired by the wild west meets modern boho vibes. Your room has a unique coded entry for security, and wifi and parking are included. Enhanced cleaning between guests help ensure your stay will be healthy and safe. 
+
+Additional amenities include keurig machine with pods, electronic tea kettle, mini fridge stocked with water, snacks and other local treats, steamer, blowdryer, basic toiletries, tv and fire-stick, and private patio with outdoor seating.
+
+Guest access
+You’ll receive a unique, personal check-in code on the day of your arrival. This code will give you access to the keypad for easy entry into the home. Please ensure you have the code handy when you arrive!
+
+We also offer parking for one vehicle on the property. If you have additional vehicles or need to confirm parking for multiple cars, please reach out to us directly beforehand to ensure we can accommodate your needs.
+
+If you have any questions or need assistance during your stay, don’t hesitate to get in touch!
+
+Other things to note
+Welcome to our warm and inviting home! You'll be staying in a private room in a shared space with our family of four. We have a toddler who loves to play and a new baby, so please keep in mind that there may be typical household noise, including sounds from little feet running around, giggles, and occasional baby cries.
+
+If you're looking for a tranquil, quiet environment, this might not be the best fit. However, if you're okay with the buzz of family life and looking to experience a welcoming, lively atmosphere, we'd love to have you stay!
+
+Feel free to reach out if you have any questions about the space or the house dynamic. We're happy to share our home with you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenelle
+Host User ID: 43526389
+Host Profile URL: https://www.airbnb.com/users/show/43526389
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+625 reviews
+4.95 out of 5 average rating
+6 years of hosting

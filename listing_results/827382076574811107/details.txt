@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/827382076574811107
+Title: 2 Homes! 4 bd/4 ba! 10 min ->DT! parking!
+Latitude: 36.20873
+Longitude: -86.76669
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 14
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*NO LOUD GATHERINGS/PARTIES/DISTURBING NEIGHBORS, no locals*
+
+This listing includes TWO of our favorite townhomes! Everything in this listing represents both together including price, beds, etc. 
+
+They’re  two side-by-side, townhouses in a gated community with parking.  
+One house is modern minimalist, the other Nashville farmhouse, both equipped with a full kitchen, plush beds, hotel amenities, smart TVs and ample space for your group!
+
+**Find Stay Wandering Nash Edition online to book with us!
+
+The space
+Chic Townhome->
+-King Master bedroom w/ensuite bath on 2nd floor
+-Guest bedroom w/ 2 Full Size Beds + bathroom in hall on 3rd floor
+-Main Floor has living area, full kitchen + half bath
+-3rd floor has a balcony + floor mattress
+
+Farmhouse Townhome->
+-King Master bedroom w/ensuite bath on 2nd floor
+-Guest bedroom w/ 2 Full Size Beds + bathroom in hall on 3rd floor
+-Main Floor has living area, full kitchen + half bath
+-3rd floor has a balcony + floor mattress
+
+*4 parking spaces allowed*
+
+Other things to note
+**WE DO HOST LOCALS, NO EXCEPTION, WE HAVE SOFTWARE THAT CHECKS + YOU WILL BE CANCELLED, REFUND PENDING**
+
+**PLEASE READ THE RENTAL AGREEMENT- ABSOLUTELY NO LOUD GATHERINGS OR PARTIES OF ANY KIND. DISTURBING THE NEIGHBORS OR NOT ABIDING BY THE RULES WILL RESULTS IN LEGAL ACTION, EVICTION, FINES**
+
+We want to be able to host those coming to enjoy our city and make memories. We cannot do this with those who have malicious intentions booking. Rentals are not for college parties or locals having parties.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stay Wandering
+Host User ID: 420371928
+Host Profile URL: https://www.airbnb.com/users/show/420371928
+Host Profile URL Source: public user permalink from passport userId
+For the Wander's in the World..
+
+We love bringing these boutique, chic, central, spacious listings to you! We're known for our 3-4 bedroom townhomes nestled on the city lines. Perfect for families, friends trips, bachlorette parties + your home away from home experience!
+
+Enjoy Music City and come home to our townhomes to rest, gather + make memories!
+Lives in Nashville, Tennessee
+Response rate: 94%
+Responds within an hour
+5 years hosting
+2876 reviews
+4.71 out of 5 average rating
+5 years of hosting

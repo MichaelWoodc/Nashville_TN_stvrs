@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1537815591047740629
+Latitude: 36.15375
+Longitude: -86.79949
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+*Ask about our direct booking discount today!
+
+Welcome to The Nash Luxe, your sophisticated home base in the heart of Nashville. This stylish apartment offers a perfect blend of luxury and comfort — ideal for travelers who want upscale amenities with quick access to Music Row, The Gulch, and downtown’s best dining and entertainment.
+
+Located in Midtown:
+Broadway & Downtown (7 min)
+Vanderbilt University & Hospitals (3 min)
+Enjoy boutique restaurants, rooftop bars, and local music venues
+
+Other things to note
+Free parking!! 
+The pool is seasonal and the first day of availability may vary.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Colten
+Host User ID: 706201245
+Host Profile URL: https://www.airbnb.com/users/show/706201245
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+142 reviews
+4.94 out of 5 average rating
+1 year of hosting

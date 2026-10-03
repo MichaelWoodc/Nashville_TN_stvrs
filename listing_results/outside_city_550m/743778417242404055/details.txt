@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/743778417242404055
+Latitude: 36.34827
+Longitude: -86.59521
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Creekview!  
+
+Enjoy this private guest suite conveniently located 15 miles from Nashville and near several local shopping districts, historic sights, and natural wonders. 
+
+This farmhouse-style suite includes free parking, full kitchen, queen-sized bed, roomy entertainment area, flat screen television, and spacious spa shower.  Outside you can also enjoy our pool (open late May-September), BBQ grill, alfresco dining area, and vast lawn leading to our signature creekside views.
+
+The space
+This clean, spacious unit is decorated in a cozy farmhouse style with many touches centered around our home state of Tennessee.
+
+Guest access
+This unit includes a private entry, bedroom, bathroom, full kitchen, and living room. Outside the guests can enjoy a pool (open seasonally), outdoor dining area, BBQ grill, fire pit, and access to a relaxing creek. Pets under 25lbs allowed with pet fee.
+
+Other things to note
+Pet fee is $66 with a maximum of 2 pets that must be less than 25 lbs. ONLY one (1) pet over 25 lbs. is allowed and not to exceed 75 lbs. 
+Pet bathroom area is outside the gate anywhere in the backyard. No walking pets in pool area. No pets in pool.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gary
+Host User ID: 484701228
+Host Profile URL: https://www.airbnb.com/users/show/484701228
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+59 reviews
+4.93 out of 5 average rating
+4 years of hosting

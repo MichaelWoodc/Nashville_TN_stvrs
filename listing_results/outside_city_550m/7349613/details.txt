@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/7349613
+Latitude: 35.96272
+Longitude: -86.95887
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private bedroom/bath in host’s home, just outside Historic Franklin city  
+ limits.  Perfect location for tourists, craftspeople attending fairs, close to families.  Comfy, quiet, peaceful.  10 min to Franklin downtown.  Note:  No food in bedroom.  *2 private rooms available, see separate listings.  *Uber not reliable  5 mi from town.  Best to have a car  here.   Max.  2 adults only.
+
+Leave shoes inside door.
+
+The space
+Private room/bath in  in host’s home, wooded area just outside Historic Franklin city limits.  Very quiet and peaceful.  If staying a week or more, may use washer/dryer and kitchen.WE LIVE IN THE HOME.
+*No cooking facilities for stays less than a week.  No food in bedroom.  May use sunroom for sitting/dining.
+
+Guest access
+Guests have access to back deck.  Lots of nice areas to walk in this hilly, wooded subdivision.  2 miles to grocery and restaurants at Westhaven.  5 miles to Franklin city center.  Parking
+as directed on lawn  or to right of driveway or parallel to rock retaining wall.  Sunroom for dining.  No food in room.
+
+During your stay
+Hosts will be available to help with information regarding Historic Franklin sites: Carnton Plantation, Carter Home, Lotz Home, Battlefield of Franklin, etc.
+
+Other things to note
+Home is set on wooded hillside with *Please take all trash outside to garbage can at check out.  Check out between 10 am.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lise
+Host User ID: 35300462
+Host Profile URL: https://www.airbnb.com/users/show/35300462
+Host Profile URL Source: public user permalink from passport userId
+I am an artist and arts educator.  I enjoy nature, the arts, music, books, have traveled to Italy, Greece, Switzerland, England, Scotland, Mexico, France, Germany, Netherlands, Croatia, Jamaica, and Turkey.  .  We have been married for 56 years.  We enjoy hosting, gardening, and traveling.  We love movies and good food.  We have three grown children and four grandchildren.  
+
+*We have both been vaccinated for Covid 19.
+Where I went to school: Univ of Wisconsin; Univ of Illinois
+My work: Retired Educator
+Fun fact: Love art and travel
+Speaks English
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within a few hours
+11 years hosting
+102 reviews
+4.87 out of 5 average rating
+11 years of hosting

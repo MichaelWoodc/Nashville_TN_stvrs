@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/679719991119397001
+Latitude: 36.20173
+Longitude: -86.76577
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Bougie Broadway! Located in highly desired urban style neighborhood of East Nashville. Walking distance to tons of restaurants, coffee shops, breweries, entertainment options, and only 8 minutes from broadway! After a day of jam packed exploring come back and relax in your 3 story escape. 4 beautifully designed bedrooms each with the privacy of their own bathroom. A fully upgraded kitchen stocked with essentials. Plus, a top story balcony with lounge area.
+
+The space
+Bed Setup:
+Primary Bedroom (2nd level): King bed with detached bathroom
+2nd bedroom (3rd level): Queen bed with en-suite bathroom
+3rd bedroom (3rd level): 2 Queen beds with en-suite bathroom
+4th bedroom (1st level): Queen bed with en-suite bathroom
+
+Rooftop Balcony (3rd level) 
+Private balcony with outdoor lounge area and selfie wall. 
+
+2nd bedroom (3rd level)
+Queen bed with smart TV and en-suite bathroom. Bathroom includes dual vanity and shower/tub combo.
+
+3rd bedroom (3rd level)
+2 Queen beds with smart TV and en-suite bathroom. Bathroom includes dual vanity and stand up tile shower. 
+
+Master bedroom (2nd level)
+King bed with smart TV and detached bathroom. Bathroom has dual vanity with shower/tub combo.
+
+Kitchen (2nd level)
+Fully equipped kitchen stocked with basic cooking essentials and complete with breakfast bar seating.
+
+Living Area (2nd level)
+Naturally bright and spacious living area complete with designer furnishings and large smart TV. 
+
+4th bedroom (1st level) 
+Queen bed with smart TV/ desk area and en-suite bathroom. Bathroom includes shower/tub combo.
+
+Washer/Dryer (1st level) 
+Stacked washer and dryer are located in the 4th bedroom, in utility closet. 
+
+Garage (1st level)
+2 car garage
+
+Guest access
+Self Access with door code.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carey
+Host User ID: 362998947
+Host Profile URL: https://www.airbnb.com/users/show/362998947
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+244 reviews
+4.95 out of 5 average rating
+6 years of hosting

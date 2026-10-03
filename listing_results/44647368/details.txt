@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/44647368
+Latitude: 36.10523
+Longitude: -86.73968
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+3 bedrooms, 1 bathroom, full kitchen with large dining table, 2 living rooms, deck, fenced yard, fire pit. Convenient to downtown. Offers space and privacy with separate areas for everyone.
+
+The space
+2 bedrooms down, 1 bedroom upstairs with 2nd living room and work area upstairs. Eat in kitchen, wraparound deck connects to fenced backyard.
+
+My house has a small apartment attached on left side. We use it as an office, it's quiet, and its parking and back yard are completely separate from your place.
+
+Guest access
+House, driveway, front yard, fenced in back yard
+
+Other things to note
+** I am in compliance with the law of Metropolitan Government of Nashville and Davidson County regarding short term rentals, Permit No on file.
+
+Occupancy is limited to guests listed in the reservation. Extra people, parties, or loud music will result in immediate cancellation of booking. We have exterior security cameras at the front and sides of the house.
+
+If you bring pets a fee of $100 per pet is due upon booking and requires prior approval.
+
+Registration Details
+201535196
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deidre
+Host User ID: 21895643
+Host Profile URL: https://www.airbnb.com/users/show/21895643
+Host Profile URL Source: public user permalink from passport userId
+I'm a traveler, I'm curious about people, and I enjoy a good conversation where I get to learn something new!
+Where I went to school: Vandy
+My work: Filmmaking
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+1707 reviews
+4.82 out of 5 average rating
+11 years of hosting

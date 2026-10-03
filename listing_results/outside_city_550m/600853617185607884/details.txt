@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/600853617185607884
+Latitude: 35.96941
+Longitude: -86.69348
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new RV sleeps 8 comfortably it’s has stove, refrigerator, bathroom, shower, master bed and would take places so you reconnect with nature on this unforgettable house with wheels that can take you anywhere you want.
+
+The space
+Take it anywhere you want.
+Delivery is available for additional charge.
+
+Other things to note
+Delivery available message host for details on additional charge
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ana Caroline
+Host User ID: 453390331
+Host Profile URL: https://www.airbnb.com/users/show/453390331
+Host Profile URL Source: public user permalink from passport userId
+Im Carol Silveira, married to Paulo, together we have 3 kids. We love God above everything and our family happiness is always priority.
+Born in the 80s
+Where I went to school: Lipscomb University
+4 years hosting

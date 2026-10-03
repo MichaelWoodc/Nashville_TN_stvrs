@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/768374369216874694
+Latitude: 36.2937
+Longitude: -86.6144
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique and tranquil getaway. We are on a small quiet Peninsula North of Nashville. Enjoy the beautiful greenway that borders the water where you can see lots of wildlife. Several local waterfront restaurants are nearby as well. With only a 20 minute drive to Nashville, you have great access to The Music City.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura
+Host User ID: 489149832
+Host Profile URL: https://www.airbnb.com/users/show/489149832
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Knoxville, TN
+My work: Retired
+I spend too much time: Scrolling
+Most useless skill: Coloring
+Pets: One well loved minigoldendoodle
+2 years hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/46734335
+Latitude: 36.11552
+Longitude: -86.46059
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You'll love the warm, cozy atmosphere just minutes away from fishing, state parks and shopping.  This 2 Bed, 1 bathroom home is only minutes from the Providence Shopping Center,  5 minutes from Percy Priest Lake, 15 minutes from BNA Airport and only 30 minutes from the Nashville city scene.  No matter what you want to dive into, this little house is close to everything.  So relax with your favorite cup of coffee... Stay a while knowing your next adventure awaits.
+
+The space
+It’s quaint and fun!  Whether it be a table covering selected from handmade fabric given from a tribe in Kenya, Africa or hand painted artwork created by the owner herself, this little house has personal touches all around!  Be on the lookout!  In the summer, there maybe a garden for guest to enjoy!
+
+Guest access
+You have access to an entire house with all the amenities!  You can come and go as you please with your own personalized door code.
+
+Other things to note
+We have small children!  We are willing to offer special accommodations for families traveling with small children.  If you need help with a Pack-n-Play, High Chair, etc., just let us know and we will see what we can do to help!  We understand the complications of traveling with little ones!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leah
+Host User ID: 377706016
+Host Profile URL: https://www.airbnb.com/users/show/377706016
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: University of Alabama
+My work: Stay-at-home Mom
+6 years hosting
+86 reviews
+4.84 out of 5 average rating
+6 years of hosting

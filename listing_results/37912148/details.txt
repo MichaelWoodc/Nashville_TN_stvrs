@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/37912148
+Latitude: 36.29031
+Longitude: -86.78839
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the charm and tranquility of the countryside in our home, conveniently located just 12 miles from downtown Broadway, 13 miles from Opry Mills Mall, 17 miles from the Airport, 10 miles from Nissan Stadium and 14 miles from Geodis Stadium. The privacy and serene ambiance of this property will allow you to escape the stresses of daily life. This "Home Away From Home" is ideal for large families and groups of friends. Reserve your stay today! Host stay on property separate from Airbnb
+
+The space
+This is a 3,700 sq ft. open floor plan with spacious rooms. One of the three bedrooms upstairs has it's own full bath. The theater room is perfect for watching your favorite movies with the entire family! The kitchen has two ovens and overlooks the spacious living room and sun room so that you can interact with the guests while fixing your favorite meals! 
+Before you head out to the large two-level deck overlooking the pool, stop by the bar and fix your favorite cocktail! 
+We look forward to the opportunity to share our home with you!
+
+Guest access
+Private pool (not heated), open from Memorial Day weekend through October 1st. The 8 person spa is available year round. Quiet neighborhood with ample street and driveway parking available.
+
+Other things to note
+1. No parties or large gatherings exceeding the number of guests indicated in your reservation or maximum 12 persons are allowed. Any guests exceeding the limit of 12 will be asked to leave immediately, and if they fail to comply, all guests will be required to vacate the property, forfeiting any refund for the remainder of the stay. This rule is strictly enforced. The host resides on the property, separate from the Airbnb. 
+2. No smoking inside the home
+3. Promptly report any damages or broken items. 
+4. Towels and wash cloths are located underneath the sinks in each bathroom. 
+5. Sleeping on the furniture is not permitted. Air mattresses are available in the upstairs hall closet.
+6. Please place the dirty towels in the hamper located in the laundry room. There is no need to strip beds, as the cleaning crew will handle the bedding.
+7. Loud music, noises, or outdoor activities are not permitted after 10:30 p.m.
+8. Please refrain from obstructing the exterior security cameras. The camera on the back patio is positioned to monitor pond and storage building, with a restricted view of the upper deck and area to ensure your privacy.
+
+POOL AREA:
+1. Glass containers/bottles are not allowed by the pool
+2. Children must be accompanied by an adult at all times. 
+3. Please bring your own pool towels, pool toys, life jackets and floatation devices. 
+4. Swim at your own risk!
+
+Grill is available, guest must supply charcoal and lighter fluid, there will be propane available for guest to use.
+Postmates and Uber Eats delivers to this property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Issac
+Host User ID: 88791366
+Host Profile URL: https://www.airbnb.com/users/show/88791366
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+189 reviews
+4.97 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/39551424
+Latitude: 36.19164
+Longitude: -86.75763
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Situated in hip and funky East Nashville, in the historic Cleveland Park neighborhood, Who’s Your DADU? (“Detached Accessory Dwelling Unit”) promises prime location, style and comfort. Less than a ten-minute ride share to the downtown area and the famous honky-tonks of Broadway, minutes to Nissan Stadium and Five Points. In a city famous for its murals you won’t have to trek all over Nashville, you’ll find your very own in the living room.
+
+The space
+Who's Your DADU? has a private entrance with keypad lock and one parking space, wifi, two smart TVs, coffee, tea and snacks. Enjoy drinks or a meal at the custom made bar from Nashville’s own Woodstock Vintage Lumber and gaze upon the skyline mural by local artist Joshua Benson. Adjust your privacy and lighting preferences with the custom made plantation shutters. There is one bedroom with a queen size bed, a queen size sofa sleeper and one full bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christian
+Host User ID: 31719780
+Host Profile URL: https://www.airbnb.com/users/show/31719780
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+593 reviews
+4.97 out of 5 average rating
+10 years of hosting

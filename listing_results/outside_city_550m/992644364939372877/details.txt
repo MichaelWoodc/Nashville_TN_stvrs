@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/992644364939372877
+Latitude: 36.38387
+Longitude: -86.49363
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Forget your worries in this spacious and serene space. Relax and feel at home in my townhouse.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Noemi
+Host User ID: 110021
+Host Profile URL: https://www.airbnb.com/users/show/110021
+Host Profile URL Source: public user permalink from passport userId
+I'm a UX designer and I love travelling and meeting new people.  I have lived overseas the last 8 years and have managed to make friends all over the world.
+My work: UX Designer
+Fun fact: I lived in New Zealand for over 8 years.
+Response rate: 100%
+Responds within an hour
+10 years hosting
+116 reviews
+4.96 out of 5 average rating
+10 years of hosting

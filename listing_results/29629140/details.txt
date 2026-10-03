@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/29629140
+Latitude: 36.07799
+Longitude: -86.93096
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Guest room in an exceptional home with artistic decor and peaceful well- maintained grounds. Location is ideal for business or sightseeing. Kitchen and living room shared w/ owners, bath occasionally shared w/ another at times.  In-room: Mini Fridge w/filtered water pitcher and dishes. TV w/ Roku unit and guest account. Hosts live on the property and the bedrooms are all in one hall.  Parking on the top of our driveway as well as street parking is available.
+
+The space
+HIlltop wooded neighborhood just within Nashville city limits, 1.3 miles from I-40, just 20 minutes from the state capital and Broadway, 18  minutes from Maryland Farms business park. and 20 minutes from Cool Springs.
+
+Guest access
+Kitchen
+Living Room
+Deck and Backyard
+Printer
+
+During your stay
+Privacy is respected.  Up to 2 Airbnb single rooms may be rented at one time.
+
+Other things to note
+We have 3 cats, the cat sisters who are awfully friendly but won't get their feelings hurt if you don't want to scratch their heads!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendy
+Host User ID: 214721166
+Host Profile URL: https://www.airbnb.com/users/show/214721166
+Host Profile URL Source: public user permalink from passport userId
+I'm a 4th generation Chicagoan and  professional woman who found herself in  Nashville TN.   Ive been a licensed RN  for 30+ years and work now as a healthcare executive. I love listening to live music and practicing yoga and will often do both I'm traveling!  
+ My husband is my co-host (and our property florist) and we travel using Airbnb too.   I hope traveling makes me better host and vice versa.  Everyone is my neighbor
+Where I went to school: Valparaiso and U of Denver
+My work: health care executive
+Fun fact: I've seen over 50 Grateful Dead shows.
+For guests, I always: have snacks and local recommemdations.
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+382 reviews
+4.97 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/53275557
+Latitude: 36.2147
+Longitude: -86.58187
+rental_type: Private room
+property_type: OTHER
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Wilson County, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Reconnect with nature at this unforgettable escape.   808 Oak Leaf Drive, Old Hickory 37138…Shutes Branch, on Old Hickory Lake, very close by, a full kitchen and bathroom, with Keurig coffee maker, Griddle, Cuisinart blender, and indoor and outdoor fireplace/fire pit, very cozy!!!  Sauna for your enjoyment…!!!  Free parking on private driveway :)
+
+Guest access
+To the house 🏡 and their bedroom :)
+
+During your stay
+I’m available most ALLLLLL the time to help out with anything needed!!!  :)
+
+Other things to note
+We’ve got a brand new SunRay 3 person Sauna for your enjoyment and health!!!  :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 333652296
+Host Profile URL: https://www.airbnb.com/users/show/333652296
+Host Profile URL Source: public user permalink from passport userId
+I’m a nature photographer and enjoy a natural environment to share with my guests!!!
+Born in the 50s
+Where I went to school: Auburn University & Nossi College of Art
+My work: Nature Photography
+For guests, I always: The kitchen is fully stocked !!!
+I’m happy to spend time with my guests or give them space
+5 years hosting
+52 reviews
+4.4 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/830535879485252484
+Title: East Nashville Private Suite near Downtown
+Latitude: 36.1727
+Longitude: -86.7221
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully equipped guest suite in a quaint neighborhood of East Nashville, minutes away from Downtown Broadway and the Titian's Stadium. This modern space provides all the comforts of home with a full kitchen, large bathroom, private bedroom, and additional queen pullout bed.  
+
+After a busy day of sightseeing relax at this charming space or take a pleasant walk in the expansive nature preserve bordering the neighborhood.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Clay
+Host User ID: 124610680
+Host Profile URL: https://www.airbnb.com/users/show/124610680
+Host Profile URL Source: public user permalink from passport userId
+Originally from Alabama. Currently living in  East Nashville. Traveling is one of my wife’s and I’s favorite experiences in life outside of Family. We love visiting new places and meeting great people. We also have our own AirBNB and enjoy getting to host guest and play a part in their Nashville experience.
+My work: Civil Engineer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+31 reviews
+4.81 out of 5 average rating
+4 years of hosting

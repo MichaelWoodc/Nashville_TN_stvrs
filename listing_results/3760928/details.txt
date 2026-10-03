@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/3760928
+Latitude: 36.19183
+Longitude: -86.7427
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+113 Year Old Victorian Transitional in Historic East Nashville with Private 
+En-Suite bathroom. Just 2.5 Miles from Lower Broadway's Great Music and 1 mile to '5-Points' Hip Restaurant scene. Walk-able to neighborhood Bars, Restaurants and Shops. Enjoy a large Private room complete with an En-Suite (in room) Private Bathroom.
+
+The space
+This Master Suite has a Queen Bed, Private en-suite bathroom with Claw foot tub and full amenities, (soap, towels, hairdryer and shampoo).   Private access from your room to the screened back porch where you can relax. Two Closets with shelves give ample space for storage.  The Original Coal Fireplace, wood floors, 10ft ceilings and floor to ceiling window, complete the historic charm of this space.
+
+Guest access
+Guests will have access to the Living Room, Laundry Room, Back Deck and screened Porch, Front Porch, Backyard and Fire Pit. Off Street Parking for two cars. The Kitchen is available for Coffee with microwave and refrigerator use. But please no cooking. The upstairs is our private space and is off limits.
+
+During your stay
+It is our home and we are glad to share with you.  If you would like to join us that will be great or enjoy your space without bother. We respect your privacy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angela
+Host User ID: 19112532
+Host Profile URL: https://www.airbnb.com/users/show/19112532
+Host Profile URL Source: public user permalink from passport userId
+My husband and I are both professional Chefs.  We love to travel, and beaches are our best destinations.  Music and Dancing are at the top of our To-Do list.  We are leisure cyclist and frequent the gym daily.  Our pets are our children but we do have adult kids. If we are available during your visit, you will be welcome to join us in the kitchen or at the BBQ.  We love conversation and you can join in on the front porch.
+Born in the 60s
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+418 reviews
+4.96 out of 5 average rating
+12 years of hosting

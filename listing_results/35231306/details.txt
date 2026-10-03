@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/35231306
+Latitude: 36.2707
+Longitude: -86.83222
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A cozy creekside getaway on the north side of Music City! A perfect place to relax after a busy day of sightseeing...or a long night on lower Broadway. Begin the day with a morning cup of coffee on the creekside deck and see a variety of birds and other wildlife. And end the day with a glass of wine while gazing at the stars in a pristine location away from all the city lights. Whether you're a morning bird or a night owl, you'll find peace and tranquility here at Creekside.
+
+15 mins to downtown
+
+The space
+Creekside is a cozy room with a private outdoor entrance for your convenience. Your room includes plush bedding, a rattan breakfast dining set, coffee bar, microwave, mini-fridge and private bathroom. For entertainment, you'll find a smart tv as well as a variety of board games. Guests are responsible for logging in/out of streaming services.
+Creekside includes one queen bed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 32854475
+Host Profile URL: https://www.airbnb.com/users/show/32854475
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm a human being named Ashley. I've worked hard and saved for a long time to buy my dream home and would be so happy to host you! My goal is to provide my guests with a super clean, affordable, and comfortable place to stay while exploring Music City. Please remember that I am a human being and not a hotel chain. Like you, I have a full time job. So let's please treat one another kindly. I will do everything I can to give you a great and comfortable stay. All I ask in return is that you communicate with me politely. Peace and love, my friends. Peace and love.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+385 reviews
+4.89 out of 5 average rating
+7 years of hosting

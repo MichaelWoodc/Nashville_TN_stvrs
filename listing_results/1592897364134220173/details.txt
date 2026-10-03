@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1592897364134220173
+Latitude: 36.14353
+Longitude: -86.81873
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Quiet West End aparthotel in the heart of Nashville, minutes from Vanderbilt University, Vanderbilt Medical Center, Centennial Park, FirstBank Stadium, Midtown, Downtown, and Broadway. Ideal for travel nurses, medical professionals, corporate housing, and extended stays. Features include a fully equipped kitchen, living room with smart TV, primary suite with en-suite bath, dedicated workspace, in-unit washer/dryer, and secure gated parking.
+
+The space
+The home features a fully equipped kitchen, a cozy living area, a spacious bedroom, and a private bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Anna
+Host User ID: 35246528
+Host Profile URL: https://www.airbnb.com/users/show/35246528
+Host Profile URL Source: public user permalink from passport userId
+I have lived in Nashville for 6 years and I am super familiar with different parts of the city.  Happy to help with recommendations for dining or activities!
+My work: Realtor
+Fun fact: I love traveling & animals!
+Response rate: 100%
+Responds within an hour
+Superhost
+8 months hosting
+19 reviews
+4.95 out of 5 average rating
+8 months of hosting

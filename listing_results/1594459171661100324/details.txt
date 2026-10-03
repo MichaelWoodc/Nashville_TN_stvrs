@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1594459171661100324
+Latitude: 36.1758
+Longitude: -86.80422
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious 5-bedroom Nashville retreat in vibrant Germantown, comfortably sleeping 10. Features a rooftop deck with city views, fully equipped kitchen, dedicated workspace, free parking, and EV charger. Just 1.5 miles from Broadway, offering modern style for your Music City adventure.🚙 Pet friendly 🐾 Perfect for groups!
+
+The space
+Step into an inviting, open-concept living area where contemporary design meets ultimate comfort. The space is characterized by clean lines, stylish furnishings, and abundant natural light, creating a warm and welcoming atmosphere for you and your guests.
+
+Sleeping Arrangements (Comfortably sleeps 10 guests):
+   Bedroom 1: Queen bed
+   Bedroom 2: Queen bed
+   Bedroom 3: Queen bed
+   Bedroom 4: Full bed
+Bedroom 5 (Private Mother-in-Law Suite): Two Twin beds. This suite offers added privacy and convenience with its own kitchenette.
+
+Kitchen & Dining:
+The main kitchen is fully equipped for all your culinary needs, whether you're preparing a quick breakfast or a gourmet dinner. Enjoy a dedicated coffee bar and a cocktail set, perfect for crafting your favorite beverages.
+
+Work & Study:
+For those needing to stay connected or work remotely, a dedicated office area is available. It features a monitor and fast Wi-Fi, providing a productive and comfortable environment during your stay.
+
+Outdoor Living:
+Experience breathtaking city views from the expansive rooftop deck, especially magical at sunset. A private balcony connected to the master bedroom offers another serene outdoor escape. Laundry & Fitness: An in-unit washer and dryer are provided, plus exercise equipment for keeping up your routine.
+
+Guest access
+Guests will enjoy exclusive and private access to the entire home and all its amenities.
+   Private Access: The entire house is yours to enjoy.
+   Seamless Arrival: Smart lock self-check-in ensures a secure and easy entry.
+   Parking: Five dedicated, free parking spots are available, a rare convenience so close to downtown Nashville.
+   EV Charging: A dedicated EV charger is available for your use.
+
+Other things to note
+Detailed self-check-in instructions, including your unique smart lock code, will be provided prior to your arrival for a smooth start to your vacation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tasha
+Host User ID: 65937868
+Host Profile URL: https://www.airbnb.com/users/show/65937868
+Host Profile URL Source: public user permalink from passport userId
+I'm Tasha! I'm 27,  I've been in the Nashville area for about 17 years, and I love it here! I've traveled A LOT both domestic and international and Nashville is still in my top 3 favorite US cities. I'm in Real Estate! I love working out everyday. I have a sweet little Chihoodle dog, named Charlie. He's 2! My passions are travel, fitness, real estate, and psychology!
+Where I went to school: MTSU
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+263 reviews
+4.84 out of 5 average rating
+5 years of hosting

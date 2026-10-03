@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/2181743
+Latitude: 36.1709
+Longitude: -86.7393
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Are you looking for a great place to stay in Nashville? Treat yourself to this 3 BR/2 bath art deco home. Located in the heart of the hip East Nashville, walkable to the 5-Points retail district, Eastland Avenue and Shelby Bottoms Greenway and less than a 10-minute drive to Downtown attractions.  Upon booking, guests will receive my personal "Insider's Guide" to Nashville.  Whether here for work or play, I want you to feel at home.  Let me be the first to say, "Welcome to Nashville!"
+
+The space
+Comfortable, clean, and cozy, the home is in a prime location for guests to enjoy strolling to Barista Parlor, Sweet 16th Bakery, Three Crow Bar, Marche, Bar308 and many other indie shops in the area. Enjoy quick access to Downtown by bus, car, or bike (heck, even walk there - it's only 2 miles!), and it's a beautiful neighborhood walk. We feel this space and location will provide you with that bucolic Nashville experience.
+
+We want you to enjoy your stay and feel at home. Guests have all of the modern conveniences a home has to offer.  Enjoy the newly renovated kitchen and bath.  The kitchen is stocked with essential cookware and utensils for guests to cook and dine if they wish.  Snacks and coffee are provided.  Guests have access to laundry.  WI-FI and cable tv are provided.  Comfortably sleeps 2-8 people (two king beds, two twin beds, full size sleeper sofa) and can accommodate 2 other guests using comfortable roll-away beds.
+
+Guest access
+Check-in process is minimal with a keyless entry. Access instructions will be sent to at 11 a.m. day of arrival via your Airbnb inbox.
+
+Other things to note
+The fireplace isn’t operational. 
+
+I know you will enjoy your stay here near Five Points. Whether here for work or pleasure, you will enjoy the comforts, accommodations, and location of this historic home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

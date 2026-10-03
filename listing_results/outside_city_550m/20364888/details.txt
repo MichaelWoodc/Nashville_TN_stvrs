@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/20364888
+Latitude: 35.9732
+Longitude: -87.0187
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 7
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1910 Farmhouse, part of the original homestead. Later incorporated into a 95 acre gorgeous historic estate. Attached via centrally shared kitchen/livingroom wing to a rustic 1820 log cabin where the owner lives with his wife.   The kitchen, dining room, and courtyard are shared but may be secured for your private function. 
+1st floor master bedroom (one queen beds and one single bed) and library (one queen) sharing a bathroom, and two 2nd fl bedrooms (each with a queen bed) share a 2nd bath.
+
+The space
+Gorgeous wood in gorgeous rural landscape. Part of the 2000 acre pristine nature conservation of Big East Fork. Dining and living room are shared with owners. Farmhouse opens to a floral courtyard. Horse barn in back. Many hiking trails nearby. Covered bridge crosses babbling creek.
+
+Guest access
+Share kitchen and dining room with owner of the property.
+Guests are welcome to browse about the farm, stable, creeks and hiking trails.
+Big East Fork Retreat is two miles upstream.
+
+Other things to note
+Cellular wifi hotspot is slower than city speeds.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

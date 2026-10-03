@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/776907122868716674
+Latitude: 36.0369
+Longitude: -86.54758
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious & Cozy Home – Perfect for Families & Groups!
+- Enjoy a 120” Laser Projector for movie nights and fun games like foosball & wall games.
+- Brand-new Stove, Washer/Dryer & Dishwasher
+- 3 Bedrooms, 2 Baths, 6 Beds, 2 Couches
+- Keyless Entry
+- Fully Equipped Kitchen
+- Local Market Nearby for Food & Drinks
+
+- Sleeping Arrangements:
+- Master – King Bed
+- Bedroom 2 – Queen Bed
+- Bunk Room – Full-over-Full & Twin-over-Twin Bunks
+- Bonus Room – Large Couch
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mimi
+Host User ID: 101516023
+Host Profile URL: https://www.airbnb.com/users/show/101516023
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+282 reviews
+4.86 out of 5 average rating
+5 years of hosting

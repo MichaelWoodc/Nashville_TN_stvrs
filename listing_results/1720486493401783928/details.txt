@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/1720486493401783928
+Latitude: 36.1535
+Longitude: -86.8733
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Country-Boho Kitsch | Indoor-Outdoor Flow | Dog Friendly w/ Fee 
+
+Trade cookie-cutter for colorful at this one-of-a-kind Nashville vacation rental! Bursting with eclectic style, this maximalist mélange pairs bold interiors with inviting outdoor spaces featuring a hot tub, fire pit, and grill. Spend your days exploring Broadway, the Ryman, and Centennial Park, then come home to unwind in unforgettable surroundings. Cue your most vibrant 'NashVegas Getaway' today!
+
+The space
+201801
+
+OUTDOOR LIVING
+- Covered patio w/ hot tub, checkers & darts
+- Open-air patio w/ grill
+- Wood-burning fire pit
+- Adirondack chairs, high-top seating, loungers, benches
+- Large yard
+- Lush greenery & vibrant flowers
+
+INDOOR LIVING
+- Maximalist interior w/ eclectic decor
+- Smart TVs
+- Dining room, high chair
+- Board games & books
+
+KITCHEN
+- Refrigerator, stove/oven
+- Keurig (coffee provided), blender, toaster, microwave
+- Cooking basics, dishware & flatware, trash bags/paper towels
+- Spices
+
+ACCESSIBILITY
+- Single-story home, 2 steps to enter 
+
+PARKING
+- Street parking (2 vehicles)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- Pet friendly w/ $50 fee (+ fees & taxes, dogs only, 1 max)
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+
+ADDITIONAL INFORMATION
+- Homeowner on-site (separate unit)
+
+SECURITY CAMERA INFORMATION
+- 2 exterior devices
+- Location: front & back of home
+- Coverage: front & back perimeter
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

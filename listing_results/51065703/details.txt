@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/51065703
+Latitude: 36.18729
+Longitude: -86.74626
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming older home is located off Gallatin Ave in the WALKABLE HEART of hip and vibrant East Nashville. You are a 1 minute walk to SO MUCH great food, coffee, drinks and music! This listing is back live after some major guest recommended upgrades! We do share a driveway with our Barber Shop neighbor and ask our guests to park on the street. We have signs up to remind you upon arrival.
+
+The space
+A quintessential craftsman style bungalow with 3 bedrooms and 1 bathroom. 2 of the queen bedrooms and the bathroom are on the main floor. The third bedroom is located up 1 flight of stairs and has a king bed. The kitchen is tucked at the rear of the house and offers all the modern day amenities with the exception of a dishwasher. Guests will have access to our washer and dryer, which is located in the enclosed back porch. The enclosed porch gives way to the large, private backyard space where we have a firepit and chairs set up for guests to enjoy!
+
+Other things to note
+A couple things to note BEFORE booking with us:
+
+YES we are pet friendly-however, we must approve pets BEFORE we confirm your booking. Our pet fee is $100 for 1-3 nights & $175 4+ nights and will get added to your reservation a week prior to your stay. The backyard fence is having work done so it is NOT currently fenced. 
+
+We are NOT in downtown Nashville proper, We are 2.9 miles from the hustle and bustle of Broadway. We ARE in one of the most walkable locations in the heart of bustling and artsy East Nashville and we feel that if you are interested in what East Nashville has to offer (some of the best and most cutting edge food, drink and nightlife in the city), you will love our location. There are two grocery stores - Publix and Kroger - within walking distance as well!
+
+We have ONE bathroom with 1 shower, 1 sink and 1 toilet.
+
+We do want to address a review we received in October of 2021 - "Air BNB was next door to two half way houses and wasn’t in the best of neighborhoods in Nashville. It was very old and pictures were better than the actual stay.“
+
+The half way homes referenced are part of an alcohol and drug recovery support ministry-Welcome Home Ministries. Their mission is to "enter worlds of brokenness in order that all might experience wholeness in Jesus Christ." While we understand this may give future guests pause we want to reassure them, that they are our neighbors and have never caused any trouble for our community. Not being local, you may not know that East Nashville is of the mindset of 'loving our neighbors' from all walks of life...it's the Nashville Way. It also is an old house (built in the 1920s), but it has been very well maintained over the years.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Liz
+Host User ID: 127444298
+Host Profile URL: https://www.airbnb.com/users/show/127444298
+Host Profile URL Source: public user permalink from passport userId
+Every property has its own personality, and its own reviews! Click into each listing to read specific guest experiences and feedback.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+4267 reviews
+4.92 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/43862614
+Latitude: 36.32891
+Longitude: -87.04254
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming, adorable tiny house sits on a 2 acre property behind a historic log cabin just outside of Nashville, TN. 
+ 
+After a full day of exploring music city, guests can enjoy a relaxing and peaceful evening under the stars away from the city noise. Perfect for a solo artistic retreat or a great getaway with your favorite person!
+
+The space
+The tiny house is 168 square feet of glamping serenity nestled in the quiet, peaceful outskirts of Nashville, Tennessee. 
+
+It is a lovely and charming, albeit very tiny experience, and I am excited to share it with you. 
+
+Guests will sleep in a cozy loft with a comfortable full sized mattress (can sleep two). The daybed / sofa downstairs is also just shy of a twin sized mattress and can sleep one person. 
+
+The kitchen offers a mini fridge, microwave, hot plate, and convection toaster oven for cooking simple meals. I provide coffee, tea, and a few simple snacks. There is a french press for coffee and a hot kettle for boiling water. 
+
+The bathroom has a small shower and toilet. Towels and toiletries are provided, and if there's anything you forgot to pack on your trip, don't hesitate to ask! 
+
+Wifi connection is available. The TV is set up for streaming Netflix, Prime Videos, etc.
+
+The outside space has a picnic table and a hammock for lounging. Guests are welcome to cook out on the gas grill, and use the outdoor fire pit. S'mores anyone!? 
+
+I hope you enjoy your tiny house experience. It's the perfect getaway for solo trips, friend trips, or a romantic weekend with your favorite person. 
+
+If you are traveling with a sports rack on your vehicle, you are welcome to take the green kayaks out for the day (as long as they are secured and strapped safely to your vehicle).
+
+Guest access
+Guests have access to the back yard space including the fire pit and gas grill. Please enjoy the hammock and outdoor picnic area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 21571152
+Host Profile URL: https://www.airbnb.com/users/show/21571152
+Host Profile URL Source: public user permalink from passport userId
+I am a full time musician and single mom with 3 dogs. I have 3 pups, and I love adventuring in the great outdoors. One of my favorite places to backpack and connect with nature is Alaska! 
+
+5 things we can't live without: 
+Coffee
+My baby girl
+Being outside
+Books 
+Music
+My work: Musician/Singer-Songwriter
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+177 reviews
+4.8 out of 5 average rating
+10 years of hosting

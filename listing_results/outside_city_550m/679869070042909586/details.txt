@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/679869070042909586
+Latitude: 35.98767
+Longitude: -86.50323
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax at this tranquil hidden getaway, nestled among the trees, close to town center. Located on five acres and bordered by Stewarts Creek and the Sam Davis Home , guests have their own 590 sq ft suite (attached to the main house) with private entry door and access to the fenced/gated property. Only 30 minutes to BNA International Airport, Murfreesboro or downtown Nashville!
+
+Extra guest charges are for adults only. Up to two children (0-15 years) may accompany parents for no extra charge.
+
+The space
+You'll enter your suite up four stairs close to parking. The area you enter first is a sitting room with a sofa bed (for guests #3-4), wall-mounted flat screen TV with Prime, Netflix and Hulu, small table and chairs and an area containing a Keurig, mini-fridge and microwave. To the left is a large bathroom with tub and walk-in shower (Full disclosure: the tub jets are currently out of order). The bedroom has a queen-size bed, walk-in closet and dresser space. It is clean and uncluttered. Just lovely, in our humble opinion! :)
+
+Guest access
+Guests may enjoy the entire five acres, including the front/back porches, deck and screened patio. We have muck boots and insect repellant for you to use if you're feeling adventurous! :)
+
+Other things to note
+We do have three super friendly dogs. We ask that you don't feed them, since one of them has a sensitive tummy and will leave us a surprise on our living rug if he gets people food. The dogs may greet you if they happen to be outside when you are coming/going, but we'll keep them away from you if you'd like.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karen
+Host User ID: 120987114
+Host Profile URL: https://www.airbnb.com/users/show/120987114
+Host Profile URL Source: public user permalink from passport userId
+Hi there! I'm a retired music teacher, now a substitute. I enjoy reading, sewing, beekeeping, working outside and crafting. :)
+My work: Education
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+126 reviews
+5.0 out of 5 average rating
+4 years of hosting

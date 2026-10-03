@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/42310730
+Latitude: 36.1779
+Longitude: -86.7885
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Germantown Gem is great for everyone from families to friends groups! There are lots of mirrors, desks/vanities in every bedroom, family-friendly games, portable bluetooth speakers, sound machines, and three Smart TV's for streaming. You'll also have tons of Grocery and meal delivery options available in this prime, upscale location. 
+
+This space was purposefully designed with your comfort in mind: super comfy & clean beds and linens, Keurig Coffee, Netflix, complimentary bath toiletries...
+
+The space
+This space is compact, but feels large and very well-designed to be very comfortable for groups of 6. 
+Just keep in mind that there's only 1 bathroom. We've had plenty of groups of 6 stay here with no problems, but it's good for everyone to know that before they get here (:
+
+Guest access
+This apartment is completely private and accessed by your group only, but the outdoor spaces here are shared with the two other apartments in this triplex house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Randy + Diane
+Host User ID: 217521865
+Host Profile URL: https://www.airbnb.com/users/show/217521865
+Host Profile URL Source: public user permalink from passport userId
+We love Historic Germantown and can't wait for you to discover all the little gems around Nashville's first neighborhood.
+My work: Airbnb Hosts!
+Speaks English and Lao
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1988 reviews
+4.98 out of 5 average rating
+8 years of hosting

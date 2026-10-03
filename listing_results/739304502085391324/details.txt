@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/739304502085391324
+Latitude: 36.2588
+Longitude: -86.7774
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Loads of living space. The home is on a hill with views all the way to downtown. 40 foot long pool with diving board and slide. Fire pit area. Tons of outdoor deck space. Corn hole, pool table, ping pong, shuffle board and foosball.  Straight shot to downtown. Quick Uber and Lyft rides. Fully stocked kitchen with Keurig, gas stove, toaster oven, air fryer and blender.  Extra fridge and freezer in the basement. Horses on the property.
+
+The space
+The bedrooms are very large with plenty of room to set up the supplied blow up mattresses and cots. There are two sofas that make for comfortable sleeping as well.Each bedroom has a smart tv with app access. The living room and the master have Comcast cable tv.
+
+Guest access
+You can access the whole house and grounds. The horses will come up to the fence to get treats. I prefer not going into the horse pasture unless I am there just because they have been known to escape.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alicia
+Host User ID: 49907426
+Host Profile URL: https://www.airbnb.com/users/show/49907426
+Host Profile URL Source: public user permalink from passport userId
+I am a successful Real Estate Agent in Nashville. I absolutely love hosting parties and helping people have a great time in Nashville. My goal is to have you want for NOTHING on your vacation!
+Born in the 70s
+Where I went to school: LSU
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+282 reviews
+4.97 out of 5 average rating
+10 years of hosting

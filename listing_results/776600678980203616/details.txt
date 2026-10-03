@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/776600678980203616
+Latitude: 36.2032
+Longitude: -86.7417
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+All the class of Music City with the charm of a quaint East Nashville Airbnb Community! Just 5 minutes from trendy coffee shops & eateries, and 7 minutes from downtown & Broadway, our home will serve as a relaxing space to rest your head and enjoy the company of those around you.
+
+The whole group will enjoy easy access to everything from this centrally located place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Charles
+Host User ID: 193005488
+Host Profile URL: https://www.airbnb.com/users/show/193005488
+Host Profile URL Source: public user permalink from passport userId
+I am a father of 4.  We will normally be traveling to tennis tournaments with my daughter, the youngest, and to college wrestling tournaments for my son.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+176 reviews
+4.78 out of 5 average rating
+6 years of hosting

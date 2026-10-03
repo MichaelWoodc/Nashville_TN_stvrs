@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/635766916653273369
+Latitude: 36.25321
+Longitude: -86.84513
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 14
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This luxury home is perfect for your next trip to Nashville! Grab your friends and family and enjoy our private pool, home theater, and spacious land that makes you feel like you are truly on vacation. 
+
+14 Beds, more than enough room for your whole group!
+
+Only 10 miles from Downtown Nashville this home is perfect for your next big group trip or event!
+
+The space
+This luxury home boasts modern decor and enough space for everyone with unbeatable amenities and 14 beds.
+
+-The living room includes a stunning electric fireplace and open floor plan to make sure you feel right at home. Cozy up on our sectional couch with stunning views of the pool and backyard.
+
+-The large pool will keep you plenty cool during the summer! Sun chairs and umbrellas are included, along with fun pool floats! If you want to just enjoy the pool views, opt for a seat on our outdoor sectionals. A fire pit in the center makes this spot the best outdoor space in the whole home!
+
+- Our custom Neon sign and photo wall is the perfect spot for your whole group to enjoy! There truly is no place like Nashville!
+
+- The kitchen and dining area is stocked with everything you need and includes space for everyone for a quick meal at the island or a formal sit down dinner. An incredible area to entertain!
+
+- The home theater is perfect for your friends and family to enjoy a night in and watch the newest releases or your favorite Netflix show on the big screen. Our extra deep couches will take your movie experience to the next level, just add snacks for the perfect night!
+
+ - The owners suite has a king sized bed and electric fireplace. The full bathroom attached has a glass shower with two benches and dual shower heads. Talk about LUX.
+
+- The upstairs deck is the best spot to wind down (or turn up)! Enjoy the sunset with stunning views of the pool and backyard. Or take your next meal outside with our outdoor dining table for 8
+
+- Our custom beauty bar in the bedroom has four mirror stations for you and your best friends to get ready for the day! A fan favorite!
+
+- The rest of the bedrooms include a queen bed, two full beds, and two bunk bed bedrooms that have a combined ten twin beds! 
+
+We can't wait to host you for your next special event and we know you are going to absolutely love this gorgeous modern home with all the amenities you could ever want for an unforgettable stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keith
+Host User ID: 461152718
+Host Profile URL: https://www.airbnb.com/users/show/461152718
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+69 reviews
+4.71 out of 5 average rating
+4 years of hosting

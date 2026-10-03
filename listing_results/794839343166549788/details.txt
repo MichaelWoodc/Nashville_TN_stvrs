@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/794839343166549788
+Latitude: 36.20047
+Longitude: -86.75274
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 16
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your ultimate Nashville group trip headquarters! This stunning, new construction 4-bed, 4-bath townhome is perfectly designed for bachelorette/bachelor parties, family reunions, or a fun-filled friends' getaway in Music City.
+
+A private rooftop deck with a spectacular Nashville skyline view, a fire pit, and games. Plus, you get an epic karaoke stage right in the garage! You're just a quick Uber to Downtown Broadway and are located near the vibrant scene of East Nashville.
+
+The space
+The kitchen is fully equipped and has stainless steel appliances and a wide island with seating for 4. There is a Keurig coffee maker that can brew individual cups using "K-Cup Pods" or full pots of coffee with capacity up to 12 cups. 
+
+There are four luxurious bedrooms spread over three stories. Each bedroom either has its own bathroom or a bathroom nearby. Each bathroom is equipped with a light-up makeup mirror and a hair dryer. There is also a dedicated office space with a small desk and a futon.
+
+Guest access
+You will have access to the entire townhome.
+
+Other things to note
+Places to Visit During Your Stay
+
+Attraction and Distance From Home
+Downtown / Broadway - 4 Miles
+Country Music Hall Of Fame And Museum - 4.6 Miles
+The Parthenon - 7.6 Miles
+Centennial Park - 7.9 Miles
+Grand Ole Opry - 8.0 Miles
+Nashville Zoo At Grassmere - 12.4 Miles
+Two Rivers Golf Course - 10.2 Miles
+Ryman Auditorium - 4.5 Miles
+Top Golf - 3.1 Miles
+Five Points (Bars, Restuarants) - 2.6 Miles
+
+The property is equipped with a "Minut" noise detector inside the home and a security camera on the exterior of the building.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Holland Vacation Rentals
+Host User ID: 288873074
+Host Profile URL: https://www.airbnb.com/users/show/288873074
+Host Profile URL Source: public user permalink from passport userId
+Hello, my name is Ryan. I am the founder of Holland Vacation Rentals. When I’m not making sure guests have an easy, relaxed stay, I’m probably either skiing, sneaking in a tennis match, traveling with my wife, or out on a walk with our dog. I like keeping things simple: clean space, clear communication, and a few small touches that make it feel like you’ve got a local friend in the area.
+Born in the 90s
+My work: Real Estate
+Response rate: 98%
+Responds within an hour
+Superhost
+4 years hosting
+443 reviews
+4.87 out of 5 average rating
+4 years of hosting

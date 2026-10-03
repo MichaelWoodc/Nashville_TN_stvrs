@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/46025570
+Latitude: 36.17567
+Longitude: -86.74509
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the top floor of a beautifully appointed backhouse apartment with a separate entrance and no shared common areas - right in the heart of the famous 5 Points neighborhood of East Nashville.   Within short walking distance of some of the top rated (world class!) eating/drinking/coffee establishments in town, this location is one of the most sought after in the Southern U.S.
+
+Guest access
+You have full, exclusive access to your backhouse upstairs apartment.  There is no access available for any outside areas with the exception of the parking area on the left hand side where you park, if you have a car.  Thanks so much!
+
+Other things to note
+Occasionally we have guests that stay downstairs from you in the same building.  If so, they will have access to the backpad parking area on the far right side (thats why you park on the LEFT side only, but they use a different entrance and otherwise share no other common areas with you!)
+
+We believe in the golden rule.  Be respectful of the place and the neighborhood and all is good!  Please keep the noise down after 10pm, this is a residential neighborhood after all - that's a big part of the attraction!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 2674660
+Host Profile URL: https://www.airbnb.com/users/show/2674660
+Host Profile URL Source: public user permalink from passport userId
+Hi!  Our family has lived on the East side since 2006 (having moved from L.A.)  and we've never looked back.  We LOVE Nashville and hope to share some of that excitement with you.
+
+These days we're busy raising a family, but when we're not carpooling to kid related activities- we're working out, trying new restaurants and various watering holes (that's why we work out!), or planning our next trip across the country and around the world:)
+Lives in Nashville, Tennessee
+Superhost
+13 years hosting
+439 reviews
+4.97 out of 5 average rating
+13 years of hosting

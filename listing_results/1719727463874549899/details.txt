@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1719727463874549899
+Latitude: 36.20132
+Longitude: -86.7554
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville this autumn from your own private rooftop deck! This professionally designed 4-story luxury home features a spacious open-concept kitchen & living area, 4 large bedrooms, and plenty of room to entertain or unwind. Enjoy a roomy 2-car garage with direct home access + Tesla charger. Your perfect Music City stay awaits! Mid-term, insurance & temporary housing stays welcome.
+
+The space
+A high rise home with lots of space and private car entrance.
+
+Guest access
+Whole house is private for your use.
+
+Other things to note
+Stunning views of downtown from the rooftop private deck area!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catlin Hale
+Host User ID: 333035767
+Host Profile URL: https://www.airbnb.com/users/show/333035767
+Host Profile URL Source: public user permalink from passport userId
+Welcome! My goal is to ensure you have a 5-Star Stay!  I offer short/mid/long term bookings—ask me about 30 day+ discounts. We have homes across the US & specialize in insurance claims & temp housing needs.
+
+ABOUT MY RENTALS
+My guests consistently give 5-Star reviews to my properties, which offer concierge & VIP services tailored for every guest experience.
+
+ABOUT ME
+I am a singer/songwriter/voice talent in Nashville, TN.
+
+I love treating you to a perfect stay in the perfect place!
+My work: Voice Talent/Singer
+I'm obsessed with: Kindness
+Response rate: 86%
+Responds within a few hours
+7 years hosting
+221 reviews
+4.86 out of 5 average rating
+7 years of hosting

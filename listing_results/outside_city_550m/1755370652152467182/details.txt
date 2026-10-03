@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1755370652152467182
+Latitude: 35.9647
+Longitude: -86.9937
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Some places help you rest. This one was built for it. Promise Land is an 1800s log cabin restored by hand, tucked into 5 private acres (surrounded by 100s more) outside Leiper's Fork, Tennessee. A creek below, hills all around, and no neighbors in sight. Ten minutes from the village, a world away from the noise. Expect a long, steep gravel drive, little to no cell service, and a cozy footprint built for you. WiFi works, the creek sings, and the quiet does the rest.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derick
+Host User ID: 489849995
+Host Profile URL: https://www.airbnb.com/users/show/489849995
+Host Profile URL Source: public user permalink from passport userId
+We're the hosts of Promise Land, an 1800s log cabin we restored by hand on 5 quiet acres outside Leiper's Fork, Tennessee. A creek runs below, hills all around, and it's ten minutes from the village but a world away from the noise. We built this place to be somewhere people can finally slow down: long mornings, real quiet, room to breathe. We love sharing it with guests who need the same kind of rest we do.
+I'm obsessed with: Jesus
+My biography title: Restoring Old Cabins, Finding Rest
+Response rate: 100%
+Responds within an hour
+1 month hosting
+5 reviews
+5.0 out of 5 average rating
+1 month of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1747554929634102499
+Latitude: 36.2765
+Longitude: -86.5342
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Take it easy at this unique & tranquil getaway. Enjoy coffee on the porch with a lapdog poodle if you want. Whole home is 2000 sf on an acre. Great place for walking or jogging. I'm close to hospitals, Nashville, shopping, & music while still having country vibe. I have a temp controlled insulated shed if you want to bring your keyboard, guitar, sax, or trumpet!
+
+I have a spare fridge for guests, and you have access to the kitchen, living room, & laundry. Non-covered parking available. Full bed.
+
+The space
+There are stairs to get into the house, but the house itself is a one-level ranch on an acre. I'm at the end of a dead end road.
+
+Guest access
+Guests have access to Kitchen, Living Room, and Laundry Area. As mentioned elsewhere, I have a temp controlled shed if you want to bring an instrument.
+
+During your stay
+I am available by phone (call & text) and through the app, but phone is faster. 
+
+I am very approachable and happy to hang out together and am easy to talk to but respect your privacy.
+
+Other things to note
+I have 2 dogs that love people very much but don't play well with other dogs, especially the big one. Odd for a golden retriever I know, but she's just so dedicated to her people. She will want to fight any new dog because she is protective of her people. I am allergic to cats. For the safety of all involved, I cannot host dogs or cats. Thanks for understanding!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michelle
+Host User ID: 17476995
+Host Profile URL: https://www.airbnb.com/users/show/17476995
+Host Profile URL Source: public user permalink from passport userId
+I have a ton of interests & love to try new things, esp. experiences, etc. When my family lived in Los Angeles, we hosted international students. Still friends with many. Grew up on a farm & spent a lot of time in Ventura. I'm just as comfortable in the mountains as on the beach. Want to ride hot air balloon again.
+
+Love where I live & all the deer. My kids are grown or nearly so. I'm someone who commits when I decide to do something. I've lived in AR, CA, WA, & TN. Love talking to new people.
+Where I went to school: Bentonville High & UofA - Fayetteville
+Fun fact: Hosted international students in CA
+My biography title: Laugh or Cry - I much prefer to laugh!!
+Pets: Golden retriever Punk & poodle Raisin
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+4.67 out of 5 average rating
+1 month of hosting

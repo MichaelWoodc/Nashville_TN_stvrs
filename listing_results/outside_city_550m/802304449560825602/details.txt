@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/802304449560825602
+Latitude: 36.30121
+Longitude: -86.59429
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole family to this spacious 4-bedroom home featuring 2 king rooms, 1 queen, and 1 full bed, plus a sectional and optional air mattress. Enjoy 2.5 baths, Smart TVs in every bedroom, two workspaces, and complimentary toiletries. Pack ’n play and high chair available upon request. Minutes from the lake, great restaurants, and less than 20 minutes to downtown Nashville. Please review the House Rules before booking.
+
+The space
+Welcome! We want you to have a great stay while helping us keep our home in excellent condition for future guests.
+
+* This home is located in a quiet residential neighborhood. Please be respectful of our neighbors at all times.
+* No parties or events. Only registered guests are permitted on the property. If you’d like to have visitors during your stay, you must contact us for approval in advance.
+* Quiet hours begin at 7:00 PM. No outdoor music or excessive noise after this time.
+* Please treat our home and belongings with care. If anything is broken or damaged, notify us immediately so we can assess the situation. Reporting damage does not automatically mean you will be charged, but failure to report it may result in additional fees.
+* Smoking is permitted outdoors only. Please do not smoke or vape inside the home. Dispose of all cigarette butts properly and never throw them on the ground or in the yard.
+* No candles or incense may be burned inside the home.
+* Please secure all trash in the outdoor trash bins, as local wildlife (including deer and other animals) may get into loose trash.
+
+Early Check-In/Check-Out
+
+If you need an early check-in or late check-out, please contact us at least 24 hours in advance. We will do our best to accommodate requests based on availability.
+
+Check-Out Instructions
+
+Before departing, please:
+
+* Take all trash to the outdoor trash bins by the back door.
+* Place used towels in the bathtub.
+* Load and start the dishwasher.
+* Double-check that you’ve taken all personal belongings and haven’t left any trash behind.
+
+Thank you for helping us care for our home. We appreciate your cooperation and hope you have a wonderful stay!
+
+Guest access
+You will have access to the house besides the garage and closets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 241603416
+Host Profile URL: https://www.airbnb.com/users/show/241603416
+Host Profile URL Source: public user permalink from passport userId
+Moved to TN from Los Angeles 20 years ago. I am a free spirit and love to share the joy of adventure with my family & friends.
+My work: Homecare Services
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+31 reviews
+4.87 out of 5 average rating
+4 years of hosting

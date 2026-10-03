@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1771315818957302253
+Latitude: 36.21786
+Longitude: -86.70451
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Music City One-Bedroom Retreat
+
+Just one mile from the Grand Ole Opry, this spacious one-bedroom suite sleeps up to 4 with a king bed, queen sleeper sofa, full kitchen, and in-suite washer/dryer — many units also feature a private balcony. Resort amenities include indoor and outdoor pools, a hot tub, fitness center, barbecue area, and activities program. Walk to Opry Mills shopping and dining, with easy access to downtown Nashville, Jack Daniel's Distillery, and the Country Music Hall of Fame.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tara
+Host User ID: 131932226
+Host Profile URL: https://www.airbnb.com/users/show/131932226
+Host Profile URL Source: public user permalink from passport userId
+I have been in the travel business for years. I love to travel and explore with my wife and son. We love to see new things, experience different cultures and eat great food and meet new people. Look forward to helping you have the best vacation.
+Lives in Williamsburg, Virginia
+Response rate: 93%
+Responds within an hour
+Superhost
+9 years hosting
+53 reviews
+4.62 out of 5 average rating
+9 years of hosting

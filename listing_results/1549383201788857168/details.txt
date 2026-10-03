@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1549383201788857168
+Latitude: 36.14423
+Longitude: -86.76294
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 3-bed, 2-bath (1,830 sq ft) furnished suite in a prime downtown location! Enjoy modern design, a fully equipped kitchen, in-unit laundry, and all utilities included. Walk to Live Nation, Soho House, Bastion, and local coffee shops and breweries. Great view of the Nashville skyline. Secure building with elevator and parking. Perfect for a quick getaway!
+
+The space
+Experience the best of urban living in this beautifully appointed 3-bedroom, 2-bath, 1,830 sq ft suite at 1224 2nd Ave S. Designed for both comfort and style, this fully furnished executive rental offers the perfect home base for professionals, travel nurses, or anyone seeking a modern, all-inclusive monthly stay.
+
+🏡 Property Highlights
+
+Lease Term: Monthly (short- or medium-term stays welcome)
+
+Fully Furnished: Professionally styled with contemporary décor and high-quality furniture
+
+Spacious Open Layout: Light-filled living area perfect for relaxing or entertaining
+
+Gourmet Kitchen: Stainless steel appliances, quartz countertops, full cookware, and dinnerware
+
+Primary Suite: King bed, en-suite bathroom with dual sinks, and generous closet space
+
+Additional Bedrooms: Furnished with comfortable beds, linens, and ample storage
+
+Bathrooms: Modern finishes with tub/shower combos and plush towels
+
+In-Unit Laundry: Washer and dryer included
+
+All Utilities Included: Electricity, water, high-speed Wi-Fi, and trash service
+
+Smart TV + Work-Friendly Space
+
+Secure Building Access + Elevator
+
+On-Site Parking Available
+
+📍 Prime Location
+
+Neighborhood Spots
+• Café Babu — 7-minute walk (0.3 mi). Great coffee and relaxed local vibe.
+• Dickey’s Pizza — 0.2 mi. Quick, casual stop for slices and beer.
+• SoHo House Nashville — 0.3 mi. Members’ club with public coffee bar access.
+• Pastis French Restaurant — 0.35 mi. French brasserie with excellent cocktails.
+• Flamingo Cocktail Club — Next to Pastis, popular late-night lounge.
+• Jackalope Brewery — 0.4 mi. Local craft beers and casual taproom.
+• Bastion — 0.5 mi. Neighborhood favorite for inventive small plates and cocktails.
+• Live Nation Building — 0.2 mi. Landmark office and event hub nearby.
+
+Short Drives
+• GEODIS Park — 1 mile / 5-minute drive. Home of Nashville SC soccer and concert venue.
+• Broadway — 1.4 miles / 8-minute drive. Live-music strip, honky-tonks, and nightlife.
+
+Guest access
+Guests have full private access to the entire apartment, including the kitchen, living area, bedrooms, bathrooms, and in-unit laundry. Access to the building and parking areas is secured. Elevator service is available to all floors for easy move-in and daily convenience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chip
+Host User ID: 429555345
+Host Profile URL: https://www.airbnb.com/users/show/429555345
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+109 reviews
+4.96 out of 5 average rating
+10 months of hosting

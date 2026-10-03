@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1714020854143180102
+Latitude: 36.1073
+Longitude: -86.7473
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome The Music City Hideaway! 🎸🏡
+
+Enjoy a spacious private guest suite with a separate entrance and exclusive access to a large bedroom, full bathroom, walk-in closet, fully equipped kitchen, living room, dining area, workspace, free parking, and fast Wi-Fi. Located just 4 miles from BNA Airport and 6 miles from Downtown Nashville, it’s the perfect home base for concerts, business trips, or weekend getaways.
+
+The space
+Guests have exclusive access to a spacious private guest suite with its own separate entrance. The suite includes a large bedroom, full bathroom, walk-in closet, fully equipped kitchen, dining area, comfortable living room, and dedicated workspace. The bedroom is located on the second level of the property. There are no shared interior living spaces, allowing you to enjoy a private and relaxing stay.
+
+Guest access
+Guests have exclusive access to the entire private guest suite, including the bedroom, bathroom, walk-in closet, full kitchen, dining area, and living room. Please use the private entrance located at the back of the house for check-in and throughout your stay.
+
+Other things to note
+For added privacy and security, please close and latch the gate each time you enter or leave the property. This helps keep the space secure and ensures a private experience for both guests and the homeowner. Thank you for your cooperation!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sunshine
+Host User ID: 59918785
+Host Profile URL: https://www.airbnb.com/users/show/59918785
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Tennessee State University
+Response rate: 100%
+Responds within an hour
+5 years hosting
+16 reviews
+5.0 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/44488076
+Latitude: 36.1828
+Longitude: -86.7723
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to 2ndBerryNash, your premier booking destination to enjoy nearby Broadway Nashville under 2 miles away! This 3,000 sq ft architectural achievement offers wide-open spaces that can host your gathering for up to 12 guests; complete with 2 spacious common areas, a fully equipped gourmet kitchen and dining room, 4 bedrooms, master bath and 3 additional bathrooms, and also a private rooftop deck for sunbathing, outdoor dining, and sipping cocktails over views of the downtown skyline.
+
+The space
+Indulge in a beautiful contemporary oasis complete with hand crafted design elements, luxury components such as 3 large LED Smart TV's,  premium memory foam mattresses and lush bedding, walk-in closets, a lavish spa inspired bathroom with rain-shower head, and its very own true-to-Nashville culture skyline mural wall. 
+
+Home Features & Benefits:
+-Tesla EV charger allowing up to 48A of charging or 44mph available upon request.
+-High-speed WiFi internet access with a fast 100+ mbps connection.
+- Keyless entry with personalized smart lock code.
+- Brand new 5 star 2020 build with all new furnishings.
+- First floor open concept living room dining area, and kitchen.
+- 75 inch LED Smart TV with local TV stations & streaming capabilities.
+- Full service kitchen for 12 with premium appliances.
+- Spacious master bedroom with 2 double beds, walk-in closet, 55 inch LED Smart TV and spa inspired bathroom and blackout curtains.
+- 3 uniquely decorated private bedrooms with queen beds, closets and blackout curtains.
+- Third floor bonus entertainment room with 65 inch LED Smart TV, wet bar and beverage center.
+- HUGE rooftop patio with string lights, formal dining for 10, sunbathing lounge chairs, majestic sunsets, and downtown views.
+- Full-sized laundry room with washer & dryer.
+- Two dedicated outdoor parking spots and street parking.
+- Provided hair dryers, shampoo, conditioner, soap, makeup remover wipes, fresh linens & towels, iron & ironing board, vacuum, and a starter amount of toiletries & cleaning supplies.
+- Consistent with AirBnB's policy; parties and events are not allowed at our home.
+
+Guest access
+You will have access to the whole home outside of the garage and cleaning closet.
+
+Other things to note
+Tesla wall charger available upon request. (Additional fees may apply) please inquire on messages if EV charging is required.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike
+Host User ID: 43634667
+Host Profile URL: https://www.airbnb.com/users/show/43634667
+Host Profile URL Source: public user permalink from passport userId
+I've lived in Nashville since 2009 and have loved watching the city grow and develop. I look forward to hosting and sharing the things I love about Nashville with you!
+Speaks Chinese and English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+198 reviews
+4.91 out of 5 average rating
+6 years of hosting

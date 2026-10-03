@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/15929927
+Latitude: 36.09968
+Longitude: -86.73385
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My place is close to Downtown, Nissan Stadium, Ryman Auditorium, Vanderbilt University, Belmont University, Music Row. You’ll love my place because of the neighborhood, the outdoors space, the light, the ambiance, nearness to DownTown.  My place is good for couples, solo adventurers, business travelers, and furry friends (pets).  We are a musician friendly home.
+
+The space
+The back yard is amazing and there's a huge deck and barbecue.  Lots of shopping nearby, but you would need a car.
+
+Guest access
+Your space is a completely isolated separately heated/air conditioned attic apartment.  You have your own entrance.  If you're a musician, no one can hear you play.   There's a mini-fridge and microwave in the room, but upon request, you can come down to the kitchen and cook, or go out into the yard.
+
+During your stay
+Someone will be around downstairs taking care of the dogs so if you need anything some is there.
+
+Other things to note
+Lots of parking -  not covered parking.  I have 3 dogs who are down-stairs and out in the back yard.  They are small and friendly and cute, but they do bark occasionally.  The neighborhood is very international.  Great restaurants around here:  Thai, Iraqi, Mexican, African, Korean.  It's all here!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gina
+Host User ID: 26069408
+Host Profile URL: https://www.airbnb.com/users/show/26069408
+Host Profile URL Source: public user permalink from passport userId
+I am an artist manager and work from home.  Many musicians and songwriters share my space with me.  I love meeting new people from around the world.  I have two beautiful dogs who my guests fall in love with!
+Born in the 60s
+My work: CPR Entertainment - CEO
+I spend too much time: Working
+For guests, I always: Coffee, tea, creamer, water in the suite
+Pets: My dogs are Gigi and Snuggle Bear
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+238 reviews
+4.9 out of 5 average rating
+10 years of hosting

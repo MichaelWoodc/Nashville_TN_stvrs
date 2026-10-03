@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/836126642541998723
+Title: The Nations Retreat · Dogs Welcome · Park Nearby
+Latitude: 36.1595
+Longitude: -86.8557
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A quiet modern retreat in The Nations — and your dog is welcome. A king bed, full kitchen with a big island for cooking or working, fast WiFi and polished concrete floors on a residential street. England Park is a two-minute walk for morning laps with the dog, with Frankie's, Fat Bottom Brewing and neighborhood coffee close by. Downtown is about ten minutes out. Self check-in, easy parking, private entrance. Built for two: couples, solo travelers and longer stays. Guest favorite, 186 stays.
+
+The space
+- Per Pet Fee-$100 which is not included in the Booking rate!
+- Early Check-in is available starting from 2:00 PM instead of 4:00 PM.
+- Late Check-out is available ending at 12:00 PM instead of 10:00 AM.
+
+This ground-level condo was thoughtfully designed to give you a comfortable and modern place to call home while visiting Nashville. The main living area has a new sofa, a smart TV with access to your streaming services, and a large well-equipped kitchen with stainless steel appliances and quartz countertops. 
+
+The bedroom has a dresser and walk-in closet to store all of your belongings, and a private washer & dryer. The bathroom boasts a large walk-in shower with marble tile and a large marble vanity - great for getting ready!
+
+Guest access
+KEYLESS ENTRY:
+Prior to your arrival, you will receive a unique keypad code that will serve as your keyless entry to the condo during your stay. Access is all keyless entry and you can come and go as you please.
+
+Other things to note
+- Pet Fee-$100
+- 2 dog maximum allowed
+- Free Parking
+
+**Please do not order any kind of shipment on the property as mail boxes are locked by owners!
+
+We are located in the heart of Downtown Nashville, where the vibrant city life adds to the charm of your stay. However, you may occasionally hear sounds from cars, planes, trains, party buses, dogs, other guests in the building, or lively passersby enjoying the area. While we can't control these elements, we hope you’ll embrace the energy of Music City as part of your experience!
+
+Smoking Fee - $250
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2261 reviews
+4.86 out of 5 average rating
+4 years of hosting

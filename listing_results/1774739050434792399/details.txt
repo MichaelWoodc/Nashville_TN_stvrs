@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/1774739050434792399
+Latitude: 36.15996846121487
+Longitude: -86.80698389779454
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 6
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Honky Tonk Barbie Dreamhouse, Nashville's most photogenic girls' trip. Teal and pink from floor to ceiling, a glam vanity wall built for getting ready, cow print, neon signs, and a pink bunk room that sleeps the whole crew. You're in Midtown, walkable to Vanderbilt and minutes from Broadway, Music Row, and Centennial Park. Whether it's a bachelorette, a birthday, or just your people, this is the one everyone screenshots. Book it before your group sees it somewhere else.
+
+The space
+Every room in this place was designed to be seen. The living area is full Honky Tonk Barbie: teal walls, a hand painted mural, cow print seating, and neon signs that make every photo pop. There's a normal couch to actually relax on when you're not shooting content.
+
+The showstopper is the glam vanity wall, a long lit mirror station with plenty of room for the whole group to get ready at once. No fighting over the bathroom mirror before you head out.
+
+Sleeps 6 across two pink bunk rooms, each with a triple bunk of twin beds. Great for a group that wants everyone under one roof without doubling up.
+
+The kitchen is fully stocked and just as pink, so you can pregame, make coffee, or throw together a meal without leaving. Bathrooms carry the theme through too, down to the black and white stripes and green print.
+
+You're in Midtown, walkable to Vanderbilt and a quick ride to Broadway, Music Row, and Centennial Park. Close enough to be in the action, tucked away enough to actually sleep.
+
+A couple of things to confirm before this goes live, since I don't want to state anything that isn't true: I called the kitchen "fully stocked" and mentioned coffee, so make sure that holds. I also said "a quick ride to Broadway," which is honest at roughly two miles. Adjust anything that doesn't match the actual unit.
+
+Guest access
+You'll have the entire unit to yourself for your stay. We'll send your door code a little before check-in, so there's no meeting anyone or picking up keys. Just head straight in.
+
+The unit is #211 on the second floor. There's an open parking lot on site, so bring the whole crew and their cars without stressing about where to put them. Full check in details and directions come before you arrive.
+
+One small thing to confirm: I said "no meeting anyone," which is true for a self check-in with a door code. If there's ever a host greeting or a building attendant, tweak that line.
+
+Other things to note
+This is a self check-in, entire place to yourself, in a building where owners live nearby, so please be respectful with noise, especially late at night.
+
+No smoking anywhere inside the unit. There's a $500 fine for smoking indoors, no exceptions, so please step outside.
+
+The mailboxes are locked and not accessible, so don't have anything shipped or delivered to the unit during your stay.
+
+This place is set up for a fun group trip and we want you to have a great time. Just treat it like it's yours and clean up after yourselves, and you're all set.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

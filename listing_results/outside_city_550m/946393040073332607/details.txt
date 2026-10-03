@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/946393040073332607
+Latitude: 36.32614
+Longitude: -86.55072
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+If you like country music, this is your place. Just 25 minutes from the honky tonks of Nashville, this quiet neighborhood was the place where legends like Johnny Cash, Roy Orbeson, the Mandrells, Connie Smith and Marty Stuart lived. This two bedroom, one bath apartment is just one mile from Old Hickory Lake and two public boat ramps. The property has space for either a boat or RV as well as a sports pool to cool off on hot days.
+
+The space
+The unit is on the second floor, so there is one flight of steps.
+
+Other things to note
+The unit is on the second floor, so there is one flight of steps.  The pool is generally open around the first day of spring to some time in October.  It depends on the weather.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Glenn
+Host User ID: 83169828
+Host Profile URL: https://www.airbnb.com/users/show/83169828
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+148 reviews
+4.94 out of 5 average rating
+3 years of hosting

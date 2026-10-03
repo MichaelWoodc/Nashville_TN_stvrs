@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1780359800331488337
+Latitude: 36.1383
+Longitude: -87.0111
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Pegram, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Medicine — a soft brutalist cabin on the ridge in Pegram, TN, wrapped in bluff views and rare Tennessee biodiversity. Fog-soaked mornings, star-filled nights, and forest as far as you can see. Stone, metal, and wood throughout — nothing decorative, everything grounding. Soak in the pool, sweat in the cedar sauna, cook by induction or custom gas grill. A place to disconnect from the noise and reconnect with yourself and the people you love.
+
+Pool Season 2026 - May 1 - October 28
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gabrahm
+Host User ID: 309832
+Host Profile URL: https://www.airbnb.com/users/show/309832
+Host Profile URL Source: public user permalink from passport userId
+Nashville broker. 20+ years. $100M+ in closings. Slow, sincere, intentional, attuned — Dojo Mod is a different kind of real estate practice, built around listening first and transacting second. Residential, commercial, land, restoration, new construction. Latest project: medicine — a soft-brutalist cabin retreat in the hills of west Nashville, built for the exhale.
+Born in the 80s
+My work: Real Estate Broker
+Response rate: 100%
+Responds within an hour
+13 years hosting
+28 reviews
+4.68 out of 5 average rating
+13 years of hosting

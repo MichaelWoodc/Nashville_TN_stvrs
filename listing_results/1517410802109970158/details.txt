@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/1517410802109970158
+Latitude: 36.146
+Longitude: -86.6929
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: None
+map_marker_type: None
+bedrooms: None
+beds: 2
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms, description
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Description unavailable in page data.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pam
+Host User ID: 720655461
+Host Profile URL: https://www.airbnb.com/users/show/720655461
+Host Profile URL Source: public user permalink from passport userId
+1 year hosting
+68 reviews
+4.54 out of 5 average rating
+1 year of hosting

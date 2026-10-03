@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/49815530
+Latitude: 36.13208
+Longitude: -86.789
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Absolutely stunning guesthouse in the heart of 12 South.  Walkable to all 12 South has to offer and super close to Vanderbilt, Belmont, and other awesome neighborhoods like Hillsboro Village, The Gulch, Sylvan Park, as well as Broadway and the rest of downtown Nashville. Tucked in a quiet neighborhood, the guesthouse has its own private entrance and parking space.
+
+The space
+The Napping House is a gorgeous, brand-new build that is open concept with the living area and full kitchen. We hung blackout curtains in the bedroom to help you get solid rest, and the area is quiet at night.
+
+Guest access
+Please take care to not open the gates to our backyard (and we will forever be thankful to you if you notice one is open and close it for us!!). We have three very handsome rescue dogs, one of whom is a master escape artist and tough to catch once he’s free.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alison
+Host User ID: 93934732
+Host Profile URL: https://www.airbnb.com/users/show/93934732
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+185 reviews
+4.99 out of 5 average rating
+5 years of hosting

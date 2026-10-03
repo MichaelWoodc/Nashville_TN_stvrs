@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/736407736715045042
+Latitude: 36.24362
+Longitude: -86.73738
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🏠 Enjoy Nashville from your huge, private rooftop patio with stunning skyline views! This modern newer home features 2 bedrooms, 2.5 baths, with plenty of space to spread out. A fully equipped kitchen, fast Wi-Fi, free parking, and stylish living spaces. Just 6 min from Gaylord Opryland, Grand Ole Opry, and Opry Mills Mall, with easy access to Downtown Nashville, Broadway, concerts, events, restaurants & grocery stores. Perfect for couples, families, business travelers, & weekend trips🔑
+
+The space
+Bedrooms:
+New memory foam mattresses (twin to queen sizes)
+Tall ceilings and abundant natural light
+Spacious open floor plans for a balance of privacy and community
+
+Kitchen:
+Barstool seating for 4
+Three-story open floor plan to keep the cooks in the loop with the fun and TV
+Kitchen equipped with pots, pans, storage containers, coffee maker, wine glasses, and corkscrews
+Supplies for cooking or reheating meals
+
+Living Room:
+Mounted TV with streaming
+TV also available in 1 of 2 bedrooms
+Technology & Security:
+Fast internet with AT&T fiber
+Ring security system
+Smart keypad for entry
+Smart thermostat
+
+Additional Amenities:
+Towels, linens, irons & boards
+2 hair dryers
+New Samsung washer and dryer with detergent
+Wi-Fi, streaming, and more provided
+
+Guest access
+Access to the entire townhome as well as two car garage. Smart keypad to enter.
+
+Other things to note
+Permit Number #2022069600
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Savannah
+Host User ID: 158347657
+Host Profile URL: https://www.airbnb.com/users/show/158347657
+Host Profile URL Source: public user permalink from passport userId
+Hi my name is Savannah, I m currently live in Nashville, TN!  I have a love for the mountains which developed when I got my undergraduate at UTC in Chattanooga. Gymnastics is my passion, and anything health/fitness/outdoors related! I am responsible and respectful and get along with most everyone- always enjoy great company! I’m an open book and we want to give all our guests a 5 star experience! :)
+My work: Dental Hygienist
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+157 reviews
+4.96 out of 5 average rating
+4 years of hosting

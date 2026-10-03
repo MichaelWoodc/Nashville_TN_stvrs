@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1758017069249027403
+Latitude: 36.1737
+Longitude: -86.8128
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your home away from home in Nashville 
+
+This 3BR/2BA home is perfect for weekend getaways, temporary housing, extended stays, work trips, or even day bookings.
+
+Enjoy a full kitchen, private deck, and spacious backyard 
+All just minutes from Downtown Nashville.
+
+Book direct and save more!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandee
+Host User ID: 171596479
+Host Profile URL: https://www.airbnb.com/users/show/171596479
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+3.67 out of 5 average rating
+1 month of hosting

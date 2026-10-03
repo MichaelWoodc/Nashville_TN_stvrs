@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/4857128
+Latitude: 36.09462
+Longitude: -86.792
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our 1-bedroom basement apartment features full-bath, kitchen, and a large living area.  Just 10 minutes from downtown, it's set on a quiet street surrounded by nature. There is private entry, parking, and lots of personal touches.
+
+Families of students at Lipscomb, Belmont, and Vanderbilt love our proximity to the campuses. Couples love the quiet retreat from a full day of touring the city. Musicians love the upright piano and woody surroundings. And ALL are welcome!
+
+The space
+The apartment is the basement of our house. It has been decorated and furnished with care, featuring many impressionist paintings by my wife.  Wooden furniture, earth tones, rich fabrics, and stained concrete flooring softened by area rugs create a warm and natural atmosphere.  In short, it's cozy, calming, and well cared-for.
+
+The comfortable, well-lit work station is surrounded by plants, with reliable high-speed WiFi and easy-to-access outlets for charging.   The kitchen table is also a comfortable place to work, with plenty of outlets and lots of natural light.  Even the carport has electrical outlets and seating for working outside on good-weather days.
+
+Remember that our family lives in the house above this apartment.  You will hear us walking around upstairs!  The sound of footfall above is simply something we can't fully control.  Please understand this before booking.
+
+Guest access
+- Full kitchen: stove, oven, microwave, full-sized refrigerator, pots, pans, dishes, silverware (no food provided)
+- Keurig coffee-maker (selection of coffee pods provided)
+- Toaster 
+- High-speed wireless Internet 
+- Entertainment center: HD TV, Roku, DVD, VHS, CD, phonograph
+- Queen bed
+- Queen sleeper sofa
+- Separate entry
+- Designated parking space
+- Upright piano
+
+Other things to note
+Though your space is private, remember that we live above your apartment. We have two children and we are all usually awake by 7am. We do our best to limit noise in the early hours, but the house is 70 years old and hearing footsteps above is unavoidable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Patrick
+Host User ID: 24987037
+Host Profile URL: https://www.airbnb.com/users/show/24987037
+Host Profile URL Source: public user permalink from passport userId
+My wife and I are both lifelong educators.  My wife is also a painter and I'm a musician myself.  We have two small children, and in a previous life we traveled extensively.  We've hosted families and friends visiting from afar, and we've been hosted in others' homes in our travels.  
+
+We believe hospitality is a virtue. We love music. We believe in taking care of the earth. We live within our means. We have been changed  by travel and exposure to differences.
+Speaks German and Portuguese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+688 reviews
+4.92 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/16176488
+Latitude: 36.2611
+Longitude: -86.72892
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville's most unique vacation rental! 
+Stay at the home of Hank Snow!  
+Just imagine how amazing your vacation to Music City U.S.A. will be as you and your guests relax at Hank Snow's house! Now fully restored with the beautiful Cowboy and Country Western ambience unique to this legendary star of the Grand Ole Opry. Feel the nostalgia as you sit at the piano that Elvis Presley played! Just minutes away from The Grand Ole Opry and all major Nashville attractions.
+
+The space
+You can easily make yourself at home in this complete house with all the necessities to house 8 people comfortably.  Though the house can sleep 8 we book by the person opening just enough bedrooms for those booked guests. Enjoy the nostalgic period pieces of Hank Snow.  Play the piano that Elvis played, eat dinner at the table where Hank, Marty Robbins and many others sat.  Sleep in the Room where Hank slept.  There is a Barbeque and patio furniture for your convenience.
+
+Guest access
+You will be able to visit that Rainbow Ranch barn and do photos.  There are many sites on the Ranch that were featured on album covers, you will be able to recreate your own version of those covers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sandy
+Host User ID: 105612162
+Host Profile URL: https://www.airbnb.com/users/show/105612162
+Host Profile URL Source: public user permalink from passport userId
+When you visit Nashville you should try some of my favorite places.  If you want to try some local fair you should try the catfish at Rippy's on Broadway or BBQ at Jack's.  If you would like to try biscuits and grits for breakfast you should try Cracker Barrel.  The easiest way to get from Hank's House to Broadway is to use Uber, it easy to set up and they are always fast to arrive at the house.  There are many things in the area to go and see like Loretta's Hurricane Mills, Johnny Cash's museum, Country music hall of fame.  Cal and I love to go down to Broadway and walk around looking at cowboy boots, listening to music and having a few drinks.
+Lives in Edmonton, Canada
+Response rate: 90%
+Responds within an hour
+Superhost
+10 years hosting
+61 reviews
+4.92 out of 5 average rating
+10 years of hosting

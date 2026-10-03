@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/571035898809525340
+Latitude: 36.12384
+Longitude: -86.76236
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This brand new townhouse with free parking is both luxurious and cozy and the perfect base for your Nashville adventure. 
+
+With 3 King bedroom suites, each with their own televisions and private bathrooms, it’s the perfect place for groups to feel spread out while also being right in the middle of all the action!  
+
+Walk to Broadcast Brewing & Petrichor Coffee.
+
+The space
+Access to downtown is a 5 min rideshare away, 2 mins from Berry Hill and Big Machine Bar, 3 mins from ML Rose and 8th South, 5 mins from 12 South and WeHo districts with an enviable array of bars, breweries and restaurants (we will point out some of our favorites for you to help you narrow it down!). Not to mention if you are catching a Nashville SC game you can simply walk to the stadium!
+
+The bright and airy open plan living area has a fully equipped spacious kitchen, a dining area that can comfortably accommodate eight at the table, and a modern seating area with Smart TV, super fast internet and plenty of thoughtful design touches.
+
+Should you be driving, we have easy access to both the 65 and 440 Interstates, and have a garage that can accommodate 2 cars.
+
+Guest access
+This is a three story home with one suite on the ground floor, living space on the middle floor and the other two suites on the top floor.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 172390939
+Host Profile URL: https://www.airbnb.com/users/show/172390939
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm James. I moved to Nashville from London, UK in 2013. I started hosting on Airbnb in 2015 after staying in homes while travelling across Europe.
+One thing I love most about Nashville is the food scene. It is always evolving to feel free to reach out for recommendations.
+Born in the 80s
+Where I went to school: London, UK
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+416 reviews
+4.89 out of 5 average rating
+9 years of hosting

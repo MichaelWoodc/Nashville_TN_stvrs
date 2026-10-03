@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/45399105
+Latitude: 36.1862
+Longitude: -86.76294
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Chic cozy guest house in the center of Nashville's new foodie oasis in McFerrin Park! Soak in the west coast vibes with polished concrete floors, fully stocked kitchen, dedicated workspace, familiy amenities like pack n play, and a plush queen bed for the sleep of dreams! Walking distance to Folk, Sean Brock's Audrey, and his newest, June, Wilbur Street Tavern, Red Headed Stranger, and more!
+
+*9 mins drive from Broadway, Music City Center, Nissan Stadium, and Bridgestone Arena! 12 mins to Opry
+
+The space
+The entire guest cottage and parking area!
+
+Guest access
+Guests have use of the entire guest cottage, parking area, and outdoor pergola seating area!
+
+Other things to note
+We have a Ring doorbell camera for security.
+
+*We highly recommend purchasing travel insurance as there are no exceptions made to our cancellation policy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neal
+Host User ID: 15586733
+Host Profile URL: https://www.airbnb.com/users/show/15586733
+Host Profile URL Source: public user permalink from passport userId
+I've been a Superhost on Airbnb for 10 years and love sharing my favorite city with people from all over the world!
+Born in the 80s
+My work: Hospitality, Music
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5622 reviews
+4.93 out of 5 average rating
+12 years of hosting

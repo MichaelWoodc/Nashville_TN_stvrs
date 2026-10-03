@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/866869353614261095
+Latitude: 36.08109
+Longitude: -86.74656
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our home is the perfect Nashville getaway! Newly remodeled, pet-friendly home in a serene neighborhood. Just 10 minutes from Downtown & Broadway’s music scene, 10 minutes from Green Hills/12 South/Brentwood, 15 minutes from airport & historic Franklin, 1 mile from zoo. Enjoy a gated driveway, spacious fenced yard, smart TVs, high-speed Wi-Fi, & luxe hotel-style amenities. Perfect for family trips, bachelor/bachelorette parties, or work retreats. Book now for an unforgettable Music City escape!
+
+The space
+LAYOUT
+-Open concept kitchen, 65inch Smart TV, and dining room - dining table with seating for 6. Kitchen counter seating for 3. Couch is a queen pull-out bed. *Note that there is no longer a rug underneath the couch/coffee table.
+-Kitchen fully equipped with cookware, dishware, Keurig, and k-cups.
+-4 bedrooms - two with King beds, one with a Queen bed, and one with 2 twin bunk beds.
+-The master suite contains the master room, laundry room, en suite full bathroom with double sinks, and the twin bunk room (sliding barn door separates the room).
+-2 full bathrooms - one in the master suite and the other off the kitchen and near the other bedrooms.
+-2 Smart TV’s - one in each king bedroom.
+-Washer & Dryer available for guest use.
+
+OUTDOORS
+-Large, fenced backyard that is great for dogs.
+-Private driveway with a gate.
+
+WHAT'S IN THE HOUSE
+-Fresh bed linens provided. We’ll provide towels, wash cloths, shampoo, conditioner, body wash, and lotion. 
+-Each full bathroom has a hair dryer and makeup washcloths.
+-The laundry room has one steamer, iron & ironing board that is attached to the back of the door.
+-We also provide an *initial round* of toilet paper, paper towels, & coffee, if you need more, you can stock up from the grocery store.
+
+OTHER
+-Pack and Play (Sheet and mattress protector provided. If you use them PLEASE put in the laundry room to be washed when you check out.
+
+Guest access
+Guests have access to the entire house with the exception of any locked owner's closets and the attic.
+
+Other things to note
+Please read our "House Rules" section, which you agree to upon booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maddie
+Host User ID: 54620521
+Host Profile URL: https://www.airbnb.com/users/show/54620521
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+105 reviews
+4.99 out of 5 average rating
+3 years of hosting

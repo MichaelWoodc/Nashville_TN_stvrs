@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/22279337
+Latitude: 35.99953
+Longitude: -86.89271
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Affordable home in a great location—just a short drive to Main Street, Downtown Franklin, Cool Springs Mall, Brentwood, Green Hills, Leiper’s Fork, and 25 min to Downtown Nashville. Peaceful, tree-surrounded log cabin with a huge entertainment deck, pool, and hot tub. Pack & play, high chair, and toys available on request (always accompany small children by pool/deck). New fridge, dishwasher, induction stove (2024). Older, lived-in, and loved home.
+
+The space
+Feel free to make yourself at home here! Enjoy use of the TV, Sonos surround, kitchen appliances, washer & dryer, and wonderful skylights, Tesla charger, wing mural, massive deck with BBQ and private pool and hot tub (privacy fence between pool and neighbors!), big sunroom with tall windows. Excellent Summer escape for the family!
+
+Please note- one bedroom with a queen bed is a guest room beneath the sunroom. It can be accessed via the deck and you just go up the stairs into the main house for bathroom access. Bedroom 1,3 and 4 have Smart TVs.
+
+Please note that this house is 50 years old and tucked away in the woods. With that comes the charm and quirks of an older home, as well as the intimacy of being immersed in nature. This has both pros and cons.
+
+If you’re looking for a brand-new, pristine stay, this may not be the right fit. But if you’re drawn to a place that’s been thoughtfully cared for—where the character of an old log cabin shines through, with massive sunroom windows inviting in the beauty of the trees and visiting wildlife—this home offers something special. You’ll also enjoy fun amenities like the pool, hot tub, and a screened-in porch by the poolside for relaxing outdoors in comfort.
+
+For families with children, we provide a high chair, pack-and-play, books, and some toys to help make your stay easier. We also want to ensure you feel at ease bringing your kids to this forest setting. Please note: for families with young children, we recommend supervising them closely when they’re on the deck, as it sits on a slope and requires extra caution.
+
+During hot summer days, 92 degrees and up, if you are constantly running between the house and pool the AC will struggle to keep the great room temperature below 72 degrees. The great room has a lot of windows and vaulted ceilings. If you keep the doors closed the AC will works its way below that temperature.
+
+Guest access
+The entire place is yours to enjoy.
+
+Other things to note
+The bedroom downstairs with the queen bed  has separate AC / heating unit from main house. It is equipped with a small kitchen, fridge, micro, sink, TV, black out curtains and separate entrance from main house. For bathroom access, guest must go outside and upstairs to enter main house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 115098023
+Host Profile URL: https://www.airbnb.com/users/show/115098023
+Host Profile URL Source: public user permalink from passport userId
+Fun fact: I write and illustrate children’s books.
+I'm obsessed with: Travel and food!
+Response rate: 90%
+Responds within an hour
+10 years hosting
+68 reviews
+4.79 out of 5 average rating
+10 years of hosting

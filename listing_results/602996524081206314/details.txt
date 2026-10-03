@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/602996524081206314
+Latitude: 36.18241
+Longitude: -86.68948
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sweet retreat has a private entrance of your own, with a peaceful patio all to yourself overlooking a beautiful Tennessee	 outdoor scene! 
+
+Equipped with a washer, dryer, full size fridge, microwave , toaster oven, coffee maker and dining room table.  A living room space perfect for entertaining with a tv and comfy futon and electric fireplace. A spacious bedroom with a king size bed, full bathroom and walk in closet!
+
+The space
+Bedroom 1- King size bed , Full dresser, and chess, walk in closet ,  iron, iron board
+
+Extras- air mattress , sheets, crib upon request, 
+
+Kitchen-microwave , full sink, full fridge and freezer, air fryer 
+
+Stackable washer and dryer 
+
+Bathroom-private bathroom, full size walk in shower, toilet, sink, provide towels , shampoo and hair dryer, que tips and shower gel .
+
+Guest access
+ALL GUEST will have a private code to their private entrance in order to enter and depart unit.with full access to bedroom, dining and living area,private patio, and private bathroom and kitchen
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sheryl
+Host User ID: 367476495
+Host Profile URL: https://www.airbnb.com/users/show/367476495
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Southern Illinois University
+My work: Construction/design
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+251 reviews
+4.93 out of 5 average rating
+4 years of hosting

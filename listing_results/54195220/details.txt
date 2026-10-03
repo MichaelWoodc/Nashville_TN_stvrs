@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/54195220
+Latitude: 36.15251
+Longitude: -86.82701
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our stairway is filled with murals of your favorite Country Music Stars from Dolly Parton, Elvis and Taylor Swift! Located just minutes to Broadway, and the house features a rooftop of your very own!! This three story Airbnb (plus a rooftop) is equipped high end finishes, an open-floor plan and mirrors-galore! We can't wait to host you! 
+
+Permit #2021065061
+
+The space
+Our home has three floors  + a rooftop! We have 4 queen beds (2 are located in one bedroom), 1 twin rollaway beds that you can put where you'd like, 2 full sized bunk beds (located in third bedroom closet) and 2 twin air mattresses, if you need!
+
+Guest access
+You will receive your door code in your check-in instructions which you will go to the garage and type in the garage code, then your door code to get in the house. There are two parking spaces in the garage and one parking space on the side of the house along the fence. You'll have access to the entire home, with three floors + a rooftop with a couch and gas fire!
+
+Other things to note
+There are plenty of restaurants and shopping nearby - L&L Marketplace is one of my personal favorite places to visit!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 207550233
+Host Profile URL: https://www.airbnb.com/users/show/207550233
+Host Profile URL Source: public user permalink from passport userId
+My name is Jordy, a Nashville Native who loves to travel! I am a Realtor in Nashville and an Entrepreneur at heart!  I enjoy hanging out with my Golden Retrievers Oakley and Ivy, being on the lake and attending Predators games! 
+
+Life Motto: Be the change you wish to see in the world!
+Born in the 90s
+Where I went to school: University of Tennessee, Knoxville
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+632 reviews
+4.99 out of 5 average rating
+8 years of hosting

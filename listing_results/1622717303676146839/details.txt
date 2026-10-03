@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1622717303676146839
+Latitude: 36.14917
+Longitude: -86.79609
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Music Row, where Nashville’s biggest hits are made. Surrounded by legendary recording studios, you’re steps from iconic bars like Losers Bar & Grill and Winners Bar & Grill for live music and unforgettable nights. When you’re ready for the neon glow of Broadway, it’s just over a mile away. Walk, explore, and come home to recharge in comfort — the perfect Nashville stay.
+
+The space
+Welcome to your Nashville home base in the heart of it all. This stylish condo puts you right between the energy of downtown and the charm of one of the city’s most walkable neighborhoods.
+
+You’re just minutes from the live music and neon lights of Broadway, and a quick ride to hotspots like The Gulch and 12 South. Grab coffee in the morning, explore local boutiques, or head out for dinner and drinks without ever feeling far from home.
+
+Inside, the space is designed for comfort and connection. Expect:
+
+• Fully stocked kitchen with everything you need to cook or cater
+• Comfortable bedrooms with hotel-quality bedding
+• Smart TVs + fast WiFi for work or streaming
+
+Whether you’re in town for a bachelor/bachelorette trip, a weekend getaway, or a work stay, this home gives you the perfect mix of location, comfort, and style.
+
+Stay close to the action — and come home to relax.
+
+One reserved parking space is included with the condo.
+
+Guest access
+Guests can access the property via smart lock
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 355736677
+Host Profile URL: https://www.airbnb.com/users/show/355736677
+Host Profile URL Source: public user permalink from passport userId
+Although no native to Nashville, I have been here almost 5 years and love every bit of this town and am excited to have a space to share with people who get to experience the heart of Nashville.
+
+I love to travel myself, but Nashville will always be home. I am very active, love to be outdoors, watch sports and have been a country music fan since I was a girl. Every year I find a new appreciation for this city and am excited to share with guests!
+Where I went to school: The University of Tennessee Knoxville
+My work: Software Sales
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+114 reviews
+4.96 out of 5 average rating
+2 years of hosting

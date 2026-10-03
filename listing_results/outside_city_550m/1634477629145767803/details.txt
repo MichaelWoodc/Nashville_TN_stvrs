@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1634477629145767803
+Latitude: 36.24179
+Longitude: -86.53715
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the privacy of an entire home in a quiet Mt. Juliet neighborhood just outside Nashville. Guests have keypad self-check-in, a comfortable bedroom with a TV, a dedicated desk for remote work, high-speed Wi-Fi, a full kitchen, laundry, driveway parking, and a large backyard. Dogs welcome (yard not fenced). Additional rooms are locked and protected by alarm/camera monitoring. The fireplace is not operational. About 25–40 minutes to downtown Nashville and 20–30 minutes to BNA airport.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rachelle
+Host User ID: 334837982
+Host Profile URL: https://www.airbnb.com/users/show/334837982
+Host Profile URL Source: public user permalink from passport userId
+Building businesses while collecting passport stamps! Always planning my next adventure ♥️ I appreciate good food, genuine connections, and the little moments that make travel unforgettable✨
+Born in the 90s
+Where I went to school: University of Washington
+Response rate: 100%
+Responds within an hour
+11 months hosting
+3 reviews
+5.0 out of 5 average rating
+11 months of hosting

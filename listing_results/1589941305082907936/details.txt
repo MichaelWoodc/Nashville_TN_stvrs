@@ -1,0 +1,70 @@
+URL: https://www.airbnb.com/rooms/1589941305082907936
+Latitude: 36.19740625249528
+Longitude: -86.77132169842548
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from new heights! This modern retreat combines stunning rooftop skyline views with the perfect location…close enough to feel the city’s energy, far enough to enjoy peace between adventures. Your private rooftop oasis is where memories happen…gather around the fire table as twilight paints the skyline, grill dinner with city views, or start mornings with coffee and that famous Tennessee sunrise. Broadway’s live music is just 10 minutes away!
+
+The space
+★Highlights★
+- Rooftop with fire pit + Skyline Views + Gas Grill
+- 3 miles from downtown
+- Professionally Decorated
+- Fully Stocked Chef's Kitchen
+
+★★Must Climb Stairs★★
+
+Layout
+★Level One★
+2 Car Garage 2  (Trucks/SUVs longer than 21’6” will NOT fit in garage)
+Laundry Room - Full Sized Washer + Dryer (pods and dryer sheets included)
+
+★Level Two★
+Bedroom One - King Bed, Smart TV + Full ensuite Bathroom with Walk-in Shower + Double Sinks, Room Darkening Drapes
+Bedroom Two - Queen Bed, Smart TV + Room Darkening Drapes
+Bedroom Three - Queen over Queen Bunkbed, Smart TV + Room Darkening Drapes
+Hallway Bathroom - Full Bathroom with Shower/Tub combo 
+
+★Level Three★
+Kitchen - Fully Stocked, Gourmet Kitchen w/Island Seating + Dining Table + Coffee/Tea Station
+Hallway Bathroom - Full Bathroom with Shower/Tub combo
+Living Room with Queen Sofa Sleeper + Smart TV
+
+★Level Four★
+Rooftop - Dining Area, Soft Seating, Gas Grill + Fire Pit
+
+Guest access
+Guests have access to entire home except locked storage closets.
+
+Other things to note
+★★Must Climb Stairs★★ There are 3 FULL Flights of stairs in the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 726638515
+Host Profile URL: https://www.airbnb.com/users/show/726638515
+Host Profile URL Source: public user permalink from passport userId
+Welcome to The Lucys @ Nashville! We have been hosting here in Nashville for over 10 years and are excited to share this gem with you!
+My work: Host
+I'm obsessed with: Nashville
+Response rate: 100%
+Responds within an hour
+Superhost
+9 months hosting
+206 reviews
+4.95 out of 5 average rating
+9 months of hosting

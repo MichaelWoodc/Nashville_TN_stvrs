@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/20610025
+Latitude: 35.96291
+Longitude: -86.66374
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Its a one bedroom outhouse, happy place amidst the woods, serenity and calmness in a family friendly neighborhood!.
+
+This is an outhouse behind the main. Main is used as an office for my decor business.
+
+The space
+1 bedroom with walk in closet and bathroom
+living room has a sofa bed and 2 chairs.
+1 kitchenette with stove and fridge
+outdoor deck has 4 chairs
+
+Other things to note
+Please bring your toiletries and towels
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shikha
+Host User ID: 24130066
+Host Profile URL: https://www.airbnb.com/users/show/24130066
+Host Profile URL Source: public user permalink from passport userId
+Speaks Bengali, English, Hindi, and Punjabi
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+19 reviews
+4.47 out of 5 average rating
+12 years of hosting

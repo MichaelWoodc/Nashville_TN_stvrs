@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/22464763
+Latitude: 36.16921
+Longitude: -86.74914
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cook up a delicious meal in the brand new granite kitchen with high-end appliances. This spacious home has an open-plan layout with elegant furnishings, wooden flooring, and wooden shutters. It also boasts a comfy outdoor area with rattan furniture.  Great neighborhood and great location!  ONLY ONE MILE TO BROADWAY!
+
+Permit number:  2/0/1/8/0/0/3/7/8/4
+
+New granite kitchen and appliances!  Open floor plan to gather.
+
+Guests have access to the street level and deck on back of house. Please do not use the basement area or back driveway.
+
+This is your space and I will be giving you complete personal space. If you need anything feel free to call, text, or email.
+
+This friendly neighborhood is in a great location in the heart of East Nashville. It is walkable to the famous Five Points Area, and about a mile from the stadium and downtown hot spots.
+
+There is a ‘ring doorbell’ at the house. No other cameras.
+
+Uber will get you anywhere in the city in minutes or you can easily walk to restaurants, bars, parks.
+
+The space
+New granite kitchen and appliances!  Open floor plan to gather.
+
+Guest access
+Guests have access to the street level and deck on back of house. Please do not use the basement area or back driveway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 54483732
+Host Profile URL: https://www.airbnb.com/users/show/54483732
+Host Profile URL Source: public user permalink from passport userId
+Travel
+Lives in United States
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+357 reviews
+4.95 out of 5 average rating
+10 years of hosting

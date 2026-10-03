@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/956059868792183938
+Latitude: 36.34932
+Longitude: -86.47499
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful new townhome on Old Hickory Lake next to the Gallatin Marina! This home comes fully stocked with essentials for your getaway! Featuring 3 bedrooms, 2.5 baths, living room with a pull out couch, loft with a bed and a screened-in porch with remote control screens for your ultimate outdoor enjoyment. Located just 30 mins from Nashville Airport! Make sure to check out all that Gallatin Marina has to offer, including; boat rentals, tiki cruises and Awedaddys Bar & Grill. (seasonal)
+
+Other things to note
+Please note- Security cameras are located outside at the front door and back door for security and safety of our guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jessica
+Host User ID: 237325123
+Host Profile URL: https://www.airbnb.com/users/show/237325123
+Host Profile URL Source: public user permalink from passport userId
+My work: Realtor
+Speaks English
+Response rate: 90%
+Responds within an hour
+Superhost
+3 years hosting
+54 reviews
+4.98 out of 5 average rating
+3 years of hosting

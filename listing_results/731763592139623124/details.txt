@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/731763592139623124
+Latitude: 36.07637
+Longitude: -86.93875
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located 15 minutes from downtown Nashville and 5 minutes from the scenic Natchez Trace Parkway, our newly remodeled home is perfect for your group or family trip to Music City. You'll be walking distance from One Bellevue and Ford Ice Center, with endless food and entertainment options. You will enjoy Belle Meade Winery, Cheekwood and Steeplechase within a 5-10 minute drive.  Don’t forget to visit the beautiful Percy Werner and Edwin Werner state parks. Message us today for more info!
+
+The space
+This fully renovated one level ranch is the perfect location for friends and family to enjoy everything that Music City has to offer!  You'll be a quick 15 minute drive to downtown Nashville and 1 mile to the brand new One Bellevue Place and Ford Ice Center.  
+
+The home features a spacious open living/kitchen/dining area with 3 bedrooms and 2 full baths!  You will enjoy a King bed and 2 Queens in the large bedrooms. You'll have access to a private back yard with a covered patio and outdoor dining table with room for 6.  Relax in the living room with a large TV and access to all of your streaming services.
+
+Free Parking onsite!   
+
+All of the beds feature BRAND NEW luxurious matrasses with 100% cotton bedding!
+
+Guest access
+You'll have full private access to the whole home!
+
+Other things to note
+The grill is not part of the cleaning crew's responsibility, so use it at your own risk.  Please replace the cover if you do use it.  
+
+We have a great professional landscaping team that looks after the property, however there are times when storms/heavy rain have prevented them from accessing the property for longer than normal.  During the summertime, grass grows fast in the south... Please let us know if you have major concerns with the state of the yard, but keep in mind that we cannot control the weather!     
+
+The driveway has 2 pathway lights to mark the entrance.  It's a little dark at night, but the home is lit up!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Henley
+Host User ID: 126663007
+Host Profile URL: https://www.airbnb.com/users/show/126663007
+Host Profile URL Source: public user permalink from passport userId
+I live in Nashville and travel for a living. I also love to travel with my girlfriend to places on weekends when possible.
+Where I went to school: Nashville, TN
+My work: Consultant / SAHF
+6 months hosting

@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/639240155541813153
+Latitude: 36.1918
+Longitude: -86.70756
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This newly renovated home is a peaceful oasis in East Nashville, walking distance to beautiful nature at Shelby Bottoms Nature Center & Greenway & Historic Airfield. This friendly, Nashville neighborhood is 15 min drive to popular areas such as Downtown, The Gulch, Germantown, Music Row, 12-South, 5 Points, and the Grand Ole Opry. 
+
+Relax with the whole family in this comfortable, clean home or enjoy all the live music, food, and fun that the city offers.
+
+No parties allowed. Firm policy.
+
+The space
+Bedrooms:
+- Fresh linens and ultra-comfortable mattresses.
+- King Bedroom
+- Queen Bedroom w/ connected Full Bath 
+- Full Bedroom
+
+Bathrooms
+- Fully equipped with all the essentials, including shampoo, conditioner, body wash, blow dryers, and fresh towels.
+- Full Bath w/ Shower/Tub
+- Full Bath w/ Standing Shower (direct access to Queen Bedroom)
+
+Kitchen
+- Fully stocked kitchen, perfect for entertaining or snacking.
+- Fridge w/ Ice Maker
+- Stovetop & Oven
+- Dishwasher
+- Small appliances such as toaster, coffee maker, and microwave.
+- Cookware, silverware, dishes, cups, mugs, wine glasses.
+
+Living Area:
+- Large sectional and chairs, ideal for bigger groups and game nights.
+- 65" Smart TV w/ Streaming Access (Netflix, Hulu, HBO Max, Youtube TV,  Amazon Prime, etc) *Personal Account Required*
+
+Laundry:
+- Washer and Dryer provided.
+
+Guest access
+Guests will be provided with an electronic key-code prior to your visit for a seamless and easy self-check in. Each guest will receive a unique and private access code.
+
+Feel free to make yourself at home. The entire home is yours to relax and enjoy. The host lives on site in separate home, so please don't hesitate to reach out.
+
+Other things to note
+Internet Access:
+- Highspeed Wifi is available throughout the home.
+
+Other
+- Please no parties allowed or hosted. This is a firm policy. 
+- Please no signage on the walls since it damages the paint when removed. 
+- No smoking.
+- No pets.
+
+STRP Permit: /2022031355/
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Loren
+Host User ID: 461933735
+Host Profile URL: https://www.airbnb.com/users/show/461933735
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+161 reviews
+4.99 out of 5 average rating
+4 years of hosting

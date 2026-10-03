@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/639302490138705613
+Latitude: 36.16826
+Longitude: -86.74681
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy space with all the amenities you need. Located in east Nashville in close distance to restaurants, bars, breweries, and parks.
+
+**Note the shower is small and may not be suitable for everyone. It measures about 98 in x 28  x 28. See pics.
+
+• Fast WIFI
+• Great for individuals, families, mellow groups
+• Keyless Entry
+• Washer/Dryer
+• Audio Receiver w Bluetooth
+• Free Parking
+• Projector
+• Backyard
+
+Excessive energy usage will be an additional charge. Enforced only once in 100+ host bookings.
+
+The space
+Within 1 mile you can find...
+
+The Wild Cow
+Five Points Pizza
+Noble's Beer Hall
+Frothy Monkey
+Duke's
+Edley's BBQ
+Smith & Lentz Brewing and Pizza
+Lipstick Lounge
+Basement East
+Rosemary & Beauty Queen
+Shelby Park
+A grocery store, a convenience store, you get the idea...
+
+***Note the shower is small and may not be suitable for everyone. It measures about 98 in x 28  x 28. See pics.
+
+The house has 2 bedrooms and 1 bathrooms. The open living room has a wall-mounted smart TV connected to a Hifi receiver setup. You can connect your music via Bluetooth.
+
+The kitchen is outfitted with all the cookware you need to prep a good meal. You'll find coffee, tea, and spices in the cupboard.
+
+Both bedrooms have queen sized beds. The blue bedroom is outfitted with a projector.
+
+The large backyard is all yours where you'll find adirondack chairs and a firepit.
+
+Permit #2022035807
+
+Guest access
+The home office will be locked during your stay. Otherwise, the rest of the house is yours.
+
+Other things to note
+There are security cameras at both house entrances. We will have all notifications turned off during your stay as we have zero interest in keeping tabs on you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kev
+Host User ID: 19836266
+Host Profile URL: https://www.airbnb.com/users/show/19836266
+Host Profile URL Source: public user permalink from passport userId
+I'm an avid Airbnb traveller myself and am happy to provide comfortable housing in both Portland and Nashville
+My work: Engineer
+Lives in Portland, Oregon
+Response rate: 100%
+Responds within a few hours
+Superhost
+11 years hosting
+75 reviews
+4.81 out of 5 average rating
+11 years of hosting

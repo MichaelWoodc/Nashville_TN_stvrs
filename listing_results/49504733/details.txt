@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/49504733
+Latitude: 36.04623
+Longitude: -86.91406
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 9
+beds: 18
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+“AS SEEN ON CBS STAYCATION!”
+Extraordinary property for discerning tastes,  as seen on Staycation!
+Upscale everything. Massive rooms (6 En suite). Heated pool* and hot tub. Outdoor gardens. Huge Theatre. Gym with high end equipment. True Golf Simulator. 9 bedrooms, 10 baths. Luxurious in every way, yet warm and family oriented. Hosts and Boasts FUN!  On 3 acres.  Bring your family or close friends to make memories and connections that will last a lifetime.
+
+The space
+Unique and Rare French Country Inspired Estate. Private setting near Warner Parks…4 bedrooms on the main level, in-law suite on lower level with 2nd kitchen. Endless possibilities for fun and making connections!
+
+We offer unmatched concierge services, where Kaitlin can arrange outings (tours/ roof top bars, Vineyard/Winery, etc.), a chef to come in to prepare meals, an acoustic concert, flower arrangements or whatever you can imagine that would make your trip over the top delightful… available upon booking…
+
+(*There is an additional fee for heating the pool.)
+
+Guest access
+Guests enjoy the entire home and a 3 acre yard!
+
+Other things to note
+Pool towels provided and shampoos and conditioners. Hair dryer in each bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hannah
+Host User ID: 153828561
+Host Profile URL: https://www.airbnb.com/users/show/153828561
+Host Profile URL Source: public user permalink from passport userId
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+123 reviews
+4.96 out of 5 average rating
+9 years of hosting

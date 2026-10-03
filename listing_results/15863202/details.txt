@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/15863202
+Latitude: 36.139
+Longitude: -86.7699
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the heart of Nashville’s newest hot neighborhood, WeHo (Wedgewood-Houston),  the Hamilton House is nestled in the lovely designer/artist neighborhood which sits just 2 mi up the road from downtown. Centrally located it has easy access ($8 Uber/Lyft ride) to restaurants/bars/live music in 12 South, The Gulch, Downtown, Midtown, & East Nashville. Walk to trendy bars, coffee shops, etc just a few blocks up in WeHo!
+
+The space
+Your private space is a studio apartment about 600 sq ft. It was recently renovated and it perfectly accommodates two people, making for an unforgettable getaway in the heart of Nashville's most laid back neighborhood. The property is 1/3 of an acre with a large fenced in backyard that overlooks the Nashville skyline. As a guest, you'll love the clean space that's close to everything. All guests should be approved by the host prior to staying. I’m happy to incorporate all guests but I must be notified of who’s staying. Please note that I will not charge extra fees for kids.
+
+Guest access
+The Hamilton House was originally built in the 1930's and has since completely remodeled in 2019. The downstairs holds the private studio apartment (which is what is listed), complete with separate enclosed driveway in the backyard and private entrance. The door to the upstairs house remains locked with a separate key and guest will not have access. The house is equipped with exterior security cameras at the entrances. I live upstairs with a friend and while we’re aware and respectful of our guests, you may occasionally hear our footsteps in the evenings. If there’s ever a time you can hear us and it’s bothersome please let us know, although I’ve not found this to be a problem thus far in my hosting. Quiet hours are from 11:30pm-8am. Please be respectful of this time.
+
+Other things to note
+Please note that the service fee is for the mandatory state and local taxes and unfortunately I can’t control it.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Whitney
+Host User ID: 996983
+Host Profile URL: https://www.airbnb.com/users/show/996983
+Host Profile URL Source: public user permalink from passport userId
+Oregonian transplanted to Nashville in 2007.
+My work: Global Health Nurse
+Lives in Nashville, Tennessee
+Response rate: 80%
+Responds within an hour
+Superhost
+10 years hosting
+398 reviews
+4.93 out of 5 average rating
+10 years of hosting

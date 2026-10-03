@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1636964978763730472
+Latitude: 36.17527
+Longitude: -86.78907
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our newly built carriage house in the heart of Historic Germantown, one of Nashville’s most walkable neighborhoods. 
+
+The property is 1 mile north of downtown and guests can easily walk to award-winning restaurants, coffee shops, breweries, cocktail bars, and local boutiques that are just minutes away.
+
+Enjoy a private entrance, free onsite parking, and your own balcony - offering the perfect blend of comfort, quality, and a prime location.
+
+The space
+This private one-bedroom guest house features a large bedroom, full bathroom, well-equipped kitchen, in-unit laundry, and a bright living area with vaulted ceilings and modern finishes. Guests also enjoy a private balcony, perfect for morning coffee or relaxing after exploring the city.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kathryn
+Host User ID: 61627951
+Host Profile URL: https://www.airbnb.com/users/show/61627951
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Kathryn, based in Nashville, but work remotely and travel often. I'm also an Airbnb host, so I value keeping properties pristine!
+My work: Finance
+Most useless skill: Wiggling my ears
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+32 reviews
+5.0 out of 5 average rating
+6 months of hosting

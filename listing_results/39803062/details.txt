@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/39803062
+Latitude: 36.15033
+Longitude: -86.79534
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to famous Music Row in downtown Nashville!  This condo is steps from RCA Studio B,  ASCAP, Curb Records, BMI, Big Machine Records and many more!  Walk on over to great restaurants like the famous Hattie B's, many other restaurants and nightlife or take a 7min Uber to Broadway, The Gulch, Germantown and 12 South.  Also walking distance to Vanderbilt and Belmont University
+
+The setup:
+Bedroom 1- Queen bed
+Bedroom 2- Queen bed
+Fully stocked kitchen and laundry available in the condo.
+
+The space
+You have the entire condo to yourself but there are other units in the building so please be respectful of neighbors.
+
+Absolutely NO smoking inside the unit.  
+
+Items provided:
+* Hair dryer in the bathroom
+* Iron and ironing board
+* Keurig coffee maker
+* Linens and towels for each guest
+
+Parking is available at the condo (free) and on the street 
+
+Distance to...
+Broadway Area- 10min/1.9miles 
+The Ryman- 9min/1.8miles
+Vanderbilt- 2min/.5miles
+Belmont University- 6min/1.2miles
+12South Neighborhood- 8min/2.1miles
+Grand Ole Opry- 18min/12.4 miles (keep traffic hours in mind with this one)
+
+Guest access
+You will enjoy 24-hour access to the condo via a keyless lock, so check-in (3pm) and check-out (11am) are a breeze!
+
+Other things to note
+Nashville requires a minimum age of 21 to make a reservation
+
+Registration Details
+STR Permit #2022029901
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Olivia
+Host User ID: 306059567
+Host Profile URL: https://www.airbnb.com/users/show/306059567
+Host Profile URL Source: public user permalink from passport userId
+I am Olivia and my husband and I live in Nashville with our kids.  We are always happy to answer any questions and do what we can to ensure our guests enjoy their stay!
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+377 reviews
+4.86 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/19425918
+Latitude: 36.17218
+Longitude: -86.75605
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our Beautiful East Nashville home is only a few blocks from all the action of Hip East Nashville and just under a mile to the Honky Tonks of Broadway.
+
+You will love the character of the house and the lovely decorating style that is relaxing and fully equipped. This apartment has its own entrance and is entirely for your use with no shared spaces.
+
+The space
+Parking is on the street only but it is usually pretty easy to find a spot right out front. Check-in is at 3pm but you will be welcomed to drop your things off any time after 11:30am.
+
+Please read through the House Rules and take a look at the guidebook.
+
+Guest access
+The porch is shared space but all the interior space is private to the Airbnb
+
+Other things to note
+Our housekeeper has Saturdays off so we will not accept booking that end on Saturdays unless it is longer than 7 days.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexa
+Host User ID: 132661077
+Host Profile URL: https://www.airbnb.com/users/show/132661077
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+9 years hosting
+538 reviews
+4.88 out of 5 average rating
+9 years of hosting

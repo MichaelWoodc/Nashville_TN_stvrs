@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1538590024369393248
+Latitude: 36.189
+Longitude: -86.8379
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience fall in Nashville from this spacious 4-bedroom retreat, featuring a private rooftop deck and hot tub perfect for crisp evenings. Just minutes from Germantown, The Gulch, and downtown, you’ll be close to Music City’s dining, live music, and entertainment while enjoying a comfortable place to unwind between adventures.
+
+The space
+Experience Nashville this fall from a spacious 4-bedroom retreat designed for relaxing and reconnecting. Unwind in the private rooftop hot tub or enjoy crisp evenings on the rooftop deck after a day exploring Music City. Located just minutes from Germantown, The Gulch, and downtown, you’ll have easy access to local restaurants, live music, nightlife, and seasonal events. Bright interiors, comfortable gathering spaces, and thoughtful touches throughout make this an inviting home base for group trips, weekend getaways, celebrations, and memorable fall stays in Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 72773345
+Host Profile URL: https://www.airbnb.com/users/show/72773345
+Host Profile URL Source: public user permalink from passport userId
+I like to think I am a fun person to be around and travel with.  One of my mottos has always been, "Work Hard - Play Hard".  That doesn't mean I am irresponsible when I'm on vacation- I just love to have a good time enjoying friends, family and new friends!  I enjoy just about anything outside however, I love a clean, comfy place to rest!  I am engaged to a wonderful, entertaining  man, Lee, who's is my faithful travel companion.
+My favorite motto I like to live by (and was my branding statement I used when I owned a chain of tanning salons) is ... "Life's Short - Live it in COLOR!"
+Born in the 60s
+Where I went to school: Houston Academy and  Troy University
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+17 reviews
+5.0 out of 5 average rating
+10 months of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1562377266606737797
+Latitude: 36.18089
+Longitude: -86.80445
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious 4-bed, 4-bath Nashville retreat just 5 minutes from Broadway. This brand-new home features a private game room, stunning rooftop lounge with city views, fire pit, and gas grill. Perfect for families or groups, comfortably accommodating up to 12 guests. Enjoy modern amenities, free parking, and easy access to downtown attractions like Music Row and The Gulch. Experience the best of Nashville in style and comfort.
+
+The space
+🏡 Welcome to your brand-new, luxurious Nashville retreat at 1106A Buchanan St, designed for modern style, comfort, and entertainment. This spacious 4-bedroom, 4-bathroom home is perfect for families, celebrations, or relaxed getaways.
+
+✨ Key features include:
+•	Living Area: Elegant open-concept living room with two vibrant pink velvet sofas and a TV for movie nights.
+•	Living Kitchen: Sleek, fully stocked kitchen with a large island, stainless steel appliances, pots, pans, utensils, and coffee supplies. Dining seating for your entire group.
+•	Game Room: Private entertainment hub with games, a pool table, foosball, a basketball hoop, light up darts board, Jenga .
+•	Bedrooms: Four comfortable, thoughtfully appointed bedrooms:
+o	Bedroom 1: 3 Full bunk beds, private bathroom.
+o	Bedroom 2: 2 Queen beds, private bathroom.
+o	Bedroom 3: Bunk bed, private bathroom.
+o	Bedroom 4: King Bed, private bathroom.  All bedrooms feature premium linens, Smart TVs, ample storage, and comfortable mattresses.
+•	Bathrooms: Four modern, clean bathrooms, each stocked with fresh towels, toiletries, and hair dryers.
+•	Rooftop Lounge: Private luxury rooftop terrace with artificial turf, multiple seating areas, city views, a cozy fire pit, gas grill, and a stylish selfie wall.
+•	Additional Amenities: Fast WiFi, Smart TVs throughout, washer and dryer, free parking, and family-friendly supplies.
+
+Guest access
+🔑 GUEST ACCESS
+
+Guests will enjoy full, exclusive access to the entire home, ensuring complete privacy and comfort. This includes:
+•	The entire interior living space.
+•	The private game room.
+•	The private luxury rooftop lounge, complete with a fire pit and gas grill.
+Entry is made easy and convenient with a smart lock for self check-in.
+
+Other things to note
+Your safety and comfort are our top priorities. Please note the following important information:
+   Permit: This property operates under Short Term Rental Permit (STRP) #2021034914, ensuring compliance with local regulations.
+   Self Check-in: A smart lock provides easy and convenient self check-in for a smooth arrival.
+   Pet Policy: We welcome some furry friends! However, the following dog breeds are not permitted: Chow, German Shepherd, Pitbull, Rottweiler, Doberman, Boxer, Bull Terrier, Siberian Husky. Please inquire if you have questions about other breeds or pet policies.
+   Assistance: Should you have any questions or special requests during your stay, please do not hesitate to reach out. We are here to help make your stay exceptional!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Devindra
+Host User ID: 666559338
+Host Profile URL: https://www.airbnb.com/users/show/666559338
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+92 reviews
+4.79 out of 5 average rating
+2 years of hosting

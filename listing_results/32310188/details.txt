@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/32310188
+Latitude: 36.1362
+Longitude: -86.75515
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Not your average Nashville stay, Cocoa Casa blends comfort, style, and a touch of chocolate-inspired charm. Thoughtfully designed with eclectic decor and subtle nods to chocolate history, this space offers a stay that feels both cozy and memorable. Located just 3.3 miles from downtown, with handmade chocolate from Poppy & Peep right next door.
+
+The space
+Decorated by a creative interior designer and a chocolate sommelier, each room has a bit of chocolate history and of course chocolate that you can enjoy during your stay. Each window has blackout roller blinds and curtains so you decide the amount of light in the rooms ensuring a good nights sleep. There is a full washer and dryer in case you stay for awhile.
+
+Guest access
+Guests can access the entire apartment!
+
+Other things to note
+Free Parking
+
+Industrial Area up on a hill
+
+Matryoshka Coffee, Aloha Fish, Bongo Java Roasters, and Poppy & Peep Chocolate all within walking distance
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evane
+Host User ID: 22693763
+Host Profile URL: https://www.airbnb.com/users/show/22693763
+Host Profile URL Source: public user permalink from passport userId
+Hey there, I’m Evane (like Evan) and I love hosting on airbnb! I have a chocolate company called Poppy & Peep
+Born in the 90s
+My work: Chocolatier
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+417 reviews
+4.97 out of 5 average rating
+8 years of hosting

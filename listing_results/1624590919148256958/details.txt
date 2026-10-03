@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1624590919148256958
+Latitude: 36.13757
+Longitude: -86.77894
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style at this stunning 4-bedroom home in the heart of 8th Ave South! Perfect for groups up to 12, this luxurious space features an open-concept layout with premium amenities. Walk to live music, grab morning coffee at 8th & Roast, or catch comedy at Zanies…all steps away. Minutes to The Gulch, 12 South, and Broadway, this home is your central hub to everything that makes Nashville amazing. Comfort meets convenience for the ultimate Nashville adventure!​​​​​​​​​​​​​​​​
+
+The space
+2 Car Garage
+
+★ LEVEL 1★
+ENTRANCE LEVEL
+Bedroom 1: 2 Queen Beds w/adjacent full bathroom + Smart TV
+
+★ LEVEL 2★
+Kitchen/Living Room/Dining Area
+Gourmet Fully Stocked Kitchen
+Spacious Living and Dining Area
+Half Bathroom
+
+★ LEVEL 3★
+Bedroom 2: Queen Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:King Bed + twin hotel-style rollaway bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 4★
+Bedroom 4: 2 Queen Beds+ twin hotel-style rollaway bed w/adjacent full bathroom + Smart TV
+Lounge Area w/TV and Balcony
+
+Guest access
+Guests have access to the entire home except the locked storage closets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Terry
+Host User ID: 746959707
+Host Profile URL: https://www.airbnb.com/users/show/746959707
+Host Profile URL Source: public user permalink from passport userId
+I'm Terry. I've lived in Nashville my whole life and I love sharing this incredible city with others!
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 months hosting
+52 reviews
+4.96 out of 5 average rating
+7 months of hosting

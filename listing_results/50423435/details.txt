@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/50423435
+Latitude: 36.05219
+Longitude: -86.72203
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy this stylish 1 bedroom/2-bed suite, that’s been recently updated! 20 min commute to downtown Nashville and Franklin. Enjoy the modern living room, kitchenette, and dining area. Relax on the patio with outdoor seating and a fire pit in this peaceful part of town. Easy access to downtown and the airport. Perfect for a Nashville weekend getaway!.
+
+The space
+Unplug and unwind in our inviting suite, featuring two comfortable queen size beds and a private bedroom, ideal for a restful night's sleep. The kitchenette includes a French press, kettle, coffee maker, microwave, and all the dining utensils and dishes you'll need. Fresh towels and bathroom essentials are provided, ensuring a comfortable and hassle-free stay.
+
+Savor your morning coffee in the inviting outdoor seating area, complete with a cozy fire pit for cool evenings. Inside, the dedicated dining area can also double as a perfect workspace for any remote work needs. Sink into the plush couch and chair, offering ample space for relaxation after a day of exploring the city's lively offerings.
+
+With a plethora of local restaurants and supermarkets within easy reach, you'll have plenty of options to satisfy your culinary cravings during your stay. Enjoy the convenience of keyless entry via the pass-code pad on the deadbolt, along with the fastest WiFi, ensuring seamless connectivity throughout your visit.
+
+Upon booking, you will receive a pass-code for the front door via email for a hassle-free self-check-in experience. We are dedicated to ensuring your stay is as comfortable and enjoyable as possible. Come and experience the best of Nashville from the comfort of our welcoming retreat.
+
+Self Check-in with key-pad entry
+High-speed wifi
+Off-street parking
+Private entrance
+Microwave
+Coffee maker
+Kettle
+French-Press
+Small refrigerator
+Fire pit
+
+RESIDENTIAL SHORT TERM RENTAL / CASR -2023082920
+
+Guest access
+Full access to bottom floor suite including bedroom, two closets, bath, kitchenette, and outdoor seating area.
+
+Other things to note
+Note: this apartment is a private area underneath the main house, with a separate parking & entrance.
+A passcode will be sent to your email for self-check in upon booking.
+Tenants above BnB are gone most of the year, but occasionally you'll hear the typical noises above dwelling when they're in town.
+
+Registration Details
+2023082920
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ana
+Host User ID: 115593369
+Host Profile URL: https://www.airbnb.com/users/show/115593369
+Host Profile URL Source: public user permalink from passport userId
+Speaks Bosnian, English, and Croatian
+2 years hosting

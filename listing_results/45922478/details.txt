@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/45922478
+Latitude: 36.1456
+Longitude: -86.7662
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Very nice older remodeled home just over a mile from Broadway and all that downtown Nashville has to offer!  Several bars and restaurants within walking distance.  House is clean, spacious, and a great place to entertain or just relax. Perfect home base for your bachelor or bachelorette trip! Cheap uber ride to anywhere in Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Russell
+Host User ID: 23583965
+Host Profile URL: https://www.airbnb.com/users/show/23583965
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within an hour
+Superhost
+6 years hosting
+161 reviews
+4.93 out of 5 average rating
+6 years of hosting

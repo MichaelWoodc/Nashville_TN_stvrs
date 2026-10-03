@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/1768988347788092670
+Latitude: 36.1478
+Longitude: -86.7657
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful peaceful townhouse only a mile to Broadway and the middle of all the action! Walk to everything and experience the cool new neighborhood We-ho with Soho house, amazing restaurants, breweries, shops, and bars! 3 stories with an amazing rooftop oasis! Gated private parking space and everything you need in the house and more!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 23245163
+Host Profile URL: https://www.airbnb.com/users/show/23245163
+Host Profile URL Source: public user permalink from passport userId
+New Host

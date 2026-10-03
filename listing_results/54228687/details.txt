@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/54228687
+Latitude: 36.18209
+Longitude: -86.7936
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in Germantown Nashville, come stay with us and explore Music City! Our home is conveniently located near many of Nashville's major concert venues, Broadway Street, and sporting centers.  Walking distance from incredible restaurants, great cafés, etc... This property includes on-site parking, outdoor space, and an outdoor grill.
+
+Flexible check-in and checkout times!  If checking in Friday or Saturday, there is a 2-night minimum. 
+
+permit-2021076671
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joey
+Host User ID: 239205953
+Host Profile URL: https://www.airbnb.com/users/show/239205953
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+60 reviews
+4.93 out of 5 average rating
+4 years of hosting

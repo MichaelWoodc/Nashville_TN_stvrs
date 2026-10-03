@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/17282189
+Latitude: 36.17344
+Longitude: -86.77977
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+After you have had a long day of discovering why Nashville is one of the top cities to visit, you will love coming back to this cozy condo.  Sit out on the deck and enjoy the serenity of the Cumberland River in this quiet complex. 
+  
+-First floor unit
+-Comfortably sleeps 4
+-0.9 miles from Broadway/Bridgestone Arena
+-10-15 min ride to/from airport
+-walking distance to AAA baseball
+-$5 Uber/Lyft/Taxi to Broadway
+-Free and covered parking
+
+Check-in time 3pm
+Check-out time 11am
+
+The space
+Whether you're looking for Nashville night life or a peaceful retreat, our condo offers both. located right on the river in downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amy & Jarrod
+Host User ID: 103264980
+Host Profile URL: https://www.airbnb.com/users/show/103264980
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+829 reviews
+4.86 out of 5 average rating
+10 years of hosting

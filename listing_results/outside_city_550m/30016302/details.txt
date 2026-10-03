@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/30016302
+Latitude: 35.95272
+Longitude: -86.65385
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nolensville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Ollie's Place. Situated in the quaint historic town of Nolensville, our cottage is the perfect home base for exploring Nashville and surrounding areas. 
+We are only 15 minutes from Arrington Vineyard and New Approach School for Jewelers, Arrington, TN.
+30 minutes from downtown Nashville, Franklin and Murfreesboro. 
+
+Our cottage is perfect for a couple. It has a kitchenette/dining/living area, bedroom with a queen size bed, flat screen TV with Wi-Fi.
+
+The space
+Large Bedroom with (1) Queen size bed, large closet w/ chest of drawers. Ceiling fan, TV with internet, (2) windows with view to back of property and trees. Kitchenette with dining & living area. Stocked with microwave, Keurig, 2 ring stove top, pots and frying pan, cooking utensils.  Dine in table with (2) chairs, 2 comfy chairs in the living area. 
+There is covered parking for one vehicle - a second can be accommodated upon request.
+
+Other things to note
+Check-in at 3:00pm
+Check-out by 11:00am
+No smoking inside or outside the rental
+No pets permitted inside or outside the rental
+No children under 12 years of age
+A maximum of two persons are allowed in the rental
+We ask that you are considerate of our neighbors, and keep things on the quieter side after 9:00pm
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Miriam
+Host User ID: 143978775
+Host Profile URL: https://www.airbnb.com/users/show/143978775
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nolensville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+168 reviews
+4.99 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/613162062171644489
+Latitude: 36.22774
+Longitude: -86.72907
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This Boho style loft apartment is the perfect place to enjoy the best Nashville has to offer. Conveniently located in East Nashville right off Briley Parkway, you're just minutes from the airport, downtown, and countless bars, restaurants, and music venues. Wind down under the stars in the outdoor shower, and enjoy the spacious park-like backyard where you won't believe you're anywhere close to the city.
+
+The space
+Your hosts are tried and true road dogs. We purchased this property with the hope of being able to offer respite to weary travelers while also spending some more time at home to raise our family. The Loft is how we're doing both. We have taken lessons learned from being weary travelers ourselves and turned them into a well appointment 2 BR / 1 BA apartment that begs you to exhale and stay a while.
+
+Guest access
+You'll have a dedicated parking space, full access to the private apartment, use of the grill on the apartment balcony, the outdoor shower (which is shared with the homeowners), and you are welcome (and encouraged) to enjoy the backyard at your leisure.
+
+Other things to note
+Because the apartment is attached to our home, we ask our guests to honor quiet hours of 11pm - 8am. We are committed to doing the same and have set up the lower level of our home to minimize any noise that may bleed over into your stay. We have also provided sound machines for any light sleepers who may wake from a brief dog bark or baby cry.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Telisha
+Host User ID: 10276331
+Host Profile URL: https://www.airbnb.com/users/show/10276331
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+3 years hosting
+27 reviews
+4.81 out of 5 average rating
+3 years of hosting

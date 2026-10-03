@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/724565372597809490
+Latitude: 36.1856
+Longitude: -86.7443
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Detached guest house on a quiet East Nashville street; your own building, private entrance, and driveway parking.
+
+Two bedrooms, each with a queen bed. Full kitchen and a full bath.
+
+Five Points is 0.8 miles away: about a 15-minute walk, or 3 minutes by car. Nissan Stadium is a 7-minute drive and Broadway is under 10. A bus stop is a block and a half from the door.
+
+Kroger, Aldi, and Publix are all within three blocks if you'd rather cook than go out.
+
+Permit #2022081128
+
+The space
+Our guest house is a garage apartment behind the main house, up a flight of stairs from the driveway. The whole second floor is yours — private entrance, no shared walls with us.
+
+Inside: two bedrooms with queens, a full bath, living area, and a kitchen, all on one level.
+
+The kitchen is apartment-sized but fully equipped — fridge, stove, oven, microwave, dishwasher, Keurig, and electric kettle. Everything you need to cook a real meal.
+
+Guest access
+The entire apartment is yours — private entrance, your own key, and no shared interior space with us.
+
+You have a dedicated parking spot in the driveway. 
+
+The backyard is shared with our family. You're welcome to use it any time, and we're happy to give you space.
+
+We live in the main house and are around if you need anything, but we won't be in your space unless you ask.
+
+Other things to note
+This apartment is on the second floor - stairs are necessary to enter the unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrea
+Host User ID: 7860804
+Host Profile URL: https://www.airbnb.com/users/show/7860804
+Host Profile URL Source: public user permalink from passport userId
+My husband and I live in East Nashville, TN.  It's a great central location where we can walk to so many places to eat, drink and shop.
+Born in the 80s
+Where I went to school: Auburn University
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+89 reviews
+4.96 out of 5 average rating
+4 years of hosting

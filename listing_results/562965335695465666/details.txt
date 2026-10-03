@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/562965335695465666
+Latitude: 36.19243
+Longitude: -86.75664
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay at this NEW East Nashville 4 BR/4BA minutes from downtown Nashville.  This Johnny Cash themed hot spot includes  a rooftop patio with downtown views and an excellent place to relax after a day exploring the city. Just around the corner are Southern Grist Brewing for amazing beers and delicious food at Lauter. Also close by is Highland Yards, a mixed-use space that offers a gym, coffee,  food and more!  This unit offers a Peloton and a fully equipped kitchen for dining in. Book it now!!!
+
+The space
+THE LAYOUT
+
+1st Level
+Front Entrance and Garage
+Bedroom 1 - 1 Queen Bed with private attached full bathroom
+
+2nd Level
+Kitchen and Living Space
+Bedroom 2 - 2 Twin Beds with private attached full bathroom
+
+3rd Level
+Laundry Closet
+Bedroom 3 - Master - 1 King Bed with private attached full bathroom
+Bedroom 4 - 1 Queen Bed with private attached full bathroom
+
+4th Level
+Rooftop Patio with turf flooring, plenty of seating, and gorgeous skyline views! Perfect for entertaining friends and family!!!
+
+Guest access
+Guests enter in through the front door
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 95761734
+Host Profile URL: https://www.airbnb.com/users/show/95761734
+Host Profile URL Source: public user permalink from passport userId
+Lives in Huntington Beach, California
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+75 reviews
+4.81 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/8049698
+Latitude: 36.15605
+Longitude: -86.82202
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming and unique historical home located only two miles west of downtown!  Huge deck and fire pit! Sleeps 6-8 with a king bed, 2 queen beds, and a full size bed.
+
+The space
+All the character of a historical home with the conveniences of modern amenities. Charming decor, high ceilings and ample dining room create the perfect getaway.  Modern sensibilities with rustic accents throughout fill the space with warmth and ambiance.  
+
+The master suite includes a king sized bed with adjoining full bathroom for you to relax and unwind after a day in the city.  The guest room boasts a queen size bed and an adjacent  full bath complete with glass block shower wall that fills the space with light. Follow the unique spiral staircase to the upper loft where there is a queen and double bed for another guest retreat.  
+
+Full, well-stocked kitchen with ample counter space for cooking and entertaining with full coffee bar for those who need a morning jump start.  Laundry facilities are at your service if you should need them.  
+
+Dining room includes custom table that nicely seats six guests.  There is a 46" flat screen TV in the family room with an Amazon Fire Stick.  Wireless internet available.
+
+Guest access
+Guests will have full access to the home with the exception of a storage room.
+
+Other things to note
+The Rustic Haven is conveniently located just 2 miles west of downtown Nashville and less than a mile from Centennial Park and the Parthenon.  Just 1 mile from Vanderbilt University and 2.5 miles from Belmont University.  Easy access to Charlotte Pike, I-40, and 440.  
+
+Close to a variety of unique Nashville restaurants and a number of parks for you to explore.  
+Some favorites are Jeni's Ice Cream, Jack's Barbecue, Hattie B's Nashville Hot Chicken, Ninki's (sushi), Big Al’s Deli, Arrington Vineyard.....and so many more.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jillian
+Host User ID: 23940018
+Host Profile URL: https://www.airbnb.com/users/show/23940018
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+11 years hosting
+44 reviews
+4.91 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/895120580259054243
+Title: Stay like a local in Nashville
+Latitude: 36.1594
+Longitude: -86.859
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to my first home! As a native Nashvillian, I would like to offer my home for your next stay in Nashville, TN. It is located in the neighborhood known as The Nations. You will be able to relax in this beautiful, two-bedroom home. You'll be a short 3-minute drive/15-minute walk to many local businesses located on the popular 51st Street- Maru Sushi, 51st Deli, Frothy Monkey, and more. You will be a 15-minute drive to downtown Nashville where you can experience the nightlife of Broadway.
+
+The space
+Welcome to my beautiful space that offers a truly local and home experience! I am happy to share my entire home for your Nashville experience. It is small (780 sq ft.) but cozy with a big yard. Nestled in the heart of The Nations, the property is a cozy and inviting retreat perfect for travelers seeking comfort and tranquility.
+
+The living area is furnished with a comfy sectional couch, ideal for relaxation or socializing with your friends and family. Enjoy your favorite shows or movies on the smart TV with access to Hulu, Amazon Prime, and more. Or you could simply unwind with some music through the Moukey Audio Amplifier that allows you to connect your Bluetooth. 
+
+The kitchen is fully equipped with top-of-the-line appliances and all the essentials you'll need to prepare delicious meals. 
+
+The bedrooms boast a unique experience and comfort, with premium full-size bedding and ample storage space for your belongings. If you like to wake up with the sun and enjoy a lot of natural light, Bedroom 1/The Dance Fever room is the room for you. If you like to feel moody and cozy in a dimly lit room, Bedroom 2/The Dark Academia room is perfect for you. The Dark Academia room is perfect for reading a book and cozy up with a warm drink. Both rooms are equipped with full-sized beds.
+
+Additionally, my space offers convenient amenities such as high-speed Wi-Fi, air conditioning, heating, and washer and dryer to ensure a comfortable stay.
+
+Finally, the property's central location puts you in close proximity to 51st Steet which has many local businesses and local experiences to be had. Explore the vibrant city streets, immerse yourself in the local culture, and indulge in the diverse culinary scene, all within easy reach from your doorstep.
+
+I look forward to hosting you and providing a memorable stay in my home. Book now and embark on an unforgettable adventure!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 133991303
+Host Profile URL: https://www.airbnb.com/users/show/133991303
+Host Profile URL Source: public user permalink from passport userId
+I spend too much time: googling and researching random info
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+141 reviews
+4.91 out of 5 average rating
+3 years of hosting

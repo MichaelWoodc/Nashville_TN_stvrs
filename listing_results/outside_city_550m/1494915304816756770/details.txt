@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1494915304816756770
+Latitude: 35.9421
+Longitude: -86.5501
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a fully fenced backyard—perfect for dogs (pet fee applies)—plus a covered patio for parking. This 2-bedroom home features a king in the master and a double + twin in the second bedroom. Fully stocked kitchen, free WiFi, and TVs in the living room and both bedrooms. Lots of amenities for a comfortable stay!
+
+The space
+Welcome to our charming, newly renovated home located in Smyrna, offering convenient access to I-24, Nissan, Taylor Farms, and Nashville. 
+
+Bedrooms: This unit features 2 bedrooms, making it ideal for families or small groups. The master bedroom boasts a comfortable king-size bed, while the second bedroom offers one cozy double bed and one twin bed.
+
+Bathroom: You'll find a full bathroom in this unit, complete with all the essentials you need for a refreshing shower or bath. 
+
+Kitchen: Our kitchen is fully stocked with a variety of spices and includes a convenient Keurig coffee maker. Whether you're cooking up a meal or brewing your morning coffee, you'll find everything you need at your fingertips.
+
+Guest access
+This a private home and you will have access to the entire place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Valerie
+Host User ID: 116529437
+Host Profile URL: https://www.airbnb.com/users/show/116529437
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: MTSU
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+1443 reviews
+4.86 out of 5 average rating
+4 years of hosting

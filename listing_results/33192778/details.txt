@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/33192778
+Latitude: 36.23247
+Longitude: -86.65352
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A little bit of country & a little bit of rock n' roll! This charming bungalow is perfect for folk who want to visit Nashville, enjoy time poolside and not break the bank! Sleep up to 8. 25-30 min drive ride on Lyft to downtown & the airport (car apps pricing is subject to their terms of driver availability and demand). Near Old Hickory Lake marina. Great proximity to golfing, fishing, hiking and East Nashville.  A variety of  games, cornhole and poolside fun! Pool open mid April-mid October.
+
+The space
+Full kitchen, perfect for preparing meals and hosting a gathering. Bedroom number one is the primary suite. There is a king size bed, a full bathroom and walk in closet. Bedroom number two has two twin beds and bedroom number three has a queen size. There is a full size air mattress upon request.
+
+Guest access
+This is a private residence. No shared spaces and is entirely accessible to guests with the exception of the basement.
+
+Other things to note
+Pool is open mid April to mid October. Check for availability if unsure.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenny-Faye
+Host User ID: 101865677
+Host Profile URL: https://www.airbnb.com/users/show/101865677
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+My work: Realtor | Broker
+Response rate: 100%
+Responds within an hour
+8 years hosting
+152 reviews
+4.68 out of 5 average rating
+8 years of hosting

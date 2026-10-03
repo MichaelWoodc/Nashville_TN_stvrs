@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/924076402217225856
+Latitude: 36.14065
+Longitude: -86.76718
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy easy access to Downtown and all Nashville’s major employers. Neighbors are friendly and there’s plenty to see and do by foot or bike!
+
+This room has a private full bath, walk-in closet, full sized bed, desk and ample clothes drawers for storage.
+
+Guests are welcome to use kitchen and living room as shared spaces with owner occupant.
+
+Other things to note
+A small dog lives here! 🐕
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caroleen
+Host User ID: 484813279
+Host Profile URL: https://www.airbnb.com/users/show/484813279
+Host Profile URL Source: public user permalink from passport userId
+Hello & Thanks for visiting my page! I’ve been hosting on AirBnB since 2015 and I specialize in midterm stays. It’s been a privilege to host people from all over the world on a temporary work assignment or a transitional move to a new City. So I’m happy to help make recommendations for fun or logistics! Safe travels.
+Where I went to school: Vanderbilt Univ. & The Ohio State Univ.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+3 years hosting
+3 reviews
+5.0 out of 5 average rating
+3 years of hosting

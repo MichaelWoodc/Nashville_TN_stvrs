@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1751067591018917435
+Latitude: 36.1763
+Longitude: -86.74631
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 0
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the 'Mato Motel, a private hideaway in the heart of East Nashville. Equally parts playful, luxurious, and unmistakably local. 
+
+We designed the space as a love letter to the neighborhood we call home, with a particular affection for East Nashville's beloved Tomato Art Fest. Look closely and you will find tomatoes scattered throughout. 
+
+The 'Mato Motel is for travelers who would rather stay somewhere with a point of view. Come for Nashville. Stay for the tomatoes.
+
+The space
+The 'Mato Motel was finished with custom cabinetry and millwork, high-end statement lighting, brass fixtures, carefully collected art and vintage pieces, and a jewel-box bathroom clad in red marble. Deep blue walls and ceilings, oxblood velvet, warm brass, and hints of tomato red make the whole place feel rich, cozy, and just a little daring. 
+
+You will have your own private entrance and the entire guest space to yourself, which includes a bedroom area, room to lounge, a dining area, bathroom, washer and dryer, record-listening nook, and our very unofficial play on a Bloody Mary Bar. Please note: No tomatoes were harmed in the naming of this bar. 
+
+Our kitchenette-meets-bar area is in keeping with the 'Mato Motel's devotion to East Nashville's favorite fruit. You will find a beverage refrigerator, dedicated ice maker, sink, microwave, coffee setup, and glassware. Everything you need for morning coffee, afternoon drinks, and bringing something delicious home from the neighborhood. 
+
+You won't find a stove or oven. With this many great restaurants in walking distance, we decided to leave the cooking to them. 
+
+Tucked behind the velvet curtains is one of our favorite little corners of the 'Mato Motel: a dedicated record-listening nook, complete with a turntable and vinyl collection. Pull the curtains back, put something on and let it provide the soundtrack to your vacation. 
+
+The 'Mato Motel is tucked into a residential, family neighborhood, which is a big part of what we love about living here. We kindly ask our guests to help us be good neighbors by keeping outdoor noise and music to a reasonable level and observing quiet hours after 10PM. 
+
+Have fun, play records, enjoy a drink, but just keep the late-night party to the local bars. 
+
+The 'Mato Motel is located just one property in from the corner, making arrival and parking especially easy. There is ample free street parking available around the property and along the surrounding residential streets, so guests can typically park very close to the private entrance. 
+
+Park the car, drop your bags, and start walking -- East Nashville takes it from there. 
+
+Short-Term Rental Permit #2026020983.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Monica
+Host User ID: 59216520
+Host Profile URL: https://www.airbnb.com/users/show/59216520
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+1 month hosting
+4 reviews
+5.0 out of 5 average rating
+1 month of hosting

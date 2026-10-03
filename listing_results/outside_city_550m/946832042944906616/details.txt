@@ -1,0 +1,31 @@
+URL: https://www.airbnb.com/rooms/946832042944906616
+Latitude: 36.2941
+Longitude: -86.624
+rental_type: Private room in rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish place to stay is perfect for group trips. Lots of TVs and space. A creative get away if you will
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordon
+Host User ID: 398928029
+Host Profile URL: https://www.airbnb.com/users/show/398928029
+Host Profile URL Source: public user permalink from passport userId
+Lover not a fighter but I fight for what I love!
+My work: Entrepreneur
+Speaks English
+Lives in Hendersonville, Tennessee
+3 years hosting

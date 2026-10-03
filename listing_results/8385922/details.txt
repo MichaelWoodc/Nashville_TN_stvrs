@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/8385922
+Title: Location! Nashville Getaway! Lake, Airport & DT!
+Latitude: 36.1297
+Longitude: -86.6392
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable 2b/1.5 bath town home is located in a quiet, residential neighborhood, just 10 miles to Downtown, 3.5 to Airport or 1.2 mile walk to the lake for lunch & drinks or rent a boat! AT&T Fiber Internet - WIFI - LED SMART TV, back deck, large backyard, extra long level driveway (bring your toys). Keurig coffee maker, Ninja blender, washer/dryer, YouTubeTV
+
+The space
+This cozy and comfortable town home features 2 upstairs bedrooms, each with a queen size bed and I full bath. The main level is for entertaining. The living room features a sectional sofa, fireplace and LG Smart LED TV with YouTubeTV, AT&T Fiber wireless internet. Games, playing cards and various books are located in the bookshelf for your enjoyment.
+
+There is a half bath and laundry area with full sized washer/dryer and eat-in kitchen equipped with a stainless side-by-side refrigerator with ice/water dispenser, Keurig coffee maker and Ninja Blender for mixing up those margaritas and/or smoothies. Salt & Pepper, pots, pans, dishes & utinsils provided for 4 persons. The fenced back yard and deck with seating is perfect for morning coffee and evening gatherings.
+
+Upstairs: Bedroom 1 is a stylish master suite with a queen sized bed, double closets (hangers included) and upholstered chair.
+
+Upstairs: Bedroom 2, known as "The Beatles White Room" features a queen size bed and larger closet with hangers included.
+
+Upstairs bath has guest towels, shampoo & conditioner, soap, tissues. We provide initial toilet paper, shampoo & conditioner however, if more is necessary during your stay you will need to purchase more.
+
+Guest access
+Storage closet under stairwell and outdoor storage room are not for guest use. You may use the backyard but the gate to fenced back yard is to remained locked.
+
+Other things to note
+NO PARTIES. NO EVENTS. NO SMOKING. 
+
+Bring your bikes and bike (or walk) the Greenway from Percy Priest Dam to all the way downtown! Bring your kayak or boat! Percy Priest Lake and Elm Hill Marina and 0.8 miles away!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Terri
+Host User ID: 32275188
+Host Profile URL: https://www.airbnb.com/users/show/32275188
+Host Profile URL Source: public user permalink from passport userId
+Hi there, I'm Terri. My husband and I are "water babies" so we tend to live and vacation where we can have fun in the sun. Our hobbies are playing music, boating and traveling with good friends and/or family. :-)
+Born in the 50s
+My work: Realtor - simpliHOM
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+841 reviews
+4.91 out of 5 average rating
+11 years of hosting

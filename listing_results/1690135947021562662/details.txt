@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1690135947021562662
+Latitude: 36.1818
+Longitude: -86.75227
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✓ Heart of East Nashville
+✓ Walk to bars, Restaurants & Coffee
+✓ Private Beer Garden with Grill
+✓ Cornhole, Lounge Chairs & Dining
+✓ Sleeps 10 — Great for Groups
+✓ Free parking + Fast WiFi
+
+The space
+Stay in the heart of East Nashville just minutes from Broadway, Nissan Stadium, and downtown. This cozy 4-bedroom cottage sleeps up to 10 guests and features a fully stocked kitchen, fast WiFi, workspace, TVs throughout, and a private outdoor beer garden with a grill, cornhole, picnic seating, and lounge chairs. Walk to local bars, restaurants, coffee shops, and boutiques while enjoying quick access to Nashville’s top attractions and nightlife
+
+Guest access
+Full access to the home including a beer garden, front porch, front yard and parking spot
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin
+Host User ID: 357817453
+Host Profile URL: https://www.airbnb.com/users/show/357817453
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+6 years hosting
+17 reviews
+5.0 out of 5 average rating
+6 years of hosting

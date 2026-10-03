@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/23497586
+Latitude: 36.13285
+Longitude: -86.76968
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Location, Location, Location...This is an amazing home in the middle of all the Nashville fun! Located just minutes from 12th Avenue South, Broadway, Vandy area and 8th Avenue South.  If you are looking for a great place to stay, look no further.
+
+This beautiful home sleeps up to 10 people. The friendly and cozy neighborhood is one of the fastest growing areas of Nashville and is near the future home of the  MLS soccer team that is coming to Nashville soon!
+No parties are allowed or hosted.
+
+The space
+This home is located in the Wedgewood-Houston area. It’s nestled in a cozy neighborhood near many restaurants, art galleries, and popular craft distilleries. It sleeps 10 people.
+There is a master bedroom  with a King size bed that sleeps 2 people as well as  a master bathroom. There are two other bedrooms that sleep two people each as well as a sleeper sofa that sleeps 2 and an EZ Bed Queen Air Mattress that that sleeps 2.
+*** This property is committed to Airbnb's enhanced cleaning process in order to keep the health and safety of our guests as a top priority.***
+
+Guest access
+You’ll have 100% private access to the home your entire stay!
+
+Other things to note
+No Pets and No Smoking
+No Glitter
+Do not move any of the furniture or rearrange it
+no parties or events to be hosted here at this property
+
+Registration Details
+218007607
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John T
+Host User ID: 175462044
+Host Profile URL: https://www.airbnb.com/users/show/175462044
+Host Profile URL Source: public user permalink from passport userId
+Hey! I'm Terry King. I was born and raised here in Nashville, Tn and I absolutely love this city. If you will be staying in my home, I will be as accommodating as possible. There's always something new to see and experience in this great city, so you can text or call me as much as needed as I can help you with any recommendations that you may need for neat and fun places to visit in Nashville.
+Enjoy you stay!
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+323 reviews
+4.98 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/878537875923391290
+Latitude: 36.16821
+Longitude: -86.70341
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in a quiet neighborhood just 6.9 miles from Downtown Nashville and 4.7 miles from Nashville International Airport (BNA), this is the perfect spot for your next trip to Tennessee. You will be no more than 10-15 minutes from all of the best things our city has to offer!
+
+The space
+Our suite includes a new, comfortable king size bed, a queen size pull out couch, and a full bathroom. The smart TV has Hulu, Netflix, Disney+, Amazon Prime, and ESPN+.
+
+Guest access
+Our unit is on the lower level of our home, with private access for your convenience. We offer keyless entry and contactless services ensuring our guests will enjoy complete privacy. There is a covered space allotted to you directly in front of the door of your unit. Our driveway is long enough that you can park a second car directly behind the first if traveling with a group.
+
+Other things to note
+While we do live in the upstairs portion of the house, we will do our best to be mindful of our guests and keep our noise to a minimum during your stay. Our thermostat is located upstairs, but we are able to control it from our phones (so we are always able to change it). Guests are encouraged to send us a message if they'd like us to adjust it-we want you to be comfortable!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 373430709
+Host Profile URL: https://www.airbnb.com/users/show/373430709
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Tennessee Tech
+My work: Digital Marketer
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+216 reviews
+4.91 out of 5 average rating
+3 years of hosting

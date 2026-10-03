@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1684951932457134047
+Latitude: 36.137
+Longitude: -86.7872
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfectly located between 12 South and The Gulch, this modern Nashville retreat sleeps 10 comfortably across 3 stories plus a rooftop with skyline views and lounge seating. Ideal for groups looking to stay close to the best dining, shopping, and nightlife in Music City and only 10 minutes to Broadway. Most importantly, we have free parking!
+
+Sleeping Arrangements:
+-Primary bedroom: king Bed 
+-Bedroom 2:  twin over twin bunk, queen over queen bunk
+-Bedroom 3: king bed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Music City BNBs
+Host User ID: 22224024
+Host Profile URL: https://www.airbnb.com/users/show/22224024
+Host Profile URL Source: public user permalink from passport userId
+Howdy y’all! Im Shack— born-and-raised Tennesseans who turn good stays into great stories. I run a small boutique rental company with one goal: making your stay feel like home (but better). We love our guests and are always thrilled to see familiar faces return year after year. Come live like a local — we can’t wait to host you!
+My work: we <3 hosting
+I'm obsessed with: making guests feel like locals
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+1148 reviews
+4.89 out of 5 average rating
+12 years of hosting

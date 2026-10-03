@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/19574379
+Latitude: 36.1503
+Longitude: -86.7874
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Large Gulch/Downtown area house great for large groups and is located just one street from Music Row and two streets over from Broadway!
+
+The space
+Wonderful open floor plan downstairs for entertaining!
+Three bedrooms:
+1- Primary with King Size Bed, Ensuite bathroom and TV
+2-Bedroom - King Size Bed, TV
+3-Bedroom - Queen Size Bed.
+
+Two full baths on the second floor and a half-bath on the first floor. 
+
+Deck out back.
+
+Guest access
+Effortless check-in with door codes.
+
+Other things to note
+The fireplace is non-functioning and is for looks only.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 71301768
+Host Profile URL: https://www.airbnb.com/users/show/71301768
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1153 reviews
+4.87 out of 5 average rating
+10 years of hosting

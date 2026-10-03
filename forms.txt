@@ -30,3 +30,20 @@ Nashville Short Term Rental Complaint Form:
 https://docs.google.com/forms/d/1-5un74Zl5Dw7z4t1w8u7cCubH1hzkKvGGvpOmpWMkhQ/edit
 prefilled:
 https://docs.google.com/forms/d/e/1FAIpQLSfjyNy_1KBORvjiCx7fhIXTupuaQWXS8VDS0ttXh8Go95eCJg/viewform?usp=pp_url&entry.743148639=address+from+map&entry.1753077861=lat&entry.1569813902=long&entry.1841045190=airbnburl
+
+
+
+Report listing as hotels
+
+https://docs.google.com/forms/d/e/1FAIpQLScjN7eHKBjY3c8Iew6F08WYgHN30ozXlv9NHg2lpfBrABGXdg/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScjN7eHKBjY3c8Iew6F08WYgHN30ozXlv9NHg2lpfBrABGXdg/viewform?usp=pp_url&entry.225332467=airbnb.com/url
+
+
+Report Listing As Not A Hotel
+https://docs.google.com/forms/d/e/1FAIpQLSend-lUNSiOrOEYWo_CEpfgrIo3Xy-mR3Ycc0EOnvtFkPS2aA/viewform?usp=dialog
+https://docs.google.com/forms/d/1kmxrj8LG3F81d1nYUge0uyOReAQaY0aT5nt4x_ah7lM/prefill
+https://docs.google.com/forms/d/e/1FAIpQLSend-lUNSiOrOEYWo_CEpfgrIo3Xy-mR3Ycc0EOnvtFkPS2aA/viewform?usp=pp_url&entry.225332467=airbnb.com/url&entry.1451491665=real+life+address
+google sheet:
+https://docs.google.com/spreadsheets/d/1TplJp9Rh1XZMqLtEqYGl9sKY1tfZuCq9er9H7kPd7P0/edit?resourcekey=&gid=464269070#gid=464269070
+Timestamp	Airbnb.com listing	Address
+		

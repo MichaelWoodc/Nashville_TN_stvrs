@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/2273933
+Latitude: 36.14198
+Longitude: -86.82597
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gorgeous urban home in the heart of Nashville’s “IT” neighborhood. This beautifully renovated home feels like an oasis in the middle of town—modern, welcoming, and thoughtfully curated throughout. Set in a great walkable neighborhood, you can stroll the greenway to Centennial Park, coffee shops, and favorite local restaurants. With three bedrooms, three full baths, a sunroom, lovely living spaces, an inviting patio, and three queen beds this home offers style, comfort, and location all in one.
+
+The space
+My space, built in 2015, has been renovated throughout the years with artisan craftsmanship and great attention to detail and fine art.  It's clean, airy, lots of windows ... an urban oasis in the middle of town. Accommodates 7 easily, with three full bathrooms and three queen size beds.
+
+Guest access
+If I'm in town I'll greet you and help settle you into my home.  I have apple TV, Netflix, cable, internet, gas range for cooking, a grill in the backyard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Angela
+Host User ID: 441439
+Host Profile URL: https://www.airbnb.com/users/show/441439
+Host Profile URL Source: public user permalink from passport userId
+I am from Nashville, TN and used to be in the music industry.  Now I am a psychotherapist and a writer.  I'm also a foodie, an interior designer wanna-be, a traveler and I love hosting people and helping them out as much (or as little) as possible.  I know the value of having a local contact in a foreign place.
+Where I went to school: Belmont University
+My work: self-employed
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+763 reviews
+4.78 out of 5 average rating
+13 years of hosting

@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/892112459841574834
+Latitude: 36.1948
+Longitude: -86.7229
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Whiskey in a Teacup is your perfect East Nashville getaway! This bright, stylish townhome is steps from the city’s trendiest restaurants, lively bars, and electric nightlife. Just a quick 10-minute Uber ride to Broadway and Nissan Stadium, it’s ideal for exploring. Inside, relax in a space designed for comfort and style, sleeping up to 6 guests. Savor the rooftop bar with city views or challenge friends to a game of foosball in the garage. Book now for an unforgettable stay!
+
+The space
+Located in a vibrant and walkable area, our property offers not only comfort and convenience but also close access to some of the best local dining spots. Whether you're in the mood for a relaxed coffee, a quick bite, or a night out, you’ll find great options just steps away:
+
+Dose – A cozy local coffee shop, perfect for your morning brew or an afternoon pick-me-up.
+Ladybird Tacos – A popular breakfast and lunch spot known for its fresh and flavorful tacos.
+Mitchell’s Deli – A neighborhood favorite offering sandwiches, breakfast items, and more.
+Bite A Bit Sushi – Enjoy delicious and fresh sushi in a casual setting.
+Village Pub – A great hangout for food and drinks, with a friendly, laid-back atmosphere.
+Sho Pizza Bar – The newest buzz in town, featured in local news for its creative pizzas and vibe.
+Babo Korean Food Café Roze – Unique Korean-inspired dishes and a stylish atmosphere.
+Schulman’s – A classic local bar with a welcoming vibe.
+Vinyl Tap – A great place to unwind with a wide selection of beers and live music.
+Whether you're visiting for business or leisure, you'll love being close to all the action while enjoying the comfort of a quiet retreat.
+
+Our property includes all of the essentials for a superb stay! 
+Our amenities include but are not limited to:
+	Kitchen
+	Toaster
+	Drip Coffee Maker
+	Cooking Essentials
+	Silverware
+	Plates, Bowls, Glasses, etc.
+	Iron and Ironing Board
+	Hangers
+	Hair Dryer
+	Shampoo and Body Wash
+	Bed Linens
+	Extra pillows and Blankets
+
+Guest access
+Guests will have access to the entire home.
+Other things to note-
+
+You will have stairs throughout the house.
+1 car attached garage.
+
+Other things to note
+ADDITIONAL HOUSE RULES:
+Booking guests must be at least 21 years old.
+Same day move ins shall not be honored after 10 am GMT
+
+All listed amenities are to be used at guest’s own risk. The homeowner and Martini Time WW will not be held liable in any way for the risk, danger, injury, or damages caused to the other party.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

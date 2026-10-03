@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1503771396254281016
+Latitude: 36.1726
+Longitude: -86.796
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the essence of Nashville living within this brand new, chic residence, ideally positioned for city exploration. Revel in breathtaking vistas from the rooftop deck, which provides panoramic views of the Nashville skyline. This centrally located property boasts four bedrooms, four and a half bathrooms, a fully furnished kitchen, game room and contemporary conveniences. Ideal for families, the house is conveniently located near cultural attractions such as museums, retail destinations, and
+
+The space
+Please note that there is a Gate around the entire complex (code will be given with check-in instructions)
+
+★ LEVEL 1★ 
+ENTRANCE LEVEL 
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★ 
+Kitchen/Living Room/Dining Area
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+**Fireplace is non-operable from March through September**
+Sofa Bed
+Half Bathroom
+
+★ LEVEL 3★ 
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:Queen Bed w/ensuite full bathroom + Smart TV + Single Hotel Style Rollaway Bed
+ 
+★ LEVEL 4★ 
+Bedroom 4: Queen, Custom Built-in Bunkbeds + Smart TV + Single Hotel Style Rollaway Bed
+en suite Full Bathroom
+
+Bonus Party Room: Wet Bar + Smart TV
+Poker Table
+
+Balcony: TV, Fire Table + Views of the City!
+
+Guest access
+Private Entrance
+
+Other things to note
+**Fireplace is non-operable from March through September**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 714781775
+Host Profile URL: https://www.airbnb.com/users/show/714781775
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+23 reviews
+5.0 out of 5 average rating
+1 year of hosting

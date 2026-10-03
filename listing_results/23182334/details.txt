@@ -1,0 +1,77 @@
+URL: https://www.airbnb.com/rooms/23182334
+Latitude: 36.08677
+Longitude: -86.63203
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1,216 square feet. Spacious, quiet, safe Townhouse located on The Nashboro Golf Course. Stunning view of hole #2 along with pool and access to course. 
+
+Guests will have the entire house to themselves. 
+
+Close proximity to: Nashville Airport, Opryland Hotel / Opry Mills Mall, Grand Ole Opry, and 20 mins to Downtown.. This location can accommodate business travelers as well as couples or individuals looking for a home away from home while in Nashville!
+
+1 mile from Kroger and restaurants.
+
+The space
+The neighborhood pool is OPEN from early May until late September. 
+
+There is an air twin mattress with a built in pump that inflates in 1 minute for the 5th guest if needed. 
+
+10 minutes to Percy Priest Lake.
+
+10 mins to the Airport.
+
+20-23 mins to downtown Nashville and Music Row.  I recommend Lyft or Uber because parking is expensive downtown.
+
+Some of my favorites restaurants are:  Sinema, ACME, Husk, Rolf and Daughters, Five Points Pizza, Hattie B's Chicken, Valentino's, 5th and Taylor, The Yellow Porch, and The Pharmacy.  
+
+30 minutes to historic Franklin, TN.
+
+24 hour video surveillance outside for guests’ security.
+
+Guest access
+Guests have access to the pool. 
+
+The pool is a 3-4  minute walk from the townhouse.  
+
+Extra precautions in place for COVID 19 cleaning.
+
+Other things to note
+Amazon Echo is downstairs.  
+
+The TVs have access to Netflix and Amazon Prime.  High Speed internet too.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zac
+Host User ID: 145808061
+Host Profile URL: https://www.airbnb.com/users/show/145808061
+Host Profile URL Source: public user permalink from passport userId
+Hello everyone,
+
+My name is Zac, and I'm a Nashville native and filmmaker here in town.  
+
+Hope you enjoy your stay while in Music City!
+
+As a native, I can recommend lots of fun places to visit while here.
+My work: Skydive Films
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+236 reviews
+4.98 out of 5 average rating
+9 years of hosting

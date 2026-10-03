@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/41033344
+Latitude: 36.19019
+Longitude: -86.75137
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to East Nashville and Music City! We are located minutes from downtown, Nissan Stadium, Five Points, and Germantown. We feature prime location, style, and comfort. We are one block from premium bars and restaurants, as well as Starbucks and Publix, and feature a clean space with off street parking.
+
+The space
+There is a full kitchen, living room with TV, one bedroom with a King size bed, another bedroom with a Double bed, and a full bathroom on the main level. We have a fully fenced yard and off-street parking.
+
+The second level features a bedroom with two single beds. Please note: This space features very steep steps and lower ceiling height. This space is not recommended for young children or elderly. The second level is a great space for sleeping, but due to ceiling height that is all that is recommended. This space will generally be closed off, unless the extra beds are noted to be needed upon booking.
+
+The property has WiFi and a desk available for a private workspace.
+
+Need a car while you’re on town?
+Whether it’s for a single day or your entire stay, send a message to inquire about our private rental cars available!
+
+Guest access
+We welcome animals! Additionally, the yard is fully fenced for your dogs to play in. Please note: There is an additional fee for pets. Please send message for details.
+
+Other things to note
+House Rules:
+Please no more than 2 cars parked at the house at one time - there is one gravel spot for off street parking available, and if an additional space is needed, you can pull directly behind that car for one more vehicle. They have recently put up “no parking” signs on the street so any additional vehicles will need to be parked off site. 
+Upon booking, please let us know how many guests will be visiting and staying at the property.  No extra guest permitted without prior approval. 
+Due to the importance of having enough time to get the property ready for each guest- There will be a $40/hour fee for any late check-out without prior approval.
+No smoking permitted inside and all cigarettes and ashes must be picked up from the exterior prior to checking out.
+ Thank you for understanding.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kara
+Host User ID: 141933299
+Host Profile URL: https://www.airbnb.com/users/show/141933299
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+289 reviews
+4.92 out of 5 average rating
+7 years of hosting

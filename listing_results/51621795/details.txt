@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/51621795
+Latitude: 36.0996
+Longitude: -86.7278
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+BRAND NEW studio with all you need for your stay such a kitchenette, private bathroom, share laundry, and nice patio… convenient  location if you want to drive or rent Uber, Lyft 10 min to the action on downtown, 6 min to the airport
+
+My goal is to provide a modern and confortable space to enjoy if you travel alone or with your partner 
+features one confortable plush queen size bed, full bathroom access to a share laundry
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Juan
+Host User ID: 52363749
+Host Profile URL: https://www.airbnb.com/users/show/52363749
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+8 years hosting
+70 reviews
+4.9 out of 5 average rating
+8 years of hosting

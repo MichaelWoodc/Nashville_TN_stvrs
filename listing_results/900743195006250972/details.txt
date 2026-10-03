@@ -1,0 +1,86 @@
+URL: https://www.airbnb.com/rooms/900743195006250972
+Title: Luxury Home~Skyline Views~12 Beds~7Min to Broadway
+Latitude: 36.13892
+Longitude: -86.7852
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover the epitome of luxury at the Summit in the City, an extraordinary Airbnb showcasing stunning city views. This home features four spacious bedrooms, and three and a half bathrooms. Perfect for business trips, bach trips, and everything in between!
+
+⭐ City skyline views
+⭐ 7 mins to Broadway
+⭐ 4 mins to 12 South and the Gulch
+⭐ Rooftop patio with fire pit
+⭐ **NEW** game room with Pac-Man, Golden Tee, shuffleboard, karaoke stage
+⭐ 12 beds
+⭐ TV in each bedroom
+⭐ Off street parking for 4 cars
+
+The space
+Nestled in an enviable location, the Summit in the City offers easy access to an array of Nashville's most sought-after attractions. Situated close to 12 South (1.3 miles), The Gulch (1.4 miles), and Broadway (1.9 miles), you'll find yourself immersed in the vibrant pulse of Music City. Experience the soulful rhythms of live music, embrace the iconic country music scene, and enjoy the diverse selection of nearby restaurants, bars, and coffee shops. For those seeking outdoor recreation, local parks and farmer’s markets are just a short distance away, ensuring that every aspect of your Nashville adventure is within reach from this prime location.
+
+FIRST FLOOR:
+⭐ Spacious living room with cozy sectional and smart TV
+⭐ Eye-catching Nashville mural for memorable photos
+⭐ Fully equipped kitchen
+⭐ Convenient half bathroom
+⭐ **NEW** Game room in garage featuring karaoke stage, shuffleboard, Pac-Man and Golden Tee
+
+SECOND FLOOR:
+⭐ Master bedroom with one comfortable king-size bed, a twin-size daybed and twin-size trundle bed
+⭐ Ensuite master bathroom with dual vanity
+⭐ Second bedroom with queen size-bed and private bathroom
+⭐ Cozy music corner with acoustic guitar
+
+THIRD FLOOR:
+⭐ Charming bunk bedroom with four twin-size beds and two full-size beds
+⭐ Cozy Fourth bedroom with one queen-size bed and one full-size bed
+⭐ One full bathroom
+⭐ Game room with pool and ping pong table, board games, wet bar and 75in smart TV
+⭐ Magnificent skyline views from the outdoor seating area with fire pit on the patio
+
+Guest access
+Guests have access to entire space
+
+Other things to note
+OPTIONAL SERVICES:
+- Grocery/Supply Delivery: arrive to The Summit in the City with a stocked fridge and supplies needed for your stay! ($100 + the cost of items)
+
+ADDITIONAL HOUSE RULES:
+✅ Booking guests must be at least 25 years old.
+✅ Parties, events, or weddings are not allowed.
+✅ Early check in/late check out may be available upon request ($100). Please contact us for availability.
+✅ Quiet hours are from 10:00 PM - 7:00 AM and are enforced by sound monitoring devices. Tampering with sound devices will result in cancellation of the remainder of your reservation. 
+✅ All listed amenities are to be used at guest’s own risk. The host will not be held liable in any way for the risk, danger, injury, or damages caused to the other party.
+
+PERMIT INFO:
+#2023034920
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 430594120
+Host Profile URL: https://www.airbnb.com/users/show/430594120
+Host Profile URL Source: public user permalink from passport userId
+Hey there! I'm Michael, your friendly and fun-loving Airbnb host. I'm a data engineer by profession, an athletic learner by nature, and a loving brother and son. I'm excited to provide a memorable and enjoyable stay for you. Let's make your time here comfortable, fun, and filled with unforgettable experiences!
+Where I went to school: Miami University
+My work: Data Engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+222 reviews
+4.96 out of 5 average rating
+3 years of hosting

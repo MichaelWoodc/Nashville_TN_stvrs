@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/43255822
+Latitude: 36.28025
+Longitude: -86.55547
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxury lake- house living at its finest! Optional double decker pontoon with a slide!  22 miles from downtown Nashville, This 3 bedroom / 3.5 bath home has over 4000 square feet of gorgeous living space. With huge outdoor common areas, game room and tons of amenities, this property has it all.  Kayaks and paddle board provided. This property is just what you need for special family events or gatherings!
+
+The space
+This luxury lake house has 3 large bedrooms and 3 full baths.  The 4th bedroom listed is in the open upstairs landing (please see photos).  It has a privacy screen and would be perfect for kids! This home is equipped with 2 huge living areas. One is on the main level with a nearby 1/2 bath,  and one is downstairs and includes a large wooden bar and second kitchen. This house also has a large patios with seating around a gas fire table and an outside dining table.  A screened in sun room is located upstairs off the living room.
+
+The kitchen comes fully stocked with all the necessary dishes, flatware and cooking utensils for your stay. Coffee and creamer are supplied. 
+
+Two kayaks and a paddle board are included free of charge as well as several life jackets.  
+
+Guests have access to entire property including main house, garage.
+
+Guest access
+Entire house
+
+Other things to note
+Optional pontoon boat rental,  Ask for details.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hayley
+Host User ID: 300620282
+Host Profile URL: https://www.airbnb.com/users/show/300620282
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mt. Juliet, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+66 reviews
+4.97 out of 5 average rating
+6 years of hosting

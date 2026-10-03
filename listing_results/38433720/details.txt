@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/38433720
+Latitude: 36.17357
+Longitude: -86.7816
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy riverfront condo just blocks from the best of Nashville.  Our home is nestled right between the exciting nightlife of downtown Broadway and all of the amazing restaurants and shopping in cute, hip Germantown.  Covered private parking at the doorstep makes it a perfect vacation getaway.  Only two blocks from the Sounds' park and right across the river from the Titans' stadium.  We can't wait to host you!
+
+The space
+Our condo is right on the end of the building at ground level for quick and easy access to parking and no stairs.  It is a two-bedroom with super comfy King and Queen beds as well as a Queen-sized pullout in the living room.  We provide free coffee in the morning, and the kitchen has all the basics for you to cook if you would like.
+
+PLEASE NOTE:  The area is booming, and there are occaisionally construction projects nearby.  So far, in multiple years, there have been little to no disturbance to guests, but it's not something we can guarantee.
+
+Likewise, during the warmer months, a Southern waterfront inevitably means some bugs.  We do our best to keep the porch clear and wiped down each stay, but after your first night, it's likely to have some new friends again.
+
+Guest access
+Guests will have full access to the entire condominium.  There is a pool key fob and also a key card that will allow entrance to the complex fitness room and laundry facilities.
+
+Other things to note
+STRP Permit #2019049736
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 28025309
+Host Profile URL: https://www.airbnb.com/users/show/28025309
+Host Profile URL Source: public user permalink from passport userId
+I'm an educator in Wilson County Schools and a Nashville native.
+Born in the 80s
+My work: Education
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1036 reviews
+4.85 out of 5 average rating
+10 years of hosting

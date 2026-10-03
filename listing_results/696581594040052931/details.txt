@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/696581594040052931
+Latitude: 36.19484
+Longitude: -86.83365
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Cumberland Cottage is a stunning 1930s restoration, eclectically furnished and bursting with high-end details like a chef's kitchen, king master suite, well appointed 2nd and 3rd bedrooms, and dedicated parking. There's also an incredible outdoor oasis, with total privacy for your hot tub enjoyment, a gas fire pit, and sparkling lights overhead.
+
+The Cottage is close to all the action of Nashville, but tucked away on a quiet residential street. It's the perfect base for your adventure!
+
+The space
+We hope you enjoy our home as much as we do! 
+ 
+Whatever the reason for your Nashville visit, it is our goal to ensure you have a memorable experience at The Cumberland Cottage.
+ 
+Amenities
+- Outdoor space
+- Luxury linens and bath items
+- Spacious closets in every bedrooms
+- Chef's kitchen with gourmet appliances and cookware
+- Keurig with complimentary coffee and sweetener
+- Shampoo, conditioner, and body wash provided in each shower
+- Blow dryers
+- High speed Xfinity internet
+- Keypad entry with custom code for each guest
+- Private off street parking for two guests in front of the home
+
+Guest access
+As our guests you'll have access to the entire home. Please note, there is a second home located in the rear of the property. This home has a separate entrance, with a tall fence in place to create total privacy between the homes.
+
+Other things to note
+Enjoy our lightning fast high speed internet service, perfect for streaming the free YouTube TV with DVR, your own Netflix/Amazon/Disney+ account, or using Zoom for work.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris & Kelly
+Host User ID: 389918901
+Host Profile URL: https://www.airbnb.com/users/show/389918901
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+738 reviews
+4.92 out of 5 average rating
+6 years of hosting

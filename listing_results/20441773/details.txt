@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/20441773
+Latitude: 36.19005
+Longitude: -86.76174
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cook in a full kitchen and dine at a farm table especially for the space. The feeling is modern chic, simplicity meets the style of brass faucets, modern lighting, and beautiful floors. Well lit, the space is very homey, with one King Bedroom, One Queen bedroom, and a Queen Sleeper Sofa with extra comfortable beds. The open layout makes the loft feel very spacious.
+
+Location is everything and we are 5 min from downtown, but tucked in a quiet neighborhood!
+
+Short Term Rental Permit #--2016071615
+
+The space
+You will love the modern new details and the location! All popular East Nashville is the best place to stay in Nashville. We are close to everything, yet tucked away in a quiet neighborhood with many walkable restaurants and coffee spots! 
+
+Downtown, 5 points and the gulch all a 5-10 min uber or lyft ride!
+15 minutes from most hot spots including Grand Ole Opry, Opry Mills,  Centennial Park, Airport and more!
+
+Guest access
+Guests are allowed to use the entire upstairs garage apartment, and park right next to the entrance door.
+
+Other things to note
+Board games available upon request.
+2 Manual Bikes available upon request with $25/day charge
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Heidi
+Host User ID: 24869398
+Host Profile URL: https://www.airbnb.com/users/show/24869398
+Host Profile URL Source: public user permalink from passport userId
+Happily married mother with the best 2 kids ever, I adore my family! I'm an honest, straightforward person with a great sense of self and of humor. My family is my rock, but I also love my work. I do real estate and am also a personal men's stylist. I can't live without my family, chocolate, the beach, traveling a good magazine, and great friends! 
+My life motto: Always be honest, but kind!
+My work: Realtor and Stylist
+Most useless skill: Milking cows,could be useful,but not now
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+258 reviews
+4.95 out of 5 average rating
+9 years of hosting

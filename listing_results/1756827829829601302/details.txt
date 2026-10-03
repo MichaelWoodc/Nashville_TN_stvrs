@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1756827829829601302
+Latitude: 36.1485
+Longitude: -86.8413
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come enjoy Nashville in one of the best neighborhoods! Sylvan Park is a local favorite with charming Victorian and Craftsman houses, walkable to restaurants, bars and shops and ten minutes from downtown. The location is so centrally located that you are 10 minutes from anywhere you want to go in Nashville, but you may never want to leave the neighborhood!
+
+The space
+This two bedroom, two bath home is beautifully decorated and perfectly appointed. Whether you are here for work or a doctor's appointment and need a quiet place to relax at the end of the day or if you are visiting friends and want to host for cocktails or dinner this house has everything you need to make yourself at home.
+
+Guest access
+The entire house is available for your use. Two bedrooms, a formal living room, kitchen with adjoining den and dining room as well as a darling front porch and back yard with brick patio to enjoy grilling and al fresco dining.
+
+Other things to note
+This is an owner occupied house so please be aware that there will be personal items in the home even though the space will be accommodating for guests' clothing and personal items.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: May
+Host User ID: 2937575
+Host Profile URL: https://www.airbnb.com/users/show/2937575
+Host Profile URL Source: public user permalink from passport userId
+Recovering lawyer, newly middle aged, curious, adventurous traveler.  A rolling stone.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+14 years hosting
+18 reviews
+4.82 out of 5 average rating
+14 years of hosting

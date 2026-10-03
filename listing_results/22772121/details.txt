@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/22772121
+Latitude: 36.16478
+Longitude: -86.86412
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This new apartment has been designed to include modern comforts with a Nashville twist. Hang out in the open living area on the long leather chair and admire the diverse wall art from classic posters to playful illustrations. 
+
+Metro Nashville Short Term Rental Permit Number 2/0/1/9/0/5/7/8/1/0
+
+Guests will have full access to the apartment. We like to entertain in the backyard, so if there is an event going on, we welcome our guests to join us.
+
+We are available during your stay, but will be hands off unless you need us.
+
+The home is in a peaceful location that is still just a 10-minute drive from downtown Nashville and all of its fantastic shops and restaurants. There are also exceptional breweries and coffee shops nearby as well for a taste of local living.
+
+A vehicle or Uber is the best way to travel in Nashville.
+
+Guest access
+Guests will have full access to the apartment. We like to entertain in the backyard, so if there is an event going on, we welcome our guests to join us.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jackie
+Host User ID: 16205480
+Host Profile URL: https://www.airbnb.com/users/show/16205480
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville born and raised native. I love decorating and always have a project going on at the house.
+Lives in Nashville, Tennessee
+Superhost
+11 years hosting
+394 reviews
+4.92 out of 5 average rating
+11 years of hosting

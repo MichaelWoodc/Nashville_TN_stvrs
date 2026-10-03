@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/573044664591210725
+Latitude: 36.1435
+Longitude: -86.82241
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+For the wanderlust + travelers alike!
+
+Beautiful townhome in the iconic West End area! The highways are 1 minute away!  Vanderbilt is a short 5-minute drive, St Thomas Midtown is 5 minutes away! 6 minutes to downtown! 4 minutes to midtown! So close to everything. 
+
+Enjoy the shopping, cafes, and eating that West End has to offer! Check out the Parthenon! 
+
+This is a very peaceful and quiet residential area with such easy access to all the city has to offer.
+
+The space
+Welcome to the Traveller!
+
+1st floor:
+->full kitchen
+->living area with two futons and a twin bed
+->4 seater dining
+->1/2 bath
+->outdoor patio
+
+2nd floor:
+->two queen bedrooms each with an ensuite bath
+
+Full kitchen stocked with all your basics!
+Private patio with games to enjoy!
+
+Leaving now on our map wall showing your favorite place that you’ve been or places that you recommend to other guests just passing through or planning their next trip! ?For the love of traveling?
+
+*please note these townhomes are not new builds, they are from the late 80s and hold some character still from then!
+
+Other things to note
+You have one parking space marked in front of the unit.
+There is first come first serve parking when you first enter the complex to your left and an extra spot to the right of townhome 6.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Key Change Stays
+Host User ID: 76759762
+Host Profile URL: https://www.airbnb.com/users/show/76759762
+Host Profile URL Source: public user permalink from passport userId
+We are Key Change Stays!
+
+We have been in Nashville for decades and are proud to provide lodging and concierge to any who are coming through Music City! 
+
+Our themed units are perfect for your stay in Nashville!
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 93%
+Responds within an hour
+9 years hosting
+1761 reviews
+4.7 out of 5 average rating
+9 years of hosting

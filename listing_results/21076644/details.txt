@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/21076644
+Latitude: 36.13724
+Longitude: -86.76553
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy up in our artsy, eclectic cottage in Nashville’s historic Wedgewood-Houston, owned by a local singer-songwriter. This charming guest loft is centrally located 2 blocks from Geodis Park and minutes from Broadway, 12th South, The Gulch, Music Row, East Nashville, and more. The perfect home away from home!
+
+The space
+This beautiful, practical, and incredibly comfortable space features a bedroom with a queen-sized bed, kitchenette, living area with sofa, closet, and a private adjoined bathroom. The kitchenette includes a coffee maker, toaster, microwave, and mini fridge with a small freezer section, as well as plates, glasses, and flat wear for guests' enjoyment.
+
+Guest access
+Guests have access to the free private back parking lot of the property, the fenced-in backyard, and the loft with its private adjoined bathroom.
+
+The loft is mainly heated and cooled with the central heating and air, which is controlled by me in the main house, but guests also have their own window unit air conditioning system to help cool the loft in the hotter summer months.
+
+Other things to note
+There is no hot breakfast served, but Dozen bakery, Americano Coffee, Humphrey’s Street Coffee House, Sassafras, and Falcon Coffee bar all have amazing coffee and breakfast options and are all right around the corner within walking distance, and there are 1000+ restaurants in Nashville that do an amazing breakfast/brunch.
+
+I occasionally invite friends and family over for dinner and drinks on the bottom floor of my home, where I live. Because of this, there is a potential for noise. I have provided guests with sound machines in both the living room and the bedroom of the loft, but if the sound machines aren’t helping, please let me know via text, and I’ll make sure to quiet down.
+
+This loft apartment features an incredibly charming, vaulted ceiling. I want my guests to know that if you're over 6'5" tall, this listing probably wouldn't be a good fit for you because of this feature. Under 6 feet 5 inches though, and you'll be just fine! =)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamal
+Host User ID: 409158331
+Host Profile URL: https://www.airbnb.com/users/show/409158331
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+72 reviews
+4.68 out of 5 average rating
+1 year of hosting

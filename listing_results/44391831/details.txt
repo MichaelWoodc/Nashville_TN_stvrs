@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/44391831
+Latitude: 36.05795
+Longitude: -86.69516
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+La Villa 2** BOHO Style studio is a private and charming place to relax after a busy day in Nashville. No one else will have access but you. With its own patio and hot tub, it is the perfect place to disconnect and relax with your group of friends or companions.
+Our studio is 15 min from downtown and close to everything! Basically, in the middle of town.
+
+The space
+Private n independent basement studio convenient to all of Nashville's Attractions: 10m airport, 15m downtown, 5m Zoo, 15m Brentwood, 15m Smyrna, 25m Franklin; perfect for family retreat or friend's getaway.
+This  basement apartment features:
+-Independent entrance from the main house w self check in.
+-Patio with year-round Hot Tub.
+-Queen bed, Day-bed, Full bathroom, and kitchenette.
+-Washer n dryer.
+-Smart TV with Netflix, Amazon Prime.
+-Outdoor furniture and Grill.
+**The Swimming pool is seasonal. (memorial day-Labor day)
+
+Guest access
+You'll have access to the entire unit, laundry facility, yard and outdoor seating area & the pool during open season (roughly Memorial Day thru September) Although the pool remains open all year round, the water temperature would not be the ideal but it's still available to you.
+
+Other things to note
+- Guests must sign a pool/hot tub waiver upon check in.
+-Our family pool is shared with confirmed guests only.  NO unregistered guests or guests of guests allowed. 
+-La Villa Nashville is family friendly but it's not child-proof.  Children must be clearly supervised at all times. 
+-Keep in mind the pool is easily accessible. -Potential guests will need to decide whether or not this rental is suitable for their family. 
+**Use of pool and hot tub area is strictly at your Own Risk.**
+***Pool may be shared with host or others occasionally, (rarely). I usually allow my guests full use of the pool for themselves.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lizbeth
+Host User ID: 78972135
+Host Profile URL: https://www.airbnb.com/users/show/78972135
+Host Profile URL Source: public user permalink from passport userId
+Hi there! I'm Lizbeth.  I'm proud to call Nashville  home for the past 17 years.
+I love to travel and experience different cultures. I love meeting new people and providing a home away from home as you explore everything Nashville has to offer.
+I have experienced several short term rentals in Mexico, USA and Europe as a guest traveling with friends or by myself.  
+I am so excited to begin this new chapter as a host here in my beloved Nashville!
+Where I went to school: Lipscomb University
+My work: Banking
+Response rate: 90%
+Responds within an hour
+Superhost
+7 years hosting
+201 reviews
+4.88 out of 5 average rating
+7 years of hosting

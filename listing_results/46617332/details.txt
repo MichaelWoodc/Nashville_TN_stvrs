@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/46617332
+Latitude: 36.2068
+Longitude: -86.7288
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Immerse yourself in The Music City when you book this 3-bedroom, 1.5-bath vacation rental home in Nashville! Whether you want to dive into the music scene in downtown Nashville or chill around the fire pit on a quiet back patio just minutes from downtown, this home in East Nashville is sure to please! The home offers a fully equipped and stocked kitchen and is also just three blocks from Riverside Village where you can choose from eight different eateries and pubs! Treat yourself!
+
+The space
+Permit #2020009123 | Long-Term Renters Welcome | Free WiFi
+
+Whether you’re in town for country music, museum tours, or vibrant nightlife, this cozy abode offers all the comforts of home in a convenient location so you can easily explore Nashville’s best attractions.
+
+Bedroom 1: King Bed | Bedroom 2: Full Bed | Bedroom 3: Full Sleeper Sofa | Living Room: Twin Daybed
+
+OUTDOOR LIVING: Fenced yard, furnished patio, fire pit
+KITCHEN: Fully equipped, drip coffee maker, coffee starter kit, cooking basics
+INDOOR LIVING: Flat-screen TV, electric fireplace, dining table, ceiling fans, bidet
+GENERAL: Washer & dryer, towels, linens, iron & board, hair dryer, curling iron & flat iron, central air conditioning/heat, keyless entry
+FAQ: Stairs required to access
+PARKING: Driveway (4 vehicles)
+
+Guest access
+Guests will have access to the entire property
+
+Other things to note
+- No smoking 
+- No pets allowed
+- No events, parties or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: Access to the home requires stairs
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

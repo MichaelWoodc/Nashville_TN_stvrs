@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/744470343768761385
+Latitude: 36.15626
+Longitude: -86.66919
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The whole group will enjoy easy access to everything from this centrally located place. Approximately 5 minutes to the airport, 10 minutes to Opryland, and 15 minutes to downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jenn
+Host User ID: 47407297
+Host Profile URL: https://www.airbnb.com/users/show/47407297
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 89%
+Responds within an hour
+Superhost
+3 years hosting
+17 reviews
+5.0 out of 5 average rating
+3 years of hosting

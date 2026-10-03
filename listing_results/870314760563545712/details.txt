@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/870314760563545712
+Latitude: 36.1586
+Longitude: -86.8066
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A Noteworthy stay at the historic 1865 Tobacco Building is truly on of a kind. Not only will you feel cozy and comfortable; it is also full of history and fun. The 1865 features a private speakeasy club on the basement level of the main building. As our guest, you will have full access to the 1865 Club which features a full bar, craft cocktails, light food & music! The 1865 also features a shared rooftop patio, pool & grill area, private gym & ample parking all within the gated property.
+
+The space
+This unit is 694 sq ft which includes a Queen bed in the bedroom with TV and walk in closet. A full bathroom with ample space. A Full size pull out sofa that sleeps 2. A fully stocked kitchen with stove, microwave, Keurig Coffee Maker, full size refrigerator, and all the utensils, plates, cups, cookware you need. Towels and linens are all included. Also washer and dryer in the unit.
+
+If you are needing extra space, we also have a two bedroom unit that can be booked as well to accommodate an additional six guests!
+
+Guest access
+All guest have access to the gym located in the basement of the building, patio and pool out back and a rooftop patio.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carla Sue
+Host User ID: 409119107
+Host Profile URL: https://www.airbnb.com/users/show/409119107
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+173 reviews
+4.84 out of 5 average rating
+5 years of hosting

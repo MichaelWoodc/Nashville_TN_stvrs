@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1679019199733381899
+Latitude: 36.1581
+Longitude: -86.76578
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the allure of Nashville in our brand-new, luxe 2-bedroom penthouse condo offering breathtaking views of the vibrant city skyline and the serene river. Powerful floor-to-ceiling windows offer an immersive Nashville experience against the stunning backdrop of Music City.
+
+With two complimentary indoor garage parking spots, you never have to worry about security.
+Our on-call team at Forte Vacations are always ready to ensure your stay is memorable and hassle-free.
+
+The space
+Experience the allure of Nashville in our brand-new, luxe 2-bedroom penthouse condo offering breathtaking views of the vibrant city skyline and the serene river. Plush furnishings, polished granite countertops, and state-of-the-art stainless steel appliances encapsulate the essence of urban sophistication. Powerful floor-to-ceiling windows offer an immersive Nashville experience against the stunning backdrop of Music City. 
+
+Our spacious condo expands over 1400 sq ft with an additional loft for further convenience. In addition to this, all our bedrooms are equipped with cable TVs featuring premium channels and the fastest internet in town. The fully equipped kitchen comes with top-tier appliances and comfortably seats six. The unit also offers a washer and dryer and a cozy ironing area. 
+
+Start your mornings with freshly brewed coffee from the dual-use coffeemaker, and enjoy the convenience of an in-house dishwasher. You can enjoy the centralized air-conditioning and ceiling fans throughout the condo for a personalized comfort experience.
+
+With two complimentary indoor garage parking spots, you never have to worry about security. The smoke-free property is strategically positioned, allowing easy strolls to popular Music City attractions. 
+
+Building amenities enhance your stay further, flaunting a world-class fitness center, controlled access, and elevator access. Embrace the outdoors with the property adjacent to Nashville’s Greenway. Relax or swim laps in the outdoor pool, operating daily from 10 am-8 pm. 
+
+Indulge in a variety of nearby attractions such as Pinewood Social for bowling, billiards, and the Husk Restaurant for a taste of the South. 
+
+Our on-call team at Forte Vacations are always ready to ensure your stay is memorable and hassle-free. 
+
+Explore downtown Nashville, just a 5-min walk in the fashionable SOBRO neighborhood. Unique for its location on a bluff overseeing the city and the river, there's no other condo like this. Book now and experience luxury at its best!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kurt
+Host User ID: 24241984
+Host Profile URL: https://www.airbnb.com/users/show/24241984
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner Forte Vacations
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+2970 reviews
+4.78 out of 5 average rating
+12 years of hosting

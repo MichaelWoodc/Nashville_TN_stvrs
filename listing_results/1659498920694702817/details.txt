@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1659498920694702817
+Latitude: 36.09231162836938
+Longitude: -86.64559134554302
+rental_type: Private room in bed and breakfast
+property_type: BNB
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy easy access to popular shops and restaurants from this charming place to stay.
+
+During your stay
+Call me or email me more than once please and send me a text. Thank you.
+
+Other things to note
+Please no drinks on the furniture. The kitchen is useful for eating thanks in advance.
+
+Registration Details
+G1BEPFUH6SV6
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tamika
+Host User ID: 228418889
+Host Profile URL: https://www.airbnb.com/users/show/228418889
+Host Profile URL Source: public user permalink from passport userId
+I'm a God loving woman with discernment and prophetic insight. I am anointed and a child of God. I'm a people's person that loves peace and am very understandable. Baking is my passion. I vendor and am looking to do business to bid on Federal or State contracts. Anyone is welcome, book with me!
+Where I went to school: Pearl High School
+My work: Wego Transit MTA
+Fun fact: My picture in all platforms
+What makes my home unique: Luxurious amenities including marble
+For guests, I always: Keep bathroom stocked
+Response rate: 100%
+Responds within an hour
+8 years hosting
+70 reviews
+4.29 out of 5 average rating
+8 years of hosting

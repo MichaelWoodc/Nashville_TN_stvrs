@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/30507492
+Latitude: 36.34389
+Longitude: -86.85054
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+New Orleans manor nestled in a hollar' up on Paradise Ridge. Enjoy five wooded acres located in a quiet, safe rural  neighborhood.  Our property is secluded with a pristine creek,hiking trails,fire pits and wildlife sightings! Enjoy the seclusion of the seating area at the creekside fire pit. Your hosts occupy a small apartment above the garage that is seperate from the main home when they are not traveling. We do not interact with guests unless requested but are always available if needs arise.
+
+The space
+Entire 3000 sq ft main home with a private courtyard and hot tub.
+
+We have two hiking trails with observation areas from a 70 foot Bluff line above property. We are just five minutes from Wing Blade Falconry where you can enjoy and interaction with owls, hawks and eagles. There should be excellent opportunities to observe birds and other wildlife from our surrounding forest.
+There is an apartment above the garage that is occupied by your hosts on occasions when they are not traveling. It is a secured separate area from the main property.
+
+Here are our house rules:
+You must be 21 to rent our property.
+PARKING:
+There are two spaces available. No street parking is allowed and exceeding the parking capacity is a violation of our city permit
+NO PARTIES:
+This means no outside guests are allowed without our prior approval. We are fine with your group enjoying our property and it's amenities to the fullest. We have no problem with music and alcohol consumption. Our closest neighbor is 1000 ft away so don't worry about disturbing anyone.
+SECURITY:
+We have motion activated security cameras that monitor all entry points to our property. We live in a low crime area and this is for your protections as well. So don't be alarmed if the light comes on each time that you arrive or depart.
+Our goal is that you have a wonderful stay at White Oaks.
+
+Guest access
+The entire home, courtyard and surrounding grounds. Three fire pits with firewood. Hiking trails with multiple chairs and benchs to relax in. Spring fed creek great for cooling off in the summer.
+Enjoy the seclusion of the seating area around the creekside fire pit.
+
+Other things to note
+You must be at least 21 years old to book our property.
+
+There is parking space for two vehicles. No street parking allowed!
+
+Our hot tub is fairly old and the finish on the shell has deteriorated significantly despite our efforts to resurface it. It isn't "pretty" but it is clean and sanitary.  AVAILABILITY IS NOT GUARANTEED and can be affected by normal unexpected mechanical issues needing repair or damage caused by previous guests.
+We are within five minutes from The Dollar Store and 15 minutes from major grocery stores such as Publix and Walmart
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steven Charles
+Host User ID: 157014090
+Host Profile URL: https://www.airbnb.com/users/show/157014090
+Host Profile URL Source: public user permalink from passport userId
+We always enjoyed staying at a Bed and Breakfast when traveling and dreamed of owning and running one someone day. We bought our dream home in 2008 but due to zoning were unable to have a traditional B&B so to be Airbnb hosts is perfect for us.
+We are retired and hope to use the income to travel the country in an RV soon.
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+263 reviews
+4.97 out of 5 average rating
+8 years of hosting

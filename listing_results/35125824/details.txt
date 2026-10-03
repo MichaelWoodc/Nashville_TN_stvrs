@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/35125824
+Latitude: 36.12932
+Longitude: -86.73182
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled 4 miles from iconic downtown Nashville, this cozy and private retreat provides a tiny house experience designed by the square inch. 
+
+The 165-foot custom design will feel anything but tiny with its queen loft bed,  full kitchen and bathroom,  private keypad entrance, and your own designated parking spot. 
+
+We provide all the amenities you will need to relax during your downtime during your trip to Nashville. 
+
+Built using reclaimed materials.
+
+The space
+Enjoy premium roasted coffee, fair trade linens, and plastic-free toiletries (through The Good Fill), and know your stay is making a difference for the Earth!
+
+We provide extra toiletries in case you forget yours and enhanced kitchen supplies so waffles or eggs can be on the menu for breakfast. 
+
+The house manual will help you with technology instructions and our guidebook will help you with local food/park/coffee recommendations.
+
+We engage in wildfire restoration by planting a tree for each booking through the Arbor Day Foundation in partnership with Grove Collaborative.
+
+Guest access
+Our tiny house is an addition to our primary residence. It is a completely separate space with its own private keypad entrance.
+
+Other things to note
+Our tiny house is an addition to our family's primary residence and is set up as a separate space with its own private entrance. We welcome all guests and the beautiful diversity they bring into our home. Our guest's privacy, security, and comfort are our top priorities as hosts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Emily
+Host User ID: 89731969
+Host Profile URL: https://www.airbnb.com/users/show/89731969
+Host Profile URL Source: public user permalink from passport userId
+I am an amateur canner of pickles, aspiring secret poet, and lover of the Enneagram. I am also an ordained Nazarene pastor, wife, and mother of two amazing girls. I have established soapboxes for both feminism and climate change and I love good coffee, planned adventures, and spontaneous deep conversations. I use Airbnb to explore the world and also to use my creativity and work ethic in order to make mine better.
+Born in the 80s
+Most useless skill: Juggling
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+968 reviews
+4.93 out of 5 average rating
+7 years of hosting

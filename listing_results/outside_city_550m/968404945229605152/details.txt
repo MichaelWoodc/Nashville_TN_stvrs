@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/968404945229605152
+Latitude: 36.04828
+Longitude: -86.55206
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful place to stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jean
+Host User ID: 534423156
+Host Profile URL: https://www.airbnb.com/users/show/534423156
+Host Profile URL Source: public user permalink from passport userId
+3 years hosting

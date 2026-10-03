@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1662099324189921688
+Latitude: 36.2037
+Longitude: -86.7423
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Vibe & Vinyl — a stylish 3-bedroom East Nashville retreat designed for unforgettable Nashville stays. Perfect for girls trips, family getaways, and groups, this music-inspired home sleeps up to 10 guests with cozy spaces to relax after exploring the city.
+
+Enjoy a peaceful escape just minutes from the best of Nashville—from award-winning dining to live music and local charm. Every detail has been designed with your comfort in mind, making it the perfect retreat for families & groups.
+
+The space
+Our townhome will sleep 10 people, 12 if you choose to use the air mattress we have provided. We have 3 full bathrooms as well as a 2-car garage. We have been able to fit an Infiniti QX80 and a KIA Telluride with strategic parking (we have seen individuals with large trucks back in, but then they have to leave the garage door open.)
+
+Guest access
+The entire townhome is available for your group as well as a 2-car garage.
+
+Other things to note
+Minimum age to book is 23. Proper identification will be required.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Liz
+Host User ID: 283682166
+Host Profile URL: https://www.airbnb.com/users/show/283682166
+Host Profile URL Source: public user permalink from passport userId
+Lover of good music, cozy spaces and creating stays people actually remember. I believe every great trip needs a good playlist and a place that feels like home. We have loved TN since we started visiting in 2014 and hope you love it just as much!
+My work: Home Stager
+Favorite song in high school: Jesse’s Girl
+Response rate: 100%
+Responds within an hour
+5 months hosting
+18 reviews
+5.0 out of 5 average rating
+5 months of hosting

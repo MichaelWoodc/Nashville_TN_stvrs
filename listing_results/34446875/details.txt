@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/34446875
+Latitude: 36.1351
+Longitude: -86.80379
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This space is in the heart of Nashville in the quaint, historical Hillsboro Village! It has amazing natural light due to the sky light. Walking distance from great restaurants and shopping. Only 2.5 miles to downtown Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ashley
+Host User ID: 61289087
+Host Profile URL: https://www.airbnb.com/users/show/61289087
+Host Profile URL Source: public user permalink from passport userId
+Lives in Thompson's Station, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+40 reviews
+4.9 out of 5 average rating
+10 years of hosting

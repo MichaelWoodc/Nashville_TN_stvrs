@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/39992331
+Latitude: 36.38304
+Longitude: -86.58359
+rental_type: Barn
+property_type: BARN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+After spending several years living in the heart of Nashville, we bought this nearly 3 acre property as newlyweds and have dreams of turning it into a mini-farm some day.  We love having the space and quiet and want to share it with you!  This AirBNB is a small, one-bedroom apartment attached to our workshop behind our main house.  Our guests can enjoy the quiet space including a full kitchen, dining area, living room, and patio area. The pool is open from May-October with a few rules/hours.
+
+The space
+We created a cozy farmhouse feel that's quaint and clean.  Enjoy meals in the dining area overlooking the pond and property, or take them outside to the patio area.  Our unit is advertised as 3 guests, but it's probably best suited for a family with small kids.  The bedroom has a queen size bed, and the sleeper sofa folds out to a bed about the size of a twin.
+
+Guest access
+We allow guests to use our pool and patio area from May to October, but we don't allow parties or outside guests. Only people staying in the unit are welcome on the property. We have you sign a waiver and follow a few rules for safety reasons. The pool is private, but shared with our family.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeff
+Host User ID: 8759001
+Host Profile URL: https://www.airbnb.com/users/show/8759001
+Host Profile URL Source: public user permalink from passport userId
+I'm originally from Kentucky, but have called middle Tennessee home for more than 20 years now. I've worked on Music Row for several years and also do real estate.  If you're traveling to the area and considering relocating here, I'm happy to answer any questions you have!  
+
+I'm married to Tori, have a 2-year old and 1-year old, and enjoy our family time and taking care of our pets and chickens.  I'm also a big sports fan.
+Where I went to school: Middle Tennessee State University
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+283 reviews
+4.86 out of 5 average rating
+6 years of hosting

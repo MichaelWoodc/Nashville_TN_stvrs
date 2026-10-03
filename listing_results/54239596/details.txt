@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/54239596
+Latitude: 36.1453
+Longitude: -86.7926
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Vinyl: Your Musical Retreat in the Heart of Nashville! 🎶
+
+Get ready to turn up the volume on your next getaway! This fabulous apartment is your perfect home base for exploring the vibrant Nashville scene. With a unique design that captures the spirit of Music City, you’ll feel right at home while discovering all the local treasures.
+
+The space
+🎤 The Apartment:
+This stylishly designed apartment features a cozy bed, chic decor, and a vibe that celebrates music history. Whether you’re winding down after a day of adventure or gearing up for a night out, you’ll love the inviting atmosphere and thoughtful touches that make your stay special. Our Artist Suite also features a private patio for soaking in the Music Row vibes!
+
+🌟 Common Area Fun: Step outside to our spacious common area, where you can unwind by the firepits under the stars. Gather with friends for some laughs and friendly competition with cornhole, or simply kick back in the comfy seating. It’s the perfect spot to share stories of your Nashville escapades!
+
+🎸 Amenities:
+-Free 2 Gigabit Wi-Fi: Stream your favorite tunes or plan your next outing.
+-Fully Equipped Kitchens: Cook up a storm or whip up some late-night snacks.
+-Chill Spaces: Relax in our inviting living areas, perfect for lounging after a day of exploration.
+-Central Location: Walk to legendary honky-tonks, local eateries, and must-visit attractions.
+-King sized bed with 14" luxury mattresses and premium linens.
+-Queen sized sofa bed.
+
+🎶 Why Stay with Us? Experience the rhythm of Music Row right outside your door. Share the space with friends or family—perfect for a group getaway! Enjoy the quirky charm of Nashville while having a cozy home to return to. We also offer complementary use of our on-site laundry, featuring commercial-quality washers and driers. So pack your bags and get ready for a Nashville experience that hits all the right notes! Book your stay at The Vinyl today, where the music never stops and the fun is just a beat away!
+
+Guest access
+Parking is located behind the property and is accessed off the alley. You can access the alley from Grand Avenue or Tremont Avenue, which are located to the north and south of the property, respectively.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Notable Collection
+Host User ID: 438770271
+Host Profile URL: https://www.airbnb.com/users/show/438770271
+Host Profile URL Source: public user permalink from passport userId
+Speaks American Sign Language and English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+6506 reviews
+4.88 out of 5 average rating
+5 years of hosting

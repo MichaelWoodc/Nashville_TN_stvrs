@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/46412125
+Latitude: 36.20746
+Longitude: -86.76721
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful 3-story townhome located in East Nashville, built in 2020. Just a 7-minute Uber ride to Broadway!
+
+The first floor features an open living area and kitchen. 
+
+The second floor includes a full bathroom with a large tiled standing glass shower and a queen-sized bed. 
+
+The third floor features a twin trundle-style bed to accommodate two additional guests, along with access to a rooftop patio!
+
+The home also includes in-unit laundry and totals 985 sq. ft.
+
+The space
+Modern 3-story townhome, just 5 years old, located in vibrant East Nashville. 
+
+The first floor features an open-concept living area and kitchen, equipped with stainless steel appliances, custom quartz countertops, and a sleek glass subway tile backsplash.
+
+The second floor includes a spacious bathroom with a large tiled standing glass shower and a queen-sized Tempur-Pedic Bed. 
+
+The third floor features a twin sized trundle-style bed to accommodate two additional guests, along with access to a rooftop patio.
+
+Washer and dryer are included in the home for your convenience.
+
+Guest access
+The entire home can be used for guests.
+
+Other things to note
+Free on-site parking available in a secure, gated neighborhood.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Buddy
+Host User ID: 65740100
+Host Profile URL: https://www.airbnb.com/users/show/65740100
+Host Profile URL Source: public user permalink from passport userId
+Hello. I’m originally from Central Louisiana, with stops in Nashville and Denver before settling in South Florida. 
+
+These days, you’ll usually find me by the pool, at the beach, or out on the water. I’ve truly enjoyed getting to know the local culture here and spending my time outdoors with a nice glass of vino.
+
+I love hosting kind, open-minded guests who appreciate a warm and welcoming space to relax and connect.
+Born in the 80s
+Where I went to school: LSU
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1567 reviews
+4.88 out of 5 average rating
+10 years of hosting

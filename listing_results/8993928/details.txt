@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/8993928
+Latitude: 36.11761
+Longitude: -86.83347
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Apartment is in Historic home in the heart of luxurious Green Hills. The apartment/home faces Woodmont Park and is less than 2 miles from fantastic retail shopping and restaurants, & the celebrated BLUEBIRD CAFE.
+
+Guest access
+Apartment's front door access is next to your parking space.  From back door access, you have a back deck and picnic table available to you for use.
+
+Other things to note
+Apartment has two cable TVs with streaming services available.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cathy And Randy
+Host User ID: 46979184
+Host Profile URL: https://www.airbnb.com/users/show/46979184
+Host Profile URL Source: public user permalink from passport userId
+We have raised our kids in this historic stone home in a beautiful area of Nashville.  We now have space to share and enjoy offering it to those folks who want to spend time in Nashville, Music City USA.
+
+We are music lovers and enjoy living in a city where world class music of all types is played.
+
+We've lived in Nashville for over 30 years and plan to be here for the rest of our years.
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+454 reviews
+4.95 out of 5 average rating
+10 years of hosting

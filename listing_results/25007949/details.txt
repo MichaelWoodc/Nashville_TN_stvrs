@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/25007949
+Latitude: 36.14346
+Longitude: -86.78869
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+SPACIOUS new construction at the edge of The Gulch/Downtown Nashville, perfect for large groups! 5-minute drive to Broadway, Downtown, and The Gulch. Walking distance to Music Row, Vanderbilt Univ. and Belmont Univ. Quick access to Interstate. Large bonus room and rooftop deck provide unobstructed views of the city skyline. Modern finishes, open-floor plan and hardwood floor. Front patio with grass and play area. Attached 2-car garage, 2-car driveway, and free street parking.
+
+The space
+LOCATION:
+
+At the edge of the Gulch/Downtown Nashville, the house is minutes away from Music Row, 12th Ave South, and the Gulch.
+
+5-minute drive to Downtown and major attractions such as Broadway, The Country Music Hall of Fame, The Ryman Auditorium, The Bridgestone Arena, and Nissan Stadium. 10 minute walk to Vanderbilt Univ. and 20 minute walk to Belmont Univ. 
+
+Parking for 2 cars in the attached garage, 2 cars in the driveway, and 4 cars along the front road, all free of charge.
+
+INSIDE THE HOUSE:
+
+FIRST FLOOR: Open-floor living room with beautiful hardwood floor, fully-equipped kitchen, kitchen island and half bathroom. Includes 2 long sofas, 2 sofa chairs, smart 75" Sony TV, and dining table.  Living room screen doors open to patio, perfect for outdoor BBQ. Weber charcoal grill provided!
+
+SECOND FLOOR: Master bedroom boasts 1 queen bed, two double beds, and spacious master bathroom. Additional 2 bedrooms on the same floor, each containing 1 queen bed and 1 twin bed, and large shared bathroom.
+
+THIRD FLOOR: 4th bedroom includes 1 queen bed, 1 twin bed, and bathroom. Entertainment room contains 3 queen sofa beds, 1 futon, pool table, and smart TV, as well as additional sleep space. The rooftop deck is right outside and provides beautiful unobstructed views of the Nashville skyline.
+
+FOR YOUR COMFORT:
+
+All sofa beds come equipped with memory foam mattresses. Being our guests, you'll receive the comforts of home with a supply of shampoo, soaps, paper products and hotel-quality towels and linens as well.
+    
+  
+If this property is not available, check out our other location: https://www.airbnb.com/rooms/16795349
+
+Guest access
+Guests will have access to the entire house.
+
+Other things to note
+If this property is not available, check out our other location: https://www.airbnb.com/rooms/16795349
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Xilin
+Host User ID: 111636952
+Host Profile URL: https://www.airbnb.com/users/show/111636952
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+10 years hosting
+127 reviews
+4.98 out of 5 average rating
+10 years of hosting

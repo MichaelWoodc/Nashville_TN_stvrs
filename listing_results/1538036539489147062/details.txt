@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1538036539489147062
+Latitude: 36.19801
+Longitude: -86.78194
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 16
+beds: 36
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This listing for combo multiple units listing. Depending on how many units you would need as a package price will be determined. The whole group will enjoy easy access to everything from this centrally located place.
+
+We do have total of 8 units in this location that could be combined all or partially to accommodate your large group to make sure all group can stay together.
+
+We have 4 of the 3 story 3 bedroom units
+And 4 of the 1 bedroom units to choose from to make a combo booking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Aj
+Host User ID: 71879937
+Host Profile URL: https://www.airbnb.com/users/show/71879937
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 95%
+Responds within an hour
+10 years hosting
+237 reviews
+4.21 out of 5 average rating
+10 years of hosting

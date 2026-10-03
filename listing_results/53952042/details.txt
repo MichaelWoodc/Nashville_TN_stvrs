@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/53952042
+Latitude: 36.20207
+Longitude: -86.75849
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our renovated single-family home is perfect for families, trips with friends, musicians & artists, and business travel! The floor plan includes 4 bedrooms that sleep up to 8 guests, 2 full baths, a spacious living room with TV, an open renovated kitchen, and a screened in back porch with a fenced in front and backyard. Enjoy a quick 7-minute drive to downtown or explore the local restaurants and coffee shops in East Nashville. FREE early check in/out when available!
+
+The space
+The kitchen is fully stocked with everything you’ll need. We offer coffee and kitchen utensils for any cooking needs. Additionally, we have a washer and dryer and our bathrooms offer all toiletries. Enjoy the fenced in front and back yard if you’re bringing pets! And feel free to pick from the pear tree and cherry bush when in season!
+
+If you are here to explore East Nashville, you’ll find yourself 1.5 miles from popular restaurants like Pharmacy, Mas Tacos, and Lyra. Additionally, located 2 miles from Five Points, the heart of East Nashville’s eclectic bar scene & restaurants with offerings like Margot, Five Points Pizza, Lockland Table, Urban Cowboy, Hunters Station, Rosemary, and many more! We're also just down the road from Pearl Diver, recently voted one of the best bars in America, and Fox Bar, a local favorite speakeasy with artistanalsly crafted drinks. Brunch options nearby include Hearts, Cafe Roze, Flora Fauna, Southern Grist Brewery, and more! As a Nashville local, let me know if you need any recommendations! 
+
+The home is located 3 miles to downtown Nashville– including Broadway, the Country Music Hall of Fame, the Ryman Auditorium, Bridgestone Arena, Music City Center, Titan’s Stadium, and much more. 
+
+If you’re bringing a car, we have a 4-car driveway that you are welcome to use, or there is street parking on the side of the park across the street.
+
+*NO parties, this is a family neighborhood so please be respectful of the neighbors*
+
+**Please note there is currently ongoing construction on the property neighboring the backyard. However, the crews do not work past 5PM or on the weekends**
+
+Guest access
+*4 Bedrooms, 2 full baths
+*Screened in porch and spacious back-yard
+*Fast wi-fi and Roku TV
+*Free, private parking (driveway - room for 4 cars)
+*Fully equipped kitchen
+*Keyless entry
+*Full-sized washer/dryer for your convenience
+
+Downstairs
+*Bedroom 1: 1 Queen Bed
+*Bedroom 2: 1 King Bed
+*Renovated kitchen
+
+Upstairs
+*Bedroom 3: 1 Queen Bed
+*Bedroom 4: 1 Queen Bed with dedicated workspace (desk & chair) 
+
+Guests will have access to the entire home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Reilly
+Host User ID: 79114083
+Host Profile URL: https://www.airbnb.com/users/show/79114083
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+171 reviews
+4.96 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/812400097200295917
+Title: Sleeps 20! Hot tub-Walk to Cafes
+Latitude: 36.13028
+Longitude: -86.79598
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 14
+occupancy: 16
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole family to this great place with lots of room for fun.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 341547444
+Host Profile URL: https://www.airbnb.com/users/show/341547444
+Host Profile URL Source: public user permalink from passport userId
+Growing up in Nebraska I'm a Cornhusker through and through.  However Nashville has adopted me and it really is my home now!  I've been here for over 8 years and absolutely love this place.  There’s nowhere quite like Nashville.
+
+I truly hope your time here in our wonderful city is special.  There's something here for everyone!  Please take this time to unwind, enjoy yourself and explore everything Nashville has to offer!
+
+Thank you for staying in my unique little piece of history here in the city.  We've tried to make our home cozy and comfortable yet stylish and fun at the same time.  We hope you enjoy it as much as we do! 
+
+Cheers,
+
+Dave
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+963 reviews
+4.99 out of 5 average rating
+6 years of hosting

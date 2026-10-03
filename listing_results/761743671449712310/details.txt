@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/761743671449712310
+Latitude: 36.26091
+Longitude: -86.70817
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This contemporary and spacious cottage just north of downtown Nashville is a perfect place to rest if you are in town for work or pleasure. It’s beautiful, clean, stylishly decorated, and ready for you. The home is divided into two sections, and you will have exclusive use of the private and separate apartment during your stay: a bedroom, bathroom, kitchen, dining and living areas.
+
+The space
+This is a beautiful, bright, and clean space.
+
+Guest access
+The home is separated into two apartments divided by a locked door and alarm.  The owner may or may not be in the back apartment of the house during your stay. 
+
+The backyard and laundry room are not for guest use at this time.
+
+Guests will have exclusive use of the front porch and seating to enjoy the front yard space.
+
+Other things to note
+Guests are welcome to use our driveway for parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Maria
+Host User ID: 230939573
+Host Profile URL: https://www.airbnb.com/users/show/230939573
+Host Profile URL Source: public user permalink from passport userId
+After I listed my first Airbnb in St. Augustine, Florida, I became obsessed with hosting! I now host at my own properties, as well as help other owners manage their rentals as well – with the help of my rockstar team of property managers. We're passionate about providing the best possible experience to our guests. Whether you're coming in for business, pleasure, or just passing through, we look forward to hosting you!
+Lives in Gainesville, Florida
+Response rate: 100%
+Responds within an hour
+7 years hosting
+8112 reviews
+4.74 out of 5 average rating
+7 years of hosting

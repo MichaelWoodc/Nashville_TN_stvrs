@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/599859038157230215
+Latitude: 36.17269
+Longitude: -86.69043
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville , Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hello and welcome to Big Dawg LUX. A "Turn Key" luxury RV rental service!
+
+We include everything from your pillows and bedsheets to outdoor chairs and fire pit. Our goal is bringing the comfort of your own home to the outdoors. No more hauling tents & chairs.
+
+Let us know where you want to go and we'll deliver everything for you anywhere in FL for $2.50 per mile starting from Tampa. All we have to do is change the location of the camper to whatever campsite and book it at that location.
+
+The space
+This RV is as spacious as it gets. 43ft long with 9 foot ceilings. You won't find the comfort or amenities in any other camper. There are also 3 flat screens with a mobile hot spot and Netflix. All included for free!!!!
+
+Guest access
+I will be present to hand you the keys and answer any questions you might have.
+
+Other things to note
+Shoot me a message and I can even help you book your campsite!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 453174659
+Host Profile URL: https://www.airbnb.com/users/show/453174659
+Host Profile URL Source: public user permalink from passport userId
+Hello, my name is Matt and I'm the owner of Big Dawg LUX. A luxury Car and RV rental company. Enjoy a Turn Key luxury RV delivered anywhere in Florida!
+4 years hosting

@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/832856357466303391
+Title: 5Mins to Airport*Pet Friendly*Fire pit*Fenced Yard
+Latitude: 36.12631
+Longitude: -86.69771
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy retro flare in this comfortable 2 bed, 1 bath cottage.
+
+Location:
+- Airport: 4 miles
+- Country Music Hall of Fame: 6 miles
+- Broadway: 7 miles
+- Grand Ole Opry: 7 miles
+
+Key Features:
+- Fire pit
+- Pet Friendly
+- Sleeps 5 in beds and one on the couch 
+- Fully fenced backyard, side door opens to the backyard. 
+- Each bedroom has a Smart T.V.
+
+The space
+There are two bedrooms. One with a king bed and the other has a full bed with a single loft bed. Guests may also use the couch in the living room as an additional place to sleep. 
+
+We do not allow parties at this property. We use a noise alert monitoring system in order to ensure that neighborhood noise levels are respected. There is no electronic video surveillance or audio recording. It simply notifies guests and us when the noise levels has reached a volume that would disturb the neighbors.
+
+Guest access
+We are a pet-friendly home. If you are bringing a pet, please let us know in advance and select the number of pets you are bringing. We allow up to two dogs. If you have any other type of pet or more than two dogs, please reach out before booking. These are approved on a case-by-case basis. Our standard pet fee is $75, which covers 2 dogs for up to 4 nights. Anything beyond that, you will be charged a separate fee after booking of $15 per night per pet. 
+
+After booking, we will also send you a pet agreement that will need to be signed before your arrival. It basically asks guests to follow these guidelines:
+
+- Pick up after dog droppings
+- Do not allow the dog to bark excessively
+- Do not allow dogs on furniture or beds
+- Don’t leave animals unsupervised, unless they are in a crate.
+- Put pet sheets on furniture
+- Pets must be housebroken
+- Crate the dog if left unattended indoors for a long period of time.
+- Groom the dog before the trip and vacuum after your pet if it sheds excessively
+- The dog must be up-to-date on immunizations
+
+*If these guidelines are not followed, guests will be charged the extra fee for cleaning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 77930747
+Host Profile URL: https://www.airbnb.com/users/show/77930747
+Host Profile URL Source: public user permalink from passport userId
+Our journey with Airbnb began in 2016 when we started renting out our personal home while traveling. What started as a simple side project quickly grew into a passion—creating exceptional stays where guests can relax, make memories, and feel at home. Now, as a family with two young children, we not only love hosting in our own properties but have also expanded to helping others provide top-quality stays in the area.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+5785 reviews
+4.89 out of 5 average rating
+9 years of hosting

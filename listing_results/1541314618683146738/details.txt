@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/1541314618683146738
+Latitude: 36.1726
+Longitude: -86.7961
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Nashville history at this stunning Printer's Alley-themed retreat! Custom murals celebrate the legendary entertainment district throughout this unique space. The show-stopping rooftop deck features a putting green, fire table, and sweeping city views. Unleash your inner performer in the bonus karaoke/podcast stage room complete with wet bar. Just minutes from downtown's best attractions, this luxurious property blends Nashville's past with modern luxury for an unforgettable experience.
+
+The space
+Please note that there is a Gate around the entire complex (code will be given with checkin instructions)
+
+★ LEVEL 1★ 
+ENTRANCE LEVEL 
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★ 
+Kitchen/Living Room/Dining Area with Custom Murals
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+**Fireplace is non-operable from March through September** 
+Half Bathroom
+
+★ LEVEL 3★ 
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3: Queen Bed w/ensuite full bathroom + Smart TV
+ 
+★ LEVEL 4★ 
+Bedroom 4: Queen, Custom Built-in Bunkbeds + Smart TV
+en suite Full Bathroom
+
+Printers Alley Vibes Room: Legit Karaoke/Podcast Stage with Acoustic Paneling, Wet Bar, Smart TV, Sleeper Sofa
+
+Balcony: TV + FireTable + Putting Green and......VIEWS!
+
+Guest access
+Private Entrance
+
+Other things to note
+**Fireplace is non-operable from March through September**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 725284958
+Host Profile URL: https://www.airbnb.com/users/show/725284958
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Nashville!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+23 reviews
+4.87 out of 5 average rating
+10 months of hosting

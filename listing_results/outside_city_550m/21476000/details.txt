@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/21476000
+Latitude: 36.34292
+Longitude: -86.61245
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Adults only.   1 mile from the interstate and 15 from downtown Nashville. Our upstairs is  unused by us. Our private spacious bedroom has 1 double bed and private full bath across the hall. We provide towels, wash clothes, linens, soap, shampoo and a coffee bar. We also have a separate 2nd listing for a Master suite on the same floor that has a queen bed, twin bed and en-suite bathroom. Full kitchen you are welcome to use. guest refrigerator in the garage. Shopping/restaurants withi 4 mins.
+
+The space
+We share our home/bed with two 5 lb chihuahuas that are very well trained. Please don’t cut them any slack on rules. No people food, not allowed upstairs where your rooms are, not allowed on furniture and they know their commands. Zoe is the black one and Ella Grace is the gray one.  Ella usually hides in her kennel.  Zoe will come and say hello but won’t get close enough to let you touch her.  They don’t bark often, only when entering or exiting.  just tell them NO BARK or get in your bed.
+
+Guest access
+1 parking spot for each room. We have a beautiful huge deck with a propane fireplace, lighting, tables, chairs. You are welcome to use the kitchen area. The bedroom does have a smart TV with hulu live and amazon prime. We have board games just ask. There is a refrigerator in the garage for guest use. There is a coffee bar in the kitchen that you are welcome,to as well as paper goods. No smoking or vaping in the house.
+
+During your stay
+We are rarely home, we work 6 days a week, weather permitting and go out often in the evening.  We will gladly answer any questions, text is usually the best way to reach us.. We want you to have a enjoyable private stay. We won’t bother you unless you seek us out. we try to stay invisible if we are there
+
+Other things to note
+We provide linens, towels, wash clothes, tissues, toilet paper,hangers, soap and shampoo, bottled water, sodas, and coffee bar. Adults only- no children
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karla
+Host User ID: 155968645
+Host Profile URL: https://www.airbnb.com/users/show/155968645
+Host Profile URL Source: public user permalink from passport userId
+My name is Karla Link, my husband and I are fun loving and love people. We like to have to have a good time but work hard. I pride myself on my beautiful gardens and waterfall I built. We have many different interest.
+Born in the 60s
+Where I went to school: Hendersonville
+My work: I run a hot dog cart
+For guests, I always: Share recommendations
+Pets: EllaGrace, Zoe
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+308 reviews
+4.98 out of 5 average rating
+9 years of hosting

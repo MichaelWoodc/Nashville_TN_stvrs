@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/16320147
+Latitude: 36.18014
+Longitude: -86.78824
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Perfect residential location for feeling at home and still be right in the middle of everything Nashville has to offer.
+Perfect for couples, families of 4 adults and business travelers. Beautiful master bath with washer and dryer. Includes blankets, towels and supplies. A walk-in closet/dressing room. Kitchen area with Keurig, microwave and fridge. (No oven/cooktop). King bed and two twin beds. Stream movies on large screen. 
+(Note: Please be sure to enter the correct number of guests)
+
+The space
+Downstairs has room to lounge, read and relax. We are a shoe less house where you can leave your boots/sandals shoes coats etc. no shoes upstairs. Upstairs is a large area with a plush king bed with two plush twin beds in an adjacent area. You’ll enjoy a beautiful master bath that includes a front loading washer and dryer. There is a walk-in closet/dressing room, and a separate kitchen area with Keurig coffee maker, under counter fridge, microwave, dishes and utensils. A cooktop and oven are NOT included. There are added features to accommodate a business traveler, including plenty of counter space, WiFi and printer/copier/scanner.
+
+Just for Fun there is a ceiling mounted projector and 108" screen for streaming movies and watching TV. Roku and Amazon Prime services are included. Also you have your own personal assistant to ask for the time, news, weather, music and podcasts. (If you haven’t tried Amazon’s Alexa yet you are in for a real treat!)
+
+The space is new, immaculate and luxurious. It’s perfect for couples, families of 4 and business travelers. Stay a weekend or weeks!
+Permitted, Licensed and Insured.
+
+Guest access
+Guests enter onto a lovely front porch, which they have to themselves, and access directly into their two story apartment through the front door with a keyless lock code.
+
+Other things to note
+Our space is permitted (Permit #2017000481) and insured.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Skip And Linda
+Host User ID: 32543568
+Host Profile URL: https://www.airbnb.com/users/show/32543568
+Host Profile URL Source: public user permalink from passport userId
+We have an immaculate, simple, sleek environment guests appreciate. Our travel experience in the USA and abroad has honed our vision to create an Airbnb where vacationers  feel they’re well taken care of. Our private home was built 20 years ago by our company and we’ve personally  planted all our trees and flowers. You’ll find us hiking, fishing, gardening, traveling and enjoying Nashville’s treasure chest of entertainment
+
+Come visit 
+Skip/Linda
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+342 reviews
+5.0 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1774787034653180273
+Latitude: 36.2085
+Longitude: -86.501
+rental_type: Private room in barn
+property_type: BARN
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 2
+occupancy: 4
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Mt. Juliet, Tennessee! We thank you for choosing to stay in our home! We are located on Clemmons Road with a huge gate around our home. You will continue to drive down the driveway and hit our beautiful barn!
+
+The pool table, bar, office or downstairs bathrooms nor the pool are for our guests unfortunately. Just head up our stairs to reach the wonderful home!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacqueline
+Host User ID: 1675752742344464167
+Host Profile URL: https://www.airbnb.com/users/show/1675752742344464167
+Host Profile URL Source: public user permalink from passport userId
+N/A
+Born in the 00s
+Where I went to school: Mount Juliet High School
+Speaks English and Spanish
+Lives in Mt. Juliet, Tennessee
+Pets: My Border Collie, Gio!
+Response rate: 100%
+Responds within a day
+New Host

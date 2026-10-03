@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/6749535
+Latitude: 36.22275056076988
+Longitude: -86.71280209470808
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Short Term Rental Permit #: 2017081769  Accommodates 2 to 4 guests. Two bedrooms, sitting area and bath offer privacy in an upstairs area. Guests will also have access to the kitchen. This home built in 1926 offers charm and warmth in a park setting only 20 minutes from downtown Nashville. Located in a quiet neighborhood, your stay will be relaxing and peaceful as you enjoy the view of the Cumberland River.
+
+The space
+Guests will have the entire upstairs which includes TWO BEDROOMS, a sitting area and one bath with shower and claw foot tub. The use of original kitchen and breakfast nook are available for light breakfast. Refrigerator and microwave also included.
+
+Guest access
+Guests will be able to sit outside and view the river. Perhaps the General Jackson or a river barge will come by.
+
+During your stay
+I will be happy to help with area restaurants and activities. If peace and quiet are what you're looking for, there is plenty of that here.
+
+Other things to note
+RiverHaven is 10 minutes from East Nashville where there are many restaurants, a park and a golf course. Nature and art are only minutes away. Downtown Nashville is 20 minutes away where the Country Music Hall of Fame is a main attraction. Opryland is across the river only 10 minutes away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 33524311
+Host Profile URL: https://www.airbnb.com/users/show/33524311
+Host Profile URL Source: public user permalink from passport userId
+I enjoy my family, walking, good books, the beach and singing in the choir. I am a retired teacher in the Nashville Public School System. Broadway musicals are one of my favorite things to see. The peace of the river has been a haven to me and my family. We call our home built in 1926, RiverHaven. My life saying is seek peace and pursue it.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+333 reviews
+4.96 out of 5 average rating
+11 years of hosting

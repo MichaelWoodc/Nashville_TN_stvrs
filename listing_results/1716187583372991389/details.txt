@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1716187583372991389
+Latitude: 36.1831
+Longitude: -86.8023
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from this well-located, stylish home! 
+
+Spacious 4-bedroom, 3.5-bath Germantown home just minutes from Broadway, The Gulch, Midtown, Vanderbilt and the cities best dining, nightlife, entertainment and local attractions! Perfect for couples, friends, families, and group getaways.  Enjoy bright open living spaces, a large chef-inspired kitchen, covered decks, a private fenced backyard, and off-street parking. Your perfect home base for an unforgettable Music City escape!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jana
+Host User ID: 47752796
+Host Profile URL: https://www.airbnb.com/users/show/47752796
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+2 months hosting
+8 reviews
+5.0 out of 5 average rating
+2 months of hosting

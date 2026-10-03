@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/809865338278018692
+Latitude: 36.25319
+Longitude: -86.62479
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 11
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gather the families at this peaceful & fun getaway. Entire lakefront house in a quiet neighborhood with views on both sides.
+
+Guest access
+Entire property: including house/finished basement/deck.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stuart
+Host User ID: 108712037
+Host Profile URL: https://www.airbnb.com/users/show/108712037
+Host Profile URL Source: public user permalink from passport userId
+Hi there! My name is Stuart, and I enjoy hosting on Airbnb. I'll do my best to make sure your stay is comfortable and help you enjoy this quiet neighborhood lake property. Feel free to reach out to me if you have any questions regarding my listing.
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within a few hours
+Superhost
+10 years hosting
+290 reviews
+4.88 out of 5 average rating
+10 years of hosting

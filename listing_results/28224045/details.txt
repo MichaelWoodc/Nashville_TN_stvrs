@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/28224045
+Latitude: 36.12774
+Longitude: -86.73188
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This beautiful house is our pride and joy! We spent over a year remodeling and piecing together all the beautiful details of this home. All mattresses are luxury memory foam, high end linens, granite countertops, soft close kitchen cabinets and lots of space to lounge, cook and enjoy time with friends or family.
+
+Only four miles from the heart of downtown Nashville yet nestled into a quiet cul de sac in a safe neighborhood. Uber/Lyft to town approx $8-13! We are Super Hosts!
+
+The space
+Our house is very accessible friendly. There is only one step from the driveway to the front door and no steps on the main floor included in this listing. There are 3 bedrooms and 2 full bathrooms each with a bathtub.
+
+The house is a non-smoking house but cigarette butt receptacles are located on the porch outside. This is strictly a pet free home. 
+
+The kitchen floor has beautiful stamped tile floors and there are original hardwoods in the front part of the house, new hardwoods in the living room and new carpet in the back bedroom.
+
+The kitchen has a large refrigerator, 12 cup standard brew coffee pot, microwave, dish washer, oven/stove combo with hood. The dining room table seats 8 with additional seating around the kitchen island. 
+
+The deck has seating for 8 and a grill can be made available by request. The wrap around porch also has a bench for seating in the shade for a bunch of people.
+
+Guest access
+Guests are renting the first floor of the home. The second floor will be closed and locked but remain vacant. There is one room on the main floor which is used for storage and will be locked and not accessible by guests.
+
+Other things to note
+Our property is properly permitted through the Nashville Codes department.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julie
+Host User ID: 19707550
+Host Profile URL: https://www.airbnb.com/users/show/19707550
+Host Profile URL Source: public user permalink from passport userId
+I work for a church as the Caring Minister. Before that, I worked for a medical missions organization coordinating trips to Guatemala to serve the local people through primary care, dentistry and surgical care. I love to travel and have done so extensively for my 30+ years. I am respectful, neat and clean and super friendly so I enjoy conversation and hearing about people and their lives. 
+
+I enjoy Broadway music and theater, musical movies, singing, dancing, cooking and nature.
+
+My favorite novel is Redeeming Love by Francine Rivers, I have read it a total of four times in English and Spanish!
+
+I am fluent in Spanish and think that maybe I was born with a little Latina blood in me despite my green eyes and freckles!
+My work: Caring Minister for a local church
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+1247 reviews
+4.86 out of 5 average rating
+11 years of hosting

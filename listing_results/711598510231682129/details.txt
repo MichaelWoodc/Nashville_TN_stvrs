@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/711598510231682129
+Latitude: 36.17737
+Longitude: -86.80042
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+No Cleaning Fees!!
+
+Take a break and unwind at this peaceful oasis. It is a maisonette the size of a one bedroom apartment. There are soaring ceilings with historic exposed beams. It has a full kitchen and sauna as well!
+
+This house is conveniently located to all things Downtown Nashville has to offer, but makes you feel like you are at a retreat far away.
+
+The bed is a brand new Stearns and Foster's Lowes Hotel mattress. The house comes equipped with wifi, kitchen essentials, and luxury linens.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Crystal
+Host User ID: 591142
+Host Profile URL: https://www.airbnb.com/users/show/591142
+Host Profile URL Source: public user permalink from passport userId
+I work in healthcare at a startup. I split my time between Nashville and Atlanta, but you can often find me using any weekend or holiday to get away to a new country or city. As a former ballerina, I love to dance , and am currently focused on all things Salsa! I also like to play Padel in my spare time.  I am a single mom and have turned to opening my home up to travelers to help pay off my student loans and to save for my daughter's college!
+Where I went to school: Emory University
+My work: Healthcare
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+184 reviews
+4.82 out of 5 average rating
+4 years of hosting

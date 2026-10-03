@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/53244457
+Latitude: 36.245191046617336
+Longitude: -86.76768346599266
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our serene 3-bedroom, 2-bathroom haven nestled in a quiet cul-de-sac! Perfect for families, friends, or travelers seeking relaxation.
+
+Features:
+
+·	3 spacious bedrooms with plush beds
+·	2 modern bathrooms, one with tub
+·	Bright living room with fireplace and large windows
+
+Amenities:
+
+·	Wi-Fi
+·	Smart TV
+·	Laundry facilities
+·	Parking for 3 cars
+·	Close proximity to Downtown Nashville
+
+Ready to unwind? Book now and make this cozy cul-de-sac retreat your home away from home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Charkia
+Host User ID: 358901507
+Host Profile URL: https://www.airbnb.com/users/show/358901507
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: Tennessee State University
+Response rate: 90%
+Responds within a few hours
+2 years hosting
+18 reviews
+4.56 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,93 @@
+URL: https://www.airbnb.com/rooms/1597169308101395645
+Latitude: 36.17281008864404
+Longitude: -86.79644738424147
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 16
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into Nashville's honky tonk scene at this brand-new Broadway-themed retreats! 2 (side by side) units with Custom honky tonk + Opry murals throughout, private karaoke stages with wet bars, plus rooftop decks with fire table & TV for the ultimate Nashville nights. 8 bedrooms, each with ensuite bathrooms in secure gated community. Minutes to Broadway's legendary bars! Perfect for groups ready to live their Nashville dreams!
+
+The space
+Please note that there is a Gate around the entire complex (code will be given with checkin instructions)
+
+Unit 6:
+★ LEVEL 1★ 
+ENTRANCE LEVEL 
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★ 
+Kitchen/Living Room/Dining Area
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+**Fireplace is non-operable from March through September**
+Half Bathroom
+
+★ LEVEL 3★ 
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:Queen Bed w/ensuite full bathroom + Smart TV
+ 
+★ LEVEL 4★ 
+Bedroom 4: Queen over Queen, Custom Built-in Bunkbeds + Smart TV
+en suite Full Bathroom
+
+Party Room: Wet Bar +  Karaoke Stage , Smart TV and Sofa Bed
+Balcony: Soft Seating, Smart TV + Fire Table
+
+Unit 7:
+★ LEVEL 1★
+ENTRANCE LEVEL
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★
+Kitchen/Living Room/Dining Area
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+Half Bathroom
+
+★ LEVEL 3★
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3:Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 4★
+Bedroom 4: Queen, Custom Built-in Bunkbeds + Smart TV
+en suite Full Bathroom
+
+Party Room: Wet Bar +  Karaoke Stage , Smart TV and Sofa Bed
+Balcony: Soft Seating, Smart TV + Fire Table
+
+*Must Climb Stairs*
+
+Guest access
+Private Entrance - Guests have access to everything but locked supply closets
+
+Other things to note
+Must Climb Stairs
+Entire Complex is Gated
+
+**Fireplace is non-operable from March through September**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 724370295
+Host Profile URL: https://www.airbnb.com/users/show/724370295
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 months hosting
+70 reviews
+5.0 out of 5 average rating
+11 months of hosting

@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/40379057
+Latitude: 36.1502
+Longitude: -86.7922
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+For 100 years, home to musicians and songwriters, now you can stay in this newly renovated piece of history on Nashville’s coveted Music Row! Located next door to the famous RCA Victor Studios and Warner Bros. Studios… see our photo of Elvis posing for the camera outside our building! Steps to Downtown’s favorite watering holes, restaurants, museums and shops. A 20 min. walk to Broadway!
+
+• Bedroom 1 King Bed
+• Bedroom 2 Queen Bed & Twin XL Daybed (real mattress)
+• Queen Joybird Sleeper Sofa
+
+The space
+Built in 1915 and renovated in 2019, this space features historical pre-World War I details. The property represents one of the few remaining of its type still standing in Nashville. Decorated with high-end modern interiors and equipped with everything you'll need to live like a local. 
+
+Featuring: original hardwood floors, quartz countertops, high-end fixtures and finishes, many windows with beautiful natural light, blackout wood blinds, 50" HDTVs with extensive channels in living and bedrooms, secure coded access, cookware, and luxury combed cotton-sateen linens, down-alternative duvets and pillow, and C.O. Bigelow shampoo, conditioner, and body wash. Shared front-load washers and dryers in the building.
+
+Guest access
+Guests are provided an access code to the building's secure entries on Music Square East and Roy Acuff Place and assigned a private access code to their Apartment. Secure, Private and Simple!
+
+Other things to note
+Free Parking at property is limited and is first come, first serve. Free street parking also readily available and paid parking next door at RCA Studios.
+
+Additional Items Provided:
+•	Hair dryer in each bathroom
+•	Clothes steamer located in closet
+•	Keurig coffee maker in kitchen
+•	Sheets, duvets, and pillows for each bed and sofa bed
+•	Towels, wash clothes, hand towels, floor mats
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amanda
+Host User ID: 103365676
+Host Profile URL: https://www.airbnb.com/users/show/103365676
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Amanda, founder of Lennon Hospitality. I manage and host a portfolio of properties, and I care about every stay feeling as good as the ones I look for when I travel.
+
+I love art, cooking, gardening, interior design, and being on the water. Live music, unique restaurants and bars are always a yes for me. Traveling has taught me how much the small details matter, and I bring that same attention to every property I host.
+
+Born in Tennessee, now happily based in Downtown Nashville.
+Born in the 80s
+My work: In-Flight Hospitality
+Response rate: 100%
+Responds within an hour
+10 years hosting
+25726 reviews
+4.79 out of 5 average rating
+10 years of hosting

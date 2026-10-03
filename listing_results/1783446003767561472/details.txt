@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1783446003767561472
+Latitude: 36.2203
+Longitude: -86.7049
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In Nashville, close to Broadway's honky-tonks, the Ryman, Bridgestone Arena and the Cumberland riverfront. 1-bedroom, 1-bath suite at our resort in Nashville, TN. Sleeps 4. Resort amenities include outdoor pool, indoor pool, outdoor hot tub and fitness center. Send us a message if you have questions before booking.
+
+The space
+In the suite: Ceiling fan · Hair dryer · In-room safe · In-suite washer/dryer · DVD player · TV · Wi-Fi · Balcony or patio (in some suites) · Jetted Tub · Air conditioning · Bathtub · Bed linens · Blender · Body soap · Cable TV · Coffee · Coffee maker · Conditioner · Cookware · Dining table · Dishes and silverware · Essentials · Freezer · Hangers · Heating · Iron · Full kitchen · Microwave · Oven · Pack ’n Play/travel crib · Refrigerator · Shampoo · Stove · Toaster · Towels provided
+
+Guest access
+You check in at the resort's front desk and can use all of the resort's amenities during your stay.
+• Valet is the only parking the resort offers.
+• Groceries and shopping are a short drive from the resort.
+• The resort takes a refundable $250 damage deposit at check-in (credit or debit card).
+• The guest checking in must be 21+ and named on the reservation. Send us their name when you book.
+
+Other things to note
+• We're a timeshare owner renting out a week we're not using — we don't own or operate the resort. The reservation is made in your name, so you check in and use the resort like any other guest.
+• Photos are of the resort and a suite of this type. Your exact unit is assigned by the resort.
+• We book the unit type; the resort assigns the specific suite. We can't guarantee a building or floor.
+• Mobility-accessible units are part of the same pool. Let us know your preference and we'll note it.
+• The guest checking in must be 21+ and present a credit card for the resort's refundable damage deposit.
+• The resort has its own check-in paperwork, plus any local taxes or on-site fees.
+• The resort may offer a timeshare presentation. It's optional — you can decline.
+• Cancellations are handled under this listing's cancellation policy.
+• Resort details come from the resort. Ask us if anything is critical and we'll confirm it.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Renee
+Host User ID: 1754427115146651712
+Host Profile URL: https://www.airbnb.com/users/show/1754427115146651712
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 83%
+Responds within a day
+1 month hosting
+6 reviews
+4.5 out of 5 average rating
+1 month of hosting

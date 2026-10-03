@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/4625481
+Latitude: 36.1736
+Longitude: -86.7807
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to your private waterfront retreat in Nashville! This stylish 1-bedroom condo on the Cumberland River is steps from downtown. Comfortably sleeps 4 with a master bedroom and sofa bed. Enjoy stunning river views from your private balcony, a dedicated workspace, and a community pool. Perfect for exploring Music City!
+
+The space
+Escape to your private waterfront retreat in the heart of Music City! This stylish one-bedroom condo offers the perfect blend of comfort and convenience, putting you right on the banks of the scenic Cumberland River. Inside, you'll find a beautifully furnished space designed to be your home away from home. The cozy master bedroom ensures a restful night's sleep, while the inviting living room features a queen sofa bed to comfortably accommodate up to four guests. For those mixing work with pleasure, a dedicated workspace is available. Prepare a meal in the fully equipped kitchen or step out onto your private balcony to enjoy stunning views of the river.
+
+Key Features:
+   Sleeps 4: The space comfortably accommodates up to four guests.
+   Master Bedroom: A cozy master bedroom ensures a restful night's sleep.
+   Living Space: An inviting living room features a sofa bed for additional guests and is perfect for relaxing after a day of exploration.
+   Kitchen: A fully equipped kitchen has everything you need to prepare a meal.
+Private Balcony: Start your day with coffee while enjoying stunning views of the Cumberland River.
+
+Guest access
+Your stay is designed for complete ease and relaxation. You will have private access to the entire condo, along with several fantastic community amenities. Guests have access to:
+• Entire Condo: Enjoy full, private use of the one-bedroom, one-bathroom apartment.
+• Community Pool: Take a refreshing dip in the shared community pool.
+• Free Parking: One free on-site parking space is included with your reservation.
+• Self Check-In: Arrive on your schedule with our seamless and simple self-check-in process.
+
+Other things to note
+Interaction with guests: We respect our guests' privacy and offer a seamless self check-in process. While we won't be on-site, we are always available via the app or by phone if you have any questions or need local recommendations during your stay.
+
+This property is equipped with a self check-in system for your convenience. You will receive detailed access instructions prior to your arrival date. Please review them before you travel.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 83323910
+Host Profile URL: https://www.airbnb.com/users/show/83323910
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native! I am more than happy to help with suggestions about places to see, restaurants to visit and much more! Just let me know and I will let you know my personal favorites in Nashville!
+Born in the 60s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+205 reviews
+4.87 out of 5 average rating
+10 years of hosting

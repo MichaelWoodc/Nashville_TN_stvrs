@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/628970326699273526
+Latitude: 36.23177
+Longitude: -86.72402
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Last Rodeo — your stylish Nashville escape just minutes from Broadway, Nissan Stadium, the Grand Ole Opry, and Five Points. Located in a quiet, safe neighborhood, it’s perfect for everything from a couple’s getaway to a large group trip. Our condo sleeps up to 10, with three bedrooms each featuring a private full bath — no sharing required. Whether you’re here for music, sports, nightlife, or a bachelorette weekend, Last Rodeo blends modern comfort with Nashville character.
+
+The space
+Living Spaces
+
+Kitchen: Fully Equipped Kitchen with Complimentary Coffee 
+
+Living Room: Large Sofa with a 55 inch TV
+
+Room 1: King Size bed with a TV and  its own full bathroom
+Room 2: Queen Size bed with a TV and its own full bathroom
+Room 3: 2 Full Bunk Beds with their own full bathroom
+
+Appliances
+Washer and Dryer
+Microwave
+DIshwasher
+Stove and Over
+
+Outdoor spaces – Key Less Entry into Building, Parking Lot and front patio!
+
+Guest access
+Guests will have private access to the entire condo and its Wifi. There is a keyless entry into the building and condo for check in. On the 4th floor there is a treadmill and peloton.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 231035317
+Host Profile URL: https://www.airbnb.com/users/show/231035317
+Host Profile URL Source: public user permalink from passport userId
+Hi everyone, I'm David! I love to travel and I love to eat amazing food! I'm back and forth between Nashville and Los Angeles so if you need any suggestions about either place please reach out! You can follow me on Insta as @davidxgomezzz I love making new friends and keeping in touch with guests!
+Born in the 90s
+Where I went to school: California State University Northridge
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+221 reviews
+4.92 out of 5 average rating
+4 years of hosting

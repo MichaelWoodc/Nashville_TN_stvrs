@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/6512317
+Latitude: 36.01869
+Longitude: -86.72263
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 4
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a full basement w/private entrance and private space. We live on the top two floors.  A quiet neighborhood on a dead-end street. Queen size bed in bedroom, sofa bed queen and a futon with a double on the bottom and a twin on the top. There is no kitchen but access to a full size refrigerator, microwave, coffee maker, and utensils.
+
+The space
+Main bedroom has a door for privacy.  Bathroom is outside the main bedroom and has a three steps entrance. The other two areas have a curtain to separate sleeping areas.  Games and puzzles for your pleasure.
+
+Guest access
+Full basement and access from the outside without going into our portion of the house.
+
+Other things to note
+Nashville locations and how far they are from us:  
+Belmont University (12 miles North);  Vanderbilt university (13 miles North); Bridgestone Arena (12 miles North);  Airport (15 miles East);  Grand Ole Opry/Gaylord Opryland (13 miles North);  Franklin (14 miles South);  Brentwood (4 miles West);  Nashville Zoo (5 miles North)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deane
+Host User ID: 20743408
+Host Profile URL: https://www.airbnb.com/users/show/20743408
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+644 reviews
+4.91 out of 5 average rating
+11 years of hosting

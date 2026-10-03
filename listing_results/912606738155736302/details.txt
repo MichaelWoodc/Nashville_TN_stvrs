@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/912606738155736302
+Title: A Night in Nashville
+Latitude: 36.1967
+Longitude: -86.8091
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This unique place has a style all its own.  Securely enclosed gated community that includes the perfect amenities for your summer getaway
+
+Guest access
+The entire unit is available to you.  Except the closets.  I have some personal items in there that were not removed.  Please just leave the doors closed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Felecia
+Host User ID: 480790418
+Host Profile URL: https://www.airbnb.com/users/show/480790418
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Where I went to school: Mount Pleasant
+Responds within a few days or more
+3 years hosting
+2 reviews
+4.0 out of 5 average rating
+3 years of hosting

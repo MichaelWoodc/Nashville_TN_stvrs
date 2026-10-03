@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1664019836664201451
+Latitude: 36.32199
+Longitude: -86.61724
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make the most out of your stay in the quiet neighborhood located in the heart of the City by the Lake - Hendersonville, TN. Only a 20 minute trip from the lively city of Nashville.
+Enjoy the full comfort of 3 bedrooms, 1.5 bath home along with a backyard equipped with a grill and patio to enjoy a nice Tennessee evening.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Isahi
+Host User ID: 193566919
+Host Profile URL: https://www.airbnb.com/users/show/193566919
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 100%
+Responds within a few hours
+5 months hosting
+5 reviews
+5.0 out of 5 average rating
+5 months of hosting

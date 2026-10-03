@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1600186742158575128
+Latitude: 36.20493323956109
+Longitude: -86.76422414610919
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Brand-new, professionally designed 3-bedroom, 3.5-bath East Nashville home, minutes from downtown, Broadway, and Nissan Stadium. Enjoy a boutique-hotel feel with an organic modern interior, chef-ready kitchen, spa-style wet room, and private rooftop deck with a hot tub, fire pit, and skyline views. Next to East Nashville Beer Works.
+
+The space
+This professionally designed 3-bedroom, 3.5-bathroom East Nashville home was built for groups who want more than just a place to stay—it’s a full experience. Bright, open-concept living areas pair soaring ceilings and exposed beams with a refined organic modern aesthetic, natural light, and curated interiors.
+
+The main level is made for gathering, with a spacious living room, dining area, and designer kitchen. Custom cabinetry, premium finishes, and large island seating create a functional setting for casual breakfasts, group dinners, or a pregame before heading out.
+
+Each bedroom is thoughtfully designed for comfort and privacy, with ensuite bathrooms throughout. Reset in the spa-style wet room, complete with a freestanding tub shown in the home’s design-forward bathroom.
+
+Upstairs, the private rooftop deck is a memorable place to begin the day with coffee or wind down under the lights. Take in skyline views from the hot tub, gather around the fire pit, and relax with outdoor furniture.
+
+For a well-equipped stay, the home includes:
+• Air conditioning and central heating
+• Wifi, Ethernet connection, TV
+• In-unit washer and free dryer
+• A full kitchen with refrigerator, stove, oven, microwave, dishwasher, blender, toaster, and baking sheet
+• Drip coffee maker, espresso machine, Keurig coffee machine, and coffee
+
+Guest access
+Guests have full access to the unit through a private entrance. Self check-in is available via keypad, and a code will be sent before arrival.
+
+The 2-car garage is available for parking, with free parking on the premises.
+
+Other things to note
+The hot tub is cleaned after every stay. Please allow time for the water to return to its normal temperature. It can also take around 30 seconds for hot water to reach the showers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Frank
+Host User ID: 231481335
+Host Profile URL: https://www.airbnb.com/users/show/231481335
+Host Profile URL Source: public user permalink from passport userId
+Married with dogs
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+269 reviews
+4.86 out of 5 average rating
+8 years of hosting

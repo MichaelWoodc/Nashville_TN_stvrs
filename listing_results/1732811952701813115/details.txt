@@ -1,0 +1,89 @@
+URL: https://www.airbnb.com/rooms/1732811952701813115
+Latitude: 36.17383104747663
+Longitude: -86.79247690133249
+rental_type: Entire serviced apartment
+property_type: SERVICED_APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Gather your crew and experience Nashville together from the heart of Germantown. This spacious four-bedroom suite offers plenty of room to relax, reconnect, and get ready for a night out. Enjoy a full kitchen, open living space, private balcony, and exclusive rooftop access with skyline views. Guests of The Conway also enjoy pickleball, outdoor lounges, local programming next door, and paid onsite parking—all just minutes from downtown.
+
+The space
+Welcome to The Conway, a vibrant Nashville stay designed for fun getaways with friends, families, and groups. Located in historic Germantown, The Conway puts you close to downtown, Broadway, restaurants, nightlife, and many of Music City’s most popular attractions.
+
+Have a big group? Contact us directly to discuss booking options and finding the perfect room combo!
+
+The accommodations
+
+Every unit includes a full kitchen and comfortable space to relax between Nashville adventures. Our two- and four-bedroom accommodations also feature either balcony access or rooftop views, while every four-bedroom unit includes a sofa bed.
+
+Each 4 bedroom suite has its own unique layout, so room and bed configurations may vary slightly. Please ask if you would like to know more! Some units have a queen bunk bed and some units have two full bunk beds. Let us know which would be best for your group!
+
+The Soundry backyard
+
+Guests of The Conway may enjoy the backyard at The Soundry, conveniently located right next door. This large shared outdoor space features two pickleball courts, spacious seating areas, and firepits—perfect for relaxing, gathering with your group, or enjoying some friendly competition.
+
+Normal guest hours for The Soundry backyard are 8:00 a.m.–11:00 p.m. Guests may enjoy the space during designated guest hours, subject to availability and private events. Access may occasionally be restricted due to private events or property operations.
+
+The Germantown neighborhood
+
+The Conway is located in Germantown, one of Nashville’s most historic and sought-after neighborhoods. Known for its charming streets, acclaimed restaurants, local coffee shops, boutiques, and lively atmosphere, Germantown offers plenty to explore right outside your door.
+
+You’ll be conveniently located near downtown Nashville, Broadway, Nissan Stadium, Bicentennial Capitol Mall State Park, and the Nashville Farmers’ Market—giving you easy access to Music City’s biggest attractions while providing a comfortable place to recharge after a day of exploring.
+
+Keyless entry and guest support
+
+The Conway uses Salto smart locks for convenient keyless entry. Guests will receive their unique access codes and detailed arrival instructions on the day of check-in.
+
+Our 24-hour concierge and guest communications team is available throughout your stay to answer questions, provide assistance, and help you make the most of your time in Nashville.
+
+Parking
+
+Paid onsite parking is available for $25 per vehicle, per night on a first-come, first-served basis. Parking availability is not guaranteed.
+
+Dogs
+
+Dogs may be permitted upon request with advance approval and a $150 pet fee. Please contact us before arrival if you plan to bring a dog.
+
+Early check-in and late checkout
+
+Early check-in beginning at 2:00 p.m. may be available for $75. Late checkout until 12:00 p.m. may also be available for $75.
+
+Both options must be requested and approved in advance and are subject to availability.
+
+Quiet hours
+
+Quiet hours are from 11:00 p.m.–8:00 a.m. Please be respectful of other guests and our neighbors by keeping noise to a minimum during these hours.
+
+Accessibility
+
+Please note that The Conway does not have an elevator. Stairs are required to access the accommodations.
+
+Other things to note
+The Conway is designed for guests who want to experience Nashville together while remaining close to the city’s top attractions. Because this is a shared hospitality property, you may see other guests enjoying the common outdoor spaces. Please be considerate of neighboring units and observe posted property policies and quiet hours.
+
+When you reserve multi units you are reserving multiple units, not one connected space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Notable Collection
+Host User ID: 699711821
+Host Profile URL: https://www.airbnb.com/users/show/699711821
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+2514 reviews
+4.79 out of 5 average rating
+1 year of hosting

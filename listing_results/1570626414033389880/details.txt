@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1570626414033389880
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 600 sq ft private loft sits in the heart of downtown Nashville — just a short walk to the Music Entertainment District, home to Nashville’s electrifying country music and nightlife.
+
+The space
+This studio is equipped with two queen beds, hotel-quality linens, a fully stocked kitchen, an in-unit washer and dryer, a 52” Smart TV, a Nespresso machine with complimentary pods, and all the comforts of home wrapped in a modern, luxurious loft atmosphere.
+
+And beyond the dream location, you’ll have access to some of the most stylish, photo-worthy common areas in Nashville, including:
+
+✔ Two-story coworking Collective
+✔ Resort-style pool with spacious outdoor lounge
+✔ Cabanas + grilling stations
+✔ Fire pits
+✔ Sky lounge with outdoor deck and stunning downtown views
+✔ Two-story fitness center with rock-climbing wall
+✔ On-site maintenance & concierge support
+✔ Starbucks right at the entrance
+✔ Bellhop luggage drop-off service in the lobby
+
+STR Permit #2018074226
+
+Guest access
+Self check-in at 4:00 PM CST with keyless entry!
+Apartment #636
+
+Other things to note
+GUEST PARKING:
+✔️Guest parking is located at the entrance of “The Burnham” (ON Rep. John Lewis Way S.)
+✔️Our guest parking has limited spaces that are first come first serve.
+✔️Prices do vary (approx. $40/day).
+✔️If you do not follow parking rules, this will results in booting charges, and wait times.
+
+PREMIUM PARKING LOT:
+
+✔️We offer premium parking that is located behind the gates (Located off of Peabody Street).
+✔️$40/day.
+✔️Come and go as you please, and always have a place to park with a designated space.
+✔️We do have LIMITED availability, so please be gracious when requesting this option.
+✔️Request the morning of your stay.
+
+PLEASE NOTE:
+
+﻿ * Remember, this is located in Downtown, Nashville and we are an airbnb friendly community. If you are looking for a quiet space for a quiet getaway this may not be your ideal stay. However, we do offer quiet work spaces located in the Collective off of the lobby.
+
+﻿﻿ * We are not responsible for any uncontrollable variables such as noise, private or public events, construction. This is a multifamily complex whose ownership controls the common areas and interior/ exterior shared spaces as well as maintenance of interior appliances and physical conditions of the apartment (including but not limited to plumbing, electrical, hvac, drywall, etc.). Such things are out of our personal control. We are forced to abide by the building’s protocol when it comes to the maintenance issues and timelines.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zayn
+Host User ID: 553223388
+Host Profile URL: https://www.airbnb.com/users/show/553223388
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 93%
+Responds within an hour
+1 year hosting
+105 reviews
+4.72 out of 5 average rating
+1 year of hosting

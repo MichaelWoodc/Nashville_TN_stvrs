@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/978951155540703521
+Title: Serenity on Fitz
+Latitude: 36.16435
+Longitude: -86.66161
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish place to stay is perfect for group trips.
+
+The space
+3 Story Townhouse. Main living space on 2nd Floor with Balcony overlooking front. The Bedrooms  are located on 3rd and 1st Floors. All Bedrooms have attached bathroom. The 1st Floor garage has a hang out space and Ping Ping Table.
+
+Guest access
+Entire home
+
+Other things to note
+Security Disclosure: There are 3 security cameras on site (1)  outside front door, (2) outside back driveway, and (3) outside above 2nd floor balcony.
+
+Near the railway: Close proximity to the Donelson Train Station - commuter rail station to Lebanon/Mt Juliet/Hermitage/Broadway/Downtown Nashville.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jarrod
+Host User ID: 74739982
+Host Profile URL: https://www.airbnb.com/users/show/74739982
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+54 reviews
+5.0 out of 5 average rating
+3 years of hosting

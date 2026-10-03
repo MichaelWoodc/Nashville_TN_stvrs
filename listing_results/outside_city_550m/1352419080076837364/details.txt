@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1352419080076837364
+Latitude: 35.94689845340597
+Longitude: -86.66667119839914
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Darling 600 square foot quant hideaway. 1 bedroom with queen bed 2nd queen bed on the opposite site of this unit. Large closet and 1 bathroom with nice walk in shower. This special place is close to everything, making it easy to plan your visit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cassie
+Host User ID: 198316261
+Host Profile URL: https://www.airbnb.com/users/show/198316261
+Host Profile URL Source: public user permalink from passport userId
+My work: Entrepreneur
+Speaks English
+Response rate: 100%
+Responds within an hour
+8 years hosting
+342 reviews
+4.71 out of 5 average rating
+8 years of hosting

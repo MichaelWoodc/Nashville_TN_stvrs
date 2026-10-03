@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/658637999064307592
+Latitude: 35.9205
+Longitude: -86.746
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful cottage located in desirable Franklin, TN.  Whether looking to explore the many wonderful areas of TN or looking for a quiet getaway, this cheerful cottage home has it all.  Enjoy the back yard with games such as corn hold. And while inside is newly renovated charmer there is privacy and all the comforts of home.
+
+Guest access
+Guests are able to access the entire property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren E
+Host User ID: 37058130
+Host Profile URL: https://www.airbnb.com/users/show/37058130
+Host Profile URL Source: public user permalink from passport userId
+I work as a Property Manager and Realtor.
+My work: The Luxe Collective, LLC -  Realtor
+Speaks English
+4 years hosting

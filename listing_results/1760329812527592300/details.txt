@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1760329812527592300
+Latitude: 36.20089
+Longitude: -86.75516
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Harmony House by AvantStay! Three floors of clean lines and tall windows keep the light moving all day, and the townhome layout means the group spreads out instead of stacking up. East Nashville's coffee roasters, bakeries, and chef-driven kitchens are minutes away, with downtown a short drive across the river.
+
+☕ Open main level with island seating + dual coffee maker
+🛏️ Four bedrooms across three floors for real privacy
+🎲 Deep board game stash + Giant Jenga + in-unit laundry
+
+The space
+Three floors of clean lines and tall windows, with light that keeps finding new angles as the day moves. The main level runs open — living to dining to kitchen, no walls in the way — around a long island that does triple duty as prep space, breakfast bar, and the spot where somebody's always leaning while the real conversation happens. Stainless appliances, a full cookware set, a dual coffee maker that takes K-Cups or grounds, plus a blender and toaster already stocked.
+
+The bedrooms spread across the floors, which is the quiet advantage of a townhome: nobody shares a wall with whoever's still up. A king anchors the first floor. Upstairs, two queen rooms and a fourth with a full-and-twin bunk. Granite vanities, walk-in showers, and streaming TVs in the living room and bedrooms. Laundry is in-unit, and the game stash runs deep — Catan, Codenames, Scrabble, Yahtzee, Uno, plus Giant Jenga and Block Toss for when things need to get up off the couch.
+
+This corner of East Nashville has quietly become one of the city's best stretches: chef-driven restaurants, low-key cocktail bars, coffee roasters, and bakeries locals guard a little. Five Points sits about seven minutes out, and Shelby Park and the Shelby Bottoms Greenway give you miles of riverside trail. Ellington Parkway drops you onto Broadway and the honky-tonks in roughly ten minutes, with Nissan Stadium just before it and the Grand Ole Opry about twelve minutes northeast.
+
+Harmony House gives a group room to spread out without putting Music City at arm's length.
+
+AvantStay provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more. 
+
+There's a reason Nashville, TN has become one of the country's most loved southern cities. With its vibrant nightlife, country music scene, and incredible food, "Nashvegas" is a top destination for people simply looking to have a good time- which means lots of drinking and eating. Visitors flock to Broadway, a street lined with multi-level bars playing live music and serving BBQ. You might get stuck in traffic behind party bikes called Pedal Taverns, but you're more likely to cheer them on than get road rage because having fun is part of the culture in Nashville.
+
+Experience Nashville, AvantStay Style!
+
+Other things to note
+Home Truths:
+- Unfortunately, pets are not allowed in this home. If undisclosed pets are brought into the home without AvantStay's approval there is a fine of $500 per pet.
+
+Parking Details:
+- Attached 2-car garage plus additional first-come, first-served on-site parking. Street parking may be available where permitted.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: AvantStay Nashville
+Host User ID: 338667310
+Host Profile URL: https://www.airbnb.com/users/show/338667310
+Host Profile URL Source: public user permalink from passport userId
+AvantStay makes group travel easy. Our homes are designed for comfort, connection, and memorable moments, with consistent quality you can count on—every time, everywhere.
+Speaks Arabic, German, English, Spanish, French, Hindi, Japanese, Korean, Portuguese, and Chinese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+6914 reviews
+4.76 out of 5 average rating
+7 years of hosting

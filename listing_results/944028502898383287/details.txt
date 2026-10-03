@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/944028502898383287
+Latitude: 36.18433
+Longitude: -86.76301
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into our thoughtfully designed East Nashville guesthouse—perfect for couples & solo travelers. Nestled in one of the city’s most walkable neighborhoods, you’ll be close to local favorites like Mas Tacos, Audrey, Peninsula, Folk, Xiao Bao, Redheaded Stranger, & Turkey and the Wolf. Enjoy your vibrant surroundings or take a 10 min drive to Broadway, Nissan Stadium, & more. Whether you're here for a weekend escape, a quiet reset, or a taste of Nashville’s rhythm, this is your ideal home base.
+
+The space
+Welcome to our cozy brick house with a 14 foot vaulted ceiling and lots of natural light. Relax within the 700 sq ft floor plan with a full sized custom kitchen, counter seating, coffee station stocked with local beans, milk, sugar, and teas. Built in 2024, the guesthouse features a spacious living area, king bed, walk-in shower, in-suite laundry, and patio deck. You'll have free private off-street parking, a secure fenced in property, dedicated guest access, and a house all to yourself. The guest house, attached backyard patio deck, and parking area are yours to enjoy.
+
+Guest access
+Enter through the alley behind the main house to find parking and guest access. Self check in with keypad can be found on the other side of the gate.
+
+Other things to note
+We live in the main house, so you might see us on the property doing yard work, enjoying our outdoor space, or taking out the trash. We are happy to meet our guests and offer recommendations if you invite the conversation, or spend your time in seclusion and peace.
+
+We have a two friendly cats named Kip (grey Shorthair/Bengal mix) and Darwin (white Siamese mix), and they like to spend time outdoors. You might run into them from time to time. Kip is a fence-hopping indoor/outdoor cat, so don't mind his exploratory nature.
+
+Registration Details
+2024010881
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 7389880
+Host Profile URL: https://www.airbnb.com/users/show/7389880
+Host Profile URL Source: public user permalink from passport userId
+I'm a Nashville resident by way of Canada. My wife and I love this city and everything it has to offer. We enjoy showing our friends around, walking around our favorite neighborhoods, and enjoying wine/cocktails. Our guesthouse was born out of our welcoming spirit and passion for interior design. Whether you're here for Nashville's iconic institutions, exploring off the beaten path, or just passing through, we hope you have a wonderful time here.
+Born in the 90s
+My work: Music industry
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+298 reviews
+5.0 out of 5 average rating
+3 years of hosting

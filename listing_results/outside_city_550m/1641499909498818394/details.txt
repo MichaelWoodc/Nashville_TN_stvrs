@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1641499909498818394
+Latitude: 36.30344
+Longitude: -86.51628
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to this beautifully remodeled 2-bedroom bungalow with a cozy sleeping nook, nestled on 2 peaceful acres just minutes from Old Hickory Lake! This comfortable countryside retreat is perfect for families, small groups, fishing trips, or Nashville weekend getaways. You’ll enjoy the quiet of the country while being only about 30 minutes from Nashville.
+Spend the day boating on the lake, exploring or relaxing under the stars, this property is a peaceful home base for your trip.
+
+The space
+Beds are 1 King size bed in one room, 2 queen size beds in one room, and 1 twin size bed in the nook.
+
+Other things to note
+Please bring a bag of ice for freezer because refrigerator does not produce ice. 
+
+We do have PUR water filter to use in the fridge.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Travis
+Host User ID: 14098254
+Host Profile URL: https://www.airbnb.com/users/show/14098254
+Host Profile URL Source: public user permalink from passport userId
+Professional, Family Man, Outdoor Enthusiast
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+419 reviews
+4.86 out of 5 average rating
+12 years of hosting

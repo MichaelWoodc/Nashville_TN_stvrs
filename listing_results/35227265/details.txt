@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/35227265
+Latitude: 36.20032
+Longitude: -86.74684
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come experience a peaceful getaway in one of the hottest neighborhoods in East Nashville! Pet friendly! 3-5 minutes from all East Nash favorites. This convenient location also allows quick and easy access to downtown Nashville and Nissan Stadium (10min). Locals must message before booking.
+
+The space
+Cozy space best recommended for the single traveler or small family. Toddler bed and high chair is available upon request!
+
+Guest access
+You will have access to the full house and covered parking. (NOT GARAGE)
+
+Other things to note
+Kid friendly space! Pack n play, toddler bed, high chair & toddler toys available upon request!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Forest
+Host User ID: 265232072
+Host Profile URL: https://www.airbnb.com/users/show/265232072
+Host Profile URL Source: public user permalink from passport userId
+Songwriter. Producer. Entrepreneur. Dreamer. Dad.
+Born in the 90s
+Where I went to school: Northwood Highschool
+Response rate: 90%
+Responds within an hour
+Superhost
+4 years hosting
+139 reviews
+4.96 out of 5 average rating
+4 years of hosting

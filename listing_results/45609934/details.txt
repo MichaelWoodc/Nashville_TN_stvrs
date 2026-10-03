@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/45609934
+Latitude: 36.18542
+Longitude: -86.72085
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home in East Nashville! This 4-bedroom, 3-bathroom (plus bonus room with separate entrance!) retreat is perfect for groups, families, or business travelers. Enjoy the large backyard with a fire pit, a bonus room with a bar, and easy access to everything Nashville has to offer!
+
+The space
+⭐ Dedicated Driveway Parking for 4 vehicles + Street Parking
+⭐ 15 min Uber to Broadway & Nissan Stadium
+⭐ Huge fenced backyard w/ fire pit & lounge area
+⭐ Fast Fiber WiFi – Great for Work & Streaming
+⭐ Spacious bonus room w/ wet bar & games
+⭐ Fully stocked kitchen for home-cooked meals
+
+Let Me Show You Around:
+First Floor:
+✔ Open living area with comfortable seating & Smart TV
+✔ Modern kitchen stocked with essentials
+✔ Backyard access with fire pit & seating
+✔ Bonus Room: Queen Murphy bed, wet bar, separate entrance
+✔ Full bathroom
+
+Second Floor:
+✔ Primary Suite: King bed
+✔ Bedroom 2: Queen bed w/ ensuite bathroom
+✔ Bedroom 3: Two full beds
+✔ Bedroom 4: Queen bed
+✔ Full bathroom
+
+Guest access
+You will be messaged a door code a day before check in.
+
+Other things to note
+The house is fully equipped with Fiber WiFi, 2 TVs with Netflix, Amazon Prime, Disney+, and HBO BYO-LogIn . We can work with your group for special requests to make your stay perfect.
+
+We are equipped with 24/7 motion-activated Ring cam that captures audio and video, exclusively monitoring the front door and surveillance camera in backyard to ensure your safety while respecting your privacy indoors.
+
+Registration Details
+2023099969
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric
+Host User ID: 57059716
+Host Profile URL: https://www.airbnb.com/users/show/57059716
+Host Profile URL Source: public user permalink from passport userId
+Hi!
+
+I'm a local Nashville resident, and full time property manager. I'll be your guide on this Nashville journey and can't wait to host you!
+
+My company, Nashville Stays, is a small family business focused on bringing you the Nashville experience you've heard all about. 
+
+We aim to make your travel experience a breeze and deliver the 5 star experience you deserve!
+Born in the 90s
+Where I went to school: University of Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+198 reviews
+4.92 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/603006767330504145
+Latitude: 36.1836
+Longitude: -86.6886
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy our peaceful and centrally located Guest Suite w/private entrance!
+
+Just 5 minutes from Opryland Mall,  The famous Opryland hotel/convention center, and only 15 minutes from Downtown! You will enjoy the perfect stay whether here for a bachelorette party, family vacation , work or even a weekend getaway! Our 2 bedroom, has a jack and Jill bathroom, Queen size bed in one bedroom and a sofa sleeper with queen bed in room 2, fully equipped with coffee maker, mini fridge, working station, tv’s!
+
+The space
+Room 1-Queen size bed, kuerig w/ coffee station, extra sheets, iron, iron board, Tv 
+
+Room 2- Sleeper sofa w/ queen size pull out bed (equipped with secure bed covers) , mini fridge, work station, high top dining area with three stools,toaster oven, microwave, couch, TV, 
+
+Bathroom-Double sinks, full bath tub and shower , toilet , towels and extra provided, shampoo, hair dryer,
+
+Guest access
+All guest have private access to both bedrooms and bathrooms away from myself and all other guest during their stay. All guest have a private entrance and access to enter and depart unit with their own code.
+
+During your stay
+Both Myself and co-host Mikel are available at anytime throughout guest stay for help or questions via. Air BNB app or by cell phone.
+
+Other things to note
+Guest have an outside sitting area with patio furniture and chairs to lounge in front of Guess suite and Grill access!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sheryl
+Host User ID: 367476495
+Host Profile URL: https://www.airbnb.com/users/show/367476495
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Southern Illinois University
+My work: Construction/design
+Most useless skill: Practical jokes
+What makes my home unique: Private but close to everything
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+251 reviews
+4.93 out of 5 average rating
+4 years of hosting

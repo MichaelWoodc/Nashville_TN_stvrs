@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/26807712
+Latitude: 36.1155
+Longitude: -86.47797
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A picturesque, quiet and private 75 acre ranch that is complimented with extreme attention to detail.  You like the photos?  The real thing is even better!  This is country living at its finest.
+
+This rental is a renovated Civil War Era Log Cabin with all modern amenities.
+
+Whether you're enjoying a tranquil morning coffee overlooking the beautiful Nashville countryside complete grazing horses or luxuriating in the indoor whirlpool tub - this property exudes peaceful relaxation and romance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gordon
+Host User ID: 201585917
+Host Profile URL: https://www.airbnb.com/users/show/201585917
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+34 reviews
+5.0 out of 5 average rating
+8 years of hosting

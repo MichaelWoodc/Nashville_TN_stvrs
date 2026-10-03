@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/1724856062908257411
+Latitude: 36.193849233890774
+Longitude: -86.73780387680873
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your East Nashville home away from home. This stylish 3-bedroom, 3-bath retreat was thoughtfully designed with comfort, connection, and entertaining in mind. Enjoy 2 inviting living rooms, a private backyard with fire pit and outdoor dining, and plenty of space to sleep up to 8 guests. Across from Eastland Park and just minutes from downtown, you'll be close to Nashville's best restaurants, bars, coffee shops, and live music while enjoying one of the city's most vibrant neighborhoods.
+
+The space
+The open main level features a spacious living room, dining area and fully stocked kitchen, making it easy to cook, dine and spend time together. Upstairs, a second large living room gives everyone extra space to relax, play games or enjoy some downtime.
+
+Sleeping arrangements include a king bedroom, queen bedroom and a third bedroom with two full-size beds. With three full bathrooms, two living areas and plenty of separate spaces throughout the home, groups can comfortably spend time together without feeling crowded.
+
+The outdoor spaces are one of the highlights. Start your morning with coffee on the expansive covered front porch, enjoy dinner and drinks on the deck with outdoor dining and a grill, then wind down around the fire pit in the private fenced backyard under the string lights.
+
+Home Highlights:
+•	3 bedrooms + 3 full bathrooms
+•	1 king, 1 queen + 2 full beds
+•	Two spacious living rooms
+•	Fully stocked modern kitchen
+•	Coffee + tea bar
+•	Large covered front porch with plenty of seating
+•	Private fenced backyard + fire pit + string lights
+•	Outdoor dining + grill
+•	Games and multiple spaces to gather or unwind
+•	Washer + dryer
+•	Keyless entry
+•	Toiletries provided
+•	2 smart TV’s
+•	2 dedicated off-street parking spaces + ample street parking
+
+Location Highlights:
+•	Walkable to coffee shops, restaurants, bars and nightlife on Gallatin
+•	Eastland Park is across the street
+•	10 minutes to Broadway, Nissan Stadium, the Gulch, and Bridgestone Arena
+•	Easy access to I-65, I-24 and Ellington Parkway
+
+House Rules:
+•	Exterior cameras are present at both front and back doors (the are no indoor cameras)
+•	No parties or events
+•	Quiet hours must be observed out of respect for our neighbors and excessive noise at anytime is not permitted
+•	Guests are responsible for following safety precautions when using fire pit, and do so at their own risk
+•	We love pets but they are not permitted at this property, an unauthorized pet will result in a fee
+
+Guest access
+Guests will have full access to the entire home and outdoor spaces. Guests will have access to 2 driveway parking spaces on the right hand side of the driveway. The 3rd space on the left is a private space not available for use.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erica
+Host User ID: 1724855290812173736
+Host Profile URL: https://www.airbnb.com/users/show/1724855290812173736
+Host Profile URL Source: public user permalink from passport userId
+New York native turned Nashville local. Passionate about traveling, cooking, hiking and adventuring with my rescue chiweenie Lulu.
+Speaks English and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+2 months hosting
+8 reviews
+5.0 out of 5 average rating
+2 months of hosting

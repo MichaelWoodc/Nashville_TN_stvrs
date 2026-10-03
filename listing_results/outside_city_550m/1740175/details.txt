@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1740175
+Latitude: 35.9498
+Longitude: -87.0048
+rental_type: Farm stay
+property_type: FARMSTAY
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wood and stone cabin with spacious porches. Lake nearby.  Set in a rustic pastoral paradise that makes up Big East Fork, a 2000-acre Conservation Easement 19 miles from Nashville and 6 mi from Franklin and Leipers Fork. Beautiful view of the working organic farm next door and a pond out front. sweet farm animals. Very fast wifi. The common grounds hold a Horseshoe Pit, Shuffle Board, and Bocci ball. Parties and Events NOT permitted via AirBnB. Additional $40/night fee for more than four guests.
+
+The space
+The elegant master bedroom has a queen bed and private bathroom with Jacuzzi tub and shower. The first floor contains two private bedrooms, two bathrooms, living room, and a fully equipped kitchen. There is a loft bedroom that holds twin & double beds. Outside there is a beautiful porch overlooks the gorgeous pond and yard.
+
+Guest access
+Guests may access the entire house except for attic and basement spaces. A ramp allows wheelchair entry to first floor. Three full bathrooms on first floor.
+
+Other things to note
+If you would like to use the Lake Gratitude Natural Area with its lake and private hiking trails, please contact The Fork Inn.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 8978883
+Host Profile URL: https://www.airbnb.com/users/show/8978883
+Host Profile URL Source: public user permalink from passport userId
+We are the proud owners of The Fork Inn in 3000 acre Big East Fork Valley. We are in a protected watershed located 19 miles west of Nashville and 10 miles north of Franklin. 
+
+We are honored to be Stewards of Big East Fork Valley and support the nearby Center for Sustainable Stewardship. We enjoy the abundant wildlife and the many nearby creeks and hiking trails.
+
+We look forward to your stay
+Born in the 60s
+Where I went to school: Univ of Michigan / Vanderbilt
+Response rate: 96%
+Responds within an hour
+13 years hosting
+1357 reviews
+4.64 out of 5 average rating
+13 years of hosting

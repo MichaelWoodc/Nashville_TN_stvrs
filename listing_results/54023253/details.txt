@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/54023253
+Latitude: 36.25555
+Longitude: -86.70292
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our Little Madison Home! We invite you to enjoy your own private home. 1 mile from grocery,  5 minutes from East Nashville and a 15 minute drive from Downtown. Our home is perfect for a romantic getaway, family visits, business travelers, solo travelers and sightseers. Pup friendly with a fenced in front and  backyard to make a happy getaway for you and your best dog pal. Our Little Madison Home is the warm hug of housing.
+
+The space
+A 2 Bedroom/1 Bath home, Little Madison is a confident 720 square feet. Perfect for 1 to 4 people! Originally built in 1938 and FULLY renovated in 2021 this home has all the creature comforts you need for an easy visit to Nashville.  
+
+Perks of the Place: 
+- Custom keyless entry
+- Dog Friendly* 
+- Designated Work Space (with zoom-ready background)
+- Spacious and fenced in backyard ready for your enjoyment **
+- Open concept home, with a perfect flow between kitchen and living room. 
+- Full kitchen with olive oil & spices, condiments, along with coffee and tea in the cutest coffee nook in the land. 
+- Outdoor fun including fire pit, outdoor dining space, cornhole, frisbee and hammock. 
+- Hi-Speed internet and a smart TV to log into your binge watching accounts (Roku)
+- All linens and towels provided, including makeup washcloths
+- Washer and dryer, iron and small ironing board, and detergent provided
+- Ceiling fans in both bedrooms  
+- Easy and free parking. 
+- Board Games, Shampoo, Blow Dryer, all the hospitable things you need for a lovely stay.
+- And a SIMPLE check-out!
+
+Maximum of 4 guests. 
+No parties hosted on property. Thank you!
+
+* Pups allowed under 50 lbs. No cats, no great danes. We just ask that you clearly notify us if a furry friend will be joining you and we ask that your pup be kenneled if you plan to leave for more than a half hour. Maximum two pups per stay.
+
+** No loud noises (inside or outside) after 10PM. Cornhole, Firepit, Hammock and Patio are ready for you but absolutely no more than 6 humans in the home at one time. NO overnight guests beyond those identified in your booking. We respect our home and neighbors and expect you to do the same.
+
+No smoking (of anything) in the house. Please be sure to close all doors if smoking outside the house and collect and dispose of all butts.
+
+Guest access
+Guests will have the full house to themselves with a personalized keyless entry and a fenced in backyard all their own.
+
+Other things to note
+Madison is a diverse neighborhood of Nashville. While our home is in a very residential area, please note Madison is still part of a bustling city. Please expect to see neighbors (say hello!), especially those walking to and from the nearby bus stop, utilizing our city's public transportation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 1965836
+Host Profile URL: https://www.airbnb.com/users/show/1965836
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+263 reviews
+4.82 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/874624306638678160
+Latitude: 36.03656
+Longitude: -86.67036
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Forget your worries in this spacious and serene space.Nice , calm & Quiet neighborhood. 15 mins from airport
+
+The space
+house is very comfy & chill, come relax and kick back a day or so and vibe out
+
+Guest access
+you have access to the whole house the master bedroom will be locked and closed off to you and you will have access to the guest room along with the entire house
+
+Other things to note
+EVERY ROOM IN THE HOUSE HAS CAMERAS MOUNTED THAT WILL BE VISIBLY DISCONNECTED , BAG COVERED AND UNPLUGGED MEANING NOT ON AND NOT ACTIVE , IF THAT IS AN ISSUE FOR YOU YOU DO NOT NEED TO STAY HERE 🤷🏾‍♂️ im not going to keep putting them up and down everytime i have a new guest there up and unplugged as you can see for yourself
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Collin
+Host User ID: 168253059
+Host Profile URL: https://www.airbnb.com/users/show/168253059
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Self Employed
+Responds within a few days or more
+3 years hosting
+2 reviews
+3.0 out of 5 average rating
+3 years of hosting

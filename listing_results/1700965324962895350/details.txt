@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1700965324962895350
+Latitude: 36.04480536327853
+Longitude: -86.63938850112783
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville Landing‼️
+Enjoy a comfortable and relaxing stay just minutes from: Nashville International Airport ✈️
+Next to: Tanger Outlets 🛍️ and PopStroke. 
+20 minutes from Downtown 🌇
+Whether you’re visiting Music City for work, or fun, my home offers the perfect place to feel at home. 8 years  living here and never have  an issue.
+
+The space
+You can cook, I don’t cook just in the morning and you have a space in the fridge for you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vanesa
+Host User ID: 58531824
+Host Profile URL: https://www.airbnb.com/users/show/58531824
+Host Profile URL Source: public user permalink from passport userId
+I am 33 years old, I work for an insurance agency .  I went to college for communication, I love to workout outside; like to run. I love to meet new people around the world.
+My work: Insurance agent
+Fun fact: I like to sing Karaoke
+Speaks English and Spanish
+I'm obsessed with: Singing
+Pets: No
+Response rate: 80%
+Responds within a few hours
+3 months hosting
+7 reviews
+4.86 out of 5 average rating
+3 months of hosting

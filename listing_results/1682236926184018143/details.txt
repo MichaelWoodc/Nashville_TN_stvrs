@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1682236926184018143
+Latitude: 36.2155
+Longitude: -86.72
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your peaceful home in East Nashville! This private guest suite is in a quiet neighborhood known for its friendly vibe and access to the best of Nashville. Just minutes from downtown, Five Points, and some of the city’s favorite local restaurants, coffee shops, and music venues, you’ll enjoy the perfect mix of convenience and relaxation.
+
+The suite offers a comfortable, thoughtfully designed space with private entrance, cozy furnishings, and everything you need for a great stay.
+
+The space
+Spacious and comfortable, this 1,052 sq. ft. private basement guest suite is perfect for families, couples, business travelers, or groups visiting Nashville. Located in a quiet Inglewood neighborhood in East Nashville, the suite offers a peaceful retreat just minutes from downtown, live music, restaurants, and local favorites.
+
+The suite features two private bedrooms and flexible sleeping arrangements to comfortably accommodate groups:
+One bedroom with a queen bed
+One bedroom with two twin beds
+A pullout sofa in the den that converts to a full-size bed
+
+Guests will enjoy a large living and den area, private entrance, comfortable furnishings, and plenty of room to relax after exploring the city. Whether you’re in town for concerts, sporting events, family visits, or a weekend getaway, this cozy East Nashville stay offers both convenience and comfort in one of Nashville’s most charming neighborhoods.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristi
+Host User ID: 329939491
+Host Profile URL: https://www.airbnb.com/users/show/329939491
+Host Profile URL Source: public user permalink from passport userId
+I am a medical sales professional who finds reward in my career, but I also have a love for music, great food, and travel. Suitcase always on the ready. 
+
+Recently, I moved to Nashville, choosing the artsy charm of East as my new home. Whether I am exploring the food scene, checking out music venues, or planning my next trip, I am making the most of this new phase of life!
+Born in the 60s
+My work: Medical Sales
+Response rate: 90%
+Responds within a few hours
+Superhost
+2 years hosting
+114 reviews
+4.9 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/914739560203571788
+Latitude: 36.38536
+Longitude: -86.92251
+rental_type: Entire place
+property_type: OTHER
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Cheatham County, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to our spacious lodge just outside Nashville, perfect for families, and small groups. This private getaway sleeps up to 10 and features a full kitchen, large living spaces, two bathrooms, and a generous deck. Each bedroom is newly equipped with its own climate control for personalized comfort year-round. Enjoy peaceful surroundings with easy access to Downtown Nashville, nature, and city attractions.
+
+The space
+The Lodge is located on the Jones Farm Property, which also has Event Spaces available to rent for parties and large gatherings. The Lodge is for lodging only and not a part of the Event spaces. If you are interested in our event spaces, please inquire and we will connect you with our Events dept.
+
+Guest access
+Guests who book the Lodge for lodging purposes only will only have access to the Lodge. All Event spaces are private and book through our Events department. If you would like to use or access those areas please inquire and we are happy to connect you to our Events Dept.
+
+Other things to note
+The lodge is part of a rural, working property — expect peaceful surroundings, wildlife, and natural sounds.
+
+	•	Quiet hours are observed to respect all guests on the property.
+
+	•	Events or gatherings beyond registered overnight guests must be approved in advance through our events company.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jones Farm
+Host User ID: 357897419
+Host Profile URL: https://www.airbnb.com/users/show/357897419
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Ole Miss & Samford
+Response rate: 50%
+Responds within a day
+6 years hosting
+613 reviews
+4.82 out of 5 average rating
+6 years of hosting

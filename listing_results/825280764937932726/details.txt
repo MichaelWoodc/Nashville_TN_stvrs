@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/825280764937932726
+Title: 12 South Guest House
+Latitude: 36.12943
+Longitude: -86.78527
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy 12 South Guesthouse! Located in the walkable 12 South Neighborhood of Nashville. Coffee shops, restaurants, bars and great shopping are just a short walk away.
+
+Quick Lyft or Uber to all the great attractions Nashville has to offer like the Gulch, Downtown, Lower Broadway, Bridgestone Arena, Geodis Park & More.
+
+Perfect stay for a couple visiting their children at Belmont University which is located up the street. Also a quick Lyft ride to Vanderbilt and Lipscomb.
+
+The space
+This guest house was constructed in 2023 and is located on the upstairs floor behind our main house in a detached building. 
+
+This cozy space includes a private entrance and 1 queen sized bed, 1 bathroom with tub & shower, a full kitchen with dishwasher, microwave and oven, eating area, and futon.
+
+The futon folds out and can sleep 1 person.
+
+The house includes a Smart TV. Please note that cable is NOT provided, so you'll need to log in with your own streaming service accounts (Netflix, Hulu, etc.) to access content.
+
+Includes Free Wifi
+
+Guest access
+This guest house is private and is detached from the main house. Note the Guest house is located on the top floor and includes a separate private entrance.
+
+Other things to note
+-Able to set up a Lotus Pack-N-Play as well as a baby gate if requested. We have 2 children and likely have other items on hand if needed. Please feel free to reach out if you anticipate needing something for your child while you are staying here!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Quentin
+Host User ID: 29347085
+Host Profile URL: https://www.airbnb.com/users/show/29347085
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+3 years hosting
+70 reviews
+5.0 out of 5 average rating
+3 years of hosting

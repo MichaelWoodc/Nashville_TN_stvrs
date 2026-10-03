@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/562287860381810750
+Latitude: 36.1339
+Longitude: -86.80394
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A comfortable and centrally located 2 bedroom apartment in the heart of Hip Hillsboro Village. Quiet and private with free parking, you are just steps away from tons of restaurants, bars, coffee shops and just a few blocks to Vanderbilt & Belmont.
+Please note that the fifth sleeping space is the sofa which is not a pullout sofa
+
+The space
+This is a private apartment in an old historic apartment building. There are no shared spaces other than the back parking lot and you will have full access during your stay.
+
+The apartment consists of one king size bedroom and one queen size bedroom, a full bath, full kitchen with laundry and living room area. There is also a small patio out front for you to use.
+
+Guest access
+Parking can be rough in this neighborhood so I would suggest walking or using Lyft/Uber
+
+Other things to note
+This space is so cozy that it stays cools in the summer and warm in the winter.
+
+This is a basement apartment in a larger building. There is a potential of noise from above.
+
+No deliveries
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexa
+Host User ID: 131468900
+Host Profile URL: https://www.airbnb.com/users/show/131468900
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native. I grew up in downtown Nashville when no one wanted to live there. I have loved watching my city grow and sharing it with travelers like yourself. I love experiencing new places and spending time with my husband and friends. 
+live life. love life.
+My work: Another You Llc
+Response rate: 100%
+Responds within a few hours
+9 years hosting
+504 reviews
+4.78 out of 5 average rating
+9 years of hosting

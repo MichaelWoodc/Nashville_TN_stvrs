@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/44395269
+Latitude: 36.38263
+Longitude: -86.85677
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Coco's Cabin, all the comforts of home and then some!  Pets Stay Free!
+Come sit on the huge private deck, bring your fur babies to enjoy the huge fenced in yard.  We are just 4.5 miles off the I-24 interstate, and 16 scenic miles on interstate NW from downtown Nashville.
+
+The space
+King size Bed with TV, Open Living Room w/(Queen Sofa bed), area with TV, Electric Fireplace, Great Kitchen with island, Microwave, Stove, Refrigerator, Coffee maker and Keurig, Full size huge deck.  Fenced deck for safety of the pets, and huge fenced Yard.
+
+Guest access
+Coco's Cabin #3, you see if first on your left as you come up driveway.
+
+Other things to note
+Pets Stay Free!  (No aggressive breeds.)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Donna
+Host User ID: 88197167
+Host Profile URL: https://www.airbnb.com/users/show/88197167
+Host Profile URL Source: public user permalink from passport userId
+I’ve been in the hospitality industry all of my working career.I enjoy meeting people and I love fur babies ,repurposing things and real estate , I combine all together in hopes guests have a memorable experience at our place
+Where I went to school: Vol. State
+My work: Hospitality/self emp
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+818 reviews
+4.98 out of 5 average rating
+9 years of hosting

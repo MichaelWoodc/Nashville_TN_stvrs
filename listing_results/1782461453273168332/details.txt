@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1782461453273168332
+Latitude: 36.226
+Longitude: -86.6029
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This stylish place to stay is perfect for group trips.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marcella
+Host User ID: 558054020
+Host Profile URL: https://www.airbnb.com/users/show/558054020
+Host Profile URL Source: public user permalink from passport userId
+I like to drink and sing karaoke
+Born in the 90s
+My work: Hostess
+I spend too much time: Watching anime
+Most useless skill: I am a big believer in love
+Pets: An auggie
+New Host

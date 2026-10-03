@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1656081201042599328
+Latitude: 36.127267159196315
+Longitude: -86.72730680638549
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Touch down and unwind in this stylish industrial loft just 5 minutes from BNA Airport. Soaring black ceilings, exposed ductwork, and polished concrete floors give the space a bold, modern edge, while the open layout keeps it bright and easy. Cook in the full kitchen, relax on the sofa, or sleep 4 across a comfy queen and pull-out. Free on-site parking makes early flights and late arrivals stress-free. Whether you're here for business, a layover, or exploring Nashville, this is your easy home bas
+
+The space
+Enjoy a thoughtfully designed space that blends comfort and convenience. This unit features a cozy queen bed for restful nights and a sofa bed to accommodate additional guests. The open living area is perfect for relaxing after a day out, while the layout makes it easy for up to 4 guests to stay comfortably.
+
+Whether you're visiting for a quick trip or a longer stay, you’ll find everything you need for a simple, stress-free experience.
+
+Guest access
+Guests will have full access to the entire unit, ensuring privacy and comfort throughout your stay. Enjoy access to all living spaces, including the bedroom, living area, kitchen, and bathroom.
+You’ll also have access to on-site amenities and parking (if applicable), making your stay convenient from check-in to check-out.
+
+Other things to note
+Important: All stays of 21+ nights require an additional mandatory cleaning fee. This fee is non-negotiable and helps maintain the property during extended stays. By confirming your reservation, you agree to this requirement.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

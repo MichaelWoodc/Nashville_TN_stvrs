@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/54186600
+Latitude: 36.1621
+Longitude: -86.6674
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful cottage 6 miles to downtown , Opryland and other great attractions in Nashville. This home sleeps 10 comfortably it has 4 bedrooms 3 full bathrooms.  There is a huge outdoor patio area with a bar , hot tub , fire pit and a beautiful back yard .
+
+The space
+Our sweet Cottage is set up for the best vacation experience , we have tried to think of everything you might need. 
+The house has beds to sleep everyone comfortably 4 spacious bedrooms and 3 full bathrooms .
+Bedroom 1-Queen, Bedroom 2 - 2 bunk beds , Bedroom 3 - Queen bed, Bedroom 4 - King bed. Pack and play available upon request. 
+ There is a large outdoor patio area with a bar and a hot tub as well as a spacious private yard with a fire pit , grill a swing and plenty of parking.
+
+Guest access
+You have the home to your self during your stay the hot tub and yard are all part of the wonderful experience of the home.
+
+Other things to note
+We are in a residential neighborhood and we like our neighbors so please be respectful and keep your voices to a nice level when you are outside enjoying yourself .
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Scarlett
+Host User ID: 45101594
+Host Profile URL: https://www.airbnb.com/users/show/45101594
+Host Profile URL Source: public user permalink from passport userId
+Hi Guests , 
+I am a Nashville native I love to host parties with friends and family. I love helping guests at Getaways Nashville. 
+*I love people, encouraging and helping others
+*I love to laugh and enjoy life 
+*I love to travel 
+*I am a caring idealist
+*I am a mother to a wonderful daughter and she blessed me with two grand babies 
+*The Beach is my happy place !
+My work: Getaways Nashville
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+7542 reviews
+4.91 out of 5 average rating
+9 years of hosting

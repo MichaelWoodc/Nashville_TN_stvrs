@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/609635556560071720
+Latitude: 36.18795
+Longitude: -86.83242
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+For Virtual Tour of property type into YouTube "River House Nashville Tour"
+
+Enjoy epic downtown skyline views from King bed in sunlit apt. Includes a new HOT TUB, large TV, walk in shower, kitchen, robes, fridge, WiFi, desk private deck opening to clifftop backyard—complete with grill, outdoor dining, fire pit, & hammock. Thoughtfully curated decor in a Southern white & bright color scheme, this home exudes comfort and urges guests to take it easy. This apartment is attached to renovated home.
+
+The space
+The apartment is roughly 480 sq ft is the length of the entire back of the house. Includes a large king sized bed, private hot tub on the private deck with outdoor dining table and solar powered umbrella, an interior fireplace, a standing desk with office chair, full bath which include bath soaps, iron and ironing board, WiFi, large flat screen TV with streaming services (Netflix, Hulu, HBO, etc.), kitchen which includes oven, stove, microwave, sink, electric water kettle, and everyone's favorite Keurig coffee machine.
+
+Guest access
+Guests will have separate private parking behind a private gate. Includes a separate and private entrance with exclusive access to the deck facing the backyard cliff and view of Nashville's skyline. Entrances are located at opposite ends and interaction with the hosts is non existent to very limited.
+
+The listing holds a maximum of two guests. If you have additional visitors during your stay, please message us in advance for written authorization. Authorized visitors are welcome between 9 AM to 9 PM. Authorized visitors are NOT welcome between the “quiet hours” of 9 PM to 9 AM. Unauthorized visitors and visitors during quiet hours will incur a fee of $100 per person per incident.
+
+Other things to note
+There are security cameras facing the front of the home and the end of the cliff area. The back deck and the back unit are not under any video surveillance.
+
+The listing holds a maximum of two guests. If you have additional visitors during your stay, please message us in advance for written authorization. Authorized visitors are welcome between 9 AM to 9 PM. Authorized visitors are NOT welcome between the “quiet hours” of 9 PM to 9 AM. Unauthorized visitors and visitors during quiet hours will incur a fee of $100 per person per incident.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jane
+Host User ID: 455263245
+Host Profile URL: https://www.airbnb.com/users/show/455263245
+Host Profile URL Source: public user permalink from passport userId
+Lucky in life. Travel enthusiast. Happy to host!
+Born in the 50s
+My work: Host, CPR Inst, Yoga
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+203 reviews
+4.94 out of 5 average rating
+4 years of hosting

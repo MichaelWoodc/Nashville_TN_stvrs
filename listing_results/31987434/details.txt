@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/31987434
+Latitude: 36.18751
+Longitude: -86.73628
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Embrace the unique charm of this vibrant home. The house features pops of color throughout, eclectic furnishings and decor, contrasting patterns, a newly renovated kitchen, a back screen porch patio, a thriving garden, a bocce ball court, and flowing open living areas. Update: glorious new hot tub that comfortably seats 6!
+
+The house is ideal for hosting and for hanging out. Enjoy coffee or cocktails on the classic southern front porch or screened in patio in the backyard. 
+Want some time to relax? We have a cozy living room ideal for chatting or watching a movie. The kitchen and dining room are big and complete with everything you might need to cook a meal with friends. There is also a bar area set up for your enjoyment.
+
+Feel free to use the entire house, including the outdoor space. We also have easy to access laundry and closet space in each bedroom. One added bonus is access to a free electric car Charge-port 220V on premise!
+
+We live in the neighborhood. I am happy to help as much or as little as you need. Feel free to ask about planning your trip, transportation, fun activities, etc. Never hesitate to ask for special requests for the comfort of your stay. I’ll do what I can!
+
+The bungalow is located in a great nook, within walking distance of ice cream, coffee shops, breweries, vintage shopping, vegan restaurants, and very close to the ever-popular Rosepepper Cantina. Guests will be provided a map of hot neighborhood spots upon arrival. The house is located about a mile from the 5 Points district and a short (under 10 minutes) Uber/ Lyft to Broadway.
+
+We are close to two bus lines. Uber and Lyft are also very popular, cheap and easy to use. Scooter rentals (Byrd & Lime) are now all over town if you into that! We suggest you bring a helmet and enjoy yourself! It’s a very fun way to get around town.
+
+We want you to have fun! Let us know how we can help with that. We also value our neighbors and want to make sure everyone gets a good night sleep, be respectful of your noise level after 11 pm please.
+
+The space
+The house is ideal for hosting and for hanging out. Enjoy coffee or cocktails on the classic southern front porch or screened in patio in the backyard. 
+Want some time to relax? We have a cozy living room ideal for chatting or watching a movie. The kitchen and dining room are big and complete with everything you might need to cook a meal with friends. There is also a bar area set up for your enjoyment.
+
+Guest access
+Feel free to use the entire house, including the outdoor space. We also have easy to access laundry and closet space in each bedroom. One added bonus is access to a free electric car Charge-port 220V on premise!
+
+Other things to note
+We want you to have fun! Let us know how we can help with that. We also value our neighbors and want to make sure everyone gets a good night sleep, be respectful of your noise level after 11 pm please.
+
+Registration Details
+2020038425
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Danielle
+Host User ID: 5625654
+Host Profile URL: https://www.airbnb.com/users/show/5625654
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+I spend too much time: Gardening
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+202 reviews
+4.96 out of 5 average rating
+8 years of hosting

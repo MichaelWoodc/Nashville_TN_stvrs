@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1727609461386107526
+Latitude: 36.19361895442658
+Longitude: -86.83101638993938
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Soak in a private rooftop hot tub with downtown skyline views, then ride 12 minutes to Broadway. Off Broadway is a theater-inspired 3BR/3BA home for groups up to 10: hand-painted murals, a lighted glam vanity, a stocked kitchen with a coffee bar, and a 2-car garage so you never hunt for parking. Two rooftop decks, Putterball, fast Wi-Fi and keyless self check-in. Your Nashville encore starts here.
+
+The space
+THE ROOFTOP
+Two decks with skyline views: a lounge with the private hot tub, outdoor seating and Putterball, plus an outdoor dining table. Reached by a spiral staircase.
+
+THE BEDROOMS (each with its own bathroom)
+- The Garden Suite (king): a floor-to-ceiling hand-painted floral mural, plus an ensuite with a walk-in tiled shower and double vanity.
+- The Sunset Room (2 queens): warm savanna tones, a slatted accent wall, and a lighted makeup vanity. Ensuite tub and shower.
+- The Bunk Room (queen-over-queen bunk): deep navy, cozy, and a favorite for groups. Ensuite tub and shower.
+
+LIVING AND KITCHEN
+An open living room with a leather Chesterfield sofa, a music mural and a smart TV. The kitchen has a quartz island with seating, full-size appliances and a Keurig coffee bar.
+
+THE PRACTICAL STUFF
+2-car garage, washer and dryer, a desk for working, and fast Wi-Fi throughout.
+
+Guest access
+The whole home is yours: all three bedrooms, three bathrooms, the kitchen and living room, the laundry, the rooftop decks with the private hot tub, and the attached two-car garage. Entry is keyless through the garage or the front door. Extra cars can use the shared lot; our neighbors share it and the walkways too, so please keep voices low outside.
+
+Other things to note
+- Metro Nashville STR Permit #2026070545
+- Broadway is a 12-minute drive or rideshare. The home isn't within walking distance of downtown.
+- The home has three levels plus the rooftop, and the rooftop is reached by an outdoor spiral staircase.
+- Rooftop murals are still in progress, so you may see partially painted walls on the rooftop during your stay. Everything else is finished and ready for you.
+- Maximum 10 guests, no parties or events, and quiet hours are 11 PM-7 AM, including on the rooftop.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brandon
+Host User ID: 1727609249301568591
+Host Profile URL: https://www.airbnb.com/users/show/1727609249301568591
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+New Host

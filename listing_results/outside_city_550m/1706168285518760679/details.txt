@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1706168285518760679
+Latitude: 35.9531
+Longitude: -86.5712
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home away from home! This beautifully furnished 3-bedroom, 2.5-bath home in Smyrna, TN offers the perfect combination of comfort, style, and convenience. Whether you're visiting for a family vacation, business trip, weekend getaway, or an extended stay, you'll have everything you need to relax and feel at home. Relax on the cozy sofa while watching your favorite shows on the large Smart TV, gather for game night, or simply unwind after a day of exploring Middle Tennessee.
+
+The space
+🏡 The Space
+Enjoy a spacious open-concept living area designed for comfort and connection. Relax on the cozy sectional while watching your favorite shows on the large Smart TV, gather for game night, or simply unwind after a day of exploring Middle Tennessee.
+
+The home comfortably accommodates families, couples, business travelers, and small groups.
+
+🛏️ Sleeping Arrangements
+3 Comfortable Bedrooms
+2.5 Bathrooms
+Fresh linens and towels provided.
+
+Guest access
+🌟 Amenities
+📶 High-speed Wi-Fi
+📺 Smart TV with streaming capabilities
+🎲 Board games for family fun
+🧺 Full-size washer & dryer
+🚗 Private 1-car garage 
+❄️ Central heating & air conditioning
+☕ Coffee maker
+🍽️ Fully stocked kitchen
+🧼 Fresh towels & linens
+🔑 Easy self check-in
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Francesca
+Host User ID: 166468853
+Host Profile URL: https://www.airbnb.com/users/show/166468853
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hollywood, Florida
+Response rate: 100%
+Responds within an hour
+3 months hosting
+11 reviews
+5.0 out of 5 average rating
+3 months of hosting

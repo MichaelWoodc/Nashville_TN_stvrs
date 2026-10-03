@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/16284438
+Latitude: 36.19041
+Longitude: -86.7509
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of East Nashville at this stylish private guesthouse, just 15 minutes from the airport and minutes from 5 Points and downtown. Sleeps up to 6 with 1 bedroom plus loft. Unwind in your private courtyard with a covered hot tub, fire pit, outdoor TV when weather permits, and cozy seating. The perfect Nashville home base for couples, friends, or a weekend getaway.
+
+The space
+As seasoned Airbnb hosts, we’ve meticulously designed our guesthouse for maximum comfort, even within the limited space the city allowed us to build. Whether you're staying solo or with a group of up to 6, the open kitchen and living area are perfect for utility and relaxation. The kitchen includes a range, refrigerator, dishwasher, microwave, and all the essentials. A kitchen island with seating for 4 provides space for dining.
+
+In the living room, enjoy a comfortable sofa, side chair, and a 55" Smart TV. We offer high-speed Wi-Fi, and the Smart TVs allow you to stream all popular services, including YouTube TV.
+
+In-unit laundry is provided, complete with detergent and dryer sheets. The master bedroom features a king-size bed, 50" Smart TV, and a large closet with a vanity or workspace. The thoughtfully designed bathroom includes a tile-enclosed shower and a spacious 60" vanity. The upstairs loft has two double beds, accommodating up to four additional guests.
+
+The new courtyard boasts seating for 6 around a wood-burning fire pit, a covered 6-person hot tub for year-round use, and a charming breakfast nook for morning coffee. This private, beautifully landscaped space feels like a secluded retreat, illuminated by twinkling string lights. Please note that the outdoor TV is weather-dependent and is brought indoors when temperatures are expected to fall below freezing to protect it from damage.
+
+Guest access
+As we've said, we've designed our guesthouse with your comfort and privacy in mind. You will have exclusive use of the driveway that offers tandem, off-street parking for up to 3 cars, or 2 SUVs. You will have a generously-sized yard with outdoor entertaining space and hot tub that is separated from our back yard by a privacy fence. Please feel free to come and go as you please! You will access the guesthouse using a keypad code for the front door. Inside you will have access to everything except for a storage closet we will use to keep supplies.
+
+Other things to note
+We live in a residential neighborhood, please respect our home and our neighbors as you would your own!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Luke And Mackenzie
+Host User ID: 13646197
+Host Profile URL: https://www.airbnb.com/users/show/13646197
+Host Profile URL Source: public user permalink from passport userId
+Hi, we are Luke and Mackenzie.  Both raised in the suburbs of Nashville, we chose to make East Nashville home after graduation and we absolutely love it.  We met while undergraduates at the University of Tennessee and got married while Mackenzie was finishing Pharmacy School at Belmont University here in Nashville. 
+
+We are huge fans of Airbnb and use it extensively when we travel.  We look forward to hosting you and hope you enjoy your stay!
+Born in the 80s
+Where I went to school: The University of Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+1715 reviews
+4.87 out of 5 average rating
+11 years of hosting

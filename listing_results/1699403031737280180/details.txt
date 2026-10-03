@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1699403031737280180
+Latitude: 36.1417
+Longitude: -86.8218
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into comfort and convenience with this beautifully furnished 2-bedroom, 1-bath ground floor corner unit in Nashville's desirable West End / Vanderbilt area. The home is fully move-in ready stocked with all essentials so you can arrive with just your suitcase.
+
+Prime Location for Medical + Professional Tenants
+
+Only 0.7 miles from Vanderbilt University Medical Center, a quick 5 minute drive or a pleasant 30 minute walk. Close to West End, Centennial Park, and major commuter routes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Myriam
+Host User ID: 3680007
+Host Profile URL: https://www.airbnb.com/users/show/3680007
+Host Profile URL Source: public user permalink from passport userId
+My husband and I are empty nesters living in Cary, NC. 
+We travel a lot to attend our daughters' college matches everywhere in US. We also travel overseas.
+We do not have pets.
+My work: Cisco Systems, Nortel Networks, Bell Canada
+Lives in Cary, North Carolina
+Response rate: 100%
+Responds within a day
+13 years hosting

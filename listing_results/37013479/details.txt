@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/37013479
+Latitude: 36.2132
+Longitude: -86.73537
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great location off Ellington Parkway in the trendy East Nashville/Inglewood area.  ~8 miles to Broadway, this newly renovated, mid century modern 2 story cottage style home sits on a quiet street minutes from the airport, downtown, and East Nashville hotspots.  Much heart, soul, and sweat into the updated floor plan and renovation.  This along with talented designers helping to style and decorate created the perfect vibe for this 1700 square foot gem.  Short term rental permit #2019040384
+
+The space
+Convenient location and attention to details is what this house is all about.  Rest in style in a quiet, well designed and decorated 3 bedroom/2 bath in the hip East Nashville area.  Large wooden back deck with private fenced in back yard, fiber internet, and fully stocked kitchen including a Kuerig stocked with Starbucks kcups all make this a sweet spot for your Nashville getaway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gregory Lynn
+Host User ID: 122278348
+Host Profile URL: https://www.airbnb.com/users/show/122278348
+Host Profile URL Source: public user permalink from passport userId
+Realtor, entrepreneur, investor, real estate developer, traveler, husband and fun loving dad to 6 sweet kids ages 13, 11, 11, 9, 3 and 1.
+Born in the 70s
+Where I went to school: Western Kentucky University
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+451 reviews
+4.95 out of 5 average rating
+9 years of hosting

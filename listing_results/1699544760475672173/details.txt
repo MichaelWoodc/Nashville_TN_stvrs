@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1699544760475672173
+Latitude: 36.25683
+Longitude: -86.64918
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy Fall in Old Hickory from this spacious and inviting home, just minutes from beautiful Old Hickory Lake and a short drive from Downtown Nashville. With soaring ceilings, comfortable living spaces, and everything you need for a relaxing stay, it’s the perfect home base for enjoying autumn in Music City. Special pricing available for insurance claims and temporary housing needs.
+
+The space
+Bliss Road Offers 5 Star Properties,
+Fully Furnished with all Amenities,
+High End Towels/Linens/ and Bedding.
+
+Nested in a quiet neighborhood with plenty of private parking right outside your door. Quick trip to ND and surrounding tourist spots! Newly remodeled with all the amenities.
+
+Every home has a starter kit stocked with paper products, including paper towels and toilet paper, as well as coffee supplies!
+
+Guest access
+It is reserved for paid overnight guests only.
+
+Other things to note
+**Traveling with pets? We’re happy to welcome your furry friends! 
+
+Please note there is a pet fee of $200 per pet, with a maximum of 2 pets per stay. This fee will be charged as your reservation is confirmed. 
+
+Let us know in advance if you’ll be bringing a pet so we can ensure everything is ready for a comfortable stay, for both you and your companions!**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catlin Hale
+Host User ID: 333035767
+Host Profile URL: https://www.airbnb.com/users/show/333035767
+Host Profile URL Source: public user permalink from passport userId
+Welcome! My goal is to ensure you have a 5-Star Stay!  I offer short/mid/long term bookings—ask me about 30 day+ discounts. We have homes across the US & specialize in insurance claims & temp housing needs.
+
+ABOUT MY RENTALS
+My guests consistently give 5-Star reviews to my properties, which offer concierge & VIP services tailored for every guest experience.
+
+ABOUT ME
+I am a singer/songwriter/voice talent in Nashville, TN.
+
+I love treating you to a perfect stay in the perfect place!
+My work: Voice Talent/Singer
+I'm obsessed with: Kindness
+Response rate: 86%
+Responds within a few hours
+7 years hosting
+221 reviews
+4.86 out of 5 average rating
+7 years of hosting

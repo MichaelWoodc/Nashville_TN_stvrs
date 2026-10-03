@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1720511490447535730
+Latitude: 36.0527
+Longitude: -86.6411
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The space
+Your Cozy Nashville Home Base with a Private Deck
+
+Looking for a place that feels like home the moment you walk in? This bright corner townhome gives you the best of both worlds—peaceful, wooded views when you're ready to relax and quick access to everything Nashville has to offer. With two private ensuite bedrooms, a flexible bonus room, and inviting spaces to unwind, it's an easy choice for families, business travelers, and longer stays.
+
+Quick Highlights:
+• Private deck with wooded views and outdoor seating
+• 2 ensuite bedrooms for added privacy
+• Flex room with workspace and queen sleeper sofa
+• Fully stocked kitchen with stainless steel appliances
+• Air fryer, coffee maker, toaster oven, microwave, and Outdoor Grill
+• Smart TVs in the living room and primary bedroom
+• Fast Wi-Fi for work or streaming
+• In-unit washer and dryer
+• Bright corner-unit with abundant natural light
+• Two dedicated parking spaces
+• Separate thermostats on each floor
+• Exterior security cameras
+
+Spend your days exploring nearby Tanger Outlets, grabbing a bite at local restaurants, or stocking up at Kroger, Publix, and Walmart—all just a short drive away. Downtown Nashville, the airport, live music, sporting events, and some of the city's best attractions are also within easy reach, so you can experience the excitement without giving up a quiet place to come home to.
+
+Back at the townhome, sip your morning coffee on the private deck, enjoy movie nights in the cozy living room, or cook up your favorites in the well-equipped kitchen. With easy parking right outside, in-home laundry, flexible sleeping space, and everything set up for a comfortable stay, this is the kind of place you'll look forward to coming back to after every adventure.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fairly
+Host User ID: 664937812
+Host Profile URL: https://www.airbnb.com/users/show/664937812
+Host Profile URL Source: public user permalink from passport userId
+Fairly helps homeowners oversee their vacation rental properties all on one centralized platform. Every Fairly home is directly managed by the homeowner and a local caretaker, so you'll chat directly with the homeowner and/or caretaker.
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+330 reviews
+4.77 out of 5 average rating
+1 year of hosting

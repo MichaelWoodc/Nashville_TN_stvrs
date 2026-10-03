@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/49371231
+Latitude: 36.14204
+Longitude: -87.02138
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Pegram, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This oasis in the trees is waiting to help you escape, renew and rejuvenate! Located on over thirteen acres of beautiful woods, bordered by a spring-fed creek, it’s a great place to stay in or get out and explore. We love to offer our guests not only a great place to stay but an experience they will talk about for years to come. We love providing lots of little extras to help make your time here really special. This is the perfect spot for a romantic getaway, family fun vacation, or solo retreat
+
+The space
+This stunning little house has the layout of a tiny house but a lot more space. It is all open with loft sleeping spaces. The bathroom is the only closed off area with a custom barn door. The jacuzzi tub is a great place to relax and the gas tankless water heater will give you all the hot water you could ever want! The kitchen has everything you need to cook anything you desire. Such a cozy and luxurious space to help you take a much needed break from the busyness of life.
+
+Guest access
+You have the whole house and surrounding area to yourself. You are welcome to hike our trails, splash in the creek and visit with the chickens, bunnies and cats.
+
+Other things to note
+We now have unlimited wifi! We also have a big flatscreen smart TV, DVD player, a lot of DVDs, a record player with a few records, a CD player and a few CDs, decks of cards and some board games and books to help keep you entertained!
+
+We have plenty of firewood and try to always have fire starters and lighters to make it easy to get things going. 
+
+As long as our chickens are laying, we provide fresh eggs to all of our guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Star And Taylor
+Host User ID: 44884222
+Host Profile URL: https://www.airbnb.com/users/show/44884222
+Host Profile URL Source: public user permalink from passport userId
+We are a family of five who love hockey, the outdoors, exploring, and spending time on our land with our dog, cats, chickens, rabbit and lizards.
+Hosting on Airbnb has been a part of our lives for over eleven years now. We love creating spaces for our guests to relax and recharge. 
+In addition to being Airbnb hosts, Taylor is a firefighter and Star is a doula. Our sons play hockey and our daughter plays soccer. It’s a busy and fun life :)
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+717 reviews
+4.97 out of 5 average rating
+11 years of hosting

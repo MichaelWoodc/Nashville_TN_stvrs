@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/54385381
+Latitude: 36.30906
+Longitude: -86.50451
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come enjoy your lake front vacation on Old Hickory Lake in this private 3 bedroom, 2 bathroom remodeled  home w/ basement den/bonus room/laundry. Old Hickory Lake is close to downtown Nashville and is known for great fishing, boating, and water sport activities.Enjoy kayaking,swimming,boating, or fishing during the day & evenings enjoy a fire in the large fire pit in the back yard, or grill hamburgers & hotdogs on the deck.We also have foosball! Come enjoy the abundance of deer & wildlife.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adrian
+Host User ID: 441472267
+Host Profile URL: https://www.airbnb.com/users/show/441472267
+Host Profile URL Source: public user permalink from passport userId
+Mitchell and I love traveling and staying on the "go"! We love hot, tropical, sunny places! Mitchell loves music so we are always looking for the best exciting concerts to hit up!  Im a Realtor in the Nashville/ Middle TN area and Mitchell is a builder/ contractor.  We each have 2 children . And I have a black cat and lab that he wont claim lol.
+Where I went to school: Adrian- NC , Mitchell - TN
+My work: Adrian - Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+129 reviews
+4.97 out of 5 average rating
+4 years of hosting

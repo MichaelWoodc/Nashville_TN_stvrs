@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1767592979700570875
+Latitude: 36.16436249745927
+Longitude: -86.80516651552585
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 14
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Original Dolly House is the Ultimate Group Destination in Nashville! 
+
+TWO side-by-side homes completely themed to the Queen of Country, Dolly herself. This unique property includes 8 bedrooms, 6.5 baths, two top floor Champagne Bars with Nashville skyline views, multiple custom murals - perfect for your group pics, and professional design... All within minutes to Broadway! 
+
+Free parking + Free WiFi + Free Netflix + Free Coffee & more!
+
+The space
+Layout (Home 1):
+
+"The White Limozeen" • Queen bed with ensuite bathroom
+"The 9 to 5" • Three Queen beds with ensuite bath and custom 'makeup room'
+"The Jolene" • Two Single beds with full bath just steps away
+"The Diamond Room" • Media room with 55" smart tv, neon selfie station, sofa bed, and rotating disco ball!
+"The Bubbly Bar" •  Third floor patio bar with downtown skyline views
+
+Layout (Home 2):
+
+"The Dolly Suite" • Queen bed with ensuite bathroom
+"The Johnny" • Three Queen beds with ensuite bath and custom 'makeup room'
+"The Library Room" • Two Single beds with full bath just steps away
+"The Rainbow Room" • Media room with 55" smart tv, selfie wall, and sofa bed
+"The Champagne Bar" •  Third floor patio bar with downtown skyline views
+
+Perks:
+
+▶︎ Coffee + Creamer + Sugar provided
+▶︎ Free parking (3 designated spaces + street parking)
+▶︎ Hi-speed Internet
+▶︎ Washer + Dryer available for use
+▶︎ Soft, clean linens for each bed
+▶︎ Fresh towels, shampoo, body wash and hair dryer provided
+▶︎ 5-10 minute uber to Broadway hotspots
+
+STR Permit # is listed in photo caption
+
+Other things to note
+If you have a smaller group would like to book one of these houses individually, you can find the individual listings at:
+airbnb.com/h/thejolene and airbnb.com/h/dollydreamhouse :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shannon
+Host User ID: 189698566
+Host Profile URL: https://www.airbnb.com/users/show/189698566
+Host Profile URL Source: public user permalink from passport userId
+We love hosting!
+Lives in Wausau, Wisconsin
+Response rate: 100%
+Responds within an hour
+7 years hosting
+153 reviews
+4.95 out of 5 average rating
+7 years of hosting

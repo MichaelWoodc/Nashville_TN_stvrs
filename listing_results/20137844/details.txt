@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/20137844
+Latitude: 36.2216
+Longitude: -86.71389
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tiny house addition, sleeps 3 with 1 I in loft, full bath, kitchenette, separate entrance, dedicated parking space, 10-12 minutes from downtown/opryland hotel, airport.
+
+The space
+Quiet neighborhood, convenient to East Nashville activity
+
+Guest access
+Self checkin; Permanent parking space, off street
+
+Other things to note
+Convenient to Airport, Opryland Hotel, Grand Old Opry theater, East Nashville night venues and restaurants
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Caroline
+Host User ID: 66244413
+Host Profile URL: https://www.airbnb.com/users/show/66244413
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+487 reviews
+4.92 out of 5 average rating
+9 years of hosting

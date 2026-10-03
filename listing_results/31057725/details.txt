@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/31057725
+Latitude: 36.18383
+Longitude: -86.7471
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in one of Nashville's hottest neighborhoods this funky and charming apartment is the main floor of the house. Short walk to fabulous Five Points East Nashville where you'll find some of the best restaurants, bars, shops, galleries and happenings Nashville has to offer. Around the corner from groceries, coffee shops and more stores and restaurants. 10 min from airport and 5 min from downtown. Great spot for couples, families, solo adventurers and business travelers.
+
+The space
+This spacious apartment has a big kitchen with everything you need to cook.   The futon couch open up to a comfortable queen sized bed so there's plenty of room for two couples or a family.  For entertainment the TV is loaded with a house Netflix account for all your viewing desires or grab one of the board games for more fun.
+
+Guest access
+There is a fully stocked laundry room you are welcome to use.  It located at the end of the driveway, the door to the left.  You can also use this space to leave luggage before your check in time or after you check out.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jeffrey Wayne
+Host User ID: 120122936
+Host Profile URL: https://www.airbnb.com/users/show/120122936
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+I'm obsessed with: Music and food
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1752 reviews
+4.88 out of 5 average rating
+9 years of hosting

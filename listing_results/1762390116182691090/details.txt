@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1762390116182691090
+Latitude: 36.3259
+Longitude: -86.7204
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy fall in Goodlettsville, just north of Nashville, from this peaceful, spacious 2-bedroom condo less than 30 minutes from downtown. Great views from the huge balcony, fully furnished & turnkey, a comfortable home away from home for medical & traveling professionals, or extended stays. Enjoy a spacious primary suite with a large en-suite bath, oversized walk-in shower, generous walk-in closet, & convenient 2-car garage. Special pricing available for insurance claims & temporary housing needs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Catlin Hale
+Host User ID: 333035767
+Host Profile URL: https://www.airbnb.com/users/show/333035767
+Host Profile URL Source: public user permalink from passport userId
+Welcome! My goal is to ensure you have a 5-Star Stay!  I offer short/mid/long term bookings—ask me about 30 day+ discounts. We have homes across the US & specialize in insurance claims & temp housing needs.
+
+ABOUT MY RENTALS
+My guests consistently give 5-Star reviews to my properties, which offer concierge & VIP services tailored for every guest experience.
+
+ABOUT ME
+I am a singer/songwriter/voice talent in Nashville, TN.
+
+I love treating you to a perfect stay in the perfect place!
+My work: Voice Talent/Singer
+I'm obsessed with: Kindness
+Response rate: 86%
+Responds within a few hours
+7 years hosting
+221 reviews
+4.86 out of 5 average rating
+7 years of hosting

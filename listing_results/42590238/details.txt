@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/42590238
+Latitude: 36.17412
+Longitude: -86.73675
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Fringe, a stylish private loft in the heart of East Nashville. This unique, curated space is a completely separate backyard home with private alley access, its own entrance, and off-street parking. Tucked on a quiet residential street, we're an easy walk to East Nashville's best coffee shops, restaurants, music venues, and bars—just blocks from Five Points and minutes from downtown. Private, walkable, and full of personality, this is The Fringe.
+
+The space
+The Fringe has two levels. On the ground floor, you'll find the living area, a well-stocked kitchen, a full bathroom with laundry area, and a comfortable sofa/futon for extra sleeping space. Upstairs, the spacious loft features a king bed, a separate lounging area, and a second sofa/futon for additional sleeping space. Bedding is provided for both.
+
+Out back, you'll have your own private patio—a great spot for morning coffee or winding down after a day in Nashville.
+
+We're nearby if you need us and always happy to answer questions about the space, help with Nashville plans, or point you toward our favorite neighborhood spots.
+
+Guest access
+The Fringe is all yours during your stay. You'll have your own private entrance, off-street parking, and a private back patio, with no shared indoor spaces. The house is accessed from the alley, so you can come and go independently throughout your stay.
+
+Other things to note
+A few helpful things to know before booking: The king bed is in the upstairs loft, while the full bathroom is downstairs. The Fringe is a separate backyard home located behind our main house and is accessed from the alley, where you'll also find your off-street parking.
+
+We're in a residential neighborhood, so we ask guests to be mindful of our neighbors, especially when enjoying the patio in the evening. Quiet hours are 11 PM–7 AM.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allison
+Host User ID: 3379064
+Host Profile URL: https://www.airbnb.com/users/show/3379064
+Host Profile URL Source: public user permalink from passport userId
+Photographer, mother, local music lover
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+103 reviews
+5.0 out of 5 average rating
+5 years of hosting

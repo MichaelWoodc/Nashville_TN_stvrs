@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/609237134134531698
+Latitude: 36.20244
+Longitude: -86.75748
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The East NashVilla—a modern, boutique-style retreat crafted for a memorable Nashville stay. 
+
+📍 Location
+
+Situated in vibrant East Nashville
+
+Just 4 miles from the heart of downtown
+
+Easy access to dining, nightlife, and local favorites—without the noise
+
+🏡 The Space
+
+A quiet, gated community. 
+
+Luxurious bedding for restful nights
+
+Private ensuite bathrooms for both bedrooms 
+
+A fully equipped kitchen
+
+Private patio with hanging egg chairs + upstairs balcony
+
+The space
+The East NashVilla is just 5 minutes from some of Nashville’s best restaurants, coffee shops, and breweries!
+
+🍵 Forevermore Goods
+🌮 Redheaded Stranger
+🍜 Kisser
+🍳 Flora + Fauna
+🍺 Southern Grist
+🍝 Folk
+🥟 Xiao Bao
+
+Inside, the first floor features the living room, kitchen, dining area, and powder bath—perfect for gathering or relaxing after a day out. Upstairs, you’ll find two bedrooms and the laundry room, each with its own ensuite bathroom.
+
+The primary bedroom offers a king bed, private deck, and an ensuite with double vanity and glass-enclosed shower. The second bedroom is equally inviting, providing a peaceful retreat.
+
+Step outside to a private patio with two hanging egg chairs, ideal for morning coffee, evening cocktails, or simply unwinding in the quiet gated community. Every detail, from luxurious bedding to a fully equipped kitchen and convenient in-home laundry, is designed for comfort and relaxation.
+
+Guest access
+The townhouse is located in a gated community on a quiet side street. There are two designated parking spots directly in front of the house. Additional parking can be found at the back of the property.
+
+Other things to note
+We may be Superhosts, but we're not Super Human ;) If there is anything we overlooked, please do not hesitate to reach out so that we can make it right!
+
+🍼If you are traveling with young children, we have partnered with a baby gear rental company here locally, Blair Gunn with Baby Quip. Blair is available to provide top quality baby gear like cribs, carseats and strollers, that are professionally sanitized, and in excellent condition, at an affordable price. Once you have placed your order with her, let me know and I will coordinate with her directly to have the rentals in the home and set up before your arrival, and  picked up after you check out.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chelsea
+Host User ID: 170093937
+Host Profile URL: https://www.airbnb.com/users/show/170093937
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Chelsea, a proud East Nashville resident with my husband, Tyler. We live around the corner from the Airbnb, and love having a cozy spot to host people visiting our city. Tyler is a Software Engineer at a local startup in the construction space, and when I’m not busy hosting, I’m hanging at home with our twin daughters. On the weekends you can find us walking our dog, Sushi, or trying the latest restaurant or coffee shop with our girls. We can’t wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+4 years hosting
+177 reviews
+4.98 out of 5 average rating
+4 years of hosting

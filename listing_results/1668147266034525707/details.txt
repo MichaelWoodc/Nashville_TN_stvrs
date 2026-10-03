@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/1668147266034525707
+Latitude: 36.13346313341676
+Longitude: -86.7650024911167
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A stylish home in Wedgewood-Houston, one of Nashville's most vibrant and up-and-coming neighborhoods. Offering a blend of comfort, convenience, and local charm minutes from Geodis stadium, Nashville fairgrounds, and Broadway.
+
+Step inside to a bright, thoughtfully designed space featuring an open concept living area, cozy furnishings, and fully equipped kitchen. This 3-bedroom, 2.5 bath house is perfect for your next family vacation, bachelor or bachelorette, or a sports weekend in Nashville!
+
+The space
+Permit #2026031381
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexandria
+Host User ID: 166031255
+Host Profile URL: https://www.airbnb.com/users/show/166031255
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Interior Designer
+Response rate: 100%
+Responds within a few hours
+8 years hosting
+28 reviews
+4.64 out of 5 average rating
+8 years of hosting

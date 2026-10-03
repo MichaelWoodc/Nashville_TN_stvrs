@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/4178988
+Latitude: 36.1748
+Longitude: -86.7381
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Awarded with the Architectural Historic Preservation award in Nashville, this eclectic and cozy, private cottage is ready for your arrival! Enjoy staying just a short walk away from some of Nashville's best coffee shops and restaurants.  This location is minutes from downtown, yet quiet and accessible to everything!  Easy, off-street parking. Pets by pre-approval. Pet fee is $125 per pet. ***please note that this property no longer offers a pool or hot tub***
+
+The space
+This is a PRIVATE open concept living space with a cathedral ceiling, luxury bath and kitchenette. The cottage is beautifully decorated with a sense of warmth and coziness that will make you want to stay a while! The loft has a set of twin beds that is accessed by a rolling ladder.  This ladder is not a toy and is only to be used to access sleeping. This notification serves as a hold harmless waiver for use of the ladder to access the loft. The loft sleeping area is accessed by the  ladder and open to the living space below. ***This property no longer offers a pool or hot tub***
+
+Guest access
+Our location is less than two miles from downtown. Our neighborhood is walkable to coffee shops and restaurants. Uber and Lyft are great options for a quick ride downtown. We have off-street parking for one vehicle and street parking an additonal vehicle.
+
+Other things to note
+There is an outdoor patio with a table and chairs. 
+Easy, free parking available. ***This property no longer offers a pool or hot tub***
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

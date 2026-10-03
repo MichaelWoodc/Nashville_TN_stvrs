@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/33737815
+Latitude: 36.16828
+Longitude: -86.68664
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Hi!  Welcome to Nashville!  This Airbnb is centrally located between downtown and the airport, and it is very close to The Opry.  The home is a 15-minute Lyft drive to Lower Broadway and less than a 5 minute drive to the airport.  The home offers lots of privacy and comfort.  We hope you enjoy it as much as we have!
+
+The space
+Be sure to try out the record player!  And you can also plug your phone into the record player to listen to the music on your phone if you like.  The Airbnb does not have cable television, but it does have Netflix!
+
+Other things to note
+We will provide a starter kit of supplies that includes 2 rolls of toilet paper, 1 roll of paper towels, trash bags, etc.  We will also provide shampoo, soap, dishwashing liquid, and other various household supplies to ensure guests have all the basic conveniences for a comfortable experience!  However, guests will want to plan to purchase additional supplies they may need during their stay.  There are 2 grocery stores within walking distance of the property and multiple small department stores that can be reached by walking within minutes if additional supplies are necessary.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allen
+Host User ID: 5454894
+Host Profile URL: https://www.airbnb.com/users/show/5454894
+Host Profile URL Source: public user permalink from passport userId
+I'm a Nashville, Tennessee guy who has an endless love for travel and nature. My idea of the perfect day involves both. I'm an outgoing introvert that has a zest for life and an interest in all things interesting.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+304 reviews
+4.91 out of 5 average rating
+7 years of hosting

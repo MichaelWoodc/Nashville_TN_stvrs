@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/632674523334577128
+Latitude: 36.1582
+Longitude: -86.8147
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You will be close to everything in Nashville when you stay at this centrally-located, first-floor condo. No steps to get into this home! Enjoy your coffee on our private patio. TVs in Living Room + Bedroom. Pull-out couch in the living room. Only a short 2 mile Uber to Downtown & 1 mile to Vanderbilt. There is a Starbucks nearby as well. Enjoy a FREE parking spot. Washer/Dryer in the condo plus a fully stocked kitchen with seating for 5. Stay here for a comfortable, convenient & relaxing stay!
+
+The space
+-3 Beds, 1 Bedroom, 1 Bathroom (air mattress also available). Bedroom has a Queen plus Full size beds. Living room has a comfortable pull-out sofa.
+
+-Smart TVs in the living room & bedroom + High Speed Wifi
+
+-Access via keycode entry
+
+-Private patio to enjoy your morning coffee
+
+-FREE parking spot with additional street parking available
+
+-Washer/Dryer in the condo
+
+-Fully stocked kitchen for all of your cooking needs! Seating for 5 at the kitchen bar area.
+
+-Full size mirror in the bedroom. Storage for your clothes in the dresser and closet. 
+
+-Located on the first floor. No steps to climb!
+
+LOCATION:
+Nestled just a few blocks from Midtown, near neighborhood attractions like Centennial Park and Marathon Village. Close to Vanderbilt, St. Thomas and Centennial Hospital. You’re also just minutes from local hot spots including The Gulch, Downtown, and Fifth + Broadway. Head to Starbucks for your morning coffee. Take a short Uber ride to Broadway, which is only 2 miles away..
+
+Guest access
+You will have access to the entire condo to yourself.
+
+Other things to note
+Early check in times selected through the app are not applicable. If you would like early check in, you must message us.
+
+Keypad entry to this condo, so no need to keep up with keys or meet the host to access the condo.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Don
+Host User ID: 405148297
+Host Profile URL: https://www.airbnb.com/users/show/405148297
+Host Profile URL Source: public user permalink from passport userId
+We are experienced Airbnb hosts. We are excited to host you and make this a memorable trip. If there's anything we can do to make your stay more enjoyable, please don't hesitate to reach out!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+1029 reviews
+4.9 out of 5 average rating
+5 years of hosting

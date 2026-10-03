@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/53626759
+Latitude: 36.1732
+Longitude: -86.7805
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to your waterfront Nashville retreat! This 1-bed, 1-bath condo comfortably sleeps 4 and offers stunning Cumberland River views from a private balcony. Enjoy access to a pool, gym, and fire pit. Perfectly located for exploring Music City's legendary venues and attractions. Free parking included. Your ideal home base for an unforgettable Nashville experience.
+
+The space
+This inviting waterfront condo provides the perfect blend of comfort and convenience for your Nashville getaway. The space is thoughtfully designed to accommodate up to 4 guests.
+
+   Living Area: Relax in the cozy living room featuring a queen-sized sleeper sofa, an indoor fireplace for cool evenings, and a Smart TV for streaming.
+   Bedroom: The master bedroom includes a comfortable king-sized bed for a restful night's sleep.
+   Bathroom: A full bathroom with a tub is attached to the master bedroom.
+   Kitchen: A fully equipped kitchen has everything you need to prepare meals.
+   Outdoor Space: Step onto your private balcony to enjoy beautiful, direct views of the Cumberland River.
+   Entertainment: The condo is equipped with two Smart TVs.
+
+Guest access
+Guests will have private access to the entire 1-bedroom, 1-bathroom condo, including the private balcony.
+
+Your stay also includes full access to the shared community amenities:
+   Sparkling waterfront swimming pool
+   Riverside fire pit area
+   On-site fitness center/gym
+   Community laundry facilities
+Free and convenient on-site parking
+We give our guests space but are available when needed. We are just a message or phone call away if you have any questions or require assistance during your stay. Your privacy and comfort are our top priorities.
+
+Other things to note
+Pet-Friendly: We are happy to welcome your furry friends to our property. There is a $100 pet fee requirement due to additional cleaning and maintaining pet friendly common areas on the property.
+River Views: Enjoy stunning, direct views of the Cumberland River from your private balcony.
+This is a self check-in property. You will receive detailed check-in instructions, including the access code, 24 hours prior to your arrival date. Please ensure you have access to the booking platform messenger for these details.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rebecca
+Host User ID: 83323910
+Host Profile URL: https://www.airbnb.com/users/show/83323910
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native! I am more than happy to help with suggestions about places to see, restaurants to visit and much more! Just let me know and I will let you know my personal favorites in Nashville!
+Born in the 60s
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+205 reviews
+4.87 out of 5 average rating
+10 years of hosting

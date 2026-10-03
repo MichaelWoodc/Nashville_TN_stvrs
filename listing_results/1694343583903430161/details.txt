@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1694343583903430161
+Latitude: 36.1229
+Longitude: -86.7616
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Southern retreat in the heart of Berry Hill! This stylish 2BR/2.5BA townhome is minutes drive from Downtown Nashville and 10-minute walk to Geodis Park, with walkable breweries, coffee shops, and local favorites nearby. Enjoy 2 free parking spaces, fast WiFi, dedicated desk area, a fully equipped kitchen, in-unit laundry, and a cozy, thoughtfully designed space perfect for concert weekends, soccer matches, girls’ trips, or relaxing getaway. We can't wait to host you in Nashville!
+
+The space
+Open ground floor has a fully equipped kitchen connected to the dining area, open living area with large sectional (can be used for additional sleeping area), dedicated desk area, washer and dryer in unit, and a half bathroom.
+
+Upstairs you'll find 2 furnished bedrooms. Bed room 1 has one queen bed and an attached full bathroom. Bedroom 2 has a double bed with 1 full bath next to it.
+
+Guest access
+Please note that this is an owner-occupied home that is occasionally shared with guests while the owner is away. To help keep personal belongings out of your way and secure, one bedroom, the owner’s closet, and a few storage cabinets are locked and unavailable to guests. Thank you for your understanding and for treating the space with care and respect during your stay.
+
+Registration Details
+#2026-05-27-741
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jen
+Host User ID: 10769668
+Host Profile URL: https://www.airbnb.com/users/show/10769668
+Host Profile URL Source: public user permalink from passport userId
+My work: Mktg Tech Consultant
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 months hosting
+6 reviews
+5.0 out of 5 average rating
+4 months of hosting

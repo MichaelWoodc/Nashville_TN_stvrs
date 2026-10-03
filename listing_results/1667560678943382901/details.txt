@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/1667560678943382901
+Latitude: 36.07177976405975
+Longitude: -86.67030890854521
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home away from home—Why you'll love this beautifully renovated, spacious retreat:
+Multiple Bedrooms + En Suites – ideal for groups, families (no children under 4) & business stays
+Minutes to BNA Airport – perfect for easy arrivals & departures
+Quick drive to Downtown Nashville – live music, Broadway, restaurants, and top Music City attractions & major events
+4 miles to Tanger shopping outlets
+No Smoking, No Pets
+Must provide valid driver license within 24 hrs of booking
+
+Other things to note
+A few helpful details before you book:
+
+- Parking includes space for 1 vehicle in the driveway, with room for up to 2 additional cars parked on the street
+
+- Sleeping accommodations include 2 bedrooms downstairs with en suite bathrooms and 2 bedrooms upstairs
+
+- For safety and property security, exterior cameras are located outside the home
+
+- Primary booking guest must provide a valid driver license via Airbnb messages
+
+- Uphill driveway and staircase inside the home may limit access for those with mobility concerns or those requiring wheelchair access
+
+- Please observe quiet hours between 10:00 PM and 8:00 AM
+
+- To help us maintain a clean and enjoyable environment, we do not allow pets or smoking, and the property is not baby-proofed or set up to accommodate children under 4 years old. Thank you for your understanding!
+
+Registration Details
+2025101140
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: LeAnn
+Host User ID: 122769590
+Host Profile URL: https://www.airbnb.com/users/show/122769590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 months hosting
+8 reviews
+4.88 out of 5 average rating
+4 months of hosting

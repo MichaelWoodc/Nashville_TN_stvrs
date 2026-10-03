@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/868177270434645578
+Latitude: 36.1862
+Longitude: -86.7403
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the best of East Nashville! Just 1.1 miles from 5 Points and 3 miles to downtown. With plenty of restaurants within walking distance, this private space is tucked away at the back of our property and features a comfortable queen bed, a super comfy pull-out couch, high ceilings, and a full kitchen with butcher block counters. Enjoy the natural light and private parking and entrance, just steps from the front door. Book now and fall in love with this amazing location!
+
+The space
+This stunning apartment is located in East Nashville and boasts a fantastic location. It is just 1.1 miles from 5 Points and 3 miles from downtown, with plenty of restaurants within walking distance. Tucked away at the back of our property, this private apartment is situated above a detached garage and comes with its own parking spot and entrance, just steps from the front door. Inside, guests will find a comfortable queen size bed with a memory foam mattress, as well as a pull-out couch that is equally as cozy. The apartment features high ceilings and lots of natural light, creating a bright and airy atmosphere. The kitchen is fully equipped with butcher block counters, and guests can enjoy access to complimentary coffee, cream, sugar, and snacks. Entertainment options include a Smart TV, high speed Wi-Fi, and a selection of books and games.
+
+Guests have complete access to the full apartment, which can be easily accessed from the alley next to the guest parking pad. We are always available to provide assistance, but also respect your privacy. East Nashville is a great location for couples, families, and sightseers, offering a safe, walkable environment with many amazing restaurants, trendy cafes, and shopping options. While we recommend using Lyft or Uber for transportation, there is also a bus stop just a block away, and bikes can be rented in 5 Points.
+
+Guest access
+The full apartment is accessible from the alley next to the guest parking pad and you have it all to yourself. Very private!
+
+Nice to meet y'all! We're Kalos Dwellings - we're two husband and wife duos, but best friends above all. We're Nashville locals and here to serve. We're happy to host you and invite you into our little corner of Nashville.
+
+Other things to note
+- Parking: Parking pad in front of garage door.
+- Minimum age to rent the home is 23.
+- Apologies, no furry friends are allowed at the home. We appreciate your understanding on this.
+- Vacation disruptions can be a bummer. While it doesn’t happen often, you may experience issues with Wi-Fi. We are not responsible for any disruptions to the Wi-Fi service or any construction that may affect your experience. Please note that such occurrences are beyond our control, and we appreciate your understanding and patience in these matters.
+
+This home is proudly managed by Kalos Dwellings, we're excited to welcome you into our lil slice of Nashville. Please don't hesitate to reach our if you have any questions at all.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalos Dwellings
+Host User ID: 351901804
+Host Profile URL: https://www.airbnb.com/users/show/351901804
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Sarah and I am one of the co-founders of Kalos Dwellings along with my husband, Dustin, and our best friends, Aaron and Tara.  
+Our entire team of hosts are here for anything you need during your stay!
+My work: Kalos Dwellings
+Fun fact: We are family owned and operated.
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4961 reviews
+4.92 out of 5 average rating
+5 years of hosting

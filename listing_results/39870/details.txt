@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/39870
+Latitude: 36.12466
+Longitude: -86.81269
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a room and private bathroom in my cozy, older cottage near Vanderbilt and other area colleges. It is also close to a bus line and a short Uber ride to downtown. I HAVE A DOG, A PETITE BOXER ,Grace. She stays in the downstairs. .She is VERY friendly.
+The room and bathroom are upstairs and no one else is upstairs.
+
+The space
+Quiet house walking distance to Vanderbilt University. Comfortable room with private bathroom.
+
+During your stay
+I went back to teaching and am out most of the day during the week. On weekends I run and do errands like everyone else. I am available if you need me.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evelyn
+Host User ID: 171184
+Host Profile URL: https://www.airbnb.com/users/show/171184
+Host Profile URL Source: public user permalink from passport userId
+I am a newly retired elementary school teacher. I like to run, walk, swim,  have 3 grown children.I My cozy home is within walking distance to Vanderbilt and Belmont Universities, restaurants and shopping.
+Where I went to school: Syracuse University
+My work: Retired teacher
+Lives in Nashville, Tennessee
+Pets: Grace, a petite boxer
+Response rate: 100%
+Responds within an hour
+Superhost
+16 years hosting
+1248 reviews
+4.91 out of 5 average rating
+16 years of hosting

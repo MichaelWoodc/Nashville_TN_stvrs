@@ -1,0 +1,28 @@
+URL: https://www.airbnb.com/rooms/634776386438720670
+Latitude: 36.13559
+Longitude: -86.70174
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your family will be close to everything when you stay at this centrally-located place. Keeping family in mind this place is great for littles too. Every bedroom has their own en suite so guests can enjoy their own privacy. Open concept main floor to accommodate entertaining with keeping comfort and functionality in mind. If staying in enjoy the evening on the covered balcony or have a cup of coffee first thing in the morning. We hope you and your friends and family enjoy your stay & feel at home
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christine
+Host User ID: 100667172
+Host Profile URL: https://www.airbnb.com/users/show/100667172
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+4 years hosting

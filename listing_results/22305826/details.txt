@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/22305826
+Latitude: 36.19053
+Longitude: -86.73491
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Time Magazine, The New York Times, The Washington Post, Rolling Stone, and pretty much every major news outlet agrees that the place to be is in East Nashville- one of the hottest neighborhoods in the Southeast. This eclectic and cozy, private cottage is ready for your arrival! Enjoy staying just a short walk away from some of Nashville's best coffee, shops and restaurants. This location is minutes from downtown, yet quiet and accessible to everything! You will fall in love with this space!
+
+The space
+This loft was professionally decorated and is absolutely gorgeous. There is a back patio where you can get a taste of Tennessee and enjoy your morning coffee. Enjoy the sounds of the trains from a distance.
+
+Guest access
+We encourage our guests to use all of the amenities found in The Howe House and will happily provide recommendations for your stay in Nashville. Additionally, there is someone on hand 24/7 to answer your questions so you are always well taken care of.
+
+Other things to note
+We pride ourselves on responding as quickly as possible to our guests. Someone will be available 24/7 during your stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brock
+Host User ID: 150197381
+Host Profile URL: https://www.airbnb.com/users/show/150197381
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+174 reviews
+4.9 out of 5 average rating
+9 years of hosting

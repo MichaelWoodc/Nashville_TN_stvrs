@@ -44,7 +44,8 @@ with sync_playwright() as p:
   assert row.count()==1
   row.locator('.host-metric').last.click()
   page.locator('#closePartyDisclaimer').click()
-  if required:page.locator('.host-capacity-filter').filter(has_text='Require over capacity').locator('input').check()
+  assert page.locator('.host-capacity-filter').filter(has_text='Require over capacity').locator('input').is_checked()
+  page.locator('.host-capacity-filter').filter(has_text='Require over capacity').locator('input').set_checked(required)
   page.locator(f'.host-combo[data-combo="{COMBO}"]').click()
   assert page.evaluate('nashville.visible.length')==0
   assert page.locator('.host-combos').is_visible()

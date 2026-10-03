@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/918023320339983811
+Latitude: 36.22622
+Longitude: -86.50166
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful place to stay.
+It’s a really comfortable place and everyone feels he is in home, close to kroger, Walmart.. etc, 25 min from central, also if you coming for a business reason it is really close to %90 of the companies. Parking lot can take up to 6 cars. Try it and let me know your experience.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fady
+Host User ID: 517709309
+Host Profile URL: https://www.airbnb.com/users/show/517709309
+Host Profile URL Source: public user permalink from passport userId
+Just friends vacations
+Born in the 90s
+Where I went to school: Egypt and U.S.A
+Response rate: 100%
+Responds within a few hours
+3 years hosting
+3 reviews
+5.0 out of 5 average rating
+3 years of hosting

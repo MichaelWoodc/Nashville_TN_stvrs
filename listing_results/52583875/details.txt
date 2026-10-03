@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/52583875
+Latitude: 36.1594
+Longitude: -86.8153
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your Nashville HQ awaits! This stunning 2-level home sleeps 10 with a rooftop deck made for unforgettable nights. Just 2 miles from Broadway with easy access to the Gulch & Music Row. Rest easy in 2 King beds, 2 Queen beds & a sleeper sofa. Enjoy a full kitchen & free enclosed 2-car garage. Music City is calling — come experience it in style.
+
+The space
+🚗 FREE PARKING
+Pull right into your private enclosed garage (fits 2 small-to-medium vehicles). Additional parking available in the rear lot or on the street — no hunting for spots after a night out.
+
+1ST LEVEL — Step-Free Entry
+
+🛏 King bedroom with walk-in closet & TV
+🛁 Private ensuite bath with shower/tub combo
+
+2ND LEVEL — Main Living Space
+
+🛏 Bedroom with 2 Queen beds, TV & clothing rack
+🚿 Shared bathroom with double vanity & walk-in shower (accessible from bedroom and living room)
+🍳 Kitchen with bar-top seating for 5, plus all the essentials: drip coffee maker, grinder, toaster, blender & more
+🛋 Living room with Queen sleeper sofa & TV — see photos for full seating layout
+
+3RD LEVEL
+
+🛏 Two King bedrooms, each with TV, closet & private ensuite bath (shower/tub combo)
+🍖 Outdoor patio with table, 4 bar stools & a gas-line grill with utensils
+🧺 In-unit laundry closet with full-size stackable washer/dryer
+
+4TH LEVEL — Rooftop Deck
+
+✨ Lounge seating with string lights for the perfect Nashville evening under the stars
+
+Guest access
+Guest have access to the entire house. There is 1 locked supply closet located in the 2nd level bedroom that guests cannot access.
+
+Other things to note
+** While staying with us, PLEASE make sure ALL doors are shut and locked when not in use! PLEASE do not leave any valuables in your vehicle if parked on the street. Nashville is a BIG city so please make sure to be vigilant with our property and yours!!
+
+**Please note: Guests who stay 3 weeks or longer will incur an additional cleaning fee
+- Please observe PET RULES. If these are not followed you may incur additional fees.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Navin
+Host User ID: 373388104
+Host Profile URL: https://www.airbnb.com/users/show/373388104
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+406 reviews
+4.94 out of 5 average rating
+6 years of hosting

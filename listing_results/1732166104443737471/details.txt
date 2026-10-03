@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/1732166104443737471
+Latitude: 36.2052
+Longitude: -86.7615
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the this Avant-Garde retro inspired space! Located in East Nashville, this place is a short walk from many bars and restaurants, as well as a short cab to and from downtown, the grand ole opry, and both stadiums as well as other attractions!
+
+The space
+This is a 4 story property:
+
+First Floor
+ :: Garage and astral entrance
+ :: Bedroom with 2 Queen beds
+ :: Full Bathroom
+
+Second Floor
+ :: Full Kitchen
+ :: Dining Table
+ :: Living room with TV
+ :: Half Bathroom
+ :: 2 Beds in Living Room
+
+Third Floor
+ :: Master Bedroom with king mattress and Full Bathroom
+ :: Bedroom with 3 Queen beds
+ :: Full Bathroom
+
+Fourth Floor
+ :: Rooftop Lounge!
+
+Guest access
+This is an entire private condo for rent, garage included. 
+
+You may check in any time after 3PM on your check-in date. If you are going to check in late, please let us know so we can give you any contingency check-in plans!
+
+Other things to note
+We do not host any locals. No parties, and no gatherings of any sort. 
+
+We do require a rental agreement to be signed outside of Airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Letty James
+Host User ID: 484414789
+Host Profile URL: https://www.airbnb.com/users/show/484414789
+Host Profile URL Source: public user permalink from passport userId
+Letty James Properties | Premium Rentals |
+
+Homes sprinkled throughout Nash + Dallas for all your home away from home desires. Full spaces, 3 to 6 bedroom homes with outdoor areas + something unique to share in every one. Perfect for families traveling together, corporate groups, couples that want their own space + a feel like home.
+
+We do not host locals at this time + it is greatly monitored.
+
+Find us online + book today!
+Where I went to school: LeMoyne College
+My work: Vacation Rentals
+Response rate: 99%
+Responds within an hour
+Superhost
+4 years hosting
+1484 reviews
+4.81 out of 5 average rating
+4 years of hosting

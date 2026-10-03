@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/1537240810704710343
+Latitude: 36.1047
+Longitude: -86.7496
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the best of Nashville from this centrally located condo. Ideally situated between the airport and downtown, you’ll be just minutes from shopping, dining, and popular attractions—including the Grand Ole Opry. We are less than 5 miles from downtown broadway.
+
+The space
+Our home sits on a peaceful half-acre lot with a partially fenced yard. The condo is on the top floor of our residence with private entrance and completely separate from our living space. It offers about 1,000 square feet of space, complete with a cozy kitchenette and a portable stovetop for light cooking. You may also meet our friendly dog, Harlin, who loves to say hello in the backyard.
+
+Guest access
+Enjoy a private condo situated above our residence, offering its own exclusive entrance and complete separation from the main home for your privacy and comfort.
+
+Other things to note
+Looking for a unique Nashville experience? Reach out to us to arrange a private songwriter concert—bringing the Bluebird Café vibe straight to your living room or backyard with some of the worlds top talent.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kelly
+Host User ID: 81907553
+Host Profile URL: https://www.airbnb.com/users/show/81907553
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm an artist and a songwriter in a country duo with my husband (Carvin Walls if you want to check is us out ;) ! Writing and playing out is my main gig, but hosting on Airbnb has been a great source of income while pursuing our dreams, and such a blessing for us! I’ve been managing vacation rentals for over 5 years in Nashville and take great pride in having an excellent vacation rental! We naturally love connecting with people, and making sure everyone leaves happy with plenty of memories, just like a great concert! We love to host and know you will love staying with us!
+My work: Musician, Host
+I spend too much time: Texting and scheduling
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+274 reviews
+4.81 out of 5 average rating
+10 years of hosting

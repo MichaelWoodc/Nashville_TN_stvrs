@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1570508771976443744
+Latitude: 36.1363
+Longitude: -86.7901
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Upscale 3BR/3.5BA townhouse located across the street from Belmont University and is a short distance from Music Row, Hillsboro Village, 12 South and Vanderbilt University.  The Gulch and all that downtown has to offer is 5-10 min Uber away. This home has a large living area with a 65" TV. The dining table seats 6.   The fully stocked gourmet kitchen has stainless steel appliances and gourmet cookware.   Each bedroom is furnished with a King Bed, private bath and 55" TV.  Just back on Airbnb.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David & Valeria
+Host User ID: 182504296
+Host Profile URL: https://www.airbnb.com/users/show/182504296
+Host Profile URL Source: public user permalink from passport userId
+Married with Twins girls
+Speaks English and Spanish
+Lives in Brentwood, Tennessee
+8 years hosting
+3 reviews
+5.0 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/23627435
+Latitude: 36.0935
+Longitude: -86.63492
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style and comfort with our modern townhome located in a charming golf course community. Enjoy the convenience of being close to Downtown Nashville and the Airport. Explore nearby attractions such as the Grand Ole Opry, Opry Mills Mall, Nashville Shores Water Park, and dining options. Our home offers modern amenities and style with a fully-equipped kitchen, cozy living spaces, and comfortable bedrooms. Book your stay now and make your Nashville getaway unforgettable.
+
+The space
+The home boasts the following features:
+
+★ A primary suite located on the first floor, which includes an adjoining full bathroom for your convenience.
+
+★ A fully stocked kitchen equipped with all the necessary cooking and dining essentials, including coffee (both decaf and regular) and tea. If you have any specific queries, please feel free to reach out to us.
+
+★ TVs with Rokus/Firestick that allow you to watch Netflix, Hulu, and other streaming services.
+
+★ Each bedroom has a tower fan for those who prefer sleeping with a fan. Two out of three bedrooms also have a TV.
+
+★ High-Speed Wi-Fi (Fiber).
+
+★ Only a 5-minute drive from numerous hiking trails and Percy Priest Lake. At the lake, you can indulge in various water sports such as boating, jet skiing, and swimming.
+
+★ A washer and dryer within the premises.
+
+Guest access
+Our home has a driveway that can accommodate one car. If you have additional vehicles, please park them in the available visitor parking spaces, which are allocated on a first-come, first-served basis. We request you to refrain from parking on the street, as it may result in getting booted or towed.
+
+Other things to note
+We would be delighted to have you as our guest during your visit to Nashville. If you have any further questions or would like additional information, please do not hesitate to contact us. We are more than happy to assist you in any way we can.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dillon
+Host User ID: 176794442
+Host Profile URL: https://www.airbnb.com/users/show/176794442
+Host Profile URL Source: public user permalink from passport userId
+Hosting on Airbnb has been my passion for the past few years, and I absolutely love the experience! As someone who enjoys spending time outdoors, exploring new places, and meeting new people, hosting on Airbnb has been a natural fit for me. It has allowed me to share my love for travel and adventure with others while creating memorable experiences for my guests. Whether it's recommending the best local restaurants or hidden gems to explore, I take pride in ensuring my guests have the best possible stay. Through hosting, I've been able to connect with people from all walks of life and cultures, which has broadened my horizons and enriched my life. It's an incredibly rewarding experience that I look forward to continuing for many years to come.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+447 reviews
+4.93 out of 5 average rating
+9 years of hosting

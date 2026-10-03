@@ -1,0 +1,91 @@
+URL: https://www.airbnb.com/rooms/886870369498860896
+Latitude: 36.1571
+Longitude: -86.8401
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ West Nashville location — minutes to Downtown and The Nations
+✔️ Rooftop deck with outdoor TV and brewery views
+✔️ 3 bedrooms, 2.5 bathrooms — sleeps up to 8
+✔️ Game room with pool table, foosball, and wet bar
+✔️ Full kitchen with island seating
+✔️ Backyard garden and private driveway parking
+
+The space
+• Modern multi-level home designed for family trips and group getaways
+• Open living room and full kitchen with dining table seating 6 and island seating
+• Third-floor game room with pool table, foosball, wet bar, and additional sleeping space
+• Rooftop deck with lounge seating, cornhole space, outdoor smart TV, and neighborhood views
+• Perfect for families, friends, and extended Nashville stays
+
+🌅 Indoor & Outdoor Living
+• Open-concept living room with comfortable seating
+• Rooftop deck with lounge seating, outdoor smart TV, and cornhole space
+• Game room with pool table, foosball, and wet bar
+• Backyard garden space
+• Neighborhood and brewery views
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 8)
+• This home includes 3 bedrooms and 2.5 bathrooms.
+• Bedroom 1 (Primary) — King bed; smart TV; ensuite bath with walk-in shower
+• Bedroom 2 — Two twin beds
+• Bedroom 3 — Queen bed
+• Game Room — Two twin beds (sleeps 2)
+• Baths — Primary ensuite with walk-in shower; full hall bath with shower/tub combo; half bath
+
+🍳 Kitchen & Dining
+• Full kitchen with stainless appliances and basic cookware/serveware
+• Coffee maker
+• Dining table seating 6; island seating
+• Cookware, bakeware, dishes, utensils, and glassware provided
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• Private washer and dryer
+• High-speed WiFi
+• Dedicated workspace
+• Smart TVs
+• We provide bedding, towels, and a small starter set of essentials
+
+📍 Location Highlights
+• Minutes to Downtown Nashville and Broadway
+• Close to Fat Bottom Brewing
+• Near The Nations neighborhood
+• Easy access to parks and the Cumberland River Greenway
+• Short drive to restaurants, shopping, and live music
+
+🚗 Parking, Safety & Notes
+• Stairs: This is a multi-level home; stairs are required.
+• Parking: Driveway parking is located off the alley behind the home. It typically fits 2 standard vehicles; depending on size, a third may fit. Additional street parking is first-come, first-served.
+• This home is pet friendly. A maximum of 2 dogs may be brought to this home. Please note that there is an additional Pet Fee of $75 per pet that is not included in your final booking cost. To pay your Pet Fee, please contact the Customer Care Team after booking.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+Permit # 2021060279
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 99%
+Responds within an hour
+6 years hosting
+4071 reviews
+4.63 out of 5 average rating
+6 years of hosting

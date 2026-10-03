@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/877724454272875058
+Latitude: 36.2197
+Longitude: -86.54452
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming 1BR retreat just 15 mins from BNA & 25 mins to downtown Nashville! Relax in comfort with a queen bed, sofa sleeper, full kitchen, high-speed Wi-Fi & smart TV. Nestled between Percy Priest & Old Hickory Lake, our peaceful town offers easy access to Music City fun without the crowds. Perfect for exploring Nashville, visiting family, or house hunting in Middle Tennessee. We are tucked away in a quiet neighborhood that is great for walks.
+
+The space
+1 bedroom with Queen-size bed (very comfy!)
+
+Sliding barn door for added privacy
+
+Queen-size sofa sleeper in living area
+
+TV in both bedroom and living room with Roku
+
+Kitchen Includes:
+
+- Refrigerator
+
+- Stovetop & oven
+
+- Microwave
+
+- Toaster
+
+- Keurig coffee maker
+
+- Cooking basics (pots, pans, salt & pepper)
+
+- Dishware & flatware
+
+Guest access
+Keyless entry, code to be provided on day of check-in once apartment is ready.
+
+Other things to note
+- No smoking of any kind
+- No events, parties, or large gatherings
+- Property is on septic tank - only TP in toilet and no solids down sink
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sara
+Host User ID: 26488575
+Host Profile URL: https://www.airbnb.com/users/show/26488575
+Host Profile URL Source: public user permalink from passport userId
+We moved from the West Coast to TN about 4 years ago and haven’t looked back! We build the apartment to be able to host friends and family and we look forward to hosting you!
+Lives in Mt. Juliet, Tennessee
+Response rate: 91%
+Responds within an hour
+Superhost
+3 years hosting
+126 reviews
+4.99 out of 5 average rating
+3 years of hosting

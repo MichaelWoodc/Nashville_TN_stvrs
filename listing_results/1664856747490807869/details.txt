@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1664856747490807869
+Latitude: 36.1559173687495
+Longitude: -86.83684039913338
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Blue Muse, a brand new, spacious Nashville retreat designed around music and experience. Enjoy the private rooftop and unwind in the sauna after a day in the city. Each room features curated, music inspired decor with QR codes to scan and play songs, telling a story of Nashville’s sound. A high quality stereo system sets the vibe for any moment. Just minutes from Broadway, this stay is as memorable as the city itself. Primary Guests must be 25+ to book!
+
+Registration Details
+2026039509
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Haley
+Host User ID: 1664856627246165158
+Host Profile URL: https://www.airbnb.com/users/show/1664856627246165158
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m your host, and I’m passionate about creating spaces that feel both elevated and welcoming. I love thoughtful design, great music, and the little details that turn a stay into an experience. Whether you’re in town to relax, celebrate, or explore, my goal is to make your visit seamless and memorable. I’m always happy to share local recommendations or help with anything you need during your stay!
+Where I went to school: Cumberland University
+My work: Realtor
+Response rate: 100%
+Responds within an hour
+5 months hosting
+8 reviews
+5.0 out of 5 average rating
+5 months of hosting

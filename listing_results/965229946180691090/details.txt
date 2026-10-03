@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/965229946180691090
+Latitude: 36.1722
+Longitude: -86.77
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+There’s room for you and your crew in our spacious two-bedroom premium suite. It features two king-sized beds, two bathrooms, kitchenette, desk, and dining and lounge areas. The well-appointed room includes custom art from local artists. Drift amenities include streaming TV, free WiFi, a coffee maker, an in-room mini fridge. Custom walnut beds and furnishings set Drift Nashville apart.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mariela
+Host User ID: 197082329
+Host Profile URL: https://www.airbnb.com/users/show/197082329
+Host Profile URL Source: public user permalink from passport userId
+Combine everything you know and love about Airbnb, with the very best amenities and hip vibe of a boutique hotel. That means private, comfortable spaces for a solo getaway, a romantic weekend, or a group event with your crew. All our properties have social spaces, on-property bars, and are located in the heart of the action, giving every guest a quintessential local feel that makes you feel less like a tourist and more like an adventurer.
+
+TMC Hospitality consists of two brands: Bode and Drift.
+
+Bode celebrates the ways in which we travel together, providing a comfortable and connected modern hotel experience for group travelers, solo adventurers, couples, and more. We offer one to four-bedroom stays that offer a full living room, full kitchen, and a spacious layout for you and your crew to spread out and feel right at home.
+
+Drift is a modern hotel that celebrates its dualities: a spare and minimalist aesthetic but a vibrant and friendly demeanor. It’s the perfect space to rest and reset, or let it be a springboard for an adventure. Drift focuses on more intimate getaways with rooms that sleep only two. Want to make it a group event anyways? Book multiple rooms or check out our entire property buyout listing!
+My work: TMC Hospitality
+Lives in Irvine, California
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+6090 reviews
+4.8 out of 5 average rating
+8 years of hosting

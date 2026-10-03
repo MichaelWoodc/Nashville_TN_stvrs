@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1528455143009114364
+Latitude: 36.18131
+Longitude: -86.77802
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this stylish  apartment featuring floor-to-ceiling windows, abundant natural light, and resort-style amenities. Enjoy the rooftop pool, modern lounge spaces, fitness center, and unbeatable location near Nashville’s top hospitals, dining, shopping, and nightlife. Perfect for professionals, families and extended stays seeking comfort, convenience, and a touch of luxury.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jesse
+Host User ID: 357057088
+Host Profile URL: https://www.airbnb.com/users/show/357057088
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+11 months hosting
+34 reviews
+5.0 out of 5 average rating
+11 months of hosting

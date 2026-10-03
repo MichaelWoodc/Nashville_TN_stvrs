@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/676222959627728905
+Latitude: 36.15182
+Longitude: -86.66829
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You have found the perfect Nashville home that you have been searching for!
+
+This completely renovated and charming 3-bedroom home is ideal for families and large groups! Designed with our guests in mind every step of the way and only 12 minutes from Broadway. Book now to get your Nashville adventure underway!
+
+The space
+• Fully equipped kitchen w/ Keurig (and coffee provided)
+• Privacy (Don’t get stuck in an airbnb community with parties everywhere around you)
+• Central heat & AC
+• Extremely safe neighborhood
+• 1650ft² 
+• Driveway parking!
+• Free onsite washer + dryer
+• Newly renovated
+• Professionally designed with our guests in mind! 
+
+》6.8mi to Broadway
+》13 min to downtown Nashville (Bridgestone area, Music City Convention center)
+》4 minutes from the airport 
+》6.7 miles to Gaylord Opryland Resort 
+》7.6 miles to Nissan Stadium
+
+Guest access
+The whole home is yours!
+
+Other things to note
+Local guests MUST contact us prior to booking.
+
+There is a rental agreement that needs to be signed after each booking is confirmed. It will be sent over immediately after booking and can be signed digitally.
+
+Registration Details
+2021082797
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julian
+Host User ID: 88959664
+Host Profile URL: https://www.airbnb.com/users/show/88959664
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Julian!
+I was born and raised here in Nashville. While Nashville has changed a lot over the years, my love for this great city has remained constant! I enjoy traveling, exercising, reading, movies, and spending time with my wife and dogs. I began my hosting career with just one personal property and I quickly fell in love with it & decided to pursue a career in it! I haven't looked back since and have loved the ride!
+
+-Julian
+Born in the 90s
+My work: Carebnb Properties
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+4605 reviews
+4.89 out of 5 average rating
+9 years of hosting

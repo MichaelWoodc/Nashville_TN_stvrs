@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/51985103
+Latitude: 36.1595
+Longitude: -86.8682
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 11
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Vibey Stays! A house that was made for the babes. This 3 bedroom, 3.5 bath, new townhouse was created to be perfect for your next girls trip! 
+
+Over the top neon signs,  perfect for photos, and 10 minutes from downtown... this place cannot be beat! Our one of kind get ready space has 6 custom makeup vanities so you and the girls can all get ready together. Never share a mirror again ladies, I got you!
+
+The space
+Welcome to Vibey Stays! A house that was made for the babes. This 3 bedroom, 3.5 bath, new townhouse was created to be perfect for your next girls trip! 
+
+Over the top neon signs,  perfect for photos, and 10 minutes from downtown... this place cannot be beat! Our one of kind get ready space has 6 custom makeup vanities so you and the girls can all get ready together. Never share a mirror again ladies, I got you!
+
+This beautiful new townhouse is settled in the hip trendy neighborhood, The Nations! In the neighborhood there are a ton of restaurants, bars, and shops for you and the girls to enjoy!
+
+We have a private 1 car garage as well as 1 dedicated marked parking spot right outside the front door. Street parking is available as well.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Neysha
+Host User ID: 421004691
+Host Profile URL: https://www.airbnb.com/users/show/421004691
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Where I went to school: University of Buffalo
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+181 reviews
+4.96 out of 5 average rating
+5 years of hosting

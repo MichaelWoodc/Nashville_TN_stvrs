@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1530542559651885157
+Latitude: 36.1336
+Longitude: -86.5231
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your peaceful retreat in Mount Juliet!
+
+🛏 The Room
+Relax in a cozy queen bed with fresh linens and soft lighting. The room includes a nightstand, and a built-in ceiling fan to keep the temperature just right. The room also includes a mini fridge, and microwave for your convenience.
+
+💻 Work & Productivity
+Enjoy a dedicated workspace featuring a sleek desk setup with natural light from the large window — ideal for working remotely or studying in peace.
+
+Other things to note
+We have a couple of pets, one lovely cat, and we also have a small 🐶 our friendly Shitzu.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carlos
+Host User ID: 106525247
+Host Profile URL: https://www.airbnb.com/users/show/106525247
+Host Profile URL Source: public user permalink from passport userId
+Lives in Mt. Juliet, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+7 reviews
+5.0 out of 5 average rating
+2 years of hosting

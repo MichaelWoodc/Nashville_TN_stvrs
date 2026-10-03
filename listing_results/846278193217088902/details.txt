@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/846278193217088902
+Latitude: 36.1724
+Longitude: -86.80581
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Wonderwood, your Nashville retro-dreamscape! We've curated a very stylish and special home, where every room is uniquely themed to transport you to another exciting dimension.
+
+This artfully designed home is frequently used for music video shoots. Your stay will put you in the middle of the Nashville music scene!
+
+*Seven minutes by car to Broadway
+*Ten minutes by car to the Gulch, Music Row, and Nissan Stadium
+*Fifteen minutes by car to BNA airport
+
+The space
+We are located in Nashville's historic Jefferson Street music district, once home to Jimi Hendrix, who lived and played a few blocks away. We have tried to honor the musical spirit of the neighborhood by filling this house with instruments, including an upright piano, acoustic guitar, and record player with a small vintage record collection. Feel free to make some music during your stay - you're in Nashville, after all!
+
+Our midcentury-style living room offers plenty of seating around an electric fireplace, as well as a smart TV. We've also supplied a bluetooth karaoke machine, so that you can warm up for your Nashville debut performance on Broadway.
+
+This house features a spacious, 50's diner-style kitchen, with all updated appliances, milkshake maker, bar seating, mini jukebox, and remote controlled party lights (this kitchen is for dancing!).
+
+Our queen bedroom, the “Peace & Love Room”, is 1960’s inspired, and features a cozy queen with romantic lighting. Enjoy the large closet, makeup vanity desk, and wall-mounted smart TV. This room also hosts an 8-track player with original 8-track cassettes for all you retro music geeks. This room also offers access to the large, fenced backyard.
+
+In our double bedroom, “That ‘70s Room”, you will find two full-size beds, along with an assortment of vintage items including a lava lamp, disco ball, shag rugs, bead curtain, and a working VCR player, with a collection of 70's era VHS tapes (Grease fans??).
+
+Both bedrooms are outfitted with stylish blackout curtains, in case you need to sleep in.
+
+The bathroom is equipped with a bathtub/shower, fully stocked with shampoo, body wash, and conditioner. We also provide a hairdryer, as well as various hygiene products. In the hallway, there is a washer/dryer, an iron, and an ironing board. Every room has a charging port, with cables for all devices.
+
+This home is equipped with three outdoor security cameras, a keyless entry system, and a driveway for off-street parking.
+
+Guest access
+Guests have access to the entire house, as well as the back yard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Colin
+Host User ID: 335747059
+Host Profile URL: https://www.airbnb.com/users/show/335747059
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Oberlin College
+My work: Opera Singer
+3 years hosting

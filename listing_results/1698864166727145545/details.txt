@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1698864166727145545
+Latitude: 36.0225
+Longitude: -86.7201
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern retreat with vaulted ceilings, a spacious bonus loft, and a huge private deck perfect for relaxing or entertaining.
+
+✔ Vaulted ceilings & bright open living spaces
+✔ Bonus loft for work or relaxation
+✔ Huge private deck with outdoor seating
+✔ Fully equipped kitchen
+✔ Fast Wi-Fi & dedicated workspace
+✔ Smart TVs in multiple living areas
+✔ Comfortable bedrooms & stylish furnishings
+✔ Perfect for Nashville getaways, business travel, relocations, and longer stays. ✨
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Beza
+Host User ID: 77129807
+Host Profile URL: https://www.airbnb.com/users/show/77129807
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re a family that loves creating comfortable, thoughtful spaces where guests can truly feel at home. We’ve designed this home with comfort, convenience, and longer stays in mind, whether you’re visiting Nashville for work, family, medical travel, or a getaway. We take pride in providing a clean, well-equipped space and are always available if you need anything during your stay. We look forward to hosting you!
+Born in the 90s
+My work: Tech
+Response rate: 100%
+Responds within an hour
+3 months hosting
+1 reviews
+5.0 out of 5 average rating
+3 months of hosting

@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/52601004
+Latitude: 36.15983
+Longitude: -86.67412
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Recently renovated, our luxurious yet cozy retreat features high-end details, a California king bed, two twin beds, and off-street parking. Enjoy a private entrance, a fully equipped kitchen, and an upgraded bathroom. Just 6 mins from BNA Airport (there is some plane noise), 12 mins to the Grand Ole Opry, and less than 15 mins to downtown Nashville, it’s the perfect location. Driveway, backyard, and laundry are shared with the host, providing added convenience for your stay.
+
+The space
+BEDS:
+There is a Cal king bed in the bedroom and a trundle with 2 twin mattresses in the sitting area to the left of the kitchen.
+
+THE SPACE:
+This is a separate basement suite downstairs. Both units (upstairs/downstairs) are completely private with their own entrance/exits and we live in the upstairs suite.
+
+PARKING: 
+Two off-street parking spots available located on the right hand side of the driveway as you are facing the house.
+
+Guest access
+This is a separate basement suite downstairs. Both units (upstairs/downstairs) are completely private with their own entrance/exits and we live in the upstairs suite.
+
+The AIRBNB unit is downstairs so you will need to walk through the carport and to the left. You will see the AIRBNB door with the Yale lock for you to enter your code.
+
+Other things to note
+*Please note that when visiting Tennessee in the warmer months that there are bugs. However, we have both  the inside and the outside spaces treated so that we and our guests can enjoy each space as pest free as possible.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cassandra
+Host User ID: 173211861
+Host Profile URL: https://www.airbnb.com/users/show/173211861
+Host Profile URL Source: public user permalink from passport userId
+We love traveling and being able to meet new people, experience different cultures, and try all of the amazing food abroad.
+My work: Office
+Speaks English
+Response rate: 100%
+Responds within an hour
+5 years hosting
+87 reviews
+4.98 out of 5 average rating
+5 years of hosting

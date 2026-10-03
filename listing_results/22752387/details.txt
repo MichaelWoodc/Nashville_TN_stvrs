@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/22752387
+Latitude: 36.17735
+Longitude: -86.74705
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville Oasis in the heart of Five Points. This beautifully renovated four-bedroom historical home is in the city's most walkable neighborhood, surrounded by world-renowned restaurants and bars. 
+
+Enjoy a heated saltwater pool, a fire pit, grill out with friends, relax on the front porch as the world strolls by. You're just a 5-minute Uber to Broadway. This home offers modern amenities, a fun bunk room, and the perfect blend of city excitement and tranquil neighborhood living
+
+The space
+Welcome to your Nashville Oasis, a beautifully renovated four-bedroom historical home nestled in the heart of Five Points, the city's most vibrant and walkable neighborhood. From the moment you arrive, you'll feel the unique energy of this community, with its tree-lined streets and eclectic mix of world-renowned restaurants and lively bars just steps from your front door.
+
+Step inside and discover a home where historic charm meets modern luxury. The open-concept living area is perfect for gathering with loved ones, while the beautifully appointed kitchen features top-of-the-line appliances, ready for you to whip up a gourmet meal. With four bedrooms, including a fun bunk room for the kids, there's plenty of space for everyone to relax and unwind. The home's recent renovation ensures you have all the modern amenities you need, from comfortable furnishings to stylish finishes, all while preserving its historical character.
+
+But the true heart of this home lies just outside. Your private, heated saltwater pool awaits, offering a tranquil escape that can be enjoyed throughout most of the year. Imagine lazy afternoons spent floating in the sun. The expansive backyard also boasts a fantastic grilling area, ideal for hosting memorable barbecues with family and friends.
+
+For a quintessential Five Points experience, grab a coffee and take a seat on the classic front porch. Watch the world stroll by as neighbors walk their dogs and friends head to their favorite local haunts. You're not just renting a house; you're immersing yourself in the rhythm of one of Nashville's most beloved neighborhoods.
+
+When you're ready for more action, the energy of downtown Broadway is just a five-minute Uber ride away. Catch a show, explore the honky-tonks, or dine at some of the city's best restaurants. After a night out, you'll be grateful to return to the peaceful oasis that is your Five Points home. It's the perfect blend of city excitement and neighborhood tranquility, all wrapped up in a stunning historical package. Your Nashville adventure starts here. **Please note the pool is NOT heated during Dec, Jan, and Feb due to freezing concerns.
+
+Guest access
+Guests have private, keyless entry to the entire home. You can enter through the front door from the street or the back door from the private alleyway. The home has a full fence surrounding the back of the property. A unique, keyless entry code will be provided to you 48 hours before your arrival.
+
+Parking is available in the alley behind the house, where you will find three assigned parking spots. These are clearly marked for your convenience. Additionally, there is plenty of free, unrestricted street parking available on the surrounding streets for any extra vehicles. We encourage you to use the alley for the most convenient access to the backyard and back door.
+
+Other things to note
+The pool is NOT HEATED during December, January, and February.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nealy
+Host User ID: 5147849
+Host Profile URL: https://www.airbnb.com/users/show/5147849
+Host Profile URL Source: public user permalink from passport userId
+I moved to East Nashville twelve years ago from Los Angeles and immediately fell in love with this city's kindness and community. As a Southern girl at heart, hospitality is my passion. Having traveled all over the world, I decided to host to share the same warmth and welcome I've felt in my travels. 
+
+I take great pride in making sure everyone who stays here feels comfortable, relaxed, and at home. And Nashville is a magical place!
+My work: Event Space Owner
+Fun fact: I love to scuba dive with sharks
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+607 reviews
+4.95 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/24497645
+Latitude: 36.20189
+Longitude: -86.72624
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Moody, soulful East Nashville retreat with NOLA flair. Open-concept layout, comfy couch, and Motown vibes set the scene. Perfect for couples, creatives, or groups up to 10. Enjoy the chef’s kitchen, yoga/meditation room/office , and cozy daybed nook. Stroll to Riverside Village’s bars and cafes; quick Uber to Five Points, Nissan Stadium, and Broadway. Your Nashville adventure starts here✨
+
+The space
+Welcome to my East Nashville home—a high-quality, thoughtfully designed space with an open floor plan, spacious layout, and luxury finishes throughout. You’ll find traditional charm paired with modern touches, from the hardwood floors to the curated design details.
+
+The main level features a bright and airy living area, a gourmet kitchen with double pantries and JENN-AIR stainless appliances, plus a bonus room that serves as an office, yoga, or meditation space. Step out back to a large covered deck—perfect for morning coffee or winding down in the evening.
+
+Upstairs, all three bedrooms, both full bathrooms, and the laundry room await. The primary suite is a peaceful retreat with vaulted ceilings, a king-size bed, and a smart TV connected to Google Chrome. The ensuite bath includes a spacious walk-in rainfall shower, double vanity, and a private toilet room.
+
+The other two bedrooms each have cozy queen beds and share a Jack-and-Jill bathroom with a shower/tub combo and double sinks. Just outside the bedrooms is a comfy daybed nook—a guest favorite for curling up with tea, journaling, or getting a little work done in the morning sun (it’s my personal favorite spot too!).
+
+Guest access
+Access to entire home, minus locked owners closet in Master bedroom.
+
+Other things to note
+Two parking spaces in driveway in back of home. Additional parking along fence area of house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 8670025
+Host Profile URL: https://www.airbnb.com/users/show/8670025
+Host Profile URL Source: public user permalink from passport userId
+Hi I’m Stephanie! Having moved about every three years my entire life, I have finally found the perfect city to plant some roots. Nashville is the perfect combination of dreamers, doers and creativity! It has welcomed me in with open arms and helped me do things I never thought were possible. 
+
+Aside from hosting on Airbnb, I started my own business called Airbnb A to Z. I help clients through the whole process start to finish of owning their very own Airbnb in Nashville. We start by finding the perfect location, permit, design and pass you to the best property manager in the city✨
+
+My home is located around the corner from Riverside Village in East Nashville. You will hear Otis Redding, Al Green, Satchimo and Etta James (which happens to be the name of my pup) coming from my house!  I look forward to hosting you in my home and can’t wait to hear about your experience and time in Nashville!
+I'm obsessed with: Ramen
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+135 reviews
+4.96 out of 5 average rating
+8 years of hosting

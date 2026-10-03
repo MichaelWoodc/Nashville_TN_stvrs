@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/5920152
+Latitude: 36.11852
+Longitude: -86.85563
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 7
+beds: 12
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+7 bedrooms, 7.5 bathrooms, 12 beds, 7 acres of picturesque land on Belle Meade Blvd. - one of the most famous and scenic residential roads in all Nashville.  Stay where even the locals sight see.  Heated Pool, All Casper® Foam Mattresses, Sonos® Sound System throughout, Smarthome® Automation and countless other amenities.  3 night minimum reservation.
+
+The space
+Located just 5 miles from downtown with the privacy and feel of a rural getaway, this 9,000 sq ft Belle Meade Estate sits perfectly at the top of a gentle 7-acre private hill.  Built in 1948 and renovated in 2016 with modern conveniences and all of the original charm.  It is perfect for the selective guests looking for convenience to the city who appreciate Southern Charm, quality and privacy unlike anywhere else.  The City of Belle Meade is the safest, most elite neighborhood in Nashville and has its own private police department headquartered just a few hundred yards from the property.  The main house has a brand new kitchen set up perfectly for preparing large group dinners and even has two dishwashers. The pool house also has a brand new full kitchen .   All 12 beds have Casper® memory foam mattresses.   A Sonos® sound system blankets music throughout the interior of the house.  A voice activated Smarthome® lighting system lets you be anywhere in the house and control any lights for any room, zone or lighting scene.   The house is perfectly set up for several large families, corporate retreats, golf trips, responsible groups of friends but also for a couple looking to treat themselves to probably the best master suite on Airbnb in the city.  No wedding ceremonies or wedding receptions - FIRM.  You are welcome to invite a few additional day/dinner guests if you ask for prior permission.
+
+Guest access
+You and your reserved guests will have full access to the main house, pool house, pool and grounds.  Please don't get lost inside the house.   Plenty of parking capacity.
+
+Other things to note
+Pool will be open and heated from April 1 - Sept 30
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marc
+Host User ID: 30745101
+Host Profile URL: https://www.airbnb.com/users/show/30745101
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville and not going anywhere else.... ever.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+211 reviews
+4.99 out of 5 average rating
+11 years of hosting

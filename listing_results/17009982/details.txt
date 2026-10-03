@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/17009982
+Latitude: 36.15094
+Longitude: -86.85336
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This two bedroom house only 4 miles to downtown, comfy beds and a full kitchen.
+
+Easy, cheap and convenient.
+
+Weed smoking is illegal in Tennessee and WILL NOT be tolerated
+
+No central HVAC- high powered window units and Space heaters.
+
+The space
+Nicely designed, comfy interior. Lots of outdoor space to run your dogs or explore the creek.
+There is a Queen bedroom, a second bedroom with two twin beds and a sofa in the living room
+
+Other things to note
+Pets are an additional $50 per pet. Unfortunately the owner is highly allergic to cats and we can not accept them.
+
+True service animals are expected to remain with guests at all times. This means they will never be left alone in the home.
+
+We recognize that this property is not high-end and has a more worn look to it. That is reflected in the price of the home and insures we are able to offer housing close to downtown, in a great neighborhood that everyone can afford and bring their pups with them. That in mind, there is always dog hair somewhere.
+
+All other structures around this property belong to individual owners. Please respect their privacy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Alexa
+Host User ID: 114031678
+Host Profile URL: https://www.airbnb.com/users/show/114031678
+Host Profile URL Source: public user permalink from passport userId
+Born in Nashville, I own an Airbnb management company. I enjoy staging houses and making them beautiful.
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within a day
+Superhost
+10 years hosting
+425 reviews
+4.69 out of 5 average rating
+10 years of hosting

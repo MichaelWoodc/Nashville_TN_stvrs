@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/633414452640522867
+Latitude: 36.1374
+Longitude: -86.76621
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience our custom-built downtown Nashville retreat, boasting an open floor plan, fully equipped kitchen, and luxurious king beds. Just minutes from Broadway and other hotspots, it's the perfect base for your Nashville adventure.
+
+The space
+“The living room has an open floor plan with vaulted ceilings and large windows which gives the space a roomy and airy feel.”
+
+“The bedrooms are large enough to fit king beds while still providing ample room to move around. Not to mention the large walk in closets”
+
+“The space is well designed, decorated, clean and cozy”
+
+Guest access
+Guests enjoy full privacy with exclusive access to the house, including designated parking spots and a private entrance. The entire living space is situated on the 2nd floor. Prior to check-in, guests will receive a unique door code for seamless access."
+
+Registration Details
+2021004832
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The Grays
+Host User ID: 106666990
+Host Profile URL: https://www.airbnb.com/users/show/106666990
+Host Profile URL Source: public user permalink from passport userId
+Wes and Tyler are native Nashvillians and love the opportunity to host travelers for their visits to our lovely town!
+
+We developed a Nashville based Short Term Rental company dedicated to providing affordable and convenient lodging to the many guests Nashville is hosting daily.
+
+Our commitment to communication and transparency with our customers has been the backbone to our success and we look forward to growing with Nashville!
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+382 reviews
+4.93 out of 5 average rating
+10 years of hosting

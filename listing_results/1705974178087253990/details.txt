@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1705974178087253990
+Latitude: 36.1821
+Longitude: -86.7945
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Germantown B-Side Retreat, a stylish 3BR/3BA Nashville home about a mile from Broadway. Enjoy the best of both worlds: quick access to downtown, Germantown restaurants, and Music City fun, then come home to a quieter neighborhood setting. With three full baths, cozy bedrooms, inviting living spaces, and a well-equipped kitchen, it’s ideal for families, friends, and longer stays. A friendly walkable neighborhood with nearby restaurants, coffee shops, grocery store and yoga studio.
+
+The space
+5 beds total: includes 2 King beds, 2 Queen beds & Queen sofa sleeper.
+
+1st (main) floor includes: 
+-1 bedroom with a King bed and full bathroom adjacent. 
+-Living Room with Queen Sofa Sleeper
+-Kitchen/Dining Room
+-Main entrance and access to back patio/deck/parking
+
+Upstairs on 2nd floor includes: 
+-Bedroom with a King bed and attached bathroom;
+-Bedroom with 2 Queen beds and attached full bathroom 
+-Laundry room with washer/dryer
+
+Registration Details
+2024073240
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Luke
+Host User ID: 8352733
+Host Profile URL: https://www.airbnb.com/users/show/8352733
+Host Profile URL Source: public user permalink from passport userId
+I love to travel and meet new people. My last job with a consulting company allowed me to mix this enjoyment with my work. I lived and worked in both Australia and Brazil. Living in other cultures gave me a strong appreciation for the differences from place to place.
+Speaks English and Portuguese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+32 reviews
+4.94 out of 5 average rating
+9 years of hosting

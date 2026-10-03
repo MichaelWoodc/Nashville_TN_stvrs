@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/758618552062947634
+Latitude: 36.232
+Longitude: -86.7244
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxury condo~5 mins. to Opry & 10 miles to airport! 
+This Nashville gem, in the heart of East Nashville, has free parking! Your family will be close to Nashville's best at this centrally-located 3 bedroom home. It is MINUTES from Opry Mills, Gaylord Opryland Hotel, Grand Ole Opry & mall. 
+The "Orchid"  is one level with no steps and features a spacious layout, fully equipped kitchen, high end finishes, outdoor deck, rooftop deck & three full baths.  King, queen, and a full bunk are featured.
+
+The space
+Living Room: pull-out couch
+
+Primary Bedroom: Queen bed with en-suite bathroom (tiled walk in shower)
+
+2nd Bedroom: King bed with en-suite bathroom (shower/tub combo)
+
+3rd Bedroom: Full bunk beds & single trundle, with en-suite bathroom, (tiled walk in shower)
+
+Balcony: Start your evening with a cocktail on the attached balcony or rooftop deck.
+
+Unbeatable Location in East Nashville: Step out into East Nashville’s bustling nightlife with must-visit spots like The Basement East, 3 Crow Bar, the Pharmacy, and Rosemary & Beauty Queen. Kroger, Publix, and Walmart are minutes away.  Enjoy live music, craft cocktails, and unforgettable evenings—all within a convenient distance!
+
+Quick Hop to Downtown: When you’re ready to explore Broadway’s legendary honky-tonks, hit the Ryman Auditorium, or dive into late-night bites, downtown Nashville is just minutes away. 
+
+The "Orchid" is perfect for couples, friends, or anyone looking to enjoy the city’s renowned music, bars, and dining!
+
+Guest access
+The entire condo unit.
+
+Other things to note
+During your stay, we ask that you remember to be respectful of your neighbors. Quiet hours are from 10pm- 7am. 
+
+Additionally, thank you for respecting our "no smoking" and "no pets" policy so that we can keep our property in the best condition possible.  Should you choose to ignore this, there will be a $300 fine assessed.  By booking this condo, you are agreeing to these terms.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 23986801
+Host Profile URL: https://www.airbnb.com/users/show/23986801
+Host Profile URL Source: public user permalink from passport userId
+I spend too much time: Working
+I'm obsessed with: My family and traveling the world!
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+316 reviews
+4.93 out of 5 average rating
+4 years of hosting

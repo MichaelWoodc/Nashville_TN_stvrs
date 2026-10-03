@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/786905071453639782
+Latitude: 36.1942
+Longitude: -86.7503
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 14
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sleeps 14 • 4.99⭐ Superhost • East Nashville
+
+Built for group trips, bachelorette weekends, and family getaways. With 6 comfortable beds, 3 full bathrooms (no waiting to get ready!), walk-in closets, and spacious common areas, everyone stays together in comfort. Located in vibrant East Nashville, just minutes to Broadway, restaurants, breweries, and live music. Free parking + pet friendly.
+
+The space
+•Designed for Group Getaways• 
+
+Bringing the whole crew to Nashville? This spacious home was designed with large groups in mind — from unforgettable bachelorette weekends to wedding celebrations and family reunions.
+
+✔ Sleeps up to 14 guests
+✔ 6 cozy beds
+✔ 3 full bathrooms (huge for getting ready!)
+✔ Walk-in closets + ensuite setups
+✔ Free parking
+✔ Pet friendly
+
+No splitting up into multiple hotel rooms. No juggling different rentals. Just one comfortable, stylish home base for your entire group.
+
+•Space to Gather• 
+
+The open common areas make it easy to:
+• Get ready together before a night on Broadway
+• Host brunch at home
+• Relax and recharge after exploring the city
+
+With thoughtful layouts and multiple bathrooms, everyone can spread out and enjoy the stay.
+
+•Prime East Nashville Location• 
+
+Stay in one of Nashville’s most vibrant neighborhoods while being just a short Uber ride to:
+
+• Broadway Honky Tonks
+• Nissan Stadium
+• Top-rated restaurants & coffee shops
+• Local breweries & live music venues
+
+You get the energy of Nashville without being stuck downtown.
+
+•Trusted Stay• 
+
+With a 4.99⭐ rating and Superhost status, we take pride in providing a clean, seamless, and memorable experience for every group.
+
+As a locally owned and self-managed home, you’ll be communicating directly with us — not a large management company — so we can ensure every detail of your stay is handled with care.
+
+Guest access
+You’ll have private access to the entire home during your stay — no shared spaces.
+
+Easy self check-in with a secure keypad entry (your unique code will be sent before arrival).
+
+Guests also have access to the driveway for free parking and all indoor/outdoor spaces shown in the listing.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ruby
+Host User ID: 73675447
+Host Profile URL: https://www.airbnb.com/users/show/73675447
+Host Profile URL Source: public user permalink from passport userId
+Currently living in Nashville with my husband! We love traveling and experiencing various food, cultures, and night life. With an early career in hospitality - we love giving a "home away from home" experience to our guests and help them explore the beautiful, rambunctious, and lively city of Nashville.
+Where I went to school: Long Beach State
+My work: Account Management
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+107 reviews
+4.99 out of 5 average rating
+4 years of hosting

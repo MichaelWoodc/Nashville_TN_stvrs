@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1696426836668284622
+Latitude: 36.19586
+Longitude: -86.77198
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 8
+beds: 12
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style at these TWO luxury 4-bedroom homes next door to each other (sleeping 24 adults) & less than 3 miles to Broadway! Whether you're planning a group getaway, family vacation, or celebration weekend, these modern retreats offer the perfect blend of comfort & convenience. Take in skyline views from the private rooftop deck each with a hot tub, cook meals in full chef’s kitchens, and unwind in beautifully designed bedrooms. Make exciting new memories in Music City!
+
+The space
+Welcome to The Lucy — one of Nashville’s premier vacation rental communities located just 3 miles from Broadway. These professionally designed homes combine modern luxury with warm Nashville charm, offering the perfect home base for groups looking to explore the city while enjoying elevated accommodations.
+
+Inside each, you’ll find:
+• A spacious open-concept living area perfect for gathering
+• A fully equipped chef’s kitchen with modern appliances
+• A dedicated coffee bar to start your Nashville mornings right
+• An oversized dining area for meals, drinks, and game nights
+• A private rooftop deck with hot tub, fire pit, outdoor TV, gas grill, and Nashville skyline views
+• Smart TVs, USB charging stations, blackout drapes, and memory foam mattresses throughout
+
+Sleeping arrangements:
+• 6 bedrooms with queen beds
+• 2 bunk bedrooms with full-over-full bunk beds
+• 2 pull-out sofa beds for additional guests in each
+
+Bathrooms:
+• 4 bedrooms feature private en suite bathrooms
+• 4 bedrooms share a spacious Jack-and-Jill bathroom with dual access
+• An additional upstairs half bathrooms for added convenience
+
+Additional amenities include:
+• Smart lock self-check-in
+• In-unit washer & dryer
+• Private garage parking for 2 vehicles & Unit Access
+• Free street parking directly outside the h
+
+Guest access
+Guests will have full private access to the entire homes during their stay.
+
+Other things to note
+Uber and Lyft are the easiest ways to get around Nashville, and downtown is only a short ride away. A bus stop is also located nearby.
+
+Several grocery stores, coffee shops, restaurants, and local favorites are conveniently located within a couple miles of the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wes
+Host User ID: 98212855
+Host Profile URL: https://www.airbnb.com/users/show/98212855
+Host Profile URL Source: public user permalink from passport userId
+I’m your Host Wes, a Tennessee boy born and raised, and Nashville has been home for the past 25 years. These days, life is all about making memories—traveling whenever we can and spending quality time with my wife and our two boys, ages 11 and 5.
+
+I take pride in creating a comfortable, stress-free place to stay, whether you’re here to explore the city or simply relax and recharge. I’m happy to help with anything you need to make your stay great. Welcome to Music City—we’re glad you’re here!
+Lives in Nashville, Tennessee
+Response rate: 97%
+Responds within an hour
+Superhost
+10 years hosting
+796 reviews
+4.9 out of 5 average rating
+10 years of hosting

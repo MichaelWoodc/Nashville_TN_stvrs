@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/32990740
+Latitude: 36.1708
+Longitude: -86.75899
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Luxurious $1.4 million dollar historic house.   4 bedrooms 5 beds + queen pullout bed + massive sleep-able sectional.  
+1/2 mile from Nissan Stadium, Close to Broadway bars attractions and just steps from 5 points in Historic East Nashville!  Over 3000 square feet of lavishly furnished space. 6 TVs, High ceilings,  huge custom eat in kitchen, master bedroom has large ensuite bath, air jet tub, walk in shower, 4 bedrooms with 3.5 bath. fenced front and back yard with large deck, washer/dryer.
+
+The space
+House has all the charm of a 1890s bungalow with the comforts and modern conveniences of new construction.  Property has undergone  full restoration and furnishing.  Everything is like new inside and out.
+
+Guest access
+Digital lock on back door.
+A door code will be provided day of check in.
+
+Please note one of the 2 master closets is locked from guest access.
+
+Other things to note
+Please make sure your guests count is accurate.  The City of Nashville strictly enforces occupancy limits and can cancel my short term rental permit if the house is over occupied.  If you need to add more guests after your booking, please let me know prior to the beginning of your stay.   Please understand that undisclosed additional guests may result in the cancelation of the  reservation and forfeiture of the deposit.
+Please avoid outdoor activities after 9pm please.  Nashville city observes neighborhood “quiet hours from 9pm to 8am.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ethan
+Host User ID: 227647788
+Host Profile URL: https://www.airbnb.com/users/show/227647788
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville native helping hosts manage their rentals.  Love helping guests find local hot spots and helping them make the most of their Nashville visit.
+If you have any questions about your rental and need any information feel free to msg me here on airbnb!
+Lives in Nashville, Tennessee
+8 years hosting

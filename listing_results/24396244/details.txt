@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/24396244
+Latitude: 36.13716
+Longitude: -86.63665
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+All the comforts of home in the heart of nashvile:
+spacious luxury 2 story home in super location, perfect for singles,couples or family vacations/reunions. Two miles from airport,quick ride to opryland/grand ole opry (6 miles) short drive to broadway honky-tonks and downtown music city landmarks (9 miles),2 miles to nashville shores 385 acre water park,stones throw to elm hill marina lake and recreation area percy priest lake.Great eats and drinks nearby Darfons,McNamara's and other great spots
+
+Guest access
+entire space except for the garage and a few locked closets
+
+Other things to note
+local government of nashville mandated anyone with a short term rental permit  to collect a .06 percent hotel occupancy priviledge tax,you can pay it upfront during check in or thru the airbnb  resolution center.   thanks  so much  john v.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 184140863
+Host Profile URL: https://www.airbnb.com/users/show/184140863
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+89 reviews
+4.98 out of 5 average rating
+8 years of hosting

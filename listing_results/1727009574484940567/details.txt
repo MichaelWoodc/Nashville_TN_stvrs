@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1727009574484940567
+Latitude: 36.1529
+Longitude: -86.8052
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The perfect Bluebird apartment. Its less than a 8 minute uber to downtown, walking distance to restaurants, Centennial park, Vanderbilt and more. The apartment has everything you'll need for a fun few days with family, friends or your special someone :)
+
+24 hour fitness center, pool and nearby restaurants and bars, or a cozy room to watch your favorite movie!
+
+POOL IS NO LONGER OPEN
+
+The space
+Amenities include:
+· 1 King Bed
+· 1 Queen Air Mattress - Sleeps 2
+· Hassle-free, keyless check-in and 24-hour building access
+· 1 FREE secured PARKING spot in garage
+· Smart TV
+· High-speed internet
+· SALTWATER Pool, outdoor patio with fire table & grill
+· Entertainment lounge with pool table, co-working space and kitchen
+· In-unit washer & dryer
+· Iconic, highly walkable location in Midtown - near restaurants, shopping, bars & live music
+· Fully equipped kitchen with appliances, glasses & dishware for all your cooking needs
+· Electric coffee maker
+· 5 minute Uber ride to Broadway
+· Hair dryer, shampoo, conditioner, & body wash provided
+· Linens and towels provided
+· Spacious closet with hangers for storing your belonging
+
+NO LOCALS ALLOWED
+
+Permit #2026035974
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Killian
+Host User ID: 299855484
+Host Profile URL: https://www.airbnb.com/users/show/299855484
+Host Profile URL Source: public user permalink from passport userId
+Fun fact: I played college soccer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 months hosting
+140 reviews
+4.97 out of 5 average rating
+8 months of hosting

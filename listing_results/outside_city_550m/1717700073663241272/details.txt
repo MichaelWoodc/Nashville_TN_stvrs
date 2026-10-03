@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1717700073663241272
+Latitude: 36.367
+Longitude: -86.5085
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience modern comfort in this beautifully designed luxury retreat! 
+
+Perfect for families, business travelers, and weekend escapes. Enjoy spacious bedrooms, plush beds, a fully equipped kitchen, Smart TVs, fast Wi-Fi, free parking, self check-in, and a peaceful atmosphere. 
+
+Conveniently located near shopping, dining, and local attractions. Your perfect home away from home awaits!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Serenity Signature Suites
+Host User ID: 186900531
+Host Profile URL: https://www.airbnb.com/users/show/186900531
+Host Profile URL Source: public user permalink from passport userId
+I’m Bee with Serenity Signature Suites. We offer thoughtfully managed short-term and extended-stay properties designed for comfort, convenience, and peace. Whether traveling for work, relocating, or visiting the area, guests can enjoy a welcoming home between homes.
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+3 months hosting

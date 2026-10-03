@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/45842524
+Latitude: 36.16226
+Longitude: -86.8036
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"New Prestigious Townhome, 1 of 4" Close to the Gulch, Mid-town and Downtown Nashville.  This 3 LEVEL ROOFTOP townhome is spacious and has plenty of room for large groups.  The home features 3 bedrooms/3.5 bathrooms, 2 fully equipped kitchens, and a 3rd level entertainment room.  The ROOFTOP has a hot tub perfect to relax and/or mingle as you view the city lights of Downtown Nashville. The enclosed outdoor common area has an available firepit and two gas grills.
+
+The space
+4 Side by Side Luxury Styled Townhomes in their on secluded community.  *Private garages for off street parking.  Two fully equipped, kitchens, 2nd and  3rd level.  Washer and Dryer available on the 1st and 3rd level of the townhome.  2nd Level Kitchen/Living Room  has 70" HDTV, Master 60" HDTV, *1st level bedroom 65" HDTV and 3rd level Entertainment Room 65" HDTV.
+
+Permit # 2/0/2/0/0/5/6/3/6/8
+
+Guest access
+Guest have the ability to use the enclosed common areas of the property, which includes a fire-pit and two gas grills.
+
+Other things to note
+YOU MUST NOTIFY US IF YOU ARE A LOCAL GUEST. YOU MUST HAVE ADDITIONAL APPROVAL BY HOST.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: DeRon
+Host User ID: 206929251
+Host Profile URL: https://www.airbnb.com/users/show/206929251
+Host Profile URL Source: public user permalink from passport userId
+As a former member of the Tennessee Titans and Tennessee Volunteer, I've lived in Nashville for 20 years. I have an amazing team capable of assisting you for all of your real estate needs. These elevated estates in Nashville are completely modernized from top to bottom and are located within a short distance of many restaurants, bars, shops, etc..  Nashville offers a "one of a kind" experience and is currently trending as one of hottest cities in country.
+My work: DY Construction  Inc and DY Properties II LLC
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1602 reviews
+4.84 out of 5 average rating
+8 years of hosting

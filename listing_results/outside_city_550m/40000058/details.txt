@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/40000058
+Latitude: 36.30832
+Longitude: -86.98448
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious and cozy 3bd, 2bath home with easy access to Nashville & Clarksville. Peaceful back patio overlooking 2 ponds, a large fenced yard & games for loads of family fun. There are parks, trails, golfing, kayaking & canoeing nearby. Perfect for families & vacationing couples. Sleeps 6 comfortably. Home includes a gas grill, coffee pot,  Keurig, washer/dryer, a limited supply of toiletries and kitchen supplies & special touches to feel just like home.
+
+The space
+You get the whole house to yourself and with every room having a large walk in closet, there’s plenty of space to put your things away.
+
+Guest access
+The whole house is yours!
+
+Other things to note
+Price reflects nightly rate starting at 4 guests. 
+We ask that a close eye should be kept on all children and please no children under the age of 18 is allowed at the ponds without adult supervision.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 201498682
+Host Profile URL: https://www.airbnb.com/users/show/201498682
+Host Profile URL Source: public user permalink from passport userId
+My work: Auto Dealership Mgr
+For guests, I always: Make sure the home is super clean.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+186 reviews
+4.95 out of 5 average rating
+7 years of hosting

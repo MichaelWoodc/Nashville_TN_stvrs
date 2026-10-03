@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/744105801513964568
+Latitude: 36.11155
+Longitude: -86.84139
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your relaxing oasis in Green Hills, Nashville's uber upscale neighborhood. Super safe. Nearby to Bluebird Cafe, world-class shopping and casual-to -ancy restaurants. Your side of duplex includes beautiful sun room, living room/kitchen combo, bedroom and bath. Beautiful backyard with multiple seating and dining areas. 10 minutes from Vanderbilt, Belmont and Lipscomb universities. You never know which music stars you will see in the local Whole Foods? Private spacious parking area.
+
+The space
+We have a futon that folds out into a queen size bed with linens in the closet if you need a bed in addition to the king size bed in the bedroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 6643047
+Host Profile URL: https://www.airbnb.com/users/show/6643047
+Host Profile URL Source: public user permalink from passport userId
+Hello,
+Welcome to Nashville! My wife Christine and I are marketing consultants and we do quite a bit of traveling. We own a duplex in Green Hills, one of Nashville's finest neighborhoods. We live on one side and other side is for airbnb. 
+
+Good food, good friends, good times.
+
+We also have 100 acres and an 1870 farm house in west Tennessee.
+My work: JT MarCom, Allen Tate Realtors
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+156 reviews
+4.88 out of 5 average rating
+13 years of hosting

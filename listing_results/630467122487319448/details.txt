@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/630467122487319448
+Latitude: 36.06123
+Longitude: -86.70742
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious, clean Studio Suite with your own private entrance, deck,  & driveway. A full bathroom with large shower, mini-fridge, microwave & coffee maker, you'll feel like you found a home away from home here in Nashville.
+
+Located in a quiet neighborhood in S.E. Nashville, you're only a quick 15 minutes away from downtown & the action on Broadway Street.
+
+Comfortable King bed & rollaway bed & air mattress suitable for 3 people max.
+
+Relax in our backyard! There's a fire pit & grill available.
+
+Other things to note
+No parties. Not suitable for children. No pets.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Douglas
+Host User ID: 214536484
+Host Profile URL: https://www.airbnb.com/users/show/214536484
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Airline Pilot – correct.
+4 years hosting

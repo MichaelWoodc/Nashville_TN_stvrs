@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/44265921
+Latitude: 36.13916
+Longitude: -86.83112
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You'll leave feeling better than when you came after staying in this cheery, colorful boutique bungalow.  Located in the historic and trendy Sylvan Park neighborhood less than 4 miles from downtown and less than 2 miles from Vanderbilt, Fisk, Lipscomb, TSU, and Belmont. Walking distance to restaurants, greenway, and community center.  Free parking and self check-in.  An ideal base whether you're working, visiting a college, enjoying a family vacation, or just exploring Music City,  USA.
+
+The space
+Spread out in this three bedroom bungalow with your choice of a king, queen, or two twin beds (rolling trundle under main twin).  Hang out on the screened back porch or sit on the front porch swing to watch the world go by. You'll have fun eating and playing games at the full dining table, or sipping coffee at the kitchen cafe table.  End the day watching TV (including, WiFi and Firestick streaming service access) in the cozy living room. Feel free to do your laundry during your stay!
+
+Guest access
+You'll have access to the entire first floor. Basement and attic are locked out and used for storage.
+
+Other things to note
+The bedroom with two twin beds is smaller than the other two bedrooms and has only one door. The other entrance is open. Also, bedroom doors have only skeleton key locks. 
+
+Ceiling fan on back porch is operated by remote control stored on door frame. Please make sure remote control is back in its holster before checking out. 
+
+Please leave house key on kitchen counter upon checkout. Door will lock automatically.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Philip
+Host User ID: 356788126
+Host Profile URL: https://www.airbnb.com/users/show/356788126
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+557 reviews
+4.9 out of 5 average rating
+6 years of hosting

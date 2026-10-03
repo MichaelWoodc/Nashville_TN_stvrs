@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1658778795635224773
+Latitude: 36.1571
+Longitude: -86.4583
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make yourself at home in this 5-bedroom retreat on 5 acres centrally located to Nashville. Nestled in a peaceful setting, this gorgeous property boasts an abundance of amenities to catering to family gatherings, to couples’ vacations, corporate retreats as well as those guy and gal only group getaways. Downtown is a short drive away, Opryland within 15 minutes and outdoor activities like golf, boating and hiking are all in the immediate surrounding area.
+
+The space
+The space
+Guests will have plenty of space to relax and unwind around the saltwater pool surrounded by 40ft Green Giant Trees; perfect for private spa days, family time playing pool volleyball or enjoying some sports on the TV in the outdoor kitchen while grilling.
+
+The property also boasts a media and game room, complete with a 100-inch screen and surround sound - perfect for movie night or game day viewing! If you are more of the morning type, enjoy an espresso at the coffee bar and enjoy the beautiful nature rich views from the outdoor patio, overlooking the back pasture of the property.
+
+The property boasts a master bedroom with a king bed, beautiful open shower and spa tub, plus a bonus room which can be used as an office and sleeping area. Also, downstairs guests will enjoy two private rooms with queen beds. Upstairs open the door to a beautiful in-law suite, complete with a kitchenette, second living room, and a full bathroom with a spa tub. The outdoor pool area is also equipped with a bathroom and shower in the pool house.
+
+The property is conveniently located with the airport only 15 minutes away and downtown 20 minutes - both accessible by Uber. For nature lovers, Mt. Juliet is the land between two lakes - there are several marinas available with daily boat/kayak rentals and a multitude of hiking areas walk fall hikes at Cummings and Burgess falls within an hour drive.
+
+Guest access
+You will have access to the entire house and pool.
+
+Other things to note
+🛏️ Perfect For:
+Birthday trips
+Family gatherings
+Corporate retreats
+Group getaways
+📍 Location Perks:
+20–25 min to Downtown Nashville
+Close to shopping & dining in Mount Juliet
+Easy airport access
+⚠️ House Notes:
+No parties 
+Quiet hours enforced
+Must be 25+ to book
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: CousinsBNB
+Host User ID: 21736973
+Host Profile URL: https://www.airbnb.com/users/show/21736973
+Host Profile URL Source: public user permalink from passport userId
+We are a family that love to travel, and we love to host groups at our fantastic Nashville-themed homes as well as our Gulf Shores homes.  We also have homes in Laurel, MS and a cabin in Zionville, NC.  We dedicate a lot of time to making sure our properties provide everything you would expect when vacationing there.  And our reviews show that!
+Where I went to school: University of North Texas
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+3191 reviews
+4.85 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/26662703
+Latitude: 36.18169
+Longitude: -86.80889
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Create meals in a fully equipped kitchen with plenty of prep space. Then kick back and relax in a detached house that's been decorated with a designer's flair. At night, crawl under comfy sheets and curl up with a movie on TV.
+
+STRP #2018047675
+
+My home is located very close to Downtown,  just a few miles away and a quick uber ride.
+
+The space
+Main level open floor plan with living dining and kitchen combo provides room for your group to gather without feeling crowded.  A full bath is located off the hallway with a private connection to the bedroom on the first floor.  This bedroom has a twin size daybed. With trundle and a smart tv. There is also a queen size sofa bed in the living area.  The second level has three bedrooms and two full baths, separated by a long, light filled hallway. The primary retreat is located at the end of the long hallway and is fitted with a king size bed, smart tv, and en-suite bath with walk-in shower, double vanities, and a private water closet. There is another bedroom with king bed and smart tv on this level and a fourth bedroom with a king bed.  These rooms share a hall full bath.
+
+Guest access
+Guests will have access to the entire home except the owners storage room on the first level and one closet upstairs.
+
+Other things to note
+Short Term Rental Permit Number :Two Zero One Eight Zero Four Seven Six Seven Five
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura
+Host User ID: 17651188
+Host Profile URL: https://www.airbnb.com/users/show/17651188
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Tennessee Technological University
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+118 reviews
+4.94 out of 5 average rating
+8 years of hosting

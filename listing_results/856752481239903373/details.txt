@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/856752481239903373
+Latitude: 36.1553
+Longitude: -86.666
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our stylish modern outlaw oasis. Conveniently located less than 2 miles from the Nashville Airport and 8 miles from downtown Nashville. Enjoy fast fiber internet with a Wi-Fi 6E router, Google Home speakers throughout, two workspaces with dual 24" monitors and USB C hubs ready to plug your laptop into. The bonus room is the perfect place to unwind, with a tiki bar, extra seating, and a dining table. Our home has two bedrooms and a giant couch making it great for up to 6 guests.
+
+The space
+Our 2-bedroom, 1-bath home boasts an open floor plan, a modern kitchen, a giant couch, and two separate workstations, each equipped with dual 24" computer monitors and a USB-C dock for your convenience. Filled with a blend of exceptional mid-century modern furniture and mixed with modern appliances, our home offers the perfect fusion of comfort and style.
+
+The sunroom features a tiki bar and ample space for board games and relaxation, making it the ideal spot for memorable gatherings. The main bedroom is a bright and airy oasis, complete with windows and skylights that let in an abundance of natural light. For entertainment, enjoy the aesthetically pleasing art TVs in both the main bedroom and the living room.
+
+In addition, our home features some tasteful adult artwork throughout, which adds to its ambiance, but also means that it isn't set up for children due to the presence of delicate decor that may not be suitable for younger guests. Our home is optimal for 4 adults but can comfortably accommodate up to 6 people thanks to the abnormally large and comfortable couch in the living room.
+
+If you are making your way over to the Great Smoky Mountains after your stay in Nashville, check out our home in Pigeon Forge.
+TheRamblersRest .com
+
+Guest access
+You'll have access to the entire home, excluding any locked cabinets, closets, or the tiki fridge. We have to have some private spaces to keep our personal belongings since it's our home :)
+
+Other things to note
+Please note that our home is not just another generic Airbnb. This is our cherished personal space that we rent out while we're away traveling. We are very close with our neighbors and take great pride in our home. We kindly ask that you treat it with the same love and respect that we do. 
+
+We've created a comfortable, clean, and peaceful space for guests. Kindly refrain from hosting parties or events to maintain the tranquility and privacy of our personal space and please also refrain from bringing any pets in our space. If you need local recommendations, we're happy to help. 
+
+Please note that all outside entry ways have 2 steps to get inside. 
+
+We now welcome monthly bookings for guests in good standing! If you're looking to book an extended stay and the dates you're interested in don’t appear available, feel free to message us to check. We regularly open or block dates depending on our travel schedule, so it never hurts to ask. We're happy to work with you if we can.
+
+Thank you for your cooperation and respecting our home. Feel free to reach out if you have any questions or need assistance. Enjoy your stay!
+
+Permit #2023014881
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Summer
+Host User ID: 22485902
+Host Profile URL: https://www.airbnb.com/users/show/22485902
+Host Profile URL Source: public user permalink from passport userId
+I spend too much time: Thinking about sushi
+I'm obsessed with: Travel, Outdoors, 70s, Classic Country
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+97 reviews
+4.98 out of 5 average rating
+4 years of hosting

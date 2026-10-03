@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/9863459
+Latitude: 36.19388
+Longitude: -86.74045
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This charming,  1,546 sq ft house built in 1930 is located in historic East Nashville close to downtown (10 mins) and 5 Points (less than 5 mins) with 3 bedrooms, 2 bathrooms and plenty of living space it sleeps up to 8
+ 
+We'd love to have you as our guest!
+
+The space
+This home was built in 1930 in historic East Nashville. There are three bedrooms, two full bathrooms, a dining room, kitchen and living room. The house is decorated with mostly mid-century modern furniture and has a very cozy feel. Two of the bedrooms have queen-sized Memory Foam mattresses.  The third bedroom has a brand new sleeper sofa and a full-over-full bunk bed. The living room has a new sleeper sofa and plenty of extra seating. There is a futon and air mattress in the master bedroom as well. 
+
+There is a covered front porch and large deck with a partially fenced backyard. A washer and dryer are available for your use as well.  
+
+If you need to get work done, there are two desks located in the living room and master bedroom.
+
+Guest access
+The whole house is yours! 
+
+Check-in is at 4pm central. If an early check in is important to you, we recommend reserving the night before if it's available. 
+Check-out is at 11am. (We'd love a quick text when you check out, if possible) 
+
+Late arrival is fine, we have a keypad on the door so you can get in whenever you show up. There is parking in the driveway for 2 vehicles. If additional parking is needed, there is free street parking or if you would prefer, we can also open the gates to the backyard to allow for additional parking.
+
+Other things to note
+The street is a very short walk to some local restaurants and bars that are pretty happenin'. We're located close to the main street that runs through East Nashville, Gallatin Rd. The front door operates on a digital passcode allowing for flexible check-in times.
+
+Well behaved pets are welcome with pre-approval and a pet fee. Please note that the back yard is only partially fenced in. Pets should never be left unattended outside. 
+
+Reservations require a two night minimum stay however we sometimes make exceptions to this rule if you can message us with the details of your stay. Reservations during CMA Fest and some holidays require a varying minimum stay (details on the calendar).
+
+We have security cameras on the exterior of the house located on the front door, front porch and back porch.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chelsea
+Host User ID: 50764222
+Host Profile URL: https://www.airbnb.com/users/show/50764222
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm a nurse and fourth generation Nashvillian. I would love to have you as our guest and to share my knowledge and love of the neighborhood with you.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+11 years hosting
+549 reviews
+4.67 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,28 @@
+URL: https://www.airbnb.com/rooms/53699261
+Latitude: 36.07515
+Longitude: -86.64591
+rental_type: Private room in rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole family to this great place with lots of room for fun.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Morola
+Host User ID: 393578514
+Host Profile URL: https://www.airbnb.com/users/show/393578514
+Host Profile URL Source: public user permalink from passport userId
+Responds within a few days or more
+4 years hosting

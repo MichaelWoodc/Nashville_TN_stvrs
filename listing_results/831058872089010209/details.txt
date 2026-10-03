@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/831058872089010209
+Title: Music City Condo
+Latitude: 36.1262
+Longitude: -86.7255
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a Music City experience at this brand-new construction, contemporary residential condo with an industrial flare centrally located just nine minutes from downtown Nashville and twelve minutes from BNA Airport. It has everything you need from a short stay to a long stay!
+
+The space
+This brand new contemporary residential condo with an industrial flare sleeps four comfortably.  The private bedroom has a queen bed with a 43-inch smart tv in it along with a walk-in closet and black out shades.  The living room space has all sorts of Music City decor with a queen-size pull-out bed from the couch with a 55-inch smart tv and black out shades.  The kitchen is spacious with everything you need to cook with.  There are two bar stools at the kitchen island for eating and a table with two bar stools that can be used as a dedicated workspace or another place to dine.  The bathroom is stylishly designed and spacious with a stand-up shower.  The laundry room has a brand-new washer and dryer along with plenty of shelves for storing things if you are staying for a while.
+
+Guest access
+Guests will have access to the entire condo.
+
+Other things to note
+Free parking conveniently located in between downtown Nashville and the airport.  Easy drive or uber/lyft ride to everything Nashville has to offer.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jimmy
+Host User ID: 338522324
+Host Profile URL: https://www.airbnb.com/users/show/338522324
+Host Profile URL Source: public user permalink from passport userId
+Hello!  My name is Jimmy and I am a full-time real estate agent here in middle Tennessee with a strong emphasis in Nashville & Clarksville where I own and operate investment property.  I am from Clarksville and live in Nashville.  I am also in the Tennessee Army National Guard and am a VA loan specialist.  I would love to have you stay at one of my houses, condos, or townhomes and would love to help you find a home if you are looking here in Nashville, Clarksville or the middle Tennessee area.
+My work: Real Estate Agent & Investor
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+479 reviews
+4.86 out of 5 average rating
+7 years of hosting

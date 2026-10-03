@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/17016355
+Latitude: 36.1936
+Longitude: -86.75885
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This spacious 2600 ft, 4 bedroom home is located 3 1/2 miles from downtown, which is a quick ride using either Uber or Lyft.  Larger groups like this house because of the open floor plan and outdoor fenced yard with a screened porch. Come enjoy Nashville! Free on-street parking.
+
+The space
+All mattresses are comfortable Sealy Posturepedic pillow-top mattresses. The sleeping arrangements are as follows:
+
+Downstairs: 1 bedroom with  1 King bed
+Upstairs: 1 bedroom with  1 Queen bed
+Upstairs: 1 bedroom with  1 Queen bed
+Upstairs: 1 bedroom with  2 Queen beds
+Bonus room: 1 Queen bed and 
+                           1 Sofa bed
+
+2 full bathrooms each with a shower. 
+1 half bath.
+
+No Air Mattresses! 
+
+Mattresses are also fully encased and also protected with a second mattress pad. Pillows are also encased. We provide extra pillows and blankets. Towels and sheets are of excellent quality.  
+
+The kitchen has pots and pans, baking pans, dishes, utensils, knives, glasses, a coffee maker, toaster, and a Keurig coffee maker. There are hair dryers, an iron, and an ironing board. Travel soaps, body wash, shampoo and conditioner are available. Do not worry about trash bags, paper towels, or toilet paper. I have you covered! If you need something additional please ask!
+
+Guest access
+The entire house is accessible to guests. The house is non owner occupied. 
+All spaces are available to guests.
+
+Other things to note
+No parties. The home is in a residential neighborhood. A family lives next door. Quiet hours 10 pm to 8am.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Carla
+Host User ID: 58786758
+Host Profile URL: https://www.airbnb.com/users/show/58786758
+Host Profile URL Source: public user permalink from passport userId
+A native of Georgia, I made Nashville my home in 1996. I love it here!  I have lived in Boston and in San Diego. By far, Nashville is my favorite.  I enjoy finding new restaurants,  listening to music, and exploring local parks.
+Born in the 60s
+Where I went to school: University of Georgia, UCSD, and Vandy
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+289 reviews
+4.99 out of 5 average rating
+10 years of hosting

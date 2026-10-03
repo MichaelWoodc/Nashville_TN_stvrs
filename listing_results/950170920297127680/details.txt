@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/950170920297127680
+Latitude: 36.13669
+Longitude: -86.70183
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🛏️ Private Upstairs Suite
+
+• Full bedroom + dedicated full bathroom
+
+•Smart TV, desk, and ample closet space
+
+• BeautyRest mattress + blackout curtains
+
+🏡 Shared Amenities
+
+•Main-level living, kitchen, and dining areas
+
+•Balcony for fresh air and city views
+
+• Lower-level workout area
+
+🚗 Prime Location
+
+• Quick drive to airport
+
+• Fast commute to downtown Nashville
+
+📅 Flexible Stays
+
+• Available for short-term bookings
+
+• Ideal for extended stays (travel nurses, relocations, remote work)
+
+The space
+My home is a tri-level townhouse, with the guest bedroom and bathroom on the third level. The living room, kitchen, dinning room, and laundry take up the 2nd level. The workout area is located on the entry level.
+
+Guest access
+Entire home besides garage and host room.
+
+During your stay
+I live her full time, but I’m quiet, easy going, and friendly.
+
+Other things to note
+I have two cats who live here with me. They have open access to the entire house besides guests room/bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brittany
+Host User ID: 100705811
+Host Profile URL: https://www.airbnb.com/users/show/100705811
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Brittany. I’m an RN that works at a local hospital. I’m a laid back introvert that really prefers home cooked meals and sci-fi. 
+
+I can’t wait to meet you!
+Where I went to school: UNLV
+My work: Registered Nurse
+Most useless skill: I can pick up things with my toes
+Pets: Beau and Luna, furry minions
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+38 reviews
+5.0 out of 5 average rating
+3 years of hosting

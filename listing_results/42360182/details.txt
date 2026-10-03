@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/42360182
+Latitude: 36.13842
+Longitude: -86.76234
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful new 4BR home in Nashville’s vibrant Wedgewood-Houston neighborhood, under 10 minutes from Broadway, the Gulch, and 12 South. Enjoy 2,400 sq. ft. of stylish space with luxury finishes, 4 bedrooms, 2.5 baths, a large living room, dining area, and spacious backyard. Walk to local restaurants, bars, coffee shops, galleries, breweries, and distilleries, with quick access to downtown, GEODIS Park, Bridgestone Arena, and Music City nightlife.
+
+The space
+The house has ample space for large groups and families, sleeping up to 14 people. The kitchen has all new appliances and is stocked with basic cooking supplies, dishes, a coffee maker and more. The large island seats 4 people, and the open dining area has a table to seat 6 more people. The living room includes two couches (one a queen sleeper sofa with a memory foam mattress), and there is a mounted SmartTV equipped with Roku, Netflix, and Hulu. The bedrooms all have brand new mattresses and furnishings. This house is located in one of the most up and coming neighborhoods in Nashville with easy access to the whole city. 
+-Walkable to numerous restaurants, coffee shops, bars, Geodis Stadium, and new luxury shopping.
+-Under 10 minute drive to Broadway, Nissan Stadium, 12 South, and the Gulch.
+-Free street parking at the front of the house, and a gated 2 car carport in the back.
+-Kitchen has cooking supplies including pots, pans, utensils, a blender, Keurig (kcups, sugar and creamer included!), oil and basic seasonings. 
+-Bathrooms stocked with towels, toilet paper, soap, shampoo, and blow dryer.
+-Iron and ironing board provided. 
+-WiFi
+
+You will have access to the entire home. We’ll send you the front door access code by website messenger with entry instructions, therefore none of your guests will get stuck without a key! The host is available if you have any questions or inquiries. 
+There is a Nest doorbell located in the front and a Nest security camera by the back entrance of the home for additional safety and security of the guests.
+
+Guest access
+Guests have access to entire home, backyard, and covered parking pad
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mike
+Host User ID: 336924507
+Host Profile URL: https://www.airbnb.com/users/show/336924507
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+184 reviews
+4.96 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,89 @@
+URL: https://www.airbnb.com/rooms/53415403
+Latitude: 36.2011
+Longitude: -86.7522
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✔️ East Nashville location — minutes to Downtown and Germantown
+✔️ Balcony and private patio for outdoor relaxation
+✔️ 3 bedrooms, 3.5 bathrooms — sleeps up to 8
+✔️ Queen bunk room for families and groups
+✔️ Full kitchen with Keurig and dining for 6
+✔️ Two-car garage and private laundry
+
+The space
+• Modern three-story townhouse designed for families and group getaways
+• Open-concept living room with smart TV and full kitchen for gathering
+• Second-floor balcony and first-floor patio for relaxing between adventures
+• Spacious layout with three private bedrooms and ensuite bathrooms upstairs
+• Perfect for families, friends, and extended Nashville stays
+
+🌅 Indoor & Outdoor Living
+• Open-concept living room with comfortable seating and smart TV
+• Furnished second-floor balcony
+• Private ground-level patio
+• Bright, modern three-story layout
+
+🛏️ Bedrooms & Sleeping Arrangements (Sleeps 8)
+• This home includes 3 bedrooms and 3.5 bathrooms.
+• Bedroom 1 (Primary, 3rd Floor) — Queen bed; ensuite bath with dual vanity and walk-in shower
+• Bedroom 2 (3rd Floor) — Queen bed; ensuite bath with shower/tub combo
+• Bedroom 3 (1st Floor) — Queen-over-queen bunk bed; adjacent full bathroom
+• Baths — Primary ensuite with dual vanity and walk-in shower; second ensuite with shower/tub combo; first-floor full bath; second-floor half bath
+
+🍳 Kitchen & Dining
+• Full kitchen with stainless appliances and basic cookware/serveware
+• Keurig coffee maker, blender, and toaster
+• Dining table seating 6
+• Cookware, bakeware, dishes, utensils, and glassware provided
+• Salt, pepper, and cooking oil are not provided
+
+🏖️ What's Included
+• Private washer and dryer
+• High-speed WiFi
+• Dedicated workspace
+• Smart TV in the living room
+• We provide bedding, towels, and a small starter set of essentials
+
+📍 Location Highlights
+• Minutes to Downtown Nashville and Broadway
+• Close to Germantown, Bicentennial Capitol Mall State Park, and the Nashville Farmers Market
+• Easy access to East Nashville restaurants, breweries, and coffee shops
+• Convenient to Nissan Stadium, parks, and top Nashville attractions
+
+🚗 Parking, Safety & Notes
+• Parking: Private 2-car garage; additional lot parking and street parking available (first come, first served)
+• Stairs: Three-story townhouse; stairs are required
+• Noise: A nearby train may be heard during your stay
+• Pet policy: This home is not pet friendly. If evidence of pets is found, an additional cleaning fee may apply.
+• Check in is at 4:00 PM and checkout is at 10:00 AM.
+
+Registration Details
+Permit # 2019015969
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Delaney
+Host User ID: 388056808
+Host Profile URL: https://www.airbnb.com/users/show/388056808
+Host Profile URL Source: public user permalink from passport userId
+Welcome to Music City! I'm Delaney, your local host. I look after our homes across Nashville, where every stay feels as fun and welcoming as the city itself, from honky-tonks on Broadway to legendary songwriter rounds and live music that fills every neighborhood. My small, local Grand Welcome Nashville team lives where you'll stay, hand-picks every home, and has been welcoming guests to Music City for years. We treat every stay like our own and we can't wait to host you!
+Lives in Nashville, Tennessee
+Response rate: 99%
+Responds within an hour
+6 years hosting
+4071 reviews
+4.63 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/620878572466415506
+Latitude: 36.15906
+Longitude: -86.81818
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in this newly built spacious apartment and live like a true local in Nashville. We're just a short Uber to all of Nashville's best-known restaurants, bars, and attractions. 
+
+Our 2 Queen bedroom apartment comes with a luxurious shower (completed with 3 heads), a fully stocked kitchen, comfy living room, in-unit washer/dryer, and don't forget the outdoor deck w/ ample seating to enjoy the downtown views.
+
+Our sole focus is on creating the best guest experience & ensuring you're comfortable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 1391186
+Host Profile URL: https://www.airbnb.com/users/show/1391186
+Host Profile URL Source: public user permalink from passport userId
+I am originally from the the Washington, DC area and love Nashville!  Unfortunately, I have to travel for business a lot and therefore I enjoy sharing the experience of my Nashville home with the AirBnB community.
+Fun fact: I have traveled to over 60 countries
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+224 reviews
+4.89 out of 5 average rating
+15 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/684178203144141156
+Latitude: 36.2012
+Longitude: -86.75295
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious, trendy and accommodating for parties of all sizes. This music city getaway is minutes to Downtown, the Gulch, night life, the Grand Ole Opri, and much more! 
+Enjoy free garage parking, washer and dryer, full kitchen amentities, and patio seating on our porch decks. The location can't get any better than this! High speed wifi, Cable TV and Roku available. Walking distance to great coffee shops, local food, vintage shopping and more!
+
+Guest access
+You have the whole place to yourself with a private, key pad entrance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Fabio
+Host User ID: 472797617
+Host Profile URL: https://www.airbnb.com/users/show/472797617
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English
+Response rate: 90%
+Responds within an hour
+Superhost
+4 years hosting
+98 reviews
+4.87 out of 5 average rating
+4 years of hosting

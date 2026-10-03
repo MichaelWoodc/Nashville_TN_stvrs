@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1779392598094764338
+Latitude: 36.1823
+Longitude: -86.7348
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🥃 Step through the hidden door into Nashville's best kept secret. A private speakeasy lounge with neon lights, velvet seating & a cocktail bar built for the 'gram.
+
+━━━━━━━━━━━━━━
+✦ Hot tub under string lights
+✦ Fire pit + outdoor lounge
+✦ 3 bedrooms · 7 beds · sleeps 10
+✦ 10 min to Broadway
+━━━━━━━━━━━━━━
+
+🥂 Perfect for bachelorettes, birthdays & crew reunions. East Nashville's trendiest block, walk to the best bars, coffee shops & live music 🎵
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Doug
+Host User ID: 492550606
+Host Profile URL: https://www.airbnb.com/users/show/492550606
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Clean Air BnB’s
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+47 reviews
+4.98 out of 5 average rating
+3 years of hosting

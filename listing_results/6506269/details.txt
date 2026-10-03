@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/6506269
+Latitude: 36.22347
+Longitude: -86.75872
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Highland House is full of amenities and conveniently located 10 minutes to 5 Points with shops/cafes/restaurants galore, less than 15 to Downtown and attractions. Full kitchen (complete with cookware/utensils), bathroom with double vanity tub/shower combo, cozy office/dedicated workspace. Sleeps 4. The space is permitted through Davidson County, TN (permit number 2/0/1/8/0/0/7/9/2/3).
+
+The space
+The Highland House is a cozy, updated 1/1 apartment in East Nashville. Fold-out couch and bed accommodate four. The apartment is separate from the main house and has its own entryway and deck. Apartment is approximately 700 square feet and has a full kitchen with refrigerator, stove, microwave, Keurig, coffee pot, and toaster. Pots, pans, utensils, and dinner ware available in the unit as well. Free cable, Wi-Fi, and washer and dryer.  Shampoo and soap provided. Grab some wine and bubbles and have a relaxing evening!
+
+Guest access
+The apartment is separate from the main house. The attached deck is yours to enjoy during your stay. There is a five-spot parking area-- use as many spots as you'd like. Feel free to toss a football in the back yard or enjoy the deck!
+
+Other things to note
+Weekly and monthly discounts are automatically applied to your booking. If you have questions about this, please reach out. Please also remember that we are on US Central time and do not be discouraged if we don't respond right away - it's probably the middle of the night here!
+
+Regarding pets:
+
+Pets are prohibited.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vanessa
+Host User ID: 34012010
+Host Profile URL: https://www.airbnb.com/users/show/34012010
+Host Profile URL Source: public user permalink from passport userId
+I'm a songwriter. I am a psychotherapist in full time private practice. I love all Nashville has to offer-- music, cafes, parks, events, you name it. It's a lively city. I enjoy solitude as much as spending time with great folks. I know plenty of the out-of-the-way spots here in Nashville that the locals love and can point you in the direction of great music, a great meal, or a nice cafe. 
+
+I look forward to welcoming you to Nashville!
+My work: Psychotherapist
+Speaks English
+Response rate: 100%
+Responds within an hour
+11 years hosting
+304 reviews
+4.68 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1592210028170132440
+Latitude: 35.9389
+Longitude: -86.6637
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 4 room suite with private entrance near Nashville. Close to the hoopla, but when you get ‘home’ you’ll feel comfortably away from it all on this 2.5 acre certified wildlife habitat with rustic landscaping, large trees and creek bed.
+
+The space
+This private suite situated on the north side of the home includes a den, bedroom, full bath with walk in shower and an office (desk, chair and monitor) with a sofa fold-out. The den features dual skylights and views of the pasture and large trees through the sliding glass doors.
+
+Guest access
+Guests have full access to the private suite and may walk the grounds and paths  to view wildlife and plants.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sandra
+Host User ID: 171442110
+Host Profile URL: https://www.airbnb.com/users/show/171442110
+Host Profile URL Source: public user permalink from passport userId
+60 yr old female, married to Mark for 39 yrs. We have four children, two grandchildren and several grand-mammals!
+Born in the 60s
+My work: Retired Nurse
+Response rate: 100%
+Responds within an hour
+3 months hosting
+35 reviews
+5.0 out of 5 average rating
+3 months of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/15909011
+Latitude: 36.22624
+Longitude: -86.73896
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our Ranch home is located right between downtown Nashville and the Opryland area (Grand Old Opry and Opry Mills).  5-10 minute drive from either one depending on traffic and about 15 minutes from the Nashville  Airport.   Great for families, couples, or any groups of up to 6 people.  The home is located on a 1/2 acre lot with private wooded back yard and a great fire pit for socializing and cooking a few smores.  Also check out our urban farm with this link https://www.airbnb.com/rooms/9488800
+
+The space
+Our home has 2 separate bedrooms (1 with a private bath), 2 separate living areas (1 upstairs and 1 down) each having a sofa sleeper, laudry room, a full kitchen with counter height bar, a covered front porch, back deck, and basement access to backyard porch covered by a trellis.  The back yard is wooded so there are no neighbors to the rear.  We have a ROKU TV with cable upstairs, and wireless internet throughout the home as well as a TV for streaming downstairs.  The newly added hot tub is a home run and is perfect for relaxing with your favorite beverage while enjoying the private back yard.  We also provide a welcome basket that has different items for each trip and a starter of coffee, tea and fixings (Kurig as well as a small drip coffee maker).  No need to worry about towels, soaps, etc... as these items will always be available to our guests.
+
+Guest access
+We sincerely hope that you, as our guest, have a fantastic time in Nashville and enjoy our home.  You have complete access to anything and everything at our place and our hope is that you feel as if our place is yours.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 23738553
+Host Profile URL: https://www.airbnb.com/users/show/23738553
+Host Profile URL Source: public user permalink from passport userId
+Janice and I love to help our guests explore Nashville from the amazing restaurants to the music scene and everything in between.  Janice is a retired country singer who now stays at home with our youngest twins while our older twins are now on there own (that's right, we have 2 sets of twins!)  I am in the last 6 years of my career as an IT professional and look forward to running our farm and 2 short term rental properties full time.  We look forward to hearing from you and helping you have a fantastic time in Nashville.
+My work: Opryland / Bakery
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+823 reviews
+4.91 out of 5 average rating
+11 years of hosting

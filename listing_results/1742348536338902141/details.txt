@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1742348536338902141
+Latitude: 36.15979
+Longitude: -86.87831
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bring the whole crew to this bright, modern four-bedroom townhome tucked into The Nations — West Nashville's buzziest neighborhood. Five queen beds and a single sleep up to twelve, with an open living-and-kitchen space made for lingering and a private patio out back for morning coffee or an easy evening wind-down. You're walking distance to craft breweries, coffee shops, and street art, with Broadway and downtown just fifteen minutes away. Music City, made simple.
+
+The space
+Step inside to a bright, open-concept main level where the living room and kitchen flow together into the natural heart of the home. Sink into plush seating, cue up a show or a playlist on the big Smart TV, and let everyone spread out after a day of exploring.
+
+Love to cook? The fully equipped kitchen has what you need for a real meal — stainless steel appliances, generous counter space, cookware, dishes, and a coffee maker for big group breakfasts before the honky-tonks or a late-night snack after the show.
+
+Four comfortable bedrooms are outfitted with five queen beds and a single, comfortably sleeping up to twelve. With three bathrooms, no one's waiting around on those big nights out, and fresh linens and room to unwind make it easy to settle in.
+
+Out back, a private patio gives you a quiet spot for morning coffee, a cold drink at golden hour, or a place for a four-legged travel companion to stretch their legs.
+
+Rounding it all out: an in-unit washer and dryer, central heating and air, fast Wi-Fi, and keyless entry for a seamless arrival. Parking is stress-free too — a secure lot behind an electronic, resident-only gate with room for two vehicles.
+
+Guest access
+You'll have exclusive access to all the amenities shown in this listing during your stay.
+
+Registration Details
+2022035867
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 379189746
+Host Profile URL: https://www.airbnb.com/users/show/379189746
+Host Profile URL Source: public user permalink from passport userId
+I'm a young professional in the tech and hospitality space. I love to explore new places, visit historical sites, and live like a local!
+Response rate: 100%
+Responds within an hour
+6 years hosting
+2875 reviews
+4.75 out of 5 average rating
+6 years of hosting

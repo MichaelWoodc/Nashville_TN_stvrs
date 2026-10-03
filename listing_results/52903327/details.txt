@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/52903327
+Latitude: 36.18886
+Longitude: -86.74615
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 11
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Superhost 10 times in a row brings you...  BRAND NEW, super trendy, luxurious townhome!
+2 CAR GARAGE! 2 BALCONIES! 4 Bedrooms! 4 Bathrooms! The townhome has a beautiful open fully equipped kitchen.  plenty of beds (11) . These townhome has everything you need to make unforgettable memories in Music City!
+
+***We have Starbucks, Publix, Chase Bank at the Location***
+
+The space
+Bed configuration -
+First floor bedroom. (1) - 2 Queen + 1 extra foldable bed
+Second floor bedroom (2) - 2 Full
+Third floor bedroom (3) - 2 Queen + 1 extra foldable bed
+Third floor bedroom. (4) - 1 King
+Living Room: 2 Queen pullout sofa beds
+Each bedroom has a private bathroom.
+This place has been planned thinking about you, the guest. Not one detail overlooked. This house is straight out of a magazine!
+
+Other things to note
+*GREAT FOR LARGE GROUPS*
+The complex has 6 side by side large beautiful NEW townhomes. The complex has the capability of holding up to 72 guests. Each house has 4 bedrooms and 4 baths. We have accommodations that can fit any group size, so please inquire and we can find the best option for you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Itay
+Host User ID: 193140179
+Host Profile URL: https://www.airbnb.com/users/show/193140179
+Host Profile URL Source: public user permalink from passport userId
+Lives in Tel Aviv-Yafo, Israel
+Response rate: 100%
+Responds within an hour
+5 years hosting
+6 reviews
+5.0 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,67 @@
+URL: https://www.airbnb.com/rooms/40834246
+Latitude: 36.18729
+Longitude: -86.76484
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 11
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our cozy casa! One of the most spacious, fully furnished accommodations you'll find in Nashville. Centrally located in the trendy neighborhood of East Nashville, walkable distance to some of Nashville's most popular coffee shops, breweries and restaurants, and a mile to downtown & Germantown.
+
+The space
+From high ceilings, peaceful outdoor spaces and uniquely designed bedrooms to an open first floor layout with an oversized sectional, this private 4 bedroom, 2.5 bath home has it all.
+
+Each space is fully furnished for short and mid-term guests, and meticulously decorated with your comfort in mind! Designer accent walls, plants and unique decor can be found throughout this stylish property. 
+
+The open floor-plan and outdoor spaces are great for entertaining and you will LOVE the oversized sectional couch and 55" TV in the living area. Not to mention high-speed Wi-Fi (1Gbps Fiber) throughout the home.
+
+You may not want to cook on your vacation, but if you do, the kitchen is fully stocked with a coffee bar. 
+
+All four bedrooms either have an en-suite bathroom or are located adjacent to a full bathroom. There is plenty of closet space, comfortable beds and linens and multiple flat screen TVs as well as black out shades. 
+
+Here is a brief description of the rooms and sleeping arrangements throughout the home:
+
+First Floor:
+Bedroom 1 - (1) king bed, w/ large walk-in closet, en-suite full bathroom and flatscreen, smart TV 
+Living Room w/ oversized sectional and flatscreen, smart TV
+Dining Room w/ bar & extra seating 
+Fully Stocked Kitchen w/ coffee bar & pantry 
+Laundry Room w/ full size washer & dryer 
+Half Bathroom
+Front porch w/ swing 
+Backyard w/ deck and fire pit 
+
+Second Floor:
+Bedroom 2 - (2) queen beds w/ couch, flatscreen, smart TV and white board workspace
+Bedroom 3 - (1) queen bed with flatscreen, smart TV and large closets 
+Bedroom 4 - (1) twin bed and (1) twin bunk bed w/ stand-up desk workspace, large closet and private door to full bathroom
+Full Bathroom
+
+Guest access
+You will have full access to the home and yard. There are no shared spaces.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristen
+Host User ID: 17222474
+Host Profile URL: https://www.airbnb.com/users/show/17222474
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in United States
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+77 reviews
+4.99 out of 5 average rating
+3 years of hosting

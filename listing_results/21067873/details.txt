@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/21067873
+Latitude: 36.029
+Longitude: -86.7194
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The apartment is on the ground floor of our home. Please see photo of 2 5-inch steps leading to the bathroom.  That is the only steps inside the apartment.
+
+We live upstairs, but you will have complete privacy during your stay.   This is a safe, quiet and friendly neighborhood.  We have a basset hound and a cavapoo. We try to keep them quiet. They do bark when our guests first arrive but usually get used to them and pay no attention.  The exception would be if the guests bring a dog.
+
+The space
+The house is on a dead end street with little traffic.  We have an acre yard and it is not unusual to see deer grazing in the front yard.   
+
+The kitchen has a Keurig with coffee and tea.  There is Wi-Fi, Wii, and lots of cable channels for your pleasure.  While you rest in the evening or entertain the kids in the morning, a Roku is provided. 
+
+We welcome kids and non-aggressive dogs.  The space is perfect for a family of 4-6 or 4 adults.
+
+Guest access
+To gain entry to the apartment, there is a keypad.  We leave the apartment key on the kitchen table.  Please lock the apartment when you are away. Late night entry is not a problem. You will have complete privacy and we will only interact if you require anything. We want to make you as comfortable as possible and hope you enjoy your stay.
+
+Other things to note
+There is 1 step up to enter the bathroom.  The apartment is not suitable if guests are in a wheelchair.  There is no ramp to get in the bathroom.  Other than that step, everything else after exiting the vehicle, is on level ground.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elaine
+Host User ID: 148785524
+Host Profile URL: https://www.airbnb.com/users/show/148785524
+Host Profile URL Source: public user permalink from passport userId
+My work: Opposition Research
+I'm obsessed with: Sports
+Response rate: 100%
+Responds within an hour
+9 years hosting
+106 reviews
+4.93 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1782231276396430573
+Latitude: 36.0888
+Longitude: -86.7258
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a comfortable and well-equipped 2 BR, 1 BA residence designed to make everyday living easy and enjoyable. Inside, you'll find two inviting bedrooms furnished with a Queen size bed and a double bed, providing flexible sleeping arrangements for individuals, roommates, small families, or visiting guests. The living spaces are designed for comfort and functionality, creating a welcoming environment for relaxing. Enjoy the pool during the warm season.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kayla
+Host User ID: 160735075
+Host Profile URL: https://www.airbnb.com/users/show/160735075
+Host Profile URL Source: public user permalink from passport userId
+My work: Nurse entrepreneur
+Favorite song in high school: Red Red Wine!
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+110 reviews
+4.81 out of 5 average rating
+4 years of hosting

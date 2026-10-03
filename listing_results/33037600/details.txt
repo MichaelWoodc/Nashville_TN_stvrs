@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/33037600
+Latitude: 36.23017
+Longitude: -86.70407
+rental_type: Camper/RV
+property_type: RV
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 6
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Live like the music stars in my tour bus! Parked in a great location of Brentwood TN you’re 15 minutes to downtown Nashville, downtown franklin and Belle Meade!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamison
+Host User ID: 70213252
+Host Profile URL: https://www.airbnb.com/users/show/70213252
+Host Profile URL Source: public user permalink from passport userId
+I'm a young professional who travels often for work. I do not smoke, drink or party and am very clean. I like to stay in nice places that are well taken care of and I always leave a place like I found it. :)
+Lives in United States
+9 years hosting
+1 reviews
+5.0 out of 5 average rating
+9 years of hosting

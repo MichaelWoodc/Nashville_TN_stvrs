@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1550294485960537514
+Latitude: 36.1957
+Longitude: -86.7809
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 8
+beds: 12
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Book both luxury homes for the ultimate Nashville stay! Sleeping up to 24 guests, these modern 4BR retreats each feature a private rooftop lounge, hot tub, and stunning skyline views. Perfect for celebrations, bachelor/ette trips, and group getaways. Just minutes from Broadway, Topgolf, and Nashville’s best dining and nightlife, you’ll have space to gather, relax, and make unforgettable memories.
+
+The space
+Together, these two modern 4-bedroom homes create a spacious Nashville retreat. Guests enjoy open living areas, designer furnishings, and private bedrooms with plush bedding. Outdoor gatherings come alive on dual rooftops with hot tubs and panoramic skyline views—perfect for evenings under the city lights.
+
+8 Bedrooms / 8 Bathrooms – sleeps up to 24
+
+Two rooftop patios each with private hot tub and seating
+
+Three King beds + one triple Full bunk per home
+
+Adjacent units for easy access between groups
+
+Premium finishes and fully equipped kitchens
+
+Guest access
+Each property is equipped with a Yale smart lock—you’ll receive a personalized entry code in your check-in instructions prior to arrival. No keys to keep track of, and easy self check-in any time after 4 PM.
+
+Other things to note
+We’d love to host you, whether you’re visiting for a single night, a month, or even up to six months. At BetterBNB, our mission is to provide a clean, comfortable, and welcoming home where every guest feels cared for.
+
+Your safety and comfort are our top priorities. We take pride in creating a space where you can relax, recharge, and feel at ease during your time in Nashville. Thank you for trusting us with your stay—we look forward to making your experience smooth, stress-free, and memorable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matthew
+Host User ID: 727481755
+Host Profile URL: https://www.airbnb.com/users/show/727481755
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+39 reviews
+4.95 out of 5 average rating
+10 months of hosting

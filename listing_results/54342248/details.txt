@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/54342248
+Latitude: 36.20077
+Longitude: -86.75285
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy easy access to everything from this perfectly located home base. Contemporary East Nashville townhome. 10 minutes from downtown, brand new appliances, pet friendly, open and clean, and a short skip to all cool activities East Nashville. One king sized bed in the master. And one queen sized bed in the guest room. The guest room also has a large desk perfect for working from home. Upstairs washer and dryer. Front patio for a cozy night and a Baldwin piano downstairs for the creatives.
+
+The space
+Townhome built in 2020 with small front patio. Hardwood floors, bright and open spaces. Quality furniture such as a large L shaped desk in one of the bedrooms perfect for anyone working from home.
+
+Guest access
+Unique code on lock
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deborah
+Host User ID: 301026896
+Host Profile URL: https://www.airbnb.com/users/show/301026896
+Host Profile URL Source: public user permalink from passport userId
+I’m in software sales and work remotely so I try to take advantage of that flexibility when it comes to traveling :)
+Born in the 90s
+Where I went to school: Baylor
+Response rate: 90%
+Responds within an hour
+Superhost
+4 years hosting
+20 reviews
+4.85 out of 5 average rating
+4 years of hosting

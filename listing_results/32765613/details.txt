@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/32765613
+Latitude: 36.17736
+Longitude: -86.78985
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a pristine retreat nestled in Germantown —  a historic neighborhood located in the heart of Nashville. Close to downtown and in walking distance to some of the city's best restaurants, this space is perfect for a business trip, couple's getaway, or quick spell in our sweet city.
+
+The space
+The apartment is located on the second floor of a beautiful, historic home. It's been freshly renovated with modern fixtures and beautiful furnishings so you can enjoy the charm of the neighborhood with the convenience of modern day life.  You have your own private entrance and designated parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Megan
+Host User ID: 25160053
+Host Profile URL: https://www.airbnb.com/users/show/25160053
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+8 years hosting
+79 reviews
+4.94 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/24097922
+Latitude: 36.33909
+Longitude: -86.61181
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 11
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly remodeled farmhouse tucked away on 4 acres. Minutes from dozens of local shops and restaurants. A quick 15-20 minute drive from downtown Nashville.
+Spacious open home for large groups. 12 beds, gorgeous kitchen, and 5 relaxing bedrooms make for a super comfortable stay, sleeps up to 16 guests! 
+Enjoy grilling by the pool, the huge deck & large backyard. 
+Please note pool is open Memorial Day-Labor Day. Refunds & credits will not be given for reasons outside our control, such as weather.
+
+The space
+Primary bedroom has large closet, wall hung TV and full bath. Also a gorgeous view of the deck and pool from that room. 
+Guest bathroom is right off of the main gathering area where there is plenty of seating.
+Upstairs has double bunk beds and another bed, great for groups of friends and family! 
+Jack and Jill bathrooms separate the bedrooms. 
+The bunk room can be accessed through one of the bedrooms or from downstairs. 
+
+Front porch is perfect for sipping tea and watching the wildlife go by.
+
+Guest access
+Guests will have access to the entire home, except for the garage which is where the owner stores some personal possessions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonny
+Host User ID: 24007959
+Host Profile URL: https://www.airbnb.com/users/show/24007959
+Host Profile URL Source: public user permalink from passport userId
+British immigrant!
+Realtor in Nashville since 2005.
+Love Sports, Outdoors, Family & Friends
+Christian
+My work: Realtor
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+5855 reviews
+4.81 out of 5 average rating
+12 years of hosting

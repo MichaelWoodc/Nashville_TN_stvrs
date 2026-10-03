@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1745689433550400839
+Latitude: 36.0401
+Longitude: -86.722
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a comfortable stay at Lofts at Rose Monte in this second-floor two-bedroom, two-bath apartment. Featuring two queen beds and a dedicated workspace, this thoughtfully furnished home is ideal for business travelers, relocating professionals, or extended stays. The welcoming layout makes it easy to settle in, unwind, and maintain your daily routine. Conveniently located near downtown Nashville, Brentwood, Nashville International Airport, shopping, dining, and major highways.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jill
+Host User ID: 403357738
+Host Profile URL: https://www.airbnb.com/users/show/403357738
+Host Profile URL Source: public user permalink from passport userId
+I’m a entrepreneur who loves to travel when I am not working!
+My work: Luxury Corporate Lodging
+I spend too much time: Working
+Response rate: 100%
+Responds within an hour
+5 years hosting
+268 reviews
+4.72 out of 5 average rating
+5 years of hosting

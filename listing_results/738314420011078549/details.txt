@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/738314420011078549
+Latitude: 36.1551
+Longitude: -86.76364
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The best of the Country Music Capital is right outside your doorstep when you stay at Muse. This new, chic 2nd floor condo is less than 2 miles from Nashville's most iconic attractions. Perfectly situated within walking to Broadway, Ascend Amphitheater and the Titans Stadium. Muse's rooftop terrace has incredible views of Nashville & is equipped with large screen TV and kitchenette. Enjoy a stylish experience at this centrally-located condo.
+
+The space
+Condo, 1 Bedroom, 1 Bath, Sleeps 6 (6 Adults)
+
+Muse 208 
+
+The best of the Country Music Capital is right outside your doorstep when you stay at Muse. This new, chic 2nd floor condo is less than 2 miles from Nashville's most iconic attractions. Perfectly situated within walking to Broadway, Ascend Amphitheater and the Titans Stadium. The well-equipped modern kitchen features all stainless steel appliances you need to make meals during your stay. Plenty of full length mirrors for getting ready for your day/night out on the town. If you're planning a night in, grab a spot on the couch or in master bedroom and stream your favorite shows on the smart TV or post the day's pictures on social media with free high-speed WiFi. Muse's rooftop terrace has incredible views of Nashville's fireworks display on New Year's Eve and 4th of July. Muse's Terrace is equipped with large screen TV which makes it a perfect location to watch the game, if you weren't able to score a ticket.    
+
+THINGS TO KNOW
+Streaming is available using your own accounts.
+Parking notes: There are a limited number of paid parking spots in the parking garage that are available on a first come, first serve basis. A 50% discount code is available using the QR code validation found inside the condo. 
+Street parking is also available.
+
+This rental is located on the floor 2.
+Elevators for use.
+
+Guest access
+MUSE AMENITIES
+-Rooftop lounge
+-Fitness center
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Johnna
+Host User ID: 177489696
+Host Profile URL: https://www.airbnb.com/users/show/177489696
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+79 reviews
+4.97 out of 5 average rating
+4 years of hosting

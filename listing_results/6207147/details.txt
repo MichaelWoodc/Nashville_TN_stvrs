@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/6207147
+Latitude: 36.17363
+Longitude: -86.75471
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful Victorian home built in 1870s just steps from everything that Nashville has to offer. Walking distance from Five Points, Nissan Stadium (Titans Games), or  a quick ride into downtown. Quaint private bedroom with private bath, high ceilings, eclectic decor, brick patios and balconies.
+
+The space
+Beautiful three-story home built in 1870 with Victorian charm and modern amenities.
+
+Guest access
+Comfortable private room with door for one or two people on the second floor with private bath down the hallway. Access to balconies, large kitchen, formal living room and den, and outdoor patio.
+
+During your stay
+Guests may determine the level of interaction, but should expect a primarily private experience. The house is occupied by the Hosts but no other guests will be present. Hosts will be on-site for portions of the stay and at night.
+
+Other things to note
+The house will be occupied by two people, dogs and a cat. Guests are welcome to shared space including outdoor decks and balconies.
+Our household is fully vaccinated. We appreciate your adherence to the CDC recommendations.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lori
+Host User ID: 32119480
+Host Profile URL: https://www.airbnb.com/users/show/32119480
+Host Profile URL Source: public user permalink from passport userId
+I am a city girl! I love having the best restaurants in town right around the block. I love the sidewalks, people walking dogs, strolling babies, and riding bikes. I love the sunset against the skyline. I love running across the bridges into the city and through the tangle of downtown. I love the sound of music from downtown, cheers from LP Field, laughter from the parks, and the beautiful smiles of my neighbors. I love East Nashville!!
+My work: Env. Consultant
+Most useless skill: Throwing and hosting parties!
+Lives in Nashville, Tennessee
+What makes my home unique: Mixing architecture with an artsy twist!
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+313 reviews
+4.96 out of 5 average rating
+11 years of hosting

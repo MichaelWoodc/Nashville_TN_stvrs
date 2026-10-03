@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1735909422115523116
+Latitude: 36.1074
+Longitude: -86.5078
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+1-Bedroom Guest Home.
+Enjoy comfort, privacy,& convenience in this beautifully furnished private guest home located behind the main residence. This home features its own private entrance, dedicated driveway, and a peaceful porch overlooking a beautiful backyard surrounded by nature.
+Perfect for short-term and mid term stays, this home is ideal for traveling healthcare professionals, business travelers, corporate housing, relocation clients, anyone seeking a quiet, comfortable place to call home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Yazmin
+Host User ID: 167821980
+Host Profile URL: https://www.airbnb.com/users/show/167821980
+Host Profile URL Source: public user permalink from passport userId
+Hi my name is Yazmin, I am a mother, wife, and a respiratory therapist . I love anything that has to do with coffee and beautiful views. We are a family that travels and can’t wait to visit what is out there in the world.
+Response rate: 100%
+Responds within an hour
+2 months hosting

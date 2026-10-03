@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/847035590216801681
+Latitude: 36.1207
+Longitude: -86.6303
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy easy access to everything from this centrally located condo near all Nashville attractions. 
+
+Our son moved here in 2018 to pursue a music career. He filled his home with love & music. When we lost our precious Jared in the Spring of 2021, we couldn't bear to say goodbye to his home and all the personally chosen things inside that still characterize it as Jared's Place. Jared's warm, joyful spirit and so many happy memories still reside here. We hope you make your own happy memories here.
+
+The space
+Downstairs:  Spacious living room with vaulted ceiling; large fully furnished kitchen & dining space; half bath; master bedroom with king bed & adjoining, private full bathroom with walk-in closet.
+Upstairs:  Loft with workspace desk & queen sleeper sofa; second bedroom with queen bed & adjoining private full bathroom.
+Outdoors:  Patio with privacy fence, dining tables, & string lights for nighttime enjoyment.
+
+Guest access
+You will have the entire condo to yourselves.
+
+Other things to note
+OUTDOOR surveillance cameras protect the property.  No cameras are located inside the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cara
+Host User ID: 22342721
+Host Profile URL: https://www.airbnb.com/users/show/22342721
+Host Profile URL Source: public user permalink from passport userId
+I love to travel, and I love hosting fellow travelers. I enjoy sharing the infamous "Southern Hospitality" with our guests. I can't wait to host you and your family! I'm sure you'll love our home as much as we do. In fact, you probably won't want to leave!
+My work: Short Term Rental Manager/Professional Photographer
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+216 reviews
+4.85 out of 5 average rating
+12 years of hosting

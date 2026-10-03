@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/1772448651394173636
+Latitude: 36.1724
+Longitude: -86.7964
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Four levels, four bedrooms, four and a half baths - plus a private rooftop lounge with an infrared sauna, wet bar, Peloton and karaoke. Sleeps 12: a King, two Queens, and Queen-over-Queen built-in bunks, 2 Singles each with an ensuite bath and Smart TV. The main level is pure Nashville: a Bluebird Cafe mural, neon music-venue signs, a gas fireplace, and a songwriting desk with a vintage typewriter. Gourmet kitchen, coffee bar, washer/dryer, free parking, gated complex. Minutes from downtown.
+
+The space
+Please note that there is a Gate around the entire complex (code will be given with checkin instructions)
+
+★ LEVEL 1★ 
+ENTRANCE LEVEL 
+Bedroom 1: Queen Bed w/ensuite full bathroom + Smart TV
+
+★ LEVEL 2★ 
+Kitchen/Living Room/Dining Area with Custom Murals
+Fully Stocked Gourmet Kitchen
+Spacious Living and Dining Area
+**Fireplace is non-operable from March through September** 
+Half Bathroom
+
+★ LEVEL 3★ 
+Bedroom 2: King Bed w/ensuite full bathroom + Smart TV
+Bedroom 3: Queen Bed w/ensuite full bathroom + Smart TV + Single Hotel-Style Rollaway Bed
+ 
+★ LEVEL 4★ 
+Bedroom 4: Queen, Custom Built-in Bunkbeds, ensuite Full Bathroom + Single Hotel-Style Rollaway Bed  + Smart TV
+Songwriter's Lounge with Wet Bar, Karaoke
+Roof deck with Infrared Sauna, Peloton + Smart TV
+
+Guest access
+Private Entrance
+
+Other things to note
+**Fireplace is non-operable from March through September**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steph
+Host User ID: 689254134
+Host Profile URL: https://www.airbnb.com/users/show/689254134
+Host Profile URL Source: public user permalink from passport userId
+Hey y'all! I've lived in Nashville for 20 years and seen it grow from a sleepy town for musicians to the MAJOR HOTSPOT it's become for all to enjoy. It's the best city ever and we are super excited to share it with you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+92 reviews
+4.99 out of 5 average rating
+1 year of hosting

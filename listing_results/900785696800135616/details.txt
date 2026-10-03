@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/900785696800135616
+Title: Chic Haven: The Artisanal Carriage House
+Latitude: 36.1867
+Longitude: -86.7296
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into our meticulously crafted and inviting guest house nestled in the heart of Historic East Nashville's most vibrant neighborhood.
+
+Immerse yourself in convenience with a stroll to iconic spots like Cafe Roze, Rosepepper, Jeni's, and Five Daughter's, all just minutes away. And when the city beckons, a quick 12-minute Uber ride lands you amidst the excitement of Broadway.
+
+Relish in the little luxuries of our space – chill your favorite brews in the Smeg, savor a Nespresso coffee, or unwind
+
+The space
+Welcome to our exquisite 2-bed, 1-bath Airbnb, perfect for up to 4 guests. Immerse yourself in elegance as you step into our gorgeously appointed space. From the sleek lines of the modern kitchen to the refined details adorning every corner, our home offers a truly luxurious experience. Indulge in comfort and sophistication during your stay with us.
+> Linens and Toiletries: We've got you covered with provided linens, towels, shampoo, conditioner, and soaps.
+> Essentials for Your Stay: Toilet paper, paper towels, trash bags, and dish pods are provided for your stay. Please note that we do not replenish these items during longer stays.
+PARKING:
+There is street parking for vehicles around the neighborhood. You may unload in the alley way behind the DADU, but please use the street parking around the neighborhood. The parking pad behind and to the side of the DADU is for OWNER use only.
+
+Guest access
+Keyless entry to the property via keypad.
+
+Other things to note
+While the neighborhood is mostly quiet and safe this is still an urban environment and you should always remain aware of your surroundings and use common sense. We recommend that you don't leave valuables in your car and don't leave the doors and windows unlocked when you leave the house.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/631026335189362028
+Latitude: 36.1905
+Longitude: -86.7726
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+✓ Top 1% airbnb in Nashville
+The avg Airbnb rating in Nashville is 4.80 stars. Now look at this Airbnb's rating. You can trust you've found a great one.
+
+✓ Close to Broadway and restaurants 
+Just 2.3 miles from Broadway in trendy East Nashville, my place is next door to great food, drinks, and coffee.
+
+✓ Post-worthy design. Nap worthy comfort.
+Trendy design that's also comfortable! I've taken the small things that make a stay smooth into account just for you!
+
+The space
+✓ 3 floors of comfort and games
+✓ Restaurants, coffee, and grocery nearby
+✓ Downtown skyline view
+✓ High-speed Wi-Fi + free parking
+
+✗ No elevator (stairs only). 
+
+• 1st floor: sofa bed (qn), half bath, kitchen, living room w/ games
+• 2nd floor: master bedroom (king) with en suite full bath
+• 2nd floor: bunk bedroom (qn over qn) with detached full bath
+• 3rd floor: rooftop deck with skyline view and ring game + dry bar
+
+**Showers are on the 2nd floor only, so please do not book if an elevator is a requirement.**
+
+Guest access
+You will have access to the entire condo via a smart lock keypad.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jason
+Host User ID: 18330359
+Host Profile URL: https://www.airbnb.com/users/show/18330359
+Host Profile URL Source: public user permalink from passport userId
+I’m an adventurous soul with an appetite for experiencing new things, new learnings, and new friends. My focus on top notch service and experiences has led to hundreds of reviews at an avg ~4.96 star rating vs the Airbnb avg of 4.8 stars. I believe this is due to prioritizing very genuine interaction with guests while creating a comfortable and unique stay that is hard to find when traveling.
+Born in the 80s
+My work: Superhost / Nashville Local
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+1346 reviews
+4.97 out of 5 average rating
+9 years of hosting

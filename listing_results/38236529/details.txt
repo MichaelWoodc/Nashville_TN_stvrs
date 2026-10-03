@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/38236529
+Latitude: 36.22959
+Longitude: -86.58707
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Old Hickory Village, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private weekly rental.Owner bedroom dead bolted off from rest at home and will not be there during your stay. Super cute and very clean .convenient to all locations 15 minutes to airport 20 minutes to Opryland 20 minutes to downtown Nashville close to Lakes and Marina’s, restaurants.  No pets or service animals due to
+owner highly allergic and uses home some months, no animals visiting in home.  zero smoking inside home, there is an awesome front porch for that, Thanks a bunch!
+
+The space
+Brand new guest bed ,gas logs inside ,fire pit backyard, park in driveway.
+
+Guest access
+You will have a private home to use. my bedroom and my bathroom are dead bolted ,I will not be there during your stay
+
+Other things to note
+No animals, pets , or service animals.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dawn
+Host User ID: 232237589
+Host Profile URL: https://www.airbnb.com/users/show/232237589
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Responds within a few days or more
+8 years hosting
+4 reviews
+4.5 out of 5 average rating
+8 years of hosting

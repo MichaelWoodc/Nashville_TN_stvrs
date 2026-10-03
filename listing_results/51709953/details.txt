@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/51709953
+Latitude: 36.2036
+Longitude: -86.7419
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 11
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Modern, clean, open condo with a spacious kitchen and living area.  Three  bedrooms and three full bathrooms.
+
+The space
+Master Bedroom:  King bed and has a full master bathroom attached (third floor)
+Bedroom 2:  Two double beds with an attached bathroom (third floor)
+Bedroom 3:  Twin bed and a double bed (first floor)
+Third Full Bathroom is on the second main floor
+Two car private, attached garage 19x19 feet
+
+Guest access
+There is a two car private, attached garage 19x19ft that comes with the rental of the home.  
+Uber and Lyft are used widely and very popular with guests.  
+There are also Lyft and Bird scooters downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 220639011
+Host Profile URL: https://www.airbnb.com/users/show/220639011
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Beech High School
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+684 reviews
+4.95 out of 5 average rating
+8 years of hosting

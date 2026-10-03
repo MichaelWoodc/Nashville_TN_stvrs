@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/53276612
+Latitude: 36.18366
+Longitude: -86.77142
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+3 mins from Topgolf, 8 mins from Downtown and 3 min from Germantown. 
+
+Perfect for big groups and families looking for a comfortable getaway. Updated kitchen fully stocked with all your cooking needs. Spacious living and dining room perfect for entertaining and making forever memories with loved ones! 
+
+Large fenced in backyard with large deck, lounge seating and best of all downtown Skyline views!
+
+Keyless entry!
+
+The space
+3 bedrooms and 2.5 baths. Currently set up to sleep 8 but additional queen mattress available in master walk in closet if needed. 
+
+Massive master bedroom with wet bar and on the go office space! Ensuite master bathroom with double sink, rain shower head and double shower heads.
+
+Guest access
+Plenty of free street parking right in front of the house
+
+Other things to note
+Cameras: 1 ring doorbell in front of house. 1 camera facing backyard and 1 camera facing side yard for security purposes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 37180567
+Host Profile URL: https://www.airbnb.com/users/show/37180567
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+121 reviews
+4.73 out of 5 average rating
+5 years of hosting

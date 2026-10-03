@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/35035409
+Latitude: 36.16297
+Longitude: -86.78334
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In the center of everything downtown, parking pass included.  Walk to Broadway, Second Ave, the Convention Center, Bridgestone Arena, Printers Alley, the Gulch, TN State Capitol, and the Bicentennial Mall. You'll love the brand-new stylish furniture, luxurious amenities, and the convenient location. You'll be greeted with Keurig coffee and high-end tea in a stylish condo. Traveling with a larger group? We have another unit in this building! Ask about our 1-bedroom unit for 4.
+
+The space
+This Airbnb is managed by a team with over 40 years experience in the hospitality and philanthropic industry. It's a super clean condo cleaned with safe and natural cleaning products. The condo is located on a quiet street, but close to everything in downtown. Enjoy!
+
+Guest access
+You'll have the entire condo and the city of Nashville to enjoy!
+
+Other things to note
+-Free Parking!
+Traveling with a larger group? We have another unit in this building! 1-bedroom condo that sleeps 4, ask us about it.
+
+Registration Details
+4686735
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 64181221
+Host Profile URL: https://www.airbnb.com/users/show/64181221
+Host Profile URL Source: public user permalink from passport userId
+I am a constant traveler and wanderer, an advocate for the adventurous, and a local hot spot guru.
+My biography title: Livin' La Vida Buena
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+709 reviews
+4.95 out of 5 average rating
+7 years of hosting

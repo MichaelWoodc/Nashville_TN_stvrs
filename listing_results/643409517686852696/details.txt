@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/643409517686852696
+Latitude: 36.17372
+Longitude: -86.79891
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our home is a 3 Bedroom, 2.5 Bath, relaxation destination. Featuring a spacious backyard with six person hot tub, fire pit, hammock, and covered pavillion. There are four bicycles also available for use.
+
+We are located one mile from downtown Nashville/Broadway, and are a short walk to Germantown, Brooklyn Bowl, Sounds Stadium, The Gulch, and Marathon Village. 
+
+Free street parking is available in front of the house.
+
+We believe that Black Lives Matter, No Human is Illegal, and Love is Love.
+
+Guest access
+The entire home is yours, including the backyard and hot tub. You will have a personalized door code for the front door.
+
+Other things to note
+Any tobacco use inside of the home will result in a minimum $1,000 fine. Full house cleanings for smoke are ~$5,000. 
+Seriously, this is a major undertaking. 
+
+We are happy, fun, loving people. We enjoy sharing our home with you during your stay in Nashville. We equally enjoy returning.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 8880552
+Host Profile URL: https://www.airbnb.com/users/show/8880552
+Host Profile URL Source: public user permalink from passport userId
+Hello from Nashville! We are so excited to welcome you to our home in beautiful Buena Vista.
+My work: Canna Kick It Shoes
+I spend too much time: Playing music.
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+155 reviews
+4.95 out of 5 average rating
+4 years of hosting

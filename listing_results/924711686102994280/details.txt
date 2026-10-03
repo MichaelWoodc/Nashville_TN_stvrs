@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/924711686102994280
+Latitude: 36.10644
+Longitude: -86.74006
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a peaceful private studio minutes from the airport, downtown and much more. You'll have a well-lit space looking into our serene backyard all to yourself. Quickly accessible to all major highways without the noise and traffic. Samsung 55" Smart TV
+
+NO CLEANING FEE!
+
+This is a perfect space for 1-2 people to unwind and recharge after catching a local sports event, enjoying live music, visiting a local university or simply taking advantage of all that Music City has to offer.
+
+The space
+Our home is on a quiet street in the Woodbine/Glencliff neighborhoods. (If you haven't heard of them, we're also considered South Nashville.)
+
+While your room is connected to our home, your space is all to yourself and you'll only see us outside the home if we happen to cross paths.
+
+It's a mostly residential area, but easily accessible to the rest of the city with a car or taxi.
+
+Guest access
+You'll have the guest suite at the back of our house all to yourself with no shared spaces. It has a queen bed with a Nest mattress, mini-fridge, microwave, two-seat couch, closet with hangers, table with two chairs,  toilet and shower. It's also south-facing and gets the best natural light in the home.
+
+There's a door with multiple locks separating your room from the rest of the home.
+
+You have a separate outside entrance that has a lock on the handle as well as a deadbolt.
+
+Feel free to spend time anywhere outside on our property as well. Please be respectful of our neighbors if you do so!
+
+Other things to note
+• Queen bed with Nest mattress
+• Hot-water kettle
+• Brita filter pitcher
+• Specialty instant coffee – not the cheap stuff – provided. Just add water and stir!
+• Windows facing east and south with blackout curtains and blinds
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brad
+Host User ID: 135257753
+Host Profile URL: https://www.airbnb.com/users/show/135257753
+Host Profile URL Source: public user permalink from passport userId
+I like to read, play sports, get outside and explore new neighborhoods.
+Speaks Catalan, English, and Spanish
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+59 reviews
+4.95 out of 5 average rating
+2 years of hosting

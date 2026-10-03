@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/641438887448291222
+Latitude: 36.17884
+Longitude: -86.7462
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My home has been lovingly restored with custom finishes while maintaining historic character. While I may be a bit biased, friends believe it is quirky, unique and soulful. The home also has gardens surrounding it in the middle of the city so you can enjoy both walking to bars and restaurants or having a cocktail on the patio surrounded by flowers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Natasha
+Host User ID: 12268898
+Host Profile URL: https://www.airbnb.com/users/show/12268898
+Host Profile URL Source: public user permalink from passport userId
+Hello!
+My name is Natasha. I have lived in Nashville for almost 10 years. I enjoy biking, my horse and gardening. However, my real passion is to travel- both domestically and internationally. I have traveled in Europe and South America as well as all over the United States. It is the best way to meet interesting people!
+
+Natasha
+Born in the 80s
+Where I went to school: Maryville College
+Response rate: 100%
+Responds within a day
+11 years hosting
+46 reviews
+4.74 out of 5 average rating
+11 years of hosting

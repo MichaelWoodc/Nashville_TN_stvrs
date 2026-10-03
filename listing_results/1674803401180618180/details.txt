@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1674803401180618180
+Latitude: 36.06712587925287
+Longitude: -86.7643645841536
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville getaway in charming Crieve Hall! This comfortable home offers the perfect blend of peaceful neighborhood living and convenient access to everything that makes Music City special.
+After a day of exploring Nashville’s live music, delicious restaurants, shopping, and local attractions, come home to a welcoming space where you can relax and recharge. With easy access to Downtown, Broadway, 12 South, and other popular Nashville destinations, you’ll be close to the action whi
+
+The space
+This comfortable two-bedroom home occupies the entire downstairs level of a duplex, offering plenty of space and privacy for your Nashville stay. 
+
+The primary bedroom features a comfortable queen-size bed, while the second bedroom includes two twin beds, making the home a great fit for families, friends, or couples traveling together. For additional sleeping flexibility, two twin-size air mattresses are also available and can accommodate either kids or adults. 
+
+PLEASE NOTE SLEEPING ARRANGEMENTS: 
+PRIMARY BEDROOM: QUEEN BED = 2 GUESTS
+ADDITIONAL BEDROOM: 2 TWIN BEDS = 2 GUESTS 
+THERE ARE TWO TWIN SIZE BLOW UP MATTRESSES TO ACCOMMODATE 2 MORE PEOPLE IF NEEDED.
+
+A dedicated workspace is available for guests who need to catch up on work during their stay. The fully equipped kitchen has everything you need to prepare meals at home, along with a full-size washer and dryer conveniently located in the kitchen.
+
+Step outside and enjoy your private patio area, complete with a BBQ grill, perfect for relaxing over a meal or enjoying dinner after a day of exploring Nashville. Guests also have access to free on-site parking for added convenience.
+
+With comfortable sleeping arrangements, a functional kitchen, dedicated workspace, in-home laundry, outdoor space, and parking, this home has everything you need for a comfortable and convenient Nashville getaway.
+
+Guest access
+You will receive a custom code to open the front door.
+
+Other things to note
+No Parties or Unauthorized Events
+To help maintain a safe, respectful environment for all guests and neighbors, parties, gatherings, and unauthorized events are not permitted at our properties. This includes events that create excessive noise, bring additional unregistered guests, or disturb surrounding residents. Violations of this policy may result in additional fees and/or termination of the stay without refund.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Diego | Elevate Vacation Rentals
+Host User ID: 657149305
+Host Profile URL: https://www.airbnb.com/users/show/657149305
+Host Profile URL Source: public user permalink from passport userId
+Hey! I'm Diego,  I own & operate Elevate Vacation Rentals. I'm passionate about making every guest feel at home with a safe and clean environment. Our properties are inspected frequently to ensure you have a wonderful stay! I am a natural problem solver and I am known for "having a guy" for anything you could think of.
+Where I went to school: Full Sail University
+My work: STR Owner & Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+44 reviews
+4.95 out of 5 average rating
+2 years of hosting

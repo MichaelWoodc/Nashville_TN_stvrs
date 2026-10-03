@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/28513586
+Latitude: 36.18553
+Longitude: -86.74645
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This home, built in late 1800s, has been newly renovated with modern comforts. Set in a neighborhood of young families, musicians & song writers- this home is walking distance to restaurants, shops, nightlife, grocery, breweries, & more in East Nash.
+
+Embrace the character of the space with original wood floors, and classic Nashville settings on the front patio.
+
+Just a 6-min car ride to the city center (Broadway) where you find museums, shops, restaurants, honkytonks, & more.
+
+The space
+This home has 4 bdrms, & 3 full baths. 
+
+The main floor has a living space, full-kitchen, dining area, 2 bedrooms, 2 baths, and a room for laundry. Bedroom 1 has 1 queen bed. Bedroom 2 has a queen plus two single bunks and en suite bath.
+
+Upstairs, we have 2 bedrooms & 1 bath. Each bedroom on this floor has a queen size bed and a single pull out.
+
+Guest access
+This is a Single-Family Home with an extra-long driveway that can park 2 or more cars. Guests will have access to all living spaces in the home, including 4 bedrooms, 3 bathrooms, backyard, including parking on driveway, and additional street parking is available.
+
+Other things to note
+Our home is over 100 years old and has all the charm of an older build, including much of the original hardwood, refinished to match modern standards. Upstairs has lower ceilings than modern homes, please be cautious when enjoying our home! Enjoy your time in Nashville!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jaison
+Host User ID: 57207942
+Host Profile URL: https://www.airbnb.com/users/show/57207942
+Host Profile URL Source: public user permalink from passport userId
+Hey y'all! Originally from Seattle but fell in love with Nashville while living in NYC. From the city that never sleeps, I moved to Austin where I now never sleep because my twins. But hey, it allows me to be responsive on here!
+
+My Nashville homes have hosted everything from celebrities, recording artists, to simply family reunions and friends gatherings. They were built to entertain as my vacation homes and I hope you enjoy them as much as I do
+Born in the 80s
+My work: IT
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+371 reviews
+4.84 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/823307815093131243
+Title: Music City Stay • Walk to Shops Restaurants
+Latitude: 36.1544
+Longitude: -86.8494
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Big apt in trendy The Nations neighborhood on the edge of downtown. Fast, EZ & cheap to the neon bars Broadway in Downtown Nashville by car. Walk to local food, drinks, coffee shops, bars, live music etc. Locals love this area and you will too. Also very easy to Bridgestone, Nissan Stadium, Ryman Auditorium, Acend and more.
+
+Free and easy parking just outside your door and BAG STORAGE checking in or out!
+
+Easy check-in and out make it the perfect place. Book now!
+
+Permit #2022069772
+
+The space
+This large 1 bedroom apartment is laid out to accommodate those who want to connect but also retreat to your own private space for sleep. The bedroom is perfect for the vampire who doesn't want to see the light of day until they are ready.
+
+Guest access
+The full apartment is 2 bedrooms but for this listing, you'll be the only occupants for the entire apartment and only be booking for 1 bedroom. No one else will be able to book the other bedroom. You'll have the full run of the apartment except for the second bedroom and bathroom. This is strictly used as a short term rental. You won't have to share any space with the owner or any other guests.
+
+Other things to note
+After one stay here, you'll be shocked that people pay enormous prices beyond this to stay in the middle of downtown. Locals know the key to enjoying Nashville is to be able to quickly retreat to a quiet place to recharge your batteries and grab a bite to eat. This apartment and the location will have you staying like a local and coming back over and over again.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 205597402
+Host Profile URL: https://www.airbnb.com/users/show/205597402
+Host Profile URL Source: public user permalink from passport userId
+I love peanut butter! It runs in my family. My grandmother lived to 104 by eating peanut butter daily. Nashville has been home since 1995 except for 5 Tennessee Vols football seasons in Knoxville.  If I couldn't live in Nashville, I'd be in Banff or Moab. My happy place is with my wife and daughters and no cell phone signal. I am a licensed real estate broker and manager with Tandem Realty.
+Born in the 70s
+My work: Tandem Realty
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+4035 reviews
+4.9 out of 5 average rating
+7 years of hosting

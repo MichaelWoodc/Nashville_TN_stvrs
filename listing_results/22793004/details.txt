@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/22793004
+Latitude: 36.04389
+Longitude: -86.62431
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This 4 bedroom home is full of light and open space. Entire house is all yours with large deck, pool and hot tub in privacy fenced back yard, at the end of a cul-de-sac in a quiet neighborhood.  Close to Downtown Nashville/Airport/Percy Priest Lake & Long Hunter State Park.
+
+The space
+The downstairs living area is fully furnished and has a new kitchen, new floors and a gas fireplace.  Kitchen, dining and living area are all open to each other as well as the back deck, yard and pool area, which make it excellent for entertaining or just relaxing. There is a 1/2 bath and master bedroom with with a king bed and en-suite on the first floor as well.
+
+Second level has two bedrooms, one with a queen sized bed and one with a full sized bed. There is an office space/ reading loft as well.
+
+There is also large bonus room above the 2 car garage with queen sized bed.
+
+Guest access
+The entire house and property are open to guests with the exception of the garage and 3 closets, including the master closet, which are locked owner areas.
+
+Other things to note
+Please be respectful of my neighbors and try to leave the home as you found it. 
+
+And please, let me know if you need anything or if I can do anything better!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karen
+Host User ID: 89186789
+Host Profile URL: https://www.airbnb.com/users/show/89186789
+Host Profile URL Source: public user permalink from passport userId
+Lives in Brentwood, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+142 reviews
+4.85 out of 5 average rating
+10 years of hosting

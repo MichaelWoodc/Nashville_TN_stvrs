@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/763033381102390839
+Latitude: 36.18371
+Longitude: -86.76335
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Immerse yourself in luxury at this modern East Nashville rooftop retreat, just minutes from downtown, Nissan Stadium, Top Golf. Enjoy 3 bedrooms, 2.5 baths, and stunning skyline views. Safe and serene, with vibrant dining and nightlife nearby. Book now for an unforgettable experience!
+
+Reach out and ask for special promotion for your dates! Additional guests accommodation available.
+
+The space
+The home is 3 beds, 2,.5 baths, and sleeps 10 comfortably(with 2 additional inflatable beds and 2 sofa beds ). You'll have access to the second and third floors via a separate entrance for complete privacy. 
+
+MASTER BEDROOM
+The second floor has a spacious master bedroom w/ KING bed with TV, desk & large walk-in closet. The ensuite bathroom w/walk-in shower is equipped with towels, shampoo, conditioner, soap, and blow dryer.
+
+GUEST ROOM SINGLE QUEEN
+The second bedroom has a Queen bed with an ensuite jack and jill full bath to share with the additional room across the hall. 
+
+GUEST ROOM DOUBLE QUEENS
+The third bedroom has two Queen beds and a large closet.
+
+LIVING AREAS
+On the 3rd floor, you can find a large living room with a half bath, dining, and kitchen areas that open into a spacious rooftop with sunset views.
+
+There are two parking spots available at the back of the house. Please park there, don’t use parking in front of the house.
+
+Guest access
+Guests will have private access to the second and third floors with a separate private entrance located at the back of the home. Rest assured you’re completely safe, my home is equipped with: smoke-detectors, carbon monoxide detector, fire extinguisher, flashlight, and a first-aid kit.
+
+Other things to note
+I want your stay in Nashville to be the best experience possible. I am generally on-site (on the first floor) if there's anything you need. Your space is approx 1600sq ft, so there's plenty of room! 
+
+*** There are 2 outdoor security cameras which is actively recording audio and video overlooking front and back yard to keep the property safe.
+
+***No shoes in the house.
+
+***Quiet hours 10pm-10am.
+
+***No smoking inside the house or rooftop
+
+***Keep exterior doors & windows closed and locked at all times.
+
+Registration Details
+2021041442
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andrey
+Host User ID: 85961094
+Host Profile URL: https://www.airbnb.com/users/show/85961094
+Host Profile URL Source: public user permalink from passport userId
+I am a Data Engineer who enjoys working with large sets of data. In my free time, I am a hiking enthusiast and think that here is nothing better than mountain adventure!
+Born in the 90s
+My work: Senior Data Engineer
+Response rate: 100%
+Responds within an hour
+3 years hosting
+31 reviews
+4.94 out of 5 average rating
+3 years of hosting

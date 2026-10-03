@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/53832148
+Latitude: 36.17362
+Longitude: -86.77945
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish meets comfort! This 1-bedroom, 1 Bath condo offers a clean, crisp aesthetic, a new walk-in shower, new floors, crisp white walls, & a refreshed kitchen with bar top seating. We can't wait to host you.
+
+The space
+We cannot wait to host you! This is our cozy 1BR, 1BA condo that previous guests have loved, but you will find a clean, crisp aesthetic, a brand-new tiled shower, new floors, paint, decor, and a kitchen with seating. 
+Our comfy, cozy condo is located in the heart of downtown Nashville. You'll feel like a local by being close to all the local Nashville neighborhoods, such as Downtown, E Nashville, and Germantown. Enjoy amenities like our on-site gym, seasonally opened pool, free covered parking, and being just minutes away from everything Nashville has to offer. 
+Our home has a single bedroom with a desk perfect for getting ready or working and a balcony with breathtaking views of the Cumberland River. Plus, you can walk to Nissan Stadium, Broadway, or Germantown!
+This condo is perfect for couples or small groups wanting to be close to all the action Nashville offer.
+
+Guest access
+The whole condo is yours to enjoy all to yourself.
+
+Other things to note
+IMPORTANT DETAILS and HOUSE RULES:
+- Before booking, please read/ understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+- Parties and/ or Events are not permitted at this property & may result in the removal of your group from the premises without a refund.
+
+House Rules
+Minimum Booking Age: 25 years old.
+No Pets: No pets allowed, including emotional support animals.
+No Locals: Local guests are not permitted.
+No Parties or Events: Only registered guests are allowed in the home.
+No Smoking: Smoking is prohibited inside the home and on the property.
+No Weapons: Weapons of any kind are not permitted in our home or on our property. 
+No Rearranging Furniture: Please do not move furniture.
+No Confetti or Tape: Please do not use tape or adhesive of any kind on our walls. *Damages will be charged to you.*
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 436053301
+Host Profile URL: https://www.airbnb.com/users/show/436053301
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+141 reviews
+4.84 out of 5 average rating
+5 years of hosting

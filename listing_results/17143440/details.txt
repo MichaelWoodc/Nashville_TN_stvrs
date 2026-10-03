@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/17143440
+Latitude: 36.13545
+Longitude: -86.78281
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Live the Nashville lifestyle in this home belonging to an established songwriter. It's full of musical instruments, including a piano and guitars for guests' use. High-end finishes throughout and a dutch door opens out to the yard. Comfortable and quiet, right in the middle of all the action Nashville has to offer. 
+
+We are following Airbnb's strict cleaning protocol during this time and are committed to keeping our guests safe and healthy by properly cleaning and sanitizing all commonly used surfaces (door handles, light switches, remotes, and many more). 
+
+Permit #2017055472
+
+Located behind a 4,000 sq ft century home, this house was built in March. It is a custom design, built to utilize every square inch. It is the home of an established Nashville songwriter and is filled with musical instruments and a wonderful creative energy.
+
+Full access to the entire house. Including the gorgeous 100 year old piano.
+
+Someone will be on-site and available as needed
+
+Set in one of the best areas of Nashville, the house is located just off of Route 65. This house is mere minutes from Downtown and just blocks away from the 12 South neighborhood, Vanderbilt, Belmont, and Music Row.
+
+The house is located in a very central area. Just a $6 Uber ride will get you downtown. Ample parking is always available as well if you're driving.
+
+The space
+Located behind a 4,000 sq ft century home, this house was built in March. It is a custom design, built to utilize every square inch. It is the home of an established Nashville songwriter and is filled with musical instruments and a wonderful creative energy.
+
+Guest access
+Full access to the entire house. Including the gorgeous 100 year old piano.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Will
+Host User ID: 103498825
+Host Profile URL: https://www.airbnb.com/users/show/103498825
+Host Profile URL Source: public user permalink from passport userId
+I'm a professional songwriter/producer here in Nashville, TN.
+My work: Songwriter
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+798 reviews
+4.91 out of 5 average rating
+9 years of hosting

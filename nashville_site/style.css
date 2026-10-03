@@ -83,3 +83,15 @@ body.dark-mode #violationStatsDialog,body.dark-mode #revenueDialog{background:#1
 #rentalTypeOptions{max-height:260px;overflow-y:auto;margin-top:10px}
 #rentalTypeOptions label{display:flex;align-items:flex-start;gap:6px;margin:7px 0;font-size:12px}
 .host-capacity-note{flex:1 0 100%;font-size:12px;line-height:1.5}
+
+#otherPermitStatuses .permit-grand-total{font-weight:700;font-size:15px;border-bottom:2px solid #bacad5;padding-bottom:12px}
+#otherPermitStatuses .permit-current{background:#dcfce7;color:#166534;font-weight:700;padding:9px 8px;border-left:4px solid #15803d}
+body.dark-mode #otherPermitStatuses .permit-current{background:#164e3a;color:#bbf7d0;border-color:#4ade80}
+
+.host-metric .host-cap-number{color:#b91c1c;font-weight:800}
+body.dark-mode .host-metric .host-cap-number{color:#fca5a5}
+.host-metric{white-space:nowrap}
+
+.maplibregl-popup-content details{margin:8px 0;padding-top:6px;border-top:1px solid #94a3b844}.maplibregl-popup-content summary{cursor:pointer;font-weight:600}.maplibregl-popup-content details[open]>summary{margin-bottom:8px}
+
+#cookiePrompt{position:fixed;z-index:3000;bottom:16px;left:50%;transform:translateX(-50%);width:min(520px,calc(100vw - 40px));padding:16px;background:white;color:#172b3b;border:1px solid #94a3b8;border-radius:8px;box-shadow:0 4px 24px #0004}#cookiePrompt[hidden]{display:none}#cookiePrompt p{margin-top:0;font-size:14px}#cookiePrompt button{padding:8px 18px}

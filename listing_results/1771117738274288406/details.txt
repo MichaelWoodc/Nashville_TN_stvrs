@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1771117738274288406
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 1 bedroom condo queen size bed that sleeps 2, bathroom, cozy living room with a sofa bed that sleeps 2, very moderate kitchen area with a coffee bar, free WiFi and patio looking over the pool. Fitness center, rooftop pool, free covered garage parking( I would have to send a different link just let me know if you need parking), grilling stations, Indoor sky lounge and conference room. Secure building access with keypad entry. Walkable distance to shopping, restaurants and more.
+
+The space
+Just steps away from Nashville top attractions: 
+Broadway- 8 minute walk
+Bridgestone Arena- 10 minute walk
+Ryman auditorium- 15 minute walk
+Music Hall of Fame- 8 minute walk
+Nissan Stadium- 8 minute drive 
+The Gulch (shopping and dining)- 15 minute drive
+
+Guest access
+Guests has access to the whole house
+
+Other things to note
+STRPermit# T2022056553
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Keza
+Host User ID: 1705999168864402036
+Host Profile URL: https://www.airbnb.com/users/show/1705999168864402036
+Host Profile URL Source: public user permalink from passport userId
+My work: I do security
+What makes my home unique: The location and comfort.
+Response rate: 100%
+Responds within an hour
+New Host
+3 reviews
+5.0 out of 5 average rating

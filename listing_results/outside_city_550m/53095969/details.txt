@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/53095969
+Latitude: 36.1703
+Longitude: -86.4733
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just 13 miles from the airport, this gorgeous home will make your stay in Tennessee a lot more convenient. Mount Juliet has a great shopping area and tons of local places for lots of fun. Less than 20 miles and you're in Nashville! Lots of space for the whole family or group of friends. Small movie theater, indoor and outdoor fireplace, large backyard with canopy, full kitchen, and small bar. A large driveway for up to 4 cars. Come explore Nashville, then enjoy some peace in this beautiful town.
+
+Other things to note
+When you book Risa, we want you to enjoy your time with us worry free. Tidying up is appreciated but NOT required. we have a fantastic cleaning crew! All we ask is that
+you don't damage the place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jean
+Host User ID: 107413266
+Host Profile URL: https://www.airbnb.com/users/show/107413266
+Host Profile URL Source: public user permalink from passport userId
+Creative who loves to travel and love people
+My work: Engineer
+Fun fact: I am a polyglot
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+106 reviews
+4.89 out of 5 average rating
+4 years of hosting

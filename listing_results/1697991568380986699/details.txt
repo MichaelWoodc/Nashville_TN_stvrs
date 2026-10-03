@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1697991568380986699
+Latitude: 36.1858
+Longitude: -86.7119
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Bright & spacious East Nashville home in safe and family oriented Rosebank Neighborhood. Perfect for families & groups. Enjoy an open-concept kitchen with huge island & bar seating, farmhouse dining table for 8+, and cozy living area with leather sofas and 3 fire TVs. Outdoor living area. Two queen beds in the primary bedroom with private deck access. Hardwood floors, vaulted ceilings, and tons of natural light.
+
+Ideal base for Music City adventures!
+
+The space
+Master Bedroom includes en-suite bathroom with dual head shower. Vaulted ceiling and fire TV. There is also a desk space. 
+
+Bedroom 2 includes two full sized beds. 
+
+Bedroom 3 includes queen / twin bunk.
+
+Registration Details
+2025043506
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Philip
+Host User ID: 1697990116340465172
+Host Profile URL: https://www.airbnb.com/users/show/1697990116340465172
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+3 months hosting
+8 reviews
+5.0 out of 5 average rating
+3 months of hosting

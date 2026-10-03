@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/665320023174484814
+Latitude: 36.2031
+Longitude: -86.76446
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Pet Friendly in East Nashville. 7 minutes to Broadway. Full kitchen. Plenty of parking.
+
+This stylish home has a large, fully fenced backyard perfect for your pups to run free or the group to unwind after a night out. Guests love it.
+
+Great base for Titans games, CMA Fest, and bachelorette weekends.
+
+Close to Nissan Stadium, Ascend Amphitheater, The Basement East, and Attaboy. Whether you're here for a concert weekend, a group getaway, or soaking up Music City, this is your base camp.
+
+The space
+The space is a 3 Bedroom 2 Bath Craftman home originally built in the late 1940s.  In 2021 it underwent a full renovation to add all the modern touches you would expect in a new home.  With granite countertops, Hardwood floors throughout, a brand new dream kitchen, and an oversized shower in the primary bathroom this house will exceed your expectations, and have you never wanting to go home.
+
+Guest access
+You will have access to the entire house.
+
+Other things to note
+Your pets are welcome here! The pet fee is $75 per stay for up to two pets. Have more than two? 
+
+Just message me before booking for approval at $75 per additional pet.
+
+A couple of things to keep in mind: pets should be crated when you're away from the house, and we ask that they're not left unattended in the backyard
+
+Neighborhood Info
+You'll be staying on a wonderful, quiet street in a vibrant East Nashville neighborhood. Like any city, we recommend standard precautions — lock your car and keep valuables out of sight. The neighbors are friendly and the street has a great community feel.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 59952441
+Host Profile URL: https://www.airbnb.com/users/show/59952441
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+71 reviews
+4.96 out of 5 average rating
+11 years of hosting

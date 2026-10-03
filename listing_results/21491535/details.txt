@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/21491535
+Latitude: 36.14021
+Longitude: -86.83828
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly restored 1930s Craftsman home in the heart of Sylvan Park neighborhood, just ten minutes from downtown Nashville. Only one block from many wonderful restaurants, shops, and attractions favorited by locals, as well as McCabe Golf Course, Community Center, and 3.8 mile Greenway loop. Plenty of living space and parking, and an easy cab ride to Broadway, The Gulch, Hillsboro Village, 12South, Vanderbilt, Belmont, etc.
+
+The space
+We keep everything very clean, tidy and comfortable. Kitchen is fully stocked with any cookware and dishware you may need, as well as a Keurig and drip coffee maker. Please let us know if there's anything we can do to make your stay more enjoyable. 
+
+Parking: Driveway can park three cars comfortably, one of which will be under the carport. There is additional parking on the street for at least three more vehicles.
+
+Guest access
+You will have sole access to our full kitchen, dining room, living room, and full bath downstairs, as well as two bedrooms and another full bath upstairs. There is also a back porch/mudroom and a front porch great for relaxing and people-watching. Please note there are two other owner's rooms in the house, but these will remain locked and unoccupied during your stay.
+
+Other things to note
+PLEASE NOTE: The two single beds in the cubbies upstairs are normal width but three inches shorter in length than standard twin size.
+Also, we do not have a washer/dryer available for use, but there is a laundromat one block away.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joe & Sarah
+Host User ID: 103628248
+Host Profile URL: https://www.airbnb.com/users/show/103628248
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+208 reviews
+4.96 out of 5 average rating
+9 years of hosting

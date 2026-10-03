@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/969698230667452010
+Title: Midtown Studio, Free Parking, No Hidden Fees.
+Latitude: 36.15932
+Longitude: -86.81457
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Free Parking - Studio near West End, Vanderbilt and downtown attractions!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Marcus
+Host User ID: 483819242
+Host Profile URL: https://www.airbnb.com/users/show/483819242
+Host Profile URL Source: public user permalink from passport userId
+I'm OCD about cleaning and I'm not home alot! I'm very easy going and I want to be easy to do business with. I also love living in Franklin, TN!
+Where I went to school: Allen High School
+My work: Director - Product.
+Response rate: 90%
+Responds within an hour
+Superhost
+4 years hosting
+513 reviews
+4.95 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/47052397
+Latitude: 36.23554
+Longitude: -86.73446
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our peaceful getaway! Located in the East Nashville neighborhood of Gra-Mar Acres, we're a short drive to Downtown Broadway (15 min), the airport (15 min), and the Grand Old Opry (7 min). 
+
+Guests have access to the entire downstairs floor of the duplex with a private entrance, huge bathroom, and huge bedroom. The place is filled with all sorts of luxury amenities for the best stay possible!
+
+The space
+Recently renovated, our unit has everything you'll need for a comfortable and luxurious stay. A few highlights: 
+
+- Brand new king mattress with high quality bedding, noise machines, and comfort linens. 
+
+- A fully stocked kitchenette that includes basic cooking supplies, a burner, and a Ninja Foodie oven. 
+
+- Electric kettle and French press with coffee and creamer provided.
+
+- Plenty of entertainment -- 2 LCD Smart TVs, multiple portable speakers, and games. 
+
+- A spa-like bathroom with tons of storage, a Jacuzzi tub, and double head shower. 
+
+- A dedicated parking space, full yard, and covered patio with seating. 
+
+- Full sized laundry with all supplies provided.
+
+Guest access
+You'll have access to the entire bottom unit of the home. The only shared portion is the driveway.
+
+We also have a professional photo studio with hospitality area on site -- please message us if you would like to talk about reserving the space for your group! We offer a discount to all of our AirBNB guests.
+
+Other things to note
+Please note that we reside upstairs and you may hear the noises of life above you! We provide earplugs and sound machines to help with sleeping. If you’re looking for 100% silence and separation, this may not be the place for you to stay, and we completely understand.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 157297809
+Host Profile URL: https://www.airbnb.com/users/show/157297809
+Host Profile URL Source: public user permalink from passport userId
+My work: Me
+2 years hosting

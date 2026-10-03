@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/704964438271924058
+Latitude: 36.1715
+Longitude: -86.755
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! Enjoy a stylish experience at this centrally-located apartment. Walk to Titans games, 5 Points or jump in a quick Uber to Broadway. This cozy 1 bedroom apartment has its own private entrance and bathroom and no steps to climb. A nice queen sized bed with soft linens. Plenty of yummy restaurants within a stones throw as well as a couple arcades & breweries. There's even The Basement East just 2 blocks away, to go see a live show. Guest house is non smoking inside #2022057108
+
+The space
+The space is an open studio with a kitchenette and a big bathroom.
+
+Guest access
+Guests have access to the parking spot in the back of the house and the area that’s inside the fence around the apartment.
+
+Other things to note
+We do have a couple of pups that will occasionally be on the other side of the privacy fence. The gate to our backyard will be locked so they will not have access to your enclosed area. Their names are Chester (10) & Mimosa (2)
+
+Also our neighbor has a 2 bedroom apartment to rent as well. So if you have a larger group you can rent both and be very close to one another https://www.airbnb.com/h/staywiththegibsons
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allyson
+Host User ID: 7076675
+Host Profile URL: https://www.airbnb.com/users/show/7076675
+Host Profile URL Source: public user permalink from passport userId
+Hi- We are hosts ourselves in Nashville, TN. We love traveling and meeting new people all over the world.
+Born in the 70s
+My work: Realtor
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+182 reviews
+4.94 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,85 @@
+URL: https://www.airbnb.com/rooms/1532730830624260697
+Latitude: 36.11139828658906
+Longitude: -86.89761379765204
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Hilltop Retreat in peaceful West Meade just outside Nashville. This modern western rancher sleeps 12 and blends rustic charm with modern comfort. Relax in the hot tub, cool off in the swim spa, or gather around the fire pit. Grill and dine outdoors in the private backyard oasis. Central yet private. 
+
+20 minutes from BNA
+12 minutes from Broadway
+($20-$35 Uber Ride) 
+
+*Special Note: this property is NOT a glamping property.
+
+The space
+About the Space
+
+Living Area:
+Relax in the spacious living room featuring a large couch, a full-size futon, and plenty of games for entertainment. Enjoy a movie night on the Fire Stick TV with YouTube TV included.
+
+Kitchen:
+Cook and dine with ease in the fully equipped kitchen. You’ll find indoor/outdoor dishes, a crockpot, air fryer, coffee pot (regular & Keurig, filters provided), baking sheets, pots and pans, storage containers, mixing bowls, and a stock pot — everything you need to make yourself at home.
+
+Dining Area:
+Gather around the large dining table with seating for all 12 guests — perfect for family meals or game nights.
+
+Laundry Area:
+Washer, dryer, ironing board, iron, broom, and vacuum are available for your convenience.
+
+Basement:
+Enjoy extra lounge space in the cozy basement, complete with a Fire Stick TV (YouTube TV included) and an additional fridge.
+
+Bedrooms & Bathrooms:
+
+Bedroom A: King bed, closet includes a pack-n-play and highchair
+
+Bedroom B: King bed
+
+Bathroom 1: Shared between Bedrooms A & B
+
+Bedroom C: King bed
+
+Bedroom D: King bed
+
+Bathroom 2: Shared between Bedrooms C & Lounge Space 1
+
+Lounge Space 1
+
+Lounge Space 2
+
+Bathroom 3: Shared between Bedrooms D & Lounge Space 2
+
+Guest access
+Guests have full access to the entire home, including the basement, front yard, and backyard spaces. The detached garage behind the home is not accessible to guests.
+
+Other things to note
+There are stairs to enter the home. Once inside, all living spaces, kitchen, bedrooms, and bathrooms are on the main level, with no additional stairs unless you choose to visit the basement.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Your Glamping Adventure
+Host User ID: 467848636
+Host Profile URL: https://www.airbnb.com/users/show/467848636
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+440 reviews
+4.94 out of 5 average rating
+4 years of hosting

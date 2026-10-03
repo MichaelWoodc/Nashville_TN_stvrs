@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/30935680
+Latitude: 36.1665
+Longitude: -86.8574
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This hip neighborhood is only 6.4 miles from the action-packed excitement of Broadway's downtown nightlife & Bridgestone Arena .  Many great local dining options, brewpubs & coffee shops are just minutes away - some within walking distance.  You will love the having your own cozy space to relax in and appreciate the option to dine-in with the well stocked kitchen.
+
+The space
+Sip your morning coffee on the sunny front deck or lounge on our deluxe Bernhardt leather sectional in this Comfy Cottage. The  decor is a charming mix of old & new with bedroom decor that soothes the senses.  The Rose Room features restful dusty rose, gray and gold colors while The Flower Room's vintage wood and lovely art will be sure to please. 
+Ideally suited for 4 guests.
+
+Guest access
+Guests will enter their suite through their own front door off a large common deck that runs the length of the duplex.  This deck is shared with Unit C but there is plenty of space as the deck is almost 60 feet long.   Once inside, your space is 100% private with your own kitchen, living, bathroom and 2 bedrooms.  The Free Parking area behind the house allows for 2 cars per Unit.
+
+Other things to note
+Drive time to downtown is between 12 - 15 minutes based on traffic.
+
+Lyft and Uber Rates to Downtown are approximate and vary with supply of drivers and demand of riders.
+1. To Bridgestone Arena & Downtown Broadway - $15
+2. To the Airport - $25
+3. To Nissan Stadium - $15
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leslie
+Host User ID: 224824154
+Host Profile URL: https://www.airbnb.com/users/show/224824154
+Host Profile URL Source: public user permalink from passport userId
+I am a rental property owner and manager in Nashville, TN. My husband and I have three  AirBnBs. We love hosting and we love the convenience of booking AirBnBs when we travel.
+Born in the 60s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1353 reviews
+4.92 out of 5 average rating
+8 years of hosting

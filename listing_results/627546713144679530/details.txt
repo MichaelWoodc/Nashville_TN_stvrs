@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/627546713144679530
+Latitude: 36.1602
+Longitude: -86.8225
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+We are located 2.5 miles from downtown Nashville and close to TSU, The Nations, Sylvan Park and West End! Room has a detached full bathroom
+ just for you to use. 
+
+You’re welcome to roam our backyard oasis, feed the chickens and even take some eggs if you’d like! We are a family of three  and also have a friendly pup, Lola. Happy to give any and all recommendations!
+
+We look forward to hosting you :)
+
+Permit
+T2023100829
+
+The space
+We live here full time and love hosting travelers :) The house was built in 1945!
+
+Guest access
+Guest Room & Guest Bathroom use only.
+
+During your stay
+We love getting to know our guests but understand everyone has their own agenda. We would love to get to know you but if you want to stay to yourself, that's totally fine by us! We respect your privacy.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Liza
+Host User ID: 14477385
+Host Profile URL: https://www.airbnb.com/users/show/14477385
+Host Profile URL Source: public user permalink from passport userId
+Howdy! Family of three who loves to host. We can’t wait to meet you!
+Speaks Spanish
+Lives in Nashville, Tennessee
+Pets: Lola - Part cow part seal (pit mix dog)
+Response rate: 100%
+Responds within a few hours
+Superhost
+4 years hosting
+107 reviews
+4.98 out of 5 average rating
+4 years of hosting

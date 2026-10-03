@@ -1,0 +1,78 @@
+URL: https://www.airbnb.com/rooms/879210308320403842
+Latitude: 36.1737
+Longitude: -86.7473
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Discover our charming, designer-curated East Nashville cottage, blending quiet residential comfort with vibrant city access. This unique bungalow features a hot tub, EV charger, and dedicated workspace, comfortably accommodating guests seeking a stylish retreat. Located in the walkable East End, you're minutes from top restaurants, bars, and coffee shops, with downtown Nashville just a 5-10 minute drive. Perfect for a memorable Music City experience.
+
+The space
+Step into our inviting, designer-curated bungalow, where every detail is crafted for your comfort and enjoyment. This single-level home ensures easy access for all guests.
+
+Living Room: Relax in the chic living room, featuring soothing sage green walls, two plush tan leather sofas, a colorful area rug, and a cozy white-painted fireplace. It's an ideal spot for unwinding after a day of exploration.
+
+Dining Room: Enjoy meals in the sophisticated dining room, adorned with bold, dark teal walls and illuminated by a modern spherical light fixture, creating a moody and elegant ambiance.
+
+Kitchen: Our galley-style kitchen boasts sleek dark cabinetry and modern appliances, including a premium GE Cafe stainless steel gas stove with a double oven. A dedicated coffee station, complete with espresso and Keurig machines, ensures your mornings start perfectly.
+
+Bedrooms:
+Bedroom 1: Find serenity in this peaceful escape, featuring a beautiful woven rattan bed frame for a restful night's sleep.
+Bedroom 2: This versatile room doubles as a dedicated workspace with a large desk setup, perfect for remote work. French doors open to an outdoor space, inviting fresh air and natural light.
+
+Bathrooms:
+Bathroom 1: Indulge in the unique charm of this bathroom, featuring intricate floral wallpaper and a refreshing walk-in shower.
+Bathroom 2: A larger bathroom offers a classic clawfoot tub, thoughtfully adapted for showering, providing both comfort and style.
+
+Outdoor Spaces: Step outside to a comfortable screened-in porch, furnished with a sectional sofa for leisurely afternoons. The wooden side decking hosts your private inflatable hot tub, perfect for soaking under the stars.
+We've equipped the cottage with modern conveniences including:
+
+Stacked washer and dryer unit
+Level 2 EV charger
+Sonos sound system for your entertainment
+Blazing fast Wi-Fi at 591 Mbps
+Wide array of HDTV streaming options
+
+Guest access
+You will have exclusive access to the entire charming cottage during your stay, ensuring complete privacy and comfort. This includes:
+
+All indoor living spaces
+Both bedrooms and bathrooms
+The fully equipped kitchen
+The relaxing screened-in porch
+The outdoor decking with the inviting hot tub
+
+Other things to note
+Please take note of these important details for your stay:
+   Owner-Occupied Rental: This is an owner-occupied short-term rental. While personal items are stored discreetly, rest assured the property will be solely occupied by you during your stay, and nothing of a personal nature will be visible or in your way.
+   Child Amenities: A Pack ’n play/Travel crib is always available at the listing for our youngest guests, ensuring a comfortable stay for families.
+   Smart Home Features: Enjoy the convenience of Google Home Automation. Simply say "Hey Google, set the lights to 10%" for easy control and a lovely night's rest.
+   Security: For your safety and peace of mind, exterior security cameras are present on the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 266085855
+Host Profile URL: https://www.airbnb.com/users/show/266085855
+Host Profile URL Source: public user permalink from passport userId
+Easy going, caring individual. :)
+Born in the 70s
+Where I went to school: Sikeston Missouri
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+193 reviews
+4.97 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/18855406
+Latitude: 36.19986
+Longitude: -86.76613
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 3
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Property is a 4 BD 3 BA house w/ double porches offering sunset views. All hardwoods/heated master bath floors. 12 Beds w/ memory foam mattresses in each house. 
+32" by 12" cedar pergola in backyard for parties, events dining - tables/seats for 24.
+Double decks w/ sunset views - large outdoor sectional, fire pit & lounge chairs on bottom deck * patio set on top deck. 6 person hot tub recessed into deck that is professionally maintained. Large Outdoor granite kitchen. Gated Parking for 6 cars.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 648993
+Host Profile URL: https://www.airbnb.com/users/show/648993
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+15 years hosting
+122 reviews
+4.96 out of 5 average rating
+15 years of hosting

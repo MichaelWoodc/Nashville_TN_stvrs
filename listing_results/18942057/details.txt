@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/18942057
+Latitude: 36.1432
+Longitude: -86.8221
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a quiet, safe neighborhood just minutes from downtown Nashville! This comfortable 1-bedroom apartment is across from the Richland Greenway, offering a peaceful walk/bike ride to Centennial Park and the iconic Parthenon. Vanderbilt and West End are nearby, with lower Broadway just a 5-minute drive. Enjoy a private driveway, private outdoor area, full kitchen, WiFi, washer/dryer access, and easy access to the airport (20 min) & interstates. Perfect for a relaxing stay in Nashville!
+
+The space
+This charming 1-bedroom apartment offers comfort and convenience in a prime location. Featuring beautiful hardwood floors, a queen bed with a TV in the bedroom, a full kitchen stocked with essentials for cooking, and a private outdoor area, it’s perfect for a relaxing stay. Enjoy the ease of a private washer and dryer, plus off-street parking in your own driveway. Just minutes from downtown, this space is ideal for couples or solo travelers looking for a home away from home!
+
+Guest access
+The entire space is yours to use. You will have electronic key access.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

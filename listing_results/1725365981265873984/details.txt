@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1725365981265873984
+Latitude: 36.1438
+Longitude: -86.763
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Urban Oasis, a sleek 3BR/2BA townhome just 5 minutes from Downtown Nashville. Sleeps 12 with a king suite, 2 queen beds, full-over-full bunks, and a sofa bed. Enjoy modern design, high ceilings, walk-in showers, and an open-concept kitchen and living area. Relax on the outdoor patio or courtyard view. Perfect for families or groups seeking comfort, style, and proximity to Nashville’s top attractions.
+
+The space
+Spread out across **three stories** in this spacious Nashville townhome designed for groups, weekend getaways, and longer stays. With two private bedrooms plus a dedicated bunk sleeping area, there’s plenty of room for everyone to settle in without feeling crowded.
+
+The multi-level layout gives your group the perfect balance of shared spaces and privacy. Kick back in the living area, stream your favorites on one of the multiple Smart TVs, or step outside and enjoy some fresh air on the private patio.
+
+Located on 2nd Ave South, you’ll have easy access to everything Nashville has to offer while still having a comfortable home base to come back to.
+
+★ 3-story Nashville townhome
+★ 2 private bedrooms
+★ Dedicated bunk sleeping area
+★ Multiple Smart TVs
+★ High-speed WiFi
+★ Outdoor patio
+★ Fully equipped kitchen
+★ Spacious living & gathering areas
+★ Great setup for families, friends & groups
+★ Convenient access to Downtown Nashville & surrounding neighborhoods
+
+Whether you're here to explore Nashville, catch a game, experience the nightlife, or simply spend time together, this townhome gives your group the space and convenience to make the most of the trip.
+
+Guest access
+Guests will have private access to the entire 3-story townhome throughout their stay.
+
+Come and go on your own schedule and enjoy the space like it’s your own. Check-in instructions and access details will be provided before arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Onyx Stays
+Host User ID: 709581707
+Host Profile URL: https://www.airbnb.com/users/show/709581707
+Host Profile URL Source: public user permalink from passport userId
+We are Officers in the military and want to get into business and self development.
+My work: U.S. Army Officer
+I spend too much time: In the Gym
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+699 reviews
+4.92 out of 5 average rating
+1 year of hosting

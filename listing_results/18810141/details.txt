@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/18810141
+Latitude: 36.13435
+Longitude: -86.85862
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private pet-friendly 2BR suite in Nashville with a full bath, living room, dining area, and easy parking. Guests love the spotless accommodations, simple check-in, and comfortable atmosphere. Perfect for couples, families, friends, and travelers with dogs.
+
+The space
+This private guest suite offers the perfect blend of comfort, convenience, and privacy in a quiet Nashville neighborhood. The space includes two queen bedrooms, a full bath, a comfortable living room, and a dining area with a full kitchen table, coffee station, mini refrigerator, nugget ice maker, and microwave.
+
+Guests have their own private entrance and enjoy a separate, dedicated space while I live on-site in a completely separate area. This arrangement provides privacy while allowing me to be available if you need anything during your stay.
+
+Well-behaved pets are welcome, and the neighborhood is great for walks. Conveniently located near I-40, downtown Nashville, shopping, restaurants, and local attractions, the suite makes an excellent home base for exploring Music City.
+
+Guest access
+Guests have a private entrance and full access to the entire guest suite, including two bedrooms, a full bathroom, living room, dining area, coffee station, microwave, and mini refrigerator.
+
+Self check-in is easy using a secure lockbox located at the private entrance.
+
+The guest suite is completely separate from the owner-occupied portion of the home, allowing guests to enjoy privacy while knowing assistance is available if needed.
+
+Other things to note
+•Broadway and downtown Nashville are typically a 15–20 minute drive away.
+• Free driveway parking is available.
+• Pets are welcome with a pet fee.
+• The host lives on-site in a separate private area of the home.
+• Guests have a private entrance and exclusive use of the guest suite.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer
+Host User ID: 60204486
+Host Profile URL: https://www.airbnb.com/users/show/60204486
+Host Profile URL Source: public user permalink from passport userId
+We love Nashville and want to share the experience with others. You can't beat the food, live entertainment, sports, parks, shopping, and site seeing here. So come on ya'll!!!
+My work: Teacher
+I spend too much time: Working
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+316 reviews
+4.84 out of 5 average rating
+9 years of hosting

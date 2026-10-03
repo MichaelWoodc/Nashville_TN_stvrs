@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/48152292
+Latitude: 36.28039
+Longitude: -86.79072
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated home located 13 min from downtown Nashville in a calm atmosphere perfect for trips to Nashville for outings or family vacations and peace of mind. California king and Queen size beds in each room for comfort!! Contact us about our discounts for extended stays or anything you would like to know about our listing.
+
+The space
+This place is conveniently located around everything you would need from restaurants, gas station, grocery stores, fast food, CVS, whatever you need is close by
+
+Guest access
+The entire home is accessible except the garage and utility closets
+
+Other things to note
+*** WE DO NOT RENT TO LOCAL NATIVES … NO PARTIES ALLOWED PERIOD!!! 
+
+Did we mention this place is located right off the interstate so it makes travel to and from this Airbnb much easier and faster
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kie
+Host User ID: 112760974
+Host Profile URL: https://www.airbnb.com/users/show/112760974
+Host Profile URL Source: public user permalink from passport userId
+love life, family, music and traveling the world experiencing new things.
+My work: Business owner
+Speaks English
+Response rate: 100%
+Responds within an hour
+5 years hosting
+109 reviews
+4.76 out of 5 average rating
+5 years of hosting

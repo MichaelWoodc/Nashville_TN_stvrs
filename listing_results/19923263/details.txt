@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/19923263
+Latitude: 36.14376
+Longitude: -86.7612
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Walk to Hermes and Nashville’s hottest WeHo restaurants or drive just one mile to Broadway! 
+
+This home is perfectly situated to experience all the best of Music City. One mile from Broadway (Honky Tonks, Live Music, Breweries, CMA Fest) , one mile from GEODIS soccer stadium, and just minutes from the Nashville hot spots (12 South, Midtown, The Gulch, East Nashville).
+
+This charming home is perfect for couples, business trips, or small groups visiting Nashville.
+
+The space
+Owned by TN natives who love all things Nashville. This home was renovated in 2014 and is full of Nashville charm!
+
+Furnished with all you need for the perfect Nashville getaway including a fully stocked kitchen. 
+
+Hosts will provide coffee. 
+
+With two queen beds and one twin bed, this home comfortably sleeps 5, but can accommodate up to 6 with couch or air mattress.
+
+Other things to note
+There are so many great places to eat, shop and listen to music in Nashville! Upon arrival, you will be provided with a list of the host’s favorites spots to help you decide on which places to visit during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Paul And Rachel
+Host User ID: 50224925
+Host Profile URL: https://www.airbnb.com/users/show/50224925
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: McGavock
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+487 reviews
+4.9 out of 5 average rating
+9 years of hosting

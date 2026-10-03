@@ -1,0 +1,64 @@
+URL: https://www.airbnb.com/rooms/24579448
+Latitude: 36.17407
+Longitude: -86.78082
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautifully furnished DOWNTOWN condo with free parking conveniently located within walking distance of all that Nashville has to offer!
+
+The space
+A short 15 minute walk or a $5 Uber will get you to all the desirable hotspots such as the Broadway Street honkytonks, Bridgestone Arena (home to major concerts and our most-beloved Predators), the Ryman Auditorium, the Titan's Nissan Stadium, The Musician's Hall of Fame, The Country Music Hall of Fame and much, much more. The First Tennessee Park stadium home to Nashville's baseball team, the Sounds, is just a 5 minute walk as well as Nashville's historic Germantown area with its many award-winning restaurants, coffee shops and boutique shopping.
+
+Located directly on the Cumberland Riverfront, our quiet condo offers the amenities of home.  Covered free parking, swimming pool, outdoor fire pit and grilling area, gym and laundry facilities are available as well as the Riverfront biking/walking trail steps from the front door!  Walk directly to the city's summer Riverfront concerts and the unmatched 4th of July and New Year's Eve Fireworks!
+
+Our hidden gem is located on the second floor, sleeps four, and has a private, screen-in balcony to enjoy the river views.  We hope to provide a comfortable and inviting place to relax after experiencing our wonderful and exciting city!
+
+Note:  Pool has reopened!!
+
+Guest access
+Fully furnished condo
+King size bed in bedroom
+Queen sleeper in living room
+WiFi with password protection
+50" flat screen TV in living room
+37" flat screen TV in bedroom
+Xfinity live tv streaming, Netflix, Starz 
+Completely stocked kitchen
+Keurig coffee
+Towels and linens provided
+Iron/Ironing Board
+Balcony overlooking the river
+Access to pool
+Pool towels provided
+Fitness room/gym
+Free covered parking
+
+Other things to note
+The pool, laundry room and gym are available to use with the provided key card.  Please observe open hours and any other posted rules.  Glass items are NOT ALLOWED in the pool area.  There is a fine for anyone found with glass in the pool.  Also, there is a $50 charge for a lost entry code.  Make sure that the card is on the coat rack when you depart.   Upon departure, check for all personal items since we are not responsible for lost items.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vicki
+Host User ID: 176951851
+Host Profile URL: https://www.airbnb.com/users/show/176951851
+Host Profile URL Source: public user permalink from passport userId
+Lives in College Grove, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+132 reviews
+4.79 out of 5 average rating
+8 years of hosting

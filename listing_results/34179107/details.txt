@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/34179107
+Latitude: 36.2454
+Longitude: -86.5883
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Old Hickory Village, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy breathtaking views of Old Hickory Lake and beautiful sunsets. This newly renovated 3500 square feet lake home, with spectacular views of Old Hickory Lake, is the ideal getaway. With floor-to-ceiling windows and 3 levels of deck, you will fall in love with this home. Enjoy water skiing, fishing, rent a boat or relax on the hammock. It's also a short drive to Downtown Nashville and easily accessible to Nashville International airport, restaurants, grocery stores, coffee shops or the marina.
+
+The space
+Lake House right on Old Hickory Lake, newly renovated, 3 levels of deck and magnificent views of Old Hickory Lake with beautiful sunsets. All bedrooms have new beds and newly purchased mattress. Main floor bedrooms have sliding doors to the back deck and lake access. Bottom bedrooms have windows with lake views. Kitchen is fully equipped, stainless steel appliances. Washer and dryer on site.
+
+The deck has open railing and is not suitable for infants and young children.  The walkway to the lake can be steep and not recommended for elderly or guests with knee issues.
+
+Guest access
+We have a sauna, hammock, ping pong table, books to read, fish pond
+
+Other things to note
+For the security of the home,   there is an outside camera at the entrance to the house.
+
+Both fireplaces are not operational for renters
+
+The lake house sits up high and walkway to the lake is steep, may not be recommended for elderly guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dotty
+Host User ID: 258052701
+Host Profile URL: https://www.airbnb.com/users/show/258052701
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a day
+7 years hosting
+49 reviews
+4.88 out of 5 average rating
+7 years of hosting

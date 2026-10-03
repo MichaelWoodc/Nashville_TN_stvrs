@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/24419377
+Latitude: 36.18923
+Longitude: -86.75915
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Contemporary house with amazing location. The home is private, upscale and not attached to the primary house. It was built with Vacation Rental in mind. All rooms have great downtown views. Minutes to downtown hotspots including the Ryman, Bridgestone Arena, Nissan Stadium, live music & the bars on Broadway. The house is warm, inviting, spacious, and feels like a home away from home. My goal is to provide a clean, quiet, comfortable place to rest, relax & recharge during your visit.
+
+The space
+The house is next to a public park with soccer field, lots of open space, picnic areas, baseball fields...
+
+The house has everything you need for a short or long stay.   Inside you will find 2 bedrooms with Queen size beds, full kitchen, tiled bathrooms, tiled shower areas, granite counter tops, washer/dryer, AC/heat, flat screen HD WiFi TV Local Channels and Amazon Prime, WiFi, table / workstation and a Queen size sofa sleeper. Outside is your own patio 12x12 deck with spectacular views of downtown. You will enjoy private parking pad with alley access.
+
+Guest access
+Guests will have complete access of the house, back deck and parking in front of the garage. The garage and backyard are excluded.
+
+Other things to note
+Absolutely no more than 4 guests above what is booked.  No parties.
+
+The property is located on the East Nashville train line. Being close to downtown, the train will occasionally blow its horn. Ear plugs are supplied for sleeping if required.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tom
+Host User ID: 129663177
+Host Profile URL: https://www.airbnb.com/users/show/129663177
+Host Profile URL Source: public user permalink from passport userId
+I am a local home builder and US Marine veteran. I grew up in Clarksville, TN.  I like visiting local song writers nights, live music, fishing, camping, restoring classic mustangs, traveling and eating authentic ethnic foods at Nashville's various restaurants.
+
+I like to mingle with the locals when I travel, find out about local politics, restaurants, history and hang-outs
+My work: Stratus Construction LLC
+I spend too much time: on YouTube
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+510 reviews
+4.93 out of 5 average rating
+8 years of hosting

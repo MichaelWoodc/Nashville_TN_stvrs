@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/36388352
+Latitude: 36.14315
+Longitude: -86.82304
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home! Recently updated, this cheerful 2-bedroom, dog-themed cottage in the desirable West End/Sylvan Park area blends vintage 1960s charm with playful decor—dog wallpaper, pup portraits, and cozy touches throughout. Enjoy a large fenced yard, covered porch, and off-street parking. Just steps from the greenway to Centennial Park and close to Vanderbilt, Belmont, Hillsboro Village, and downtown fun!
+
+The space
+This charming 2-bedroom, 1-bathroom home features **two queen-size beds**, a **futon couch**, and a **single roll-away bed** with a memory foam mattress. A **travel baby bed** is also provided. Recently updated, the home is furnished with stylish and comfortable décor.  
+
+Enjoy the **outdoor living space**, which includes a **picnic table and fire pit area**, as well as a **large covered front porch** with seating that overlooks a spacious **fenced yard**—perfect for your **fur babies** to roam and play or kids to run around in. 
+
+The **fully equipped kitchen** includes a **stovetop, oven, microwave, refrigerator, dishwasher, and essential cookware**.  
+
+Additional amenities include a **Roku TV, WiFi, and off-street parking** for convenience and entertainment.
+
+Guest access
+Guests will have access to the entire space.
+
+Other things to note
+Pet-friendly with a pet fee ($100). 
+
+Please note the basement of the home is a secured space with an exterior entrance. Our housekeeping crew uses this space for laundry and stored supplies.
+
+We kindly ask all guests to log out of their TV accounts before checking out. Please note that the cleaning team and property manager are not responsible for logging out of these apps. If you have any concerns about this, we encourage you to take personal responsibility and log out of the TV accounts upon your arrival, rather than relying on others to do so. Thank you for your understanding!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brigitte
+Host User ID: 7073590
+Host Profile URL: https://www.airbnb.com/users/show/7073590
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+13 years hosting
+5526 reviews
+4.92 out of 5 average rating
+13 years of hosting

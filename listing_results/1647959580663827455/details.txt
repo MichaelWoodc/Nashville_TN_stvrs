@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1647959580663827455
+Latitude: 36.16922129738462
+Longitude: -86.79659869605604
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your home base in the heart of Germantown—one of Nashville’s most charming and walkable neighborhoods. Just minutes from Broadway, downtown Nashville, and top restaurants, this dog-friendly home blends elevated design with a bright, relaxed feel. Enjoy airy interiors and a spacious backyard complete with string lights, a fire pit, BBQ grill, and cornhole—perfect for group getaways and relaxing Nashville weekends.
+
+The space
+Thoughtfully designed with Serena & Lily-inspired interiors, the home features light, airy spaces, layered textures, and a warm, inviting feel throughout. It’s the perfect setting for groups looking to gather, unwind, and experience Nashville like a local.
+
+You’ll have the entire home to yourself.
+
+From the moment you walk in, you’ll feel at ease. The cozy living room is perfect for winding down after a day exploring the city, while the spacious dining area is ideal for group dinners, game nights, or planning your next Nashville adventure. The fully stocked kitchen includes double ovens and a gas cooktop—perfect for everything from morning coffee to hosting meals at home. A washer and dryer are also available for added convenience.
+
+Step outside and enjoy your own private outdoor retreat. The fully fenced backyard is perfect for pups to roam or for your group to relax under the Nashville sky. Enjoy evenings gathered around the fire pit, grill out on the BBQ, challenge your group to a game of cornhole, or unwind under the string lights with a drink after a night out. The home also includes a covered front porch and convenient private parking.
+
+WHERE YOU'LL SLEEP
+Designed for both comfort and flexibility, the home comfortably accommodates up to 12 guests across 5 sleeping spaces and 4 full bathrooms.
+
+Downstairs:
+- Primary suite with a queen bed and private ensuite bathroom with tub/shower combo
+- Cozy guest bedroom with a queen bed
+- Additional full bathroom
+
+Upstairs:
+- Bright guest bedroom with a queen bed
+- Flexible guest room with a queen bed plus a Murphy bed for additional sleeping space
+- Private suite featuring a full bed, pull-out trundle bed, ensuite bathroom, and access to a private patio/deck
+- Additional full bathroom
+
+WHY GUESTS LOVE IT 
+Prime walkable Germantown location near restaurants, coffee shops, bars, and local favorites
+
+Just 5 minutes to Broadway and downtown Nashville
+
+Bright, elevated Serena & Lily-inspired design
+
+Dog-friendly with a fully fenced yard
+
+Ideal setup for families, friend trips, and group getaways 
+
+Private parking for added convenience
+
+PET POLICY
+🐶 Dog-friendly! $100 fee for up to 2 dogs. We’ve also stocked the home with a few extras for your pups, including two dog beds and complimentary treats to help them feel right at home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ailie
+Host User ID: 18953255
+Host Profile URL: https://www.airbnb.com/users/show/18953255
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 months hosting
+18 reviews
+5.0 out of 5 average rating
+6 months of hosting

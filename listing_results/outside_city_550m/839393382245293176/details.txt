@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/839393382245293176
+Latitude: 36.36476
+Longitude: -86.47131
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You will absolutely love your time spent here in our guest-house suite. This is a 750sq ft studio apartment, equipped with everything you will need to have the perfect stay. The studio is attached to our home, but you have your own private entrance and entire space to yourself. Key features include: a private bathroom with a brand new gorgeous tile walk-in shower, an open floor plan with vaulted ceilings to optimize the space, as well as a custom built kitchen with everything you will need!
+
+The space
+You will have this entire newly built 750sq ft studio apartment all to yourself. The area includes: a full kitchen, living room, split level bedroom, and bathroom with gorgeous walk in tile shower. You are free to use any space/area of the fenced in backyard that you would like. We do have a 14 year old dog that weighs about 25lbs who goes in and out of his doggy door at his leisure, please be mindful not to let him out of the fence. Please do not allow him into the air bnb, as we wish to keep this area dog hair and allergen free. 
+
+The pool is open May-September and closed October-April. You are welcome to use the pool at any time during the open season. Swim at your own discretion. This is our home, and we DO have occasional pool days when our busy schedules allow. There are multiple seating areas, so please make sure to enjoy the pool even if we are out there enjoying it too!
+
+Guest access
+The entrance in equipped with keyless entry. A code will be provided to you, so that you can check in anytime you would like after 3pm. You will park in the gravel parking pad in the spot shown in check-in instruction photos.
+
+Other things to note
+You will be provided with start up essentials including: 1 roll of toilet paper, one roll of paper towels, and 1 kitchen trash bag. If you anticipate needing more of these items please plan to bring or buy them during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Melody
+Host User ID: 256862048
+Host Profile URL: https://www.airbnb.com/users/show/256862048
+Host Profile URL Source: public user permalink from passport userId
+Lives in Gallatin, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+234 reviews
+4.79 out of 5 average rating
+6 years of hosting

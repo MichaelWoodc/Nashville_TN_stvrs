@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/698605745881482350
+Latitude: 36.303
+Longitude: -86.7153
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come relax at this unique and tranquil getaway just minutes from down town Nashville Tennessee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ahnum
+Host User ID: 476100845
+Host Profile URL: https://www.airbnb.com/users/show/476100845
+Host Profile URL Source: public user permalink from passport userId
+4 years hosting

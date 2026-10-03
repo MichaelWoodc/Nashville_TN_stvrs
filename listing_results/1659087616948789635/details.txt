@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/1659087616948789635
+Latitude: 36.1459752272414
+Longitude: -86.81581673532007
+rental_type: Room in boutique hotel
+property_type: BOUTIQUE_HOTEL
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+- Contemporary but restrained look
+- Residential style design
+- Impeccably selected furnishings
+- Catering and programming services
+- Features a beautiful Juliet balcony
+
+The space
+Our Executive rooms are the lap of luxury, with ample living space, a California King bed, executive desk, 55 ” HDTV, and spacious bathroom with modern finishes. This room features a beautiful Juliet balcony so you can enjoy the city from the comfort of your room. Perfect for a weekend retreat, business trip, or couples getaway, make yourself feel at home at the 121 Hotel.
+
+Features:
+Modern California King Bed
+Plush California King Mattress
+Comfortable Seating Area
+Juliet Balcony
+Overdyed area rugs
+Undercounter refrigerator
+Walk-in, duel head shower/or soaking tub
+Ceiling fan
+In-room Coffee
+Independent air control system
+
+121 provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more. For anything you need, we’re at your fingertips!
+
+Other things to note
+Home Truths:
+- This room does not include access to the kitchen unless booked as part of a full floor buyout.
+- Please note we have 16 similar units, listing photos vary by unit.
+- The balcony on this unit is a Juliet balcony with a sliding door. 
+- We allow service animals at this home. If undisclosed pets are brought into the home without approval there is a fine of $500 per pet.
+- Please note that there are ring cameras that monitor the hotel hallways for guest security. There are no cameras inside the rooms.
+- Please note that this is a self-service vacation rental with contactless check-in and no staff on site.
+
+Disclaimers:
+- No smoking in or outside of this home. Subject to a $500 fine.
+- Occupancy and noise limits are strongly enforced. Subject to fines that can reach up to $10,000 per violation.
+- IDs and security deposits when applicable will be requested after booking
+- We have the right to report and prosecute all Credit Card Fraud
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The 121 Hotel
+Host User ID: 754478707
+Host Profile URL: https://www.airbnb.com/users/show/754478707
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 98%
+Responds within an hour
+Superhost
+5 months hosting
+169 reviews
+4.87 out of 5 average rating
+5 months of hosting

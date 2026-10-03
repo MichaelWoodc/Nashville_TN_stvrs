@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/27611691
+Latitude: 36.17422
+Longitude: -86.77999
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfort with touches of whimsy.  River views, parking outside your door, riverside pool (in-season), laundry room & fitness center.  Walk to downtown, only 2 blocks from Sounds Stadium and Brooklyn Bowl.  Your home away from home just far enough from the craziness of lower Broadway.
+
+The space
+This is a small space for 2 people.  There's a king size bed in the bedroom and the sofa, when made up as a bed, is also king size, so you can sleep separately.
+
+Please note that although there is a bedroom, there is no door to close on the bedroom, just a small hallway leading to it, so it is not a completely private space.
+
+There's a full kitchen with all appliances.  The remodeled bathroom has a shower, no bathtub.
+
+**Please Note the pool opening is at the complete discretion of the condominium association and is weather permitting. It is usually open from the beginning of May to the end of October.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 1954274
+Host Profile URL: https://www.airbnb.com/users/show/1954274
+Host Profile URL Source: public user permalink from passport userId
+We love to travel and experience a destination as a local and we want our guests to do the same.    Music is essential as well, setting the tone for an adventure (or just daily life).  
+
+"Move. As far as you can, as much as you can. Across the ocean, or simply across the river. Walk in someone else’s shoes or at least eat their food. Open your mind, get up off the couch, move. - Anthony Bourdain
+Born in the 60s
+My work: Marine Insurance UW
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+507 reviews
+4.94 out of 5 average rating
+8 years of hosting

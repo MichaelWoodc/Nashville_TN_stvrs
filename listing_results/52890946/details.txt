@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/52890946
+Latitude: 36.1478
+Longitude: -86.7656
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind on your private rooftop - walk to The Truth or 3 minute Uber to Broadway.
+
+Want a quiet spot to retreat to after enjoying all that Nashville has to offer?  This place will welcome you home.  Close to all things Nashville - honky tonks on Broadway, TRUTH, WeHo, Geodis, Bridgestone, Nissan, the Parthenon and much more.  Here for work?  Easy access to I65 and I24 and close to Vanderbilt and several hospitals. 
+
+Enjoy Music City, park free onsite, then chill on our private rooftop deck.
+
+The space
+From the private rooftop deck to the loft bedroom and full kitchen, this modern take on a row house is all you need to enjoy a quick get away in Music City.  Walk to Truth and WeHo
+
+Open air controlled access parking pad for one vehicle. Street parking is also available, but be sure to read the parking signs.
+
+Guest access
+No keys to lose or to return! This property provides secure, keyless entry with an August Smart Lock. You can lock and unlock the door with your smartphone, using a unique virtual key, or personal entry code issued to you for the duration of your stay.
+
+Park your vehicle in the private controlled access parking pad off the alley way.
+
+Other things to note
+Free on-site controlled access parking.  Please be sure to read street parking signs if using street parking.
+
+Please note:  you may not receive mail at this property.  If during your temporary stay, you wish to have mail or packages sent or received, please use one of these options:
+
+- Amazon Hub/Locker: Convenient for Amazon packages.
+- UPS Store/Mailbox Services: Rent a temporary mailbox or have packages held for pickup.
+- USPS General Delivery: Mail can be held at a local post office for pickup.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kate
+Host User ID: 46392249
+Host Profile URL: https://www.airbnb.com/users/show/46392249
+Host Profile URL Source: public user permalink from passport userId
+Enjoy splitting my time between TN, AL, TX, MN, BC, and ON. Lots of places on my bucket list still to visit.
+Speaks English and French
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+199 reviews
+4.88 out of 5 average rating
+5 years of hosting

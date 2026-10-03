@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/46894740
+Latitude: 36.1437
+Longitude: -86.763
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Executive residence in historic Chestnut Hill that is perfect for a small group retreat. $8-10 Lyft ride to the amazing Honky Tonk Highway aka Broadway, Bridgestone Arena, Nissan Stadium, Geodis Soccer Stadium, Ascend amphitheater, Frist art museum, Printer’s Alley and The Gulch. One half mile to the Four Seasons. Only 7 miles (10 minutes) to the airport.
+
+The space
+The entire home is available for your group. We have co-op relationships with adjacent units to accommodate larger groups. Up to 50 people. Wedding parties, Corporate groups, Family reunions welcomed.
+
+Guest access
+You will have full access to the home including the intimate back patio and private rooftop patio where you can enjoy beautiful sunsets and the Nashville skyline.
+
+Other things to note
+Home is furnished by a designer and you will find it to be top notch.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tony
+Host User ID: 378684953
+Host Profile URL: https://www.airbnb.com/users/show/378684953
+Host Profile URL Source: public user permalink from passport userId
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+136 reviews
+4.9 out of 5 average rating
+6 years of hosting

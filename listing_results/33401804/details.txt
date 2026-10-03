@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/33401804
+Latitude: 36.17306
+Longitude: -86.80561
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 3 bedroom retreat with two full baths that sleeps 6, has free parking and is minutes from all Nashville has to offer. Comes with a complete security system. 
+*Note: Not needed but understandably helps make some feel more safe.
+
+Note - This is the first floor of a two story duplex.
+*No Smoking.
+
+***The space is not intended to host house parties. When we discover you are hosting a house party you will be asked to leave the property immediately******
+
+The space
+Note - This is the first floor of a two story duplex. 
+*******The upstairs balcony goes with the upstairs unit.**********
+
+We have WiFi! 
+Though much of your time will likely be spent enjoying all that Nashville has to offer, the home does come with a TV that has Netflix access. 
+
+The home has a large open layout floor plan. 
+The kitchen has cooking supplies and of course COFFEE! 
+The master bedroom has a queen size bed and a connected full bathroom.
+Bedrooms one and two are off the main hallway and comes with two twin beds. 
+
+Each of the three bedrooms comes with a Multi USB wall charger for up to 4 devices.
+
+***The space is not intended to host house parties. When we discover you are hosting a house party you will be asked to leave the property******
+
+Guest access
+The key code for access to the home will be provided 24 hours ahead of your scheduled booking date/time.
+*No Smoking.
+*Note - This is the first floor of a two story duplex.
+
+Other things to note
+*No Smoking.
+Note this large 3 bedroom two full bath home is the first floor of a two story duplex. The deck shown in the picture goes to the 2nd floor unit.
+
+***The space is not intended to host house parties. When we discover you are hosting a house party you will be asked to leave the property******
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Andy
+Host User ID: 247720679
+Host Profile URL: https://www.airbnb.com/users/show/247720679
+Host Profile URL Source: public user permalink from passport userId
+Lives in Tennessee, United States
+Response rate: 100%
+Responds within an hour
+7 years hosting
+302 reviews
+4.69 out of 5 average rating
+7 years of hosting

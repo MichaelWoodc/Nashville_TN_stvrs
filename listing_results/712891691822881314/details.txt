@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/712891691822881314
+Latitude: 36.19844
+Longitude: -86.73491
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated!✨ Perfect for a friends or family weekend in the heart of East Nashville! Close to many popular restaurants and trendy bars and less than 10 minutes from Broadway. You will find everything you need and have a blast here in Music City! This is a 3 bedroom home (1 full, 1 twin, 1 queen, 1 king) with 2 full bathrooms. This air bnb includes a cozy outdoor seating area including a grill and a fire pit. The driveway has plenty of parking space. The inside is an oasis waiting for you!
+
+The space
+This newly renovated property has 3 bedrooms and 2 full bathrooms. The living space includes a large sectional couch, smart television, and record player for entertainment. The kitchen includes a sleek marble backsplash, with gold accents. There is a coffee bar with options to brew a full pot or a single cup of coffee. The first guest room includes a full bunk bed on the bottom and a twin above. The second guest room includes a queen bed equipped with a mounted television. The master bedroom has a king bed, television, designated work space, and a full vibrant bathroom attached. Outside offers a large outdoor living space on the deck equipped with a grill, 6 person dining table, couch, and a mounted smart TV. The yard is perfect for lawn games or a quick workout! Laundry room is available for you if needed.
+
+Guest access
+You will have full access to this property. You will be given a house code 24 hours in advance to check-in. 
+
+The driveway can comfortably fit 3 cars. Please do not exceed this amount or park on the grass. Please refrain from parking on the street as garbage trucks will not pick up trash if cars are close to the bins.
+
+Other things to note
+Our location is super convenient to check out some local East Nashville spots, including bars, restaurants, and coffee shops. Driveway will fit up to 3 cars!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 425374161
+Host Profile URL: https://www.airbnb.com/users/show/425374161
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+27 reviews
+4.93 out of 5 average rating
+4 years of hosting

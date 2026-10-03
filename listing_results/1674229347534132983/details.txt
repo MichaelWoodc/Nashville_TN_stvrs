@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1674229347534132983
+Latitude: 36.21697
+Longitude: -86.69302
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Presidential highlights: master plus three additional bedrooms (sleeps 8–10), expansive living and dining areas, full gourmet kitchen, three or more full baths, private balcony with city or park views (select units), in‑unit washer/dryer, high‑speed Wi‑Fi, climate control, work space, in‑room safe, and concierge services. Ideal for family reunions, executive retreats, or celebratory stays.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Serenity Suites
+Host User ID: 749237526
+Host Profile URL: https://www.airbnb.com/users/show/749237526
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+6 months hosting
+11 reviews
+5.0 out of 5 average rating
+6 months of hosting

@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/842135666113243503
+Latitude: 36.1724
+Longitude: -86.8064
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville home away from home! 1 mile from Historic Germantown & 10 min from Broadway!
+
+Nestled in the heart of Music City, it's the perfect base for exploring all Nashville has to offer!
+
+Key Features
+-2 BR, 1 Bath
+-Can sleep up to 8: 2 queen beds, 1 full bed, 1 full sleeper couch
+-Fully Equipped Kitchen: Perfect for meals or snacks before heading out
+-Cozy Private Backyard with Fire Pit
+-Convenient Amenities: Brand-new washer and dryer, plush bedding, and fun and tasteful décor
+
+The space
+This space is perfect for families, couples, or a group of friends looking for comfort and convenience during their Nashville adventure. Book your stay today and experience the best of Nashville!
+
+Comfortable Sleeping Arrangements:
+
+Both bedrooms are thoughtfully furnished for comfort and relaxation. 
+The rear bedroom sleeps 2, in a spacious queen and features  a built in closet with additional seating and a full length mirror.
+The front bedroom can sleep up to 4, with a queen bed and a full bed trundle, that can be pushed under the queen if not needed. For added versatility the living room’s sleeper couch can sleep an additional 2 as a full to ensure plenty of room for everyone. 
+With high-quality bedding and a warm ambiance, you’re guaranteed a restful night’s sleep.
+
+Inviting Living Area:
+
+Our living room is perfect for socializing, unwinding after a day in the city, or enjoying a cozy movie night. The sleeper couch doubles as an additional sleeping option for larger groups.
+
+Outdoor Fun:
+
+Step into the fully private, fenced-in backyard, where you can unwind around the fire pit, challenge your friends to cornhole, or enjoy a game of giant Jenga. It’s the ideal space to relax and make lasting memories.
+
+Guest access
+You have full access to your private side of the duplex. A long-term renter resides on the other side, but the backyard is separated by a fence allowing for exclusive private use during your stay.
+
+The kitchen is fully stocked with everything you need to prepare meals, including cookware, dishes, and appliances.
+
+You can access both from the main door or from the rear door that opens to the backyard through the back bedroom. The backyard exits into the back alley where the additional parking spots are situated as well as the garbage and recycling receptacles.
+
+Other things to note
+No parties allowed to maintain the peaceful atmosphere for our neighbors.
+No smoking inside the home.
+
+Registration Details
+T2023065386
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Vincent
+Host User ID: 369395691
+Host Profile URL: https://www.airbnb.com/users/show/369395691
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+150 reviews
+4.98 out of 5 average rating
+4 years of hosting

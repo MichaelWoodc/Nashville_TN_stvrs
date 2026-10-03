@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/52538344
+Latitude: 36.17456
+Longitude: -86.7797
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This beautiful condo is located on the Cumberland River in downtown Nashville. It features 1 bedroom (king size bed) with en-suite; fully stocked kitchen; cozy living room (queen size sleeper sofa) & dining area with amazing views; and a private balcony overlooking the Cumberland River!
+Only a short distance to many venues such as lower Broadway, Nashvile Sounds stadium, Titans stadium, Germantown, Farmers Market, Bicentennial Mall, and many more fun attractions.
+
+The space
+1 bedroom with king bed and en-suite;
+Living room with sleeper sofa;
+Fully stocked kitchen;
+Bar height dining table;
+Private balcony
+Located on top floor (third floor)
+
+Other things to note
+Please note:
+We are located on the 3rd floor (which means no one is above); however, there is no elevator.
+This is an up and coming neighborhood with construction near by.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Denise
+Host User ID: 21018265
+Host Profile URL: https://www.airbnb.com/users/show/21018265
+Host Profile URL Source: public user permalink from passport userId
+We are from Nashville, Tn
+Lives in Brentwood, Tennessee
+12 years hosting
+136 reviews
+4.89 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/24245679
+Latitude: 36.2142
+Longitude: -86.72667
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Charming 2 bedroom (3 beds), one bath Loft  just 10 min to downtown, 15 min to airport & 8 min Opryland. Nestled in a quiet/safe neighborhood in East Nashville, yet walkable to some favorite bars/food & just 6 blocks to Kroger. Natural light, desk/chair for remote workers, comfy beds & plenty of pillows for a cozy stay!  
+
+*This is Upstairs level of our home, totally private w separate entrance, separate driveway & separate central heat/air. 
+*KITCHENETTE only - microwave, coffee, fridge
+
+The space
+Amenities - AT&T Fiber Wifi,  Smart TV w Hulu/Amazon/Netflix, microwave, mini fridge, and Kuerig Coffee station. No worries if you forget your toiletries - shampoo, conditioner, soap and blower dryer are all available. Central Heat & Air that YOU control.  I added a small desk and chair in living room (does not show in pictures yet) in front of windows for all the remote workers!
+
+The downstairs of this home is completely separate with a different entrance, this is where my husband, son and I live. We do ask that you be respectful of noise level and try not to be heavy footed.  
+
+Parking is available in front of house along side of the street and gravel driveway (as long as no one else if parked there). 
+
+Permit#2018067475
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Amber
+Host User ID: 102302778
+Host Profile URL: https://www.airbnb.com/users/show/102302778
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+656 reviews
+4.89 out of 5 average rating
+10 years of hosting

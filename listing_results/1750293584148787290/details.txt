@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1750293584148787290
+Latitude: 36.1976
+Longitude: -86.7813
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+**Welcome to your private Nashville getaway!**
+
+Enjoy a comfortable and convenient stay in this private **1-bedroom, 1-bathroom apartment** with its own separate entrance. The unit is a great choice for couples, solo travelers, business travelers, or anyone looking for an affordable and comfortable place to experience Nashville.
+
+The bedroom features a **comfortable king-size bed**, while the separate living room provides a cozy couch and space to relax after a day exploring Music City.
+
+The space
+**Welcome to your private Nashville getaway!**
+
+Enjoy a comfortable and convenient stay in this private **1-bedroom, 1-bathroom apartment** with its own separate entrance. The unit is a great choice for couples, solo travelers, business travelers, or anyone looking for an affordable and comfortable place to experience Nashville.
+
+The bedroom features a **comfortable king-size bed**, while the separate living room provides a cozy couch and space to relax after a day exploring Music City.
+
+The apartment also includes a **small kitchen**, private bathroom, and **Wi-Fi**, giving you everything you need for a comfortable short-term stay.
+
+###  The Space
+
+* Private 1-bedroom apartment
+* Private entrance
+* King-size bed
+* Private bathroom
+* Comfortable living room with couch
+* Small kitchen
+* High-speed Wi-Fi
+* Perfect for couples, solo travelers, and business trips
+
+###  Great Nashville Location
+
+Located at **Katie Hill**, you're conveniently positioned just north of Downtown Nashville, making it easy to explore the city's most popular attractions.
+
+You're a short drive or rideshare from **Downtown Nashville and Broadway**, where you'll find Nashville's famous honky-tonks, live music, restaurants, bars, and nightlife. The location also provides convenient access to popular areas such as **Germantown, East Nashville, Midtown, and the Gulch**.
+
+Popular Nashville destinations including **Broadway, Ryman Auditorium, Bridgestone Arena, Nissan Stadium, the Country Music Hall of Fame, and the Grand Ole Opry** are all within an easy drive.
+
+Whether you're coming to Nashville for live music, a weekend getaway, a concert, a sporting event, or simply to explore Music City, this apartment gives you a comfortable private place to come home to.
+
+**Come enjoy Nashville without paying downtown hotel prices!**
+
+Guest access
+Guests will be able to park free on the street.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville Rentals
+Host User ID: 1750267930190142652
+Host Profile URL: https://www.airbnb.com/users/show/1750267930190142652
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+4.67 out of 5 average rating
+1 month of hosting

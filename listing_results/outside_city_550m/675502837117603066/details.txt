@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/675502837117603066
+Latitude: 36.3225
+Longitude: -86.5379
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Lakeview home in quiet neighborhood 30 mins. from Music City,  Bridgestone Arena, Nissan Stadium & Ryman Auditorium.  Hendersonville offers restaurants, shopping, theaters and lake access. Public boat ramp 1 mile away. Opry House and Opry Mills 15 minutes away. Airport 30 minutes. The home has 5 Smart TVs, fireplace, grill on  patio, treadmill,  work area, washer/dryer, fully appointed kitchen, large driveway  parking. Driveway and front porch have camera for security.
+
+The space
+3 bedroom/2.5 baths in Hendersonville close enough to Nashville to enjoy country music, sports, great restaurants and easy access to Opry Mills, Grand Ole Opry and airport. Work desk and printer, wifi, treadmill,  5 smart tvs and across the street from the lake. Boat ramp about a mile away at Avondale. Large driveway for multiple cars, washer/dryer, patio with grill and nice furniture. 1114 Shoreside Drive in a very quiet neighborhood.
+
+Guest access
+Guests have the full house, front porch, patio with grill, and driveway. No access to garage.  It's 100% for airbnb.
+
+Other things to note
+Self entry is by coded lock at front door. We will provide a code before you arrive. After you enter with your code the door will automatically lock after 30 secs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 415834568
+Host Profile URL: https://www.airbnb.com/users/show/415834568
+Host Profile URL Source: public user permalink from passport userId
+Born in the 40s
+Where I went to school: Natchitoches High School
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+123 reviews
+4.96 out of 5 average rating
+4 years of hosting

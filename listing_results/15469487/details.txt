@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/15469487
+Latitude: 36.09357
+Longitude: -86.90703
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+My home is located on three forested acres in West Nashville.    It is  15 minutes to downtown, Vanderbilt and Belmont Universities; 5 minutes to the Warren Parks, Cheekwood Botanical Gardens and Belle Meade Plantation; 5 minutes to I-40; great views, restaurants and dining!  You’ll love my place because of the park-like setting, convenient location, and a great neighborhood for walking/jogging. My place is good for couples, solo adventurers, business travelers, and families (with kids).
+
+The space
+1 King size bed and 1 Queen sleeper sofa separated by a room divider.  This is a full apartment in the lower level of my home with a separate entrance. There are no stairs to climb and handicap bars installed in the shower for those who need them.  Parking for the apartment is just outside the door.   I have plenty of toys on hand for children.   There is also a  playpen and two children's cots with bedding located in the closet in the apartment.  A child's table and chairs is also available if desired.
+
+Guest access
+You have access to the apartment  only located in the lower level of my home with your own  private entrance.
+
+Other things to note
+Laundry facilities are free for your use.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debbie
+Host User ID: 99276981
+Host Profile URL: https://www.airbnb.com/users/show/99276981
+Host Profile URL Source: public user permalink from passport userId
+I am a superhost in Nashville, TN - Wooded Getaway in  West Nashville.  I have been hosting since 2016.  I look forward to my stay with you.
+Where I went to school: Taylor University, Upland, IN
+My work: Housecleaning Bus.
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+337 reviews
+4.92 out of 5 average rating
+10 years of hosting

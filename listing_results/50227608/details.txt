@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/50227608
+Latitude: 36.18105
+Longitude: -86.80561
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stylish mid-century modern home in the vibrant Buchanan Arts District, just minutes from Nashville’s top attractions! This 3BR/2BA retreat features a spacious open-plan living area, a fully equipped kitchen, and a private backyard with a grill, fire pit, and corn hole. 
+
+Enjoy easy access to Broadway, Nissan Stadium, Bridgestone Arena, and Germantown’s restaurants and shops—all within 10 minutes. Perfect for groups or families seeking comfort, style, and a prime Nashville location! Book now!
+
+The space
+Designed with comfort in mind, we took care to create an enjoyable space for our guests in our home or outside. 
+
+Enjoy an afternoon by the Breeo smokeless fire pit, or enjoying a meal cooked on the Pellet Smoker/Grill. 
+
+Head inside for a meal at the beautiful mid-century modern solid wood dining table which includes 3 leaves to accommodate up to 12 for a family-style meal if needed. Need sleep after a fun day? Each bed was picked with comfort in mind for various sleep needs, a DreamCloud hybrid king, a Bear mattress queen, and two full beds using a Hybrid construction aloe & charcoal-infused mattress, all with fresh percale linens inviting you to sleep in after a late night!
+
+Guest access
+Easy and free street parking in front of the home, very quick Uber or Lyft to the epicenter of music city, and nearby Germantown for coffee, lunch,  dinner, or libations. Either way you'll find yourself conveniently situated.
+
+Other things to note
+Please note, the additional sleeping outside of the 3 bedrooms, include a queen air mattress with built in pump as well as a full sized air mattress. 7-8 adults is the recommended guest count for sleeping.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 92200178
+Host Profile URL: https://www.airbnb.com/users/show/92200178
+Host Profile URL Source: public user permalink from passport userId
+Executive producer in events and marketing born in Los Angeles raised in Southern California. Love traveling, adventure, live music, building & fixing things, and spending time with family and friends. Now sharing my beautiful home in Nashville with everyone here!
+Where I went to school: University of San Diego
+My work: Executive Producer, Events & Marketing
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+125 reviews
+4.9 out of 5 average rating
+5 years of hosting

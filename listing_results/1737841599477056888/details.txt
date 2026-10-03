@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1737841599477056888
+Latitude: 36.08425
+Longitude: -86.60665
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 2
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Keep it simple at this peaceful and centrally-located place. We are around 25 minutes from downtown, 15 from Nashville shores, 20 from opry mills mall, and the nashville zoo! Let this room be a place where you can relax and have a break! 
+
+This is our medium size room(4). Same amenities as rooms 1 and 2
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 421901829
+Host Profile URL: https://www.airbnb.com/users/show/421901829
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 years hosting
+120 reviews
+4.94 out of 5 average rating
+5 years of hosting

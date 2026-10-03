@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1596776215250745069
+Latitude: 36.16
+Longitude: -86.8406
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This cozy first-floor condo boasts tall, elegant ceilings, wooden floors and a fully equipped kitchen.  The spacious bedroom features a king-sized bed, generous closets, and abundant natural light, creating an inviting and relaxing atmosphere.  Entertain guests easily in the living room area, complete with a comfortable sofa sleeper and smart TV.
+
+Located just steps from the popular Fat Bottom brewery.  Only minutes from downtown Nashville's vibrant shopping, entertainment and fine dining scene.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kailah
+Host User ID: 129475206
+Host Profile URL: https://www.airbnb.com/users/show/129475206
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Pharma Sales
+Response rate: 100%
+Responds within an hour
+8 months hosting
+8 reviews
+4.75 out of 5 average rating
+8 months of hosting

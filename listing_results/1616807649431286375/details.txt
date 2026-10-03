@@ -1,0 +1,72 @@
+URL: https://www.airbnb.com/rooms/1616807649431286375
+Latitude: 36.18243
+Longitude: -86.80603
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious 4 bedroom, 2.5 bath home!
+Sleeps 12 comfortably 
+Centrally located- only 10 minutes to Broadway!
+Enjoy the backyard with firepit, outdoor table, and gas grill
+Designed with a retro western vibe to fit groups, couples, bachelorettes or bachelor's during their trip to Nashville.
+Large living room with smart TV, open to dining room with large table and fully stocked kitchen. 
+Coffee bar with Keurig and coffee pot- including pods, grounds, creamer, and sugar.
+
+The space
+Retro Ride – Your Western Getaway 10 Minutes from Broadway 🤠✨
+
+Welcome to Retro Ride, a retro-western dream just 10 minutes from Broadway! Whether you’re planning a girls’ trip, birthday weekend, family getaway, or Nashville celebration, this spacious home sleeps 12 guests comfortably with 4 bedrooms and 2.5 baths.
+
+Step inside and you’ll find:
+• Open-concept layout perfect for entertaining
+• Retro western décor with bold personality
+• Tons of natural light + photo-worthy moments
+• Spacious kitchen + large dining area
+
+Outside is where the magic happens:
+• 🌿 Statement greenery wall for unforgettable photos
+• ✨ String lights for that perfect Nashville glow
+• 🔥 Cozy firepit for late-night hangs
+• 🌅 Large outdoor deck with oversized dining table for group dinners
+
+Spend your days on Broadway, then come home to your own private Nashville oasis.
+
+Perfect for:
+✔ Bachelorette trips
+✔ Birthday weekends
+✔ Girls’ getaways
+✔ Group vacations
+
+Saddle up — Retro Ride is ready for you 🤠
+
+Guest access
+The entire home is available for use. Please don't move the trashcans behind the gate.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Abigail
+Host User ID: 142109695
+Host Profile URL: https://www.airbnb.com/users/show/142109695
+Host Profile URL Source: public user permalink from passport userId
+Hi! we are Abbie and Corbin, a married couple with 3 kiddos! We love hosting guests at our properties and want them to feel right at home!
+Where I went to school: Stetson University
+My work: Hospitality
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+417 reviews
+4.88 out of 5 average rating
+5 years of hosting

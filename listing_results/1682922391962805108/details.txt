@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1682922391962805108
+Latitude: 36.118936956551394
+Longitude: -86.71155819621627
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centrally located just 10-15 (driving) minutes from Downtown Nashville, Broadway, Bridgestone Arena, Nissan Stadium, and BNA Airport. Our neighborhood is safe, quiet, and comfortable, while still being close to everything the city has to offer. Driving is easy with dedicated parking included, and rideshare and bus routes are nearby.
+
+The space
+Guest room with shared bathroom located on the main floor of our home. The room includes a comfortable queen bed, couch, chair, mini refrigerator, microwave, and coffee maker. Guests have access to a shared bathroom and can enjoy a clean, quiet, and comfortable space for short or extended stays.
+
+Guest access
+Guests will have access to their guest bedroom on the main floor, the shared bathroom, and designated common areas as communicated during their stay. Self check-in instructions will be provided prior to arrival.
+
+During your stay
+We respect our guests’ privacy but are available if needed. We are happy to answer questions, provide local recommendations, or assist during your stay while allowing you to enjoy your space independently.
+
+Other things to note
+Other Details to Note
+
+* Guest bedroom inside an owner-occupied home
+* Shared bathroom
+* Queen bed
+* Couch and chair for additional comfort
+* Mini refrigerator, microwave, and coffee maker included
+* Convenient location approximately 10–15 minutes from Downtown Nashville, Broadway, Bridgestone Arena, Nissan Stadium, and BNA Airport
+* Ideal for travelers looking for a comfortable and affordable place to stay
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris And Jenny
+Host User ID: 45242129
+Host Profile URL: https://www.airbnb.com/users/show/45242129
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+844 reviews
+4.88 out of 5 average rating
+4 years of hosting

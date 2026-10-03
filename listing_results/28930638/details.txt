@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/28930638
+Latitude: 36.1941
+Longitude: -86.7783
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 6
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Well appointed, spacious condo is 2.5 miles to infamous Broadway and most major event venues in Nashville, TN.
+KING bedroom suite
+QUEEN sleeper sofa in living room
+FULL BED/TWIN bunk room suite 
+The 2 Private bedrms have televisions, attached private baths and balconies. Private Garage parking offers space for 2 cars & a space to leave your luggage for early arrivals. An Uber ride to city is $7-$10.
+Large open floorplan allows your group the perfect gathering space.
+Washer & Dryer in the condo.
+
+The space
+Well appointed, spacious condo is 2.5 miles to infamous Broadway and most major event venues in Nashville, TN. 
+KING bedroom suite-
+QUEEN sleeper sofa in living room-
+FULL BED/ TWIN bunk room suite 
+sleeps 6-7 people comfortably
+The 2 Private bedrms have televisions, attached private baths and balconies. Private Garage parking offers space for 2 cars & a space to leave your luggage for early arrivals. An Uber ride to city is $7-$10.
+ Large open floorplan allows your group the perfect gathering space. 
+Washer and dryer in the condo. 
+
+The entire condo and garage is offered available to guests. 
+
+See pictures for exact distances but most everything in downtown Nashville is 2-5 miles away. 
+
+An easy Uber or Lyft ride to downtown. Keep your car in the garage if you have one. 
+
+You will be given a code to access the property. No offsite rental offices to bother with.
+
+Guest access
+The entire condo and garage is offered available to guests.
+
+Other things to note
+You will be given a code to access the property. No offsite rental offices.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Allison
+Host User ID: 36393087
+Host Profile URL: https://www.airbnb.com/users/show/36393087
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Manager
+Favorite song in high school: Wake me up before you go go -wham
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+915 reviews
+4.81 out of 5 average rating
+10 years of hosting

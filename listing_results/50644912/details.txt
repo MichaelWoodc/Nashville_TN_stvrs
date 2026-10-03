@@ -1,0 +1,74 @@
+URL: https://www.airbnb.com/rooms/50644912
+Latitude: 36.17792
+Longitude: -86.74884
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 9
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nestled in the heart of East Nashville, this craftsman style, historic home is rich with history. Come enjoy the abundance of charm, while also being within walking distance to Five Points and The Shoppes on Fatherland. By staying here, you are only a short drive to the best parts of Nashville, including Downtown. And after a long day of sightseeing, come enjoy the fenced in backyard with extra space for groups to spread out and relax.
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+When you arrive at the property, take the time to enjoy the history as you swing open the gate and walk towards the porch. 
+
+BEDROOMS:
+
+Bedroom 1: This breathtaking, oversized room has a sprawling king bed and a gorgeous fireplace. 
+Bedroom 2: This is considered the master bedroom with another king bed, and an attached bathroom. There is also a twin-over-twin daybed. 
+
+LIVING ROOM: 
+Providing a few different options to relax, the living room has two oversized accent chairs, a very comfortable cloud-like couch, and two ottomans.
+
+UPSTAIRS: 
+This wide-open, spacious loft is the perfect spot for groups to spread out. This area has two twin over twin day beds, as well as a queen bed. 
+
+KITCHEN & DINING: 
+Fully equipped kitchen, providing all of your cooking and dining needs. Take a night off from eating out (even as a local sometimes it’s hard to do that with all of the amazing choices we have) OR order take-out and eat around the table with your friends and family!
+
+BACKYARD: 
+Grill out or just hang out - your choice! Either way, you and your guests will enjoy the luscious greenery that provides privacy!
+
+Guest access
+Guests will have access to the entire house and yard.
+
+Other things to note
+Street Parking / There is a bar a few houses down.
+
+100 Feet – 5 Points
+.5 Miles - Kroger
+1.5 Miles – Nissan Stadium
+2 Miles - Downtown
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dave
+Host User ID: 409205004
+Host Profile URL: https://www.airbnb.com/users/show/409205004
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+227 reviews
+4.87 out of 5 average rating
+5 years of hosting

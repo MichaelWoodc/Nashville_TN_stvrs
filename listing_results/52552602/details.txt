@@ -1,0 +1,80 @@
+URL: https://www.airbnb.com/rooms/52552602
+Latitude: 36.18954
+Longitude: -86.7449
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish East Nashville retreat with soaring 22-foot ceilings, designer finishes, three private en-suite bedrooms, and quick access to downtown, Broadway, Five Points, restaurants, coffee shops, and nightlife. Perfect for couples, families, wedding guests, and small groups looking for a comfortable home base in one of Nashville’s most loved neighborhoods.
+
+One block to Publix & Starbucks. Washer & dryer on-site. Super fast fiber internet. Attention paid to every detail.
+
+The space
+A luxury East Nashville home for small groups who want privacy, comfort, walkability, and easy access to Broadway. 
+
+Thoughtful touches include premium linens, Tuft & Needle memory foam mattresses, smart TVs in each bedroom, fast fiber internet, and easy self check-in.
+
+Why guests love it:
+
+3 private bedrooms, each with attached bathroom
+2 king suites + queen balcony suite
+22-foot vaulted kitchen ceilings
+Fast 1GB Google fiber Wi-Fi
+Private fenced front yard
+Walkable to East Nashville restaurants, coffee, groceries, and bars
+8–10 minutes to Broadway/downtown
+
+Sleeping arrangements:
+
+First Floor Master Suite: King bed + private bath
+Second Floor Master Suite: King bed + private bath
+Second Floor Balcony Suite: Queen bed + private bath + sofa
+Living room: Queen sleeper sofa
+
+Each bedroom includes an attached private bathroom and TV.
+
+Second floor master suite has washer & dryer.
+
+Guest access
+Free street parking is available in front of the house.
+
+CHECK-IN / CHECK-OUT (EARLY / LATE REQUESTS)
+Standard check-in time begins at 3pm on day of arrival. Standard check-out time is 11am on day of departure. Early check-ins and late check-outs are available on a case-by-case basis and must be requested in advance. 
+
+If early check-in or late check-out is available, we provide up to 2 additional hours free of charge. Additional time beyond 2 hours is subject to a fee of $25/hr. Unfortunately we are unable to provide luggage storage in advance of your scheduled arrival time.
+
+Other things to note
+To help us maintain the home at a high standard for every guest, we do not allow pets, smoking, parties, events, unregistered guests, glitter, or confetti. Please also avoid taping decorations to painted walls or trim, as damage may result in additional charges. The use of confetti or glitter on property will result in an additional $250 cleaning charge.
+
+Hosts live on-property in a separate house and are available to assist with your stay should you need any support or recommendations.
+
+Registration Details
+2022003513
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Christopher
+Host User ID: 46421928
+Host Profile URL: https://www.airbnb.com/users/show/46421928
+Host Profile URL Source: public user permalink from passport userId
+Entrepreneur based in Nashville, TN
+My work: Entrepreneur / Music
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+154 reviews
+4.99 out of 5 average rating
+5 years of hosting

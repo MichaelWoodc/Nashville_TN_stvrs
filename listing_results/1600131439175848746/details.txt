@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1600131439175848746
+Latitude: 36.20479
+Longitude: -86.76441
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Made for Nashville group getaways, this professionally designed East Nashville home offers 4 private bedrooms, 6 beds plus a couch, and bathrooms arranged for added privacy. Gather in the open living space, cook in the full kitchen, or relax in the private rooftop gathering area with a hot tub and fire pit—minutes from Broadway, Nissan Stadium, and East Nashville favorites.
+
+The space
+Designed for friends, families, bachelor/bachelorette weekends, birthdays, concerts, and game weekends, this 4-bedroom home gives your group room to spend time together while enjoying individual privacy.
+
+The bright, open main living area has a warm modern-organic feel, with space to settle in for a movie night or gather before heading downtown. The full kitchen centers on a large island and is equipped for group meals, drinks, appetizers, or takeout—including a dishwasher for easier cleanup.
+
+Sleeping and bathing arrangements include 6 beds plus a couch. Every bedroom has a private ensuite bathroom except the bedroom with two queens; its bathroom is next door. A spa-inspired wet room with a bathtub is a signature feature of the home.
+
+Highlights include:
+• Private rooftop gathering area with a hot tub, fire pit, and outdoor furniture
+• Full kitchen with coffee maker, blender, toaster, oven, microwave, and dishwasher
+• Washer, air conditioning, heating, Wi-Fi, TV, and a dedicated workspace
+• Games and comfortable shared spaces for the group to spread out
+
+Guest access
+You’ll have full access to the unit, including the private rooftop gathering area and the private 2-car residential garage. Self check-in is available by keypad.
+
+Other things to note
+The hot tub is cleaned after every stay, and the water may take time to return to its normal temperature. Please also allow around 30 seconds for hot water to reach the showers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Frank
+Host User ID: 231481335
+Host Profile URL: https://www.airbnb.com/users/show/231481335
+Host Profile URL Source: public user permalink from passport userId
+Married with dogs
+Born in the 80s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+269 reviews
+4.86 out of 5 average rating
+8 years of hosting

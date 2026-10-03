@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1750268137984942456
+Latitude: 36.1976
+Longitude: -86.7813
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your private Nashville getaway! This comfortable **1-bedroom, 1-bathroom apartment** offers a private entrance, a king-size bed, cozy living room, kitchen, private bathroom, and Wi-Fi.
+
+Located at **East Nashville**, you'll be conveniently situated just north of Downtown Nashville with easy access to the city's top attractions, restaurants, nightlife, and entertainment.
+
+The space
+Welcome to your private Nashville getaway! This comfortable **1-bedroom, 1-bathroom apartment** offers a private entrance, a king-size bed, cozy living room, kitchen, private bathroom, and Wi-Fi.
+
+Located at **East Nashville**, you'll be conveniently situated just north of Downtown Nashville with easy access to the city's top attractions, restaurants, nightlife, and entertainment.
+
+Enjoy a comfortable king bed after exploring Music City, relax in the living room, and take advantage of your private space throughout your stay.
+
+You're conveniently located near **Downtown Nashville, Broadway, Germantown, East Nashville, Midtown, the Gulch, Nissan Stadium, Bridgestone Arena, Ryman Auditorium, and the Country Music Hall of Fame**.
+
+Whether you're visiting for a weekend getaway, concert, sporting event, business trip, or to experience Nashville's famous live music scene, this private apartment is a comfortable home base for your stay.
+
+Guest access
+Guests will be able to park free on the street.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville Rentals
+Host User ID: 1750267930190142652
+Host Profile URL: https://www.airbnb.com/users/show/1750267930190142652
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+4.67 out of 5 average rating
+1 month of hosting

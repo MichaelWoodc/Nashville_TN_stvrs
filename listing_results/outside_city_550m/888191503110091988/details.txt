@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/888191503110091988
+Latitude: 36.26303
+Longitude: -86.6214
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relaxing & peaceful home - only minutes to Old Hickory Lake, Sanders Ferry Park, restaurants, shopping and 25 minutes to downtown Nashville.
+
+The space
+Recently renovated ranch style, single story house with 3 bedrooms, 2 baths and bonus room with office space. Private long driveway for free parking, single car garage and private, fenced backyard with deck for entertaining.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jonathan
+Host User ID: 46748000
+Host Profile URL: https://www.airbnb.com/users/show/46748000
+Host Profile URL Source: public user permalink from passport userId
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within a day
+Superhost
+3 years hosting
+16 reviews
+4.88 out of 5 average rating
+3 years of hosting

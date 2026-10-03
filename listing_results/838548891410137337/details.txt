@@ -1,0 +1,76 @@
+URL: https://www.airbnb.com/rooms/838548891410137337
+Title: East Nashville Stay | Sleeps 10 | Near Five Points
+Latitude: 36.20359584936691
+Longitude: -86.74307113296888
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make East Nashville your home base in this stylish 3-bedroom townhouse, sleeping up to 10. Just steps from coffee shops, vintage stores, bars, restaurants, and close to Five Points, with Broadway a short drive away. Enjoy 5 beds, 2.5 baths, an open living space, full kitchen, bar area, and room to relax. Plus, an attached private 2-car garage with EV charger for easy, stress-free parking. Perfect for groups, families, wedding weekends, and concert trips seeking comfort and convenience in style.
+
+The space
+The house sleeps up to 10:
+• Bedroom 1: King bed
+• Bedroom 2: Two queen beds
+• Bedroom 3: Queen-over-queen bunk bed
+• 2.5 bathrooms
+
+You’ll also have a fully equipped kitchen, fast Wi-Fi, washer and dryer, smart TVs in every bedroom, central air and heat, a game closet, turntable, and everything you need for a comfortable stay.
+
+THE NEIGHBORHOOD
+
+You’re staying in East Nashville—not in a generic downtown tourist district. Five Points and the surrounding area are home to some of our favorite restaurants, bars, coffee shops, clothing stores, music spots, and one of the hippest honky-tonks in the city. And when you want more honky-tonks, concerts, or sporting events, Broadway is only a short drive away.
+
+It’s a particularly good setup for groups of friends, wedding weekends, concert trips, families, and anyone who wants to experience Nashville together while still having a comfortable place to come home to.
+
+PARKING
+
+You’ll have an attached private two-car garage with an EV charger. Additional parking details are provided before arrival.
+
+CHECK-IN
+
+Self check-in makes arrival easy. And your local hosting team is available if you need anything during your stay.
+
+We’d love for the house to feel less like a place you rented for the weekend and more like your own East Nashville home while you’re here.
+
+Guest access
+Enjoy full access to the entire three-story home, providing you with ample space to relax and unwind. While some closets remain locked for personal storage, the rest of the house is yours to make the most of. Should you need any assistance or have questions during your stay, feel free to reach out – We are dedicated to ensuring your experience is nothing short of exceptional!
+
+Other things to note
+ATTENTION LOCAL GUESTS: All locals must send an 'inquiry' first using the 'Contact Host' option on the booking page to state the purpose of your visit, so we can check to see if we would be able to accommodate your stay; otherwise, we reserve the right to cancel any confirmed reservation made without our approval.
+
+There is a rental agreement that needs to be signed after each booking is confirmed. It will be sent over immediately after booking and can be signed digitally.
+
+Registration Details
+2023005441
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julian
+Host User ID: 88959664
+Host Profile URL: https://www.airbnb.com/users/show/88959664
+Host Profile URL Source: public user permalink from passport userId
+Hello, I'm Julian!
+I was born and raised here in Nashville. While Nashville has changed a lot over the years, my love for this great city has remained constant! I enjoy traveling, exercising, reading, movies, and spending time with my wife and dogs. I began my hosting career with just one personal property and I quickly fell in love with it & decided to pursue a career in it! I haven't looked back since and have loved the ride!
+
+-Julian
+Born in the 90s
+My work: Carebnb Properties
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+4607 reviews
+4.89 out of 5 average rating
+9 years of hosting

@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/610703005521091836
+Latitude: 36.33044
+Longitude: -86.70243
+rental_type: Entire place
+property_type: OTHER
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This place is a great location to audio engineer a band or film a music video. We have tons of props you can rent. We have various lighting kits and smoke machines and many other extras depending on what you need.
+
+The space
+You get access to the studio for a full day. We can add on any extras you might need like audio or video gear, an engineer or videographer, etc. just reach out about what your needs may be.
+
+Guest access
+You will have access to everything in the whole studio except one tiny storage closest where we keep the hard drives
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Melissa
+Host User ID: 127536466
+Host Profile URL: https://www.airbnb.com/users/show/127536466
+Host Profile URL Source: public user permalink from passport userId
+I am a videographer and music producer in Nashville, TN. I Iove helping people have amazing unique experiences and I love people!!
+Lives in Nashville, Tennessee
+Pets: Jagger the dog
+4 years hosting
+7 reviews
+5.0 out of 5 average rating
+4 years of hosting

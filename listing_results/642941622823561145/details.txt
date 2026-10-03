@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/642941622823561145
+Latitude: 36.20408
+Longitude: -86.78443
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 6
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+BRAND NEW 3 bedroom house 3-5 minutes from Broadway and all of downtown's attractions. Get to downtown without having to get on the interstate. Spacious living area that includes a large sectional sofa, 65” TV (Wi-Fi, Hulu, and Netflix included).  Two bedrooms that include comfy queen beds and one bedroom with two bunk beds.  Pet’s are welcome (deposit).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Colton
+Host User ID: 67503620
+Host Profile URL: https://www.airbnb.com/users/show/67503620
+Host Profile URL Source: public user permalink from passport userId
+Cc
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+61 reviews
+4.93 out of 5 average rating
+9 years of hosting

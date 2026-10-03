@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/21771280
+Latitude: 36.1451
+Longitude: -86.7638
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to a modern Nashville townhome with a private rooftop deck, designed for comfort, space, and easy city living. The home features a bright, open-concept living area with natural light and a fully equipped kitchen ideal for cooking or entertaining. Relax after exploring Music City or gather with your group in a stylish setting. Located just minutes from Broadway, downtown Nashville, restaurants, and major attractions, this home is perfect for group trips, events, or weekend getaways.
+
+The space
+Open Living Area
+A spacious living room flows seamlessly into the fully equipped kitchen, complete with a large dining table and island seating—perfect for meals and entertaining.
+
+Bedrooms & Laundry
+Three comfortable bedrooms are located two upstairs and one downstairs each with its own full bathroom. A washer and dryer are also available for guest use.
+
+Rooftop Oasis
+The third floor features a private rooftop retreat with lounge seating and a large flat-screen TV, ideal for relaxing or enjoying a night in.
+
+Garage & Parking
+One-car garage included, with additional guest parking inside the gated community. Street parking is also available.
+
+Guest access
+Guests will have private access to the entire home.
+
+A personalized door code will be sent the day before arrival. On the day of check-in, you’ll receive a message with full access details and helpful local recommendations for a smooth arrival.
+
+Other things to note
+The home is located steps from Soho House Nashville and surrounded by some of the city’s best restaurants, cafés, and nightlife, making it easy to explore Nashville on foot or with a short ride.
+
+This is a city townhome, so you may hear normal urban activity, especially during weekends. The rooftop is a favorite feature, please be mindful of quiet hours in the evening out of respect for neighbors.
+
+Garage access is from the rear alley, and street parking in front of the home is also permitted. Starter essentials are provided, and smart TVs are ready for guests to log in to their personal streaming accounts.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Guy And Itay
+Host User ID: 158629193
+Host Profile URL: https://www.airbnb.com/users/show/158629193
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+711 reviews
+4.92 out of 5 average rating
+9 years of hosting

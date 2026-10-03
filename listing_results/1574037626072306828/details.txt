@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1574037626072306828
+Latitude: 36.19555
+Longitude: -86.77007
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 5
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Make your Nashville getaway unforgettable in this luxury 4-bedroom retreat just 3 miles from Broadway! Gather on your private rooftop with skyline views and hot tub, cook in the chef's kitchen with seating for 14, and relax in stylish bedrooms with memory foam beds. This home was designed for groups who want comfort, fun, and convenience all in one. Enjoy all the amenities one could need while feeling the energy of Downtown Nashville!
+
+The space
+Elevated design meets Nashville energy! Nestled in The Lucy, a luxury vacation rental community minutes from Broadway, Germantown, and East Nashville, this striking home is built for groups who want both flair and function. Every detail is curated for bachelorette weekends, family trips, and group getaways with photo-ready finishes, bold design touches, and spaces that bring people together. From the stylish living room and chef's kitchen to the sprawling rooftop deck, This beautiful home delivers the perfect mix of luxury and entertainment. Unwind in the rooftop hot tub under the skyline, gather for dinner at the 14-seat dining table, or recharge in bedrooms with plush memory foam mattresses and custom darkening drapes. With convenience features like USB charging stations, smart lock entry, and an in-unit washer/dryer. Our home ensures your stay is as seamless as it is memorable.
+
+Private garage with 2 spaces is available and free street parking is also available.
+
+Guest access
+You and your group will have this entire home completely to yourself! 
+
+Bedroom Info - 
+
+All of the bedrooms have full size beds in them except one has a queen and a full bunk beds set. 
+
+Two of the 4 bedrooms have an en suite full bathroom and the other two share a his and her bathroom. 
+
+Lastly, there is a pull out sofa bed as well that you are welcome to use as well. :)
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wes
+Host User ID: 72485541
+Host Profile URL: https://www.airbnb.com/users/show/72485541
+Host Profile URL Source: public user permalink from passport userId
+I am long time Nashvillian. Over the past few years, I have witnessed our city go through some exciting changes to become one of the best towns around! I enjoy spending time with my husband and 7 year old and 1 year old sons, live music, and traveling whenever possible. My family and I would love to have you visit our amazing city and stay in our charming little cozy home. My husband and I are very easy to work with and want to make this as smooth as possible. :)
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+902 reviews
+4.88 out of 5 average rating
+9 years of hosting

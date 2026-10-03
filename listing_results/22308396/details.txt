@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/22308396
+Latitude: 36.15647
+Longitude: -86.71422
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 5
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy beautiful views from this cozy retreat 10 minutes from everything (the airport, downtown, Opryland).  Our home is nestled on one wooded acre in a quiet neighborhood, while being close to all the attractions Nashville has to offer, so you'll be able to conveniently explore downtown Nashville, while also being close to nature. Permit current year 035713
+
+The space
+This 1100 sq ft. apartment with a separate private entrance, includes a double suite with two semi-private bedrooms separated by a walk-through closet and curtains on either side.  It is located on the first floor of our house, while we live on the second floor.  There are 3 queen sized beds including the sofa bed in the living room and two additional twin sized sofa beds in each of the bedrooms. There is also a fully stocked kitchen with as many conveniences of home as we could think of. Please note: the apartment is located halfway up a steep hill.
+
+Guest access
+There is a separate private entrance, so guests can come and go at all hours without disturbing anyone. Every room in the apartment and the foyer is accessible. You will also have access to the patio and bench outside.
+
+Other things to note
+We provide cleaner, safer water from the taps and shower, with a (whole-house) 3-Stage Water Filtration System.
+
+We use EMF remediation technology for the entire house as well.
+
+We can also provide an air purifier upon request.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shannah
+Host User ID: 11845111
+Host Profile URL: https://www.airbnb.com/users/show/11845111
+Host Profile URL Source: public user permalink from passport userId
+Lives in New York, New York
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+354 reviews
+4.81 out of 5 average rating
+8 years of hosting

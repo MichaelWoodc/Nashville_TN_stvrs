@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1659457002542000573
+Latitude: 36.14912
+Longitude: -86.79409
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Boutique Nashville studio in Midtown! Walk to local restaurants or enjoy a drink nearby. This pet-friendly stay offers resort-style amenities including a pool & lounge, a gym, and a lobby with meeting spaces, a printer, and snacks available for purchase. Inside the studio, you’ll find an in-unit washer & dryer, a king bed, cozy seating, and a fully equipped kitchen. Ideal for short or extended stays, it’s an easy mix of Music City fun, comfort, and convenience.
+
+The space
+Building Accommodations & Amenities:
+* Located in Midtown, walking distance to local restaurants, bars, and Nashville’s iconic music scene
+*Pet-friendly with a gated, 24/7 pet relief area
+*Resort-style pool and lounge, and gym conveniently on the same floor as your studio.
+*Stylish lobby with meeting spaces, printer, and snacks for purchase.
+*Elevator access and secured building entry.
+*Free parking for one vehicle is included in the parking garage. This monthly parking pass is provided and paid for by the unit, and guests are welcome to use it at no additional charge. A $50 fee will be charged for any lost parking pass.
+
+Studio Features & Amenities:
+*Open-concept layout with chic, Music City–inspired décor.
+*King bed with nightstand and charging station.
+*Cozy seating area with coffee table.
+*Pull-out smart TV above the fridge (streaming accounts required).
+*Fully equipped kitchen with fridge, oven/stove, microwave, dishwasher, and coffee maker.
+*Modern bathroom with stall shower and premium fixtures.
+*In-unit washer & dryer.
+
+Guest access
+The building allows a maximum of two dogs, each weighing no more than 60 lbs. Unfortunately, this policy is strictly enforced and we don’t have any flexibility to make exceptions.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gretchen
+Host User ID: 77930747
+Host Profile URL: https://www.airbnb.com/users/show/77930747
+Host Profile URL Source: public user permalink from passport userId
+Our journey with Airbnb began in 2016 when we started renting out our personal home while traveling. What started as a simple side project quickly grew into a passion—creating exceptional stays where guests can relax, make memories, and feel at home. Now, as a family with two young children, we not only love hosting in our own properties but have also expanded to helping others provide top-quality stays in the area.
+Lives in Franklin, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+5781 reviews
+4.89 out of 5 average rating
+9 years of hosting

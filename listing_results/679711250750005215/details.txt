@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/679711250750005215
+Latitude: 36.2364
+Longitude: -86.7792
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Quiet neighborhood 3 bd w/ easy access to Opry & the airport. 5 miles/ 10 minutes to downtown! 
+
+Centrally located. (11 AM checkout, most are 10) 
+
+Large private fenced in backyard. Dog friendly. 
+
+Luggage storage available. 
+
+Enjoyable Amenities: 
+
+* Easy access to downtown 
+* Plentiful parking, including offstreet 
+* Fire pit in spacious fenced yard 
+* Propane grill  
+* Free washer dryer onsite
+
+The space
+Home has 3 bedrooms fitted with king sized beds and vanities for getting ready as well as two sleeper sofa in the living room.
+This quiet neighborhood is perfect for families or large groups needing a break from the chaos downtown while still being a quick uber to Broadway.
+
+Guest access
+Guests will have access to all amenities, including the private backyard. The property includes a fully separate basement unit with its own private entrance. There are no shared indoor living spaces, and guests have full privacy in the main home. The property manager stays in the in the basement unit but is frequently away. If anything comes up during your stay, they are nearby and available to assist if needed.
+
+Other things to note
+Private fully fenced backyard with fire pit.
+Easy 6 miles to downtown Nashville on a highway with little traffic (typically 10 mins) or $10 uber.
+15 minutes from airport
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joe
+Host User ID: 338294235
+Host Profile URL: https://www.airbnb.com/users/show/338294235
+Host Profile URL Source: public user permalink from passport userId
+Travel addict and Airbnb host in Nashville!
+Lives in Nashville, Tennessee
+Response rate: 67%
+Responds within a day
+Superhost
+4 years hosting
+69 reviews
+4.94 out of 5 average rating
+4 years of hosting

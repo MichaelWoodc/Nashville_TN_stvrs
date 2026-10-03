@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/1658239157779422524
+Latitude: 36.1449
+Longitude: -86.8154
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 16
+beds: 32
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a buyout of the full property. The space has 16 separate bedrooms offering a max occupancy of 34. This is perfect for weddings, graduations, or special occasions in your life where everyone wants to be together, but have their own private space and sleeping quarters.
+
+The space
+The 121 Hotel’s accommodations will make you feel immediately at home, thanks to their residential-style design and impeccably selected furnishings. With a contemporary but restrained look, it will feel like your own Nashville luxury pied-à-terre. Offering the ultimate in flexibility, The 121 Hotel allows guests to reserve an individual room or suite; our extraordinary penthouse residence; an entire floor or the entire building for an extraordinary experience for groups or events. Full catering and programming services are available to make your stay unforgettable.
+
+Features:
+Modern California King Bed
+Plush California King Mattress
+Comfortable Seating Area
+Overdyed area rugs
+Undercounter refrigerator
+Walk-in, duel head shower/or soaking tub
+Ceiling fan
+In-room Coffee
+Independent air control system
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brock
+Host User ID: 150197381
+Host Profile URL: https://www.airbnb.com/users/show/150197381
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+174 reviews
+4.9 out of 5 average rating
+9 years of hosting

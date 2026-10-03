@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/30952435
+Latitude: 36.1725
+Longitude: -86.8063
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Nashville House!
+Located just 2 to 3 miles from downtown attractions like Nissan Stadium, Broadway, The Gulch, and Ryman Auditorium, this spacious home accommodates up to 12 guests.
+
+Enjoy two master bedrooms—one upstairs and one downstairs—and a bunk room with four cozy double beds and a twin futon, perfect for families or friends.
+
+With its prime location and thoughtful amenities, The Nashville House is the ideal base for exploring Music City. We can’t wait to welcome you!
+
+The space
+Experience blazing-fast fiber internet and TVs equipped with Roku for your entertainment needs.
+
+Enjoy the convenience of a quick Uber ride to downtown, located just 2-3 miles away—perfect for those who thrive in the heart of the action while having the comfort of home close by.
+
+Nestled in one of Nashville's rapidly evolving neighborhoods, adjacent to Fisk University, this area beautifully blends the charm of historic roots with modern innovation. Our sense of community and connection with our neighbors truly enriches the experience.
+
+We’re eager to share the hidden gems of Nashville, showcasing the city's vibrant culture beyond the typical tourist spots.
+
+Situated only 2.5 miles from Downtown, The Gulch, and the iconic Ryman Theatre, and just over 2 miles from the scenic Centennial Park, you’ll find everything you need right at your doorstep!
+
+Other things to note
+Close proximity to many local attractions, including:
+2.0 miles from beautiful Centennial Park
+2.5 miles from the historic Ryman Theater
+2.5 miles from Downtown and The Gulch
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lynn
+Host User ID: 231273495
+Host Profile URL: https://www.airbnb.com/users/show/231273495
+Host Profile URL Source: public user permalink from passport userId
+Hi
+I'm a real estate developer from Hampton Roads Virginia.  Best known for having seven amazing kids and an extraordinary wife.   We live in Nashville Tennessee and Hampton Roads Virginia on the Chesapeake Bay. That's our elaborate plan for stalking our kids.  They live in cities we like.  We develop real estate there and provide great places for others to come home as well
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1647 reviews
+4.9 out of 5 average rating
+8 years of hosting

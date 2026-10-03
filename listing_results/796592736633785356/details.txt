@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/796592736633785356
+Latitude: 36.13128
+Longitude: -86.81401
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 8
+beds: 15
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+(Please do not instant Book-Message first to confirm availability.) 
+7 1/2 Bathrooms! 
+
+Bed Breakdown 
+
+King Bed 
+King Bed 
+Queen Bed
+Queen Bed 
+King Bed 
+Queen Bed
+Built in bunk bed (we had them built in so they are really nice) with 2 full beds.
+King Bed Bed
+Queen Bed
+5 twin beds
+
+The space
+Experience historic charm in our newly renovated 7-bedroom, 5.5-bathroom luxury rental, perfect for large gatherings and weddings. Enjoy the one-of-a-kind outdoor kitchen and spacious living areas, all just a stone's throw away from downtown.
+
+(Option to rent the 2 bedroom attached apartment making it a total of 9 bedrooms 7 1/2 bath) 
+
+Escape to our historic yet modern luxury BNB vacation rental, originally built in 1925 and nestled in the heart of downtown. Immerse yourself in the charm of a bygone era while enjoying modern amenities, perfect for large gatherings and weddings. 
+
+Our spacious rental boasts a one-of-a-kind outdoor kitchen, perfect for hosting outdoor gatherings with family and friends. Inside, you'll find plenty of room to relax and unwind in the luxurious living areas and bedrooms, each uniquely decorated with modern accents and vintage charm.
+
+Our home offers ample space for up to 16+ guests to rest and recharge after a long day of exploring downtown. 
+
+Whether you're visiting for a wedding or simply looking to escape the hustle and bustle of everyday life, our rental is the perfect choice. With a prime location just steps from downtown, you'll have easy access to all the best shopping, dining, and entertainment options the area has to offer.
+
+Don't miss out on this one-of-a-kind vacation rental experience. Book your stay today and start making memories that will last a lifetime.
+
+** We no longer have the piano in the cover photo as we added more beds to the property**
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam Lanning
+Host User ID: 72969482
+Host Profile URL: https://www.airbnb.com/users/show/72969482
+Host Profile URL Source: public user permalink from passport userId
+My work: Real Estate Pro
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+161 reviews
+4.94 out of 5 average rating
+10 years of hosting

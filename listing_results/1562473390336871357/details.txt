@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1562473390336871357
+Latitude: 36.2312
+Longitude: -86.724
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Our Zen Den condo blends boutique-hotel luxury with serene, thoughtful design. Plush, ultra-cozy bedding and seating designed for total comfort. Organic café in the lobby. Rooftop terrace, perfect for sunset lounging or a peaceful morning stretch. Thoughtful amenities and a clean, modern layout make it easy to unwind and feel at home. Whether you're in town for music, food, business, or a restorative getaway, the Zen Den is where comfort meets convenience. Breathe in. Chill out. Explore freely.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 16091237
+Host Profile URL: https://www.airbnb.com/users/show/16091237
+Host Profile URL Source: public user permalink from passport userId
+I’m Lauren, I love my family and traveling!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+19 reviews
+5.0 out of 5 average rating
+10 months of hosting

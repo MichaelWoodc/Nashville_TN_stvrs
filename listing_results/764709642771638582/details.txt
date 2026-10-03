@@ -1,0 +1,27 @@
+URL: https://www.airbnb.com/rooms/764709642771638582
+Latitude: 36.07244
+Longitude: -86.9746
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish experience at this centrally-located place. we invited you to walk the trails or do a lot nighter in Broadway everything is close by
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shy
+Host User ID: 486962207
+Host Profile URL: https://www.airbnb.com/users/show/486962207
+Host Profile URL Source: public user permalink from passport userId
+4 years hosting

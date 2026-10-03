@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1729365598092915967
+Latitude: 36.1247
+Longitude: -86.7626
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 5
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style! Brand-new luxury townhome sleeps 12 with stunning city skyline views from the rooftop. Perfect for friend trips, bachelor/bachelorette weekends, and group getaways. 
+
+Enjoy fun, modern décor, a rooftop grill, ping pong table, spacious living areas, and all-new amenities. Pet friendly and thoughtfully designed for comfort, entertainment, and unforgettable Music City memories just minutes from the action.
+
+The space
+Spacious for Groups 
+	•	5 private bedrooms with premium mattresses 
+
+🌇 Private Rooftop w/ Nashville Views
+Relax or celebrate on your private rooftop with Nashville skyline views—perfect for morning coffee, sunset cocktails, or pre-Broadway nights out.
+
+ Amenities You’ll Love
+	•	Free parking for 1 car by townhouse
+	•	Fast WiFi (great for remote work)
+	•	Smart TVs in main areas 
+	•	Fully stocked kitchen w/ new appliances
+	•	Washer & dryer
+   
+
+Ping pong table, grill available for use
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Montana
+Host User ID: 483577405
+Host Profile URL: https://www.airbnb.com/users/show/483577405
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 months hosting
+10 reviews
+4.6 out of 5 average rating
+4 months of hosting

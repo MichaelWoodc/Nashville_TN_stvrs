@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/21738248
+Latitude: 36.1737
+Longitude: -86.7374
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 0
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a private studio apartment with loft in our backyard. It has a full kitchen & bathroom with a queen bed on the main floor & 2 single platform beds in loft (the ladder is too steep for children).  Private entrance & off street parking.   We're located in the heart of Lockeland Springs in East Nashville within walking distance to bars, restaurants, & shops--8 blocks to Five Points area, 1 block to Shelby golf course.  Pets considered with pet fee (see house rules).  STRP Permit #2017069285
+
+The space
+Our guesthouse has vaulted ceilings and features lots of natural light.  There is a full kitchen with coffee makers, microwave, refrigerator, tea kettle and oven.
+
+Please note the loft has 2 twin beds accessed by a rolling ladder. This ladder is not a toy and should only be used to access sleeping. This notification serves as a hold harmless waiver for use of the ladder and loft.  This area is not appropriate for young children, and minors using this area should be supervised by an adult.
+
+Guest access
+There is a small fenced garden area just outside your private entrance with a bistro table and chairs.  
+
+Guests do not have access to the main backyard. It is for private use only by the main home.
+
+Check in is at 3:00pm, and check out is at 11:00am.
+
+Other things to note
+Please note the loft has 2 twin beds accessed by a rolling ladder. This ladder is not a toy and should only be used to access sleeping. This notification serves as a hold harmless waiver for use of the ladder and loft.  This area is not appropriate for young children and minors using this area should be supervised by an adult.
+
+Check in is at 3:00 pm central time, and check out is at 11:00 am central time.  We at times can accommodate early/late check in/out with approval. There is a fee associated. Please see the house manual link in the confirmation message for the fee schedule.  
+
+We have a strict check-out time by 11 a.m. If you are still on the property after 11 a.m. without prior approval, you will be charged an additional fee. You can see the fee schedule in the house manual link in the confirmation message.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael & Mary Beth
+Host User ID: 96083098
+Host Profile URL: https://www.airbnb.com/users/show/96083098
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+293 reviews
+4.96 out of 5 average rating
+9 years of hosting

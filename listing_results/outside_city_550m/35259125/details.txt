@@ -1,0 +1,93 @@
+URL: https://www.airbnb.com/rooms/35259125
+Latitude: 36.3913
+Longitude: -86.4834
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+- Free WiFi
+- Off-Street Parking
+- 2,200 Sq Ft
+
+Discover the history, listen to live music, experience outdoor adventures, peruse local shops, savor delicious eats, and so much more in this Nashville area. Book this 3-bedroom, 2-bathroom vacation rental house in Gallatin to enjoy top amenities such as a screened porch, gas grill, media room, jetted bathtub, and lovely decor featured throughout.
+
+The space
+SLEEPING ARRANGEMENTS:
+- Bedroom 1: King Bed
+- Bedroom 2: Queen Bed
+- Bedroom 3: Queen Bed
+
+INDOOR LIVING:
+- Ceiling fans
+- Jetted bathtub
+- Cinema/movie theater, projector screen, surround sound speakers, DVD player
+- Gas fireplace
+- 3 Smart TVs w/ cable
+
+OUTDOOR LIVING:
+- Screened porch
+- Outdoor dining area
+- Gas grill
+- Ceiling fan
+- Patio 
+
+KITCHEN:
+- Fully equipped
+- Stainless steel appliances
+- Kitchen island
+- Blender
+- Standard drip coffeemaker, Keurig
+- Cooking basics
+- Crockpot
+
+GENERAL: 
+- Central air conditioning & heating
+- Complimentary toiletries 
+- Washer & dryer
+- Linens/towels
+- Long term renters
+
+PARKING:
+- Garage (2 vehicles)
+- Driveway (4 vehicles)
+- Street parking
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: Your safety matters. An exterior security camera is located at the garage, facing out towards the entrance. The camera does not look into any interior spaces
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Evolve
+Host User ID: 121235121
+Host Profile URL: https://www.airbnb.com/users/show/121235121
+Host Profile URL Source: public user permalink from passport userId
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.
+
+We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+My work: Evolve
+Speaks English, French, and Spanish
+Response rate: 100%
+Responds within an hour
+9 years hosting
+52050 reviews
+4.67 out of 5 average rating
+9 years of hosting

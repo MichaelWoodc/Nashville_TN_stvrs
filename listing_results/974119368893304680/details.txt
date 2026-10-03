@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/974119368893304680
+Latitude: 36.11766
+Longitude: -86.76923
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Berry Hill, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 6
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience the charm of Nashville in this unique design of a modern Loft . With an open floor plan and a spacious rooftop deck, it's the perfect home base for your stay in Nashville. Located in the heart of Melrose in Berry Hill, a small city within a city in Nashville also known as "Music Hill".  Walkable to many music hill attractions, restaurants, big machine brewery, recording studios, and escape game. 2 miles to Downtown, Broadway, and The Gulch. 
+
+STRP#2026-09-15-766
+
+The space
+This is a three level townhome with rooftop deck.  The first level includes the attached garage, kitchen, dining, and living room with a powder bath. On the second level you have the primary bedroom with king bed and ensuite bath, laundry room, and another bedroom with king bed and ensuite bath.  The third level includes the bonus room and rooftop patio with fireplace, as well as two additional bedrooms with king beds, and a hall bath.  There is a sleeper sofa in the living room and bonus room.  Each bedroom has a ceiling fan, TV, and sound machine.  
+
+Credit Card Processing Fees are non-refundable.
+
+Guest access
+Guests have access to the entire private home and attached two car garage that can fit two small or mid-size vehicles.  One additional dedicated parking space is available behind the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura & The Music City Collection
+Host User ID: 69852847
+Host Profile URL: https://www.airbnb.com/users/show/69852847
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+3263 reviews
+4.88 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1752002401290735947
+Latitude: 36.16939
+Longitude: -86.81299
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Kick back and relax in this calm, stylish music city oasis where you can recover from your downtown night life in peace with your person or best friend. This is a musical oasis for creative minds and adventurous souls.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Saaneah
+Host User ID: 303035054
+Host Profile URL: https://www.airbnb.com/users/show/303035054
+Host Profile URL Source: public user permalink from passport userId
+I’m a whimsical colorful sanging soul aiming to bring more peace love and harmony in the world one song at a time! Be the change you wish to see! Oh and I can’t stand bad smells or things that aren’t super clean. I pay attention to details, it’s the Virgo in me!
+Where I went to school: Tennessee State University
+My work: Musical Artist
+My biography title: Defying the Odds
+Lives in Nashville, Tennessee
+For guests, I always: Bring a joyful energy everywhere I go
+Response rate: 100%
+Responds within a few hours
+1 month hosting
+3 reviews
+5.0 out of 5 average rating
+1 month of hosting

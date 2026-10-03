@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/610734477342421222
+Latitude: 36.20269568442721
+Longitude: -86.73523507595291
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy South Inglewood bungalow just 10 minutes from downtown Nashville with easy freeway access. Enjoy the neighborhood’s relaxed, creative vibe and view the beautiful willow tree from your private balcony. Shelby Bottoms Greenway — a short drive or bike ride away — offers miles of scenic trails and river views. Dedicated workspace with fast fiber Wi-Fi makes it perfect for weekend couples or remote stays. YMCA within walking distance.
+
+Other things to note
+Third-party bookings are not permitted. The person making the reservation must be present for the duration of the stay.
+
+Parties and events are strictly prohibited.
+
+The apartment can accommodate up to 6 people during the day; however, a maximum of 4 guests are permitted to stay overnight. All guests must be registered during the booking process.
+
+Access to the rear of the property is not permitted.
+
+Please note: ceiling height is slightly lower than standard. Guests taller than a typical door frame height may find the space less comfortable.
+
+Registration Details
+2022049403
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derek
+Host User ID: 17574930
+Host Profile URL: https://www.airbnb.com/users/show/17574930
+Host Profile URL Source: public user permalink from passport userId
+Hey ya'll,
+
+I'm a native Nashvillian that likes to travel from time to time. I enjoy seeing unique spaces and experiencing life from the perspective of a local.
+
+I work as a Software Engineer and sometimes travel for work as well.
+
+See you on the adventure!
+
+Cheers,
+Derek
+Born in the 80s
+My work: Software Engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+54 reviews
+5.0 out of 5 average rating
+2 years of hosting

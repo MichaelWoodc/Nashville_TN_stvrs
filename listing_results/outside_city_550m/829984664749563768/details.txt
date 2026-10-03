@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/829984664749563768
+Title: Cottage Retreat Historical Downtown Nolensville
+Latitude: 35.94716
+Longitude: -86.66829
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nolensville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+"The Cottage Retreat" is located walking distance to Old Historic Nolensville with shops, coffee, food and more to enjoy. Going to Nashville for a night out? No problem, an easy 25 minute drive or uber ride. This home is 2,100 sq. ft. 3 bedrooms 2 bathrooms on 1.30 acres. Enjoy an evening poolside, yard games, or just a nice fire with some wine and smore's.
+
+No dogs over 20 lbs and Absolutely no dogs on the pool deck. No cats sorry as people are highly allergic to.
+
+The space
+3 queens beds and 1 king bed
+
+Guest access
+House, pool deck, and backyard.
+
+Other things to note
+This unique property boasts three short-term rentals. You can rent the entire property for family and friends, or you can rent an individual unit. If you choose to rent an individual unit, rest assured that the other areas will be unavailable for other renters. You’ll have exclusive access to your chosen space.
+
+You'll have access to the large backyard where you can enjoy the pool, swing set, picnic tables, yard games, smokeless fire pit, and more. This rental also includes an indoor lounge area that can be used for our Airbnb’s guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cassie
+Host User ID: 198316261
+Host Profile URL: https://www.airbnb.com/users/show/198316261
+Host Profile URL Source: public user permalink from passport userId
+My work: Entrepreneur
+Speaks English
+Response rate: 100%
+Responds within an hour
+8 years hosting
+342 reviews
+4.71 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/932883267447606775
+Latitude: 36.28896
+Longitude: -86.62084
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Locked bedroom has a daybed with a twin trundle. There is a TV in the bedroom. Great location in Hendersonville with access to kitchen, living room, dining room, laundry room, outdoor area including hot tub and fire pit. Close to marina, restaurants, greenways and less than 25 minute drive to downtown Nashville and Opryland.
+
+Guest access
+Guests have access to all parts of the house except for the other bedrooms.
+
+Other things to note
+There is absolutely no smoking on my property.  Any evidence of smoking will incur a $250 fee.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 52471685
+Host Profile URL: https://www.airbnb.com/users/show/52471685
+Host Profile URL Source: public user permalink from passport userId
+My work: Retired
+I spend too much time: Traveling!
+Speaks English
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+10 years hosting
+110 reviews
+4.78 out of 5 average rating
+10 years of hosting

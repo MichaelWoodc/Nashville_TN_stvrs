@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/1703117272016580634
+Latitude: 36.2013
+Longitude: -86.7544
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy fall in Nashville from this stylish East Nashville townhome, just 10 minutes from downtown. Spacious bedrooms with en-suite baths, smart TVs, a rooftop grilling deck, and a garage game lounge make it perfect for groups and weekend getaways. Enjoy free parking, nearby dining and entertainment, and a comfortable retreat close to the best of Music City.
+
+The space
+Welcome to Your Brand New 4BR/3 Bath East Nashville Home!
+
+Other things to note
+Escape to Music City in style with our luxurious, newly built 4-bedroom, 3-bathroom home in trendy East Nashville. Perfect for family trips, friend gatherings, and bachelorette/bachelor parties, this home offers the comfort and convenience of your own space.
+
+Key Features:
+Spacious Accommodation: Perfect for groups, this home comfortably sleeps 12+ with 4 large bedrooms, 8 beds, and 2 cozy couches, including full-size bunk beds.
+
+Rooftop Retreat: Unwind on the third-floor balcony featuring outdoor couches, a pergola, a gas fire pit, string lights, and a gas grill—your private paradise.
+
+Entertainment Haven: Enjoy a game room in the attached garage, equipped with a pool table, arcade machine, poker table, basketball game, TV, and an Insta-worthy photo wall.
+
+Home Entertainment: Stay entertained with a karaoke machine, record player, smart TVs (Netflix/Roku), and high-speed WiFi throughout the house.
+
+Fully Equipped Kitchen: Everything you need for cooking and dining is at your fingertips.
+
+Comfort & Convenience: Experience ultimate ease with keyless entry, adjustable A/C and furnace units on every level, a washer/dryer, and blackout curtains in each bedroom.
+
+Safety First: Rest easy with a home alarm system, guest safety cameras, and Alexa music in the kitchen.
+
+Luxurious Master Suite: Indulge in the master suite featuring a spacious walk-in shower and closet.
+
+Thoughtful Extras: Enjoy filtered water and ice from the fridge, along with stunning local mural art that adds a unique touch to the home.
+
+Location:
+Located in East Nashville, you're minutes from the best restaurants, cafes, record stores, and graffiti art. Plus, a quick drive to:
+~ Downtown (7 min)
+~ Broadway (9 min)
+~ Airport (14 min)
+~ Easy Lyft/Uber access to all Nashville attractions.
+
+Guest Access:
+Keyless entry with a unique code provided before your stay.
+Free parking available on the street and within the complex.
+Check-in at 3 pm, and check-out at 10 am.
+
+Important Notes
+For our insurance, you will need to send your ID via the platform messenger after booking
+No Parties or events
+Locals are prohibited from renting
+No Pets: HOA rule—violations result in a fine.
+No Smoking: Includes rooftop, inside, or garage. $1,000 smoking fee at check-out.
+Security: 2 outdoor cameras facing the street and a home alarm system are in place.
+
+Book Now and Unleash the Nashville Experience!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Premier Management
+Host User ID: 230558108
+Host Profile URL: https://www.airbnb.com/users/show/230558108
+Host Profile URL Source: public user permalink from passport userId
+Hello and Thank You for visiting our profile for Premier Management Group. We are a full service real estate management company located just outside of Nashville, TN. We offer services for long term and short term rentals as well as leasing  and management services for commercial properties. In addition, all of our property managers are fully licensed real estate professionals helping buyers and sellers in our area. We are excited to work with you for your visit here. Whether it be a short stay, long term stay, or a permanent relocation; our property managers are eager to assist you.
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+656 reviews
+4.91 out of 5 average rating
+7 years of hosting

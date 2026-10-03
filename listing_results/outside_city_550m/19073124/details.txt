@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/19073124
+Latitude: 36.34448
+Longitude: -86.92891
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Joelton, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Starlight Retreat — a peaceful country escape where guests can relax, explore, and enjoy nature at their own pace. Nestled on a quiet, private 1.5-acre lot, right outside of Nashville this charming 2-bedroom, 1-bath home comfortably sleeps up to 5 guests and offers the perfect balance of space, comfort, and convenience.
+
+The space
+Welcome to The Starlight Retreat — a peaceful country escape where guests can relax, explore, and enjoy nature at their own pace. Nestled on a quiet, private 1.5-acre lot, right outside of Nashville this charming 2-bedroom, 1-bath home comfortably sleeps up to 5 guests and offers the perfect balance of space, comfort, and convenience.
+
+🌿 Why guests love staying here:
+• Large private yard with plenty room to enjoy
+• Calm, quiet setting away from busy roads and city noise
+• Hosted by an experienced Superhost who values comfort, cleanliness, and clear communication
+
+🌞 Nature by day, stars by night:
+Mornings are filled with birdsong and peaceful views — the birds here are truly beautiful. In the evenings, gather outside by the fire pit and look up: on clear nights, the stars absolutely light up the sky. Guests often spot both the Big Dipper and Little Dipper, making stargazing a favorite family tradition during their stay 🌌
+
+🏡 Comfortable & practical inside:
+• Cozy living room for movie nights or board games
+• Fully equipped kitchen for easy family meals
+• Comfortable beds and thoughtfully arranged spaces so everyone can feel at home
+
+📍 Easy access to family activities:
+• 20–25 minutes to Downtown Nashville’s attractions, museums, and restaurants
+• 10 minutes to Beaman Park for family-friendly hikes and outdoor adventures
+• Under 30 minutes to Opryland, Opry Mills Mall, and more
+
+Whether you’re roasting marshmallows, listening to birds with your morning coffee, or spotting constellations before bedtime, The Starlight Retreat is a place where guests can reconnect, relax, and make memories that last long after checkout.
+
+Guest access
+You will have the entire place to yourself.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lisa
+Host User ID: 12331885
+Host Profile URL: https://www.airbnb.com/users/show/12331885
+Host Profile URL Source: public user permalink from passport userId
+Hi! I’m your host at The Starlight Retreat. With nearly a decade of hosting experience, and 20+ years in entertainment marketing and tour management, I’m detail-oriented, responsive, and love hosting guests. I focus on clear communication and creating a clean, comfortable space for guests. I enjoy the outdoors, international travel and teaching dance to youth; experiences that inspire my hosting. I’m happy to help make your stay relaxing and stress-free.
+My work: Business Owner and College Advisor
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+203 reviews
+4.91 out of 5 average rating
+9 years of hosting

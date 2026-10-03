@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/28871678
+Latitude: 36.1823
+Longitude: -86.5473
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 6
+beds: 14
+occupancy: 16
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Opal House, Nashville, a Boutique Inn, MINUTES from the BNA airport & downtown Nashville. With the idyllic countryside as its backdrop, the Opal House offers serenity & acres of privacy to families and friends. (No events or parties allowed) Sparing no expense or amenity, the Inn is able to comfortably accommodate 22 guests. A heated pool, and roomy hot tub will not disappoint. This is Southern Hospitality on a stylish gold plate.
+
+The space
+The interior of the Opal House tells a relaxing story,  mixing feminine vintage with uniquely-curated traditional elements. The design seeks to connect with the outside and be eco-friendly.  So, organic color-palettes fill the rooms- soothing blues, millennial-mauves, and tons of greenery. Each room is whimsical, and every gathering place in the home is purposed for the guest’s connections and leisure. 
+
+Connect By: 
+• Sharing wine and local charcuterie boards in the huge dining area- able to EASILY SEAT 24 guests
+• Sipping on fresh morning coffee in the newly renovated and FULLY-STOCKED kitchen
+• Swimming in the luxurious, built-in salt water POOL
+• Sunbathing on the larger than life Trexx DECK
+• Taking a dip in the brand-new HOT TUB, just after dusk & planning the next day’s adventures 
+• Laughing together in the POSH LIVING ROOM- no screens, this is real ‘Facetime’ with family & friends
+• Lounging on the oversized sectional in the BONUS ROOM, watching a new release on the big screen
+• Observing NATURE on the front terrace- watching herds of deer graze, and listening to the birds sing 
+
+Your search for a place to connect with 'Your People' ends here and now. The Opal House Nashville was founded on the premise and pleasure of our guests. We eagerly anticipate serving you in style, & keeping you coming back to Nashville year after year! 
+
+The guests' privacy and comfort is the hosts first priority. The level of interaction will be determined by guests preferences. 
+With the idyllic countryside as its backdrop, the Opal House offers serenity & acres of privacy to large groups of family, friends or co-workers. Set on a property with a heated saltwater pool and hot tub, this home is a short drive from a wide variety of shopping and dining options. Downtown's famous honky tonks and BBQ joints are within 15 miles away.
+
+Guest access
+Guests will have the full-run of the entire home. You will not be sharing it with anyone and you will have access to everything in the home. There is a smaller guest house on the property, where the hosts reside. If any catering is ordered any meal prep will be done in this smaller home and delivered to your doorstep!
+Early/Late Check-ins: We can rarely accommodate early/late check-in/out, as we need time to clean the home prior to each guest's arrival. The cleaning crew will need to get started promptly at 11 AM, so please schedule your departure before then.
+
+Other things to note
+We use keyless entry with a unique code generated for your stay. The code will be provided via email or text about a week before your stay. We use a camera system outside on the front porch area, this system will be active during your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Debi
+Host User ID: 183339663
+Host Profile URL: https://www.airbnb.com/users/show/183339663
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+8 years hosting
+88 reviews
+4.95 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/792331807732823720
+Latitude: 36.1751
+Longitude: -86.7393
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centrally located private guesthouse in Lockeland Springs. Perfect for travel nurses or corporate travel-14 min drive to Vanderbilt/Centennial/St Thomas, and walk to restaurants/shops/greenway. Apt separate from the main house (in carriage house). 2 BR/1 Bath (1 queen, 2 twins-one w/trundle); Washer/dryer & WiFi. Enjoy the firepit/patio! Walk 2 min to Frothy Monkey, 5 min to Lockeland Table, & 15 min to 5 Points.  2-5 min drive to all East Nashville restaurants, 5 min drive to Downtown/Broadway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stacie
+Host User ID: 10813976
+Host Profile URL: https://www.airbnb.com/users/show/10813976
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Vanderbilt Univ & Univ of VA
+My work: Biomedical Engineer
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+44 reviews
+5.0 out of 5 average rating
+4 years of hosting

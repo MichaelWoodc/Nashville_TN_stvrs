@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/882761790777958547
+Latitude: 36.1905
+Longitude: -86.7586
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Cleveland, a sleek and cozy carriage house inspired by the Scandinavian concept of hygge. Here, you can experience a feeling of coziness, contentment, and relaxation while taking time out. Located in the heart of Historic Cleveland Park in East Nashville (less than a 10-minute ride to the heart of downtown and Lower Broadway), The Cleveland is within two miles of an array of unique restaurants, bars and coffee shops, so you can indulge in some of the best experiences in Nashville.
+
+The space
+The Cleveland is a one-of-kind residence and is the perfect home base for exploring all that the city has to offer. Designed to maximize space and provide an upscale experience, The Cleveland has all the amenities that you need for a comfortable stay, including a full kitchen and a bathroom that you will find incredibly calming. The King sized bed perched in the loft is the perfect place to relax and unwind after a day of exploring the city or perhaps a soak in the tub. Plus, there's a secret queen sized bed attached to the back of the couch that can accommodate additional guests.
+
+***There are lots of stairs to maneuver, so this may not be the best place for folks with mobility concerns.***
+
+Plenty of parking is available for free on the street and there is a private entrance and an outdoor porch to enjoy.  There is no smoking or pets allowed in The Cleveland and all guests must be registered to be on the premises. Security cameras monitor the property. 
+
+High Speed Internet
+55" 4K Smart TV/w Soundbar
+Dining/Work Space
+Stocked Kitchen without food
+Induction Cook Range
+Dishwasher
+K-Cup Coffee Maker and Coffee/Tea
+Under-Sink Reverse Osmosis Water Purification System
+Casper Bed
+Tankless Water Heater
+Washer and Dryer
+
+Guest access
+From the street, there is a well lit entrance to the right of the main house. You will proceed through the gate to the backyard and down to the Carriage House. The entrance is on the left side of structure, up 3 stairs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mark
+Host User ID: 512865979
+Host Profile URL: https://www.airbnb.com/users/show/512865979
+Host Profile URL Source: public user permalink from passport userId
+My work: Healthcare IT
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+115 reviews
+4.99 out of 5 average rating
+3 years of hosting

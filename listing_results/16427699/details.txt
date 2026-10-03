@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/16427699
+Latitude: 36.09954
+Longitude: -86.73882
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Centrally-located in a quiet neighborhood, our place is great for couples, solo adventurers, and business travelers! Cooper's Cottage is newly renovated and equipped with modern amenities: washer and dryer, covered parking, hair dryer, iron and ironing board, central heat and air, coffee maker and coffee, tea pot, pots pans and dishes. It is one block off a major Nashville artery, Nolensville Road, with lots of nearby restaurants and a 15-minute drive from the airport and downtown!
+
+The space
+1.3 miles from I-24 freeway. 1.7 miles to I-440. 1.5 miles to I-65. 4.4 miles to Nashville International Airport. 8 miles from Opryland Resort and Grand Ole Opry. 10 miles from Convention Center. 7 miles to the heart of downtown Nashville.
+
+Other things to note
+True House of Praise Church located next door. Sunday morning services start at 11am with rousing music.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dana
+Host User ID: 57157351
+Host Profile URL: https://www.airbnb.com/users/show/57157351
+Host Profile URL Source: public user permalink from passport userId
+Lifelong singer songwriter.
+Born in the 50s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+176 reviews
+4.84 out of 5 average rating
+10 years of hosting

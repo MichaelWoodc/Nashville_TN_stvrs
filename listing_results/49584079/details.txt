@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/49584079
+Latitude: 36.14544
+Longitude: -86.8213
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to our Nashville Townhouse. This modern style private room is clean & quiet with a ground level entrance & free street parking.  The room is located in a quiet neighborhood yet near all the action & attractions that make Nashville special.  Downtown is 3 miles away. Vanderbilt is 1 mile and Centennial Park is 4 blocks. It's great location and modern feel make it a perfect place to spend a few nights in Nashville.  We live in the upper levels of the townhome and absolutely love the area.
+
+Guest access
+Front Porch - Guests have access to the front porch for sitting or smoking. 
+
+Entry hall - once inside the front door. You may use the coat rack and umbrella located in the entry hall.
+
+BNB Room - located just inside the front door.  Door has a chalkboard on the outside of it and a rug outside the door.
+
+Thank you.
+
+During your stay
+Feel free to msg me on the AirBNB app or text/call my number provided once you have booked.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gail
+Host User ID: 91979363
+Host Profile URL: https://www.airbnb.com/users/show/91979363
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+206 reviews
+4.99 out of 5 average rating
+5 years of hosting

@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/1668251161046435111
+Latitude: 36.13826
+Longitude: -86.79375
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+An 1898 piano from Printer's Alley sits at the heart of this 1930s stone bungalow — original character, a working fireplace, and string lights inside and out. Two bedrooms and three beds sleep six. Walk to Music Row's studios, or head into Edgehill for coffee, tacos, and the greenway; Broadway is five minutes by car. Songwriters, couples, and families all end up on that porch after dark. History, comfort, and the best front steps in the neighborhood — book before your dates are gone.
+
+The space
+Step into a one-of-a-kind Nashville home where history meets comfort. Built in 1930, this thoughtfully maintained space blends vintage character with modern convenience. Once a country music publishing house, the home carries authentic Music City charm you won’t find anywhere else.
+
+Inside, you’ll find bright, open living areas perfect for relaxing or gathering. The standout feature is a rare 1898 piano from Printer’s Alley, adding a unique touch of history to your stay. The home is fully equipped with everything you need, including a modern kitchen, comfortable sleeping areas, and high-speed Wi-Fi.
+
+Located in a walkable neighborhood near Vanderbilt, Midtown, and Downtown, this space is ideal for professionals, travelers, and music lovers looking for a memorable Nashville experience.
+
+Guest access
+This rental includes the entire downstairs living space with its own private front door entrance, along with access to the front yard and covered front patio with ceiling fans, perfect for outdoor relaxing.
+
+Please note that there is a separate micro apartment upstairs occupied by a long term tenant. The tenant is quiet, respectful of guest privacy, and keeps to themselves. The apartment has its own entrance through the back yard and is completely separate from the guest space.
+
+Other things to note
+• No parties or events – $500 fine + immediate removal
+• No smoking inside – $300–$500 cleaning fee
+• Quiet hours: 10 PM – 8 AM (violations may result in $200 fine)
+• No unregistered guests – $100 per guest per night
+• Pets only with approval – unauthorized pets: $250 fee
+• Respect the home’s historic features, including the 1898 piano – damages will be fully charged
+• Minimum booking age: 21
+• Exterior security cameras may be in use for safety
+
+Any rule violations may result in additional charges, cancellation without refund, and removal from the property.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 484163143
+Host Profile URL: https://www.airbnb.com/users/show/484163143
+Host Profile URL Source: public user permalink from passport userId
+E
+Born in the 80s
+My work: Real Estate
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+2257 reviews
+4.86 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/1659321189773204336
+Latitude: 36.1449
+Longitude: -86.8154
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The 121 Hotel's accommodations will make you feel immediately at home, thanks to their residential-style design and impeccably selected furnishings. With a contemporary but restrained look, they feel like your Nashville luxury pied-à-terre. The 121 Hotel offers guests the ultimate in flexibility—reserve an individual room or suite, an entire floor with full kitchen, or the entire building for groups and events. Full catering and programming services are available to make your stay unforgettable.
+
+The space
+Our Deluxe rooms are the lap of luxury, with ample living space, a California King bed, executive desk, 55 ” HDTV, and spacious bathroom with modern finishes. This room also features vanity and huge dual-head walk-in shower or soaking tub. Perfect for a weekend retreat, business trip, or couples getaway, make yourself feel at home at the 121 Hotel.
+
+Features:
+Modern California King Bed
+Plush California King Mattress
+Vanity
+Overdyed area rugs
+Undercounter refrigerator
+Walk-in, duel head shower/or soaking tub
+Ceiling fan
+In-room Coffee
+Independent air control system
+
+121 provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more. For anything you need, we’re at your fingertips!
+
+Other things to note
+Home Truths:
+- This room does not include access to the kitchen unless booked as part of a full floor buyout.
+- Please note we have 16 similar units, listing photos vary by unit.
+- We allow service animals at this home. If undisclosed pets are brought into the home without approval there is a fine of $500 per pet.
+- Please note that there are ring cameras that monitor the hotel hallways for guest security. There are no cameras inside the rooms.
+- Please note that this is a self-service vacation rental with contactless check-in and no staff on site.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: The 121 Hotel
+Host User ID: 754478707
+Host Profile URL: https://www.airbnb.com/users/show/754478707
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 98%
+Responds within an hour
+Superhost
+5 months hosting
+169 reviews
+4.87 out of 5 average rating
+5 months of hosting

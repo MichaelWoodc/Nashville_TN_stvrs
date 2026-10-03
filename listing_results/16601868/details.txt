@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/16601868
+Latitude: 36.2114
+Longitude: -86.71093
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This is a cozy single room + kitchenette studio apartment attatched to our home. Located in a quiet corner of busy East Nashville, it has a private entrance, free parking, great new bathroom, and access to laundry and a large back yard. We have one queen bed.
+
+The space
+This is a comfortable retreat 10 minutes from downtown, 5 from Five Points, and a walk away from the closest restaurants, bars, and coffee shops. We just redesigned the space, adding a beautiful, unique bathroom. The apartment is small and cozy with everything you need for a few nights in Nashville. The kitchenette has fresh coffee, microwave, and mini-fridge--no sink or stove. The tv has Netflix and amazon prime.
+
+Guest access
+Feel free to share our yard, patio and grill. The laundry room is between you and us, shared but private, no need for permisson. If there is anything else you need, we are happy let you in for the kitchen or bring you whatever we can.
+
+Other things to note
+Park in the Riverwood Church of Christ lot next to the little open gate and follow the cafe lights around to the back door. We are makers of things, and that means that our space can be crazy, but we try to keep yours clean and safe. If you find yourself in an obstical course, you are at the wrong gate. Just back out slowly and look for the gate that opens onto the parking lot. The church has always been friendly to us and our guests but we are aware that the denomination is not famous for its welcoming tolerance. If you are uncomfortable with using their parking please let us know and we will make the driveway available for you.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Julia
+Host User ID: 26269624
+Host Profile URL: https://www.airbnb.com/users/show/26269624
+Host Profile URL Source: public user permalink from passport userId
+We are easy, love animals and are never annoyed. We love hosting and love our houses so much that we are loath to give one up just because we got married, so we're living in and hosting in both. Keith teaches science to kids all over the state in schools and libraries and I am an artist. Between us we have 4 kids, age 6-21 ( one has flown the coop. We have sound insulation to protect you from the little ones. The 17 year old will carry your bags if you can catch him). We love coffee and the crossword too much.
+Born in the 80s
+My work: steel work
+Response rate: 100%
+Responds within an hour
+11 years hosting
+765 reviews
+4.89 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/29984537
+Latitude: 36.1834
+Longitude: -86.77203
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable retreat in hip East Nashville. Amazing location- just minutes to downtown Broadway, Nissan Stadium, and around the corner from some of Nashville's best restaurants!  Large bedrooms, bathrooms, and common areas make it easy for groups to get ready for a night on the town.
+
+The space
+Charming 120 year old Victorian home with 12ft ceilings. There are 4 queen beds, a full size sofa, and an air mattress. All 4 beds feature premium certified memory foam mattresses (super comfy). 
+
+The huge eat-in kitchen creates an additional space for guests to gather and prepare meals if desired, and the two large bathrooms are perfect for accommodating groups getting ready for a night out. There are also 2 TV's with Amazon firesticks and high speed WiFi for your convenience. 
+
+There is a large, fully fenced in backyard with dining table and lots of space for backyard games and activities.  
+
+East Nashville is home to some of the best and most unique dining destinations and shops in Nashville- there's no shortage of places within a short walk or drive!
+
+Guest access
+There are two keypad entries on the front door so all guests have 24 hour key-less access to the house.
+
+Other things to note
+Flexible check in/check out time for additional fee, when available
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adrienne
+Host User ID: 60113794
+Host Profile URL: https://www.airbnb.com/users/show/60113794
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: William and Mary
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+187 reviews
+4.89 out of 5 average rating
+10 years of hosting

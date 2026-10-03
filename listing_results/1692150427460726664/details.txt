@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1692150427460726664
+Latitude: 36.14348943987963
+Longitude: -86.748023090188
+rental_type: Room in hotel
+property_type: HOTEL
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Historic Lee motel since 1942.  cozy rooms with perfect location 2 miles from Nashville downtown. nice staff available 24/7 for you!! affordable stay!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: George
+Host User ID: 578480895
+Host Profile URL: https://www.airbnb.com/users/show/578480895
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+5 months hosting
+12 reviews
+4.08 out of 5 average rating
+5 months of hosting

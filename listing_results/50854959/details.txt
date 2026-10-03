@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/50854959
+Latitude: 36.24294
+Longitude: -86.73824
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Local musician + photographer sharing their BRAND NEW three story townhome located in Nashville, TN.
+
+Permit: #2021045342
+
+The space
+Enjoy our three story townhome in North-East Nashville just minutes from The Opry and Downtown Nashville, TN.
+
+This brand new minimalistic townhome features a roof top patio that stretches the entire span of the third floor!
+
+This is a brand new development with features built around safety and a sense of community!
+
+Guest access
+•Guests will have exclusive access to the entire townhouse. 
+
+•Self check-in at 4:00pm with keyless entry.
+
+•Unit #6.
+
+REMINDER:
+
+•ONLY 4 guests allowed, unless otherwise approved by Loft Lula.
+
+•PARTIES will NOT be tolerated. Immediate removal from the property will take place.
+
+Other things to note
+FREE PARKING:
+
+•There are two spaces located in front of Unit #6.
+•OR, Guest Parking is located across from Unit #6.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Luis + Crystal
+Host User ID: 225949486
+Host Profile URL: https://www.airbnb.com/users/show/225949486
+Host Profile URL Source: public user permalink from passport userId
+We are a husband and wife duo with a little tot in tow hosting STR’s, managing STR turn-overs, and selling properties in Nashville, TN + The Smoky Mountains!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+8 years hosting
+3391 reviews
+4.75 out of 5 average rating
+8 years of hosting

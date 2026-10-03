@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/29791948
+Latitude: 36.358
+Longitude: -86.4725
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stunning Lake House with 180 degree Panoramic views of Old Hickory Lake in Gallatin, TN. There is a temporary dock (you can tie boat and launch directly next property). Outside hot tub. 3 bedroom (2 Master’s) 3.5 bath and bonus room.
+Master: King
+Master #2: Queen
+Bedroom #3: Queen
+Bonus Room: (2) Twins
+2 living rooms. 
+Large covered Outdoor Living space with Natural gas Grill and Bar height Fire table.
+2 indoor fireplaces
+25 mins to downtown airport 
+1/2 Mile from Full Service Marina /Restaurant
+
+The space
+You will have access to entire house, boat dock (temporary dock , not in the best condition, but it is available) If you are bringing a boat, please notify me. Public boat ramp and  park next door (dawn to dusk) Room for RV parking
+
+Guest access
+You have access to the entire home, boat dock (temporary dock is at property- dock was lost in Tornado and waiting on new dock) on property.
+
+Other things to note
+There is a public park and boat ramp next to the house with playground.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Liz
+Host User ID: 46971338
+Host Profile URL: https://www.airbnb.com/users/show/46971338
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Gallatin, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+490 reviews
+4.95 out of 5 average rating
+9 years of hosting

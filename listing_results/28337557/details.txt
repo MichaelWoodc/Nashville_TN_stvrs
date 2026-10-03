@@ -1,0 +1,65 @@
+URL: https://www.airbnb.com/rooms/28337557
+Latitude: 36.1293
+Longitude: -86.8577
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Brookwood Terrace! Embrace the mid-century modern aesthetics as you sink into plush sofas or gather around the dining table for a meal prepared from the adjacent kitchen. Then, unwind in comfortable bedrooms or in the downstairs media room!
+
+Located in a quiet and prime neighborhood, our home ensures easy access to local attractions, making it the perfect retreat for a fun and memorable stay
+
+The space
+Bathrooms: Our home has two full bathrooms with showers and two half baths with modern fixtures and a retro touch—refresh, unwind, and enjoy!
+
+Bedrooms: Sleep soundly in three bedrooms, each with a Tempur-Pedic mattress for ultimate comfort. There is queen sleeper sofa in the media room that offers a 4th bed for sleeping. Also note that one bedroom has steps. 
+
+Kitchen: Our kitchen has all the essentials, ready for you to whip up delicious meals to enjoy in the spacious dining room.
+
+Media Room: Movie nights just got better! Enjoy your favorite films and shows on a 65” smart TV in our comfy media room.
+
+Laundry: Travel light with two sets of washers and dryers—fresh clothes, no hassle.
+
+Connectivity: High-speed 1G fiber internet keeps you online for work, streaming, or sharing your adventures.
+
+Bonus Perks:
+✔ A library of books & board games
+✔ Outdoor grill & dining area
+✔ Multiple Keurigs for coffee lovers
+✔ Cozy blankets for chilly evenings
+
+Book now and experience a stay where comfort meets convenience—your unforgettable escape starts here!
+
+Guest access
+There is a keypad on the back door that grants you access into the house. Access code sent upon booking.
+
+Registration Details
+2018058061
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Clay
+Host User ID: 48808401
+Host Profile URL: https://www.airbnb.com/users/show/48808401
+Host Profile URL Source: public user permalink from passport userId
+Originally hailing from Northeast Ohio but have been living in Nashville for almost 12 years. I love date nights with my wife, playing soccer, working outside and the throwing the frisbee to my Australian Shepherd. As an Airbnb host, I have setup and decorated my home to be an extension of your own and I hope to make your stay as comfortable as possible.
+Born in the 80s
+My work: Cisco Systems
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+573 reviews
+4.97 out of 5 average rating
+8 years of hosting

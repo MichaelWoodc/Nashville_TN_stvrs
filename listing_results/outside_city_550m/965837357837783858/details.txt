@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/965837357837783858
+Latitude: 36.37232
+Longitude: -86.70911
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Your private Nashville getaway awaits. This renovated cabin offers a queen bed, full bath, Wi-Fi, AC/heat, TV, and easy contactless check‑in. Enjoy a porch swing, fire pit, grill, and resort amenities. Just 20 minutes from downtown!
+
+The space
+🛏 Sleeps 2 Comfortably: 
+- Queen‑size bed
+- Futon sleeper for 1 additional guest
+- Fresh, modern décor and beautiful lighting throughout
+🏡 Inside the Cabin:
+- Contactless check‑in
+- Heating & air conditioning
+- TV
+- Microwave
+- Keurig coffee maker
+- Mini fridge
+- Full private bathroom with stand‑up shower
+- Fast, reliable WiFi
+🌟 Resort Amenities Included:
+As our guest, you’ll enjoy full access to all RV park amenities, perfect for relaxing between Nashville adventures.
+
+Guest access
+You’ll enjoy complete access to your private cabin, plus your own:
+- Porch swing
+- Grill
+- Fire pit
+- Picnic table
+- Designated Parking spot
+
+As our guest, you’re also welcome to use all RV park amenities and connect to our complimentary WiFi.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Unhitched Nashville North RV Park
+Host User ID: 533812938
+Host Profile URL: https://www.airbnb.com/users/show/533812938
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+96 reviews
+4.82 out of 5 average rating
+3 years of hosting

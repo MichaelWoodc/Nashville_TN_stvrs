@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/34331421
+Latitude: 36.18294
+Longitude: -86.67367
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated basement in-law/guest suite with private ground level access, in a very quiet but hip neighborhood called Donelson. Only 10 minutes' drive to the airport and 15 minutes' drive to downtown. 10 minute walk to the Two Rivers Greenway, Two Rivers Mansion,   Two Rivers dog park and Wave Country. Less than 5 minutes drive to Gaylord Hotel and Opry Mills mall.
+
+The space
+Newly renovated. Large and bright bedroom, living room and kitchenette plus a full bath and laundry. Over 700 square feet of private space. Huge fenced backyard. Your pets are welcome. I have 3 inside dogs who are very chill and friendly.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Barry
+Host User ID: 78910419
+Host Profile URL: https://www.airbnb.com/users/show/78910419
+Host Profile URL Source: public user permalink from passport userId
+I'm an entertainment buff and dog lover; former music industry professional and current movie industry worker bee. Travel is my passion and meeting new people the greatest part of traveling.
+My work: Warner Bros
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+200 reviews
+4.95 out of 5 average rating
+9 years of hosting

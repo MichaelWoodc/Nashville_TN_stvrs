@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1652402740054329802
+Latitude: 36.1116
+Longitude: -86.6998
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this peaceful, cozy place in a lovely neighborhood in Nashville which is conveniently located near all the major places, only 10 minutes away from Nashville airport, 15 minutes away from Grand Ole Opry, 6.2 Miles from downtown Nashville. Whether you're here for Business or pleasure, you'll certainly enjoy the serene atmosphere of this nice, clean safe location.
+
+The space
+This private, spacious cabin structurally attached to the homeowner's house features Its own private entrance with smart lock self check-in. 
+The cabin all in one comfortably holds a King size bed sleeping area, upstairs mezzanine with 2 twins mattresses, living space, cute indoor outdoor dining tables, work desk, fireplace, bathroom, kitchen and serene outdoor views of tall trees and nature.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lance
+Host User ID: 754209327
+Host Profile URL: https://www.airbnb.com/users/show/754209327
+Host Profile URL Source: public user permalink from passport userId
+Where I went to school: Full Sail University
+I spend too much time: On film, cinematography and directing
+Response rate: 100%
+Responds within an hour
+5 months hosting
+21 reviews
+4.76 out of 5 average rating
+5 months of hosting

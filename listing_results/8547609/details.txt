@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/8547609
+Latitude: 36.1767
+Longitude: -86.7452
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Comfortable downstairs apartment with queen bed, bathroom, fireplace, smart tv, desk & free parking on street.  Apartment sized couch (non-sleeper).  Surrounded by E. Nashville's favorite restaurants.  Short Lyft/Uber to downtown, parks, airport.  Walkway has 6+ stairs with handrail.  Two steps into apartment.
+Note: Early or late check in has a $15 fee. If requested, the fee will be charged and we will change the cleaning schedule.
+
+The space
+Nice private space in the heart of East Nashville!  Very walkable to several hot spots.  Short Uber ride downtown.  Short drive to grocery, pharmacy, unique shops, new eateries.  Parks, Vanderbilt/Belmont/medical centers all within 15 minutes.  Several malls 15-25 min drive.  Airport 15 mins.
+
+Guest access
+Free parking on street.  Walk to several GREAT restaurants and Five Points.  Short drive downtown, grocery stores, coffee shops.  MTA Bus line #4 and Scooters to rent within a short walk.
+
+Other things to note
+In-house babysitting if interested!  Note Heat/AC is controlled in main house. We’re able to adjust as requested but thermostat not in apt. Portable heater/fans in apt as well.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jana
+Host User ID: 44996221
+Host Profile URL: https://www.airbnb.com/users/show/44996221
+Host Profile URL Source: public user permalink from passport userId
+Browns, family of 7, East Nashville fans
+Born in the 70s
+My work: Realtor, Professional harpist
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+759 reviews
+4.84 out of 5 average rating
+11 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/4691716
+Latitude: 36.18003
+Longitude: -86.72328
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A lovingly styled, first-floor, private apartment in our 1960's home. Fully-equipped kitchen, bedroom, full bath, dining room, and living room with sofa bed. Separate entrances and parking. Covered porch and garden. Family-friendly. We gladly welcome guests of all ages, backgrounds, and orientations. Lots of windows and plants! Close to downtown!
+
+The space
+The apartment is a dedicated guest space. We have lovingly rehabbed and decorated it with the intention of having a comfortable and memorable home for guests to enjoy their time in East Nashville to the fullest. Furnishings and decor are a mix of flea market finds and modern comfort. Above all, we strive to offer an impeccably clean and safe space to our guests. Check out our IG for more photos and up to date info. @eastnashvillebnb
+
+Guest access
+You will have access to the entire apartment (bedroom, living room, dining room, kitchen and full bath) with two separate entrances to the outside. 
+
+In warmer months, there is an herb garden and porch for you to enjoy. Smoking is also permitted on the porch and in the yard. 
+
+Parking is available in the driveway on the backside of the house.
+
+Other things to note
+We don't have cable, but the TV in the living room gets local broadcast channels and is equipped with Netflix.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennifer + Sean
+Host User ID: 15444638
+Host Profile URL: https://www.airbnb.com/users/show/15444638
+Host Profile URL Source: public user permalink from passport userId
+I'm originally from the DC Metro and my husband, Sean, is a Nashville native. We relocated here from DC in 2012 and couldn't be happier with our decision. 
+
+We spent a little over a year converting the in-law-suite attached to our house into a magical guest suite and airbnb. Intentional is the word that best describes our space. We want your stay with us to be memorable and not just a place to lay your head.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+321 reviews
+4.99 out of 5 average rating
+12 years of hosting

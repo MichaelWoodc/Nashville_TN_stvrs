@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/915912264163740808
+Latitude: 36.3693
+Longitude: -86.4494
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Have fun with the whole family at our home located 30 minutes from Nashville, minutes to Old Hickory Lake, and in a safe and family friendly neighborhood. 
+
+Our home is situated on a corner lot with a nice yard to throw ball in or take a stroll/ bike ride around the area. You can walk to a selection of restaurants or the Publix for groceries. 
+
+Our home has three bedrooms with comfortable mattresses and cozy linens. 
+
+We also have games, outdoor equipment, and a fire pit for family bonding.
+
+The space
+Three bedrooms with a king bed, queen bed, and a daybed with trundle. 
+
+Two full baths with a selection of quality shampoos and body wash. 
+
+Fully stocked kitchen with a selection of spices, oils, and pantry staples, plus pots and pans. 
+
+We also have a coffee pot with a carafe and single serve pods, and a hot water kettle for teas. 
+
+We have a dedicated workspace with free WiFi located in the sitting room that has games and books.
+
+Guest access
+Access to entire home and yard minus the garage which is for the host only.
+
+Other things to note
+We have a driveway that accommodates two to three cars.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lauren
+Host User ID: 46465664
+Host Profile URL: https://www.airbnb.com/users/show/46465664
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+My work: Teacher
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+57 reviews
+4.98 out of 5 average rating
+2 years of hosting

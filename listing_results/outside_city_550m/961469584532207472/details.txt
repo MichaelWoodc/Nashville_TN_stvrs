@@ -1,0 +1,60 @@
+URL: https://www.airbnb.com/rooms/961469584532207472
+Latitude: 35.9539
+Longitude: -86.5359
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Convenience at its finest! This centrally-located home puts you and your family within easy reach of everything you need.
+
+Enjoy hassle-free travel with I-24 just around the corner, connecting you to Nashville and Murfreesboro in no time.
+
+Plus, indulge in the ultimate convenience with:
+
+Groceries just minutes away
+A variety of restaurants to suit every taste
+Gas stations to fuel up on the go
+Shopping centers for some retail therapy
+
+Make the most of your stay in this perfectly positioned home!"
+
+The space
+Thoughtfully designed for comfort and convenience, this home provides; 
+
+*Private Bedrooms Upstairs*
+All three bedrooms are nestled on the 2nd floor, providing a peaceful retreat for rest and relaxation.
+
+*Convenient Main Living Areas*
+The 1st floor is dedicated to open living, with:
+
+- Half bath for guests
+- Laundry room for added convenience
+
+Perfect for families, roommates, or anyone seeking a functional living space.
+
+Guest access
+You have access to the whole house.
+
+Other things to note
+This home isn't newly built and has expected wear and tear from being utilized as a short-term rental. Currently the garage is unavailable.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jay
+Host User ID: 336522289
+Host Profile URL: https://www.airbnb.com/users/show/336522289
+Host Profile URL Source: public user permalink from passport userId
+I am as passionate about traveling as I am about life in the big city. I’d love to help make your stay as special as possible. Let me know how I can help!
+Speaks English
+7 years hosting

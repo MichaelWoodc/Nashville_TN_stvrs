@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/19053043
+Latitude: 36.1492
+Longitude: -86.8798
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect home away from home! This Honkytonk Hideaway is a 3-bedroom, 1-bathroom. It is  located just 7 miles from Downtown, offering a delightful blend of comfort and convenience. Nestled in a quiet neighborhood, you’ll love the inviting front porch, a fully equipped kitchen ready for your culinary adventures, and Roku TVs in every bedroom for your entertainment. Enjoy nearby dining at Big Bad Breakfast, a nice steak from Longhorn , or shop at Costco, Target, and Trader Joe’s.
+
+The space
+Experience comfort and privacy in this spacious This home features a full kitchen, cozy dining room, 1 bathroom, and 3 bedrooms, each with a queen bed. Enjoy exclusive access to the entire main level, with ample parking in the half-circle driveway. The owners reside separately in a private basement apartment, ensuring your space is entirely your own. We respect your privacy and guarantee no shared areas or interruptions. Your peaceful getaway awaits!
+
+Guest access
+You have access to the entire main house. You do not have access to the fenced-in back yard or the basement. We live downstairs in the mother in law apartment. We never enter the main house while it’s rented. You have your own entrance, and so do we.
+
+Other things to note
+Only the number of guests specified in your reservation is permitted on the property. Please note that we have two dogs, Lizzy and Thor, who live with us downstairs. They do bark and stay in the fenced-in backyard during the day but come inside at night.
+
+Registration Details
+2017060327
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tiffany And Osman
+Host User ID: 132993764
+Host Profile URL: https://www.airbnb.com/users/show/132993764
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Osman! I was born in San Pedro Sula, Honduras, I’ve called Nashville my home for the past 22 years. I competed in Olympic Weightlifting at the 1992 Summer Olympics in Barcelona for Honduras. Now I coach at the Nashville Weightlifting Club, which I own, helping others reach their fitness goals. 
+
+Hi, I'm Tiffany! I'm from Benton, Kentucky, and work in Special Education in Nashville. I enjoy sewing, cooking, hiking.
+Born in the 70s
+My work: Paraprofessional
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+527 reviews
+4.83 out of 5 average rating
+9 years of hosting

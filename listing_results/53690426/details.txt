@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/53690426
+Latitude: 36.23394
+Longitude: -86.74041
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Private Studio apartment located in a safe & peaceful East Nashville neighborhood. This unique property is quiet, yet minutes from dozens of East Nashville restaurants, coffee shops and bars, as well as 10 minutes from downtown Nashville.
+
+*Nissan Stadium – 9 mins
+*Grand Ole Opry – 10 mins
+*Bridgestone Arena – 12 mins
+*GEODIS Park (Nashville FC Soccer Stadium) - 15 mins
+*Gaylord Opryland - 8 mins
+*Airport – 15 mins!
+
+The space
+This newly renovated space is located on the first floor of our lived-in home. It is equipped with a queen size bed, a queen size pullout sofa, smart TV, and a kitchenette with a fully stocked coffee bar.
+This space is ideal for single travelers, couples, families with younger children, and your furry companion (for a fee).
+
+Guest access
+You will have keyless entry with a private entrance & driveway as well as your own private fenced-in yard that your furry friends will love!
+
+Other things to note
+We live upstairs and are so excited to welcome you! 
+
+We live a quiet lifestyle and we've done our best to soundproof but it is an older East Nashville home with wood flooring so you will inevitably hear some footsteps or our 2 dogs being dogs. 
+A sound machine will be provided just in case!
+
+The bathroom has a ceiling clearance of 6’5”. This may be a challenge for taller guests.
+
+We will most likely be on the property during your stay and we are available for anything you may need. We can easily be reached via text or through the Airbnb app.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nicolas
+Host User ID: 86871758
+Host Profile URL: https://www.airbnb.com/users/show/86871758
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Hotel Management
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+236 reviews
+4.9 out of 5 average rating
+5 years of hosting

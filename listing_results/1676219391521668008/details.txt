@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/1676219391521668008
+Latitude: 36.17206445970409
+Longitude: -86.79664786714443
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville from a whole new level in this modern 4-story rooftop townhome designed for unforgettable weekends, group getaways, and celebrations. Enjoy the rooftop lounge, firepit, stylish interiors, and cozy gathering spaces just minutes from Broadway, Germantown, and local hotspots. Perfect for girls trips, birthdays, concerts, and late nights with friends in the heart of Music City.
+
+The space
+My favorite part of the townhome is the rooftop lounge; the perfect place to unwind after a long day or late night in Nashville. With cozy lounging couches, a fire pit, city skyline views, and a mural made for photo moments, it’s easily the heart of the home. Inside, you’ll find a spacious living room open to a fully stocked kitchen with all the essentials. The home features 4 bedrooms and 4 full bathrooms, each with comfortable queen beds and their own TV for a relaxing stay.
+
+Guest access
+- Self check-in with personalized door access codes
+- 4-story townhome with stair access only
+- Garage access available
+- Garage access code will be provided with check-in instructions
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalee
+Host User ID: 1669543594055445575
+Host Profile URL: https://www.airbnb.com/users/show/1669543594055445575
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 90%
+Responds within an hour
+4 months hosting
+4 reviews
+5.0 out of 5 average rating
+4 months of hosting

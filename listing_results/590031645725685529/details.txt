@@ -1,0 +1,81 @@
+URL: https://www.airbnb.com/rooms/590031645725685529
+Latitude: 36.15386
+Longitude: -86.82076
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Bootleg Bungalow — a West Nashville home built for crews that take their weekends seriously. 16 beds, a private rooftop with skyline views, and a game room with pool table make it a solid fit for bachelor parties, birthdays, and big group trips. Hang out in the open living space, rack 'em up in the game room, and grab an Uber 3 miles to Broadway. Surrounded by top breweries, bars, and restaurants.
+
+The space
+The main floor has a comfortable living area, a fully equipped kitchen, and room to move around -a solid base camp before heading out for the night.
+
+The game room is the heart of the home — pool table and plenty of room to rack 'em up, hang out, or wind down at the end of the night.
+
+Upstairs, the private rooftop has lounge seating and skyline views — a good spot to catch the sunset or gather the crew before heading out.
+
+Sleeping: 16 Beds / 4 Bedrooms 
+
+Bedroom 1 — 6 full beds
+
+Bedroom 2 — 1 king
+
+Bedroom 3 — 6 full beds
+
+Bedroom 4 — 1 king
+
+Garage — 1 full bed
+
+Living Room — 1 couch
+
+Guest access
+Guests have full private access to the entire home, all floors, the game room and the private rooftop deck. 
+
+Free on-site parking is included. 
+
+Self check-in via smart lock means you arrive on your schedule — no meet-and-greet required. Luggage drop and Early Check In is welcome for early arrivals and late departures (just message us to coordinate)
+
+Other things to note
+Neighborhood
+
+You're staying in West Nashville — one of the city's fastest-growing neighborhoods and home to The Nations, an area packed with breweries, restaurants, and local spots. It's the sweet spot: close enough to be downtown in 10 minutes, far enough that you can actually sleep.
+
+The neighborhood has a casual, lived-in feel with newer builds, walkable blocks, and easy access to the rest of the city.
+
+Nearby hotspots include:
+
+- Charlotte Ave dining and breweries — under 1 mile
+- Centennial Park and the Parthenon — about 1 mile
+- Vanderbilt University — about 1.5 miles
+- Marathon Village — about 1.5 miles
+- The Gulch (rooftop bars, shopping, dining) — about 2 miles
+- Music Row — about 2 miles
+- Lower Broadway and the Honky-Tonk Highway — about 2.5 miles
+- Bridgestone Arena and the Ryman — about 2.5 miles
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: WildCrown Properties
+Host User ID: 353109186
+Host Profile URL: https://www.airbnb.com/users/show/353109186
+Host Profile URL Source: public user permalink from passport userId
+Hi I’m Daniel, I love to travel and stay in the most amazing spaces! With God’s blessings, and hard work, I have been able to purchase some of the most amazing places, and honored to share them with you! It is my life’s dream that I’m able to share my amazing homes for everyone to enjoy. I hope and pray that you find we take a personal and  true “love” for our properties.
+My work: Property Management
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+1253 reviews
+4.78 out of 5 average rating
+6 years of hosting

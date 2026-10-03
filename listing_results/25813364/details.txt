@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/25813364
+Latitude: 36.08264
+Longitude: -86.74873
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Clean, open, minimalist space. 8 minutes from downtown.
+
+Completely private living space with separate entrance 2 feet from your free parking space. Nestled in a neighborhood free from traffic, yet within 10-12 minutes of every neighborhood or attraction.
+
+Stay in a real Nashville neighborhood with more residents than AirBNB houses. We’ve designed everything with you in mind. And we hope you enjoy your visit and end up loving Nashville as much as we do!
+
+The space
+You can use everything in your living area. Enjoy the living room, the farm table, kitchenette with a mini fridge and microwave, and Keurig. 
+
+You also have a bedroom with a walk in closet and a beautiful bathroom with towels, soap, conditioner, and shampoo.
+
+Outside, use our fenced in wooded backyard and driveway for exercise, meditation, or walking. We have very friendly neighbors.
+
+Guest access
+You have access through a private entrance to the walk out basement.
+
+Other things to note
+We’ll give you a code once you book a stay. You’ll enter using that code for the duration of your stay.
+
+The space is on the first floor of our home in our walkout basement. We are a family of 4 living upstairs, so if we’re home, you’ll hear us walking around.
+
+We also love to give recommendations. Ask us for great restaurants. We’ll let you know. We love this city, and our goal is to get you to love it so much, you move here.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: JoAnna
+Host User ID: 15572933
+Host Profile URL: https://www.airbnb.com/users/show/15572933
+Host Profile URL Source: public user permalink from passport userId
+We’re a married couple in Nashville, TN. We love to share joy through creativity, generosity, and hospitality. Our favorite city on earth is Nashville!
+
+I used to be a teacher, but now I’m home with my 3 sweet girls.. Rob is a songwriter, podcast producer, and also does some freelance writing.
+
+We’ve worked hard to get this AirBNB ready for you, and we’re always looking for ways to make it more awesome.
+My work: Stay at home mom
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+1113 reviews
+4.89 out of 5 average rating
+8 years of hosting

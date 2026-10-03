@@ -1,0 +1,30 @@
+URL: https://www.airbnb.com/rooms/795559543904423196
+Latitude: 36.17919
+Longitude: -86.75795
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a cozy and stylish experience at this centrally-located suite in exciting, East Nashville! Sleeping 5, this newly designed space is comfortable and convenient to all things Nashville. Equipped for an overnight or extended stay, this home is fully-stocked and ready for your arrival. Managed by an experienced, 5-Star team, we look forward to hosting you!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chloe
+Host User ID: 457460890
+Host Profile URL: https://www.airbnb.com/users/show/457460890
+Host Profile URL Source: public user permalink from passport userId
+I believe everyone deserves to feel comfortable and welcomed. I make space for that in my life and hope to pass that feeling along to everyone I meet.
+Where I went to school: Louisville, Kentucky
+My work: hosting & designing
+4 years hosting

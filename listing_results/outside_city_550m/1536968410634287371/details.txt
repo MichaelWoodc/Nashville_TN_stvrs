@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1536968410634287371
+Latitude: 36.32874
+Longitude: -86.65438
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Pink Room, a cheerful upstairs retreat with a queen bed, locking door, Wi-Fi, and workspace. The bathroom may be shared with a guest in my second Airbnb room. Enjoy the kitchen, cozy living area, and wooded back deck. Our quiet neighborhood offers walking trails, seasonal pools, pickleball, and basketball courts. We’re 10 minutes from Old Hickory Lake and 15 minutes from downtown Nashville. Need another room? Book Garrett’s Blue Room: https://www.airbnb.com/h/garrettsblueroom
+
+The space
+Enjoy a spacious home in a quiet, welcoming Hendersonville neighborhood surrounded by nature. Community amenities include sidewalks, walking trails, two seasonal pools, pickleball courts, and basketball courts. The woods behind the home are filled with deer, rabbits, and other wildlife. Old Hickory Lake is only 10 minutes away, and downtown Nashville is approximately 15 minutes away.
+
+Guest access
+You’ll have your own private bedroom upstairs 🛏️ and are welcome to make yourself at home 🏡. Feel free to use the kitchen 🍳, relax in the living room 🛋️, or enjoy the back deck overlooking the woods 🌲. The upstairs bathroom is shared only if the Blue Room is also occupied 🚿.
+
+During your stay
+I live in the home and am usually available in person or by phone if you need anything. 📱 I’m happy to visit, answer questions, or give you complete privacy—it’s entirely up to you.
+
+🐾 You’ll also meet Buttercup, my sweet 14-year-old Yorkie and little shadow. She may come say hello, but she usually stays close to me. 💗 If I’m away, I have trusted friends nearby who can help if needed.
+
+Other things to note
+🚭 To help keep the upstairs clean and ant-free, no smoking, food, or drinks are permitted upstairs—water is always welcome. Even a few crumbs can bring the ants marching in! 🐜
+
+Parties and unregistered overnight guests are not permitted.
+
+🌳 The backyard borders the woods, where you may see deer, rabbits, and other wildlife. I love watching them and hope you will too—but please, admire and photograph them only. No hunting! 😉
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Constance/Connie
+Host User ID: 164497919
+Host Profile URL: https://www.airbnb.com/users/show/164497919
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Connie! I’m a travel notary, proud mom, Cowboys and Longhorns fan, wildlife watcher, and full-time staff to Buttercup, my 14-year-old Yorkie. I love good conversation, big laughs, sharing local favorites, and making guests feel like friends. I’m happy to visit or give you space—your stay, your style! My goal is a clean, cozy home where you can relax, recharge, and feel genuinely welcome.
+My work: Buttercups P.A.
+I spend too much time: On this phone
+Fun fact: I was part of the OJ trial.
+Pets: A 14 yr old Yorkie named Buttercup
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+8 years hosting
+16 reviews
+5.0 out of 5 average rating
+8 years of hosting

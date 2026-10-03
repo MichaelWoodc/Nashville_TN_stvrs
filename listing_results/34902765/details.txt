@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/34902765
+Latitude: 36.195
+Longitude: -86.57996
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A modern basement apartment with a private patio overlooking a beautiful, natural setting.  Just twenty minutes from downtown, ten minutes from the airport, and a mile and a half from the WeGo Star train.
+
+The space
+Hi!
+
+We are a family of 6 renting out our spacious basement apartment. Sometimes we sound like a family of six (mainly footsteps during the day). We go to bed pretty early (10 or earlier) and sleep pretty late (about 8) so you’ll have a lot of quiet time!  We have a dog and some indoor/outdoor cats. The cats may try to spy on you through the windows. Sorry about that!  You can just close the curtains. Lol. 
+
+This space is SUPER CLEAN.  My mother is a dental hygienist. I was raised being lectured about cross contamination. Everything including the duvet and sofa slipcover are laundered in a detergent containing natural enzymes to ensure maximum cleanliness between guests. Light switches are wiped down every time as well.  Also, as a mother of four who will one day have grandchildren, I fear that this may be the only clean part of my house for the rest of my life. Lol. That being said, we live on 7 acres and have a lot of woods. Sometimes a small ant or spider or beetle (not cockroaches) may be seen in the Airbnb. We have a pest control service and occasionally spray ourselves, but I don’t go crazy with it because I worry about the potential harm to humans. 
+
+I really love people, and I have worked really hard to ensure you have every comfort during your stay.  I stock a variety of k-cups, provide comfortable bedding, and have extra toiletries in case you have forgotten anything. I also try to make sure the bird feeders are stocked and there’s enough deer corn in the yard to attract wildlife during your stay. 
+
+Also if you are a woman traveling alone and would like to call or FaceTime me after booking to get an idea of the vibes, I am happy to do so. Traveling solo as a woman can be a little nerve racking. 
+
+I decorate for the holidays!!! December stays will have stockings and a Christmas tree and other holiday decor throughout the space.
+
+Guest access
+You can access your private apartment and patio.
+
+Other things to note
+We have a rooster. We have had him for almost 2 years. He crows in the morning. There are sound machines in the bedroom, but I’ve asked several guests if they’ve heard him when they were in bed, and they’ve all said no. You can hear him when you’re outside, though.
+
+There is a 2 car maximum.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Leta
+Host User ID: 178128415
+Host Profile URL: https://www.airbnb.com/users/show/178128415
+Host Profile URL Source: public user permalink from passport userId
+I love hosting!  It’s my desire to provide my guests with a wonderful vacation rental. I think of every detail I can depending on the individual  guest.
+Where I went to school: DePaul University
+My work: Mother of 4
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+276 reviews
+4.98 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/38362052
+Latitude: 36.18856
+Longitude: -86.74904
+rental_type: Private room in guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Quaint, Separate & Private, upstairs apartment, located in the heart of East Nashville. 5-min Uber/Lyft ride from 5 Points, which hosts unique restaurants, shops, bars & live music venues. 10-min Uber/Lyft ride from downtown, which includes world-famous Broadway Ave. Includes private patio area, both upstairs & downstairs, with its own separate entrance up a spiral staircase to the apartment. Secure entrance with digital keypad lock, to eliminate keys. Private bedroom & bathroom w/ queen bed.
+
+The space
+***Added an air purifier to the apartment, as well as a mesh screen covering the entrance to your space, to add to your safety & comfort during your stay***
+
+Your private, separate apartment includes mini-fridge, coffee maker, towels, wash cloths, soap, shampoo & conditioner, as well as iron, ironing board & hair dryer. Flat-screen tv with cable as well. Closet to hang clothes & put suitcases is available.
+
+Guest access
+We share a driveway with neighbors, so please stay on the right side of the driveway when facing the house & park closest to the sidewalk & street, directly up against the 2 neon orange cones, thanks so much!
+
+During your stay
+I will message check-in/checkout/parking instructions the morning of your arrival & I'll be in open communication during your stay. You'll get my cell number to text/call me if you have any questions or issues with arrival, departure or suggestions while you're visiting Nashville.
+
+Other things to note
+***Added an air purifier to the apartment, as well as a mesh screen covering the entrance to your space, to add to your safety & comfort during your stay***
+
+Please text with any questions you may have while staying with us, thank you.
+
+We also have 4 dogs, but they do not have any access to your private apartment.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Steve
+Host User ID: 284259286
+Host Profile URL: https://www.airbnb.com/users/show/284259286
+Host Profile URL Source: public user permalink from passport userId
+My wife and I travel quite a bit, usually to see friends & family scattered around the country, but we do take personal vacations from time to time as well.
+Where I went to school: Indiana University (Bloomington)
+My work: Musician/Producer
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+7 years hosting
+163 reviews
+4.86 out of 5 average rating
+7 years of hosting

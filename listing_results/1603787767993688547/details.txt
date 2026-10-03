@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1603787767993688547
+Latitude: 36.219
+Longitude: -86.70438
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come get away to this gorgeous, Riverfront retreat!  Fish from the backyard, or watch the sunset from the lawn with a glass of wine! Whether its a family getaway, working in town for a few weeks and desire the luxuries of home, or wanting to enjoy everything that Nashville has to offer, this is the perfect home!  Incredible location!  Walking distance to Grand ol Opry, restaurants, and the famous Nashville Palace! 10 minute uber to airport, and 15 to Downtown & Broadway.
+
+The space
+Spacious 5 bedroom, 4 bathroom home.  Media room with 80 inch TV and a baby grand piano. Backyard is flat lawn, and steep steps down to the river.
+
+Other things to note
+Peaceful setting on a quiet Road, but walking distance to Grand Ol Opery, restaurants, Nashville Palace, and renowned Opera Mills Mall.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Joe
+Host User ID: 176816823
+Host Profile URL: https://www.airbnb.com/users/show/176816823
+Host Profile URL Source: public user permalink from passport userId
+My biography title: Many Life’s in One
+Lives in Santa Barbara, California
+Response rate: 100%
+Responds within an hour
+6 years hosting
+53 reviews
+4.98 out of 5 average rating
+6 years of hosting

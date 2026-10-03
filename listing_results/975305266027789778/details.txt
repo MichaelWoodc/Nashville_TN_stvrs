@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/975305266027789778
+Title: SoNash Sanctuary 10 Minutes from Downtown!
+Latitude: 36.12675
+Longitude: -86.7506
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 7
+fields_status: missing: map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Minimalist, modern and cozy, this home sits just minutes from downtown. Its tranquil vibe will ensure that you are rested for a night out in Music City! Sleep soundly in the comfortable beds, enjoy a leisurely morning coffee or tea on the back deck, and get your groove on while listening to records before exploring our beautiful city! This is a friendly, residential neighborhood with 2 walkable coffee shops and 1 restaurant.
+
+This is our home. No parties. No eccessive noise between 11pm - 7am.
+
+The space
+Park in the private driveway and enter the house through the front door using a personalized keypad code. You'll step into a serene and spacious living/dining room combo that looks out onto the back deck which is begging to be used for early morning contemplation and late-night conversation. The open-concept kitchen is fully equipped with anything you might need to make a meal. Walk past the coffee bar into the den wherein lies a workspace, floor to ceiling bookshelves, a television, and piano. The hallway is your pathway to 3 alluring bedrooms, and is also where you'll find the half-bath. The first bedroom has a queen size bed, desk, television, and a large, walk through closet leading to a Jack and Jill bathroom. The bunk-bed room has a closet and bookshelf with games. The bunk-bed has a twin mattress on the top and a full mattress on the bottom. The primary bedroom has a king size mattress, a sitting corner, a large walk-in closet with drawers, and an ensuite bathroom.
+
+Guest access
+You will have the entire house to yourself during your stay.
+
+Registration Details
+2023060000
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Deirdre
+Host User ID: 62033852
+Host Profile URL: https://www.airbnb.com/users/show/62033852
+Host Profile URL Source: public user permalink from passport userId
+I’m a Midwesterner turned Southerner with deep love and pride for south Nashville and my neighbors! In the midst of keeping up with my three young children, you can find me enjoying the outdoors, reading, and drinking coffee (sometimes all at once).
+Born in the 80s
+Where I went to school: Mount Vernon and Trevecca Nazarene Uni.
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+263 reviews
+4.91 out of 5 average rating
+6 years of hosting

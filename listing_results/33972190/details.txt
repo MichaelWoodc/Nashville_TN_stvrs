@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/33972190
+Latitude: 36.17706
+Longitude: -86.74837
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great location within 2 blocks of Nashville's popular Five Points area with many pubs, restaurants, coffee shops and locally-owned businesses.  1.5 miles to Nissan Stadium and 2 miles to downtown Broadway.  Rideshare generally available within 1-3 minutes.
+
+The space
+Private sidewalk entrance with keyless entry to unit.
+
+Guest access
+Outdoor patio perfect for reading or simply relaxing.
+
+Other things to note
+Due to health issues, homeowners cannot host animals.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: David
+Host User ID: 256524956
+Host Profile URL: https://www.airbnb.com/users/show/256524956
+Host Profile URL Source: public user permalink from passport userId
+Born in the 50s
+Fun fact: We love the beach!!
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+189 reviews
+4.99 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1371705771098927740
+Latitude: 36.1811
+Longitude: -86.7703
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 3
+beds: 5
+occupancy: 9
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nashville Haven! Our home serves as a serene retreat amid Nashville's energetic pulse, providing a perfect balance between refined elegance and urban excitement. With a diverse array of upscale amenities (including outdoor oasis with Hot Tub and Grill) guests can effortlessly enjoy both the tranquility of this sophisticated sanctuary and the vibrant lifestyle that defines Nashville. Our house is a seamless fusion of metropolitan vibrancy, and promises relaxation in an unparalleled setting.
+
+The space
+3 Bedroom, 3.5 Bathroom, Hot Tub, Grill, 3 Living Areas and Amazing Outdoor Area with Grill!
+
+Prime Location:
+☀ 8 min to Broadway & Downtown
+☀ 10 min to Bridgestone Arena & the Gulch
+☀ 15 min to the Grand Ole Opry
+☀ 2 min to Nissan Stadium & TopGolf
+☀ Easy highway access for exploring the area
+
+First Floor:
+Queen Bedroom with adjacent Full Bathroom 
+Living Room Area with Queen sleeper sofa + TV + Wet Bar
+
+Second Floor:
+Large Living Room w/wrap around couch, oversized ottoman and plush soft seating w/Smart TV
+Dining Area + elevated sitting area
+Large Kitchen with Island and Bar Stools
+Half Bathroom
+
+Third Level:
+Bedroom 2: King Bedroom w/Full en suite Bathroom
+Bedroom 3: King Bedroom + Smart TV and en suite full bathroom with shower w/twin rollaway hotel style bed
+
+* IMPORTANT DETAILS - Before booking, please read & understand the cancellation policy. We strongly recommend purchasing trip cancellation/travel insurance as we do not refund for cancellations outside of the policy listed.
+
+Guest access
+Private Entrance
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Greg
+Host User ID: 682915696
+Host Profile URL: https://www.airbnb.com/users/show/682915696
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+50 reviews
+5.0 out of 5 average rating
+1 year of hosting

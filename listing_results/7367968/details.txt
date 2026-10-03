@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/7367968
+Latitude: 36.13817
+Longitude: -86.77228
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 4
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Experience Nashville in style! 
+
+This modern 3-story, 3-bedroom home in walkable Wedgewood-Houston is perfect for groups. Enjoy stunning skyline views from 4 private decks, including one with a gas fireplace. Just minutes from Broadway, The Gulch, Geodis Park and The Truth music venue.
+
+Comfortably accommodates your entire crew with a chef's kitchen and spacious living areas.
+
+The space
+A 3 story modern construction boasting 3 bedrooms, 3 full baths, 4 decks, and a 3rd floor outdoor natural gas fireplace. 
+
+ In a walkable neighborhood with breweries, distilleries, and coffee shoppes.
+
+Full of well-appointed furnishings, complete with thoughtful touches to make you feel at home.
+
+★ Walkable Wedgewood-Houston, NY Times Top 100 Neighborhood, district of downtown Nashville.
+★ Fully stocked kitchen featuring a large island and bar seating
+★ Living room with patio access, sleeper sofa and 65" smart TV
+★ Bedroom 1: King bed with ensuite bathroom with walk in glass shower
+★ Bedroom 2: Two Queens bed with ensuite bathroom with garden soaking tub
+★ Bedroom 3: Queen bed with ensuite bathroom with garden soaking tub
+★ All bedrooms feature walk-in closets
+
+Guest access
+Guests will have exclusive and private access to the entire 3-story home, including all four decks and patios. Enjoy complete privacy during your stay. Keyless entry provides seamless self-check-in.
+
+Parking is convenient with space for up to four cars in the driveway. Additional free street parking is also available.
+
+Other things to note
+★ This is a 3-story home with stairs required to access the different levels and bedrooms.
+ 
+★ The kitchen is fully equipped with pots, pans, dishes, silverware, and modern appliances for all your cooking needs.
+
+★ Enjoy the city skyline from four separate decks, including the third-floor deck with a cozy natural gas fireplace.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Topher
+Host User ID: 34695981
+Host Profile URL: https://www.airbnb.com/users/show/34695981
+Host Profile URL Source: public user permalink from passport userId
+I am a healthcare sales professional that lives for time in the mountains!  I've stayed in Airbnb's in 8 countries and am always planning my next adventure.    My ideal trips involve adventure, iconic music venues, sampling the local beer, wine, AND cheese!
+Where I went to school: Miami University
+My work: Behavioral Healthcare sales
+Response rate: 100%
+Responds within an hour
+11 years hosting
+728 reviews
+4.78 out of 5 average rating
+11 years of hosting

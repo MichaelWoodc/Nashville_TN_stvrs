@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/37600886
+Latitude: 36.25697
+Longitude: -86.72937
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Linda Lane, a newly renovated ranch home, with an open-plan & vaulted ceilings. Our comfortable home sits on a 1 acre wooded property, adorned with a seasonal creek. Make yourself right at home in this quiet neighborhood, 10 minutes from The Grand Ole Opry and just minutes from the hustle and bustle of Downtown/Broadway and Airport. Perfect for a family vacation, reunion or gathering of friends. We look forward to hosting you.
+
+The space
+- 1,700 sq ft of living space 
+- Comfortable sleeping arrangements for up to 6 guests  
+- Free driveway and street parking  
+- Private coded entrances, no key needed  
+- Free internet and Streaming Apps  
+- Large Screen HD TV  
+- Fully outfitted Kitchen  
+- Full-size washer and dryer  
+- Patio lounging w/ umbrellas and furniture
+
+If you're looking for more space: 2 more Bedrooms and another Bath?
+Then visit the Alternative Page for this Listing called:
+RANCH BEAUT - 5Bd/3Ba, King Beds, Mins to Broadway
+
+Guest access
+Guests will have use of the entire upstairs Main Level  (3 Bdr/2Ba) space and the upper patio seating area and yard. A maximum of 6 guests are allowed when booking this listing. Sofa or Floor Sleeping is not allowed. Onsite and Street Parking are available. Garage Parking is not available to guests.
+
+Other things to note
+We supply the things you need for a comfortable stay. We stock the house with enough paper towels, toilet paper and other toiletries for a long weekend. Guests are responsible for any additional supplies or laundering (washer & dryer available) you may need throughout your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Becky
+Host User ID: 284083091
+Host Profile URL: https://www.airbnb.com/users/show/284083091
+Host Profile URL Source: public user permalink from passport userId
+My work: Retired!
+Fun fact: I love camping with my horse!
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+170 reviews
+4.96 out of 5 average rating
+7 years of hosting

@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/1572588608492505003
+Latitude: 36.05955
+Longitude: -86.68445
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Create unforgettable memories at this centrally located home just south of Nashville! Perfect for families or friends, you’re minutes from the best of Music City.
+
+ Prime Location:
+• 10 minutes to Tanger Outlets
+• 14 minutes to BNA 
+• 16 minutes to live music & honky-tonks of Broadway
+• 17 minutes to Country Music Hall of Fame
+• 19 minutes to Grand Ole Opry
+• 20 minutes to Midtown
+
+Spend your days shopping, exploring live music, or dining at local favorites- then come home to relax and recharge.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tyler
+Host User ID: 507669364
+Host Profile URL: https://www.airbnb.com/users/show/507669364
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Where I went to school: Siegel High School
+Response rate: 100%
+Responds within an hour
+5 months hosting
+10 reviews
+4.9 out of 5 average rating
+5 months of hosting

@@ -1,0 +1,73 @@
+URL: https://www.airbnb.com/rooms/1664890786044159113
+Latitude: 36.18712
+Longitude: -86.73783
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Chapel House by AvantStay. Set on a leafy street in Eastwood, this 3-bedroom East Nashville home sleeps 10 and puts you a short drive from Five Points' bars, Shelby Park's trails, and the honky-tonks of Broadway.
+
+🛌 3 bedrooms + 2 full baths, sleeps 10
+🏡 Fenced backyard with firepit, grill & shaded dining
+🎶 Minutes from downtown honky-tonks, Ryman, & Five Points
+
+The space
+Chapel House gives groups of up to 10 a real neighborhood basecamp, not a tourist crash pad. Five Points sits a short stroll away, where Five Points Pizza, Margot Café, and Bongo Java have anchored the scene for decades. Shelby Park's greenway and the Cumberland River are minutes east, and downtowns honky-tonks, the Ryman, and Broadway are a quick drive across the bridge.
+⠀
+Inside, the living room opens up around a stone fireplace and a deep sectional, the kind of room where the group naturally lands after a long day. Mornings start at the round dining table for eight, well-suited to lingering brunches before everyone splits off for coffee runs, record shopping at Grimeys, or a walk to Rosepepper Cantina down the road. The kitchen is fully equipped with sleek counters and modern appliances, ready for everything from a quick snack to a full group dinner.
+⠀
+Three bedrooms sleep ten across a comfortable mix of queen and full beds. The primary suite has its own ensuite with a walk-in shower, and two additional full bathrooms mean nobody's waiting in line before a night out.
+⠀
+The fenced backyard is where this house really earns its keep. A covered round dining table with umbrella sits ready for evening meals, the BBQ grill handles cookouts, and a firepit closes the night out under the Nashville sky, s'mores, stories, or just a quiet drink before bed.
+⠀
+Whether it's a milestone birthday, a music-soaked weekend, or a multi-generational family trip, Chapel House puts you in the rhythm of East Nashville without sacrificing the space or comfort actually to unwind.
+
+AvantStay provides a personalized hospitality experience to elevate your stay. With our Concierge Service, guests have access to our tech-enabled services like fridge stocking, private chefs, massages, transportation, special occasion celebrations, baby gear rentals, ski gear, beach gear, and more. For anything you need, we’re at your fingertips!
+
+Vibrant nightlife, country music, and an over-the-top culinary scene? It's true and it's no wonder people rave about "Nashvegas" as a top spot for simply having a good time. Bar hop down Broadway Street to dance to live music at multi-level bars serving up BBQ, or do like the vintage-clad locals do and lay back in East Nashville. You might pass party bikes on your drive-in, so make sure to cheer them on because having fun is part of the culture in Music City!
+
+Experience Nashville, AvantStay style!
+
+Other things to note
+Home Truths:
+- Unfortunately, pets are not allowed in this home. If undisclosed pets are brought into the home without AvantStay's approval there is a fine of $500 per pet.
+- Please note: this listing includes the home’s main level only. The upper level is a separate rental.
+
+Parking Details:
+- Parking is available on the street only, with space for up to 2 cars.
+
+[DISCLAIMERS]
+  - No smoking in or outside of this home. Subject to a $500 fine.
+  - Occupancy and noise limits are strongly enforced. Subject to fines that can reach up to $10,000 per violation.
+  - IDs and security deposits when applicable will be requested after booking
+  - We have the right to report and prosecute all Credit Card Fraud
+
+Registration Details
+2019028302
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: AvantStay Nashville
+Host User ID: 338667310
+Host Profile URL: https://www.airbnb.com/users/show/338667310
+Host Profile URL Source: public user permalink from passport userId
+AvantStay makes group travel easy. Our homes are designed for comfort, connection, and memorable moments, with consistent quality you can count on—every time, everywhere.
+Speaks Arabic, German, English, Spanish, French, Hindi, Japanese, Korean, Portuguese, and Chinese
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+7 years hosting
+6912 reviews
+4.76 out of 5 average rating
+7 years of hosting

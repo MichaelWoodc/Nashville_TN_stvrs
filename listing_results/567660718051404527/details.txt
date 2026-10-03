@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/567660718051404527
+Latitude: 36.17743
+Longitude: -86.73353
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This two bedroom house is full of charm. Right next to Shelby Golf course 10 minutes drive from downtown. This is a quiet neighborhood therefore we have a maximum four people policy, no parties or large gatherings are allowed. This house is a beautiful sanctuary in the heart of East Nashville.. Enjoy coffee in the mornings on the front porch looking out on the golf course and return to a peaceful night after a full day of exploring Nashville.. Washer and dryer, parking and open fire place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kara
+Host User ID: 15397583
+Host Profile URL: https://www.airbnb.com/users/show/15397583
+Host Profile URL Source: public user permalink from passport userId
+I'm originally from Australia and have been living in Nashville for the last 3 years. I hope you have a wonderful stay at my home and will be available 24/7 if theres anything you should need
+Lives in Nashville, Tennessee
+Response rate: 70%
+Responds within a few hours
+Superhost
+12 years hosting
+127 reviews
+4.89 out of 5 average rating
+12 years of hosting

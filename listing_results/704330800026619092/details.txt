@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/704330800026619092
+Latitude: 36.15981
+Longitude: -86.83686
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Parton Me BnB, where Nashville style meets comfort. This 3BR/2.5BA home offers a private hot tub, karaoke loft with pool table, and a striking Dolly & Johnny mural. Designed for groups, it has 7 beds, spacious living, two 75” TVs, and a backyard with firepit, grill, and games. Just 4 miles from Broadway and under a mile from local breweries and dining, it’s an ideal home base for wedding groups, family getaways, friend reunions, and music lovers.
+
+The space
+Parton Me BnB is in the heart of The Nations neighborhood in West Nashville. Enjoy this little taste of Nashville while being minutes from the major attractions of the city.
+
+HIGHLIGHTS
+-Private Hot tub in fenced backyard 
+-All beds are plush and comfortable for an easy night's sleep
+-Breathtaking mural of LEGENDARY country music pioneers, Dolly Parton & Johnny Cash
+-Karaoke set with endless music options on 75" TV & Vizio Soundbar
+-Private outdoor deck with grill & furniture
+-Fenced in yard with firepit & games
+
+Floor 1:
+Living Room, Kitchen, Half Bath, Washer+ Dryer Primary Bedroom & Bathroom
+Floor 2:
+Loft, Balcony, 2 bedrooms & bathroom
+Outside the Back Door:
+Back Deck, Fenced in Backyard
+
+Guest access
+Guest will have private access to the whole house. There is keyless lock with custom code for seamless entry.
+
+Other things to note
+Metro Nashville Short Term Permit #2022048929
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Derek And Kelli
+Host User ID: 477263333
+Host Profile URL: https://www.airbnb.com/users/show/477263333
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+4 years hosting
+166 reviews
+4.8 out of 5 average rating
+4 years of hosting

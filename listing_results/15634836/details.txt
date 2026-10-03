@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/15634836
+Latitude: 36.2028
+Longitude: -86.7599
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in East Nashville's Highland Heights - a quiet, residential neighborhood just 10 minutes to Five Points, downtown museums, concerts, and games, and 15 minutes to the Opry.
+
+Enjoy a private entrance to a bright, spotless upstairs suite for up to four guests with a large living room, kitchenette, dedicated workspace, comfy bedroom, and full bath. Thoughtfully stocked so you can settle in and get to Nashville. 
+
+Permit #2020040205
+
+The space
+Built in 1954 and fully remodeled, our 750-square-foot upstairs guest apartment offers a comfortable, private home base for your Nashville stay.
+
+The bedroom features a cozy queen bed with a memory foam mattress and blackout curtains for restful nights. The living room includes a comfortable sleeper sofa, streaming-ready TV with Netflix, Prime, Hulu, ESPN, and HBO, and a bright skylight. In winter, you can even catch a view of downtown Nashville and the iconic AT&T “Batman Building.”
+
+The kitchenette is thoughtfully stocked with everything you need to feel at home: coffee and tea service, mini fridge with freezer, microwave, toaster oven, induction burner with cookware, electric kettle, and all dishes and utensils. Please note, there is no full stove or oven.
+
+Traveling for work? A dedicated workspace with fast 1Gb Wi-Fi makes it easy to stay connected.
+
+The bright, spacious bathroom provides plenty of room to get ready for a day of exploring or a night out on the town.
+
+Whether you’re here for music, food, or fun, we’ve designed the space to be clean, welcoming, and easy to enjoy.
+
+Guest access
+Your space is a private upstairs suite with its own external entrance off the front porch, offering complete privacy and independence in a clean, safe, and modern setting.
+
+Entry is easy and secure with a keypad deadbolt. A unique 4-digit access code is automatically generated for each stay, so there are no keys to worry about.
+
+Guests are welcome to use the laundry facilities located in the garage. The laundry area is accessible without entering our part of the home. We just ask that you give us a quick heads-up when you plan to use the machines so we can bring our dogs inside.
+
+Parking for one vehicle is available in the shared driveway, with additional free street parking if needed. Please note that all parking is uncovered.
+
+Other things to note
+The space is kept completely pet-free, so guests with allergies don’t need to worry about pet hair or dander.
+
+You may occasionally hear our dog bark briefly if someone knocks on the door or when we arrive home, but overall the property is very quiet and peaceful.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Todd
+Host User ID: 11472925
+Host Profile URL: https://www.airbnb.com/users/show/11472925
+Host Profile URL Source: public user permalink from passport userId
+As A Host:  I live downstairs on the property and work from home, so I am almost always available for any guest inquiries or requests.  I respect traveler's privacy during their stay if preferred, but I also like swapping stories on the screened back deck or by the fire pit for guests who enjoy more interaction with local hosts.
+
+As A Guest:  I love to travel, whether it's a whirlwind trip or an extended stay.  My favorite activity would have to be eating!  Five star or the secret menu at the dive down the block are all good to me.  A couple of good cocktails are always in order, too.  I am a respectful guest and love to meet new people, but generally just use a rental as a crash pad since there's always so much to do wherever I'm staying.
+My work: Project Manager
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+374 reviews
+4.95 out of 5 average rating
+10 years of hosting

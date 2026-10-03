@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/845847929732898974
+Latitude: 36.2861
+Longitude: -86.45416
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the luxury of being in close proximity to downtown Nashville while enjoying everything Old Hickory Lake has to offer. This home holds a lot of history for our family, being our great grandparents home, and passed down for generations to love and enjoy! Enjoy the touches of retro flare mixed with everything you love about the lake. Bring your boat with you on your next vacation and enjoy the beauty of Old Hickory Lake. A trip to the lake is sure to leave you with memories for a lifetime!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cameron
+Host User ID: 155786136
+Host Profile URL: https://www.airbnb.com/users/show/155786136
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+4 years hosting
+56 reviews
+4.91 out of 5 average rating
+4 years of hosting

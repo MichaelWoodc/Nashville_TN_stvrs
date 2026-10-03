@@ -1,0 +1,90 @@
+URL: https://www.airbnb.com/rooms/930681007593740289
+Latitude: 36.14385
+Longitude: -86.87762
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Sojourner Nashville, your globally inspired private guest suite in the peaceful Charlotte Park neighborhood of Nashville.
+
+Perfect for couples, friends, or business travelers, this cozy retreat offers privacy, comfort, and convenient access to the best of Nashville—so you can explore by day and unwind at night.
+
+Enjoy a thoughtfully designed space, a private patio, and modern amenities that make your stay both relaxing and seamless.
+
+The space
+This guest suite is designed with comfort and functionality in mind:
+
+- Comfortable living area with plush seating
+- Smart TV (log into your favorite streaming apps)
+- Fast fiber WiFi—great for streaming or remote work
+
+🛏 Sleeping Arrangements
+
+- Private bedroom with queen bed
+- Luxury queen air mattress for additional guests
+- Best suited for 2–4 guests
+
+🍳 Kitchenette Includes
+
+- Mini fridge with ice tray
+- Microwave
+- Keurig coffee + tea bar
+- Electric kettle
+- Filtered water pitcher
+- Ice tray
+
+🛁 Bathroom Amenities
+
+- Shampoo, conditioner, body wash
+- Hair dryer
+- Makeup towels + essentials
+
+🧺 Bonus Features
+
+- Washer + dryer (detergent included)
+- Cleaning supplies available
+- Curated local recommendations from 12+ years of living in Nashville
+
+Guest access
+Guests will enjoy:
+
+- Private entrance with keyless self check-in
+- One dedicated parking spot
+- Full access to the guest suite and private patio
+
+You’ll have the freedom to come and go easily throughout your stay.
+
+Other things to note
+- This is a private guest suite attached to a main home
+- We are a family with two young children, so you may occasionally hear light noise during the day. We are mindful of our guests and do our best to maintain quiet hours between 9 PM – 6 AM
+- An exterior security camera is located at the private entrance for guest safety and secure check-in
+- The kitchenette is designed for light meal prep (no full stove/oven)
+
+If you have any special requests, feel free to reach out—we’ll do our best to accommodate!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Katie
+Host User ID: 23899483
+Host Profile URL: https://www.airbnb.com/users/show/23899483
+Host Profile URL Source: public user permalink from passport userId
+Hello! I’m Katie, a Nashvillian for 11 years and a world-traveler when I can. I love staying in unique places around the world and hope my home can be that for you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+161 reviews
+4.95 out of 5 average rating
+3 years of hosting

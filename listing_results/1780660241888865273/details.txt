@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/1780660241888865273
+Latitude: 36.1542
+Longitude: -86.7758
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+☆ WELCOME TO THE HEART OF NASHVILLE ☆
+
+✹ 3 mins to Broadway
+✹ 3 mins to Frist Art Museum
+✹ 3 mins to Music City Center
+✹ 4 mins to Bridgestone Arena
+✹ 7 mins to Vanderbilt University
+✹ 8 mins to Tennessee Titans Stadium
+✹ 8 mins to Nashville Airport
+
+☆ INCLUDES ACCESS TO ☆
+
+✹ Pool
+✹ Gym
+✹ Free WiFi
+✹ Pet Spa
+✹ Coffee Bar
+✹ Sky Lounge
+✹ Central Location
+✹ 24/7 Snack Machine
+✹ Conference & Meeting Room
+✹ 2 Flat Screen TVs w/ Roku
+✹ Family-Friendly Game Boards
+✹ Complimentary toiletries provided
+
+Registration Details
+T202205611
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 442862524
+Host Profile URL: https://www.airbnb.com/users/show/442862524
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Jacob! My passions include curating charming spaces for guests, traveling, and growing with others around me. I love helping people whether you’re visiting for leisure, work, or adventure. My job is to make your life as easy as possible. I am always available for questions and can’t wait for you to experience another beautiful stay. Cheers!
+Where I went to school: Temple University
+My work: Account Executive
+Response rate: 100%
+Responds within an hour
+2 years hosting
+735 reviews
+4.65 out of 5 average rating
+2 years of hosting

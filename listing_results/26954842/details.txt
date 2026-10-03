@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/26954842
+Latitude: 36.25565
+Longitude: -86.80797
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly Re-modeled Log Cabin in the beautiful hills of North Nashville.   Just 15 minutes from the honky tonks on Broadway, The Grand Ole Opry, and the Opry Mills Mall.  Also located less than a mile from the Fontanel that has Ziplines and trail to walk.
+
+The space
+The cabin is located on 27 acres and offers amazing privacy.  2 bedroom/2 bath with a spacious living room, dining room, and kitchen area.
+
+Guest access
+Guests will have access to the entire home.  There is plenty of room of private parking.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cory
+Host User ID: 31159071
+Host Profile URL: https://www.airbnb.com/users/show/31159071
+Host Profile URL Source: public user permalink from passport userId
+Moved to Nashville to attend Belmont and graduated in 1998.  I have been in the music industry here for over 20 years.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+10 years hosting
+854 reviews
+4.93 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/37046091
+Latitude: 36.1721
+Longitude: -86.7414
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Introducing Lillian House: A Charming East Side Cottage, Lovingly Revamped by Julie in 2018. Experience the Epitome of Style with Julie's Impeccable Decor Taste, Featuring Eclectic Furnishings for Ultimate Relaxation. From Vibrant Chairs and Poofs by the Fireplace to Playful Mood Lighting, Every Corner Exudes Warmth and Comfort. Nestled in the Heart of East Nashville, This Hip Haven Offers Easy Access to Titans Stadium and a Stroll to Local Eateries. Welcome to Your Oasis of Tranquility in the H
+
+The space
+3 Bedrooms, Each with Private Full Baths! Embrace Privacy and Togetherness as You Explore This Inviting Home. Enjoy the Convenience of Driveway and Street Parking. Cherished as Our Personal Haven, We Kindly Ask for Your Respect and Care.
+
+Indulge in Culinary Creations with a Fully Equipped Kitchen Boasting Microwave, Stove, Refrigerator, Pantry, and Wine Cooler. Dine in Style at the Bar or Gather in the Dining Room.
+
+Discover the Perfect Ambiance with Thoughtfully Designed Lighting Controls. While Initially Overwhelming, Find Ease in Setting Your Ideal Mood. Simply Refer to Our House Manual for Further Instructions.
+
+Your Escape Awaits, Where Comfort and Convenience Harmonize.
+
+Guest access
+Explore three bedrooms and three bathrooms at your convenience. Laundry facilities await throughout your stay.
+
+Please Note: Early Check-in and Late Check-out aren't available. We Maintain This Policy to Ensure Our Cleaning Crew Has Ample Time to Prepare the Space to Perfection for You and Future Guests. Your Understanding and Flexibility Are Truly Appreciated."
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kristin
+Host User ID: 109712828
+Host Profile URL: https://www.airbnb.com/users/show/109712828
+Host Profile URL Source: public user permalink from passport userId
+I am a Nashville Native. I have loved growing up with my city. I’m so excited to share Nashville with everyone I meet! I created my rentals with a Nashville vacay in mind. Please don’t hesitate to let me know how I can help you get the best out of your stay in Nashville!
+Favorite song in high school: Cry Me a River - Justin Timberlake
+Fun fact: I have an eidetic memory.
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+430 reviews
+4.87 out of 5 average rating
+8 years of hosting

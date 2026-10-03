@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/805025432139450647
+Latitude: 36.26093
+Longitude: -86.91031
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Custom built private oasis near downtown Nashville! Beautiful wooded views greet you at every window. Surrounded by undeveloped park property & accessible to hiking trails, you’ll feel like you’re in the mountains while only 15-20 minutes to the heart of Nashville! 
+Unique custom home complete in 2022. Full of modern luxuries & comforts. 
+-2 bedrooms (sleeps 6 w/ pull-out sofa downstairs)
+-2.5 bath
+-2 living areas
+-projector & popcorn maker for movie nights
+-elegant & functional chef’s kitchen
+
+The space
+Welcome to the stone perch! We are on a quiet and private dead end road in northwest Nashville, surrounded by the beautiful Beaman Park - 2300+ acres of protected wooded land with over 14 miles of trails - just steps from the front door. 
+This is a two bedroom house, but can sleep 6 comfortably with the fold out in the basement den area. 
+The primary bedroom is on the main level and features a luxurious queen bed, walk-in closet and private bathroom with a curb-less tile shower. 
+There is also a 1/2 bathroom on the main level. The chef’s kitchen overlooks a scenic wooded backyard and has all the amenities needed to prepare your gourmet feasts. Stocked with cooking basics and premium cookware. The view from the kitchen sink will have you wanting to stay all day. An upstairs living area with adjustable arm tv leads you to a second story concrete deck. Here you will find ample seating to take in the views as well as an outdoor dining table.
+Downstairs in the walk-out basement, there is a second bedroom featuring a full bed with deluxe bedding and glass sliding doors overlooking beautiful views into the woods behind the house. Reach in closet provides ample storage. The basement bathroom features a tub/shower combo. There is also a large laundry room on this level.
+In the open basement living area, you will find a comfy sectional facing a large projector wall for movie nights. A Cuisinart popcorn machine completes the experience. 
+The third bed can be found in the basement living area where there is a pull-out sofa with an upgraded memory foam full mattress. 
+Walk-out basement patio doors lead you to more beautiful views and a stone fire pit.
+Our guests love how private and secluded they feel while being close to all the amenities that Nashville has to offer. We look forward to hosting you!
+
+Guest access
+You will have access to entire home and property. There is ample parking space between the stone courtyard and gravel spaces.
+
+Other things to note
+Steps from the house, you can access private hiking trails which lead to public hiking trails. The park surrounding the house is over 2100 acres and has over 15 miles of hiking trails. Even though you are close to town, you will truly feel like you are getting away from it all.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 38962393
+Host Profile URL: https://www.airbnb.com/users/show/38962393
+Host Profile URL Source: public user permalink from passport userId
+I live in Nashville with my husband Chris and our dog Rosie.
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+78 reviews
+4.96 out of 5 average rating
+9 years of hosting

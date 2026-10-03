@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/15679040
+Latitude: 36.25253
+Longitude: -86.69803
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Located in the Madison neighborhood, you’re only a 10-15 minute drive away from downtown Nashville. Whether you’re looking for a place to call home while you explore and have fun in Nashville, or you’re just needing some rest and relaxation on a peaceful getaway, this cheerful and cozy home is the perfect place to stay. Local breweries, restaurants, and coffee shops are all nearby. Pet Friendly with pet fee of $50 per pet per stay. 
+Brand new hot tub just added!
+
+The space
+The whole house has been newly renovated! Warm and inviting living room with TV, books, magazines, local information, and comfy places to lounge. Fully equipped kitchen with coffee maker and coffee provided. Dining area with 4 chairs. Two spacious bedrooms with queen sized beds, vanity with makeup mirror. One full bathroom upstairs and one half bathroom downstairs. Big backyard, but it's not fenced so please keep dogs on leash! There is NO SMOKING of any kind (cigarettes, vaping, etc) allowed inside the house. You may smoke on the back patio.
+
+Other things to note
+Pet fee is $50 per pet per stay and is Non-Refundable. Must bring a kennel/crate for each dog if you plan to leave the dog in the house alone for any period of time.  If you're bringing a pet, please let me know in a message. 
+
+There is NO SMOKING of any kind (cigarettes, vaping, etc) allowed inside the house. You may smoke on the back patio.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hannah
+Host User ID: 32127068
+Host Profile URL: https://www.airbnb.com/users/show/32127068
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+125 reviews
+4.94 out of 5 average rating
+7 years of hosting

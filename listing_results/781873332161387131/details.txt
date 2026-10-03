@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/781873332161387131
+Latitude: 36.17548
+Longitude: -86.73639
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In the heart of historic Lockeland Springs, from the Russell Street Bungalow you can walk to the bars at Five Points, independent restaurants, boutique shopping, comfy cafes, and the beautiful Shelby Bottoms Greenway. It's quick and easy to get anywhere in town from this home base, and you don't have to get on the highway in order to explore the city. You'll come and go with a key code and enjoy the privacy of your own suite. We look forward to your stay.
+
+Permit #2022083682
+
+The space
+The bungalow is a second floor studio with a private, modern bathroom.
+
+Guest access
+The entire bungalow is yours!
+
+Registration Details
+2002083682
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Laura
+Host User ID: 1710640
+Host Profile URL: https://www.airbnb.com/users/show/1710640
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+15 years hosting
+165 reviews
+4.98 out of 5 average rating
+15 years of hosting

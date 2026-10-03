@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/770215591416059648
+Latitude: 36.3884
+Longitude: -86.6506
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This rehabbed civil war cabin on 14 acres of woods in Goodletsville, TN.  This 3,026 SF hidden gem is surrounded by nature is located 25 mins from Downtown Nash, the Grand Ole Opry & Nissan Stadium.  This  cabin has 3 bedrooms, 3 remodeled full baths, dining room, stone fireplace, office/bonus room with queen and twin bunkbeds, hardwood floors throughout, and a swimming pool, hot tub and barbecue along with oversized jacuzzi tub in master bath and a steam room shower in main floor bath
+
+The space
+Living room includes a big screen Smart TV
+Full size washer/dryer is located in kitchen utility closet
+Main level bathroom is also a steam room
+Master bathroom includes jacuzzi
+Kitchen is stocked with cooking utensils and dinnerware
+Coffee, paper towels and toilet paper will be provided
+Charcoal BBQ grill is located in swimming pool area
+Towels for the swimming pool are located in bathroom on the main floor
+Fire pit is located in the swimming pool area
+
+Guest access
+Guests will have access to entire property with the exception of the garage/storage unit located in the backyard behind the swimming pool.
+
+Other things to note
+This special property was the set of Dan & Shays 2021 Christmas video (Officially Christmas) and truly is a great Christmas/New Years retreat.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 489457462
+Host Profile URL: https://www.airbnb.com/users/show/489457462
+Host Profile URL Source: public user permalink from passport userId
+I have been a missionary in the refugee area of La Carpio Costa Rica since 2023.  I helped start a preschool so the little children had a safe place to go. I love Jesus but don’t get me mad I’m a black belt in Krav Maga. Just kidding about getting me mad kinda, no for real.
+Where I went to school: Columbia College
+My work: Jesus worker
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+86 reviews
+4.9 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/41433796
+Latitude: 36.22795
+Longitude: -86.74229
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 5
+occupancy: 9
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Mid century modern home is equipped and styled to host a girls night in, a boy's night out, a working travel,  or family trip to Nashville.   The home features a private entrance and parking, an open concept kitchen, stainless steel appliances, two large living and entertaining areas, spacious bedrooms, and modern bathrooms.  Smart tv's throughout the home to keep you entertained for hours. Convenient  check-in with smart lock.  This newly remodeled home is 8 minutes from downtown.
+
+The space
+The kitchen has all new appliances and kitchenware, a Keurig coffee maker with coffee pods, a stove/microwave, and toaster! The bathroom is stocked with brand new towels and wash cloths, a hair dryer, along with toiletries. Washer and dryer available for your convenience!  Free WiFi. Charge stations to keep your devices powered up at all times.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Yohance
+Host User ID: 270267112
+Host Profile URL: https://www.airbnb.com/users/show/270267112
+Host Profile URL Source: public user permalink from passport userId
+My work: HVAC
+I'm obsessed with: Ice cream
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+151 reviews
+4.96 out of 5 average rating
+7 years of hosting

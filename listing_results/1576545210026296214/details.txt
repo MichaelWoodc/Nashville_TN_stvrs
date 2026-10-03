@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1576545210026296214
+Latitude: 36.18953232223613
+Longitude: -86.73182253090711
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Step into this beautiful, newly renovated 4 bedroom, 3 full bath craftsman home located minutes from downtown Nashville/Broadway, Five Points, and the city’s best dining, music, and nightlife. This modern house blends classic charm with modern comfort featuring high-end finishes, smart thermostats, a large updated kitchen, open living and dining, and a private backyard with outdoor seating, making it ideal for families, friend groups, and longer stays.
+
+✨Experience East Nashville Like a Local✨
+
+The space
+2-story craftsman home with 4 bedrooms (2 king beds, 2 queen beds) and 3 full bathrooms. Full kitchen with island, stove, dishwasher, microwave, and coffee machine. Dining room. Living room with bonus living space upstairs. Included washer and dryer. Large backyard with outdoor seating area for entertaining.
+
+Please note: king bedroom upstairs is loft/studio style with second private queen bedroom with door. The two share a bath.
+
+Guest access
+Full access of home and yard
+
+Other things to note
+Advanced check in and delayed check out may be available at a rate of 25 dollars per hour.
+
+Registration Details
+2025098746
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kelly
+Host User ID: 292212145
+Host Profile URL: https://www.airbnb.com/users/show/292212145
+Host Profile URL Source: public user permalink from passport userId
+Lives in Lebanon, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+9 months hosting
+32 reviews
+5.0 out of 5 average rating
+9 months of hosting

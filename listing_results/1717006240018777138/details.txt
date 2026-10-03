@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1717006240018777138
+Latitude: 36.14297019661033
+Longitude: -86.82282390059396
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+A Thoughtfully Maintained this Rental Designed for people seeking Comfort, Privacy and Convenience. 
+
+This City rental with Two fully furnished Bedrooms and Equipped with all the Essential Necessities and Move-in ready. 
+
+Right in the middle of West End and Centrally located, "Easy access to all around in town".
+
+Close to the Downtown area a ten minute drive or use Uber/Lyft with around $10.00 or less. 
+
+* The rest of instructions will be provided by following your booking confirmation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mi
+Host User ID: 1717002708345678808
+Host Profile URL: https://www.airbnb.com/users/show/1717002708345678808
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+2 months hosting
+3 reviews
+5.0 out of 5 average rating
+2 months of hosting

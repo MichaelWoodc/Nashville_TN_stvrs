@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/32958841
+Latitude: 36.08988
+Longitude: -86.6254
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Recent renters have written "What a view!," "far enough away to feel like a vacation but close enough to downtown sites," "Everything you could need is here!," "exceptionally clean," "The view was spectacular!," and "The outdoor space and pool are fantastic."  Must see to appreciate the beauty and amenities offered by this unique, beautiful home. We welcome families, pets and groups. A very quiet neighborhood. Not suitable for loud  parties. Quiet time is 9 pm to 7 am.
+
+The space
+Very open floor plan, lots of windows and light, beautiful views from all of the rooms. Two bedrooms and bath upstairs. Mid level has fully stocked kitchen and dining area adjacent outside raised patio area with table and chairs for eating in a lovely atmosphere. The mid level also has a third bedroom/office area with a queen size futon. Perfect place to get some quiet time, catch up on any office work or a good book, and see the pool and downstairs sitting area. The downstairs area has a TV, two large couches that make into beds, and opens into the pool area.
+
+Guest access
+The entire house is open to guests.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary And Jim
+Host User ID: 248034280
+Host Profile URL: https://www.airbnb.com/users/show/248034280
+Host Profile URL Source: public user permalink from passport userId
+Jim and I are retirement age, have lived on this little cul de sac next door to the AirBnB property for over 20 years. I continue working with a small private practice as a psychiatric nurse practitioner. We live quietly, enjoying our three dogs and friends.  Jim is the extrovert, enjoys socializing and playing golf.  I'm the introvert preferring my books, dogs, and alone time. 
+We hope to offer people who enjoy our property a beautiful, peaceful home with our support to make your visit a memorable experience. We will never be intrusive but we are nearby to answer any questions and any support to make your vacation so amazing you will want to return again and again. 
+Nashville needs no introduction. Jim is a native of Nashville and I have lived here thirty years. It's just a fascinating place with endless things to do. It's not uncommon to run into a country music star while you are out and about. Please allow them their privacy unless they are in a venue that invites interaction. 
+Nashville is so much more than country music though. There are probably more colleges and universities here than any other town this size. I think this reflects itself in the high quality people you find next door, down the street, or at the check-out line in the grocery. 
+Then there's the world-class medical facilities. People come from all over for treatment plus a lot of research is is done here. Sarah Cannon (Minnie Peal) for cancer and Vanderbilt University Medical Center multiple disorders.
+Don't forget, we are serous animal lovers.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+115 reviews
+4.96 out of 5 average rating
+8 years of hosting

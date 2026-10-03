@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1706248444991682477
+Latitude: 36.13818474409942
+Longitude: -86.94178900925917
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Country living in the city! Welcome to Hillside Retreat, a private 5-acre getaway in West Nashville surrounded by beautiful forest, mature trees, peaceful hillside views, and stunning natural cliff faces. Enjoy sunrise coffee on the porch, evenings around the fire pit, or a soak in the hot tub at sunset. With minimal city light, the stars shine incredibly bright here. Just minutes from the downtown, the river, breweries, shopping, entertainment and local farm/market!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Matt
+Host User ID: 61976336
+Host Profile URL: https://www.airbnb.com/users/show/61976336
+Host Profile URL Source: public user permalink from passport userId
+My work: U.S. Army
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+5 years hosting
+38 reviews
+4.84 out of 5 average rating
+5 years of hosting

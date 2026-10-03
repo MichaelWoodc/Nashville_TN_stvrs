@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/37780404
+Latitude: 36.19888
+Longitude: -86.53766
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Recently updated space near the heart of Mt Juliet, just 20 minutes from the airport,  and a short 25 minute drive to downtown Nashville. This suite is privately located on the ground level basement of our home with its own private keypad entrance. It's completely private with plenty of amenities including a mini fridge & Keurig.
+
+The space
+Recently update space. Close to everything but nestled away in an established quiet neighborhood with spacious yards. Large suite with private keypad entrance, queen bed, memory foam futon, large sectional sofa to lounge on, private bathroom and amenities including a TV with AppleTV (no cable access), mini fridge, and Keurig coffee maker.
+Enjoy our large shared backyard with adirondack chairs just outside your private entrance. This space is ideally suited for 2-3 guests.
+
+Other things to note
+- Since the unit is in a basement, we’ve put an adult sound machine on the bedside table for any light sleepers.
+- We keep quiet hours between 10 PM and 8 AM.
+- There is a zero smoking policy on our property. That includes tobacco, marijuana, and vaping. If this rule is broken, Airbnb will be notified and a cleaning fee will be billed.
+- Due to family allergies we do not allow pets or service/emotional support animals of any kind.
+- Only the people registered to the suite are allowed on the property with the exception of picking up and dropping off. We cannot accommodate outside guests.
+
+Other things to note
+NO SMOKING/VAPING anywhere on property
+
+NO pets or service/emotional support animals due to family allergies. No exceptions.
+
+NO alcohol, parties or guests that are not included on reservation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Wendy
+Host User ID: 113468197
+Host Profile URL: https://www.airbnb.com/users/show/113468197
+Host Profile URL Source: public user permalink from passport userId
+I am a wife, mother, and beach lover. I love my family and enjoy spending quality time with them and traveling. 5 things I couldn't live without are: family, my faith, chocolate, a/c in the summer, and slippers in the winter.  My favorite place to visit is anywhere with a beach close by.  My family and I love seeing new places, but we also love to just watch a movie on the couch.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+383 reviews
+4.9 out of 5 average rating
+8 years of hosting

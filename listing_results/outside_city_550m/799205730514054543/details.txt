@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/799205730514054543
+Latitude: 36.378
+Longitude: -86.5341
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Your Nashville Getaway!
+
+Experience the charm of Music City in our cozy retreat, perfectly located just minutes from downtown Nashville and attractions like Ryman Auditorium, the Gulch, and Opry Mills Mall.
+Enjoy a fully equipped kitchen, high-speed Wi-Fi, and smart TV, and tons of seating space. You can have a peaceful night's sleep while still being close to the city or enjoy sipping your morning coffee on the front porch bed swing.
+
+The space
+What You'll Love About Our Space:
+Modern Amenities: Enjoy a fully equipped kitchen, high-speed Wi-Fi, and smart TV for streaming your favorite shows.
+Comfortable Living: Relax in a spacious living area with cozy furnishings and plenty of seating space.
+Restful Nights: We live on 3 acres outside city limits. You will enjoy a quiet's night rest while still being close to the city. We offer one room with a King- sized bed and an upstairs loft with two twin beds and one queen bed. 
+Outdoor Oasis: Sip your morning coffee or the front porch bed swing.
+
+The cottage is located behind our house. You will park in our driveway where we park, but that is the only shared space. You will likely see me, my husband, kids and Rottweiler, Roxie  around at some point but we will respect your privacy and our dog stays in the front yard. (Unless you are a dog lover that wants to love on her :) )
+
+You will have access to the entire backyard - everything behind our back porch. Most families with kids ask if they can use the trampoline and they can of course!
+
+Other things to note
+We have a highchair and pack-n-play for infants as well as dog crate, bowls, and dog beds available upon request.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Billie
+Host User ID: 494805322
+Host Profile URL: https://www.airbnb.com/users/show/494805322
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+Favorite song in high school: Iris by Goo Goo Dolls
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+62 reviews
+4.94 out of 5 average rating
+2 years of hosting

@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1689389700968328967
+Latitude: 36.09228744693952
+Longitude: -86.63391607693559
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Fully furnished bedroom with private bathroom located on the 2nd floor of a townhouse. The homeowner and one very friendly, medium sized dog live on the first floor. Laundry and an office are also located upstairs.
+
+The space
+Downstairs: 1/2 bath, kitchen, dining room, living room
+Upstairs: 1 bedroom with a queen bed, dresser, nightstand, closet, and TV. 1 full bath (not attached to the bedroom). A laundry room with a washer and dryer. A loft with a desk for remote work and a couch for lounging.
+
+Guest access
+You will receive a temporary access code to the front door on the morning of your stay.
+
+During your stay
+This is my primary residence so I should be around for whatever you need. If I am not on the premises, I am best reached by phone call or text.
+
+Other things to note
+A very friendly and playful 60 pound dog does live in the home. Though the home is cleaned thoroughly, it may not be suitable for those that are allergic to dogs. No other animals are in the home.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sarah
+Host User ID: 195852758
+Host Profile URL: https://www.airbnb.com/users/show/195852758
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within a day
+1 month hosting
+3 reviews
+5.0 out of 5 average rating
+1 month of hosting

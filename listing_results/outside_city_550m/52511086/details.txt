@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/52511086
+Latitude: 36.32558
+Longitude: -86.62648
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Great Location! Come and relax in this cozy house, safe neighborhood! If you want to visit downtown Nashville it will take you only 20 minutes to get there, 2 minutes from by-pass 386, 5 minutes from Interstate 65. 8 minutes from the lake, and a walking distance to Gleenbrook shopping center, 5 minutes from Walmart, 3 minutes from Sam’s club and The Street of Indian Lake.
+Check-in is at 4:00 pm Check-out at 10:00am
+_
+
+The space
+There is a private suite connected to the house, however it is completely separate and independent of where guests stay. There is a privacy fence and separate entrance to ensure complete security.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Miriam
+Host User ID: 266213257
+Host Profile URL: https://www.airbnb.com/users/show/266213257
+Host Profile URL Source: public user permalink from passport userId
+Speaks English and Spanish
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+25 reviews
+4.92 out of 5 average rating
+3 years of hosting

@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/6424881
+Latitude: 36.22284923261043
+Longitude: -86.71221645991139
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Short Term Rental Permit #: 2017081769   Quiet East Nashville neighborhood convenient to downtown and Opryland. One bedroom, one bath and sitting area in upstairs of home. Outside patio with peaceful Cumberland River view. Kitchen available for coffee and light breakfast. Queen size bed and private upstairs area help make your stay enjoyable.
+
+The space
+In 1926, a couple canoed down the Cumberland River, climbed the bluff and bought the land where they were later married in the living room of their new home. The home has since had several updates but still maintains its original character. Queen size bed and private upstairs area make your stay enjoyable.
+
+Guest access
+Guests will have access to the entire upstairs which includes 1 bedroom, 1 bathroom, and a sitting area. They will also have access to the downstairs original kitchen and breakfast nook. Coffee and light breakfast available!
+
+During your stay
+I will be more than happy to have suggestions for area restaurants and sight seeing, though one sight you probably won't see... is me. I enjoy Nashville, too.
+
+Other things to note
+I have 1 cat named Gray Kitty. She stays in a separate part of the house away from guest rooms.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Linda
+Host User ID: 33524311
+Host Profile URL: https://www.airbnb.com/users/show/33524311
+Host Profile URL Source: public user permalink from passport userId
+I enjoy my family, walking, good books, the beach and singing in the choir. I am a retired teacher in the Nashville Public School System. Broadway musicals are one of my favorite things to see. The peace of the river has been a haven to me and my family. We call our home built in 1926, RiverHaven. My life saying is seek peace and pursue it.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+333 reviews
+4.96 out of 5 average rating
+11 years of hosting

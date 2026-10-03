@@ -1,0 +1,62 @@
+URL: https://www.airbnb.com/rooms/1779084758384837943
+Latitude: 36.1588
+Longitude: -86.8165
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Note: Remodel pics coming soon!!! Sleeps 12 with all rooms on one level.  Elevator and stair accessible.  Large wrap-around balcony includes fire pit and 7 person hot tub and has great views of downtown lights with additional views accessible from building rooftop.  Drone pics show full wrap-around balcony attached to this corner unit.  
+Fully equipped kitchen makes for easy meals after a long day or night of exploring Nashville.  A comfy living space includes fireplace and large Smart TV.
+
+The space
+4 bedroom, 12 bed, 3 1/2 bathroom condo.  There is elevator accessibility and all rooms are on the same floor.  1700 square foot balcony includes multiple tables, Hot Tub, fire pit and outdoor games.
+
+Guest access
+Guests can use whole condo/balcony/hot tub along with the 5th floor open space.
+
+Other things to note
+Things to Do:
+
+1. Old Town Trolley-if you haven't been to Nashville before, this is a great overview!
+2. The Gulch-excellent high-end shopping
+3. 12 South-up and coming high-end shopping/restaurants
+4. Marathon Village-close to the condo and a cute visitor shops with several whiskey tastings available
+5. Puttshack
+6. Centennial Park
+7. The Pedestrian Bridge
+8. Belmont Mansion
+9. Belle Meade Farm (Plantation)
+10. Farmer's markets in several locations and on several days of the week.
+
+Restaurants:
+1. Aroi (same building as condo)--great sushi!
+2. Retrograde (awesome coffee and breakfast sandwiches)
+3. Taco Mama
+4. Bad Ass Coffee
+5. Penne Pazze
+6. Assembly Hall downtown
+7. Van Leeuwens Ice Cream (several locations)
+8. Pancake Pantry
+9. Tito's Mexican
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 498409685
+Host Profile URL: https://www.airbnb.com/users/show/498409685
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Response rate: 100%
+Responds within an hour
+New Host

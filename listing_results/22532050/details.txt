@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/22532050
+Latitude: 36.19416
+Longitude: -86.70716
+rental_type: Tiny home
+property_type: TINY_HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Nash Casita is a 320 sqft Private Guest House located in hip East Nashville.  The casita sits on a half acre just 5 minutes from 5 Points (Center of East Nashville) and 15 minutes from the downtown loop in a charming 1950's Atomic Ranch neighborhood. Walking distance to Shelby Park Greenway (walking/biking trails) and a short drive/LYFT/UBER to all that Nashville has to offer... music venues, coffee shops, delicious restaurants, cool boutiques and more!
+
+The space
+Nash Casita is a travelers dream and was specifically designed with amenities that make life on the road a treat.  Completely private. Two dedicated parking spots are located just a few feet from the entrance.  We offer a keyless entry which makes for a streamlined check-in/check-out experience. In the guest house you will find modern concrete floors, a comfy couch, TV, wifi, bluetooth speaker, dimmable lighting, wardrobe, healthy snacks, Keurig coffee maker (cream/sugar), electric kettle, mini fridge, kitchen sink, new mini-split HVAC unit, highly rated gel memory foam (medium/soft) QUEEN mattress, soft cotton sheets, Dohm sound machine, hairdryer, small ironing board and iron, full bathroom (standing shower, toilet and marble vanity) with plush towels and Thistle Farms products: hand soap, travel size lavender lotion and "Head to Toe Body Wash" and a travel shampoo. The covered porch is the perfect place for coffee, tea, reading or a glass of wine... you may even spot a family of deer leisurely strolling by. * Please note we only allow 2 guests maximum.
+
+Guest access
+Our neighborhood is easily drivable and parking can be found in pretty much any area.  Uber/Lyft are also readily available in our area.
+
+Other things to note
+The beautiful concrete floors are modern and durable, but can be a bit chilly.  Don't forget to bring your favorite fluffy socks or slippers.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chandra
+Host User ID: 137482919
+Host Profile URL: https://www.airbnb.com/users/show/137482919
+Host Profile URL Source: public user permalink from passport userId
+We are creatives, musicians, small business owners living, working, eating and having fun in Nashville.
+My work: Self Employed
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+587 reviews
+4.97 out of 5 average rating
+9 years of hosting

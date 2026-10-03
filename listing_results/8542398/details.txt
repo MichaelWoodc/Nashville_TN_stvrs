@@ -1,0 +1,45 @@
+URL: https://www.airbnb.com/rooms/8542398
+Latitude: 36.07776
+Longitude: -86.7109
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This full apartment was newly built and designed for those with a modern taste.  With stained concrete floors throughout, stacked washer/dryer, and artsy decor, this cozy apartment will make you feel like you are home. 15 minutes from downtown.  The kitchen is equipped with everything you need to cook.  This apartment is a fully private apartment with separate entrance, using the entire bottom floor of a 3-story house.  Please let us know a little about yourself and who is travelling with you!
+
+The space
+Modern artsy decor. K-cups and Keurig provided. Fully stocked kitchen. New construction.
+
+Guest access
+Washer and dryer. Wireless internet. Full private apartment.
+
+Other things to note
+Absolutely NO smoking of any kind of the apartment. That includes vaping, pot, e-cigarettes and cigarettes.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Benjamin
+Host User ID: 44972119
+Host Profile URL: https://www.airbnb.com/users/show/44972119
+Host Profile URL Source: public user permalink from passport userId
+We love ethnic food (mostly Thai), we are musicians, we love God, we have been married for 15 years (no kids).  We would love to host you at our cozy apartment, we can even lead you toward great entertainment (come see us sing!), great food, and great sights.
+My work: Musicians
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+381 reviews
+4.9 out of 5 average rating
+11 years of hosting

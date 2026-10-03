@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/1783532496461922636
+Latitude: 36.196606396982006
+Longitude: -86.7766824711881
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wake up to downtown skyline views from your private balcony in this modern East Nashville townhome, just 10 minutes from Broadway. The 3 bedroom, 2.5 bath home sleeps 6 guests with a king primary suite featuring its own balcony and ensuite, a queen room and a room with two twins. Gather around the large kitchen island, relax on the leather sofa, and enjoy parking at the door, an in unit washer and dryer, and easy self check in. Perfect for friends, families and music lovers exploring Music City.
+
+The space
+Main level (upstairs)
+The heart of the home is an open living, dining and kitchen area with a bold accent wall, a large smart TV, leather sofa and two armchairs. Step through the French doors onto the balcony for views of the downtown Nashville skyline. The kitchen has a large quartz island with seating for four, stainless appliances, a dishwasher and a coffee maker. A queen bedroom with its own TV and a half bath are also on this level.
+
+Entry level
+The primary suite features a king bed, a backlit wood feature wall, TV, mini wine fridge, a bar table for two, and sliding doors to a private balcony surrounded by trees. The ensuite bath has a double vanity, glass walk in shower and walk in closet. The second bedroom has two twin beds, a TV and country music album art. A full hall bath with tub and shower, plus a stacked washer and dryer, complete this floor.
+
+Sleeping arrangements
+Primary: 1 king
+Bedroom 2: 1 queen
+Bedroom 3: 2 twins
+
+Parking
+Parking spaces directly in front of the unit.
+
+Guest access
+You'll have the entire townhome to yourselves, including both private balconies, the full kitchen, laundry and all three bedrooms. Check in is easy and contactless with a smart lock on the front door, and your personal entry code will be sent before arrival. Parking is right in front of the unit, just steps from the door.
+
+Other things to note
+This is a multi level townhome with stairs between floors, so it may not suit guests with limited mobility.
+
+For the safety of our guests, an exterior video doorbell monitors the front entrance, and exterior cameras cover outdoor areas. There are no cameras inside the home.
+
+Please be respectful of neighbors, as this is a residential community. Quiet hours are 10 PM to 8 AM, and parties or events are not permitted.
+
+Smoking is not allowed anywhere inside the home or on the balconies.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Adam
+Host User ID: 78356744
+Host Profile URL: https://www.airbnb.com/users/show/78356744
+Host Profile URL Source: public user permalink from passport userId
+Hi! Im Adam, owner of ---Acorn Property Management--- , a 5th-generation Nashville native dedicated to creating unforgettable stays. Since 2017, I’ve managed properties with a local touch, ensuring guests enjoy the best of Nashville. Whether you're here to stay or seeking a reliable co-host, Acorn provides top-notch service, quick responses, and attention to detail. Let us make your Nashville visit or hosting experience seamless and special!
+My work: Acorn Property
+Speaks English, Spanish, and Italian
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+622 reviews
+4.79 out of 5 average rating
+4 years of hosting

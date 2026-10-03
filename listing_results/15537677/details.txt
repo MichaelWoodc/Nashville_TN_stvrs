@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/15537677
+Latitude: 36.14516
+Longitude: -86.81851
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This home located in the heart of the Nashville. Whether you are ready for a night out at the Downtown Broadway Honky Tonks, exploring the Gulch, visiting the beautiful Vanderbilt/Belmont university, or the Music Row/Bridgestone Area / Country music Hall of Fame etc. Just about $10 Uber ride to most top attraction in town. 
+Utilizing three floors of luxurious and group-friendly living, you will have plenty of space to celebrate the weekend with your group or catch up on rest.
+
+The space
+This beautiful modern loft is situated in a prime location, close to Vanderbilt University and Downtown Nashville. Within walking distance, you’ll find Centennial Park and a variety of restaurants, bars, and coffee shops.
+
+The loft features a spacious kitchen and a large living room. It comfortably sleeps up to 12 people with eight beds .
+—**One king bed
+—**Five queen beds
+—**One twin bed
+—**One fold-out sofa
+
+Guest access
+You’ll have access to the entire home. Before your stay, we’ll send you the access code along with the entry instructions. The host is always available to answer any questions or inquiries you may have. Thanks!
+
+Other things to note
+There’s a large dumpster located a few steps behind the alley entrance, behind the building.
+
+Registration Details
+2016062889
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: May & Eric
+Host User ID: 43286203
+Host Profile URL: https://www.airbnb.com/users/show/43286203
+Host Profile URL Source: public user permalink from passport userId
+We are a married couple living in Nashville, and have a passions in real estate and vacation rental. We love music, travel, and food.
+My work: Restaurant Owner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1025 reviews
+4.95 out of 5 average rating
+10 years of hosting

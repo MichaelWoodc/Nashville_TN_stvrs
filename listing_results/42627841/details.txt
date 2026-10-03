@@ -1,0 +1,44 @@
+URL: https://www.airbnb.com/rooms/42627841
+Latitude: 36.15152
+Longitude: -86.79161
+rental_type: Entire loft
+property_type: LOFT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 0
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Beautiful corner unit suite in the heart of Historic Music Row! Spacious open floor plan with two King size beds. Spa style bath with rain shower and jacuzzi. Walkable to Nightlife, Restaurants, Bars and local coffee shops. Excellent 4th floor views of Music Row, Vanderbilt and Belmont. Close to Downtown. Free parking.
+
+The space
+Our corner unit has a southern chic design, with elevated views of Nashville’s legendary Music Row. Featuring 2 king-size beds, plenty of sunlight if desired, dimmable lighting, and full-size mirrors for getting ready. Our loft has a spa style bath suite with jacuzzi and rain shower, perfect for unwinding.
+
+Our space includes a full kitchen, as well as a full washer/dryer. We also have a small desk with light and office chair. Relaxing living room area with leather couch. Guitar Swimming Pool open seasonally.
+
+Guest access
+You will have sole access to our entire spacious loft.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hunter
+Host User ID: 339591491
+Host Profile URL: https://www.airbnb.com/users/show/339591491
+Host Profile URL Source: public user permalink from passport userId
+Hi, Welcome to Nashville's Historic Music Row!
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+92 reviews
+4.98 out of 5 average rating
+7 years of hosting

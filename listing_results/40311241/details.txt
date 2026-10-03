@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/40311241
+Latitude: 36.15197
+Longitude: -86.82614
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 6
+beds: 15
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+SLEEPS 20 !!
+The listed price includes two townhouses that are adjacent to each other. 
+
+These are two highly sought-after, and luxurious townhomes!  two units featuring six bedrooms, six full bathrooms, fully equipped kitchens, and two spacious rooftops with breathtaking skylight views. 
+We are confident that your group will find your Nashville vacation to be an exceptional and luxurious experience, making it a memorable addition to your trip.
+
+The space
+This townhome is just a few blocks away from the stunning Centennial Park and the iconic Parthenon. You’ll find a variety of new restaurants within walking distance, including Farm Burger, Calypso, Chaatable, Double Dogs, Sump Coffee, and Pastaria, among others.
+
+Guest access
+You’ll have access to the entire home. Before your stay, we’ll send you the access code along with the entry instructions. The host is always available to answer any questions or inquiries you may have. Thanks!
+
+Other things to note
+There’s a large dumpster located a few steps behind the alley entrance, behind the building.
+
+Registration Details
+2019070783 / 2019051443
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: May & Eric
+Host User ID: 43286203
+Host Profile URL: https://www.airbnb.com/users/show/43286203
+Host Profile URL Source: public user permalink from passport userId
+We are a married couple living in Nashville, and have a passions in real estate and vacation rental. We love music, travel, and food.
+My work: Restaurant Owner
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1026 reviews
+4.95 out of 5 average rating
+10 years of hosting

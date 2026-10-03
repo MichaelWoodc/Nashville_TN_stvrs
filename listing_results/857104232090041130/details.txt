@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/857104232090041130
+Latitude: 36.12598
+Longitude: -86.72521
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This unique place has a style all its own. A luxury executive space 5 minutes to Broadway and 5 minutes to the Nashville Airport. Equipped with everything you need to use this space working from the road or experiencing Nashville. It is a modern perfect getaway. Some unique amenities include luxury linens, a dedicated office workstation, whole condo audio with Apple Music and Sonos, surround sound Roku TV, filtered water, heated towel rack, coffee bar, and a washer/dryer.
+
+The space
+From luxury linens to a heated towel rack, this space is equipped with everything you need to enjoy your stay in Nashville. We start with a free coffe bar.  We include unique and different flavored coffees and the latest Keurig Coffee Maker.  For those wanting to bring their own coffee, we also provide a pour over.  Organic sugar, stevia, and creamer is included.  Next a connected  whole home audio system with Sonos and Apple Music awaits you.  A smart TV with integrated Roku and surround sound bar allows you to enjoy free movies and TV.   The amenities continue… Forget purchasing bottled water, the unit comes equipped with an ultra high purity dedicated water faucet and filter.  An ice maker keeps your drinks cool and all of the dishware is from Crate and Barrel.  
+
+Free high speed wireless internet is included for all of your devices. For those remote workers, a separate dedicated desk workstation is setup and ready equipped with separate 32” monitor (HDMI and USB-C), AC Power, USB, USB-C, and adjustable light.  
+
+An iron and ironing board are also available for your use.  You also have access to the latest AI smart washer and dryer.  Method laundry soap is provided.  
+
+This luxury executive condominium is best suited for those single travelers, a couple or even a small family of three.  There is one queen sized bed and one additional individual can sleep on the plush leather sofa.
+
+Guest access
+Guests can access the entire condominium.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Darian Ilia
+Host User ID: 453672260
+Host Profile URL: https://www.airbnb.com/users/show/453672260
+Host Profile URL Source: public user permalink from passport userId
+I am an Airbnb Superhost that loves to travel with my family.
+Born in the 70s
+My work: Airbnb  Superhost
+Response rate: 100%
+Responds within an hour
+4 years hosting
+251 reviews
+4.88 out of 5 average rating
+4 years of hosting

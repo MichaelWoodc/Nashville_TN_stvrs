@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/889325707654402864
+Latitude: 36.18583
+Longitude: -86.81009
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+THIS IS A PRIVATE RENTAL, OWNER WONT BE THERE! THIS IS NOT JUST A ROOM! Cashville Charm! Modern southern 4 bedroom home with music city just 2.5 mile away. Close to all major attractions. Our home is perfect for larger groups or families.
+Spacious bonus room with a ping pong table, large TV and a plush sectional. Plenty of space for dining and entertaining. Front porch with southern rocking chairs and fire pits. 
+
+Details below.
+
+The space
+The four bedrooms and 2.5 baths with comfortable beds, luxurious linens, and plenty of closet space. 
+
+The Space
+Bedrooms:  
+(Bed 1) 2 Queens with En Suite bath 
+(Bed 2) King Suite 
+(Bed 3) 3 Twins  
+(Bed 4) King
+
+Bathrooms: 
+1 - Full Primary Bath with  Double Sink, Tub and Shower
+2 - Full Bath with Tub and Shower
+3- Half Bath
+1- Extra twin  mattress
+
+Other things to note
+Nashville Metro Permit #2023040892
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Dina
+Host User ID: 55284852
+Host Profile URL: https://www.airbnb.com/users/show/55284852
+Host Profile URL Source: public user permalink from passport userId
+Lives in Los Angeles, California
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+103 reviews
+4.98 out of 5 average rating
+3 years of hosting

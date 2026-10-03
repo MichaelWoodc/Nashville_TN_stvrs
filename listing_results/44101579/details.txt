@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/44101579
+Latitude: 36.15355
+Longitude: -86.86093
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 5
+occupancy: 8
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Piomingo is located in the heart of Music City - 4.5 miles from Broadway - an eclectic, mid-century modern home in the historic, trendy neighborhood in West Nashville. We've included a vanity in each bedroom, all queen beds and one king, a restored blue tooth speaker bar, a piano, games, smart tv's in every room, and two brand new walk in showers.
+
+The space
+Driveway leads to the back of the house for a spacious parking area and backyard. Keypad entrances from front and back of house. Outdoor lounge area and a beautiful screened in patio in the back. Also screened in front porch. Washer and dryer in house. Mounted smart TV’s in 3 bedrooms and living room area. Bluetooth speaker in restored bar and in outside stereo in screened in patio. Two walk-in showers and 2.5 bathrooms. Vanity in every bedroom. Piano, bar, and games in front living room. The vibe of Piomingo is like no other!
+
+Other things to note
+Important to note: 
+- parties and events are not allowed. 
+- minimum age of primary renter is 25
+- NO smoking of ANY kind in the house, (Designated area in back) NO underage drinking, and NO use of illegal drug.  Pets allowed with fee. Has to be hypoallergenic pet please .
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Rose
+Host User ID: 58267356
+Host Profile URL: https://www.airbnb.com/users/show/58267356
+Host Profile URL Source: public user permalink from passport userId
+My work: PIOMINOGO OWNER/HOST
+Speaks English
+6 years hosting

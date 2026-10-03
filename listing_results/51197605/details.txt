@@ -1,0 +1,83 @@
+URL: https://www.airbnb.com/rooms/51197605
+Latitude: 36.19576
+Longitude: -86.7799
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 9
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+LUXURY | MODERN | SINGLE FAMILY HOME | BEST DOWNTOWN SKYLINE VIEWS | HUGE DECK & ENTERTAINING AREA | SMART TV
+
+Welcome to our beautiful vacation house near downtown Nashville! This is a great place for family and friends. It is conveniently located just 5 – 10 minutes Uber drive away from all the popular spots on Broadway, Downtown, the Five Points.
+
+The space
+•	Easy self-check-in with keyless entry
+•	6 parking space
+•	3 bedrooms (with 7 beds and 2 sleeper sofa)
+•	3 full bathrooms
+•	3200 ft2 (297 m2)
+•	Huge deck with best skyline view in Nashville
+•	2 Smart TV with free Sling, Netflix, YouTube
+•	High-speed internet throughout the house and a mesh WIFI system.
+•	Central heat & AC
+•	Onsite washer + dryer
+•	Fully equipped + stocked kitchen w/ Keurig
+•	Extremely safe neighborhood
+
+1st Floor: 1 Bonus Room
+2nd Floor: 1 Bedroom (2 queens), Living Room (1 smart TV, 1 sleeper sofa), 1 Full Bathroom, Kitchen, Deck, Laundry Room
+3rd Floor: 1 Bedroom (1 king, 1 sleeper sofa, 1 smart TV), 1 Bedroom (1 queen, 1 full-size), 2 Full Bathroom, 1 Office Space
+
+Guest Access
+
+ENTIRE SPACE:
+Entire space is included in this rental. Please, make yourself at home.
+
+KEYLESS ENTRY:
+Prior to your arrival, you will receive a unique keypad code that will serve as your keyless entry to the home during your stay.
+
+GUIDE BOOK:
+A book with recommendations for local restaurants, coffee shops, local attractions and other places to visit is provided in the home.
+
+Other Things to Note
+
+PLEASE TREAT THE SPACE WITH RESPECT! If any problems arise, we will do our best to take action ASAP.
+
+PLEASE BE A GREAT NEIGHBOR! Please be respectful to our neighbors and keep interior and exterior noise to a respectable level at all times. Any noise complaints from neighbors may result in withholding of your deposit.
+
+Guest access
+ENTIRE SPACE:
+Entire space is included in this rental. Please, make yourself at home.
+
+KEYLESS ENTRY:
+Prior to your arrival, you will receive a unique keypad code that will serve as your keyless entry to the home during your stay.
+
+Other things to note
+PLEASE TREAT THE SPACE WITH RESPECT! If any problems arise, we will do our best to take action ASAP.
+
+PLEASE BE A GREAT NEIGHBOR! Please be respectful to our neighbors and keep interior and exterior noise to a respectable level at all times. Any noise complaints from neighbors may result in withholding of your deposit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jackie
+Host User ID: 243358470
+Host Profile URL: https://www.airbnb.com/users/show/243358470
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+325 reviews
+4.76 out of 5 average rating
+7 years of hosting

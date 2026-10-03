@@ -1,0 +1,59 @@
+URL: https://www.airbnb.com/rooms/24574665
+Latitude: 36.15563
+Longitude: -86.88437
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind in a private king size room in this bright, modern home just 15 minutes from downtown Nashville. This peaceful retreat is full of natural light, lush plants, and high vaulted ceilings. Enjoy super-fast Wi-Fi, hassle-free self check-in, and best of all—no chores at checkout. No stripping beds or taking out trash. You're also just a short walk from a riverside bar and a unique tiki cruise that takes you straight to downtown and back. It’s the perfect home base for your Nashville getaway!
+
+The space
+Spacious private suite, king size bed & private in-suite bathroom with a double vanity and large walk-in shower.
+
+Take a stroll to the Blue Moon Tavern at the harbour for a drink on the Cumberland River. Or take a trip downtown via the river on a tiki tour!  or take a quick drive to The Nations, an up and coming area filled with restaurants and shopping. 
+
+Distance from BNA airport 18 minutes with usual traffic.
+
+Guest access
+You will be provided with the code to enter the home, and provided a key to your room.  WiFi access is provided. 
+
+The kitchen, living room, washer/dryer, and porch are shared spaces available for your use.
+
+During your stay
+My priority is for you to feel comfortable. I understand the importance of privacy. And I want make sure not to impose on your space but I am also available if you need any assistance or recommendations. Never hesitate to ask!
+
+Other things to note
+The bedroom is on the second floor of a two-story home.
+My roommate, Sarah, plays in the Nashville symphony, so you may get to hear her practice violin during the day.
+I own two small shih tzus, they are very friendly and chill.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Meredith
+Host User ID: 31175732
+Host Profile URL: https://www.airbnb.com/users/show/31175732
+Host Profile URL Source: public user permalink from passport userId
+I am originally from Texas but have lived in Nashville for 10 years now. I am a visual artist and lover of plants. I like to spend my time hiking, climbing, and being around friends. I love hosting others and making recommendations for all my favorite spots.
+Born in the 90s
+My work: Self employed
+I spend too much time: Rock climbing
+What makes my home unique: I have large relaxing wind chimes
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+126 reviews
+4.92 out of 5 average rating
+8 years of hosting

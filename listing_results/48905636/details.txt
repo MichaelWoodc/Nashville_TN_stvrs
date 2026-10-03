@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/48905636
+Latitude: 36.19479
+Longitude: -86.77683
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+MINUTES TO DOWNTOWN WITH MILLION DOLLAR VIEWS!
+5 minutes to Nissan Stadium, Top Golf, and popular Germantown. 9 Minutes to Broadway.
+
+The space
+Newly furnished, 3 bedroom 2.5 bath townhome with luxury finishes. 
+
+You will love the top floor with full skyline views of the city, balcony, and large windows providing great natural lighting. The modern, open living space is great for large groups and features brand new furnishings including large sectional couch, custom built barstool seating, large flat screen smart tv, and additional custom decor.
+
+The main bedroom features a king bed, custom lighting accent wall, smart TV, and en suite bathroom with walk in shower, dual vanity, walk in closet, and luxury tile finishes.
+
+The second bedroom features two queen beds and adjacent full bath with luxury tile finishes.
+
+The third bedroom on the top floor has an additional balcony, en suite half bath, 2 full beds and 2 twin beds.
+
+Kitchen includes stainless steel appliances, filtered water, complete dinnerware and utensils set, standard cooking items, as well as coffee bar.
+
+Towels, linens, iron & board, hair dryer, washer and dryer (including detergent and dryer sheets), Wi-Fi, and many more amenities are all provided.
+
+Parking: The property includes a garage with space for one car  as well as free off-street community parking.
+
+No parties, pets, or events allowed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jacob
+Host User ID: 252067593
+Host Profile URL: https://www.airbnb.com/users/show/252067593
+Host Profile URL Source: public user permalink from passport userId
+Lives in Clarksville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+143 reviews
+4.9 out of 5 average rating
+5 years of hosting

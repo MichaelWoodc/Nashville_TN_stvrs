@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/1771246692786970879
+Latitude: 36.40876
+Longitude: -86.70242
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 8
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to The Darby House, a peaceful 12-acre retreat just 30 minutes from Nashville! Perfect for families & groups, this spacious 4BR/3BA getaway sleeps 12 with a king suite, 2 queen rooms, 4 twin beds, & a sleeper sofa. Challenge the crew in the game room with air hockey, arcade games & more, then unwind on the deck, fire up the grill & soak in the peaceful country views. Fast Wi-Fi + a fully equipped kitchen make it easy to settle in and stay awhile!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Winston
+Host User ID: 591018259
+Host Profile URL: https://www.airbnb.com/users/show/591018259
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Winston! I have been renting properties for several years and truly enjoy creating comfortable, welcoming spaces where guests can feel at home. I am hardworking, passionate about real estate, and committed to providing every guest with a great experience.
+
+My co-host, Daylin Templet, helps manage several of the properties. Together, we are here to answer questions, assist throughout your stay, and make sure everything goes as smoothly as possible. We look forward to hosting you!
+My work: Stapro Investments
+I spend too much time: Working
+Response rate: 100%
+Responds within an hour
+2 years hosting
+2 reviews
+5.0 out of 5 average rating
+2 years of hosting

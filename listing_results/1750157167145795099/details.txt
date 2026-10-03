@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1750157167145795099
+Latitude: 36.23907
+Longitude: -86.87034
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 4
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Come experience Nashville from the comfort of your own private cottage!
+
+Located just about 15 minutes from Downtown Nashville, this charming four-bedroom retreat is the perfect home base for individuals, families, friends, and groups visiting Music City.
+
+Four bedrooms with ensuite bathrooms. A full kitchen. Dining, common space, and washer and dryer.
+
+Enjoy the excitement of Nashville by day and return to a peaceful, comfortable cottage by night.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Orville
+Host User ID: 317877115
+Host Profile URL: https://www.airbnb.com/users/show/317877115
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+1 month hosting
+3 reviews
+4.67 out of 5 average rating
+1 month of hosting

@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/1748101442027849845
+Latitude: 36.03369
+Longitude: -86.76827
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax with the whole family at this beautiful and quiet place only about 12-15 minutes from music row and downtown. Relax on almost a few acres with a big flowing creek. 3 bedrooms and 2 bathrooms. About 2600 square feet.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Blake
+Host User ID: 127280204
+Host Profile URL: https://www.airbnb.com/users/show/127280204
+Host Profile URL Source: public user permalink from passport userId
+Lives in United States
+Response rate: 100%
+Responds within a day
+1 month hosting
+2 reviews
+5.0 out of 5 average rating
+1 month of hosting

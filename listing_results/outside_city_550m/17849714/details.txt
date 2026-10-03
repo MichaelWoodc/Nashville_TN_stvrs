@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/17849714
+Latitude: 36.27487
+Longitude: -86.63007
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Remodeled Lakehouse 35 minutes from downtown Nashville. Open kitchen/living/dining room with great view.  2 islands & a popular boat cove a few hundred yards away. Free public boat ramp and beach very close.
+
+Guest access
+Entire house and dock.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stuart
+Host User ID: 108712037
+Host Profile URL: https://www.airbnb.com/users/show/108712037
+Host Profile URL Source: public user permalink from passport userId
+Hi there! My name is Stuart, and I enjoy hosting on Airbnb. I'll do my best to make sure your stay is comfortable and help you enjoy this quiet neighborhood lake property. Feel free to reach out to me if you have any questions regarding my listing.
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within a few hours
+Superhost
+10 years hosting
+290 reviews
+4.88 out of 5 average rating
+10 years of hosting

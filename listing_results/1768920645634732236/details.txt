@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/1768920645634732236
+Latitude: 36.1542
+Longitude: -86.7757
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Designer 1BR in Sentral SoBro | Rooftop pool, walk to Broadway, sleeps 4
+10 min walk to Broadway, Country Music Hall of Fame, Bridgestone Arena, and The Gulch
+
+Queen bed | 2 Full Size Beds + massage chair | 2 Smart TVs | Skyline views | Private balcony
+
+AMENITIES
+✓ Pool + sun deck ✓ Sky lounge ✓ Coworking ✓ Coffee bar ✓ Pet spa ✓ Garage parking ✓ Cycle studio ✓ Gym ✓ Japanese restaurant + boozy ice cream shop on-site
+
+Permit #T2022056627
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erika
+Host User ID: 428225873
+Host Profile URL: https://www.airbnb.com/users/show/428225873
+Host Profile URL Source: public user permalink from passport userId
+Lives in Stockbridge, Georgia
+Response rate: 95%
+Responds within an hour
+New Host
+3 reviews
+5.0 out of 5 average rating

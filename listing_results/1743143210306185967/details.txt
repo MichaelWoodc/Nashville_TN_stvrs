@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1743143210306185967
+Latitude: 36.1463
+Longitude: -86.7911
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Revival on Villa : a designer retreat in Nashville's Edgehill neighborhood, steps from Music Row and Edgehill Village dining. This beautifully curated, multi-level home features a peacock-mural primary suite with king bed, a tropical powder room, cozy fireplace living room, and a private deck. Two bedrooms, 2.5 baths, free alley parking, and a central location between Vanderbilt, the Gulch, and Broadway. Your Nashville basecamp starts here.
+
+The space
+✨ The Design & Layout
+This property spans three levels, offering a unique sense of privacy and separation.
+
+• Ground Floor: Enter through the warm, inviting living room featuring a fireplace, a dedicated workspace with a striking green granite desk, and access to the backyard. The open-concept layout flows seamlessly into a fully equipped kitchen and dining area. Don't miss the designer powder room tucked behind the stairs, featuring incredible tropical animal wallpaper and a custom green vanity.
+
+• Second Level: Ascend the stairs to find a charming guest bedroom with a queen bed, adorned with green patterned wallpaper and a sliding wood door for privacy. This level also features a full bathroom with an eye-catching orange accent wall and a modern shower.
+
+• Primary Suite (Top Level): The crowning jewel of the home. This expansive upper retreat features a stunning peacock mural, a plush queen bed, and a comfortable pullout couch ("Benny") for flexible sleeping arrangements. You'll also find a mini-fridge, a second workspace, and a private deck overlooking the backyard. The suite is completed by a spacious, bright master bathroom with a double vanity and a unique octagonal window.
+
+Guest access
+Important Layout Notes:
+
+• Two Units on Property: Please note there are two separate units on this property. While your indoor space is completely private, the backyard area is shared.
+
+• Stairs Required: This home spans three levels. Both bedrooms are located upstairs (second and third floors) and are only accessible by stairs. There is no elevator. Guests must be comfortable climbing stairs.
+
+• Parking: You will have one dedicated parking spot located conveniently in the rear alley.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Akarsh
+Host User ID: 29481833
+Host Profile URL: https://www.airbnb.com/users/show/29481833
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+1 month hosting
+9 reviews
+5.0 out of 5 average rating
+1 month of hosting

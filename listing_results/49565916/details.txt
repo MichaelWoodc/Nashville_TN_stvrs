@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/49565916
+Latitude: 36.18234
+Longitude: -86.67847
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious midcentury ranch style home w/ original 1960 details nestled in beautiful, quiet, accessible Donelson neighborhood. 3 bedrooms, sleeps 6, patio with fire pit, gas grill, covered parking. 15 min drive to Downtown Nashville, 10 min to airport, 5 min to Grand Ole Opry. Grocery, convenience, and popular restaurants (Tennfold, Urban Nectar) less than a mile away. Short walk to Two Rivers Park and golf course, and greenway access taking you to East Nashville and downtown.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jamie
+Host User ID: 27615737
+Host Profile URL: https://www.airbnb.com/users/show/27615737
+Host Profile URL Source: public user permalink from passport userId
+Favorite travel destinations include New York, Istanbul, and India, and I travel occasionally for work and for fun. I am a light packer and enjoy good food and getting a sense of the world through experience.
+Born in the 80s
+My work: Corporate Communications
+Response rate: 100%
+Responds within a few hours
+5 years hosting
+11 reviews
+5.0 out of 5 average rating
+5 years of hosting

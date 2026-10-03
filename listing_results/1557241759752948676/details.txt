@@ -1,0 +1,107 @@
+URL: https://www.airbnb.com/rooms/1557241759752948676
+Latitude: 36.1545
+Longitude: -86.7637
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Escape to Muse-ic City Luxury, a stylish 1-bedroom apartment in the heart of Nashville's vibrant SoBro district! Just a short walk to the Broadway strip, this chic retreat offers stunning city views and comfortably sleeps your group.  Enjoy a fully equipped kitchen, modern design, and access to a rooftop deck with skyline views.  Perfect for experiencing the heart of Music City.
+
+The space
+Step into a modern, professionally designed apartment where city views and comfort await. The open living area is the perfect place to unwind after a day of exploring, featuring a queen-sized sleeper sofa for extra guests. The apartment is designed to comfortably accommodate your group with a private bedroom, a sleeper sofa, and a clever twin bunk bed nook for additional sleeping space.
+Key Features:
+• Fully equipped kitchen ready for your culinary creations.
+• Smart TVs for your entertainment.
+• High-speed Wi-Fi to keep you connected.
+
+Guest access
+Your unique access code provides entry to the building and your private apartment. As our guest, you'll have full access to the entire apartment and the building's fantastic shared amenities.
+Shared Amenities Include:
+• Rooftop Deck & Lounge: Located on the 5th floor, this space offers ample indoor/outdoor seating, a wet bar, and breathtaking views of the downtown Nashville skyline.
+• Fitness Center: A shared gym for your use.
+• Laundry Room: Convenient access to the building's laundry facilities.
+• Main Lobby: An inviting space with seating and a TV.
+• Parking: Paid parking is available in the building's garage.
+
+Other things to note
+Please review these important details for your stay:
+
+• Age Restriction: In Nashville, the principal renter (primary occupant) of a short-term rental property (STRP) must be at least 21 years old. 
+
+• Pets: This building is NOT pet friendly.  
+
+To help ensure a smooth, secure, and enjoyable stay for all guests, please review the following important information before booking: 
+ 
+Check-In & Identity Verification Policy 
+ 
+All reservations require the primary guest (the booker) to complete a secure online check-in process prior to arrival. This includes: 
+ 
+-Uploading a valid, unexpired government-issued photo ID 
+-Uploading a selfie to confirm identity 
+-Reviewing and signing our rental agreement 
+ 
+This process is similar to hotel check-in and is required because we do not typically have staff on site. Check-in instructions will only be provided once this process is complete. 
+ 
+If you would like to review the rental agreement before booking, please feel free to contact us. 
+ 
+In some cases, we may also request a security deposit and/or apply a damage waiver fee in accordance with booking channel policies. 
+ 
+ * It typically takes ~1 hour to screen a guest after they book this property and could take several hours if we are busy before we are able to provide them with check-in information.
+ 
+If you make a last minute reservation, we ask you to please be patient and please do not expect to gain access to the property immediately.
+ 
+Guest Count & Occupancy Policy 
+ 
+Each listing includes a maximum number of guests based on unit type and local regulations. Additional guests are welcome for an added nightly fee: 
+
+• We charge an additional $25/night at and above the 3rd guest. Please ensure your guest count is entered accurately at booking. We will confirm the number of guests after reservation. If the guest count changes, pricing may be adjusted accordingly. For safety and compliance purposes, exterior security cameras are used to verify occupancy. Unreported additional guests may result in additional charges. 
+
+• Local Reservations: Reservations under 7 nights from guests residing in the local area may be subject to cancellation at our discretion.
+
+• Early Check-In & Late Check-Out: 
+These services are not guaranteed and must be approved in advance. 
+Fees apply ($50 to $200+) depending on the time. Please inquire for availability.
+
+• Special Requests: Please submit requests for items like pack-n-plays or high chairs at least 7 days before check-in to ensure availability.
+
+Smoking Policy 
+ 
+Smoking is not permitted anywhere on the property, including indoor and outdoor areas. If evidence of smoking is found, an additional cleaning fee of $500 will be applied in accordance with the booking channel's cleaning and damage policies. 
+ 
+We understand that this is a detailed list, and we truly appreciate you taking the time to review it. These guidelines help us maintain a safe, well-cared-for property and ensure a great experience for every guest. Our goal is always for you to feel comfortable, welcome, and well taken care of during your stay.
+
+• Security: For safety and compliance, exterior security cameras are used to verify occupancy.
+
+• Permit: #2022007554
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Eric
+Host User ID: 7160641
+Host Profile URL: https://www.airbnb.com/users/show/7160641
+Host Profile URL Source: public user permalink from passport userId
+I'm Eric! The founder and CEO of Silver Street Management - a short term rental focused property management company. 
+
+My team of property managers and I are passionate about our guests and ensuring they have a fantastic stay with us, whether it's for a night or a year! 
+
+In my personal time I enjoy real estate investing, dogs (especially rescues!), flying helicopters, running fairly long distances, developing boutique "apart-hotels" (like the Raven - Jax) and meeting interesting new people.
+Where I went to school: US Naval Academy + University of Chicago
+My work: Silver St Management
+Response rate: 100%
+Responds within an hour
+Superhost
+11 years hosting
+9814 reviews
+4.75 out of 5 average rating
+11 years of hosting

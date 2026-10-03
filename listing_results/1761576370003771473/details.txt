@@ -1,0 +1,54 @@
+URL: https://www.airbnb.com/rooms/1761576370003771473
+Latitude: 36.05461
+Longitude: -86.58496
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Lakeside Abode, a comfortable owner-occupied retreat in Antioch. The home features two private bedrooms—The Amp and The Rabbit Hole—with a shared bathroom, kitchen, living room and laundry room. Enjoy Wi-Fi, self-check-in and on-property parking. Reserve one room or both for extra space. Conveniently located near Nashville dining, shopping and entertainment. Approved pets are welcome with a fee.
+
+The space
+The Lakeside Abode
+Welcome to The Lakeside Abode—a comfortable, owner-occupied short-term rental offering two private bedrooms: The Amp and The Rabbit Hole. Guests share a full bathroom, fully equipped kitchen, living room, and laundry room.
+Conveniently located in Antioch, the home offers on-property parking, easy self-check-in, Wi-Fi, and a relaxed atmosphere. Guests may reserve either room individually or book both rooms together for additional privacy and space. Smoking is permitted only on the back porch or designated patio, and approved pets are welcome with a fee.
+Perfect for a quick Nashville-area getaway, business trip, weekend stay, or comfortable place to recharge.
+
+Guest access
+Guests have private access to their reserved bedroom(s) and shared access to the bathroom, kitchen, living room and laundry room. On-property parking is available for up to two vehicles. One private room near the kitchen is not included and is strictly off-limits.
+
+During your stay
+Please Contact Timme if you have any concerns.
+
+Other things to note
+This is an owner-occupied property with shared common areas. One private room is not included and is strictly off-limits. Smoking is permitted only on the back porch or patio. Pets require approval and a $50 nonrefundable fee. Parking is limited to two vehicles, and all guests must be listed on the reservation.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Timme
+Host User ID: 671597024
+Host Profile URL: https://www.airbnb.com/users/show/671597024
+Host Profile URL Source: public user permalink from passport userId
+It’s Timme live life to the fullest
+Born in the 70s
+My work: Pro Recording Artist
+Speaks English
+Lives in Nashville, Tennessee
+What's for breakfast: Beef Bacon
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+138 reviews
+4.78 out of 5 average rating
+2 years of hosting

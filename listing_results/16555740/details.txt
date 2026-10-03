@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/16555740
+Latitude: 36.21614
+Longitude: -86.73291
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy, renovated home with two plush, new beds. Two min from Ellington Pkwy for quick access to East Nashville 5-Points, Downtown, or Opryland area. Private parking and full amenities. Awesome long-term rental. Great quiet neighborhood, all needs within 1 mile. Quick and easy access to downtown, and always an Uber within minutes.  Can perfectly host two couples, a small group, or a family.
+Uber to downtown Broadway area is 10 minutes. 7 minutes to Opry Area.
+
+The space
+The house is a cozy cottage in a quiet neighborhood with a front yard, small front porch, and designated parking off the driveway.  The property is a duplex, but there is no shared access (or parking) of any kind, though one building, the units are completely separated.  Unless my amazing tenant is pulling in and out of the driveway or putting out the trash bins, you likely won't even know they're there.
+
+Other things to note
+Permit # 2017075293
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jordan
+Host User ID: 28025309
+Host Profile URL: https://www.airbnb.com/users/show/28025309
+Host Profile URL Source: public user permalink from passport userId
+I'm an educator in Wilson County Schools and a Nashville native.
+Born in the 80s
+My work: Education
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+1036 reviews
+4.85 out of 5 average rating
+10 years of hosting

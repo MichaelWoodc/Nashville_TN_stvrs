@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/630208354099511544
+Latitude: 36.08952
+Longitude: -86.71692
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! Enjoy easy access to everything from this centrally located, newly renovated private space. 8 minutes from the airport, 13 minutes from Broadway, 20 minutes from Franklin, and surrounded by great food. You'll get the entire walk out basement that includes two bedrooms, a large living room with a smart TV, kitchenette, and a full (brand new) bathroom with your own separate entrance leading into the driveway. This is a non-smoking property.
+
+The space
+▷ Bedroom 1: Queen Bed 
+▷ Bedroom 2: Double Bed
+▷ Living Room: Large Couch (can sleep 1), Self Inflating Twin Air Mattress + Smart TV 
+▷ Bathroom: Complete with a large tiled shower & a washer/dryer
+
+Amenities You’ll Love:
+▷ Centrally located in Nashville. 
+▷ SUPER FAST WiFi connection (350/Mbps) and plenty of work space 
+▷ Private entrance with self check in & keypad smart locks 
+▷ Plenty of parking (street parking available on the residential street)
+▷ Keurig & a coffee pot for your morning coffee 
+▷ White noise machines and blackout curtains in both rooms
+▷ TV with a 4K Roku Streaming Stick that allows you to Airplay/Screencast Netflix, Amazon Prime, Disney Plus, & more from your smart phone or computer
+▷ Unlimited hot water (tankless water heater)
+▷ JUST renovated in 2023. Brand new shower, toilet, vanity top, sink, windows, freshly painted walls, etc.
+
+Guest access
+You'll have private access to the basement with your own private entrance.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael
+Host User ID: 12897179
+Host Profile URL: https://www.airbnb.com/users/show/12897179
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+179 reviews
+4.97 out of 5 average rating
+4 years of hosting

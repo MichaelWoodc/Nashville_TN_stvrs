@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1571239087136499940
+Latitude: 36.17456514607613
+Longitude: -86.81569679583971
+rental_type: Camper van/Motorhome
+property_type: RV
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This memorable place is anything but ordinary. Come visit NashVegas & stay in true Music City style - on a tour bus! You’ll be 10 minutes from downtown & 20 minutes from Grande Old Opry, BNA, Franklin & more!
+
+Free street parking & private entrance into fenced backyard. Enjoy coffee on your deck, relax by the fire pit, or take a walk in the park next door.
+
+Pet friendly space w/ shared backyard. Includes queen size bed, pull out queen sofa, fold out twin bed, full kitchen & bathroom w/ shower.
+
+The space
+You will have full access to the backyard, fire pit, BBQ grill, outdoor dining and seating area. The tour bus has a gated private deck with seating and shade. There is an entrance to a public city park two houses to the left with 1/2 mile flat paved walking path, swings, slides, jungle gym, and full basketball court!
+
+My partner and I live in the main house with our two dogs, Bonnie and Clyde, and our cat Dallas. Bonnie, Clyde, and Dallas are extremely friendly and love all people and animals. This is a pet friendly place and all animals are welcome. But please keep in mind the backyard and outdoor dining areas are shared. If our pets do not get along, please keep your pets on the Tour Bus deck, inside, and/or leased in the yard. We also have recommendations for daycare and boarding if needed. We ask that all gates and doors are shut and locked securely at all times. Our pets are not allowed outside the privacy fence and we want to keep all guests, pets, and property safe.
+
+We would like to love to host you during your time in Nashville Tennessee! See you soon!
+
+Guest access
+Free street parking and guests have access to back gate entrance into backyard. The tour bus has a private deck with seating and shade. Entire tour bus is for guests. The backyard space is shared. Guests have access to fire pit, outdoor dining and seating, and BBQ grill. 
+
+The public entrance to the park is located two houses to the left and includes 1/2 mile flat walking path, picnic shelter with tables, swings, slides, jungle gym, and a full basketball court.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chrysta
+Host User ID: 550151183
+Host Profile URL: https://www.airbnb.com/users/show/550151183
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Human Resources
+Response rate: 100%
+Responds within a day
+3 years hosting
+16 reviews
+4.81 out of 5 average rating
+3 years of hosting

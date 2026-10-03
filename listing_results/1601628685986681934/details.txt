@@ -1,0 +1,43 @@
+URL: https://www.airbnb.com/rooms/1601628685986681934
+Latitude: 36.26664395246504
+Longitude: -86.6975063911359
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 7
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your perfect Nashville home base! This modern, spacious 3-bedroom 3 and half bathroom townhome is thoughtfully designed for families, groups, and friends looking for comfort, convenience, and easy access to the city’s top attractions.
+Whether you’re here for concerts, events, or a weekend getaway, you’ll love being just minutes from Opryland and downtown Nashville, while enjoying a quiet, residential setting to relax and recharge.
+
+Guest access
+Guests can access all rooms and bathrooms. 
+Car garage is reserved for owner only. Guests are not allowed to use garage.
+
+Other things to note
+This listing has quiet hours starting at 9pm and no parties, smoking, beer pong, or other destructive activities allowed (any evidence of such activities will result in a fine). This is a pet-friendly listing with a dog park and pet stations throughout the neighborhood. Guests must pay a $100 pet fee per stay if their pet(s) accompanies them during their booking (3 pet maximum). Please make sure to leash your dog(s) when taking them outside or you may face a fine typical with HOA fine. NO PARTIES AND NO GLITTER.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mason
+Host User ID: 383391170
+Host Profile URL: https://www.airbnb.com/users/show/383391170
+Host Profile URL Source: public user permalink from passport userId
+Banded
+My work: Self-Employed
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+133 reviews
+4.83 out of 5 average rating
+2 years of hosting

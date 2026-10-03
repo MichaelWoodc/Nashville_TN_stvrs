@@ -1,0 +1,71 @@
+URL: https://www.airbnb.com/rooms/1605272789936048379
+Latitude: 36.17148
+Longitude: -86.79594
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 152
+privacy_radius_meters: 152
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 4
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Dolly Parton Suite, a stylish 2BR retreat just minutes from Downtown Nashville, Broadway, Nissan Stadium, Vanderbilt, Music Row, and The Gulch. With a cozy queen bedroom, charming twin bedroom, and comfortable sleeper sofa, this inviting retreat offers flexible sleeping arrangements for couples, families, friends, and business travelers. Enjoy a fully equipped kitchen, fast Wi-Fi, Smart TV, free parking, and easy self check-in for a comfortable Music City stay.
+
+The space
+Bright, comfortable, and inspired by Dolly's signature charm, this thoughtfully designed suite offers the perfect home base for exploring Music City. The primary bedroom features a plush queen bed, while the second bedroom includes two comfortable twin beds. A sleeper sofa in the living room provides additional sleeping space for larger groups.
+
+Cook meals in the fully equipped kitchen, stream your favorite shows after a day downtown, and enjoy the convenience of free parking and hassle-free self check-in. Whether you're visiting for live music, sporting events, work, or a weekend getaway, The Dolly Parton Suite offers the comfort, convenience, and Southern hospitality to make your Nashville trip memorable.
+
+Details: 
+2 Bedrooms | 1 Bath Sleeps up to 6 guests Fully furnished with cozy finishes Smart TV + Wi-Fi included 
+PET POLICY • Cats allowed • Dogs allowed
+
+The Space
+-Two stylish bedrooms with cozy beds
+-Bright living room with Smart TV
+-Full kitchen stocked for short stays
+-Fast Wi-Fi
+-Simple, secure self check-in
+-Free parking
+
+🎶 The Vibe
+-Inspired by Dolly’s warmth and charm, the space feels warm, welcoming, and comfortable.
+
+📍 Location Highlights
+- Quick access to Downtown Nashville & Broadway
+- Easy drives to Germantown, Midtown, and The Gulch.
+- Convenient for getting to music venues, dining, and downtown offices. 
+
+🔑 Guest Access & Management
+- Self check-in
+- Professionally cleaned and managed
+- Responsive support
+
+This is a great option if you want space, value, and convenience close to the heart of downtown Nashville.
+
+Come stay in a vibrant, music-inspired 2-bedroom suite celebrating one of country music’s most iconic eras!
+
+Guest access
+Guest have full access to entire unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Preetish
+Host User ID: 60428542
+Host Profile URL: https://www.airbnb.com/users/show/60428542
+Host Profile URL Source: public user permalink from passport userId
+Lives in Beaverton, Oregon
+Response rate: 100%
+Responds within an hour
+Superhost
+10 months hosting
+39 reviews
+4.64 out of 5 average rating
+10 months of hosting

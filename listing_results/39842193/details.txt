@@ -1,0 +1,37 @@
+URL: https://www.airbnb.com/rooms/39842193
+Latitude: 36.16338
+Longitude: -86.78335
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Historic space ten minute walk to Broadway. Full of old world charm and new amenities. Perfect space for families or old friends wanting a space close enough to the action, but quiet enough to relax.
+
+The space
+This 6th floor penthouse has gorgeous views of the West End. You'll love seeing the Nashville lights with friends or family.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jennie
+Host User ID: 90600007
+Host Profile URL: https://www.airbnb.com/users/show/90600007
+Host Profile URL Source: public user permalink from passport userId
+Yuppie from Nashville with a penchant for travel, live music, fancy dinners, and LSU football. I'm a life long Tennessean whose happy that you've chosen to visit the city that I've called home for the last 7 years.
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+9 years hosting
+693 reviews
+4.8 out of 5 average rating
+9 years of hosting

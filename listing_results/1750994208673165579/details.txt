@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/1750994208673165579
+Latitude: 36.1506
+Longitude: -86.7973
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in the heart of Nashville in this charming historic apartment right on Broadway. Original hardwood floors, soaring ceilings, oversized windows, and tons of natural light give the space authentic Music City character. Enjoy a spacious living room, cozy dining area, comfortable bedroom, and full bath, all just minutes from Nashville’s best restaurants, bars, live music, shopping, and nightlife. The perfect home base for exploring Nashville!
+
+The space
+The apartment is bright and airy while still feeling cozy, comfortable, and welcoming. Large windows bring in plenty of natural light, while the historic character gives the space a warm, homey feel. You’ll find a generously sized eat-in kitchen, a spacious living room with beautiful pocket doors that open into the large, comfortable bedroom, and a small but functional bathroom. It’s a charming, easygoing space that feels like your own little home in Nashville.
+
+Guest access
+You’ll have full access to the entire apartment during your stay, with the exception of a couple of locked storage closets reserved for cleaning supplies and restocking.
+
+Other things to note
+Our Broadway apartment is located in a 100+ year-old historic building, and we love the character that comes with it! While the apartment is professionally cleaned and well cared for, you may notice some quirks of an older home like uneven floors and walls, small cracks, paint chips, and other perfectly imperfect details. We think they’re part of what makes the space special, but we want our guests to know what to expect.
+And because you’re staying right on Broadway in the heart of Nashville, city noise comes with the territory! You may hear traffic, music, sirens, and the occasional enthusiastic Nashvillian, especially on weekends. 
+If you’re looking for brand-new construction and total silence, we may not be the perfect fit. But if you love historic character, an unbeatable location, and being right in the middle of Music City, we think you’ll feel right at home!
+
+Registration Details
+2022057945
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Nashville Star Rentals
+Host User ID: 1750956695044864168
+Host Profile URL: https://www.airbnb.com/users/show/1750956695044864168
+Host Profile URL Source: public user permalink from passport userId
+Hey y’all! We’re Cara & Kate! Nashville locals, longtime friends, and the duo behind Nashville Star Rentals. We love great food, live music, local art, hidden neighborhood gems, and showing off the city we call home. We created our spaces for travelers who want to experience Nashville like a local - a little stylish, a little rowdy, and never boring. Need a dinner rec, the perfect cocktail, or somewhere to hear great music? We’ve got you! Come stay, explore, and have some fun in Music City!
+Born in the 90s
+My work: NASH STAR RENTALS
+Response rate: 100%
+Responds within an hour
+1 month hosting
+6 reviews
+4.5 out of 5 average rating
+1 month of hosting

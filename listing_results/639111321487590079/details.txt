@@ -1,0 +1,48 @@
+URL: https://www.airbnb.com/rooms/639111321487590079
+Latitude: 36.20562
+Longitude: -86.73871
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 7
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This modern newly built East Nashville home (completed in 2022) is ideally located! Just an 8-minute drive takes you to the vibrant heart of Music City and the iconic Broadway strip. 8 minutes in the other direction is Opryland! Nestled in a quiet, trendy neighborhood, it’s perfect for families, business travelers, or weekend escapes.
+Permit #:20220809088
+
+The space
+This residence offers three spacious bedrooms, each with its own private full bathroom. Additionally, a small office has been thoughtfully converted into a triple bunk room accommodating up to three adults (with a weight limit of 250 pounds per bunk). An upstairs common area also includes a full-size futon for additional sleeping space. A conveniently located half bath on the main level brings the total to four bedrooms and three and a half bathrooms.
+
+The property provides on-site parking for up to five vehicles, depending on their size, ensuring ample parking space for guests.
+
+Guest access
+Keypad self entry
+
+Other things to note
+There are two large screen televisions. One is located in the main living room and the second one is upstairs in the common area/game room space.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kari
+Host User ID: 96043645
+Host Profile URL: https://www.airbnb.com/users/show/96043645
+Host Profile URL Source: public user permalink from passport userId
+I am the mom of six amazing adults! I love to travel and am an avid hiker, biker and anything outdoorsy!
+Where I went to school: The school of life
+My work: Manage Airbnbs
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+292 reviews
+4.98 out of 5 average rating
+4 years of hosting

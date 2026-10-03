@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/4688669
+Latitude: 36.1566
+Longitude: -86.76579
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the building's amenities including a rooftop pool and lounge area, fitness center, and ideal views of the city and river. Located just minutes from Broadway and all of Nashville's best dining, shopping, and entertainment options, this is the perfect place to experience everything Music City has to offer. Two Parking spots included with rental. Don't wait, book your stay now!
+
+Guest access
+Guests will have access to the building amenities including the workout room, and rooftop terrace, rec building and one spot in parking garage.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kurt
+Host User ID: 24241984
+Host Profile URL: https://www.airbnb.com/users/show/24241984
+Host Profile URL Source: public user permalink from passport userId
+My work: Owner Forte Vacations
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+12 years hosting
+2971 reviews
+4.78 out of 5 average rating
+12 years of hosting

@@ -1,0 +1,68 @@
+URL: https://www.airbnb.com/rooms/49949997
+Latitude: 36.1755
+Longitude: -86.6936
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+With a prime location just centered between Broadway, Airport, Grand Ole Opry, and the Hermitage, this private guesthouse is perfect for exploring Nashville and long term stays, with an office, sofa bed, La-Z-Boy recliner, Bidet, hammock chair, book nook, mini gym, patio, wooded backyard, board games.
+
+This is the lower unit of a two unit home. The floor boards are thin like all homes in the area and you will hear sounds from above
+
+New 7ft pool table!
+
+The space
+The open kitchen boasts modern stainless steel appliances and is stocked with all the essentials needed for your culinary endeavors. 
+
+There is a queen sized fold out couch in living room.
+
+The bathroom features a walk-in shower with subway tile, strong water pressure, and a luxurious Bidet with a heated seat. 
+
+The living room has an office space with a monitor, pool table, and a range of amenities. Kick back in the La-Z-Boy recliner as you stream your favorite shows on Roku, which offers access to HBO and Prime or engage in friendly competition with our PlayStation 4.
+
+Note that the pool table is damaged and has a warped top.
+
+The bedroom contains a spacious closet and our guests remark on how comfy the bed is. You can keep your work out routine intact with the mini gym or a morning jog through our safe neighborhood with rolling hills.
+
+After a day of immersing yourself in the lively ambiance of Broadway or hiking to picturesque trails or waterfalls, unwind in the privacy of your own backyard -- savor a glass of wine or a whiskey, (whichever is your style!). 
+
+For those seeking to catch up on reading, we have created a nature-themed book nook, complete with a hammock chair.
+
+To ensure you make the most of your trip, you’ll find my popular local guide (Kevin's Awesome Guide to Nashville), with tips and suggestions for local gems and the city's must do attractions.
+
+Guest access
+Our unit is on the lower level of the home, with private access, private backyard, and private driveway. We provide keyless entry and can accommodate late check-ins. 
+
+As this is the lower unit of a home, we do our best to be mindful of guests and minimize noise, such as walking around the house. Due to some guest comments, we recently installed thick carpet and foam in room above the bedroom to further reduce sounds.
+
+Other things to note
+You can hear sounds from the upstairs unit, like all homes in the area because of thin floorboards - such as walking and talking, but we have installed thick carpet and foam above the bedroom to soften as much as possible.
+
+Note that pool table is damaged and warped - it can be fun for kids and casual play but not the best experience for regular pool players.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kevin
+Host User ID: 31039895
+Host Profile URL: https://www.airbnb.com/users/show/31039895
+Host Profile URL Source: public user permalink from passport userId
+My work: Business Development
+Fun fact: I lived for several years in Brazil
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+190 reviews
+4.82 out of 5 average rating
+5 years of hosting

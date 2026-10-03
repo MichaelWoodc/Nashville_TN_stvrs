@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/54192201
+Latitude: 36.17748
+Longitude: -86.74371
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a relaxing visit to Music City at our upstairs studio guest house, located a five minute walk to Five Points. We are less than two miles from Downtown/Lower Broadway, 15 minute drive to Opry Mills and a few minutes drive to Shelby Park.
+This is a super walkable neighborhood, just a few blocks from some of the city's best destinations: Margot, Lockeland Table, Bongo Java, Frothy Monkey, Snooze, Five Points Pizza, etc!
+No check out chores!
+Happy to help with celebrations or welcome baskets!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Lindsay
+Host User ID: 1935745
+Host Profile URL: https://www.airbnb.com/users/show/1935745
+Host Profile URL Source: public user permalink from passport userId
+We are from Nashville, TN and look forward to welcoming you to our city! We love live music and exploring Nashville with our kids!
+My work: Social worker
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+356 reviews
+4.99 out of 5 average rating
+4 years of hosting

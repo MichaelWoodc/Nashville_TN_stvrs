@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1603020722673509026
+Latitude: 36.0351
+Longitude: -86.54273
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: La Vergne, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The whole group will enjoy easy access to everything from this centrally located place.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Erica
+Host User ID: 119130939
+Host Profile URL: https://www.airbnb.com/users/show/119130939
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+7 months hosting
+4 reviews
+4.25 out of 5 average rating
+7 months of hosting

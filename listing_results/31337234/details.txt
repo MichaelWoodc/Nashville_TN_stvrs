@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/31337234
+Latitude: 36.18671
+Longitude: -86.75329
+rental_type: Entire bungalow
+property_type: BUNGALOW
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Recently renovated 2 BR/2 BA in the heart of East Nashville, Nashville's hippest neighborhood. The house features luxury modern amenities and an open floor plan with charming rustic features.
+
+The space
+This classic home was fully renovated this year and features original hardwood floors, subway tile, industrial fixtures, and plenty of foliage.
+
+Additional highlights include:
+* Smart TV 
+* Full kitchen & dining table, perfect for entertaining
+* Private parking in rear underneath the protected carport
+* Comfortable sofa bed in main living space for additional guests
+* Walking distance to hot spots like Mas Tacos, The Pharmacy, and Barista Parlor.
+* Washer & dryer
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Robert
+Host User ID: 4899259
+Host Profile URL: https://www.airbnb.com/users/show/4899259
+Host Profile URL Source: public user permalink from passport userId
+Hi! I'm Robert.
+
+I am a freelance digital nomad with a serious addiction to travel. I have spent much of the past ten years on the road exploring new places and soaking up foreign cultures. After renovating our hundred-year-old home in Nashville, I bought a cabin in Oregon with my Fiancé and we just finished curating our third home in the hills of Eugene - my college town (Go Ducks!).  We love sharing our homes with guests from all over the globe in their journeys to our favorite places.
+Born in the 80s
+Where I went to school: University of Oregon
+Response rate: 100%
+Responds within an hour
+Superhost
+8 years hosting
+675 reviews
+4.95 out of 5 average rating
+8 years of hosting

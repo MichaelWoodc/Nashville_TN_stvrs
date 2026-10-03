@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/951733521889740734
+Latitude: 36.0417
+Longitude: -86.7662
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Brentwood, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Nashville is a stylish studio on the fourth floor in Brentwood, TN. Elevator-accessible, it features a kitchen, Wi-Fi, in-unit laundry, and amenities like a pool, gym, and paid parking for two guests. Brentwood's suburban charm and proximity to Nashville create a peaceful retreat, while local parks and Cool Springs shopping district add convenience to this welcoming Tennessee community atmosphere.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: ⁨StayWithVibe.⁩
+Host User ID: 61391963
+Host Profile URL: https://www.airbnb.com/users/show/61391963
+Host Profile URL Source: public user permalink from passport userId
+Vibe is a full-service provider of furnished homes. Our team is here to help you find your space and to support you during your journey. We're always operating with your comfort in mind and we've taken care to plan for your arrival long before you turn the key. 
+
+Our homes are fully furnished and equipped with everything you need for a perfect stay.
+
+Whatever you're into and wherever you want to stay, there's a Vibe space for you!
+My work: Our homes are fully furnished and equipped with everything you need for a perfect stay. This includes cookware and dishware in the kitchen, linens and towels in the bedroom, appliances such as a hair dryer, flatiron and ironing board, and an initial suppl
+Lives in New York, New York
+Response rate: 100%
+Responds within an hour
+11 years hosting
+3200 reviews
+4.66 out of 5 average rating
+11 years of hosting

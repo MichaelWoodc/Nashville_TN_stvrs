@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/1714358775735022211
+Latitude: 36.1549
+Longitude: -86.7754
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The whole group will be comfortable in this spacious and unique space. Enjoy a stylish 1-bedroom, 1-bath luxury apartment in The Burnham Nashville, located at the heart of SoBro and just minutres from Broadway. Perfect for up to 6 guests, this modern retreat features high ceilings, a fully furnished balcony, a full kitchen, in-unit laundry and access to resort-style amenities including a pool, fitness center, and sky lounge.  
+
+Permit #2018071643
+
+The space
+The apartment features a private bedroom with a comfortable queen bed that  has a partial wall separation which allows for bedroom privacy, a queen bed and king sleeper sofa in the living room. The open concept bedroom and  living area is designed for comfort. The plush sofa allows for relaxation after a day of exploring Nashville as well as a peaceful place to recharge.  Blinds and blackout curtains creates privacy and promotes better sleep. 
+With modern finishes, warm lighting and a spacious layout, the apartment blends comfort, function, and city style-just minutes from broadway, live music, dining and nightlife. 
+The kitchen is fully equipped with modern appliances, cookware and everything you need to prepare meals at home. Additional amenities include high speed internet,  smart TV  with streaming apps in the bedroom and living area, in-unit washer and dryer and on site parking options.
+
+Guest access
+Your stay begins with a smooth and contactless arrival experience designed for convenience and flexibility. Complete the required pre-arrival registration and identification verification. You will receive detailed check in instructions prior to your arrival date. 
+Check in at your convenience after the designated check-in time. Access information will be provided before arrival, allowing you to enter the building and your apartment without waiting at a front desk. 
+Guests will receive instructions for accessing the building, elevators and apartment. The property offers controlled access entry for guests. 
+Paid parking is an available option. Guests should review the latest parking information provided before arrival.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Renell
+Host User ID: 1695695788681780202
+Host Profile URL: https://www.airbnb.com/users/show/1695695788681780202
+Host Profile URL Source: public user permalink from passport userId
+My work: Healthcare
+I spend too much time: watching movies on Netflix
+Response rate: 100%
+Responds within an hour
+3 months hosting
+34 reviews
+4.94 out of 5 average rating
+3 months of hosting

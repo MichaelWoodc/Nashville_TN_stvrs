@@ -1,0 +1,61 @@
+URL: https://www.airbnb.com/rooms/36225255
+Latitude: 36.20399
+Longitude: -86.74186
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+It's the best of both worlds.  Enjoy the peace and quiet of the new spacious condos with high ceilings and luxury finishes.  Or get excited about all the diverse activities the neighborhood has to offer with a coffee shop and brewery right next door!  Or venture out further, as Broadway and East Nashville are just a 10-minute drive away.
+
+The space
+INCLUDED WITH YOUR STAY:
+- 2-car garage
+- 24/7 hospitality
+- Smart TV
+
+INTERNET
+Our high-speed internet is designed for work and streaming
+
+SLEEPING ARRANGEMENTS
+1st-floor bedroom: 1 Queen Beds 
+3rd-floor bedroom 1: 2 Queen Beds + en suite bathroom
+3rd-floor bedroom 2: 1 Queen Bed + en suite bathroom
+Second Floor Living room: 1 Sleeper Sofa.
+
+Pets allowed with $200 pet fee.
+Parking for 2 cars. The Complex has extra parking but only for the day.
+
+Guest access
+You will have access to the entire condo.
+
+Other things to note
+1st Floor: Garage and Bedroom w/ Queen Bed
+
+2nd Floor: Living Area, Chef's kitchen, dining area, and full bath (Queen Sleep Sofa)
+
+3rd Floor: Master Bedroom w/ two queen beds and private bath, Laundry Room, and Bedroom w/ Queen Bed
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Justin
+Host User ID: 149105487
+Host Profile URL: https://www.airbnb.com/users/show/149105487
+Host Profile URL Source: public user permalink from passport userId
+My name is Justin Wilson and I attended Vanderbilt University. While at Vanderbilt, I was lucky enough to play baseball and get drafted by the New York Yankees. I hope everyone enjoys the condos! Also, if you stay at any of our places this slow season, you or family members get 10% off any future stay!
+My work: Pitcher for New York Yankees
+Lives in Murfreesboro, Tennessee
+8 years hosting
+1768 reviews
+4.84 out of 5 average rating
+8 years of hosting

@@ -1,0 +1,56 @@
+URL: https://www.airbnb.com/rooms/1692940232568798936
+Latitude: 35.9598
+Longitude: -86.9085
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Franklin, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Ideal One-Bedroom Retreat for Couples and Traveling Professionals
+Experience Southern charm and tranquility at our beautifully restored, historically significant antebellum cottage, nestled on a peaceful working farm just 7 minutes from downtown Franklin, 20 minutes from Green Hills, and 45 minutes to downtown Nashville. (traffic dependent times). Please Note: Host does live on the premises.
+
+The space
+Property Highlights
+•	Historic Antebellum Home: Enjoy modern amenities in a lovingly maintained cottage, celebrated for its architectural value. As the original detached kitchen for the plantation, the cottage offers a rare glimpse into authentic Southern history.
+•	Scenic Farm Setting: Surrounded by lush fields and picturesque landscapes, you’ll have ample opportunity to unwind and enjoy nature’s beauty.
+•	One Bedroom, One Bathroom: The cottage features a cozy loft bedroom with a king-sized bed and a spotless, newly remodeled bathroom for your convenience. Additional Twin Sized Day bed on first level in the living area. 
+•	Fiber Optic Internet
+•	Full Size Washer and Dryer in adjoining building
+•	Fully Stocked Kitchen
+•	All Linens and Towels Provided 
+•	Large Wood Burning Fireplace
+•	Covered Parking for One Vehicle
+•	Fenced-In Yard for Pets: Bring your furry friends along! The cottage includes a secure, fenced yard for pets to play safely during your stay. Please Note: There are other dogs on the premises. 
+•	Convenient Location: Only 7 minutes to downtown Franklin and 20 minutes to Green Hills and Belle Meade, putting shopping, dining, and entertainment within easy reach.
+
+Guest access
+Guests have two separate access points to the cottage, in addition to a fenced in yard and a private porch.
+
+Other things to note
+Limit 2 small dogs. Dogs over 30 pounds are not considered small. There are 3 other dogs on the premises that have the run of the farm with the exception of cottage fenced yard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Abbie
+Host User ID: 64167866
+Host Profile URL: https://www.airbnb.com/users/show/64167866
+Host Profile URL Source: public user permalink from passport userId
+We don’t own these antebellum homes. They own us.
+Born in the 80s
+Where I went to school: University of Georgia
+Response rate: 100%
+Responds within an hour
+4 months hosting
+16 reviews
+5.0 out of 5 average rating
+4 months of hosting

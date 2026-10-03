@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/26996194
+Latitude: 36.1581
+Longitude: -86.8261
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This recently renovated 1950s home located near in between the Nations and German Town area. The neighborhood is an up and coming, with a lot of new construction in the area and just minute to plenty of restaurants, breweries, coffee shops and bars in the area.
+
+~ Broadway - 10 mins
+~ Nissan Stadium - 15 mins
+~ Bridgestone Arena - 10 mins
+~ Geodis Park - 15 mins
+~ Grand Ole Opry - 20 mins
+~ Airport - 18 mins
+
+NOTE: WE DO NOT RENT TO LOCALS.
+
+The space
+We are also located less than 2 miles from Vanderbilt University. You will have access to the entire home: 2 full bathroom, 4 bedrooms, living room, game room, dining room, full kitchen, laundry room and driveway parking. Nashville is waiting for you! See you soon!!!
+
+We hope you enjoy the personal touches and rustic details of this home. Much of the art and furniture was made locally; like the farm house dining table, the 100 year old barn door coffee table and the drop cloth wall art. Recycled barn wood was used to build the barn door to the laundry room. Also a few queen beds and headboards were built by myself. We hope you enjoy the personal touches and rustic details of this home : )
+
+Guest access
+There is an access key pad for the front door. The door code will be provided to you upon arrival. Feel free to always reach out via the Airbnb app or text.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: John
+Host User ID: 203121079
+Host Profile URL: https://www.airbnb.com/users/show/203121079
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 90%
+Responds within an hour
+8 years hosting
+178 reviews
+4.72 out of 5 average rating
+8 years of hosting

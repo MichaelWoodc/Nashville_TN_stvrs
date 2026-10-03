@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/613946389513423030
+Latitude: 36.34152
+Longitude: -86.57906
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 5
+occupancy: 8
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+This unique place has a style all its own. Country living on the edge of the city. Quite Lane to stroll or a back deck to watch the sunset 
+House Only
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tommy
+Host User ID: 456214764
+Host Profile URL: https://www.airbnb.com/users/show/456214764
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within a few hours
+Superhost
+4 years hosting
+56 reviews
+4.95 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/48712573
+Latitude: 36.1793
+Longitude: -86.7887
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 10
+beds: 12
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your private Nashville escape—three stylish homes connected by a fully fenced backyard oasis in the heart of vibrant Germantown. This one-of-a-kind retreat features a charming 3-bedroom house plus two retro-inspired townhomes with 7 bedrooms total. Enjoy complete privacy with a hot tub, fire pit, and bocce ball court—perfect for relaxing nights and unforgettable gatherings close to music, dining, and nightlife.
+
+Top amenities
+- Hot Tub
+- Fire Pit
+- Private Yard
+- 10 BR
+- 20+ guests
+
+The space
+At a glance:
+* Just 1.6 miles (a 6-min ride) to downtown Nashville. Close to Salemtown, Nissan Stadium, Ascend Amphitheater, the Gulch, East Nashville, Vanderbilt University, and 12South.
+
+* This property consists of 3 houses: Unit A (the front house, 1,800 sq ft, 1 floor), Unit B (attached townhouse, 1,500 sqft, 2 floors), Unit C (attached townhouse, 1,500 sqft, 2 floors)
+
+* Together, all properties have a total of 10 bedrooms, 14 beds (2 king beds, 8 queen beds, 1 single day bed, queen-pull-out sofa bed, a convertible sofa bed, and an extra-large couch), and 8 full baths. Can accommodate up to 20 guests!
+
+* Nearly every bedroom is appointed with a Smart/TV (includes Netflix, Hulu, Fubo TV, and other streaming apps),  pillow-top, or memory foam mattress.
+
+* Outside and private courtyard space with a hot tub, fire pit, gas grill, and bocce ball court.
+
+Guest access
+* Guests will enjoy full house access, including a communal, private outdoor courtyard for cooking and playing! 
+
+* 4 private parking spaces available to guests
+
+* Ample street parking is available for your stay, should you be traveling by car. No decal is required for street parking use.
+
+Other things to note
+--Other Transportation: Germantown is incredibly walkable, with most people traveling by foot to explore the neighborhood. That said, many locals and guests alike also enjoy using the electric rental scooters located throughout the Germantown District. In Nashville, our motorized scooter programs include Bird, Lime, and Lyft. Feel free to download the app to find nearby scooters. Rates start at $1 to unlock and $0.15/minute thereafter. 
+
+--Car Services: you are 7 min away from downtown Nashville (1.6 miles) via Uber, Lyft or any taxis that service the area.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ryan
+Host User ID: 53216172
+Host Profile URL: https://www.airbnb.com/users/show/53216172
+Host Profile URL Source: public user permalink from passport userId
+Traveller, adventurer & explorer of all things new!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+368 reviews
+4.97 out of 5 average rating
+9 years of hosting

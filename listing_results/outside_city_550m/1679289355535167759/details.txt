@@ -1,0 +1,52 @@
+URL: https://www.airbnb.com/rooms/1679289355535167759
+Latitude: 36.2090199486633
+Longitude: -86.54709586158235
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Unwind in this thoughtfully designed guest house w/pool-perfect for couples or families (w/ auto pool cover). Enjoy comfy sleeping arrangements & reading/sleeping nook. Features include a full kitchen & dining, large bathroom, massage chair, yoga mats, & light workout gear, games, pool table/air hockey/ping pong. Relax in a safe neighborhood w/ a private fenced yard & a heated saltwater pool including nearly an acre to roam. Plenty of space to spread out—comfort, convenience & a touch of luxury.
+
+The space
+Tucked away on a peaceful acre in Mt. Juliet, just east of Nashville, this private guesthouse offers the perfect blend of relaxation, space, and convenience. Ideally situated between the lakes and only minutes from the Nashville International airport, you’ll enjoy easy access to local restaurants, shopping, entertainment, and the best of lake life—while still having a quiet retreat to come home to.
+
+Step outside and enjoy your own fully fenced backyard oasis. The saltwater pool—complete with an automatic cover and pool toys—is perfect for sunny afternoons or quiet evening swims. Surrounded by mature greenery and set in a quiet neighborhood, the property feels secluded without sacrificing accessibility.
+
+Inside, the home is thoughtfully designed for both comfort and connection. The spacious primary bedroom features a king bed and connects to a large Jack-and-Jill bathroom. The open-concept living area flows seamlessly into a versatile game space, where you can enjoy a pool table that easily converts into air hockey or ping pong—perfect for all ages.
+
+You’ll also find a cozy under-the-stairs nook with a twin bed—ideal for reading, relaxing, or a fun sleeping spot for kids (and kids at heart). A separate workout room off the kitchen provides space to stay active during your stay and can accommodate an additional twin mattress if needed.
+
+The full kitchen is stocked and ready for everything from morning coffee to evening cocktails, making it easy to settle in and feel at home.
+
+Whether you’re here for a weekend getaway, a family trip, or a Nashville adventure, this Mt. Juliet guesthouse offers a quiet, spacious place to land—with just the right mix of comfort, fun, and location.
+
+Guest access
+This is a private guesthouse attached to the main home, which will likely not be occupied during your stay. On the rare occasion the property manager is onsite, they have their own separate, private entrance & space. You’ll enjoy full private lower level home access, the entire backyard, pool, and side driveway-with the exception of sharing electric car charging when needed.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Asher
+Host User ID: 672894491
+Host Profile URL: https://www.airbnb.com/users/show/672894491
+Host Profile URL Source: public user permalink from passport userId
+As a self-proclaimed hospitality enthusiast I love creating spaces that can make the guest feel welcome, while giving back financially to charity. Since 2013, I’ve found so much joy in curating spaces filled with locally sourced treasures & creating a place where both locals & visitors can kick off their shoes, unwind, & truly feel at home. It’s an honor to combine my passion for people & beautiful spaces in such a special corner of the world!
+My work: Sole Hope
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+2 years hosting
+68 reviews
+4.96 out of 5 average rating
+2 years of hosting

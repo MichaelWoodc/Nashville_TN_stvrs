@@ -1,0 +1,47 @@
+URL: https://www.airbnb.com/rooms/41032405
+Latitude: 36.24155
+Longitude: -86.6739
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Neelys Bend Condominiums 
+
+An older, very comfortable 2 bedroom, 1.5 bath 2 story condo. 25 mins from downtown Nashville, 20 mins from the airport.  Close to restaurants and shopping.
+
+COVID-19 Statement:
+As your host, I work hard to ensure your safety by expanding my cleaning and disinfecting protocols for the condo based on recommendations from the Centers for Disease Control and Prevention.
+
+The space
+You are free to use the entire condo.  This is a residential condo community in a mature and quiet area next to schools.  Free parking, two designated spots.
+
+Self check-in with lockbox.
+
+This unit is not suited for children. 
+
+This is a non-smoking residential unit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Cherie Amour
+Host User ID: 124485766
+Host Profile URL: https://www.airbnb.com/users/show/124485766
+Host Profile URL Source: public user permalink from passport userId
+A college professor who enjoys traveling and experiencing different cultures from the locals perspective.  I'm a friendly introvert who enjoys reading and listening to music.  A foodie with a good sense of humor.
+My biography title: The Absentminded Professor
+Lives in Nashville, Tennessee
+7 years hosting
+120 reviews
+4.62 out of 5 average rating
+7 years of hosting

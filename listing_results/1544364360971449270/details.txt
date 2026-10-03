@@ -1,0 +1,38 @@
+URL: https://www.airbnb.com/rooms/1544364360971449270
+Latitude: 36.31008
+Longitude: -86.90419
+rental_type: Private room in nature lodge
+property_type: NATURE_ECO_LODGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Downstairs guest room of the schoolhouse cabin with luxury Queen sized sleeper sofa, kitchenette, fireplace and private bathroom
+
+Other things to note
+Breakfast is included in your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Sally
+Host User ID: 56081420
+Host Profile URL: https://www.airbnb.com/users/show/56081420
+Host Profile URL Source: public user permalink from passport userId
+My family and I operate a dining inn/retreat/event venue called Hachland Hill.  We offer an authentic Nashville experience. We love nature, good music, good friends, and good food. We offer up to 15 sleeping rooms in two separate inns. On 80 acres, our guests enjoy the best of nature and privacy. Plenty of hiking, outdoor seating and entertainment, like fire pits, corn hole, etc..  We're known for elevated Southern cuisine.  Plan your group or private dining experience with us! Only 25 minutes from the excitement of downtown and from the  airport, you'll find the best of worlds at Hachland Hill.
+Born in the 60s
+My work: Hachland Hill Inn
+Response rate: 100%
+Responds within an hour
+11 years hosting
+401 reviews
+4.87 out of 5 average rating
+11 years of hosting

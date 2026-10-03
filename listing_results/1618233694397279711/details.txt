@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/1618233694397279711
+Latitude: 36.18857
+Longitude: -86.83862
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Why We Love This Home
+✔ Private Rooftop Deck 
+✔ Hot Tub + Fire Pit – The ultimate post-Broadway wind-down
+✔ 4 Bedrooms | 4 Full Bathrooms 
+✔ Prime Nashville Location – Close to top dining, nightlife, and must-see attractions
+The Space
+This thoughtfully designed home offers multiple levels of living, giving everyone room to spread out while still coming together with ease. 
+Perfect For:
+• Group trips 
+• Bachelorette & bachelor weekends
+• Family getaways
+• Music lovers & city explorers
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Pamela Lash
+Host User ID: 593315532
+Host Profile URL: https://www.airbnb.com/users/show/593315532
+Host Profile URL Source: public user permalink from passport userId
+Born in the 80s
+My work: Real estate broker
+Response rate: 99%
+Responds within an hour
+Superhost
+2 years hosting
+330 reviews
+4.82 out of 5 average rating
+2 years of hosting

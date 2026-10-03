@@ -1,0 +1,42 @@
+URL: https://www.airbnb.com/rooms/52182341
+Latitude: 36.20501
+Longitude: -86.81043
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 10
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+BRAND NEW LUXURY DOWNTOWN SKYLINE HOME! HUGE ROOFTOP DECK! 
+★★★★★ NO fee for additional guests
+★★★★★ NO fee for early check-in when available 
+★★★★★ NO fee for dropping off bags before check-in time 
+★★★★★ NO fee for leaving bags after check-out time
+
+The space
+Brand new, newly furnished, three story, 4 bedroom, 4 bathroom Home.
+
+Our Home is a fully stocked “Home away from home”.  Each guest may enjoy his/her own space in one of the four bedrooms or come together in the open floor plan living room/ kitchen space or rooftop deck. You are only minutes away from downtown Nashville!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Jane
+Host User ID: 352192409
+Host Profile URL: https://www.airbnb.com/users/show/352192409
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+140 reviews
+4.94 out of 5 average rating
+6 years of hosting

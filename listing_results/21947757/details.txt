@@ -1,0 +1,46 @@
+URL: https://www.airbnb.com/rooms/21947757
+Latitude: 36.26977
+Longitude: -86.77827
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 5
+beds: 5
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Search “Six Rooms with a View” for video. Cozy woodland retreat just 15 min. or less from the excitement of Downtown, etc. Escape with family and friends to beautiful surroundings with stunning views from each bedroom, a huge patio, deck and brand new kitchen. Game room with pool table and 42” Fire TV. Additional 40” Roku TV in Living Room. 
+Washer and dryer available for all stays. Please message host for details.
+
+The space
+There is plenty of space for large family gatherings or corporate groups that plan to use the home as a place to relax. Enjoy a glass of wine on the covered deck, where you just might see our herd of deer or family of wild turkeys. Smoking is permissible only on the deck or outside patio. Out of respect for our neighbors, we ask that you refrain from hosting parties on the premises, and that you treat the home as you would your own.
+
+Guest access
+Guests have access to the entire space (except for the garage and 2 small rooms in the basement). Large living room, dining area/kitchen, 4 large bedrooms each with Queen bed, 3 full baths, finished basement with game room and two Queen beds, large furnished outdoor deck and unfurnished tile patio. Queen air mattress in private basement area.
+
+Other things to note
+Every month, a portion of our proceeds is donated to The Elephant Sanctuary in Tennessee and the Nashville Humane Society.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Danielle
+Host User ID: 160208078
+Host Profile URL: https://www.airbnb.com/users/show/160208078
+Host Profile URL Source: public user permalink from passport userId
+Moved to Nashville for music. I'm a Real Estate investor and professional bartender.
+My work: Danielle Lauren Realty
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+133 reviews
+4.83 out of 5 average rating
+9 years of hosting

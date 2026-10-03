@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/39842202
+Latitude: 36.32404
+Longitude: -86.71389
+rental_type: Private room in townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+**Must be okay with a cat** A quiet, cozy, safe neighborhood. Walking path, pickle ball courts, plenty parking. in the heart of Goodlettsville's antique district. "Liz's Kitchen" and upscale "Caspers Bistro" and coffee, boutiques all in walking distance. Planet Fitness and Hotworx infared Sauna Studio 1 mile away. Publix, Kroger, Walmart, Target, Starbucks, 7 Brew and so much more all within 2 miles. 15-20 minutes (11 miles) to downtown Nashville. 20 miles to BNA airport. 13 mi to Grand Ole Opry
+
+The space
+Bedroom, full bath, laundry is upstairs. Kitchen, living room and half bath are downstairs
+
+Guest access
+private bedroom and private full bath,
+
+Shares kitchen and laundry room with host!
+
+During your stay
+Texting me is typically the quickest way to get a hold of me!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tana
+Host User ID: 50056124
+Host Profile URL: https://www.airbnb.com/users/show/50056124
+Host Profile URL Source: public user permalink from passport userId
+Business owner, and Nurse!
+Where I went to school: Cincinnati State
+My work: Licensed Practical Nurse - and full time musician
+Speaks English
+Lives in Nashville, Tennessee
+I’m happy to spend time with my guests or give them space
+Response rate: 100%
+Responds within an hour
+4 years hosting
+135 reviews
+4.97 out of 5 average rating
+4 years of hosting

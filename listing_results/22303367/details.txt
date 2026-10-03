@@ -1,0 +1,63 @@
+URL: https://www.airbnb.com/rooms/22303367
+Latitude: 36.13684
+Longitude: -86.8393
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The MANDOLIN COTTAGE is a 2BR/2BA home that has everything you need to enjoy Nashville!   
+
+Located in an historic, upscale and walkable neighborhood, you will be a 10 minute ride to downtown festivities. Enjoy endless options for food and entertainment while staying in the Sylvan Park/West End area of town. Don't miss the great bagels at Star Bagel, outdoor seating at ANSWER or BBQ at Edley's ---- all located within 1 mile.
+
+The space
+LAYOUT: 
+This home is all on one level. The home has two private bedrooms. The primary bedroom has a QUEEN SIZE bed and the guest bedroom also has a QUEEN SIZE bed. The primary bedroom has a private bath with a walk-in shower and large soaking tub.  The second bathroom is easily accessible across the hall from the guest bedroom.
+
+*Entire house on one level
+*Pet-friendly (host must pre-approve all pets)
+*Fully equipped kitchen
+*WIFI
+*Free, onsite parking
+*ROKU for your Netflix, Amazon, etc. accounts
+*Iron and ironing board
+*Hairdryer
+*Shampoo & bodywash
+*Washer & dryer
+*Easy walk to restaurants
+*2.7 mile greenway nearby
+
+Guest access
+The entire house is available to you during your stay except a small owner's closet and a linen closet in the primary bath. 
+
+ Located next to the house is ample drive-way parking for two vehicles.
+*** STREET PARKING IS PROHIBITED***
+No more than TWO cars can be parked at the home at any one time.  No cars are allowed on the grass. Cars may park in the rear of the house or to the side of the house on the driveway. We CANNOT accommodate any trailers, campers, ATV's etc on the premises.
+
+Other things to note
+You can find a copy of the official Nashville home-sharing permit in our AirBNB listing's pictures.  Our home has recently become PET FRIENDLY.  We love traveling with our pet so we thought we'd open our home to other responsible pet owners.  PETS STAY FREE, but ALL  pets must be pre-approved by the owners.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Elizabeth Eddleman
+Host User ID: 14097556
+Host Profile URL: https://www.airbnb.com/users/show/14097556
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+My work: Self-employed
+Response rate: 100%
+Responds within an hour
+9 years hosting
+153 reviews
+4.97 out of 5 average rating
+9 years of hosting

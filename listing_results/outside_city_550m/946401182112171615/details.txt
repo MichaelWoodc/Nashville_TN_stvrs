@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/946401182112171615
+Latitude: 36.32255
+Longitude: -86.48513
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Gallatin, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Wake up to unmatched views of Old Hickory Lake, then enjoy swimming in the pool or relaxing in the hot tub. Fire up the grill and enjoy a meal on the pool deck, the upstairs huge screen porch or the formal dining room. Spend the evening watching stars over the lake or enjoying the game tables (pool, shuffle board or foosball) or just hanging out around the wet bar.  The property easily accommodates large groups and is convenient to shopping, downtown Nashville and the airport.
+
+The space
+This 4 Bd 3.5 bath house is at the tip of a peninsula reaching into Old Hickory Lake providing unmatched views and a big backyard. We provide lots of entertainment including a pool table, shuffleboard table, mini foosball table, cornhole equipment, and 4 smart TVs in the house. You can also enjoy the pool, hot tub, firepit, or walk down to the boat dock!  Sorry, but for safety reasons we do not allow guests to use the fireplaces inside the house. 
+
+Upstairs has 3 bedrooms and 2.5 baths, kitchen, dining room, a large living area, and a 400+sqft screened in porch. 
+Bedrooms 1,2, & 3 are upstairs and each feature a King size bed and 4 pillows. The master bedroom has its own TV and restroom. All 3 upstairs bedrooms have large windows, and the master looks out across the backyard with unbeatable lake views.
+
+Downstairs you have a bunk room, an office/flex room, a full bath, a billiards room, a living room with a TV and 2 couches/small sofa beds, and an additional game room with a shuffleboard table and mini foosball table next to a wet bar and another TV. 
+The bunk room features 2 bunk beds each with a twin bed on top of a full.
+The flex room/office downstairs features a desk, as well a small sofa bed/couch.
+
+Exit through the downstairs and you walk out onto an extensive back patio/pool deck with a BBQ, sun loungers, a seating & eating area. The hot tub and pool are always open, however the pool is not heated so swimming in the winter months may be chilly!  
+
+We highly recommend lifejackets worn anytime you are on or near the water and any use of the boat dock is at your own risk. The boat dock is located in the backyard but is a hike down some very steep stairs, so come prepared if you want to be on the lake!
+
+Guest access
+You will have access to the entire house during your stay! This includes the house, pool, hot tub, backyard and boat dock! The only thing excluded from your visit is the garage and owners' closets.
+
+Other things to note
+If you want additional access to the lake there is a public boat ramp at the entrance to the neighborhood located at Caldwell Park Boat Ramp, a great place to drop in your boat or jet skis and ride the river to the airbnb! 
+If you do not have your own boat, Gallatin Marina is down the river a little ways if you want to rent one! 
+The boat lift is not for use by renters, but you can always tie a boat or floats on the the side of the dock with buoys protecting the boat and dock. Any use of the boat dock and lake are at your own risk. Please reach out with any questions regarding boating on Old Hickory Lake.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Larry
+Host User ID: 121576102
+Host Profile URL: https://www.airbnb.com/users/show/121576102
+Host Profile URL Source: public user permalink from passport userId
+Lives in Florida, United States
+Response rate: 100%
+Responds within an hour
+10 years hosting
+85 reviews
+4.81 out of 5 average rating
+10 years of hosting

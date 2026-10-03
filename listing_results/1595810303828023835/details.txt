@@ -1,0 +1,55 @@
+URL: https://www.airbnb.com/rooms/1595810303828023835
+Latitude: 36.0487
+Longitude: -87.0039
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Tucked away on five wooded acres, this peaceful one-bedroom guest suite blends nature, privacy, and convenience. Unwind in the outdoor sauna, sip coffee on the forest-facing patio, or end the day by the fire pit under the stars.
+
+Just 20 minutes from downtown Nashville, Franklin, and Leiper’s Fork, and only two minutes from the Natchez Trace Parkway and Loveless Cafe. Inside, enjoy a cozy fireplace, queen bed, full kitchen, and everything you need for an easy getaway.
+
+The space
+“Beautiful space!! Looks like something out of a nature catalog. Very intimate and peaceful!” — Brittney
+
+“Great apartment! Exactly as described and pictured. Tim and Laura were excellent hosts!” — Josh
+
+“Tim's place was exactly as pictured. It was a beautiful getaway.” — Joshua
+
+Slip away to a quiet and cozy forest retreat with its own private entrance, secluded back patio, fire pit, and private outdoor sauna. Spend evenings in Adirondack chairs under the stars, unwind in the sauna, or simply enjoy the peaceful wooded setting.
+
+Inside, the space is filled with natural light from several windows, creating a bright, sunny forest vibe that’s perfect for slow mornings and relaxing afternoons. Warm up by the indoor fireplace, sink into a queen-size bed, and stream your favorites on two TVs with Apple TV.
+
+The guest space is private and designed for two, with the comforts you need for an easy stay while still feeling tucked away in the woods.
+
+Guest access
+You have access to the entire apartment. This includes a bedroom, bathroom, living area, kitchen, and private back patio. You will receive a code to the apartment's front door.
+
+Other things to note
+This is a private apartment attached to our primary residence.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 370936458
+Host Profile URL: https://www.airbnb.com/users/show/370936458
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+6 years hosting
+234 reviews
+4.91 out of 5 average rating
+6 years of hosting

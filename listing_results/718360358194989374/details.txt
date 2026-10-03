@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/718360358194989374
+Latitude: 36.12299
+Longitude: -86.701
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Cozy and stylish 2-bedroom home located minutes from the airport with off-street parking. Only 5-10 minutes from the airport, with downtown Nashville just quick drive away, this home is ideal for both business travelers and tourists. It comfortably accommodates 4 guests.
+
+Need more room? A private guest suite (studio + extra bathroom) is available to accommodate larger groups of 4-6 for an additional $150 per stay—or included free for stays of 30 days or more!
+
+The space
+You’ll have exclusive access to the entire first floor of the house. The backyard is fully fenced and includes a covered patio with seating.  A detached guest suite with an extra bathroom and kitchenette is available for an extra $150 per stay. Reservations of 30 days or more get access to the guest suite for free. :)
+
+PARKING
+The driveway provides space for 2-3 vehicles.
+
+Guest access
+You'll enter the house via a smart lock on the front door using your personalized code. While you’ll have full access to the backyard, the storage shed and attic are off limits.
+
+Other things to note
+SAFETY
+Ring doorbell camera on the front entry of the house for your safety.  First aid kit and fire extinguisher easily accessible.
+
+Smoking of any kind is not allowed in the house.  A $300 smoking fee will be charged if guests break this rule.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Zach
+Host User ID: 172381842
+Host Profile URL: https://www.airbnb.com/users/show/172381842
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+112 reviews
+4.96 out of 5 average rating
+4 years of hosting

@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/15954358
+Latitude: 36.18516
+Longitude: -86.80769
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 1
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Sleeps 6 comfortably: 2 queen beds & 2 twins; 1 full bath, kitchen, security system, Cable TV & Wifi. Just 5 minutes to downtown. Near interstate, Metro Center, Nissan Stadium, Broadway, Vanderbilt, TSU, Meharry, & Fisk University.
+
+The space
+The space is family friendly. A Pack and Play is available upon request for infants and toddlers.
+
+Guest access
+Check in time 2 p.m. Central Standard Time. Check out time 11:00 a.m. Guests will have access to the entire 3-bedroom house which is 816 sq. ft. with living room and eat-in kitchen. There will be parking in front of the house for guests.  Host will provide a code for entry.
+
+Other things to note
+1.  Principal renter must be at least 21 years old. 
+2. Cleaning fee: $75.
+3. Security Deposit: $100. 
+4. $25 per day per person for extra guests over 6. 
+5. Maximum number of guests is 7.
+6. In Nashville the government requires hosts to collect a $2.50 per night tax and one-time $2.50 cleaning fee tax. These taxes will be calculated and disclosed to guest before bookings are confirmed. 
+
+For example, the taxes for a two night stay is $7.50. That is $5.00 for per night tax and $2.50 for cleaning service.  The taxes are not included in the Airbnb charges guests initially receive; however, all other taxes and fees are.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Melva
+Host User ID: 103588751
+Host Profile URL: https://www.airbnb.com/users/show/103588751
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+10 years hosting
+306 reviews
+4.82 out of 5 average rating
+10 years of hosting

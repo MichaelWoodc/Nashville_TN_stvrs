@@ -1,0 +1,41 @@
+URL: https://www.airbnb.com/rooms/38574477
+Latitude: 36.20344
+Longitude: -86.68009
+rental_type: Entire rental unit
+property_type: APARTMENT
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+The Lost Texan Apartment is a completely private apartment, with a Texas theme. Very quiet neighborhood, close to Opryland Hotel and Resort. Huge shower, NEW king size bed, granite counter-tops, polished concrete floors, fridge, microwave, and living room.
+
+The space
+The Lost Texan Apartment was just completed and is ready for your enjoyment. New KING sized bed, fold-out Queen sized couch, fridge and freezer, microwave, Keurig coffee machine, huge bathroom with granite countertops. It has a private entrance and parking space.  Please no smoking or vaping in or around the property.
+
+Other things to note
+We have had many great guests, but several not so great guests insisted on smoking in or around the property even after reading the no smoking request. An additional $75 fee will be charged if smoke smell is detected after the visit.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kemith
+Host User ID: 252995201
+Host Profile URL: https://www.airbnb.com/users/show/252995201
+Host Profile URL Source: public user permalink from passport userId
+Middle aged, married, loves travel and friends!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+268 reviews
+4.99 out of 5 average rating
+7 years of hosting

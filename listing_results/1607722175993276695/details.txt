@@ -1,0 +1,53 @@
+URL: https://www.airbnb.com/rooms/1607722175993276695
+Latitude: 35.9782
+Longitude: -86.6077
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: La Vergne, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: None
+beds: 1
+occupancy: 1
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+If you are traveling to Nashville, visiting a someone in the Brentwood/ Smyrna/Nolensville/LaVergne area and need a clean, quiet space to stay- please come stay a while! I have a beautiful brand new home in a quiet little neighborhood. This is a shared-home stay. I live in the home and rent out a private guest room, so you'll be sharing the house with me during your stay. I strive to provide a comfortable, respectful, and welcoming environment for all guests.  Convenient to I24.
+
+The space
+I have a three bedroom two level home. The guest room would be yours for your stay on the second floor with other bedrooms, the guest bath (yours) and the laundry room. Downstairs is the living/dining and kitchen. Quiet, very clean and beautifully decorated. As of Jan 2026 the room is furnished with a high top air mattress. It sleeps like a regular bed. My hope is to upgrade this soon! 
+The house is 1.5 miles from the I-24 exit (Waldron Road) and 5-10 min from shopping and restaurants (Mostly Fast food,). Tanger Outlets are a short 15 min drive. Drive into Nashville or BNA is 30 minutes depending on traffic.
+
+Guest access
+You will have access to your room, second floor, guest bathroom (fully yours), laundry room, kitchen, dining and living rooms. Free parking is in the driveway or on the street in front of the house.
+
+During your stay
+I am a quick phone call or text away.  I enjoy people and I'm very extroverted so I'll enjoy chatting. I do like to meet  and greet those who stay with me for my comfort level. I'm able to tell if you need your space and happy to give you quiet! :)
+
+Other things to note
+The Bedroom does have a lock from the inside!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Shara
+Host User ID: 60614976
+Host Profile URL: https://www.airbnb.com/users/show/60614976
+Host Profile URL Source: public user permalink from passport userId
+I am an energetic, artistic, teacher - turned counselor in LaVergne, TN. I've lived in my sweet, new build home since May 2024 and prior to that lived in Northern Virginia, Fairfax County (several of my prior reviews are from my previous home in VA) . I enjoy meeting new people and sensitive to your needs. With a demanding job, I enjoy time off from work with friends and family. I look forward to returning to being an air bnb host and look forward to meeting you.
+
+I look forward to meeting you!
+Where I went to school: MTSU, Virginia Tech
+My work: Business owner- Mental Health Clounselor, private practice
+Speaks Sign Language
+Lives in La Vergne, Tennessee
+Response rate: 100%
+Responds within a few hours
+Superhost
+10 years hosting
+26 reviews
+4.92 out of 5 average rating
+10 years of hosting

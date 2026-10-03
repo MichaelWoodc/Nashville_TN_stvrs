@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/18590591
+Latitude: 36.32407
+Longitude: -87.0513
+rental_type: Entire cottage
+property_type: COTTAGE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Ashland City, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 0
+occupancy: 3
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Lewis Cottage is nestled within the picturesque Birdsong Properties. This charming retreat encompasses nine private acres along the banks of Sycamore Creek in Ashland City, TN. Lewis Cottage offers a cozy one-bedroom setting ideal for a romantic getaway or a family weekend escape from the hustle and bustle of everyday life.
+The cottage features a newly remodeled kitchen, equipped with everything you need to prepare delightful meals during your stay. We are a pet friendly property at Birdsong.
+
+The space
+Lewis Cottage is nestled within the picturesque Birdsong Properties, just 25 minutes northwest of Downtown Nashville. This charming retreat encompasses nine private acres along the banks of Sycamore Creek in Ashland City, TN. Originally constructed in the mid-1900s for guests of Birdsong Lodge, Lewis Cottage offers a cozy one-bedroom setting ideal for a romantic getaway or a family weekend escape from the hustle and bustle of everyday life.
+The cottage features a newly remodeled kitchen with everything you need to prepare delightful meals during your stay. Additionally, new photos will soon be available showcasing the spacious primary bedroom, which boasts a luxurious new King Awara bed and mattress, ensuring a comfortable and restful night’s sleep. Whether you seek relaxation or adventure, Lewis Cottage at Birdsong Properties provides the perfect backdrop for a memorable getaway.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Owen Charles
+Host User ID: 46888281
+Host Profile URL: https://www.airbnb.com/users/show/46888281
+Host Profile URL Source: public user permalink from passport userId
+Lives in Nashville, Tennessee
+Response rate: 89%
+Responds within an hour
+Superhost
+11 years hosting
+51 reviews
+4.84 out of 5 average rating
+11 years of hosting

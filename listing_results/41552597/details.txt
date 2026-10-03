@@ -1,0 +1,66 @@
+URL: https://www.airbnb.com/rooms/41552597
+Latitude: 36.1203
+Longitude: -86.7667
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville! I would be happy to host you. Whether you're a music enthusiast exploring the renowned music scene or a sports fan catching a game, this house promises a delightful and centrally located retreat for an unforgettable stay in Nashville.
+
+The space
+Accommodation Details:
+~ The townhouse features 2 bedrooms and 2.5 baths. Both bedrooms and full bathrooms are located on the 2nd floor. There is a half bathroom located on the 1st floor. 
+~ Each bedroom is equipped with a queen-sized bed, and there's an additional queen-sized sleeper sofa in the living room.
+
+Kitchen Amenities:
+~Fully outfitted kitchen with a stove, oven, microwave, regular coffee pot, and toaster.
+~ Some coffee ground and filters are provided. 
+~Please note: Pantry items are not provided
+
+Laundry Facilities:
+~Washer and dryer are available in the condo for your convenience.
+~ Some laundry detergent pods are provided.
+
+Guest access
+Guests will access to the entire home. I do my best to provide you with all the essentials for your stay. If there is a special request for your trip, please reach out ahead of time so that I might be of better assistance for your stay!
+
+Other things to note
+Property Location and Accessibility:
+~ Conveniently situated less than 4 miles from Downtown Lower Broadway.
+~ Just 7 miles away from Nashville International Airport (BNA).
+
+Parking:
+~Each unit includes two free parking spaces.
+
+Provided Essentials:
+~Linens, towels, shampoo, conditioner, and soaps are provided.
+~Essentials such as toilet paper, paper towels, trash bags, and dish pods are supplied for your stay.
+~Please be aware that these items are not replenished during longer stays.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Tim
+Host User ID: 312585112
+Host Profile URL: https://www.airbnb.com/users/show/312585112
+Host Profile URL Source: public user permalink from passport userId
+Born and raised in Nashville, TN. Although my work keeps me quite busy, I enjoy traveling as much as possible, hanging with friends and spending time with my family. The way to my heart will forever be a home cooked meal with anything chocolate for desert.
+Born in the 90s
+My work: Property Management
+Response rate: 99%
+Responds within an hour
+Superhost
+7 years hosting
+3566 reviews
+4.82 out of 5 average rating
+7 years of hosting

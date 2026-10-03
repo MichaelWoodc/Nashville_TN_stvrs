@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1639241867044955300
+Latitude: 36.17895
+Longitude: -86.78975
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Stay in a stunning historic Germantown cottage with a separate backyard studio, just 10 minutes to broadway(1.5miles). Walkable to restaurants, bars, dog parks, greenway, coffee shops, and Sounds Stadium. Inside, enjoy vaulted ceilings with skylights, gleaming hardwoods, a modern kitchen with premium appliances, and a beautifully updated bathroom. The detached studio with Murphy bed and half bath is perfect for extra guests, a quiet or creative space with vanity.
+
+The space
+Stay in the heart of Nashville’s vibrant Germantown neighborhood, just a 10‑minute Uber ride (1.5miles) from Broadway and the honky‑tonks. Germantown is packed with local shops, breweries, restaurants, and bars. You’ll be within walking distance of Butchertown Hall, The Streetcar, City House, Pelato, Bearded Iris, Monday Night Brewing, First Horizon Park (Nashville Sounds stadium), Geist, Neighbors, and the Nashville Farmers’ Market. Plus much more!
+
+Guest access
+You'll have access to the entire home and property, Welcome to Nashville! Enjoy!
+
+Other things to note
+•	This property includes a main one-bedroom house plus a detached studio with an additional bedroom and half bath.
+•	The home sleeps up to 6 guests with a memory foam sleeper sofa in the living room.
+•	Pet Policy: Up to two pets under 30 lbs are allowed. Larger pets may be considered with prior approval—please contact us before booking. No pets under 1 year old, pets must be house broken.
+•	The property is single-story, but there are 10 steps leading from the sidewalk to the front door.
+
+Registration Details
+4856323
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mary
+Host User ID: 64181221
+Host Profile URL: https://www.airbnb.com/users/show/64181221
+Host Profile URL Source: public user permalink from passport userId
+I am a constant traveler and wanderer, an advocate for the adventurous, and a local hot spot guru.
+My biography title: Livin' La Vida Buena
+Speaks English and Spanish
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+709 reviews
+4.95 out of 5 average rating
+7 years of hosting

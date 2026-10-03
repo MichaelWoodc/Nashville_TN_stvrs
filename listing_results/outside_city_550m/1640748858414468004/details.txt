@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1640748858414468004
+Latitude: 35.956495518864955
+Longitude: -86.50799522219187
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Relax in this peaceful, spacious private room conveniently located between Nashville and Murfreesboro with quick access to I-24 and I-840. Guests enjoy access to all home amenities including a gym and free on-site parking. The shared bathroom is clean and well maintained. Pet-friendly and welcoming to travelers, professionals, and remote workers looking for a comfortable stay in a quiet setting.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Ellen
+Host User ID: 95365461
+Host Profile URL: https://www.airbnb.com/users/show/95365461
+Host Profile URL Source: public user permalink from passport userId
+Hi, I’m Ellen! Hosting since 2019, I help property owners turn their homes into professionally managed, high-performing Airbnb listings—without managing the day-to-day operations themselves. I love traveling and know how important it is to feel at home while exploring new places. As a host, I’m attentive, responsive, and happy to share recommendations to make each stay memorable. I value clear communication and make sure guests have everything they need to enjoy their stay.
+My work: Kobza Travel
+Favorite song in high school: It’s my life - Bon Jovi
+Fun fact: Guinness Record made the most sandwiches
+For guests, I always: Leave plenty of towels
+I’m happy to spend time with my guests or give them space
+9 years hosting
+2 reviews
+5.0 out of 5 average rating
+9 years of hosting

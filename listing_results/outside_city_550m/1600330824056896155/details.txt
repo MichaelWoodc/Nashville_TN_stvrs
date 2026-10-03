@@ -1,0 +1,36 @@
+URL: https://www.airbnb.com/rooms/1600330824056896155
+Latitude: 35.94686
+Longitude: -86.52662
+rental_type: Private room in home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Smyrna, Tennessee, United States
+map_marker_type: None
+bedrooms: None
+beds: 1
+occupancy: 2
+fields_status: missing: privacy_radius_meters, map_marker_type, bedrooms
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Clean and very confortable room with private bathroom, TV and work area. Feel like home away from home, if you are visiting music city for work or vacation, this is the perfect spot
+
+Other things to note
+It's not the whole house! This is the master bedroom with an en-suite bathroom.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Karen Susana
+Host User ID: 526587162
+Host Profile URL: https://www.airbnb.com/users/show/526587162
+Host Profile URL Source: public user permalink from passport userId
+Speaks Spanish
+Response rate: 100%
+Responds within an hour
+3 years hosting
+45 reviews
+5.0 out of 5 average rating
+3 years of hosting

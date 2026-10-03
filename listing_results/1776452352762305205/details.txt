@@ -1,0 +1,32 @@
+URL: https://www.airbnb.com/rooms/1776452352762305205
+Latitude: 36.1414
+Longitude: -86.5375
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 1
+beds: 3
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy the best of city and country living in our GUEST HOUSE.  Swim in  the saltwater pool, play with the kids in the 1 acre yard, roast marshmallows inthe fireplace. Or read and play games which are provided, or walk down to the lake.
+
+Nearby Nashville Waterpark features sand beaches, water slides, miniature golf, and more.  Providence Marketplace,  2 miles away features movies, eateries, and Amazing shopping as does th new boutique town of Mt. JULIET  with over 100 eateries.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Suzanne. And Cliff
+Host User ID: 1773253933034462036
+Host Profile URL: https://www.airbnb.com/users/show/1773253933034462036
+Host Profile URL Source: public user permalink from passport userId
+I'm obsessed with: animals, especially precious dogs!
+Response rate: 100%
+Responds within an hour
+New Host

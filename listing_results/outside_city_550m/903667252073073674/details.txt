@@ -1,0 +1,33 @@
+URL: https://www.airbnb.com/rooms/903667252073073674
+Latitude: 36.28285
+Longitude: -86.49878
+rental_type: Entire cabin
+property_type: CABIN
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Mount Juliet, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Getaway Properties offers a spacious country cabin accommodating up to six guests. It features two bedrooms, two bathrooms, a fully equipped kitchen, a living room, and a dining area. The cabin also has a large deck with a grill and seating area/ a private fire pit. You can relax, enjoy smores with your friends or family, or watch the sunset over the water. The Old Hickory Lake is right across the street from our property. There is an access area where you can visit. PET FRIENDLY! NEW HOT TUB!!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kassidy
+Host User ID: 517568396
+Host Profile URL: https://www.airbnb.com/users/show/517568396
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+241 reviews
+4.83 out of 5 average rating
+3 years of hosting

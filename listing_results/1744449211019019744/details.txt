@@ -1,0 +1,34 @@
+URL: https://www.airbnb.com/rooms/1744449211019019744
+Latitude: 36.1877
+Longitude: -86.8037
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 0
+privacy_radius_meters: 0
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: EXACT
+bedrooms: 4
+beds: 12
+occupancy: 12
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Have fun with your whole group enjoying rustic country charm with no lack of modern amenities. Located just over 2 miles from Nashville’s bustling stretch of Broadway. Nestled in a quiet community with ample indoor spaces for most any activities, gatherings and areas for quiet repose.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Brian
+Host User ID: 522415787
+Host Profile URL: https://www.airbnb.com/users/show/522415787
+Host Profile URL Source: public user permalink from passport userId
+I’m Brian, I enjoy nature and everything outdoors.
+Response rate: 100%
+Responds within an hour
+Superhost
+3 years hosting
+401 reviews
+4.97 out of 5 average rating
+3 years of hosting

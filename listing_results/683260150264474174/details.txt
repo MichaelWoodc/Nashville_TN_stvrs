@@ -1,0 +1,75 @@
+URL: https://www.airbnb.com/rooms/683260150264474174
+Latitude: 36.15902
+Longitude: -86.80613
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 5
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Part of the brand-new community at The 1865, this stylish condo promises a uniquely luxurious Nashville experience. Host a cookout by the dipping pool, then watch the stars come out on the observation deck!
+
+The space
+We are proud to say this property is thoroughly cleaned and disinfected after each stay according to the protocols set forth by the CDC. 
+
+This spot was both thoughtfully and functionally designed. 
+
+✔ High-Speed Wi-Fi
+✔ Air Conditioning
+✔ Heating
+✔ Free Parking
+
+The oldest non-repurposed commercial structure in Nashville, this gorgeously updated property includes distinctive details like original graffiti on exposed brick, pipes, and beams. Located in the historic building, your condo features designer furnishings and lovely natural light.
+
+Indulge your inner chef in the sleek kitchen, equipped with a full suite of stainless steel appliances. Extra perks include central AC and a private washer/dryer.
+
+BEDROOM & BATHROOM
+
+This 1BD/1BA home features plenty of space to gather and relax.
+The bedroom features a full bed, accommodating 2 people.
+
+We also provide a single roll-away bed for additional sleeping as well as the sofa in the living room. 
+
+There is one full bathroom with a stand-up shower.
+
+HOME AMENITIES:
+WiFi
+Smart TVs
+Basic Amenities (paper products, soaps, trash bags, etc)
+Linens Provided
+Stocked Kitchen
+
+BUILDING AMENITIES:
+Outdoor dipping pool and poolside loungers
+Outdoor kitchen with two gas grills, four large TVs, and a firepit
+Top-floor observation deck with skyline-view lounge
+Fitness room
+Gated and controlled access
+
+Guest access
+Free parking is available inside the gated property of The 1865. There is a keypad entry to The 1865 building, and for the condo as well. An elevator provides easy access to each floor.
+
+Other things to note
+This complex is located near a railway, and passing trains may occasionally be heard.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Bryan
+Host User ID: 468435666
+Host Profile URL: https://www.airbnb.com/users/show/468435666
+Host Profile URL Source: public user permalink from passport userId
+Response rate: 100%
+Responds within an hour
+4 years hosting
+119 reviews
+4.63 out of 5 average rating
+4 years of hosting

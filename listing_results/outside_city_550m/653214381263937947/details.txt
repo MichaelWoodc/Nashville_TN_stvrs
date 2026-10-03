@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/653214381263937947
+Latitude: 36.3144
+Longitude: -86.63187
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Hendersonville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Just 20 minutes from Nashville, this private basement Airbnb offers a spacious game room with a pool table, foosball, and darts. Step outside your door to unwind in the hot tub, or enjoy a night in with plenty of board games.  Full description ⬇️
+
+The space
+The Airbnb is located in the basement of our family home 🏠 You will enter through a private and separate door from the main house!  
+
+MAXIMUM GUESTS
+Maximum occupancy is 4 guests at all times. No parties or additional visitors allowed. Reservations exceeding 4 guests will be canceled.
+
+LAYOUT
+This space is one large open area with no separate bedrooms. It is a finished basement and works best for close-knit couples, families, or small groups who are comfortable sharing an open space.
+
+SLEEPING ARRANGEMENTS 
+• Queen-size Murphy bed
+• Large sectional couch
+• Leather couch that folds down into a floor bed (best suited for one adult)
+
+*As a house rule, we maintain a pet-free home*
+
+Guest access
+Guests have access to the basement, back patio, and backyard during their stay. The remainder of the home is private.
+
+Other things to note
+PLEASE CONSIDER: This is a family home with young children upstairs, so you will hear daytime noise from running and playing. Most guests don’t find it bothersome, but it’s something to keep in mind before booking if you’re looking for a completely quiet stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Hailey
+Host User ID: 426528285
+Host Profile URL: https://www.airbnb.com/users/show/426528285
+Host Profile URL Source: public user permalink from passport userId
+Speaks English
+Lives in Hendersonville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+4 years hosting
+286 reviews
+4.92 out of 5 average rating
+4 years of hosting

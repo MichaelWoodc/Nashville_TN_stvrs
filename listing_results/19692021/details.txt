@@ -1,0 +1,57 @@
+URL: https://www.airbnb.com/rooms/19692021
+Latitude: 36.22061
+Longitude: -86.73348
+rental_type: Entire guest suite
+property_type: PRIVATE_SUITE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 1
+beds: 1
+occupancy: 2
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Newly renovated! There's room to spread out in this guest suite for 2.
+
+5-10 min walk to lots of neighborhood bars/restaurants, a coffee shop and a bus route  to Downtown.
+
+Explore Nashville during the day, but get a quiet nights rest in a peaceful neighborhood.
+
+Close to the highways that take you everywhere! 10 mins to downtown, 10 mins to the Opry, and 17 mins to the airport. Off street parking.
+
+Please read all the house rules before booking, to make sure the apartment is a good fit for you.
+
+The space
+This 400 sq ft, guest suite has been decorated to create a relaxing space - perfect if you need to work, or just want to enjoy a getaway. There is a large sleeping/living area, large bathroom and a kitchenette/dining area including coffee/tea, microwave, mini fridge and toaster. There is also a private deck for you to enjoy and off street parking.
+
+Guest access
+The apartment is attached to the rest of the house but is completely self contained, with your own entrance, bathroom, kitchenette, table/work area and outside deck. The door to the rest of the house remains locked.
+
+Other things to note
+Although I am close to lots of amenities, I live on a quiet street and would ask that guests be courteous to my neighbors, especially if you are planning to arrive/return to the apartment after 10pm.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Susan
+Host User ID: 9638563
+Host Profile URL: https://www.airbnb.com/users/show/9638563
+Host Profile URL Source: public user permalink from passport userId
+Hello! I'm English born, Nashville based creative who loves music and gardening. In my singer/songwriter days I opened for Tony Bennett, Damien Rice and worked with Sarah McLachlan, but my most treasured memory was playing a show in Folsom Prison.
+
+Nashville has been my home for 11 years but I've also lived in New York, Belfast and England.
+
+I love hosting guests in my home and am currently building a garden to make the space even more relaxing!
+Speaks English
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+9 years hosting
+745 reviews
+4.96 out of 5 average rating
+9 years of hosting

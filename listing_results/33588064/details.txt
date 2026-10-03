@@ -1,0 +1,49 @@
+URL: https://www.airbnb.com/rooms/33588064
+Latitude: 36.1838
+Longitude: -86.7723
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 3
+beds: 8
+occupancy: 10
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+You’ll have the entire place to yourself, plus:
+● FREE private off-street parking
+● A private backyard with dining area, privacy fence, and cozy fire pit — perfect for evenings with friends
+● 2 beautiful in-room vanities for getting ready with ease
+● Entertainment for everyone: Smart TV (Hulu, Netflix, Prime), Bluetooth speaker, and super-fast WiFi
+● Full-size washer and dryer for longer stays
+● >2miles to Broadway
+Guest Access: Keyless entry for a smooth, secure, and stress-free arrival.
+
+Guest access
+Keyless entry for easy and secure entry.
+
+Registration Details
+2019019656
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Michael Timothy
+Host User ID: 74537105
+Host Profile URL: https://www.airbnb.com/users/show/74537105
+Host Profile URL Source: public user permalink from passport userId
+Hello Friends! 
+My name is Mike, I want to welcome you to my home! I've spent most of my life traveling the world as a musician and an audio engineer. Staying in everything from 5-star resorts to a stranger's couch (not recommended!). Through those experiences, I have developed a passion for the perfect guest experience. This wide array of experiences has taught me what really matters when creating the perfect stay. I can't wait to show you!
+Lives in Nashville, Tennessee
+Response rate: 100%
+Responds within an hour
+Superhost
+7 years hosting
+213 reviews
+4.76 out of 5 average rating
+7 years of hosting

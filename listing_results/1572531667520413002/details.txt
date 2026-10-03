@@ -1,0 +1,50 @@
+URL: https://www.airbnb.com/rooms/1572531667520413002
+Latitude: 36.3637
+Longitude: -86.853
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Goodlettsville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 4
+beds: 9
+occupancy: 14
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to the Cottage in the Hill! 
+
+Just 20 minutes from downtown, the cottage is buried in the side of a hill and nestled on 5 beautiful acres with a fully fenced yard. It will take you back in time with its charm!
+Outdoors you’ll find a 700-square-foot patio with a covered deck, perfect for coffee at sunrise, grilling, & nights spent around the gas fire pit. Whether you're planning a romantic getaway, or a holiday with family, the cottage is your perfect stay!
+
+The space
+The Cottage is central to Nashville and all it offers as it is directly off of HWY 24. Just a 25 minute drive to BNA Airport. The neighborhood is extremely safe and although it's only 20 min from Nashville, it feels like you're in TN countryside.
+The exterior offers 2 fully fenced yards, a grill and propane fire pit for cold winter nights. There is also an indoor electric fireplace that can be used for ambiance or heat! Whether you want to spend the day on Nashville's Broadway, or explore around Nashville, this location makes it easy and practical for both. The woods are free to explore! 
+
+The property has two stories!
+
+The first floor has - 1 king room and a room with two queen beds. 
+
+The second floor has - 1 king room with a toddler bed and a room with 4 twin beds & a full pull-out sofa - perfect for large groups.
+
+Guest access
+There is a keypad on the main entrance for guest access.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Johannah
+Host User ID: 92532918
+Host Profile URL: https://www.airbnb.com/users/show/92532918
+Host Profile URL Source: public user permalink from passport userId
+My work: Property Management
+Lives in Nashville, Tennessee
+Response rate: 87%
+Responds within an hour
+10 years hosting
+665 reviews
+4.76 out of 5 average rating
+10 years of hosting

@@ -1,0 +1,35 @@
+URL: https://www.airbnb.com/rooms/1692788829905517171
+Latitude: 36.192820507599464
+Longitude: -86.76434677052153
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 2
+occupancy: 4
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to The Nash Hideaway, a newly built 2-bedroom guesthouse in East Nashville. Thoughtfully designed with vaulted wood ceilings, a full kitchen, cozy living space and a door opening to the balcony. Enjoy your own private, peaceful retreat while staying close to East Nashville’s restaurants, coffee shops and local favorites, with easy access to downtown. Perfect for couples, friends, families or longer stays.
+
+Registration Details
+2026034905
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Gabriela
+Host User ID: 23288531
+Host Profile URL: https://www.airbnb.com/users/show/23288531
+Host Profile URL Source: public user permalink from passport userId
+Hi there! Gabi — a mom, traveler, and food lover. I usually travel with my baby and husband, and we enjoy calm, cozy spaces and exploring local experiences. I’m a considerate and organized guest who always takes great care of any place I stay.
+Where I went to school: Centro Edicacional Guarapari
+Speaks English, Portuguese, and Spanish
+Response rate: 100%
+Responds within an hour
+New Host

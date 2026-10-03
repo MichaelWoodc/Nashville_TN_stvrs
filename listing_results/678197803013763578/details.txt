@@ -1,0 +1,40 @@
+URL: https://www.airbnb.com/rooms/678197803013763578
+Latitude: 36.24434
+Longitude: -86.73672
+rental_type: Entire condo
+property_type: CONDOMINIUM
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 2
+beds: 3
+occupancy: 6
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to Nashville!!  Two bedroom corner home with rooftop deck.  10 Minutes away from  BNA airport, Opryland, The Grand Old Opry and the famous downtown Broadway.  This home has 2 bedrooms/2.5 baths with extra sleeping space on the queen size sleeper sofa.  Minutes from restaurants and shopping.
+
+The space
+The kitchen opens up into the living room with a small four person table with chairs.  There are four bar chairs at the countertop in the kitchen.  The second floor is the master bedroom with your own en-suite bathroom and the second bedroom with a full bathroom right outside the door.  The top floor is the rooftop with a fire pit with seating for four along with a table with an umbrella for shade and chairs for four too
+
+Guest access
+You will have the whole condo to yourself
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Stephanie
+Host User ID: 160520239
+Host Profile URL: https://www.airbnb.com/users/show/160520239
+Host Profile URL Source: public user permalink from passport userId
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+4 years hosting
+66 reviews
+4.92 out of 5 average rating
+4 years of hosting

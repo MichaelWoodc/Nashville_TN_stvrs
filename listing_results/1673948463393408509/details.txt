@@ -1,0 +1,58 @@
+URL: https://www.airbnb.com/rooms/1673948463393408509
+Latitude: 36.19948986113411
+Longitude: -86.84286630012866
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 6
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Renovated 3BR/1BA cottage in North Nashville with stunning hilltop views. Featuring a modern interior with 5 total beds (3 Full, 2 Twin), this home is perfectly situated just 5-7 minutes from Downtown, Germantown, and Nissan Stadium. Enjoy a quiet residential escape with easy access to all of Nashville’s top attractions. Professionally managed with high-end finishes and a fully equipped kitchen. Ideal for groups, families, or long-term stays.
+
+The space
+BEDROOMS:
+This home offers flexible sleeping for up to 8 guests:
+
+Primary Bedroom: 2 Full Beds
+
+Guest Bedroom: 1 Full Bed
+
+Family Room: 2 Twin Beds
+
+BATHROOM:
+One full-sized, professionally cleaned bathroom with updated fixtures.
+
+LIVING & DINING:
+The spacious living area is flooded with natural light. The kitchen is stocked with all the essentials, including cooking oils and coffee supplies, making it easy to settle in and feel at home.
+
+Guest access
+Kick back, relax and get comfortable! With Best Stay, you’re always renting the entire house. You’ll have the place all to yourself & feel like you're at your home away from home!
+
+Other things to note
+We welcome you to stay with us for one night, month to month, or even up to 6 months if needed. We are here to serve our guests and are making special exceptions given the current circumstances. 
+
+It is our top priority to provide a safe and comfortable space for everyone and we would like to thank you in advance for putting your trust in us as you plan your stay.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: McKenzie
+Host User ID: 367489105
+Host Profile URL: https://www.airbnb.com/users/show/367489105
+Host Profile URL Source: public user permalink from passport userId
+Born in the 90s
+My work: Pro Host
+Response rate: 100%
+Responds within an hour
+6 years hosting
+1228 reviews
+4.59 out of 5 average rating
+6 years of hosting

@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1634068462804860889
+Latitude: 36.20797
+Longitude: -86.76566
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 2
+beds: 8
+occupancy: 10
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Enjoy a stylish and spacious Nashville retreat perfect for group trips, family getaways, and celebrations. This modern home comfortably sleeps 10 guests and features a bright open living room, unique colorful design, cozy bunk beds ideal for groups, and a fully equipped kitchen for cooking and gathering. Located just minutes from Downtown Nashville and Broadway, you’ll be close to the city’s best, restaurants, bars, and nightlife while enjoying a comfortable and memorable stay in Music City.
+
+The space
+This stylish Nashville home is designed for comfort, space, and group stays. The open layout features a bright living room with comfortable seating, a large TV, and modern décor. Guests can enjoy a fully equipped kitchen, dining area, and thoughtfully designed bedrooms including bunk beds ideal for groups. The home comfortably sleeps up to 10 guests, making it perfect for family trips, celebrations, and weekend getaways in Music City.
+
+Guest access
+Guests have full access to the entire home during their stay including the living room, kitchen, bedrooms, bathrooms, and outdoor areas. The property is self check-in with a smart lock, allowing convenient and flexible arrival. Free parking is available on the property.
+
+Other things to note
+• Exterior Ring camera at the front entrance for security
+• No cameras inside the home
+• Please respect neighbors and keep noise levels reasonable
+• No parties or events unless approved
+• Check-in and check-out instructions will be provided before arrival
+
+Registration Details
+2019067437
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Mlate
+Host User ID: 598846328
+Host Profile URL: https://www.airbnb.com/users/show/598846328
+Host Profile URL Source: public user permalink from passport userId
+My work: hospitality
+For guests, I always: Make sure everything feels like home
+Response rate: 100%
+Responds within an hour
+Superhost
+1 year hosting
+42 reviews
+4.76 out of 5 average rating
+1 year of hosting

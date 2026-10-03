@@ -1,0 +1,69 @@
+URL: https://www.airbnb.com/rooms/53898800
+Latitude: 36.12996
+Longitude: -86.78833
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 4
+beds: 7
+occupancy: 12
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Welcome to your Nashville sanctuary! This spacious 5BR/3BA bungalow in the heart of 12 South sleeps large groups comfortably. Step outside and you're  just blocks from incredible dining, craft cocktails, and boutique shopping. Downtown Nashville and legendary Lower Broadway are just 6min away—a quick Uber ride to world-class live music and entertainment. Perfect for families, friends, or corporate retreats. Experience the charm of a local neighborhood with all of Music City at your fingertips!
+
+Other things to note
+PROPERTY DESCRIPTION:
+Experience the ultimate Nashville getaway! Whether you're traveling for business or pleasure, our charming 1920's bungalow is the perfect choice for an unforgettable stay in Music City. With ample space to accommodate large families, couples, or groups, our beautifully renovated home promises to be a delightful retreat for all.
+Nestled in the coveted 12 South neighborhood, just minutes from downtown Nashville, our prime location ensures you're in the heart of the action. Don't miss the opportunity to immerse yourself in all that Nashville has to offer—book your stay with us today and let the fun begin!
+
+THE SPACE:
+Welcome to our beautifully renovated 1920's home, offering 3,600 square feet of comfortable living space. Step inside and enjoy the charm of hardwood floors and lofty ceilings throughout. With five bedrooms, three full bathrooms, and a mud/shower room, there's plenty of room for everyone.
+The basement features a fun game room with ping pong and pool tables—perfect for friendly competition. Outside, you'll find a lovely patio with upper and lower decks, ideal for relaxation and outdoor dining. Gather around the fire pit with plenty of complimentary firewood for cozy evenings under the stars.
+
+THE NEIGHBORHOOD:
+The home is walkable to multiple restaurants, coffee shops, and bars, and downtown Nashville is just a 6-minute Lyft/Uber ride away.
+
+A short walk to our local favorites include:
+
+Edley's BBQ (our personal favorite!)
+Locust (This is a Michelin Star food experience you will never forget!)
+12 South Taproom and Grill (for the beer lover)
+Fryce Cream 
+Fonda
+Epice
+Postino's
+Urban Grub (a fantastic Steak House but much much more.)
+The Henery
+Mesero 
+Buttermilk Ranch (best breakfast in town)
+Sushi-San
+Five Daughters Bakery (best donut you'll ever have) 
+Bartaco
+Burger UP
+
+Come experience the charm of our 1920's bungalow in the heart of 12 South—your Nashville home away from home awaits!
+
+ADDITIONAL INFORMATION:
+Early check-in and late checkout available for $50/hour (subject to availability).
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: James
+Host User ID: 363395088
+Host Profile URL: https://www.airbnb.com/users/show/363395088
+Host Profile URL Source: public user permalink from passport userId
+Born in the 60s
+Where I went to school: AFI in LA
+Response rate: 100%
+Responds within an hour
+5 years hosting
+7 reviews
+4.86 out of 5 average rating
+5 years of hosting

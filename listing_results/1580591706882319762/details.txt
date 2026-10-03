@@ -1,0 +1,51 @@
+URL: https://www.airbnb.com/rooms/1580591706882319762
+Latitude: 36.15569
+Longitude: -86.83555
+rental_type: Entire home
+property_type: HOUSE
+native_radius_meters: 500
+privacy_radius_meters: 500
+radius_source: mapMarkerRadiusInMeters
+is_exact_location: False
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: APPROX
+bedrooms: 3
+beds: 3
+occupancy: 6
+fields_status: complete
+----------------------------------------
+=== ABOUT THIS SPACE ===
+Spacious Nashville Retreat – Only 10 Minutes from Broadway!
+
+Experience the best of Nashville with quick access to downtown attractions, then relax in your peaceful, comfortable home. Enjoy $10 Uber/Lyft rides to Broadway, Demonbreun, Bridgestone Arena, Nissan Stadium, and live music venues. Featuring a fully equipped kitchen and convenient location—just 11 miles from BNA Airport and 4 miles from Downtown Broadway—this is your perfect Nashville getaway!
+
+The space
+Ultimate Comfort & Convenience – 3BR, 2.5BA in Nashville!
+Relax in style with 1 king bed, 2 queen beds, and a cozy living room sofa. Enjoy easy parking on the pad behind the house or on the street. The fully equipped kitchen includes a stove, oven, microwave, toaster, and coffee maker for your morning brew. Your ideal Nashville getaway starts here!
+
+> Laundry Facilities: Enjoy the convenience of a washer and dryer within the condo for your laundry needs.
+> Linens and Toiletries: We've got you covered with provided linens, towels, shampoo, conditioner, and soaps.
+> Essentials for Your Stay: Toilet paper, paper towels, trash bags, and dish pods are provided for your stay. Please note that we do not replenish these items during longer stays.
+> Coffee for Your Enjoyment: Coffee grounds are provided for your use. Brew a fresh cup to kickstart
+
+Guest access
+Guests enjoy exclusive access to the entire home.
+
+Other things to note
+We can not guarantee early check in. We allow early check in if the house is available and ready. Please message the day prior to your arrival to see if early check in is a possibility.
+
+~ House Rules~
+-No GLITTER on the property.
+-Avoid taping decorations to the walls; guests are responsible for any wall paint repairs.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Chris
+Host User ID: 440360756
+Host Profile URL: https://www.airbnb.com/users/show/440360756
+Host Profile URL Source: public user permalink from passport userId
+I’m Chris. I co-host awesome Airbnbs in Nashville and several other parts of the country! Find me on IG @boost.rentals
+Born in the 80s
+Where I went to school: Purdue University & Indiana University
+5 years hosting

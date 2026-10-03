@@ -1,0 +1,39 @@
+URL: https://www.airbnb.com/rooms/44641875
+Latitude: 36.18207
+Longitude: -86.7465
+rental_type: Entire guesthouse
+property_type: GUESTHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: False
+is_location_verified: True
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 1
+beds: 2
+occupancy: 3
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+In the heart of East Nashville's historic Lockeland Springs neighborhood, less than a 5 minute walk to the restaurants and shops in one of Nashville's most trendy areas - 5 Points, you will find this one bedroom/ one bath cozy cottage a perfect location for your next visit to Nashville. Private parking, private entrance to the apartment, queen bed and sofa/ twin bed, full bath with walk-in shower, balcony and fully equipped kitchen!
+
+The space
+null.
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Millie
+Host User ID: 3433181
+Host Profile URL: https://www.airbnb.com/users/show/3433181
+Host Profile URL Source: public user permalink from passport userId
+Nashville TN...love to travel anywhere and see a place like the locals do!
+Born in the 70s
+Speaks English
+Response rate: 100%
+Responds within an hour
+Superhost
+6 years hosting
+376 reviews
+4.99 out of 5 average rating
+6 years of hosting

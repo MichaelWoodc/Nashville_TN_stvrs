@@ -1,0 +1,79 @@
+URL: https://www.airbnb.com/rooms/960157988463588433
+Latitude: 36.1476
+Longitude: -86.7663
+rental_type: Entire townhouse
+property_type: TOWNHOUSE
+native_radius_meters: None
+privacy_radius_meters: None
+radius_source: None
+is_exact_location: True
+is_location_verified: False
+location_name: Nashville, Tennessee, United States
+map_marker_type: None
+bedrooms: 6
+beds: 9
+occupancy: 16
+fields_status: missing: privacy_radius_meters, map_marker_type
+----------------------------------------
+=== ABOUT THIS SPACE ===
+🏕️ Welcome to Basecamp Nashville, your home base in Music City.
+Two Homes | Sleeps 20 | Near Broadway | Built for Groups 
+
+Welcome to Basecamp Nashville! Your home base for every Nashville adventure, with two side-by-side homes that comfortably sleep up to 20 guests. Enjoy a private hot tub, two full kitchens, spacious gathering areas, and an unbeatable location just minutes from Broadway.
+
+The space
+Highlights ✨
+~ Two side-by-side homes, just minutes from Broadway
+~ Sleeps up to 20 guests across 6 bedrooms, 5 bathrooms, and 8 beds
+~ Private hot tub, outdoor deck, dining space, seating, and grill
+~ Two fully equipped kitchens with large islands, stainless steel appliances, and coffee on us ☕
+~ Two spacious living areas with Smart TVs, perfect for gathering with your group
+~ Memory foam mattresses and premium touches throughout
+
+Around Nashville 🎸
+~ Broadway Downtown Nashville just a short drive away for live music, and nightlife
+~ Frothy Monkey our go-to spot for coffee lovers. Grab a coffee before heading out to explore the city
+~ 12 South one of Nashville s most popular neighborhoods for shopping, murals, good food, and a laid-back afternoon out
+~ The Gulch rooftop bars, trendy restaurants, and a more elevated night out
+~ Nashville classics like Tootsies and Robert s Western World because no trip to Nashville is complete without a stop on Broadway
+~ Trader Joe s and Kroger nearby for easy grocery runs before chef mode is activated
+
+The Essentials 🌿
+~ Premium full-size bath products in every bathroom
+~ Starter supply of paper towels, toilet paper, dish soap, laundry pods, and more
+~ Complimentary coffee grounds from Nashville favorite, The Well ☕
+~ Washer and dryer
+~ Private parking with gated carport and additional street parking available
+
+Guest access
+Nice to meet y'all! We're Kalos Dwellings - we're two husband and wife duos, but best friends above all. We're Nashville locals and here to serve. We're happy to host you and invite you into our little corner of Nashville. 
+
+Kick back, relax and get comfortable!  You’ll have the houses all to yourself and feel like you're at your home away from home!
+
+Other things to note
+Check In + Parking 🔑
+~ Check-in is simple and contactless with self check-in! Before arrival, your group will receive a personalized access code
+~ You ll have full access to both homes for the entire duration of your stay
+~ Parking is located behind Basecamp and is accessed through the alleyway for easy in-and-out access
+~ There is a gated private carport with the home s address that fits up to 2 vehicles and keeps them secure during your stay
+~ Additional street parking is available along the side of Basecamp for any extra cars in your group
+
+This home is proudly managed by Kalos Dwellings. We re happy to share our favorite Nashville spots, answer any questions you have, and help make your stay at Basecamp one to remember. Don t hesitate to reach out, we re always happy to help!
+
+----------------------------------------
+=== HOST DETAILS ===
+Host Name: Kalos Dwellings
+Host User ID: 351901804
+Host Profile URL: https://www.airbnb.com/users/show/351901804
+Host Profile URL Source: public user permalink from passport userId
+Hi, I'm Sarah and I am one of the co-founders of Kalos Dwellings along with my husband, Dustin, and our best friends, Aaron and Tara.  
+Our entire team of hosts are here for anything you need during your stay!
+My work: Kalos Dwellings
+Fun fact: We are family owned and operated.
+Response rate: 100%
+Responds within an hour
+Superhost
+5 years hosting
+4961 reviews
+4.92 out of 5 average rating
+5 years of hosting
