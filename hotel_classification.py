@@ -16,14 +16,26 @@ NAME = re.compile(r'\b(?:' + BRANDS + '|' + LOCAL + r')\b', re.I)
 HOTEL = re.compile(r'\b(?:hotels?|aparthotel|apart-hotel|boutique hotel|motel|resort)\b', re.I)
 CONTEXT = re.compile(r'\b(?:near(?:by)?|close to|next to|across from|from|away|walk to|minutes? to|miles? to|visit|unlike|better than|instead of|not (?:a|an)|(?:hotel|resort)[- ](?:style|quality|vibes|like)|similar to|your dream|comforts of home|elevation of a hotel|expecting|hotel room experience|like a hotel|conference|day.pass|limozeen|florida|resort[- ](?:pool|amenities|living|vibes)|horse hotel|heartbreak hotel)\b', re.I)
 
-def classify_hotel(row, reports=None):
+def classify_hotel(row, reports=None, not_hotel_tips=None):
     # Explicit accommodation identity wins over hotel branding or comparisons.
     for field in ('rental_type', 'property_type', 'room_type', 'accommodation_type', 'title', 'name'):
         if re.search(r'\btiny[\s_-]*(?:home|house)s?\b', str(row.get(field, '')), re.I):
             return {'likely_hotel': False, 'hotel_evidence': []}
+    explicit_room = any(re.search(r'\bhotel[ _-]*room\b|\broom in (?:a |boutique )?hotel\b', str(row.get(k, '')), re.I) for k in ('rental_type', 'room_type', 'property_type', 'accommodation_type'))
+    if not_hotel_tips and not explicit_room:
+        return {'likely_hotel': False, 'hotel_evidence': [], 'hotel_source': 'user_submitted_not_hotel'}
     if reports:
         return {'likely_hotel':True, 'hotel_evidence':[{'field':r['source'], 'rule':'hotel_submission', 'evidence':r.get('hotel_name') or 'User submitted hotel identification', **r} for r in reports], 'hotel_reports':reports, 'hotel_source':'user_submitted' if any(r['source']=='user_submitted' for r in reports) else 'manual'}
     evidence = []
+    for field, raw in row.items():
+        key = field.lower().replace(' ', '_')
+        if key not in ('title', 'name', 'rental_type', 'property_type', 'room_type', 'accommodation_type', 'location_name', '_hotel_text') and 'description' not in key:
+            continue
+        text = unicodedata.normalize('NFKC', str(raw or '')).split('=== HOST DETAILS ===')[0]
+        match = re.search(r'\binn\b', text, re.I)
+        if match:
+            evidence.append({'field': field, 'match': match.group(), 'rule': 'inn_default', 'evidence': 'Inn mentioned in listing; default hotel classification. ' + text[max(0, match.start()-80):match.end()+120].strip()})
+            break
     # User-supplied override: AvantStay Nashville listings mentioning SoBro.
     # Do not use the host biography, which can describe unrelated properties.
     host = ' '.join(str(row.get('host_name', '')).split()).casefold()

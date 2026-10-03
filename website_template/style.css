@@ -95,3 +95,12 @@ body.dark-mode .host-metric .host-cap-number{color:#fca5a5}
 .maplibregl-popup-content details{margin:8px 0;padding-top:6px;border-top:1px solid #94a3b844}.maplibregl-popup-content summary{cursor:pointer;font-weight:600}.maplibregl-popup-content details[open]>summary{margin-bottom:8px}
 
 #cookiePrompt{position:fixed;z-index:3000;bottom:16px;left:50%;transform:translateX(-50%);width:min(520px,calc(100vw - 40px));padding:16px;background:white;color:#172b3b;border:1px solid #94a3b8;border-radius:8px;box-shadow:0 4px 24px #0004}#cookiePrompt[hidden]{display:none}#cookiePrompt p{margin-top:0;font-size:14px}#cookiePrompt button{padding:8px 18px}
+
+
+
+
+.maplibregl-popup.map-card-centered{position:fixed!important;left:50%!important;right:auto!important;top:calc((100vh + 64px - var(--map-footer-height,120px))/2)!important;bottom:auto!important;transform:translate(-50%,-50%)!important;transition:left 280ms ease,transform 280ms ease;max-width:min(380px,calc(100vw - 24px))!important;max-height:calc(100vh - var(--map-footer-height,120px) - 84px)!important;z-index:1001!important;overflow:hidden}
+.map-card-centered .maplibregl-popup-tip{display:none}.map-card-centered .maplibregl-popup-content{border:2px solid #000;box-sizing:border-box;max-height:calc(100vh - var(--map-footer-height,120px) - 84px)!important;overflow-y:auto}body.dark-mode .map-card-centered .maplibregl-popup-content{border-color:#fff}
+#reportDialog.candidate-map-preview{position:fixed;margin:0;left:50%;right:auto;top:50%;bottom:auto;transform:translate(-50%,-50%);width:min(760px,calc(100vw - 32px));max-height:80vh;box-sizing:border-box;border:2px solid #000;transition:left 280ms ease,transform 280ms ease,width 280ms ease}body.dark-mode #reportDialog.candidate-map-preview{border-color:#fff}
+@media(min-width:1000px){.maplibregl-popup.map-card-centered.preview-docked{left:12px!important;transform:translate(0,-50%)!important}#reportDialog.candidate-map-preview.preview-docked{left:12px;transform:translate(0,-50%);width:380px}#reportDialog.candidate-map-preview.preview-docked::backdrop{background:transparent}}
+@media(prefers-reduced-motion:reduce){.maplibregl-popup.map-card-centered,#reportDialog.candidate-map-preview{transition:none}}

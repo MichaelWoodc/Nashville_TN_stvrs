@@ -347,9 +347,13 @@ def build(root=ROOT, output=None, as_of=None):
     output.mkdir(parents=True, exist_ok=True)
     permits, by_number = load_permits(root, as_of)
     rows, repairs, warnings = collect_listings(root, root/'.nashville_cache/listing_scan.json')
-    from hotel_submissions import load_hotels
+    import importlib, hotel_classification
+    importlib.reload(hotel_classification)
+    from hotel_classification import classify_hotel
+    from hotel_submissions import load_hotels, load_not_hotels
     hotels = load_hotels(root)
-    for lid in hotels:
+    not_hotels = load_not_hotels(root)
+    for lid in set(hotels)|set(not_hotels):
         rows.setdefault(lid, {'listing_id':lid, 'url':f'https://www.airbnb.com/rooms/{lid}'})
     from city_scope import partition_city_rows
     rows, excluded_count = partition_city_rows(root, output, rows)
@@ -377,7 +381,9 @@ def build(root=ROOT, output=None, as_of=None):
                          'title': row.get('title', ''), 'host_name': row.get('host_name', ''),
                          'host_user_id': str(row.get('host_user_id', '')), 'host_profile_url': row.get('host_profile_url', ''),
                          'rental_type': row.get('rental_type', ''),
-                         **classify_hotel(row, hotels.get(lid)),
+                         **classify_hotel(row, hotels.get(lid), not_hotels.get(lid)),
+                         'explicit_hotel_room': any(re.search(r'\bhotel[ _-]*room\b|\broom in (?:a |boutique )?hotel\b',str(row.get(k,'')),re.I) for k in ('rental_type','room_type','property_type','accommodation_type')),
+                         'not_hotel_tips': not_hotels.get(lid, []),
                          'point': point(row.get('longitude'), row.get('latitude')), 'location_name': row.get('location_name', ''),
                          'privacy_radius_meters': number(row.get('privacy_radius_meters')),
                          'bedrooms': number(row.get('bedrooms')), 'guests': number(row.get('occupancy')),
@@ -443,8 +449,11 @@ def build(root=ROOT, output=None, as_of=None):
 def input_signature(root):
     from hotel_submissions import refresh_public
     refresh_public(root)
+    refresh_public(root, not_hotel=True)
     paths = [root/'listing_details.csv', root/'listing_urls.csv', root/'permit_number_crosswalk.csv']
-    paths += [root/'hotels.csv', root/'hotel_sources.json']
+    not_hotel_cache=root/'.nashville_cache/not_hotel_submissions.json'
+    not_hotel_content=json.loads(not_hotel_cache.read_text(encoding='utf-8')).get('rows',[]) if not_hotel_cache.exists() else []
+    paths += [root/'hotels.csv', root/'hotel_sources.json', root/'hotel_classification.py']
     # Response content, rather than poll time, controls rebuilds.
     hotel_cache = root/'.nashville_cache/hotel_submissions.json'
     hotel_content = json.loads(hotel_cache.read_text(encoding='utf-8')).get('rows', []) if hotel_cache.exists() else []
@@ -453,7 +462,7 @@ def input_signature(root):
     paths += list((root/'data/parcels').glob('*.json')) + list((root/'data/parcels').glob('*.geojson'))
     paths += list((root/'geography').glob('*.geojson'))
     paths += [root/'nicknames-master/names.csv'] + list((root/'listing_results').glob('*/description.txt')) + list((root/'listing_results').glob('*/metadata.json')) + list((root/'listing_results').glob('*/details.txt'))
-    return [(str(p), file_signature(p)) for p in paths if p.is_file()] + [('hotel_responses', hashlib.sha256(json.dumps(hotel_content, sort_keys=True).encode()).hexdigest())]
+    return [(str(p), file_signature(p)) for p in paths if p.is_file()] + [('hotel_responses', hashlib.sha256(json.dumps([hotel_content,not_hotel_content], sort_keys=True).encode()).hexdigest())]
 
 
 def main():

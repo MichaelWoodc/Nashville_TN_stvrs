@@ -13,7 +13,7 @@ const Reporting = (() => {
     if(!bucketCache.has(key))bucketCache.set(key,json(`data/nearby_candidates/${key}.json`).catch(e=>{bucketCache.delete(key);throw e;}));
     const bucket=await bucketCache.get(key), refs=bucket[listing.listing_id]||[];
     const data=await Promise.all([...new Set(refs.map(c=>c.tile))].map(tile));
-    const properties=new Map(data.flatMap(d=>d.features.map(f=>[String(f.properties.id),f.properties])));
+    const properties=new Map(data.flatMap(d=>d.features.map(f=>[String(f.properties.id),{...f.properties,geometry:f.geometry}])));
     return refs.map(c=>({...properties.get(c.id),distance_m:c.distance_m})).filter(c=>c.address&&c.distance_m<=550).sort((a,b)=>a.distance_m-b.distance_m||a.address.localeCompare(b.address));
   }
   async function loadViewport(map) {
@@ -32,7 +32,7 @@ const Reporting = (() => {
     const distances=new Map();for(const p of parcels)if(!distances.has(p.parcel)||p.distance_m<distances.get(p.parcel).distance_m)distances.set(p.parcel,p);
     return window.nashville.permits.map(p=>{
       const parcel=distances.get(p.parcel), d=parcel?.distance_m ?? (p.point?distance(listing.point,p.point):Infinity);
-      return {...p,id:`permit:${p.id}`,permit_id:p.id,owner:p.owner||parcel?.owner||'',parcel_owner:parcel?.owner||'',distance_m:d,distance_basis:parcel?'parcel boundary':'permit point',point:p.point||parcel?.point,
+      return {...p,id:`permit:${p.id}`,permit_id:p.id,owner:p.owner||parcel?.owner||'',parcel_owner:parcel?.owner||'',distance_m:d,distance_basis:parcel?'parcel boundary':'permit point',point:p.point||parcel?.point,preview_point:parcel?.point||p.point,geometry:parcel?.geometry,
         license:p.permit_number||`Nashville permit record ObjectId ${p.id}: ${p.address} (${p.source_status}; permit number unavailable)`};
     }).filter(p=>p.distance_m<=550).sort((a,b)=>a.distance_m-b.distance_m||a.address.localeCompare(b.address));
   }
@@ -44,7 +44,8 @@ const Reporting = (() => {
     return url.toString();
   }
   function select(row) {
-    selected=row;
+    selected=row;pinCandidate(activeListing,row);
+    colorNameMatches(activeListing,activeRows.map(r=>({...r,type:(activeListing.preliminary_matches||[]).find(m=>normalizeParcel(m.parcel)===normalizeParcel(r.parcel))?.type||'distance'})));
     node('reportSelection').textContent=`Selected: ${row.address} · Owner: ${row.owner||'Unavailable'} · ${row.distance_m.toFixed(1)} m from the Airbnb point to the ${row.distance_basis||'parcel boundary'}`;
     node('continueReport').disabled=false;
     renderRows();
@@ -56,15 +57,17 @@ const Reporting = (() => {
     const container=node('reportCandidates');container.replaceChildren();
     for(const row of rows){
       const button=document.createElement('button');button.type='button';button.className='report-candidate'+(selected?.id===row.id?' selected':'');
-      button.innerHTML=`<strong>${escape(row.address)}</strong><span>${row.distance_m.toFixed(1)} m · Parcel ${escape(row.parcel)}</span><span>Owner: ${escape(row.owner||'Unavailable')}</span>${row.permit_id?`<span>Permit ${escape(row.permit_number||'number unavailable')} · ${escape(row.source_status)} · Record ${escape(row.permit_id)}</span>`:''}`;
-      button.onclick=()=>select(row);container.append(button);
+      button.innerHTML=`${candidateBadges(activeListing,row)}<strong>${escape(row.address)}</strong><span>${row.distance_m.toFixed(1)} m · Parcel ${escape(row.parcel)}</span><span>Owner: ${escape(row.owner||'Unavailable')}</span>${row.permit_id?`<span>Permit ${escape(row.permit_number||'number unavailable')} · ${escape(row.source_status)} · Record ${escape(row.permit_id)}</span>`:''}`;
+      bindCandidatePreview(button,activeListing,row);button.onclick=()=>select(row);container.append(button);
     }
     if(!rows.length)container.textContent='No matching candidates within 550 m. Try a different address or owner search.';
   }
   async function open(listing, type='address') {
+    collapseMapPanels();
     const token=++dialogToken;activeListing=listing;selected=null;activeRows=[];
     node('reportType').value=type;node('reportSearch').value='';node('reportSelection').textContent='Select an address or permit below.';node('continueReport').disabled=true;
     node('reportListing').textContent=listing.title||listing.listing_id;node('reportCandidates').textContent='Loading nearby addresses and owners…';node('reportCount').textContent='';
+    node('reportDialog').classList.add('candidate-map-preview');
     if(!node('reportDialog').open)node('reportDialog').showModal();
     try {
       const parcels=await loadCandidates(listing);
@@ -75,6 +78,7 @@ const Reporting = (() => {
   }
   function setup() {
     node('closeReport').onclick=()=>node('reportDialog').close();
+    node('reportDialog').addEventListener('close',resetMatchInteraction);
     node('reportSearch').oninput=renderRows;
     node('reportType').onchange=()=>open(activeListing,node('reportType').value);
     // Normal link navigation only: no Google Form is submitted by this site.

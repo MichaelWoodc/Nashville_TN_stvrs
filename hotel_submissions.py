@@ -16,7 +16,7 @@ def ids(value):
     return list(dict.fromkeys(re.findall(r'(?:https?://)?(?:www\.)?airbnb\.com/rooms/(\d+)', str(value or ''), re.I)))
 
 
-def refresh_public(root, force=False):
+def refresh_public(root, force=False, not_hotel=False):
     from build_nashville import write_json
     config = root/'hotel_sources.json'
     if not config.exists():
@@ -24,7 +24,8 @@ def refresh_public(root, force=False):
     settings = json.loads(config.read_text(encoding='utf-8'))
     if not settings.get('enabled', True):
         return []
-    cache = root/'.nashville_cache/hotel_submissions.json'
+    cache = root/('.nashville_cache/not_hotel_submissions.json' if not_hotel else '.nashville_cache/hotel_submissions.json')
+    if not_hotel and not settings.get('not_hotel_csv_url'):return []
     try:
         saved = json.loads(cache.read_text(encoding='utf-8'))
     except (OSError, ValueError):
@@ -32,7 +33,7 @@ def refresh_public(root, force=False):
     if not force and time.time()-saved.get('checked_at', 0)<settings.get('refresh_seconds', 300):
         return saved.get('rows', [])
     try:
-        with urlopen(settings.get('csv_url', EXPORT), timeout=15) as response:
+        with urlopen(settings.get('not_hotel_csv_url') if not_hotel else settings.get('csv_url', EXPORT), timeout=15) as response:
             text = response.read(5_000_001).decode('utf-8-sig')
         if len(text)>5_000_000 or 'Airbnb.com listing' not in text.splitlines()[0]:
             raise ValueError('Unexpected hotel response CSV; cached responses retained')
@@ -55,4 +56,12 @@ def load_hotels(root):
     for row in refresh_public(root):
         for lid in ids(row.get('Airbnb.com listing', '')):
             registry[lid].append({'source':'user_submitted', 'hotel_name':'', 'proof_url':row.get('Hotel Proof URL',''), 'address':row.get('Address',''), 'source_url':SHEET})
+    return registry
+
+
+def load_not_hotels(root):
+    registry = defaultdict(list)
+    for row in refresh_public(root, not_hotel=True):
+        for lid in ids(row.get('Airbnb.com listing', '')):
+            registry[lid].append({'source':'user_submitted', 'address':row.get('Address',''), 'source_url':'https://docs.google.com/spreadsheets/d/1TplJp9Rh1XZMqLtEqYGl9sKY1tfZuCq9er9H7kPd7P0/edit?gid=464269070'})
     return registry

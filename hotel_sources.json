@@ -1,5 +1,6 @@
 {
   "enabled": true,
   "csv_url": "https://docs.google.com/spreadsheets/d/1ImiJ2rtbhon5-vOfh3AiifrBd6b3tAsIVeW7bnTm8P0/export?format=csv",
-  "refresh_seconds": 300
+  "refresh_seconds": 300,
+  "not_hotel_csv_url": "https://docs.google.com/spreadsheets/d/1TplJp9Rh1XZMqLtEqYGl9sKY1tfZuCq9er9H7kPd7P0/export?format=csv&gid=464269070"
 }

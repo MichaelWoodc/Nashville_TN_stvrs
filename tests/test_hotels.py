@@ -18,3 +18,12 @@ class HotelTests(unittest.TestCase):
     def test_narrative_false_positives(self):
         for text in ['The accommodations are similar to a hotel room', 'White Limozeen at The Graduate Hotel', 'Our Florida resort and beautiful Nashville homes offer it all', 'There is a bar area that has a hotel like set up', 'Day-pass access at the Dive Motel pool']:
             with self.subTest(text=text): self.assertFalse(classify_hotel({'description':text})['likely_hotel'])
+
+    def test_inn_default_and_guest_override(self):
+        row={'title':'Country Inn Steeped in History/Hachland- Poplar #4'}
+        self.assertTrue(classify_hotel(row)['likely_hotel'])
+        self.assertTrue(classify_hotel({'description':'An INN with historic rooms'})['likely_hotel'])
+        self.assertFalse(classify_hotel({'title':'Winning dinner retreat'})['likely_hotel'])
+        self.assertFalse(classify_hotel(row, not_hotel_tips=[{'address':'5396 RAWLINGS RD'}])['likely_hotel'])
+        self.assertTrue(classify_hotel({**row,'room_type':'Hotel room'}, not_hotel_tips=[{'address':'test'}])['likely_hotel'])
+        self.assertFalse(classify_hotel({**row,'rental_type':'Tiny home'})['likely_hotel'])
