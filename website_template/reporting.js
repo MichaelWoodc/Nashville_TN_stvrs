@@ -69,6 +69,7 @@ const Reporting = (() => {
     node('reportListing').textContent=listing.title||listing.listing_id;node('reportCandidates').textContent='Loading nearby addresses and owners…';node('reportCount').textContent='';
     node('reportDialog').classList.add('candidate-map-preview');
     if(!node('reportDialog').open)node('reportDialog').showModal();
+    dockCandidateCard(node('reportDialog')); 
     try {
       const parcels=await loadCandidates(listing);
       if(token!==dialogToken)return;

@@ -15,7 +15,7 @@ const permitGrid = new Map(), addressCache = new Map();
 let currentPermits=[], parcelManifest, addressRequest=0;
 let spatial={available:false}, balance=[], balanceKey=null;
 let selectedListing=null, hoveredPrivacyId=null, selectedPartyCombo='', selectedPartyRequireCapacity=false, pendingHostKey='';
-let licensedParcels=null, activeListingPointIndex=null;
+let licensedParcels=null, permitParcels=null, activeListingPointIndex=null;
 let hostSortKey='total',hostSortDirection='desc';
 const leeway = () => Number($('leeway').value);
 const edgeBuffer = () => Number($('edgeBuffer').value);
@@ -233,8 +233,8 @@ function update() {
   layerVisibility(['heatmap'],$ ('heatmap').checked);
   const displayedPermits=$('historical').checked?permits:currentPermits;
   const nearbyPermits=displayedPermits.filter(p=>p.point&&nearVisibleListing(p.point));
-  sourceData('permit-points',collection($('permits').checked?nearbyPermits.map(p=>feature({type:'Point',coordinates:p.point},{id:p.id,color:p.status==='current'?'#15803d':p.status==='expired'?'#eab308':p.status==='revoked'?'#dc2626':'#a78bfa'})):[]));
-  if(licensedParcels){const nearbyParcels=new Set(nearbyPermits.filter(p=>p.status==='current').map(p=>normalizeParcel(p.parcel)).filter(Boolean));sourceData('parcels',collection($('parcels').checked?licensedParcels.features.filter(f=>!selectedHost||nearbyParcels.has(normalizeParcel(f.properties.parcel))):[]));}
+  sourceData('permit-points',collection($('permits').checked?nearbyPermits.map(p=>feature({type:'Point',coordinates:p.point},{id:p.id,color:p.status==='current'?'#15803d':p.status==='expired'?'#eab308':['revoked','suspended'].includes(p.status)?'#dc2626':'#a78bfa'})):[]));
+  if(permitParcels){const nearbyParcels=new Set(permits.filter(p=>p.point&&nearVisibleListing(p.point)).map(p=>normalizeParcel(p.parcel)).filter(Boolean));sourceData('parcels',collection($('parcels').checked?permitParcels.features.filter(f=>!selectedHost||nearbyParcels.has(normalizeParcel(f.properties.parcel))):[]));}
   const radius=Number($('radius').value);
   $('radiusValue').textContent=`${radius} m`;
   sourceData('coverage',collection($('coverage').checked&&radius>0?currentPermits.filter(p=>nearVisibleListing(p.point)).map(p=>feature(ring(p.point,radius))):[]));
@@ -437,7 +437,7 @@ function resetMatchInteraction(){matchPinned=false;matchContext=null;matchRows=[
 function pinCandidate(listing,row,fit=true){
   row.type=row.type||(listing.preliminary_matches||[]).find(m=>normalizeParcel(m.parcel)===normalizeParcel(row.parcel))?.type||'distance';
   matchPinned=true;matchContext={listing_id:listing.listing_id,parcel:row.parcel};
-  if(window.innerWidth>=1000)previewCard()?.classList.add('preview-docked');
+  dockCandidateCard();
   const card=previewCard();if(card&&!card.querySelector('[data-exit-matches]')){const b=document.createElement('button');b.dataset.exitMatches='';b.textContent='Exit property exploration (Esc)';b.onclick=exitMatchView;(card.querySelector('.maplibregl-popup-content')||card).append(b);}
   previewCandidate(listing,row,fit);BrowserState.schedule();
 }
@@ -452,10 +452,40 @@ function collapseMapPanels(){
 }
 let previewSlideUntil=0,previewFitTimer;
 function previewCard(){return $('reportDialog').open?$('reportDialog'):popup?.getElement();}
+function dockCandidateCard(card=previewCard()){
+  if(!card||window.innerWidth<1000||card.classList.contains('preview-docked'))return;
+  previewSlideUntil=Date.now()+400;
+  card.classList.add('preview-docked');
+}
+document.addEventListener('toggle',event=>{
+  const section=event.target;
+  if(section.tagName!=='DETAILS'||!section.open)return;
+  if(section.querySelector('[data-property-associations],[data-associations]')){
+    dockCandidateCard(section.closest('.map-card-centered'));
+  }
+},true);
+
 function candidateViewPadding(){
-  const viewport=map.getCanvas().getBoundingClientRect(),padding={left:24,right:24,top:48,bottom:24};
-  if(window.innerWidth>=1000){const card=previewCard();if(card)padding.left=Math.min(card.getBoundingClientRect().width+48,viewport.width-120);}
-  return padding;
+  const viewport=map.getCanvas().getBoundingClientRect(),margin=20;
+  const card=previewCard(),content=card?.querySelector('.maplibregl-popup-content')||card;
+  const overlays=[content,...document.querySelectorAll('#filters,.hosts,.maplibregl-ctrl-top-right,.maplibregl-ctrl-bottom-right')].filter(Boolean);
+  let spaces=[{left:margin,right:viewport.width-margin,top:margin,bottom:viewport.height-margin}];
+  for(const element of overlays){
+    const style=getComputedStyle(element),rect=element.getBoundingClientRect();
+    if(style.display==='none'||style.visibility==='hidden'||!rect.width||!rect.height)continue;
+    const obstacle={left:rect.left-viewport.left-margin,right:rect.right-viewport.left+margin,top:rect.top-viewport.top-margin,bottom:rect.bottom-viewport.top+margin};
+    spaces=spaces.flatMap(space=>{
+      if(obstacle.right<=space.left||obstacle.left>=space.right||obstacle.bottom<=space.top||obstacle.top>=space.bottom)return [space];
+      return [
+        {...space,right:Math.min(space.right,obstacle.left)},
+        {...space,left:Math.max(space.left,obstacle.right)},
+        {...space,bottom:Math.min(space.bottom,obstacle.top)},
+        {...space,top:Math.max(space.top,obstacle.bottom)}
+      ].filter(s=>s.right-s.left>40&&s.bottom-s.top>40);
+    });
+  }
+  const best=spaces.sort((a,b)=>(b.right-b.left)*(b.bottom-b.top)-(a.right-a.left)*(a.bottom-a.top))[0];
+  return best?{left:best.left,right:viewport.width-best.right,top:best.top,bottom:viewport.height-best.bottom}:{left:margin,right:margin,top:margin,bottom:margin};
 }
 async function showProperty(property, position){
   if(matchPinned&&matchContext){const listing=listings.find(l=>l.listing_id===matchContext.listing_id);if(listing){const row=matchRows.find(r=>normalizeParcel(r.parcel)===normalizeParcel(property.parcel))||{...property,point:Array.isArray(position)?position:[position.lng,position.lat],type:'distance'};pinCandidate(listing,row);return;}}
@@ -482,7 +512,7 @@ function candidateBadges(listing,row){
   const matches=(listing.preliminary_matches||[]).filter(m=>normalizeParcel(m.parcel)===normalizeParcel(row.parcel)).sort(associationOrder);
   const match=matches[0]||{type:'distance'};
   const parcel=normalizeParcel(row.parcel),historical=anyPermitParcels.has(parcel),current=currentPermitParcels.has(parcel);
-  return `${matchBadge(match)} <span style="background:${current?'#166534':historical?'#a16207':'#475569'};color:white;padding:2px 5px;border-radius:4px">${current?'Current permit on parcel':historical?'Historical permit only':'No current permit record on parcel'}</span>`;
+  return `${matchBadge(match)} <span style="background:${current?'#166534':historical?'#a16207':'#475569'};color:white;padding:2px 5px;border-radius:4px">${current?'Current permit on parcel':historical?'expired permit':'No current permit record on parcel'}</span>`;
 }
 function clearCandidatePreview(force=false){if(matchPinned&&!force)return;clearTimeout(previewFitTimer);document.querySelectorAll('.preview-docked').forEach(el=>el.classList.remove('preview-docked'));sourceData('candidate-preview',collection([]));sourceData('candidate-connections',collection([]));}
 function previewCandidate(listing,row,fit=true){
@@ -497,7 +527,7 @@ function previewCandidate(listing,row,fit=true){
   const bounds=new maplibregl.LngLatBounds(listing.point,listing.point);bounds.extend(target);
   const visit=coords=>{if(typeof coords[0]==='number')bounds.extend(coords);else coords.forEach(visit);};if(row.geometry?.coordinates)visit(row.geometry.coordinates);
   if(!fit)return;
-  clearTimeout(previewFitTimer);previewFitTimer=setTimeout(()=>map.fitBounds(bounds,{padding:candidateViewPadding(),maxZoom:17,duration:250}),window.innerWidth>=1000?280:0);
+  clearTimeout(previewFitTimer);previewFitTimer=setTimeout(()=>map.fitBounds(bounds,{padding:candidateViewPadding(),maxZoom:map.getMaxZoom(),duration:250}),window.innerWidth>=1000?280:0);
 }
 function bindCandidatePreview(button,listing,row){button.onmouseenter=button.onfocus=()=>pinCandidate(listing,row);button.onmouseleave=()=>{};button.onblur=()=>{};}
 async function renderListingAssociations(listing,container){
@@ -609,22 +639,22 @@ async function reloadData() {
   [listings,permits,report]=await Promise.all(['listings','permits','build_report'].map(n=>getJSON(`data/${n}.json`)));
   if(report.spatial?.available)spatial=await getJSON('data/spatial.json');
   Reporting.invalidate();
-  if(parcelManifest?.available){licensedParcels=await getJSON('data/licensed_parcels.geojson');sourceData('parcels',licensedParcels);}
+  if(parcelManifest?.available){licensedParcels=await getJSON('data/licensed_parcels.geojson');permitParcels=await getJSON('data/permit_parcels.geojson');sourceData('parcels',licensedParcels);}
   sourceData('boundary',spatial.boundary||collection([]));
   popup?.remove();prepareData();update();Reporting.loadViewport(map);$('refresh').hidden=true;
 }
 function addSourcesAndLayers() {
   for(const id of ['listings','privacy','permit-points','coverage','addresses','connections','edge-buffer','edge-band','balance','surplus','deficit','nearby-parcels','candidate-preview','candidate-connections','name-matches'])map.addSource(id,{type:'geojson',data:collection([])});
   map.addSource('boundary',{type:'geojson',data:spatial.boundary||collection([])});
-  map.addSource('parcels',{type:'geojson',data:licensedParcels||collection([])});
+  map.addSource('parcels',{type:'geojson',data:permitParcels||collection([])});
   map.addLayer({id:'balance-fill',type:'fill',source:'balance',layout:{visibility:'none'},paint:{'fill-color':['interpolate',['linear'],['get','difference'],-20,'#15803d',0,'#f1f5f9',20,'#ef4444',100,'#991b1b'],'fill-opacity':.42}});
   map.addLayer({id:'balance-outline',type:'line',source:'balance',layout:{visibility:'none'},paint:{'line-color':'#475569','line-opacity':.3,'line-width':.5}});
   map.addLayer({id:'surplus-heatmap',type:'heatmap',source:'surplus',layout:{visibility:'none'},paint:{'heatmap-weight':['get','weight'],'heatmap-radius':['interpolate',['linear'],['zoom'],9,['*',['get','radius_scale'],4.5],11,['*',['get','radius_scale'],18],13,['*',['get','radius_scale'],72],15,['*',['get','radius_scale'],288],18,['*',['get','radius_scale'],2304]],'heatmap-intensity':1,'heatmap-opacity':.15,'heatmap-color':['interpolate',['linear'],['heatmap-density'],0,'rgba(255,255,255,0)',.02,'rgba(254,202,202,.7)',.08,'rgba(239,68,68,.85)',.22,'rgba(185,28,28,.92)',1,'rgba(127,29,29,.96)']}});
   map.addLayer({id:'deficit-heatmap',type:'heatmap',source:'deficit',layout:{visibility:'none'},paint:{'heatmap-weight':['get','weight'],'heatmap-radius':['interpolate',['linear'],['zoom'],9,['*',['get','radius_scale'],4.5],11,['*',['get','radius_scale'],18],13,['*',['get','radius_scale'],72],15,['*',['get','radius_scale'],288],18,['*',['get','radius_scale'],2304]],'heatmap-intensity':1,'heatmap-opacity':.15,'heatmap-color':['interpolate',['linear'],['heatmap-density'],0,'rgba(255,255,255,0)',.02,'rgba(237,247,237,.65)',.08,'rgba(205,232,205,.75)',.22,'rgba(151,201,151,.85)',1,'rgba(112,168,112,.9)']}});
   map.addLayer({id:'nearby-parcel-fill',type:'fill',source:'nearby-parcels',minzoom:15,paint:{'fill-color':'#94a3b8','fill-opacity':.025}});
   map.addLayer({id:'nearby-parcel-line',type:'line',source:'nearby-parcels',minzoom:15,paint:{'line-color':'#64748b','line-opacity':.65,'line-width':1}});
-  map.addLayer({id:'parcel-fill',type:'fill',source:'parcels',paint:{'fill-color':'#22c55e','fill-opacity':.42}});
-  map.addLayer({id:'parcel-line',type:'line',source:'parcels',paint:{'line-color':'#15803d','line-width':1.5}});
+  map.addLayer({id:'parcel-fill',type:'fill',source:'parcels',paint:{'fill-color':['match',['get','permit_status'],'expired','#facc15','revoked','#dc2626','suspended','#dc2626','#22c55e'],'fill-opacity':.42}});
+  map.addLayer({id:'parcel-line',type:'line',source:'parcels',paint:{'line-color':['match',['get','permit_status'],'expired','#eab308','revoked','#dc2626','suspended','#dc2626','#15803d'],'line-width':1.5}});
   map.addLayer({id:'coverage-fill',type:'fill',source:'coverage',paint:{'fill-color':'#4ade80','fill-opacity':.035}});
   map.addLayer({id:'coverage-line',type:'line',source:'coverage',paint:{'line-color':'#15803d','line-opacity':.35,'line-width':1}});
   map.addLayer({id:'privacy-fill',type:'fill',source:'privacy',paint:{'fill-color':'#3b82f6','fill-opacity':['case',['boolean',['get','selected'],false],.12,0]}});
@@ -692,7 +722,7 @@ async function init() {
   try {
     [listings,permits,report]=await Promise.all(['listings','permits','build_report'].map(n=>getJSON(`data/${n}.json`)));
     try{parcelManifest=await getJSON('data/parcels/manifest.json');}catch{parcelManifest={available:false};}
-    if(parcelManifest?.available)licensedParcels=await getJSON('data/licensed_parcels.geojson');
+    if(parcelManifest?.available){licensedParcels=await getJSON('data/licensed_parcels.geojson');permitParcels=await getJSON('data/permit_parcels.geojson');}
     if(report.spatial?.available)spatial=await getJSON('data/spatial.json');
     if(!spatial.available){for(const id of ['scopeOnly','likely','warningSymbols','difference','surplusHeatmap','heatRadius','heatIntensity']){$(id).checked=false;$(id).disabled=true;}}
     prepareData();

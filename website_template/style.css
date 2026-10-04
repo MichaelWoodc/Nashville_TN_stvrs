@@ -104,3 +104,16 @@ body.dark-mode .host-metric .host-cap-number{color:#fca5a5}
 #reportDialog.candidate-map-preview{position:fixed;margin:0;left:50%;right:auto;top:50%;bottom:auto;transform:translate(-50%,-50%);width:min(760px,calc(100vw - 32px));max-height:80vh;box-sizing:border-box;border:2px solid #000;transition:left 280ms ease,transform 280ms ease,width 280ms ease}body.dark-mode #reportDialog.candidate-map-preview{border-color:#fff}
 @media(min-width:1000px){.maplibregl-popup.map-card-centered.preview-docked{left:12px!important;transform:translate(0,-50%)!important}#reportDialog.candidate-map-preview.preview-docked{left:12px;transform:translate(0,-50%);width:380px}#reportDialog.candidate-map-preview.preview-docked::backdrop{background:transparent}}
 @media(prefers-reduced-motion:reduce){.maplibregl-popup.map-card-centered,#reportDialog.candidate-map-preview{transition:none}}
+
+/* Center map cards through layout so expanding details never transforms text. */
+.maplibregl-popup.map-card-centered{left:0!important;right:0!important;top:64px!important;bottom:var(--map-footer-height,120px)!important;width:auto!important;max-width:none!important;max-height:none!important;transform:none!important;transition:none;display:flex!important;flex-direction:row!important;align-items:center;justify-content:center;pointer-events:none;padding:10px 12px}
+.map-card-centered .maplibregl-popup-content{flex:0 1 380px;width:380px;max-width:100%;min-width:0;pointer-events:auto}
+@media(min-width:1000px){.maplibregl-popup.map-card-centered.preview-docked{left:0!important;transform:none!important;justify-content:flex-start}}
+
+/* Animate horizontal layout rather than transforming popup text. */
+@media(min-width:1000px){
+  .maplibregl-popup.map-card-centered{justify-content:flex-start}
+  .map-card-centered .maplibregl-popup-content{margin-left:calc((100% - 380px)/2);transition:margin-left 280ms ease}
+  .map-card-centered.preview-docked .maplibregl-popup-content{margin-left:0}
+}
+@media(prefers-reduced-motion:reduce){.map-card-centered .maplibregl-popup-content{transition:none}}

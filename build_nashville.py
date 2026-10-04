@@ -310,14 +310,18 @@ def build_parcels(root, output, permits):
     if not source:
         return {'available': False}
     active = {p['parcel'] for p in permits if p['status'] == 'current'}
-    signature = [2, source, hashlib.sha256('\n'.join(sorted(active)).encode()).hexdigest()]
+    parcel_states = defaultdict(set)
+    for permit in permits:
+        parcel_states[permit['parcel']].add(permit['status'])
+    display_status = {parcel: next((status for status in ('current', 'revoked', 'suspended', 'expired') if status in states), None) for parcel, states in parcel_states.items()}
+    signature = [3, source, hashlib.sha256(json.dumps(display_status, sort_keys=True).encode()).hexdigest()]
     manifest_path = output / 'data/parcels/manifest.json'
     if manifest_path.exists():
         existing = json.loads(manifest_path.read_text(encoding='utf-8'))
         if existing.get('signature') == signature:
             return existing
     print('Preparing parcel outlines and address tiles...', flush=True)
-    tiles, licensed = defaultdict(list), []
+    tiles, licensed, permitted = defaultdict(list), [], []
     parcel_count = 0
     for feature in iter_parcels(root):
         parcel_count += 1
@@ -331,11 +335,14 @@ def build_parcels(root, output, permits):
         item = {'type': 'Feature', 'geometry': geom, 'properties': {'parcel': parcel, 'address': p.get('PropAddr', ''), 'owner': p.get('Owner', ''), 'current_permit': parcel in active}}
         if parcel in active:
             licensed.append(item)
+        if display_status.get(parcel):
+            permitted.append({**item, 'properties': {**item['properties'], 'permit_status': display_status[parcel]}})
         key = f'{math.floor(coords[0]*100)}_{math.floor(coords[1]*100)}'
         tiles[key].append({'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': coords}, 'properties': item['properties']})
     for key, features in tiles.items():
         write_json(output / f'data/parcels/{key}.json', {'type': 'FeatureCollection', 'features': features})
     write_json(output / 'data/licensed_parcels.geojson', {'type': 'FeatureCollection', 'features': licensed})
+    write_json(output / 'data/permit_parcels.geojson', {'type': 'FeatureCollection', 'features': permitted})
     manifest = {'available': True, 'signature': signature, 'tiles': list(tiles), 'parcel_count': parcel_count, 'licensed_parcel_count': len(licensed)}
     write_json(manifest_path, manifest)
     return manifest

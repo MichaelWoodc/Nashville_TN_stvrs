@@ -18,7 +18,7 @@ with sync_playwright() as p:
     state=page.evaluate('''() => ({visible:nashville.visible.length,privacy:nashville.map.getSource('privacy')._data.features.length,parcels:nashville.map.getPaintProperty('parcel-fill','fill-color'),center:nashville.map.getCenter(),canvas:nashville.map.getCanvas().width})''')
     assert state['visible']>5000,state
     assert state['privacy']>2000,state
-    assert state['parcels']=='#22c55e',state
+    assert state['parcels']==['match',['get','permit_status'],'expired','#facc15','revoked','#dc2626','suspended','#dc2626','#22c55e'],state
     assert page.evaluate("nashville.map.getSource('coverage')._data.features.length") == 0
     assert page.locator('.advanced #coverage').count()==1
     assert page.evaluate("nashville.map.getSource('boundary')._data.features.length") == 1
